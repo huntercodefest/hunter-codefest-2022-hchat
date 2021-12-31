@@ -4,6 +4,8 @@ import (
 	"errors"
 	"fmt"
 	"net"
+	"strconv"
+	"strings"
 )
 
 // User struct
@@ -45,29 +47,43 @@ func ReadConnForNewMessage(user User) (message string) {
 				break
 			}
 		}
-		room_num, username, err := ProcessInput(input)
+		room_num, username, message, err := ProcessInput(input)
 		// placeholder
-		fmt.Println(room_num, username, err)
+		fmt.Println(room_num, username, message, err)
 	}
 	// placeholder
 	return
 }
 
 // func to process message
-func ProcessInput(input string) (room_number int, username string, err error) {
-	if input[0] != '#' {
-		return 0, "", errors.New("message must be prefixed with #")
+/*
+	Message Syntax:
+	#00000 - To indicate room
+	_username - To indicate user
+	:message - To indicate message
+	<----------------------------------------------->
+	The full syntax should look something like this:
+	#00000_username:message
+	#00000_username with no message can indicate entering and exiting chatroom
+*/
+func ProcessInput(input string) (room_number int, username string, message string, err error) {
+	// if input does not contain #, _, :
+	if input[0] != '#' || !strings.ContainsRune(input, '_') || !strings.ContainsRune(input, ':') {
+		return 0, "", "", errors.New("wrong format, please consult github readme")
+	}
+	inlen := len(input)
+	for i := 1; i < inlen; i++ {
+		if input[i] == '_' {
+			room_number, _ = strconv.Atoi(input[1:i])
+			for j := i; j < inlen; j++ {
+				if input[j] == ':' {
+					username = input[i+1 : j]
+					message = input[j:]
+					return
+				}
+			}
+		}
 	}
 	// placeholder
-	return
-	/*
-		Message Syntax:
-		#00000 - To indicate room
-		_username - To indicate user
-		:message - To indicate message
-		<----------------------------------------------->
-		The full syntax should look something like this:
-		#00000_username:message
-		#00000_username with no message can indicate entering and exiting chatroom
-	*/
+	return 0, "", "", errors.New("wrong format, please consult github readme")
 }
