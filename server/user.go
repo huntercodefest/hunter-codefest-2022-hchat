@@ -8,6 +8,11 @@ import (
 	"strings"
 )
 
+/*
+Warning:
+Please be careful when using Users to pass user pointer to avoid duplication
+*/
+
 // User struct
 // Contains username and connection object
 type User struct {
@@ -28,31 +33,31 @@ func ValidateUsername(username string) (valid bool) {
 	return
 }
 
-func ReadConnForNewMessage(user User) (message string) {
+func ReadSingleMessage(p_usr_conn *net.Conn) (input []byte, err error) {
+	// Buffer slice to contain sent message
+	msgbuf := make([]byte, _LEN)
+	_, err = (*p_usr_conn).Read(msgbuf)
+	if err != nil {
+		return nil, err
+	}
+	return msgbuf, nil
+}
+func ReadConnOnLoop(p_usr_conn *net.Conn) (err error) {
 	// infinite loop conditional
 	conn_failed := false
 	for !conn_failed {
-		// Buffer slice to contain sent message
-		msgbuf := make([]byte, _LEN)
-		_, err := user.user_con.Read(msgbuf)
+		msgbuf, err := ReadSingleMessage(p_usr_conn)
 		if err != nil {
 			conn_failed = true
+			break
+			// TODO change to remove user connection from room if read fails (check err type to not be message failed to read)
 		}
-		// Buffer requires processing due to extra 0 bits after message
-		var input string
-		for index, element := range msgbuf {
-			if element == 0 {
-				// slice grabbing all elements of array before index
-				input = string(msgbuf[:index])
-				break
-			}
-		}
-		room_num, username, message, err := ProcessInput(input)
+		room_num, username, message, err := ProcessInput(&msgbuf)
 		// placeholder
 		fmt.Println(room_num, username, message, err)
 	}
 	// placeholder
-	return
+	return err
 }
 
 // func to process message
@@ -66,7 +71,15 @@ func ReadConnForNewMessage(user User) (message string) {
 	#00000_username:message
 	#00000_username with no message can indicate entering and exiting chatroom
 */
-func ProcessInput(input string) (room_number int, username string, message string, err error) {
+func ProcessInput(msgbuf *[]byte) (room_number int, username string, message string, err error) {
+	var input string
+	// Buffer requires processing due to extra 0 bits after message
+	for index, element := range *msgbuf {
+		if element == 0 {
+			// slice grabbing all elements of array before index
+			input = string((*msgbuf)[:index])
+		}
+	}
 	// if input does not contain #, _, :
 	if input[0] != '#' || !strings.ContainsRune(input, '_') || !strings.ContainsRune(input, ':') {
 		return 0, "", "", errors.New("wrong format, please consult github readme")
