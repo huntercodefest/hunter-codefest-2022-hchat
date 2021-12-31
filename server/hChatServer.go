@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"net"
 )
 
@@ -35,9 +36,16 @@ func startServer() {
 }
 
 // Run as seperate Goroutine
-func processInitialConnection(conn net.Conn) {
+func processInitialConnection(conn net.Conn) (err error) {
 	// func first needs to process message
+	msgbuf, err := ReadSingleMessage(&conn)
+	if err != nil {
+		return err
+	}
+	room_num, username, _, err := ProcessInput(&msgbuf)
+	fmt.Println(room_num, username, err)
 	// then validate username and room connection
 	// then seperate user into appropriate room
 	// then open new goroutine to read for new incoming messages from user to distribute to room
+	return nil
 }
