@@ -1,5 +1,9 @@
 package main
 
+/*
+Warning:
+Please be careful when using Rooms to pass room pointer to avoid duplication
+*/
 // Room struct
 // Contains array of connections and helper information
 type Room struct {
@@ -16,7 +20,12 @@ func NewRoom(room_num int, room_capacity int, room_desc string, conn_users *[]Us
 }
 
 // TODO
-func AddUser(p_usr *User) (err error) {
+func AddUserToRoom(p_user *User, p_room *Room) (err error) {
+	return
+}
+
+// Search through array of users in room pointer
+func removeUserFromRoom(p_user *User, p_room *Room) (err error) {
 	return
 }
 
