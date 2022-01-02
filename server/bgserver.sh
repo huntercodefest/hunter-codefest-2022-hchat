@@ -4,7 +4,7 @@ SERVER_PATH="$HOME/go/hunter-codefest-2022-hchat/server/hChatServer.go"
 NGROK_PATH="$HOME/ngrok"
 PORT=8888
 if [[ -f "$SERVER_PATH" ]] && [[ -f "$NGROK_PATH" ]]; then
-	 nohup go run $HOME/$SERVER > /dev/null &
+	 nohup go run $SERVER_PATH > /dev/null &
 	 echo "SERVER: $!" > ps.txt
 	 nohup $NGROK_PATH tcp $PORT > /dev/null &
 	 echo "NGROK: $!" >> ps.txt 
