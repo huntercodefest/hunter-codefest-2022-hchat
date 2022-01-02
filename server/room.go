@@ -10,7 +10,7 @@ type Room struct {
 	room_num      int    // Descrpiption of room for server
 	room_desc     string // Description of room for client
 	room_capacity int
-	conn_users    *[]User // Dynamic array of User struct
+	conn_users    [](*User) // Dynamic array of User pointers
 
 }
 
@@ -20,7 +20,10 @@ func NewRoom(room_num int, room_capacity int, room_desc string, conn_users *[]Us
 }
 
 // TODO
+// When adding user to room create new goroutine to read for new incoming messages and send response back if new message is found
 func AddUserToRoom(p_user *User, p_room *Room) (err error) {
+	(*Room).conn_users.append()
+	go ReadConnOnLoop(&((*p_user).user_con))
 	return
 }
 

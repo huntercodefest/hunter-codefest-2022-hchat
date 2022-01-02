@@ -29,5 +29,5 @@ func NewUser(user_con net.Conn, username string) (*User, error) {
 // Function to guarantee correct username format should be done on client side
 // Server side validation will search through all connected clients and check none have the same username
 func ValidateUsername(username string, p_room_arr *[]Room) (valid bool) {
-	return
+	return true
 }
