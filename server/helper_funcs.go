@@ -52,11 +52,16 @@ func ReadConnOnLoop(p_usr_conn *net.Conn) (err error) {
 func ProcessInput(msgbuf *[]byte) (room_number int, username string, message string, err error) {
 	var input string
 	// Buffer requires processing due to extra 0 bits after message
+	foundBuffEnd := false
 	for index, element := range *msgbuf {
 		if element == 0 {
 			// slice grabbing all elements of array before index
 			input = string((*msgbuf)[:index])
+			foundBuffEnd = true
 		}
+	}
+	if !foundBuffEnd {
+		input = string(*msgbuf)
 	}
 	// if input does not contain #, _, :
 	if input[0] != '#' || !strings.ContainsRune(input, '_') || !strings.ContainsRune(input, ':') {
