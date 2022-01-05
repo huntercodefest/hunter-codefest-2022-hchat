@@ -4,6 +4,7 @@ import (
 	"errors"
 	"fmt"
 	"net"
+	"os"
 	"strconv"
 	"strings"
 )
@@ -101,4 +102,10 @@ func RespondWithString(p_user *User, message string) (err error) {
 
 func RespondWithErr(p_user *User, passed_err error) (err error) {
 	return RespondToClient(p_user, []byte(passed_err.Error()))
+}
+
+// For convienience sake only
+func ExitOnErr(err error) {
+	fmt.Println(err)
+	os.Exit(1)
 }
