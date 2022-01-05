@@ -28,10 +28,31 @@ func AddUserToRoom(p_user *User, p_room *Room) (err error) {
 }
 
 // Search through array of users in room pointer
-func removeUserFromRoom(p_user *User, p_room *Room) (err error) {
+func removeUserFromRoom(p_user *User, p_room *Room) {
+
 	return
+}
+
+/*
+DelRoom() function deletes memory at passed in pointer for room
+*/
+func DelRoom (room_num int, room_capacity int, room_desc string, conn_users *[]User) *Room {
 }
 
 // TODO
 // Rooms should be created and deleted if they contain users to prevent unneccessary bloat
 // Room number and room description for all rooms should be stored on git and updated periodically, then searched through when creating new rooms
+
+/*
+CheckRoomHasConnection() function checks the passed in room to see if the
+user slice contains any users.
+*/	
+
+func CheckRoomHasConnection(p_user *User, p_room *Room) {
+	if len((*Room).conn_users) >= 1 {
+		return true
+	}
+	else {
+		return false
+	}
+}
