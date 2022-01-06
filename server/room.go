@@ -36,7 +36,7 @@ func removeUserFromRoom(p_user *User, p_room *Room) {
 /*
 DelRoom() function deletes memory at passed in pointer for room
 */
-func DelRoom (room_num int, room_capacity int, room_desc string, conn_users *[]User) *Room {
+func DelRoom(room_num int, room_capacity int, room_desc string, conn_users *[]User) *Room {
 }
 
 // TODO
@@ -46,13 +46,8 @@ func DelRoom (room_num int, room_capacity int, room_desc string, conn_users *[]U
 /*
 CheckRoomHasConnection() function checks the passed in room to see if the
 user slice contains any users.
-*/	
+*/
 
-func CheckRoomHasConnection(p_user *User, p_room *Room) {
-	if len((*Room).conn_users) >= 1 {
-		return true
-	}
-	else {
-		return false
-	}
+func CheckRoomHasConnection(p_room *Room) bool {
+	return len((*p_room).conn_users) >= 1
 }
