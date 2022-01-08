@@ -13,15 +13,16 @@ Please be careful when using Users to pass user pointer to avoid duplication
 // User struct
 // Contains username and connection object
 type User struct {
-	user_con net.Conn
-	username string
+	user_con  net.Conn
+	username  string
+	user_room *Room
 }
 
 // Constructor
-func NewUser(user_con net.Conn, username string) (*User, error) {
+func NewUser(user_con net.Conn, username string, room *Room) (*User, error) {
 	// Placeholder
 	if ValidateUsername(username, nil) {
-		return &(User{user_con: user_con, username: username}), nil
+		return &(User{user_con: user_con, username: username, user_room: room}), nil
 	}
 	return nil, errors.New("error: failed username check")
 }
