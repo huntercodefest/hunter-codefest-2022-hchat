@@ -26,8 +26,20 @@ func NewUser(user_con net.Conn, username string) (*User, error) {
 	return nil, errors.New("error: failed username check")
 }
 
+func DelUser(user User) {
+	user = User{}
+}
+
 // Function to guarantee correct username format should be done on client side
-// Server side validation will search through all connected clients and check none have the same username
-func ValidateUsername(username string, p_room_arr *[]Room) (valid bool) {
+// Pass in target username and an array of all the rooms
+func ValidateUsername(username string, p_room_arr []Room) (valid bool) {
+	// Loops through connected Users & checks for duplicate username
+	for i := range p_room_arr {
+		for j := range p_room_arr[i].conn_users {
+			if username == p_room_arr[i].conn_users[j].username {
+				return false
+			}
+		}
+	}
 	return true
 }
