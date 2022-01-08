@@ -26,7 +26,7 @@ func AddUserToRoom(p_user *User, p_room *Room) (err error) {
 }
 
 // Search through array of users in room pointer
-func removeUserFromRoom(p_user *User, p_room *Room, room_map map[int]*Room) {
+func RemoveUserFromRoom(p_user *User, p_room *Room) {
 	var user_index int
 	conn_users := (*p_room).conn_users
 	for index, element := range conn_users {
@@ -56,4 +56,16 @@ func DelRoom(room_num int, room_map map[int]*Room) {
 
 func CheckRoomHasConnection(p_room *Room) bool {
 	return len((*p_room).conn_users) >= 1
+}
+
+func DistributeMessageToRoom(p_room *Room, message string) {
+	// loops through range of dereferenced room pointers user list
+	for _, user := range (*p_room).conn_users {
+		// attempts to send each user message
+		err := RespondWithString(user, message)
+		// if response fails passes user into remove user function
+		if err != nil {
+			RemoveUserFromRoom(user, p_room)
+		}
+	}
 }

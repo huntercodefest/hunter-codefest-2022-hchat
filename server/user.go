@@ -15,6 +15,7 @@ Please be careful when using Users to pass user pointer to avoid duplication
 type User struct {
 	user_conn net.Conn
 	username  string
+	p_room    *Room
 }
 
 // Constructor

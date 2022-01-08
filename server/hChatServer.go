@@ -10,12 +10,14 @@ const (
 	_LEN = 1024 // Max length of message
 )
 
+var room_map map[int]*Room
+
 func main() {
 	startServer()
 }
 
 func startServer() {
-	room_map := make(map[int]*Room)
+	room_map = make(map[int]*Room)
 	// Listen is server variable
 	server, err := net.Listen(TYPE, ":"+PORT)
 	// If server is not initialized correctly
@@ -30,12 +32,12 @@ func startServer() {
 			continue
 		}
 		// Seperates connection handle function from loop to allow main server to continue allowing new connections
-		go processInitialConnection(conn, room_map)
+		go processInitialConnection(conn)
 	}
 }
 
 // Run as seperate Goroutine
-func processInitialConnection(conn net.Conn, room_map map[int]*Room) (err error) {
+func processInitialConnection(conn net.Conn) (err error) {
 	// func first needs to process message
 	msgbuf, err := ReadSingleMessage(&conn)
 	if err != nil {

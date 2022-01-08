@@ -29,10 +29,13 @@ func ReadConnOnLoop(p_user *User) (err error) {
 		if err != nil {
 			conn_failed = true
 			break
-			// TODO change to remove user connection from room if read fails (check err type to not be message failed to read)
 		}
 		room_num, username, message, err := ProcessInput(msgbuf)
-
+		if err != nil {
+			conn_failed = true
+			break
+		}
+		DistributeMessageToRoom(room_map[room_num], username+":"+message)
 	}
 	// placeholder
 	return err
