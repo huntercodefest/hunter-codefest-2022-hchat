@@ -21,19 +21,22 @@ func ReadSingleMessage(p_usr_conn *net.Conn) (input []byte, err error) {
 }
 
 // function should run in gorutine on each new user to read its new messages
-func ReadConnOnLoop(p_usr_conn *net.Conn) (err error) {
+func ReadConnOnLoop(p_user *User) (err error) {
 	// infinite loop conditional
 	conn_failed := false
 	for !conn_failed {
-		msgbuf, err := ReadSingleMessage(p_usr_conn)
+		msgbuf, err := ReadSingleMessage(&(*p_user).user_con)
 		if err != nil {
 			conn_failed = true
 			break
 			// TODO change to remove user connection from room if read fails (check err type to not be message failed to read)
 		}
-		room_num, username, message, err := ProcessInput(msgbuf)
-		// placeholder
-		fmt.Println(room_num, username, message, err)
+		_, username, message, err := ProcessInput(msgbuf)
+		if err != nil {
+			RespondWithErr(p_user, err)
+		} else if message != "" {
+			DistributeMessageToRoom((*p_user).user_room, username+":"+message)
+		}
 	}
 	// placeholder
 	return err
