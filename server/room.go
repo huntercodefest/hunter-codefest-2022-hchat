@@ -20,10 +20,9 @@ func NewRoom(room_num int, room_capacity int, room_desc string, conn_users []Use
 
 // TODO
 // When adding user to room create new goroutine to read for new incoming messages and send response back if new message is found
-func AddUserToRoom(p_user *User, p_room *Room) (err error) {
+func AddUserToRoom(p_user *User, p_room *Room) {
 	(*p_room).conn_users = append((*p_room).conn_users, *p_user)
-	go ReadConnOnLoop(&((*p_user).user_con))
-	return
+	go ReadConnOnLoop(p_user)
 }
 
 // Search through array of users in room pointer
