@@ -21,19 +21,18 @@ func ReadSingleMessage(p_usr_conn *net.Conn) (input []byte, err error) {
 }
 
 // function should run in gorutine on each new user to read its new messages
-func ReadConnOnLoop(p_usr_conn *net.Conn) (err error) {
+func ReadConnOnLoop(p_user *User) (err error) {
 	// infinite loop conditional
 	conn_failed := false
 	for !conn_failed {
-		msgbuf, err := ReadSingleMessage(p_usr_conn)
+		msgbuf, err := ReadSingleMessage(&(*p_user).user_conn)
 		if err != nil {
 			conn_failed = true
 			break
 			// TODO change to remove user connection from room if read fails (check err type to not be message failed to read)
 		}
 		room_num, username, message, err := ProcessInput(msgbuf)
-		// placeholder
-		fmt.Println(room_num, username, message, err)
+
 	}
 	// placeholder
 	return err
@@ -48,7 +47,7 @@ func ReadConnOnLoop(p_usr_conn *net.Conn) (err error) {
 	<----------------------------------------------->
 	The full syntax should look something like this:
 	#00000_username:message
-	#00000_username with no message can indicate entering and exiting chatroom
+	#00000_username: with no message can indicate entering and exiting chatroom
 */
 func ProcessInput(msgbuf []byte) (room_number int, username string, message string, err error) {
 	var input string
@@ -91,7 +90,7 @@ func ProcessInput(msgbuf []byte) (room_number int, username string, message stri
 // Overarching response function called by primary use respond functions
 // Generally should not be used but is available in the case it is needed
 func RespondToClient(p_user *User, msgbuf []byte) (err error) {
-	conn := (*p_user).user_con
+	conn := (*p_user).user_conn
 	_, err = conn.Write(msgbuf)
 	return err
 }
