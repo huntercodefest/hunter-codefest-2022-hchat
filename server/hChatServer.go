@@ -42,7 +42,7 @@ func processInitialConnection(conn net.Conn) (err error) {
 	if err != nil {
 		return err
 	}
-	room_num, username, _, err := ProcessInput(&msgbuf)
+	room_num, username, _, err := ProcessInput(msgbuf)
 	fmt.Println(room_num, username, err)
 	// then validate username and room connection
 	// then seperate user into appropriate room
