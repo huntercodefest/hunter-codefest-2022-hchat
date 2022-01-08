@@ -23,6 +23,7 @@ func ReadSingleMessage(p_usr_conn *net.Conn) (input []byte, err error) {
 // function should run in gorutine on each new user to read its new messages
 func ReadConnOnLoop(p_user *User) (err error) {
 	// infinite loop conditional
+	fmt.Println("read conn on loop")
 	conn_failed := false
 	for !conn_failed {
 		msgbuf, err := ReadSingleMessage(&(*p_user).user_conn)
@@ -35,7 +36,9 @@ func ReadConnOnLoop(p_user *User) (err error) {
 			conn_failed = true
 			break
 		}
+		fmt.Println("distribute message to room hit")
 		DistributeMessageToRoom(room_map[room_num], username+":"+message)
+		fmt.Println("passed distribute message to room")
 	}
 	// placeholder
 	return err
@@ -93,6 +96,7 @@ func ProcessInput(msgbuf []byte) (room_number int, username string, message stri
 // Overarching response function called by primary use respond functions
 // Generally should not be used but is available in the case it is needed
 func RespondToClient(p_user *User, msgbuf []byte) (err error) {
+	fmt.Println("hit respond to client")
 	conn := (*p_user).user_conn
 	_, err = conn.Write(msgbuf)
 	return err

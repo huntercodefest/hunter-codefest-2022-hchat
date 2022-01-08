@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 /*
 Warning:
 Please be careful when using Rooms to pass room pointer to avoid duplication
@@ -20,6 +22,7 @@ func NewRoom(room_num int, conn_users []*User) *Room {
 // TODO
 // When adding user to room create new goroutine to read for new incoming messages and send response back if new message is found
 func AddUserToRoom(p_user *User, p_room *Room) (err error) {
+	fmt.Println("add user")
 	(*p_room).conn_users = append((*p_room).conn_users, p_user)
 	go ReadConnOnLoop(p_user)
 	return
@@ -59,8 +62,11 @@ func CheckRoomHasConnection(p_room *Room) bool {
 }
 
 func DistributeMessageToRoom(p_room *Room, message string) {
+	fmt.Println("attempting distribute")
+	fmt.Println("length of room: " + fmt.Sprint(len((*p_room).conn_users)))
 	// loops through range of dereferenced room pointers user list
 	for _, user := range (*p_room).conn_users {
+		fmt.Println("in distribute loop")
 		// attempts to send each user message
 		err := RespondWithString(user, message)
 		// if response fails passes user into remove user function
@@ -68,4 +74,5 @@ func DistributeMessageToRoom(p_room *Room, message string) {
 			RemoveUserFromRoom(user, p_room)
 		}
 	}
+	fmt.Println("passed distribute loop")
 }
