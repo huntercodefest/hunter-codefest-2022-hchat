@@ -29,14 +29,18 @@ func AddUserToRoom(p_user *User, p_room *Room) (err error) {
 
 // Search through array of users in room pointer
 func removeUserFromRoom(p_user *User, p_room *Room) {
-
-	return
+	i := &((*p_user).user_con) //assigning the position of the user that wants to be removed
+	p_room.conn_users = append(p_room.conn_users[:i], p_room.conn_users[i+1:]...)
+	hasUsers := CheckRoomHasConnection(p_room)
+	if hasUsers == false {
+		DelRoom()
+	}
 }
 
-/*
-DelRoom() function deletes memory at passed in pointer for room
-*/
+// DelRoom() function deletes memory at passed in pointer for room
 func DelRoom(room_num int, room_capacity int, room_desc string, conn_users *[]User) *Room {
+	// room := Room{room_num: room_num, room_capacity: room_capacity, room_desc: room_desc, conn_users: conn_users}
+	p.room = Room{}
 }
 
 // TODO
