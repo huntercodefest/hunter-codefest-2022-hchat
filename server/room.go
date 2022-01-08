@@ -35,3 +35,11 @@ func removeUserFromRoom(p_user *User, p_room *Room) (err error) {
 // TODO
 // Rooms should be created and deleted if they contain users to prevent unneccessary bloat
 // Room number and room description for all rooms should be stored on git and updated periodically, then searched through when creating new rooms
+func CreatRoom(room_num int, room_capacity int, room_desc string, conn_users *[]User) *Room {
+	return &Room{
+		room_num: make(int),
+		room_desc: make(string),
+		room_capacity: make(int),
+	 conn_users: make([]*(*User)),
+	}
+ }
