@@ -41,14 +41,14 @@ func RemoveUserFromRoom(p_user *User, p_room *Room) {
 	(*p_room).conn_users = append(conn_users[:user_index], conn_users[user_index+1:]...)
 	hasUsers := CheckRoomHasConnection(p_room)
 	if !hasUsers {
-		DelRoom((*p_room).room_num, room_map)
+		DelRoom((*p_room).room_num)
 	}
 }
 
-// DelRoom() function deletes memory at passed in pointer for room
-func DelRoom(room_num int, room_map map[int]*Room) {
-	// room := Room{room_num: room_num, room_capacity: room_capacity, room_desc: room_desc, conn_users: conn_users}
-	delete(room_map, room_num)
+// DelRoom() function deletes room from globally scoped map of rooms
+// Uses built in delete function to do so
+func DelRoom(room_num int) {
+	delete(ROOM_MAP, room_num)
 }
 
 // TODO
@@ -62,11 +62,8 @@ func CheckRoomHasConnection(p_room *Room) bool {
 }
 
 func DistributeMessageToRoom(p_room *Room, message string) {
-	fmt.Println("attempting distribute")
-	fmt.Println("length of room: " + fmt.Sprint(len((*p_room).conn_users)))
 	// loops through range of dereferenced room pointers user list
 	for _, user := range (*p_room).conn_users {
-		fmt.Println("in distribute loop")
 		// attempts to send each user message
 		err := RespondWithString(user, message)
 		// if response fails passes user into remove user function
@@ -74,5 +71,4 @@ func DistributeMessageToRoom(p_room *Room, message string) {
 			RemoveUserFromRoom(user, p_room)
 		}
 	}
-	fmt.Println("passed distribute loop")
 }

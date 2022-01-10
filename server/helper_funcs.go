@@ -22,26 +22,22 @@ func ReadSingleMessage(p_usr_conn *net.Conn) (input []byte, err error) {
 
 // function should run in gorutine on each new user to read its new messages
 func ReadConnOnLoop(p_user *User) (err error) {
-	// infinite loop conditional
-	fmt.Println("read conn on loop")
-	conn_failed := false
-	for !conn_failed {
+	// Send connection message
+	RespondWithString(p_user, "Succesfully connected to room\n")
+	// infinite read loop
+	for {
 		msgbuf, err := ReadSingleMessage(&(*p_user).user_conn)
 		if err != nil {
-			conn_failed = true
-			break
+			return err
 		}
 		room_num, username, message, err := ProcessInput(msgbuf)
 		if err != nil {
-			conn_failed = true
-			break
+			return err
 		}
 		fmt.Println("distribute message to room hit")
-		DistributeMessageToRoom(room_map[room_num], username+":"+message)
+		DistributeMessageToRoom(ROOM_MAP[room_num], username+":"+message)
 		fmt.Println("passed distribute message to room")
 	}
-	// placeholder
-	return err
 }
 
 // func to process message format

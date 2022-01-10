@@ -11,14 +11,15 @@ const (
 	_LEN = 1024 // Max length of message
 )
 
-var room_map map[int]*Room
+// Global scope map from room number to room
+var ROOM_MAP map[int]*Room
 
 func main() {
 	startServer()
 }
 
 func startServer() {
-	room_map = make(map[int]*Room)
+	ROOM_MAP = make(map[int]*Room)
 	// Listen is server variable
 	server, err := net.Listen(TYPE, ":"+PORT)
 	fmt.Println("Listening on port " + PORT)
@@ -56,17 +57,17 @@ func processInitialConnection(conn net.Conn) (err error) {
 	}
 	// Validate username and room existence
 	fmt.Println("created new user")
-	p_user, err := NewUser(conn, username, room_map)
+	p_user, err := NewUser(conn, username, ROOM_MAP)
 	if err != nil {
-		RespondWithErr(p_user, err)
+		conn.Write([]byte(err.Error()))
 		return
 	}
-	if _, ok := room_map[room_num]; !ok {
-		room_map[room_num] = NewRoom(room_num, make([]*User, 0))
+	if _, ok := ROOM_MAP[room_num]; !ok {
+		ROOM_MAP[room_num] = NewRoom(room_num, make([]*User, 0))
 		fmt.Println("created a new room at " + fmt.Sprint(room_num))
 	}
 	fmt.Println("hit add user")
-	AddUserToRoom(p_user, room_map[room_num])
+	AddUserToRoom(p_user, ROOM_MAP[room_num])
 	fmt.Println("passed add user")
 	//  seperate user into appropriate room
 	return nil
