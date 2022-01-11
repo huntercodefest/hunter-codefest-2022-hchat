@@ -19,26 +19,6 @@ var upgrader = websocket.Upgrader{
 	WriteBufferSize: _LEN,
 }
 
-func reader(conn *websocket.Conn) {
-	// TODO
-	// Find out if ReadMessage and WriteMessage are interchangable with Read and Write
-
-	// If theres no function to write to either use switch to check if type is of websocket or of tcp connection
-	// After that forget about this function entirely and adapt to processRoutine function
-	for {
-		messageType, p, err := conn.ReadMessage()
-		if err != nil {
-			log.Println(err)
-			return
-		}
-		log.Println(string(p))
-		if err := conn.WriteMessage(messageType, p); err != nil {
-			log.Println(err)
-			return
-		}
-	}
-}
-
 func homePage(w http.ResponseWriter, r *http.Request) {
 	fmt.Fprintf(w, "Home page")
 }
@@ -52,7 +32,7 @@ func wsEndpoint(w http.ResponseWriter, r *http.Request) {
 	}
 
 	log.Println("Client succesfully connected...")
-	reader(ws)
+	processWSConn(ws)
 
 }
 
@@ -61,4 +41,34 @@ func setupHTTPRoutes() {
 	http.HandleFunc("/", homePage)
 	http.HandleFunc("/ws", wsEndpoint)
 	log.Fatal(http.ListenAndServe(":8080", nil))
+}
+
+func processWSConn(conn *websocket.Conn) error {
+	// 	// func first needs to process message
+	log.Println("WS: client connected: " + (*conn).RemoteAddr().String())
+	msgbuf, err := ReadWSMessage(conn)
+	if err != nil {
+		return err
+	}
+	room_num, username, _, err := ProcessInput(msgbuf)
+	if err != nil {
+		(*conn).WriteMessage(websocket.TextMessage, []byte(err.Error()))
+		return err
+	}
+	// Validate username and room existence
+	p_user, err := NewUser(nil, conn, username, ROOM_MAP)
+	if err != nil {
+		(*conn).WriteMessage(websocket.TextMessage, []byte(err.Error()))
+		return err
+	}
+	if _, ok := ROOM_MAP[room_num]; !ok {
+		ROOM_MAP[room_num] = NewRoom(room_num, make([]*User, 0))
+		fmt.Println("created a new room at " + fmt.Sprint(room_num))
+	}
+	fmt.Println("hit add user")
+	AddUserToRoom(p_user, ROOM_MAP[room_num])
+	fmt.Println("passed add user")
+	//  seperate user into appropriate room
+	return nil
+
 }
