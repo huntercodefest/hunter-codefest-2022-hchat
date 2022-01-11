@@ -8,11 +8,28 @@
     <link rel="stylesheet" href="index.css">
 </head>
 <body>
-    <header id="header"></header>
-    <div id="sidebar"></div>
-    <main id="main">
-        <div id="chat-display"></div>
-        <input type="text" name="" id="text-box">
-    </main>
+
+    <!-- Sample WS connection with vanilla JS -->
+    <script>
+        let socket = new WebSocket("ws://localhost:8080/ws");
+        console.log("Attempting WebSocket Connection");
+
+        socket.onopen = () =>{
+            console.log("Succesfully connected");
+            socket.send("Hello from the client!");
+        }
+        socket.onclose = (event) => {
+            console.log("socket closed connection: ", event);
+        }
+
+        socket.onerror = (error) => {
+            console.log("Socket error: ", error);
+        }
+
+        socket.onmessage = (msg) =>{
+            console.log(msg);
+        }
+    </script>
+
 </body>
 </html>
