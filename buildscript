@@ -1,0 +1,3 @@
+#!/bin/bash
+
+go build server/hChatServer.go server/helper_funcs.go server/room.go server/user.go server/websocket_server.go
