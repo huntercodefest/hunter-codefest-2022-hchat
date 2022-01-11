@@ -13,7 +13,7 @@ import (
 // Basic read from connection functionality
 func ReadTCPMessage(p_usr_conn *net.Conn) ([]byte, error) {
 	// Buffer slice to contain sent message
-	msgbuf := make([]byte, _LEN)
+	msgbuf := make([]byte, MSG_LEN)
 	_, err := (*p_usr_conn).Read(msgbuf)
 	return msgbuf, err
 }
