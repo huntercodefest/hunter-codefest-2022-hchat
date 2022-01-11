@@ -2,10 +2,9 @@ package main
 
 import "fmt"
 
-/*
-Warning:
-Please be careful when using Rooms to pass room pointer to avoid duplication
-*/
+// Global scope room map
+var ROOM_MAP map[int]*Room
+
 // Room struct
 // Contains array of connections and helper information
 type Room struct {
