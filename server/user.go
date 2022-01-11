@@ -3,6 +3,8 @@ package main
 import (
 	"errors"
 	"net"
+
+	"github.com/gorilla/websocket"
 )
 
 /*
@@ -18,16 +20,19 @@ Please be careful when using Users to pass user pointer to avoid duplication
 // Add nils to correct spot in all new users of type
 // Add conditional statement in write functions
 // Or potentially create a user interface with tcpuser and wsuser structs
+
 type User struct {
-	user_conn *net.Conn
-	username  string
+	tcp_conn *net.Conn
+	ws_conn  *websocket.Conn
+	username string
 }
 
 // Constructor
-func NewUser(user_conn *net.Conn, username string, allrooms map[int]*Room) (*User, error) {
-	// Placeholder
+// Passes in both TCP connection and Websocket connection
+// One is initialized as nil to determine if connected user is tcp or ws client
+func NewUser(tcp_conn *net.Conn, ws_conn *websocket.Conn, username string, allrooms map[int]*Room) (*User, error) {
 	if ValidateUsername(username, allrooms) {
-		return &(User{user_conn: user_conn, username: username}), nil
+		return &(User{tcp_conn: tcp_conn, ws_conn: ws_conn, username: username}), nil
 	}
 	return nil, errors.New("error: failed username check")
 }
