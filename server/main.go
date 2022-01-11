@@ -5,6 +5,12 @@ import (
 	"sync"
 )
 
+const (
+	HTTP_PORT = "8080"
+	TCP_PORT  = "5555"
+	MSG_LEN   = 1024
+)
+
 // Main function
 func main() {
 	// Make globally scoped ROOM_MAP variable
@@ -15,7 +21,6 @@ func main() {
 	var wg sync.WaitGroup
 	wg.Add(2)
 	// TCP server code
-	fmt.Println("different")
 	go func() {
 		startServer()
 		fmt.Println("TCP SERVER FIN")
