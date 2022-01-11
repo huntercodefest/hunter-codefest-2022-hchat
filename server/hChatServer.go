@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"net"
+	"sync"
 )
 
 const (
@@ -15,7 +16,24 @@ const (
 var ROOM_MAP map[int]*Room
 
 func main() {
-	startServer()
+	// start tcp server and ws server as seperate goroutines
+	// Use wait group to keep program running
+	var wg sync.WaitGroup
+	wg.Add(2)
+	// Websocket server code
+	go func() {
+		setupRoutes()
+		fmt.Println("WS SERVER FIN")
+		wg.Done()
+	}()
+	// TCP server code
+	go func() {
+		startServer()
+		fmt.Println("TCP SERVER FIN")
+		wg.Done()
+	}()
+	// servers should not hit this spot unless something goes wrong
+	wg.Wait()
 }
 
 func startServer() {
