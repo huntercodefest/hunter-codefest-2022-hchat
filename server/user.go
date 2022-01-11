@@ -12,14 +12,19 @@ Please be careful when using Users to pass user pointer to avoid duplication
 
 // User struct
 // Contains username and connection object
+
+// TODO
+// Add websocket.conn
+// Add nils to correct spot in all new users of type
+// Add conditional statement in write functions
+// Or potentially create a user interface with tcpuser and wsuser structs
 type User struct {
-	user_conn net.Conn
+	user_conn *net.Conn
 	username  string
-	p_room    *Room
 }
 
 // Constructor
-func NewUser(user_conn net.Conn, username string, allrooms map[int]*Room) (*User, error) {
+func NewUser(user_conn *net.Conn, username string, allrooms map[int]*Room) (*User, error) {
 	// Placeholder
 	if ValidateUsername(username, allrooms) {
 		return &(User{user_conn: user_conn, username: username}), nil
