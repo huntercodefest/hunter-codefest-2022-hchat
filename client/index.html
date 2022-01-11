@@ -16,7 +16,8 @@
 
         socket.onopen = () =>{
             console.log("Succesfully connected");
-            socket.send("Hello from the client!");
+            socket.send("#1_Da:");
+            socket.send("#1_Da:hell")
         }
         socket.onclose = (event) => {
             console.log("socket closed connection: ", event);
