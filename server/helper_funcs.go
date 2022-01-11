@@ -26,7 +26,7 @@ func ReadConnOnLoop(p_user *User) (err error) {
 	RespondWithString(p_user, "Succesfully connected to room\n")
 	// infinite read loop
 	for {
-		msgbuf, err := ReadSingleMessage(&(*p_user).user_conn)
+		msgbuf, err := ReadSingleMessage((*p_user).user_conn)
 		if err != nil {
 			return err
 		}
@@ -94,7 +94,7 @@ func ProcessInput(msgbuf []byte) (room_number int, username string, message stri
 func RespondToClient(p_user *User, msgbuf []byte) (err error) {
 	fmt.Println("hit respond to client")
 	conn := (*p_user).user_conn
-	_, err = conn.Write(msgbuf)
+	_, err = (*conn).Write(msgbuf)
 	return err
 }
 
