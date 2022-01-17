@@ -1,0 +1,12 @@
+.msginput {
+    width: 60%;
+    height: 20%;
+    border: 1px solid black;
+    color: black;
+    text-align: center;
+    margin: auto;
+}
+
+.chatblock {
+    margin: 5px auto;
+}
