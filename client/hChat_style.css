@@ -1,0 +1,110 @@
+*{box-sizing: border-box;}
+
+.hamburgerMenu{
+    background-color: #4C0099;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 26px;
+    width: 30px;
+    display: inline-block; 
+}
+
+.tabTitle{
+    background-color: #60C;
+    color: #fff;
+    position: fixed;
+    top: 0px;
+    left: 30px;
+    height: 26px;
+    width: 370px;
+    display: inline-block;
+}
+
+.searchBar{
+    background-color: #CCC;
+    position: fixed;
+    top: 26px;
+    left: 0px;
+    height: 34px;
+    width: 400px;
+    display: inline-block;
+}
+
+input[type=text]{
+    width: 80%;
+    border: solid black 1px;
+    margin: 5px 5px;
+    display: inline-block;
+    font-size: 14px;
+  }
+
+textarea[type=text]{
+    width: 90%;
+    border: solid black 1px;
+    margin: 5px 5px;
+    display: inline-block;
+    font-size: 16px;
+    font-family: "MS Shell Dlg 2", sans-serif;
+  }
+
+  input[type=submit] {
+    background-color: #6600CC;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+  }
+
+  .roomsFound{
+    background-color: #ccc;
+    position: fixed;
+    top: 60px;
+    left: 0px;
+    height: 20px;
+    width: 400px;
+    display: inline-block;
+}
+
+.roomsList{
+    border: solid black 1px;
+    position: absolute;
+    top: 80px;
+    left: 0px;
+    height: 100%;
+    width: 400px;
+    display: inline-block;
+    overflow: auto;
+    word-wrap: break-word;
+}
+
+.roomTitle{
+    background-color: #6600CC;
+    color: #fff;
+    position: fixed;
+    top: 0px;
+    left: 400px;
+    height: 26px;
+    width: 1200px;
+    display: inline-block;
+}
+
+.chatMessages{
+    border: solid black 1px;
+    position: fixed;
+    top: 26px;
+    left: 400px;
+    height: 864px;
+    width: 1200px;
+    display: inline-block;
+}
+
+.chatInput{
+    background-color: #ccc;
+    position: fixed;
+    bottom: 0px;
+    left: 400px;
+    height: 96px;
+    width: 1200px;
+    display: inline;
+}
