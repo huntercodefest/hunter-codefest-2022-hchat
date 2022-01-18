@@ -1,0 +1,2 @@
+npm i -D electron electron-is-dev concurrently wait-on
+npm run dev
