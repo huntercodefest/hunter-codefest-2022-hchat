@@ -1,6 +1,6 @@
-import React from "react"
+import React from "react";
 import ChatBlock from "./ChatBlock";
-import classes from "../app.module.css"
+import classes from "../app.module.css";
 
 class MsgForm extends React.Component {
 	constructor() {
@@ -14,31 +14,31 @@ class MsgForm extends React.Component {
 	handleSubmit = (event) => {
 		// Function called when user submits msg
 		event.preventDefault(); // Stops browser from refreshing, which is the default for these events
-        const text = this.state.value
+		const text = this.state.value;
 		console.log(text);
 		if (this.validateMessage(text)) {
-             // Creates a ChatBlock for the inputed message
-            new ChatBlock("UserTest", text);
+			// Creates a ChatBlock for the inputed message
+			ChatBlock("UserTest", text);
 			// Clears the input value
-            this.state = {
-                value: "",
-            }
-		} 
+			this.setState({
+				value: "",
+			});
+		}
 	};
 
 	handleChange = (event) => {
 		// Function called whenever <input> value is changed
-        console.log(event.target.value)
+		console.log(event.target.value);
 		this.setState({
-            value: event.target.value
-        })
+			value: event.target.value,
+		});
 	};
 
-    validateMessage(text){
-        // placeholder
-        return text.length > 0
-    }
-    // Message form JSX
+	validateMessage(text) {
+		// placeholder
+		return text.length > 0;
+	}
+	// Message form JSX
 	render() {
 		return (
 			<div className={classes.chatBlock}>
@@ -55,4 +55,4 @@ class MsgForm extends React.Component {
 	}
 }
 
-export default MsgForm
+export default MsgForm;
