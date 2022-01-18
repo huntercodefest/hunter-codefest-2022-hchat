@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import UsernameInput from "./components/UsernameInput.js"
 import classes from "./app.module.css";
 
 import { useState } from "react";
@@ -51,7 +52,7 @@ function Msgform() {
 
 		const text = value.trim(); // Removes whitespaces
 
-		ChatFeed("UserTest", text);
+		ChatBlock("UserTest", text); // Creates a ChatBlock
 
 		if (text.length > 0) {
 			setValue("");
@@ -84,55 +85,6 @@ function Msgform() {
 ...
 */
 // attempt connection to server
-function ValidateUsername(username) {
-	// placeholder
-	return username !== "";
-}
-
-function UsernameInput() {
-    const [value, setValue] = useState(''); // value is equal to whatever the user inputs; see handleChange()
-    const [modalIsOpen, setModalIsOpen] = useState('true')
-
-    const handleSubmit = (event) => {
-		// Function called when user submits msg
-		event.preventDefault(); // Stops browser from refreshing, which is the default for these events
-		console.log(value);
-		const text = value.trim(); // Removes whitespaces
-
-		// Clears the input value
-		if (text.length > 0) {
-			setValue("");
-		}
-	};
-
-	const handleChange = (event) => {
-		// Function called whenever <input> value is changed
-		setValue(event.target.value);
-	};
-
-	const Modal = () => {
-		return (
-			<div className={classes.backdrop}>
-				<div className={classes.modal}>
-					<h2>Enter Username</h2>
-					<input
-						type="text"
-						placeholder="Enter Username..."
-						onSubmit={handleSubmit}
-                        onChange={handleChange}
-						value={value}
-					/>
-				</div>
-			</div>
-		);
-	};
-
-	return (
-    <div>
-     { modalIsOpen ? <Modal /> : null}   
-    </div>
-    );
-}
 
 // function Modal(props) {
 
@@ -178,7 +130,7 @@ function UsernameInput() {
 
 function name() {}
 
-function ChatFeed(props) {
+function ChatBlock(props) {
 	const { userName, messages } = props;
 
 	const renderMessages = () => {
@@ -186,12 +138,12 @@ function ChatFeed(props) {
 
 		return (
 			<div className="messageBlock" style={{ width: "100%" }}>
-				{userName}: {messages}
+				<p>{userName}: {messages}</p>
 			</div>
 		);
 	};
 
-	return <div>{renderMessages}</div>;
+	return {renderMessages};
 }
 
 ReactDOM.render(<App />, document.getElementById("root"));
