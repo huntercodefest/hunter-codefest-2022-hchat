@@ -36,6 +36,8 @@ App
                 modifies value of search prop
             handleBackClick() -> (onClick from BackButton)
                 updates state to contain previous list
+                (list obj contains current list and last list of same object type)
+                (set list obj to last list and last list to last lists last list)
                 (doing so updates everything else since it all relies
                 on props from state)
             state ->
