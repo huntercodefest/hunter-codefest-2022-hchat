@@ -71,7 +71,7 @@ input[type=submit] {
 textarea[type=text]{
     width: 90%;
     border: solid black 1px;
-    margin: 5px 5px;
+    margin: 0 5px 0 0;
     display: inline-block;
     font-size: 16px;
     font-family: "MS Shell Dlg 2", sans-serif;
@@ -97,6 +97,11 @@ button{
     display: inline-block;
 }
 
+.roomsList{
+    padding: 4px;
+    overflow-y: auto;
+}
+
 .stack4 {
     height: 88%;
 }
@@ -116,22 +121,24 @@ button{
 }
 
 .stack6 {
-    height:81.5%;
+    height:84%;
     /* border: solid goldenrod; */
 }
 
 .chatMessages{
-    border: solid black 1px;
+    border-left: solid black 1px;
     height: 100%;
     width: 100%;
     display: inline-block;
     word-wrap: normal;
+    padding: 4px;
+    overflow-y: auto;
 }
 
 .stack7 {
     display: flex;
     /* border: solid indianred; */
-    height:15%;
+    height:12.5%;
 }
 
 .chatInput{
