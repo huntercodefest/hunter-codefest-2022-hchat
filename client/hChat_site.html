@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <script src="https://kit.fontawesome.com/db9e80f25b.js" crossorigin="anonymous"></script>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,19 +9,38 @@
     <link rel="stylesheet" href="hChat_style.css" type="text/css">
 </head>
 <body>
-    <span class = "hamburgerMenu"></span>
-    <span class = "tabTitle">Computer Science (CSMC)</span>
-    <span class = "searchBar">
-        <input type="text" id="searchItem" name="searchRoom" placeholder="Search for a room...">
-        <input type="submit" value="Search">
-    </span>
-    <span class = "roomsFound">177 CSMC rooms found</span>
-    <span class = "roomsList">Rooms List </span>
-    <span class = "roomTitle">47901: Discrete Structures</span>
-    <span class = "chatMessages">Chat messages</span>
-    <span class = "chatInput">
-        <textarea type="text" id="textItem" name="chatMessage" placeholder="Send a message in Room 47901: Discrete Structures..." style="height: 76px;"></textarea>
-        <input type="submit" value="Send" style="height: 76px; width: 76px; font-size: 24px;">
-    </span>
+    <div class="container">
+        <div class="leftside">
+        <div class="stack1">
+            <span class = "backButton"><i class="fas fa-chevron-left"></i></span>
+            <span class = "tabTitle">Computer Science (CSMC)</span>
+        </div>
+        <div class="stack2">
+            <span class = "searchBar">
+                <input type="text" id="searchItem" name="searchRoom" placeholder="Search for a room...">
+            </span> 
+        </div>
+        <div class="stack3">
+            <span class = "roomsFound">177 CSMC rooms found</span>
+        </div>
+        <div class="stack4">
+            <span class = "roomsList">Rooms List </span>
+        </div>
+        </div>
+        <div class="rightside">
+         <div class="stack5">
+            <span class = "roomTitle">47901: Discrete Structures</span>
+         </div>
+         <div class="stack6">
+            <span class = "chatMessages">Chat messages</span>
+         </div>
+         <div class="stack7">
+            <span class = "chatInput">
+                <textarea type="text" id="textItem" name="chatMessage" placeholder="Send a message in Room 47901: Discrete Structures..." style="height: 76px; width: 100%; resize: none;"></textarea>
+                <button style="height: 76px; width: 76px; font-size: 24px;"><i class="fas fa-paper-plane"></i></button>
+            </span>
+         </div>
+        </div>
+    </div>
 </body>
 </html>

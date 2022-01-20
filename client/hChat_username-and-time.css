@@ -1,0 +1,15 @@
+.username{
+  font-weight: 500;
+  font-size: 14px;  
+}
+
+.time{
+    font-weight: 500;  
+    font-size: 12px;
+    font-style: italic;
+    color: #666;
+  }
+
+.message{
+    margin: 0 0 12px 0;
+}
