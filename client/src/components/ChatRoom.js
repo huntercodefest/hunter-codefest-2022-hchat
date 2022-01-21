@@ -8,7 +8,7 @@ class ChatRoom extends React.Component {
 		return (
 			<div className={classes.chatroom}>
 				<p>Chatroom starts here</p>
-				<span>{this.props.room_Desc}</span>
+				<span>{this.props.room_desc}</span>
 				<div>{this.props.messages}</div>
 			</div>
 		);

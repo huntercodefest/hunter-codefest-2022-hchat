@@ -30,9 +30,7 @@ class ChatComponent extends React.Component {
 	}
 	sendToServer(msg) {
 		if (this.validateMessage(msg)) {
-			const p = this.processMessage(msg);
-			console.log(p);
-			this.ws.send(p);
+			this.ws.send(this.processMessage(msg));
 		}
 	}
 	receiveFromServer(rcv_msg) {
@@ -87,10 +85,8 @@ class ChatComponent extends React.Component {
 		this.ws = new WebSocket("ws://hchat.hopto.org:8080/ws");
 		this.connectToServer();
 	}
-	componentDidMount() {
-		this.attemptConnection();
-	}
 	render() {
+		this.attemptConnection();
 		return (
 			<div>
 				<ChatRoom
