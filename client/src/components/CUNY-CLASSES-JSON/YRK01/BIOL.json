@@ -1,0 +1,308 @@
+[
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15348",
+        "room_desc": "Anat & Phys 2 - Lab"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15349",
+        "room_desc": "Anatomy and Physiology I"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15350",
+        "room_desc": "Anatomy and Physiology I - Lab"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15351",
+        "room_desc": "Anatomy and Physiology II"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15352",
+        "room_desc": "Animal Behavior"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15353",
+        "room_desc": "Biochemistry"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15354",
+        "room_desc": "Biological Principles I"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15355",
+        "room_desc": "Biological Principles I - Lab"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15356",
+        "room_desc": "Biological Principles II"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15357",
+        "room_desc": "Biology of Brain & Behavior"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15358",
+        "room_desc": "Biology of Plants"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15359",
+        "room_desc": "Biology of the Chordates"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15360",
+        "room_desc": "Biostatistics"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15361",
+        "room_desc": "Biotech & Biopharm"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15362",
+        "room_desc": "Biotech&Biopharm Lab"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15363",
+        "room_desc": "Cell Biology"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15364",
+        "room_desc": "Clinical Microbiology"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15365",
+        "room_desc": "Clinical Microbiology - Lab"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15366",
+        "room_desc": "Comparative Physiology"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15367",
+        "room_desc": "Conservation Biology"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15368",
+        "room_desc": "Developmental Biology"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15369",
+        "room_desc": "Ecology"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15370",
+        "room_desc": "Environmental Biology"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15371",
+        "room_desc": "Evolution"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15372",
+        "room_desc": "Exp Biochem & Mole"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15373",
+        "room_desc": "First-Year Seminar in Biology"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15374",
+        "room_desc": "Genetics"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15375",
+        "room_desc": "Genetics - Lab"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15376",
+        "room_desc": "Histology"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15377",
+        "room_desc": "Histology - Lab"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15378",
+        "room_desc": "Human Biology"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15379",
+        "room_desc": "Human Struct&Fun-Lab"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15380",
+        "room_desc": "Human Structure and Function"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15381",
+        "room_desc": "Immunology"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15382",
+        "room_desc": "Immunology - Lab"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15383",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15384",
+        "room_desc": "Invertebrate Biology"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15385",
+        "room_desc": "Laboratory in Neurobiology"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15386",
+        "room_desc": "Microbiology"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15387",
+        "room_desc": "Microbiology - Lab"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15388",
+        "room_desc": "Molecular B&Bt Lab"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15389",
+        "room_desc": "Molecular Bio&Biotch"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15390",
+        "room_desc": "Neurobiology"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15391",
+        "room_desc": "Nutrition"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15392",
+        "room_desc": "Pathophysiology"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15393",
+        "room_desc": "Physiology of Plants"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15394",
+        "room_desc": "Principles II - Lab"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15395",
+        "room_desc": "Principles of Inheritance"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15396",
+        "room_desc": "Special Topics in Biology"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15397",
+        "room_desc": "The Biology of Aging"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "15398",
+        "room_desc": "Thry & Experiment Biotechno"
+    }
+]

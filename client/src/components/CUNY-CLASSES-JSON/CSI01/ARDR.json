@@ -1,0 +1,386 @@
+[
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83166",
+        "room_desc": "20 Cent Span Theatre"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83167",
+        "room_desc": "Acting I"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83168",
+        "room_desc": "Acting II"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83169",
+        "room_desc": "Acting III"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83170",
+        "room_desc": "Acting IV"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83171",
+        "room_desc": "Adv Voice/Diction"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83172",
+        "room_desc": "Advanced Movement"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83173",
+        "room_desc": "African American Drama"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83174",
+        "room_desc": "Afro-Amer Musical Theater"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83175",
+        "room_desc": "Amer Music Theatre"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83176",
+        "room_desc": "American Drama"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83177",
+        "room_desc": "Classical French Drama"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83178",
+        "room_desc": "Comic Theatre"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83179",
+        "room_desc": "Contemporary Drama"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83180",
+        "room_desc": "Design History"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83181",
+        "room_desc": "Design Seminar"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83182",
+        "room_desc": "Design for the Theater"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83183",
+        "room_desc": "Directing"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83184",
+        "room_desc": "Directing II"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83185",
+        "room_desc": "Directing Seminar"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83186",
+        "room_desc": "Drama Grad Credit"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83187",
+        "room_desc": "Drama Graduate Credit"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83188",
+        "room_desc": "Drama Ind Study"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83189",
+        "room_desc": "Drama Independent Study"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83190",
+        "room_desc": "Drama Internship"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83191",
+        "room_desc": "Drama in the Schools"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83192",
+        "room_desc": "English Drama to 1800"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83193",
+        "room_desc": "Fusions: Thea & ID in XXI Cent"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83194",
+        "room_desc": "Intro to Stage Management"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83195",
+        "room_desc": "Introduction to Theatre"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83196",
+        "room_desc": "Junior Project"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83197",
+        "room_desc": "Lighting Design"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83198",
+        "room_desc": "Media Wksp Actors/Di"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83199",
+        "room_desc": "Mod Eur Theatre II"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83200",
+        "room_desc": "Modern European Drama"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83201",
+        "room_desc": "Modes of Drama"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83202",
+        "room_desc": "Movement for Theatre and Perf"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83203",
+        "room_desc": "New Performance"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83204",
+        "room_desc": "Perf Hst 1600-1900"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83205",
+        "room_desc": "Perf Hst 1901-Presnt"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83206",
+        "room_desc": "Perform Hist (Anc-Early Mdrn)"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83207",
+        "room_desc": "Performance II"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83208",
+        "room_desc": "Performance Industry Structure"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83209",
+        "room_desc": "Senior Project"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83210",
+        "room_desc": "Senior Seminar"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83211",
+        "room_desc": "Spanish Drama the Golden Age"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83212",
+        "room_desc": "Spanish Theater"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83213",
+        "room_desc": "Text/Performance/Adaptation"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83214",
+        "room_desc": "The Early Shakespeare"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83215",
+        "room_desc": "The Later Shakespeare"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83216",
+        "room_desc": "Theater Production"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83217",
+        "room_desc": "Theater Production Lab"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83218",
+        "room_desc": "Theater Studies"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83219",
+        "room_desc": "Theater and Education"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83220",
+        "room_desc": "Theater and Therapy"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83221",
+        "room_desc": "Theater for Social Action"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83222",
+        "room_desc": "Theatre Learning Lab"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83223",
+        "room_desc": "Theatrical Imagination"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83224",
+        "room_desc": "Topics on Production"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83225",
+        "room_desc": "Tragic Theatre"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83226",
+        "room_desc": "Voice&Dict Perf"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83227",
+        "room_desc": "Women in Performance"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83228",
+        "room_desc": "World Drama since 1800"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "83229",
+        "room_desc": "World Drama to 1800"
+    }
+]

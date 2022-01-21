@@ -1,0 +1,26 @@
+[
+    {
+        "school": "GRD01",
+        "major": "NUTR",
+        "room_num": "8217",
+        "room_desc": "Human Nutrition Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "NUTR",
+        "room_num": "8218",
+        "room_desc": "Nutrition/Metabolis"
+    },
+    {
+        "school": "GRD01",
+        "major": "NUTR",
+        "room_num": "8219",
+        "room_desc": "Nutritional Assessment"
+    },
+    {
+        "school": "GRD01",
+        "major": "NUTR",
+        "room_num": "8220",
+        "room_desc": "The Science of Foods"
+    }
+]

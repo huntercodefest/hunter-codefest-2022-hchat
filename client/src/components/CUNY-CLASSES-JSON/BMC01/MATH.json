@@ -1,0 +1,434 @@
+[
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18401",
+        "room_desc": "Abstract Algebra"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18402",
+        "room_desc": "Advanced Calculus I"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18403",
+        "room_desc": "Anal Geom Cal III"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18404",
+        "room_desc": "Analytic Geom  & Calc II"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18405",
+        "room_desc": "Analytic Geom Cal I"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18406",
+        "room_desc": "Analytic Geom Cal II"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18407",
+        "room_desc": "Analytic Geom Cal Iii"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18408",
+        "room_desc": "Analytic Geometry & Calc I"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18409",
+        "room_desc": "Basic Arith & Algeb-CD Wksp"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18410",
+        "room_desc": "Basic Arith & Algebra Tutorial"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18411",
+        "room_desc": "Basic Arithmetic and Algebra"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18412",
+        "room_desc": "Basic Mathematics"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18413",
+        "room_desc": "Basic Mathematics - Cd Wksp"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18414",
+        "room_desc": "Basic Mathematics MR Tutorial"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18415",
+        "room_desc": "Basic Mathematics Tutorial"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18416",
+        "room_desc": "Bridge to Advanced Mathematics"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18417",
+        "room_desc": "CUNY Start Math"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18418",
+        "room_desc": "College Focus Mathematics"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18419",
+        "room_desc": "Elem & Interm Algeb with Trig"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18420",
+        "room_desc": "Elem & Interm Algebra w/ Trig"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18421",
+        "room_desc": "Elementary Algebra"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18422",
+        "room_desc": "Elementary Algebra - Cd Wksp"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18423",
+        "room_desc": "Elementary Algebra MR Tutorial"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18424",
+        "room_desc": "Elementary Algebra Tutorial"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18425",
+        "room_desc": "Elementary Algebra Workshop"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18426",
+        "room_desc": "Essentials of Math"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18427",
+        "room_desc": "Finite Mathematics"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18428",
+        "room_desc": "Found Comp Network"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18429",
+        "room_desc": "Fund Of Math I"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18430",
+        "room_desc": "Fundamentals of Math"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18431",
+        "room_desc": "Fundamentals of Math II"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18432",
+        "room_desc": "Fundamentals of Mathematics I"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18433",
+        "room_desc": "Fundamentals of Mathematics II"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18434",
+        "room_desc": "History of Mathematics"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18435",
+        "room_desc": "Interm Alg & Trig"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18436",
+        "room_desc": "Interm Alg & Trig - Cd Wksp"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18437",
+        "room_desc": "Interm Alg & Trig MR Tutorial"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18438",
+        "room_desc": "Interm Alg & Trig Tutorial"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18439",
+        "room_desc": "Intermed Algebra & Precalculus"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18440",
+        "room_desc": "Intermediate Algebra & Trigon"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18441",
+        "room_desc": "Intermediate Algebra Workshop"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18442",
+        "room_desc": "Intro Statistics w/ Algebra"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18443",
+        "room_desc": "Intro. Disc Math"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18444",
+        "room_desc": "Introduction to Discrete Math"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18445",
+        "room_desc": "Introduction to Geometry"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18446",
+        "room_desc": "Introduction to Statistics"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18447",
+        "room_desc": "Linear Algebra"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18448",
+        "room_desc": "MAT Directed Study"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18449",
+        "room_desc": "Mat Directed Study"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18450",
+        "room_desc": "Math For Elementary Edu I"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18451",
+        "room_desc": "Math For Elementary Edu II"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18452",
+        "room_desc": "Math For Health Sci"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18453",
+        "room_desc": "Math For Resp Thera"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18454",
+        "room_desc": "Math Foundations For Bus"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18455",
+        "room_desc": "Math Literacy Comp Tutorial"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18456",
+        "room_desc": "Math Literacy I"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18457",
+        "room_desc": "Math Literacy I Tutorial"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18458",
+        "room_desc": "Math Literacy/Quant Reasoning"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18459",
+        "room_desc": "Math Workshop"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18460",
+        "room_desc": "Math for Elementary Education"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18461",
+        "room_desc": "Math for Hlth Sci w/ Elem Alg"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18462",
+        "room_desc": "Mathematical Problem Solving"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18463",
+        "room_desc": "Mathematics Literacy with Comp"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18464",
+        "room_desc": "Modern Applied Mathematics"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18465",
+        "room_desc": "Ord Diff Equations"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18466",
+        "room_desc": "Precalculus"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18467",
+        "room_desc": "Precalculus (Honors)"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18468",
+        "room_desc": "Quantitative Reasoning"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18469",
+        "room_desc": "Research Study Workshop - 150"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18470",
+        "room_desc": "Research Study Workshop - 51"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18471",
+        "room_desc": "Sci/Math Research"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "18472",
+        "room_desc": "Statistics"
+    }
+]

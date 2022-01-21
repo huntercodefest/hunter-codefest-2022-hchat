@@ -1,0 +1,4412 @@
+[
+    {
+        "major": "EDUC",
+        "room_num": "36116",
+        "desc": "1st-2nd Lng-Lit Acq"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36117",
+        "desc": "Act Lrn App Tch Mth"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36118",
+        "desc": "Act Lrn Mid Sc Math"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36119",
+        "desc": "Action Research Seminar"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36120",
+        "desc": "Action Research Seminar I"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36121",
+        "desc": "Action Research Seminar II"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36122",
+        "desc": "Active Learng Math"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36123",
+        "desc": "Ad Lng Arts In:M Ch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36124",
+        "desc": "Ad Lng Arts Ins Ch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36125",
+        "desc": "Ad Mth In M C Dv Ab"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36126",
+        "desc": "Ad Mth Ins Ch Dv Ab"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36127",
+        "desc": "Ad Soc Stud-Tec C E"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36128",
+        "desc": "Ad Soc Stud-Tec Mch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36129",
+        "desc": "Ad Wk Mid Sc Mth Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36130",
+        "desc": "Adm Org Spv Hlth Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36131",
+        "desc": "Adm-Sup Sp Prg/Dpts"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36132",
+        "desc": "Adm-Sup Sp Prog/Dep"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36133",
+        "desc": "Admin Sup Spec Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36134",
+        "desc": "Admin Supervisn Ece"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36135",
+        "desc": "Adolescent Learning & Dev"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36136",
+        "desc": "Adolescent Lrn & Dev"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36137",
+        "desc": "Adpt Rd In:M Chldhd"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36138",
+        "desc": "Adpt Rd Inst:Childhood"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36139",
+        "desc": "Adult Ed & Communy"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36140",
+        "desc": "Adv Ed Psych 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36141",
+        "desc": "Adv Prb Urb Ed & Ad"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36142",
+        "desc": "Adv Prctum Rem Read"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36143",
+        "desc": "Adv Psy Field Work"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36144",
+        "desc": "Adv Psy Field Wrk 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36145",
+        "desc": "Adv Wks Dbase Integ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36146",
+        "desc": "Advncd Ed Psych 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36147",
+        "desc": "Advncd Ed Psych Ii"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36148",
+        "desc": "Advncd Educ Psych 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36149",
+        "desc": "Aerospace Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36150",
+        "desc": "African Arts & Crft"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36151",
+        "desc": "Alt Mth Tch Mid Scl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36152",
+        "desc": "Anth/Urban Education"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36153",
+        "desc": "Applied Behavioral Analysis"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36154",
+        "desc": "Apply Lingst El Sc"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36155",
+        "desc": "Appr Tch Bilingual"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36156",
+        "desc": "Apprais Int Apt Lrn"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36157",
+        "desc": "Apprais Personality"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36158",
+        "desc": "Apprent Tch Sec Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36159",
+        "desc": "Archaeol Mesoamer"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36160",
+        "desc": "Art Early Chld Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36161",
+        "desc": "Arts In London"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36162",
+        "desc": "Aviation In Clsrm 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36163",
+        "desc": "Aviation In Clsrm 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36164",
+        "desc": "Aviation in Classroom III"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36165",
+        "desc": "Behav Modific Clsrm"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36166",
+        "desc": "Best Of The Best 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36167",
+        "desc": "Bil Intrn Scl Psy 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36168",
+        "desc": "Bil Intrn Scl Psy I"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36169",
+        "desc": "Biling Contrst Ling"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36170",
+        "desc": "Biling Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36171",
+        "desc": "Bilingual Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36172",
+        "desc": "Bilingual Ed Found"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36173",
+        "desc": "Bilingual Education"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36174",
+        "desc": "Bilng/Bicult Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36175",
+        "desc": "Blng Aspcts Scl Psy"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36176",
+        "desc": "Brain Damage Chldrn"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36177",
+        "desc": "Building Blocks Early Child II"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36178",
+        "desc": "Building Blocks Ece I"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36179",
+        "desc": "Building Learning Communities"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36180",
+        "desc": "Buildng Blocks Early Child 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36181",
+        "desc": "Buildng Blocks Ece 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36182",
+        "desc": "C & T Emot Dist II"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36183",
+        "desc": "C&T Hispn Blng Ed 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36184",
+        "desc": "C&T Hispn Blng Ed 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36185",
+        "desc": "Career Education"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36186",
+        "desc": "Ch Of Carib Cul-Cur"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36187",
+        "desc": "Child & Adoles Psy"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36188",
+        "desc": "Child Behavior Classroom"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36189",
+        "desc": "Child Development"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36190",
+        "desc": "Chld & Adol Dvlpmnt"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36191",
+        "desc": "Chld Ab Viol Prvn"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36192",
+        "desc": "Chld Advoc And Crts"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36193",
+        "desc": "Chld Behav Classrm"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36194",
+        "desc": "Chld Dev & Lrning 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36195",
+        "desc": "Chld Mild Lrn Hndcp"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36196",
+        "desc": "Chldrn Lit In Span"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36197",
+        "desc": "Civil Participation of Youth"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36198",
+        "desc": "Classroom Organiz"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36199",
+        "desc": "Classroom Organiz II"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36200",
+        "desc": "Clin Iss Blng Psy"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36201",
+        "desc": "Cln Bsd Cur Rsk Chl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36202",
+        "desc": "Clsrm Bsd Inq Bl Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36203",
+        "desc": "Cmp App-Use Scl Adm"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36204",
+        "desc": "Cmptr Appl Clsrm 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36205",
+        "desc": "Cmptr Applctn Scl 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36206",
+        "desc": "Cntmp Issues Occ Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36207",
+        "desc": "Cntnt Bsd Lang Inst"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36208",
+        "desc": "Co-Teaching Sem 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36209",
+        "desc": "Co-Teaching Seminar II"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36210",
+        "desc": "Communicat Young Ch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36211",
+        "desc": "Communty In Ch Guid"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36212",
+        "desc": "Comp & Int Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36213",
+        "desc": "Comp Institute"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36214",
+        "desc": "Compar & Intl Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36215",
+        "desc": "Computer Application SCL II"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36216",
+        "desc": "Confronting the Constitution"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36217",
+        "desc": "Consrvtion Wildlife"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36218",
+        "desc": "Cont Ed Tht & Pract"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36219",
+        "desc": "Cont Ind Arts Progr"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36220",
+        "desc": "Cont Res Biling Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36221",
+        "desc": "Cont Res In Ece"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36222",
+        "desc": "Cont Res Sec Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36223",
+        "desc": "Cont Res Sem Bil Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36224",
+        "desc": "Cont Res Sem Ece"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36225",
+        "desc": "Cont Res Sem Guid"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36226",
+        "desc": "Cont Res Sem in Child Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36227",
+        "desc": "Cont Res Sem:Rdng"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36228",
+        "desc": "Cont Research Seminar-Tesol Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36229",
+        "desc": "Content Fields"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36230",
+        "desc": "Contrastive Grammar"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36231",
+        "desc": "Contrastv Phonology"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36232",
+        "desc": "Contrstv Phonology"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36233",
+        "desc": "Conversational Haitian Creole"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36234",
+        "desc": "Couns Group Procd 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36235",
+        "desc": "Couns Group Procd 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36236",
+        "desc": "Couns Interpers 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36237",
+        "desc": "Couns Interpers 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36238",
+        "desc": "Counseling Adults"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36239",
+        "desc": "Counseling Found 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36240",
+        "desc": "Counseling Found 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36241",
+        "desc": "Creat Art Chldr Lit"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36242",
+        "desc": "Crit Iss Cntemp Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36243",
+        "desc": "Critical Issues"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36244",
+        "desc": "Crmd Rdg & Rel Skls"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36245",
+        "desc": "Crmd S St & Humants"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36246",
+        "desc": "Crmd Sci & Math"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36247",
+        "desc": "Crmd Student Tchg"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36248",
+        "desc": "Crmd Student Tchg 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36249",
+        "desc": "Cse Appl Ch Wel Law"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36250",
+        "desc": "Cul Plurlsm Cur Dv"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36251",
+        "desc": "Cult Hist Ed Classc"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36252",
+        "desc": "Cult Hist Ed Modern"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36253",
+        "desc": "Culture & Art Dom Rep"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36254",
+        "desc": "Cur & Tchg Crmd 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36255",
+        "desc": "Cur & Tchg E Chld 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36256",
+        "desc": "Cur & Tchg El Sch 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36257",
+        "desc": "Cur & Tchg Sp Ed 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36258",
+        "desc": "Cur Devel Ch Ed 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36259",
+        "desc": "Cur Devel El Ed 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36260",
+        "desc": "Cur Devel Spv El 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36261",
+        "desc": "Cur Devel Spv Sec 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36262",
+        "desc": "Cur Devel Spvn El 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36263",
+        "desc": "Cur Dv Sec Scl Math"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36264",
+        "desc": "Cur Enrch Child Lit"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36265",
+        "desc": "Cur Instr In Soc St"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36266",
+        "desc": "Cur Instrctn In Sci"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36267",
+        "desc": "Cur-Bl Mld Int Hdcp"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36268",
+        "desc": "Cur-Mld Intlct Hdcp"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36269",
+        "desc": "Curic Instr In Math"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36270",
+        "desc": "Curr & Inst Sci Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36271",
+        "desc": "Curr Dev Spv Sec 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36272",
+        "desc": "Curr Devel Elem Sci"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36273",
+        "desc": "Curr Develop in Child Educ I"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36274",
+        "desc": "Curr Devl Spv 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36275",
+        "desc": "Curr El Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36276",
+        "desc": "Curr Infus Sch Carr"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36277",
+        "desc": "Curr Instruct Emot Hdcp"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36278",
+        "desc": "Curr Pract Ment Ret"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36279",
+        "desc": "Current Apps Tchng Rsk Chllng"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36280",
+        "desc": "Curric Ch Soc Set"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36281",
+        "desc": "Curric Devel El Sch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36282",
+        "desc": "Curric Develop & Supervision 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36283",
+        "desc": "Curric Early Chd Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36284",
+        "desc": "Curric Emot Dist"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36285",
+        "desc": "Curric Instr In Eng"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36286",
+        "desc": "Curric Instr In Sci"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36287",
+        "desc": "Curriculum Hlth Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36288",
+        "desc": "Curriculum Teachng Tech Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36289",
+        "desc": "Curriculum through Social Stud"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36290",
+        "desc": "Descriptive Statist"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36291",
+        "desc": "Dev & Eval of Materials"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36292",
+        "desc": "Dev Eval Mat Bln Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36293",
+        "desc": "Dev Mat Tch Sec Lng"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36294",
+        "desc": "Dev Psych Childhood"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36295",
+        "desc": "Dev Thnkng Acr Curr"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36296",
+        "desc": "Devel Implmntng Iep"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36297",
+        "desc": "Devel Psych Adolesc"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36298",
+        "desc": "Devl Rd-Wrt Sec Lng"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36299",
+        "desc": "Devlp Adj Early Ch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36300",
+        "desc": "Devlp Adj Early Chd"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36301",
+        "desc": "Diag Treat Read Dis"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36302",
+        "desc": "Dis & Bhav Probl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36303",
+        "desc": "Disabil-Schls-Soc"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36304",
+        "desc": "Disabilities Theory"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36305",
+        "desc": "Documenta Lit Dv 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36306",
+        "desc": "Documenta Lit Dv 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36307",
+        "desc": "Drug Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36308",
+        "desc": "Due Process Hndcapd"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36309",
+        "desc": "Dv Rd Wr Sec Lng-Eng"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36310",
+        "desc": "Dvlp Blng Ed Matls"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36311",
+        "desc": "E Portfolios-Mm Pro"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36312",
+        "desc": "Early Child Curric"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36313",
+        "desc": "Ece Rdg & Rel Skls"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36314",
+        "desc": "Ece S St & Humants"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36315",
+        "desc": "Ece Sci & Math"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36316",
+        "desc": "Ece Student Tchg"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36317",
+        "desc": "Ece Student Tchg 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36318",
+        "desc": "Ece Student Tchg 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36319",
+        "desc": "Ed Field&Sem 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36320",
+        "desc": "Ed Field&Sem 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36321",
+        "desc": "Ed For Wrld Affairs"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36322",
+        "desc": "Ed Global Understanding"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36323",
+        "desc": "Ed Hist Minority Gr"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36324",
+        "desc": "Ed Infnt-Preschler"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36325",
+        "desc": "Ed Ling Min W Disab"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36326",
+        "desc": "Ed Measuremt El Sch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36327",
+        "desc": "Ed Measuremt Sec Sc"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36328",
+        "desc": "Ed Plann & Systems Probl Solv"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36329",
+        "desc": "Ed Policy & Sch Adm"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36330",
+        "desc": "Ed Psy 1 Field Work"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36331",
+        "desc": "Ed Social Psych"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36332",
+        "desc": "Ed Stud Sevre Rtard"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36333",
+        "desc": "Ed Values Ntnl Prks"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36334",
+        "desc": "Edl & Occup Oppties"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36335",
+        "desc": "Educ In The Usa"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36336",
+        "desc": "Educ Leadership in Day Care"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36337",
+        "desc": "Educ Needs of Lang Stud Disab"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36338",
+        "desc": "Educ Organiza Devel"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36339",
+        "desc": "Educationl Sociolgy"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36340",
+        "desc": "Eductnl Impl Grp Act"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36341",
+        "desc": "Eff Tch Low Perf Sc"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36342",
+        "desc": "El Sci Restrctrng 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36343",
+        "desc": "El Sci Tchr Trng 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36344",
+        "desc": "El Science Rstruc I"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36345",
+        "desc": "Elem Ed Field&Sem 3"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36346",
+        "desc": "Elem Ed Tch & Sem"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36347",
+        "desc": "Elem Rdg & Rel Skls"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36348",
+        "desc": "Elem S St & Humants"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36349",
+        "desc": "Elem School P E"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36350",
+        "desc": "Elem Sci & Math"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36351",
+        "desc": "Elem Sci Restruc 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36352",
+        "desc": "Elem Student Tchg"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36353",
+        "desc": "Elem Student Tchg 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36354",
+        "desc": "Elem Student Tchg 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36355",
+        "desc": "Elementary Sch.Music"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36356",
+        "desc": "Emergent to Fluent Literacy"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36357",
+        "desc": "Emergnt Lit-Div Lrnr"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36358",
+        "desc": "Emot Dist St Tch 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36359",
+        "desc": "Enr Tch Sec Scl Sci"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36360",
+        "desc": "Enrich Tch Sec Math"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36361",
+        "desc": "Env St El & Int Sch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36362",
+        "desc": "Environment & Hlth"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36363",
+        "desc": "Eskimos Indian N A"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36364",
+        "desc": "Ex Own Rdng Wrt Pro"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36365",
+        "desc": "Ex Proc Rdng & Wrtng"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36366",
+        "desc": "Ex-Ev Nsf Math Prog"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36367",
+        "desc": "Examin Res Literacy"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36368",
+        "desc": "Exception In Student"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36369",
+        "desc": "Experimental Psych"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36370",
+        "desc": "Fac Yng Chld Art Dev"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36371",
+        "desc": "Fac Yng Chld Mus Dev"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36372",
+        "desc": "Fac Young Child Math Develop"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36373",
+        "desc": "Family36374: EDUC,\"Field Based Inq: Teach Span"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36375",
+        "desc": "Field Exp in Human Learning"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36376",
+        "desc": "Field Work Occ Ed 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36377",
+        "desc": "Fieldwork Inquiry"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36378",
+        "desc": "Fieldwork in Learning Math"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36379",
+        "desc": "Fieldwork: Schools"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36380",
+        "desc": "Fieldwork:Emerg Lit"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36381",
+        "desc": "Fieldwork:Literacy"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36382",
+        "desc": "Fld Botany Nyc Vic"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36383",
+        "desc": "Fld Prob Ed Adm Sup"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36384",
+        "desc": "Fldwk-Sem:Chldhd Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36385",
+        "desc": "Fldwk:Development"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36386",
+        "desc": "Fnd Contmp Tech Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36387",
+        "desc": "Focus Inquiry Education"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36388",
+        "desc": "Foreign Languages"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36389",
+        "desc": "Fossils Key To Past"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36390",
+        "desc": "Fost Inquiry In Cls"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36391",
+        "desc": "Fost Inqy Sec Scl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36392",
+        "desc": "Found Educ Thought"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36393",
+        "desc": "Fund Of English 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36394",
+        "desc": "Fund Of English 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36395",
+        "desc": "Fundamentals Of Engl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36396",
+        "desc": "Geol Ny Vicinity"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36397",
+        "desc": "Globalization & Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36398",
+        "desc": "Guidance Prog Oper"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36399",
+        "desc": "Haitn Creole Nn Sp"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36400",
+        "desc": "Health Counseling"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36401",
+        "desc": "Health Education"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36402",
+        "desc": "Hispn Blng St Tch 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36403",
+        "desc": "Hispn Blng St Tch 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36404",
+        "desc": "Hist Amer Negro Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36405",
+        "desc": "Hist Amer Soc Thgt"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36406",
+        "desc": "Hist Amer Soc Tht"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36407",
+        "desc": "Hist Educ In The Us"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36408",
+        "desc": "Hm Sc Prtnrsp: Literacy Dev"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36409",
+        "desc": "How Chldrn Lrn Math"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36410",
+        "desc": "Hudson River Ecolgy"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36411",
+        "desc": "Hum Lrng & Instrctn"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36412",
+        "desc": "Hum Rel Plurlst Soc"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36413",
+        "desc": "Hum Rel-Plurlst Soc"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36414",
+        "desc": "Human Devel & Learn"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36415",
+        "desc": "Illiteracy & Adult"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36416",
+        "desc": "Implementing Education Reform"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36417",
+        "desc": "Incl. Pract. in STEM"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36418",
+        "desc": "Ind Arts El Sch Pro"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36419",
+        "desc": "Ind Arts In Spec Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36420",
+        "desc": "Ind Dvp Soc Cont 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36421",
+        "desc": "Ind Dvp Soc Cont 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36422",
+        "desc": "Ind Res Ed Ad Spv"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36423",
+        "desc": "Ind Res Ed Ad Sup"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36424",
+        "desc": "Ind Stdy Schl Psych"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36425",
+        "desc": "Ind Stud In Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36426",
+        "desc": "Ind Stud Soc Found"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36427",
+        "desc": "Ind Stud Tch English"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36428",
+        "desc": "Ind Study Ed Resrch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36429",
+        "desc": "Ind Study Educ Rsrch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36430",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36431",
+        "desc": "Independent Study Education"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36432",
+        "desc": "Independent Study in Education"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36433",
+        "desc": "Indiv Grp Cnsl Adlt"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36434",
+        "desc": "Indiv Stud Res Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36435",
+        "desc": "Indiv Study Ed Res"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36436",
+        "desc": "Individualized Instruction"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36437",
+        "desc": "Indvdl In Organiztn"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36438",
+        "desc": "Inq Bilit-Bilng Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36439",
+        "desc": "Inq Dsgn Tech Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36440",
+        "desc": "Inq Prg Stud Tch 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36441",
+        "desc": "Inquiry Biling Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36442",
+        "desc": "Inquiry In Ece"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36443",
+        "desc": "Inquiry In Elem Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36444",
+        "desc": "Inquiry in Education"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36445",
+        "desc": "Inquiry into Learning & Dev"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36446",
+        "desc": "Inqy Learn & Dev 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36447",
+        "desc": "Ins:Strug Rdrs-Wrtrs"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36448",
+        "desc": "Inst Grp Fctr Behav"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36449",
+        "desc": "Instr Chng Ed:Admin"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36450",
+        "desc": "Int Act Lrn App Mth"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36451",
+        "desc": "Intern Sch Adm Spv"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36452",
+        "desc": "Intern Sch Admin & Supervision"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36453",
+        "desc": "Intern Spec Ed 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36454",
+        "desc": "Interne El Sch Tchg"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36455",
+        "desc": "Internship In Clsrm"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36456",
+        "desc": "Internship School Psych II"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36457",
+        "desc": "Intr Cncpt Psycther"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36458",
+        "desc": "Intr Concp Pschther"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36459",
+        "desc": "Intrnshp Tech Ed 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36460",
+        "desc": "Intro App Engl Ling"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36461",
+        "desc": "Intro Cmptr Applsc"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36462",
+        "desc": "Intro Ecology"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36463",
+        "desc": "Intro Ed Rsrch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36464",
+        "desc": "Intro Inqry In Ece"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36465",
+        "desc": "Intro Open Classrm"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36466",
+        "desc": "Intro Physcl Geolgy"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36467",
+        "desc": "Intro.To Prof.Writin"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36468",
+        "desc": "Introduction to Educational Re"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36469",
+        "desc": "Intshp Sch Psych 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36470",
+        "desc": "Knowledge & Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36471",
+        "desc": "Lab Rocks&Minerals"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36472",
+        "desc": "Labs Mid Schl Sci 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36473",
+        "desc": "Labs Mid Schl Sci 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36474",
+        "desc": "Land & Read Spanish Bln Edu"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36475",
+        "desc": "Lang & Read In Ece"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36476",
+        "desc": "Lang Arts Read Eng Bilingual"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36477",
+        "desc": "Lang Arts-Blng Schl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36478",
+        "desc": "Lang Develop & Literacy 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36479",
+        "desc": "Lang Devlp & Lit 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36480",
+        "desc": "Lang Rdg In Elem Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36481",
+        "desc": "Lang-Culture Haiti"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36482",
+        "desc": "Language Arts-Bilingual Edu"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36483",
+        "desc": "Language Mind and Society"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36484",
+        "desc": "Laws Attend Ch Welf"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36485",
+        "desc": "Leadership In Edu 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36486",
+        "desc": "Leadership In Edu 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36487",
+        "desc": "Leadership Issues in School"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36488",
+        "desc": "Leadership Math Educ Reform"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36489",
+        "desc": "Leadership in Education I"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36490",
+        "desc": "Leadership in Education II"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36491",
+        "desc": "Learning Landscapes"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36492",
+        "desc": "Least Rstrctv Envir"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36493",
+        "desc": "Life-Lng:Multicul Ex"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36494",
+        "desc": "Ling-Grammar Of Engl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36495",
+        "desc": "Linguistcs Bilngism"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36496",
+        "desc": "Lit Story Tell Ece"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36497",
+        "desc": "Lit-As-Anl-Tch 5-12"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36498",
+        "desc": "Lit:Fluenc-Efficienc"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36499",
+        "desc": "Literacy"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36500",
+        "desc": "Literacy In Secondary Schools"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36501",
+        "desc": "Literacy Leaders"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36502",
+        "desc": "Lng & Lit Dv Yng Chl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36503",
+        "desc": "Lng Min Fam & Sp Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36504",
+        "desc": "Log Thnk Thru Chess"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36505",
+        "desc": "Lrng Disabil Chldrn"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36506",
+        "desc": "Mammals Arnd World"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36507",
+        "desc": "Management Schools"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36508",
+        "desc": "Manufacturing and Construction"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36509",
+        "desc": "Mat Ind Inst El Sch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36510",
+        "desc": "Materials Processng"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36511",
+        "desc": "Materials for Indiv Curriculum"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36512",
+        "desc": "Math & Sci App Struc"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36513",
+        "desc": "Math Conn: Concepts-App"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36514",
+        "desc": "Math For Young Chld"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36515",
+        "desc": "Math In Spn Blng Ch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36516",
+        "desc": "Math Invest Rl Wrld"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36517",
+        "desc": "Math Pre K-6 Tchrs"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36518",
+        "desc": "Math Prob Solv M S"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36519",
+        "desc": "Math Sci Tchng Element Schl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36520",
+        "desc": "Math Usng Graph Utl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36521",
+        "desc": "Meas-Evl Sp Nds Stu"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36522",
+        "desc": "Measurmnt & Evaluatn"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36523",
+        "desc": "Ment Hlth Prin Prac"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36524",
+        "desc": "Mentorship Mtl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36525",
+        "desc": "Meth Adult Voc Ed II"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36526",
+        "desc": "Meth Hlth Ed El Sch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36527",
+        "desc": "Meth Mat Group Guid"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36528",
+        "desc": "Meth Mat Tch El P E"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36529",
+        "desc": "Meth Soc Stud El Sc"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36530",
+        "desc": "Meth Tch Occ Ed 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36531",
+        "desc": "Meth Tch Sec Art"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36532",
+        "desc": "Meth Tch Sec Engl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36533",
+        "desc": "Meth Tch Sec F Lang"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36534",
+        "desc": "Meth Tch Sec Math"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36535",
+        "desc": "Meth Tch Sec P E"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36536",
+        "desc": "Meth Tch Sec S St"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36537",
+        "desc": "Meth Tch Sec Sci"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36538",
+        "desc": "Meth Tch Sec Spch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36539",
+        "desc": "Meth Teachg Sec Sch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36540",
+        "desc": "Meth of Teaching Sec Scl Sci"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36541",
+        "desc": "Meth-Mat Tch Mid Sc"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36542",
+        "desc": "Meth-Tchg-Occ Ed 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36543",
+        "desc": "Meth.Of Teach.Sec.Sc"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36544",
+        "desc": "Methods Inquiry Bln Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36545",
+        "desc": "Methods of Teaching Art"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36546",
+        "desc": "Mgm Tecs:All Lrners"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36547",
+        "desc": "Mid Schl Sci Curric"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36548",
+        "desc": "Mid Scl Mth:Ins Tec"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36549",
+        "desc": "Middle School Literacy"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36550",
+        "desc": "Mnstrm:Env-Org Adap"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36551",
+        "desc": "Mnstrmng Cur Adaptn"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36552",
+        "desc": "Modern Foreign Lang"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36553",
+        "desc": "Msrmnt Eval Spcl Nds"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36554",
+        "desc": "Mth Phys Ed El Sch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36555",
+        "desc": "Mth Tch Ment Ret Ch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36556",
+        "desc": "Mth-Sci App Engr-Arc"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36557",
+        "desc": "Mthds Mtrls Ment Retard"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36558",
+        "desc": "Multi-Cul Iss Sp Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36559",
+        "desc": "Multi-Cultural Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36560",
+        "desc": "Multicultural Education"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36561",
+        "desc": "Multimedia Clssrm"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36562",
+        "desc": "Museum Rsrce Tchrs"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36563",
+        "desc": "Music Elem Scl Curr"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36564",
+        "desc": "Music Play Earl Ch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36565",
+        "desc": "Music Play Kinder"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36566",
+        "desc": "Nat/Nds Beh-Em Hand"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36567",
+        "desc": "Natr-Nds St Int Dis"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36568",
+        "desc": "Neg Curr-Matrls 5-12"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36569",
+        "desc": "Neg Curr-Matrls B-6"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36570",
+        "desc": "New Educators"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36571",
+        "desc": "New Trends Tch Math"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36572",
+        "desc": "Newer Media In Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36573",
+        "desc": "Ny Soc-Ed 1900-Pres"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36574",
+        "desc": "Obsrv Chldrn & Devl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36575",
+        "desc": "Obsrv Norml-Handcap"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36576",
+        "desc": "Occ Competency Perf"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36577",
+        "desc": "Occup Anlys Cur Org"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36578",
+        "desc": "Occupational Competency: Wrtng"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36579",
+        "desc": "Occupational Related Science I"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36580",
+        "desc": "Occuptl Ed Ment Ret"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36581",
+        "desc": "Oldr Adlt Nds Conc"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36582",
+        "desc": "Org & Adm Elem Schl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36583",
+        "desc": "Org & Adm Sec Schl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36584",
+        "desc": "Org Adm Guid Serv"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36585",
+        "desc": "Ovrvw-Anal Midl Scl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36586",
+        "desc": "P-R In Nyc Schl Sys"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36587",
+        "desc": "Panamer Cult & Curr"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36588",
+        "desc": "Para-Prof Adult Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36589",
+        "desc": "Para-Prof Open Clss"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36590",
+        "desc": "Parent36591: EDUC,\"Parnts Hndcipd Chld"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36592",
+        "desc": "Pdg Pro Psy Lng Prs"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36593",
+        "desc": "Pers Devel Deviat 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36594",
+        "desc": "Pers Devel Deviat 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36595",
+        "desc": "Pers Devel Dviat 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36596",
+        "desc": "Phil Analysis In Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36597",
+        "desc": "Phil Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36598",
+        "desc": "Phil Of Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36599",
+        "desc": "Phil-Urb Iss-Cur Ss"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36600",
+        "desc": "Phil-Urb-Iss Cur Eng"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36601",
+        "desc": "Philo36602: EDUC,\"Phl-Ur Is-Cur Dv Ss"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36603",
+        "desc": "Physical Education"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36604",
+        "desc": "Political Parties"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36605",
+        "desc": "Politics & Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36606",
+        "desc": "Prac Tchng Sec Lang"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36607",
+        "desc": "Pract Adult Comm Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36608",
+        "desc": "Pract Tch Emot Dis"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36609",
+        "desc": "Practic Rem Read 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36610",
+        "desc": "Practic Rem Read 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36611",
+        "desc": "Practicum Rem Readg"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36612",
+        "desc": "Prb Slv Hait Lg Art"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36613",
+        "desc": "Prb Solv Strat Jhs"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36614",
+        "desc": "Prb Solv Strat Math"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36615",
+        "desc": "Prblms Ed Admin Sup"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36616",
+        "desc": "Prbm Solv Sec Schl Math"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36617",
+        "desc": "Prc Tch Sec Lng-Elem"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36618",
+        "desc": "Prc Tch Sec Lng-Sec"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36619",
+        "desc": "Prct Assmt Chldrn 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36620",
+        "desc": "Prct Assmt Chldrn 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36621",
+        "desc": "Prct Assmt Chldrn 3"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36622",
+        "desc": "Prct Assmt Chldrn 4"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36623",
+        "desc": "Prct Psch Case Wk 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36624",
+        "desc": "Prct Psch Case Wk 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36625",
+        "desc": "Prct Tch Blng Sp Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36626",
+        "desc": "Prct Tch In Spec Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36627",
+        "desc": "Prctcm Tch Ment Ret"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36628",
+        "desc": "Prctm Apprais Intel"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36629",
+        "desc": "Prep Audio Vis Aids"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36630",
+        "desc": "Prep For Nbpts Cert"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36631",
+        "desc": "Prep Tch Authntc Cl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36632",
+        "desc": "Prg Cur Tch Sec Sch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36633",
+        "desc": "Prgmng Bsic Scl Cur"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36634",
+        "desc": "Prin Of Ind Arts"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36635",
+        "desc": "Prin Prac Tech Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36636",
+        "desc": "Prin Pract Guidance"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36637",
+        "desc": "Princ Adult Litracy"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36638",
+        "desc": "Principles Adult Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36639",
+        "desc": "Prob Educ Adm Supv"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36640",
+        "desc": "Probl Indiv Inst"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36641",
+        "desc": "Problem Issues Math Elementary"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36642",
+        "desc": "Problems in Teaching Art"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36643",
+        "desc": "Prof-Develpmnt Sem"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36644",
+        "desc": "Prog Curric Ece 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36645",
+        "desc": "Prog Curric Ed Dir"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36646",
+        "desc": "Prosem In Schl Psyc"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36647",
+        "desc": "Protein Struc-Func"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36648",
+        "desc": "Prsnl 2 Coll Bargng"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36649",
+        "desc": "Prspctves Tching"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36650",
+        "desc": "Prto Rican Commity"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36651",
+        "desc": "Psy & Ed Emot Dist"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36652",
+        "desc": "Psy & Ed Excepnl Ch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36653",
+        "desc": "Psy & Ed Ment Ret"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36654",
+        "desc": "Psy & Ed Ment Retrd"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36655",
+        "desc": "Psy Ed Child Disbil"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36656",
+        "desc": "Psy Ed Emot Dist"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36657",
+        "desc": "Psy Ed Eval Chd Prb"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36658",
+        "desc": "Psy Ed Gifted Chld"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36659",
+        "desc": "Psy Field Exp"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36660",
+        "desc": "Psy Field Exper 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36661",
+        "desc": "Psy Field Exper 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36662",
+        "desc": "Psy Of Learning"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36663",
+        "desc": "Psy Sec Schl Curric"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36664",
+        "desc": "Psych Adulthood"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36665",
+        "desc": "Psych Chldhd & Adol"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36666",
+        "desc": "Psych Lrng & Tchg"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36667",
+        "desc": "Psych-Edu Lrng Prbms"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36668",
+        "desc": "Psychling Dev Chldr"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36669",
+        "desc": "Psychodiagnostics 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36670",
+        "desc": "Psychodiagnostics 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36671",
+        "desc": "Psycholgcl Case Wk"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36672",
+        "desc": "Psychopathology"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36673",
+        "desc": "Pt Maj 3-6/Min N-2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36674",
+        "desc": "Puerto R Cult In Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36675",
+        "desc": "Puerto Rican Study"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36676",
+        "desc": "Putting Math To Work"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36677",
+        "desc": "Pw El Ed 3 Tch Sk"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36678",
+        "desc": "Pw El Ed Ind Read"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36679",
+        "desc": "Pw El Ed Rd Opn Clr"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36680",
+        "desc": "Pw El Ed Rd Strat"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36681",
+        "desc": "Pw Foreign Lang"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36682",
+        "desc": "Rac-Cult Biln Bicl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36683",
+        "desc": "Race In Schl Learng"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36684",
+        "desc": "Radio & Tv In Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36685",
+        "desc": "Rcnstrctng Mth Ed 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36686",
+        "desc": "Rcnstrctng Mth Ed 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36687",
+        "desc": "Rd Prc:Anal Ins B-6"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36688",
+        "desc": "Rd Prc:Anl-Ins 5-12"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36689",
+        "desc": "Rd Prc:Org Contx B-6"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36690",
+        "desc": "Rd Prc:Org-Ctx 5-12"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36691",
+        "desc": "Rdg Improve Adults"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36692",
+        "desc": "Rdg Ins Sec Sc Sub1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36693",
+        "desc": "Rdg Inst Sec Sc Sub"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36694",
+        "desc": "Rdg Psyling Prspctvs"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36695",
+        "desc": "Rdg Rel Tchr Pupil"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36696",
+        "desc": "Rdg/Wrt Sec Scl Sub"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36697",
+        "desc": "Rdng & Wrtng Clsrm"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36698",
+        "desc": "Rdng-Wrt Across Curr"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36699",
+        "desc": "Reading In Field"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36700",
+        "desc": "Real World Math"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36701",
+        "desc": "Real Wrld Math Appl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36702",
+        "desc": "Recnstruc Math Ed 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36703",
+        "desc": "Recnstruc Math Ed 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36704",
+        "desc": "Rel Art Wkshp El Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36705",
+        "desc": "Res Sem Educ Admin"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36706",
+        "desc": "Res Sem Spec Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36707",
+        "desc": "Research In Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36708",
+        "desc": "Resrch Sem Read"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36709",
+        "desc": "S Ed:Lng-Lit-Sp Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36710",
+        "desc": "Salvadori Classrm 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36711",
+        "desc": "Salvadori Classroom I"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36712",
+        "desc": "Sc Ed Lng-Lit-Sp Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36713",
+        "desc": "Sch As A Socl Orgzn"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36714",
+        "desc": "Schl Amer Soc Blng"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36715",
+        "desc": "Schl Bus Mgmt Budgt"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36716",
+        "desc": "Schl In Amer Soc"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36717",
+        "desc": "Schl In Urban Soc"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36718",
+        "desc": "Schl Law Intern Reg"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36719",
+        "desc": "Schl Pub Relations"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36720",
+        "desc": "School Based Abuse Prevention"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36721",
+        "desc": "School Community Building"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36722",
+        "desc": "School Law & the Administrator"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36723",
+        "desc": "School Personnel I"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36724",
+        "desc": "School-Family-Comm"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36725",
+        "desc": "School-Public Relations"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36726",
+        "desc": "Sci Ed Public Understanding IV"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36727",
+        "desc": "Sci In Elem Schl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36728",
+        "desc": "Sci Inq Pre K-6 Tch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36729",
+        "desc": "Sci Prog Elem Ed 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36730",
+        "desc": "Sci Tchr: Prof Dv Res"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36731",
+        "desc": "Sci Tech For Chld 3"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36732",
+        "desc": "Sci Wkshp Spec Edu"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36733",
+        "desc": "Sci/Tec Inst: Childhood"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36734",
+        "desc": "Sci/Tec Inst:Md Chld"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36735",
+        "desc": "Science In Ece"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36736",
+        "desc": "Science In Elem Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36737",
+        "desc": "Science In Prog Childhood Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36738",
+        "desc": "Science in Elementary School"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36739",
+        "desc": "Scl Fin Eco Publ Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36740",
+        "desc": "Scl In Amer Society"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36741",
+        "desc": "Sec Ed Field & Sem2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36742",
+        "desc": "Sec Ed Field&Sem 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36743",
+        "desc": "Sec Ed Field&Sem 3"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36744",
+        "desc": "Sec Ed Field&Sem2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36745",
+        "desc": "Sec Sch Tchg"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36746",
+        "desc": "Sec Sch:Phil36747: EDUC,\"Sec.Sch.For Fore.Lan"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36748",
+        "desc": "Selctn Devl Rdg Mat"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36749",
+        "desc": "Selec Devel Rdg Mat"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36750",
+        "desc": "Sem Couns 3 Applic"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36751",
+        "desc": "Sem Couns 4 Applic"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36752",
+        "desc": "Sem Couns 5: Ldrshp"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36753",
+        "desc": "Sem Couns 6 Ldrshp"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36754",
+        "desc": "Sem Couns 7 Int Sup"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36755",
+        "desc": "Sem Couns 8 Int Sup"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36756",
+        "desc": "Sem Excplity Chln"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36757",
+        "desc": "Sem In Ed Research"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36758",
+        "desc": "Sem Prb Coll Tchg"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36759",
+        "desc": "Semin Ed Research"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36760",
+        "desc": "Seminar in Educ Research"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36761",
+        "desc": "Sesame Street"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36762",
+        "desc": "Severe Disabilities"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36763",
+        "desc": "Shop Organization"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36764",
+        "desc": "Signing For Tchrs 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36765",
+        "desc": "Signing For Tchrs 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36766",
+        "desc": "Slctd Topics Ia Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36767",
+        "desc": "Soc & Hist Found"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36768",
+        "desc": "Soc & Phil Found"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36769",
+        "desc": "Soc St Curric Devel"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36770",
+        "desc": "Soc St Inq Pre-K-6"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36771",
+        "desc": "Soc Std El Int Sch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36772",
+        "desc": "Soc Studies In Ece"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36773",
+        "desc": "Soc Syst Couns 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36774",
+        "desc": "Soc-Fndatns-Spec Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36775",
+        "desc": "Social Stud In Ece"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36776",
+        "desc": "Socio Psyc Lin Bln"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36777",
+        "desc": "Sociology Of Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36778",
+        "desc": "Sociology of Education"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36779",
+        "desc": "Sp Nds:Creat Arts 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36780",
+        "desc": "Sp Needs: Creative Arts II"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36781",
+        "desc": "Sp Tp:Math Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36782",
+        "desc": "Space Sci & Aviatn"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36783",
+        "desc": "Spanish In Sec Sch 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36784",
+        "desc": "Spanish In Sec Sch 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36785",
+        "desc": "Spcl Student Tchg 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36786",
+        "desc": "Speci Topi Engl Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36787",
+        "desc": "Spv Org Aud Vis Pro"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36788",
+        "desc": "Spvn Secondary Schl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36789",
+        "desc": "Spvsed Tch Sec Sch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36790",
+        "desc": "Std Tch Sem:Spec Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36791",
+        "desc": "Stdt Tch Tchnology"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36792",
+        "desc": "Stdt Tchng Spec Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36793",
+        "desc": "Stnd Bsd Mth:Cnt/Me"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36794",
+        "desc": "Strat Od In Ed Admn"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36795",
+        "desc": "Strat Proposl Wrtng"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36796",
+        "desc": "Strat Usng Cmp Clsrm"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36797",
+        "desc": "Strt Lrng & Couns 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36798",
+        "desc": "Strt Lrng & Couns 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36799",
+        "desc": "Struct Grwth Engl Lang"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36800",
+        "desc": "Struct Num Sys 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36801",
+        "desc": "Stud Spec Nds Occed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36802",
+        "desc": "Stud Tch E Child 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36803",
+        "desc": "Stud Tch El Schl 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36804",
+        "desc": "Stud Tch El Schl 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36805",
+        "desc": "Stud Tch El/Crmd 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36806",
+        "desc": "Stud Tch El/Crmd 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36807",
+        "desc": "Stud Tch H S"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36808",
+        "desc": "Stud Tch Intrmd Scl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36809",
+        "desc": "Stud Tch Sec Sch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36810",
+        "desc": "Stud-Tch-Spec Ed 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36811",
+        "desc": "Stud.Teach.Spec.Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36812",
+        "desc": "Student Tchng Sem"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36813",
+        "desc": "Student Teaching"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36814",
+        "desc": "Supervised Teaching"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36815",
+        "desc": "Supervised Teaching Alt Cert"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36816",
+        "desc": "Supervison El Schl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36817",
+        "desc": "Suprtndncy Prob-Iss"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36818",
+        "desc": "Supv Tch Mtl Trns B"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36819",
+        "desc": "Surv Except Chldrn"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36820",
+        "desc": "Survey Ed Adm & Spv"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36821",
+        "desc": "Survey of Exceptional Students"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36822",
+        "desc": "TCH MATH ELLS SWLDS"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36823",
+        "desc": "Tch Aide Elem Art"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36824",
+        "desc": "Tch Aide Elem Spch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36825",
+        "desc": "Tch Aide P E"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36826",
+        "desc": "Tch Aide Sec Engl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36827",
+        "desc": "Tch Aide Sec F Lang"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36828",
+        "desc": "Tch Aide Sec Math"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36829",
+        "desc": "Tch Aide Sec S St"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36830",
+        "desc": "Tch Aide Sec Sci"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36831",
+        "desc": "Tch Art/Crft Chl Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36832",
+        "desc": "Tch At Risk Child 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36833",
+        "desc": "Tch At Risk Child 4"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36834",
+        "desc": "Tch Basic Ed Adults"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36835",
+        "desc": "Tch Bln Lng Art Rdg"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36836",
+        "desc": "Tch Ch W Lrng Disab"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36837",
+        "desc": "Tch Cnt:Eng Nat Lng"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36838",
+        "desc": "Tch Corctv Sec Math"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36839",
+        "desc": "Tch Crafts Elem Sch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36840",
+        "desc": "Tch Eng Secnd Lang"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36841",
+        "desc": "Tch Eng Thru Cnt Ar"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36842",
+        "desc": "Tch Engl As Sec Lng"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36843",
+        "desc": "Tch Engl Cit Adults"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36844",
+        "desc": "Tch Engl Sec Schl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36845",
+        "desc": "Tch Glob St:Japan 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36846",
+        "desc": "Tch Hlth Ed Sec Sch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36847",
+        "desc": "Tch Ind Arts 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36848",
+        "desc": "Tch Ind Arts 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36849",
+        "desc": "Tch Lan-Rd Haitn Cr"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36850",
+        "desc": "Tch Lit Mth Mid Scl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36851",
+        "desc": "Tch Midl Scl Math"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36852",
+        "desc": "Tch Mod Math El Sch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36853",
+        "desc": "Tch Mod Math El Scl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36854",
+        "desc": "Tch Music Elem Sch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36855",
+        "desc": "Tch Prac Sec Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36856",
+        "desc": "Tch Pract Biling 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36857",
+        "desc": "Tch Prob Solv Math"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36858",
+        "desc": "Tch Rdg Span Biling"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36859",
+        "desc": "Tch Rdg Thru Writng"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36860",
+        "desc": "Tch Read Blng Chl 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36861",
+        "desc": "Tch Read Early Chld"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36862",
+        "desc": "Tch Read Elem Sch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36863",
+        "desc": "Tch Reading Sec Sch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36864",
+        "desc": "Tch Science Sec Sch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36865",
+        "desc": "Tch Sec Lng-Mix Lev"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36866",
+        "desc": "Tch Sec Math"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36867",
+        "desc": "Tch Sec Subj Adults"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36868",
+        "desc": "Tch Soc St Sec Sch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36869",
+        "desc": "Tch Soc Std Sec Sch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36870",
+        "desc": "Tch Sp Lang-Lit Sec"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36871",
+        "desc": "Tch St Acc Lrn Styl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36872",
+        "desc": "Tch St Acc Rdg Styl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36873",
+        "desc": "Tch Stn Bsd Mth M/H"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36874",
+        "desc": "Tch Trnble Ment Ret"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36875",
+        "desc": "Tch Usng Eng-Ntv-Lng"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36876",
+        "desc": "Tch Wrtng Sec Schl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36877",
+        "desc": "Tch Wth Tech: Scl Wk"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36878",
+        "desc": "Tch-Lrn Std Bsd Mth"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36879",
+        "desc": "Tchg Art & Mus N-6"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36880",
+        "desc": "Tchg Art Elem Schl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36881",
+        "desc": "Tchg Art Sec Schl 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36882",
+        "desc": "Tchg Art Sec Scl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36883",
+        "desc": "Tchg Educ Ment Ret"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36884",
+        "desc": "Tchg Math N-6"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36885",
+        "desc": "Tchg Math Sec Sch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36886",
+        "desc": "Tchg Math Sec Schls"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36887",
+        "desc": "Tchg Pract El Sch 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36888",
+        "desc": "Tchg Prodn Ind Arts"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36889",
+        "desc": "Tchg Rdg Biling"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36890",
+        "desc": "Tchg Rdg Eng Biling"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36891",
+        "desc": "Tchg Rdg In Spanish"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36892",
+        "desc": "Tchg Reading N-6"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36893",
+        "desc": "Tchg Sci & H E  N-6"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36894",
+        "desc": "Tchg Soc Stud N-6"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36895",
+        "desc": "Tching For Thinking"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36896",
+        "desc": "Tching Lrning Wrkshp for Ldrs"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36897",
+        "desc": "Tchng Engl With Tech"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36898",
+        "desc": "Tchng Math Lit Mid Schl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36899",
+        "desc": "Tchng Math Urban Scl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36900",
+        "desc": "Tchng Rdng Ece Prog"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36901",
+        "desc": "Tchng Sci Mid Schls"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36902",
+        "desc": "Tchng Sec Lang Eng"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36903",
+        "desc": "Tchng Tech:Appl Esl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36904",
+        "desc": "Tchng With Internet"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36905",
+        "desc": "Tchr Aide-Elem 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36906",
+        "desc": "Tchr Aide-Elem 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36907",
+        "desc": "Tchr Sees Self-Sem"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36908",
+        "desc": "Tchr:Prof Devlp Res"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36909",
+        "desc": "Teach Beh/Emot Disabilities"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36910",
+        "desc": "Teach Eng As Sec Lng"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36911",
+        "desc": "Teach Engl Sec Sch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36912",
+        "desc": "Teach Literacy Birth - 6  gr"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36913",
+        "desc": "Teach Reading In S.S"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36914",
+        "desc": "Teach Strategies 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36915",
+        "desc": "Teach Strategies 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36916",
+        "desc": "Teach Strategies I"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36917",
+        "desc": "Teacher & Community"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36918",
+        "desc": "Teachg Engl Sec Sch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36919",
+        "desc": "Teachg Reading Adv"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36920",
+        "desc": "Teaching At Risk Children II"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36921",
+        "desc": "Teaching English"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36922",
+        "desc": "Teaching Language Arts in Chin"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36923",
+        "desc": "Teaching Language Arts in Span"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36924",
+        "desc": "Teaching Learning Math"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36925",
+        "desc": "Teaching Sex Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36926",
+        "desc": "Teaching Standards Bsd Math"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36927",
+        "desc": "Teaching at Risk Children III"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36928",
+        "desc": "Tec Lit Ins 5-12 Gr"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36929",
+        "desc": "Tech Curric Dsgn II"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36930",
+        "desc": "Tech Ed In Spec Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36931",
+        "desc": "Tech Lite Instr Pre-k to 6 Grd"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36932",
+        "desc": "Tech Spec Nds Lrnr"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36933",
+        "desc": "Technology Curr Des"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36934",
+        "desc": "Technology:Spec Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36935",
+        "desc": "Tecnq Bhvrl Obsvtns"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36936",
+        "desc": "Tel Glob Instr Curr"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36937",
+        "desc": "Telcm Cmp Tec Cur 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36938",
+        "desc": "Telcm Cmp Tec Cur 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36939",
+        "desc": "The Differentiated Classroom"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36940",
+        "desc": "The Family"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36941",
+        "desc": "The Gotvs Of Ny Area"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36942",
+        "desc": "The Teaching of Calculus"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36943",
+        "desc": "Theor-Prac Bilng Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36944",
+        "desc": "Theory Sec Lng Acq"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36945",
+        "desc": "Treat Chd Read Prob"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36946",
+        "desc": "Trns Haitn Lang Dev"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36947",
+        "desc": "Understanding Teaching I"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36948",
+        "desc": "Undrst Ppls Us-Jap"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36949",
+        "desc": "Upper Elem Curric"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36950",
+        "desc": "Urban Anth & Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36951",
+        "desc": "Urban Anthropology"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36952",
+        "desc": "Urban Education"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36953",
+        "desc": "Urban Sch Div Amer Soc"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36954",
+        "desc": "Urban Schools Diverse Scty"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36955",
+        "desc": "Urbn Schls Dvrse Scty"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36956",
+        "desc": "Use Audio Visl Aids"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36957",
+        "desc": "Use Cmptrs El Clsrm"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36958",
+        "desc": "Using Cmptr In Ece"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36959",
+        "desc": "Using Tech In Tchng"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36960",
+        "desc": "Val-Mor Dv-Crt Thnk"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36961",
+        "desc": "Vocational Devel 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36962",
+        "desc": "Vocational Rehab"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36963",
+        "desc": "Web Based Learning"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36964",
+        "desc": "What is Online Teaching All Ab"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36965",
+        "desc": "Wildlife Ny Region"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36966",
+        "desc": "Wkp Imp Glbl Stud 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36967",
+        "desc": "Wkshp & Study El Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36968",
+        "desc": "Wkshp Ad Ed Drug Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36969",
+        "desc": "Wkshp Adult Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36970",
+        "desc": "Wkshp Adult Ed 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36971",
+        "desc": "Wkshp Afr Amer Hist"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36972",
+        "desc": "Wkshp Bilingual Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36973",
+        "desc": "Wkshp Diag Rem Read"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36974",
+        "desc": "Wkshp Early Chld Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36975",
+        "desc": "Wkshp Ed Ment Retrd"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36976",
+        "desc": "Wkshp El Ed Open Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36977",
+        "desc": "Wkshp Elementy Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36978",
+        "desc": "Wkshp Emot Dist Ch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36979",
+        "desc": "Wkshp Exp El Ece"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36980",
+        "desc": "Wkshp In Spec Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36981",
+        "desc": "Wkshp Intergrp Rel"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36982",
+        "desc": "Wkshp Jr Hs Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36983",
+        "desc": "Wkshp Phys Hlth Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36984",
+        "desc": "Wkshp Secondary Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36985",
+        "desc": "Wkshp Study Sec Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36986",
+        "desc": "Wkshp Team Tchng"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36987",
+        "desc": "WkshpsCHLDABUSE SCHVIOL DASA"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36988",
+        "desc": "Wksp Cntmp Env Iss"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36989",
+        "desc": "Wksp Curr-Tch El Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36990",
+        "desc": "Wksp I S Sec Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36991",
+        "desc": "Wm Ch Cty Ed Sex Cr"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36992",
+        "desc": "Woodworking 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36993",
+        "desc": "Workshop Music Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36994",
+        "desc": "Workshop in Art Education"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36995",
+        "desc": "Workshop in Using HTML"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36996",
+        "desc": "Workshop on Differentiated I"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36997",
+        "desc": "Workshop on Use of Data and Te"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36998",
+        "desc": "Wrk With Beging Tch"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "36999",
+        "desc": "Wrt Tchr-Tchr Rschr"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "37000",
+        "desc": "Wthr Sci-Tech Clsrm"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "37001",
+        "desc": "Young Child At Risk"
+    }
+]

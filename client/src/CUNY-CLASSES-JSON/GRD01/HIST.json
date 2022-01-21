@@ -1,0 +1,2047 @@
+[
+    {
+        "major": "HIST",
+        "room_num": "5866",
+        "desc": "10/15c Sephrd Jewry"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5867",
+        "desc": "12th/13th Cent Myth"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5868",
+        "desc": "1450-1750 Moder Eur"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5869",
+        "desc": "16 & 17 C Spain"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5870",
+        "desc": "16/17c Span Empire"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5871",
+        "desc": "17 Century Europe"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5872",
+        "desc": "17th Century Europe"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5873",
+        "desc": "18 19th C England"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5874",
+        "desc": "18 Century Warfare"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5875",
+        "desc": "1800-1920 Westn Eur"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5876",
+        "desc": "1880-1990 Left/Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5877",
+        "desc": "18th Centry Warfare"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5878",
+        "desc": "19 Cent Europe"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5879",
+        "desc": "19 Ct Europe"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5880",
+        "desc": "19/20c British Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5881",
+        "desc": "19/20c Jewish Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5882",
+        "desc": "19c Victorian Engl"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5883",
+        "desc": "19th & 2oth Cen"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5884",
+        "desc": "19th Century France"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5885",
+        "desc": "20 C Social History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5886",
+        "desc": "20c Am Polit/Diplom"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5887",
+        "desc": "20c British History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5888",
+        "desc": "20c Eur Radicalsim"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5889",
+        "desc": "20th C Us The Prog"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5890",
+        "desc": "20th Century East Asia"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5891",
+        "desc": "Age of Enlightenment"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5892",
+        "desc": "Agrarian History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5893",
+        "desc": "Am Art/Patrns Artis"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5894",
+        "desc": "Am Hstrgrphy/Old/Nw"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5895",
+        "desc": "Am Immigr 1820-1924"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5896",
+        "desc": "Amer Civ War:Rifle"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5897",
+        "desc": "Amer Cold War Poliy"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5898",
+        "desc": "Amer Historiography"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5899",
+        "desc": "Amer In Nuclear Age"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5900",
+        "desc": "Amer In The 1920\u2019S"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5901",
+        "desc": "Amer Jewish Exper"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5902",
+        "desc": "Amer Jewish Expernc"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5903",
+        "desc": "Amer Naval Hist/Sem"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5904",
+        "desc": "Amer Polit Sinc Fdr"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5905",
+        "desc": "Amer Polit1890-1930"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5906",
+        "desc": "Amer Social History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5907",
+        "desc": "Amer Socy 1865-1900"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5908",
+        "desc": "Amer/Vietnm 1945-75"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5909",
+        "desc": "American Constitut History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5910",
+        "desc": "American Democracy"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5911",
+        "desc": "American Pol/Diplo"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5912",
+        "desc": "American Workers"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5913",
+        "desc": "Anc/Mod Historiogra"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5914",
+        "desc": "Ancient Historians"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5915",
+        "desc": "Ancil Scien Of Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5916",
+        "desc": "Antiqty/Batl-Campgn"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5917",
+        "desc": "Arab-Israeli Conflict"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5918",
+        "desc": "Art Of War/Antiqity"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5919",
+        "desc": "Basic Germ Course"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5920",
+        "desc": "Battles Of Antiquit"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5921",
+        "desc": "Brit Soc Polit Thgh"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5922",
+        "desc": "Capet King 987-1328"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5923",
+        "desc": "Capetian Kings/Fran"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5924",
+        "desc": "Carib Slav & Abolit"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5925",
+        "desc": "Changes 19c Jewry"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5926",
+        "desc": "Christanty/Mid Ages"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5927",
+        "desc": "Church/State W Eur"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5928",
+        "desc": "Cicero/Roman Republ"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5929",
+        "desc": "Civil Rights Era"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5930",
+        "desc": "Civil War"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5931",
+        "desc": "Classics"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5932",
+        "desc": "Clq-Eur Since 1815 Cont/Chnge"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5933",
+        "desc": "Clqm: Euro Schls/Un"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5934",
+        "desc": "Clqm:Amer Wm Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5935",
+        "desc": "Clqm:Indep/Interdep"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5936",
+        "desc": "Clqm:Rlgs Rvlt Tght"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5937",
+        "desc": "Clqm:Western Urbn"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5938",
+        "desc": "Col Amer 1607-1776"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5939",
+        "desc": "Col In Europ Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5940",
+        "desc": "Col:Dipl Hist/Internatl Relat"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5941",
+        "desc": "Col:Gilded Age/Progressive Era"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5942",
+        "desc": "Col:Intel/Rel His Erly Mod Eur"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5943",
+        "desc": "Col:Mod Eur Histgrp"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5944",
+        "desc": "Coll-Jews On Russia"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5945",
+        "desc": "Coll: African American History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5946",
+        "desc": "Coll: American Urban History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5947",
+        "desc": "Coll: Early American History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5948",
+        "desc": "Coll: Economic and Social Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5949",
+        "desc": "Coll: Economic/Social History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5950",
+        "desc": "Coll: Europe in the 20th Cent"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5951",
+        "desc": "Coll: Georgian-Victorian Eng"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5952",
+        "desc": "Coll: Hellenistic History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5953",
+        "desc": "Coll: Historical Literature"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5954",
+        "desc": "Coll: History Ancient Greece"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5955",
+        "desc": "Coll: Intell/Cultural History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5956",
+        "desc": "Coll: Modern Latin America"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5957",
+        "desc": "Coll: Problems Hist of Science"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5958",
+        "desc": "Coll: Recent American History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5959",
+        "desc": "Coll:Church/State Middle Ages"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5960",
+        "desc": "Coll:Civil War/Reconstruction"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5961",
+        "desc": "Coll:Dipl Hist/Internatl Rel"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5962",
+        "desc": "Coll:Eco/Soc Hist Medieval Eur"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5963",
+        "desc": "Coll:Era French Rev & Napoleon"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5964",
+        "desc": "Coll:Intell/Cultural History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5965",
+        "desc": "Coll:Intellectual/Cultural His"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5966",
+        "desc": "Coll:Pol/Eco Hist Erly Mod Eur"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5967",
+        "desc": "Coll:Soc/Cul Hist Erly Mod Eur"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5968",
+        "desc": "Coll:Thght/Culture Middle Ages"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5969",
+        "desc": "Colloquium: 19th Cent Europe"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5970",
+        "desc": "Colloquium: 20th Cent England"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5971",
+        "desc": "Colloquium: African Diaspora"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5972",
+        "desc": "Colloquium: Eastern Europe"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5973",
+        "desc": "Colloquium: French History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5974",
+        "desc": "Colloquium: German History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5975",
+        "desc": "Colloquium: Italian History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5976",
+        "desc": "Colloquium: Roman History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5977",
+        "desc": "Colloquium: Russia Since 1881"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5978",
+        "desc": "Colloquium: Russia up to 1881"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5979",
+        "desc": "Colloquium: The Middle Period"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5980",
+        "desc": "Colloquium:The Colonial Empire"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5981",
+        "desc": "Colonial 1600-1776"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5982",
+        "desc": "Colonial Amer Life"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5983",
+        "desc": "Colonial America"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5984",
+        "desc": "Colq:Ame Betwn Wars"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5985",
+        "desc": "Colqm: Us Labor His"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5986",
+        "desc": "Commer Clt/Communic"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5987",
+        "desc": "Concpt Struc Of Sci"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5988",
+        "desc": "Copernicus-Newton"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5989",
+        "desc": "Core Cncpts 20c Stu"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5990",
+        "desc": "Cvl War & Recnstrn"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5991",
+        "desc": "Decl Rome-Renaissan"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5992",
+        "desc": "Democratiz Amer 19c"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5993",
+        "desc": "Descartes To Newton"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5994",
+        "desc": "Dissertation Sem Hist Writing"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5995",
+        "desc": "Dissertation Seminar"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5996",
+        "desc": "Dissertation Supervision"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5997",
+        "desc": "Dvlpmnt U S & Peopl"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5998",
+        "desc": "Early 19c Amr Socty"
+    },
+    {
+        "major": "HIST",
+        "room_num": "5999",
+        "desc": "Early Middle Ages"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6000",
+        "desc": "East Asia"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6001",
+        "desc": "Ec/Soc Lat Amer"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6002",
+        "desc": "Econ Hist 1815-1914"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6003",
+        "desc": "Egypt & Middle East"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6004",
+        "desc": "Enlightenment-1900"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6005",
+        "desc": "Era 2nd World War"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6006",
+        "desc": "Era Amer Revol/Coll"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6007",
+        "desc": "Era Amer Revol/Semn"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6008",
+        "desc": "Erly 19c Am Soc/Pol"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6009",
+        "desc": "Erly Amer 1607-1840"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6010",
+        "desc": "Eur Enligtn/Revolut"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6011",
+        "desc": "Europe 1815-1870"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6012",
+        "desc": "Europe In The 18c"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6013",
+        "desc": "European Anarchism"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6014",
+        "desc": "European Socialism"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6015",
+        "desc": "Evoluton/Presidency"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6016",
+        "desc": "Fndtions Mediev Eur"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6017",
+        "desc": "Folk Hero/Jewsh Hst"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6018",
+        "desc": "France 1815-1914"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6019",
+        "desc": "France 1815-1968"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6020",
+        "desc": "German Hist:1850-Pr"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6021",
+        "desc": "Govern/Middle Ages"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6022",
+        "desc": "Health 1870-1940"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6023",
+        "desc": "Hist Amer Foreign Relations"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6024",
+        "desc": "Hist Ancent Science"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6025",
+        "desc": "Hist Cncs/Jewsh Idn"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6026",
+        "desc": "Hist Germ 1870-1933"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6027",
+        "desc": "Hist Jews 1492-1789"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6028",
+        "desc": "Hist Jews In Spain"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6029",
+        "desc": "Hist Literature of Middle East"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6030",
+        "desc": "Hist Mid East/N Afr 19/20 Cent"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6031",
+        "desc": "Hist Of Amer West"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6032",
+        "desc": "Hist Of Christnity"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6033",
+        "desc": "Hist Of Ny:Thebronx"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6034",
+        "desc": "Hist Russ/Ussr 1905"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6035",
+        "desc": "Hist Sci Fr Descarte"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6036",
+        "desc": "Hist Wmn Middle Age"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6037",
+        "desc": "Hist Wom Mid Ages"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6038",
+        "desc": "Historic Preservatn"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6039",
+        "desc": "Historigraphy"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6040",
+        "desc": "History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6041",
+        "desc": "History Of Russia"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6042",
+        "desc": "History Of Zionism"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6043",
+        "desc": "History Ottoman Empire"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6044",
+        "desc": "History of Central America"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6045",
+        "desc": "Hitler & Natl Social 1919-45"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6046",
+        "desc": "Hstrgrphy/Mth Wmn H"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6047",
+        "desc": "Iconography/Kingshp"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6048",
+        "desc": "Imigraton 1776-1924"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6049",
+        "desc": "Imperialism/America"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6050",
+        "desc": "Independent Historical Resch"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6051",
+        "desc": "Independent Resch"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6052",
+        "desc": "Indust Revolut/Coll"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6053",
+        "desc": "Indust/War 18/20 C"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6054",
+        "desc": "Industrialization"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6055",
+        "desc": "Int His Blk Am 1828"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6056",
+        "desc": "Intel Eur 1815-1914"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6057",
+        "desc": "Intel Hist Black Am"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6058",
+        "desc": "Intell/Middle Ages"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6059",
+        "desc": "Internation Fascism"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6060",
+        "desc": "Interpret/Enlitemnt"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6061",
+        "desc": "Intl Soc 1848-1919"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6062",
+        "desc": "Intlct Hist Prblms"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6063",
+        "desc": "Introductin/History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6064",
+        "desc": "Islamic Hist Age of Imperialis"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6065",
+        "desc": "Italian Renaissance"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6066",
+        "desc": "Jewish Messianism"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6067",
+        "desc": "Jewish-Christn Rltn"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6068",
+        "desc": "Jews In East Europe"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6069",
+        "desc": "Judaism Ancnt World"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6070",
+        "desc": "Judaism/Middle Ages"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6071",
+        "desc": "Labor Hst 1880-1920"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6072",
+        "desc": "Lat Am Labr/Wrk His"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6073",
+        "desc": "Late 19c & 20c War"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6074",
+        "desc": "Late Medieval Europ"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6075",
+        "desc": "Late Middle Ages"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6076",
+        "desc": "Latin Amer Labor"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6077",
+        "desc": "Latn Amer 1824-1930"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6078",
+        "desc": "Latn Amer 1850-1990"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6079",
+        "desc": "Letters Of Abelard"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6080",
+        "desc": "Lit Survey - American History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6081",
+        "desc": "Lit Survey - European History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6082",
+        "desc": "Lit Survey - Latin Am History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6083",
+        "desc": "Lit Survey - World History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6084",
+        "desc": "Lit Survey-Non-American Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6085",
+        "desc": "Literat Uses 4 Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6086",
+        "desc": "Maimonedian Controv"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6087",
+        "desc": "Maj Works/Themes: U.S. Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6088",
+        "desc": "Medeval Jewish Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6089",
+        "desc": "Medicine/Society"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6090",
+        "desc": "Medicinesociety"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6091",
+        "desc": "Medieval Urban Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6092",
+        "desc": "Mid Age/War-Societ"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6093",
+        "desc": "Mid East War 1900-"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6094",
+        "desc": "Milit/Pacif/Feminsm"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6095",
+        "desc": "Military Hist/Strat"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6096",
+        "desc": "Mod Afr-Amer Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6097",
+        "desc": "Mod Amer Diplom Hist From 1898"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6098",
+        "desc": "Mod City 1860-1920"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6099",
+        "desc": "Mod Intellect Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6100",
+        "desc": "Modern African Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6101",
+        "desc": "Modern China"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6102",
+        "desc": "Modern City"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6103",
+        "desc": "Modern City 1920-80"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6104",
+        "desc": "Modern Eur 20th Cen"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6105",
+        "desc": "Modern Europe"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6106",
+        "desc": "Modern Imperialism"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6107",
+        "desc": "Modern Jewish Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6108",
+        "desc": "Monrc Eur 1660-1918"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6109",
+        "desc": "NY & Neighborhoods"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6110",
+        "desc": "Nation-State 16th C"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6111",
+        "desc": "New Deal Progressiv"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6112",
+        "desc": "New Republic City"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6113",
+        "desc": "Old Irish/Read Gram"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6114",
+        "desc": "Oral History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6115",
+        "desc": "Origins Suburbanztn"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6116",
+        "desc": "Pacific War 1941-45"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6117",
+        "desc": "Peop Republic China"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6118",
+        "desc": "Petrac-Montaig Humn"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6119",
+        "desc": "Petrarch-Montaigne"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6120",
+        "desc": "Philosophers Of War"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6121",
+        "desc": "Pol Hist Great Brit"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6122",
+        "desc": "Pol/Ref 19-20c Brit"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6123",
+        "desc": "Poltcl Hist Of Brit"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6124",
+        "desc": "Populist/Progressiv"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6125",
+        "desc": "Prob Afr-Amer Emanc"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6126",
+        "desc": "Public Health/Progr"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6127",
+        "desc": "Puritan-Pragmat/Col"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6128",
+        "desc": "Puritan-Pragmat/Sem"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6129",
+        "desc": "Quant Mthds Soc Sci"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6130",
+        "desc": "Rdgs Us His 1800-60"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6131",
+        "desc": "Reading Jewish Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6132",
+        "desc": "Reclaim/Les-Gay His"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6133",
+        "desc": "Renaissance"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6134",
+        "desc": "Responses/Literture"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6135",
+        "desc": "Revolut/Young Repub"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6136",
+        "desc": "Rome & Carthage"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6137",
+        "desc": "Rome & Medit World"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6138",
+        "desc": "Rome:Replc/Princpte"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6139",
+        "desc": "Roots Of Nationalsm"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6140",
+        "desc": "Roots Of Nationlsm"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6141",
+        "desc": "Rousseau To Marx"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6142",
+        "desc": "Russia Since the Great Reforms"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6143",
+        "desc": "Russia To 20c"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6144",
+        "desc": "ST: Intellectual/Cultrl Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6145",
+        "desc": "ST: Mod Euro Intlctl/Cult Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6146",
+        "desc": "Sci & Tech in China"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6147",
+        "desc": "Scien-Indst Revol"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6148",
+        "desc": "Science Enlight-Wwi"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6149",
+        "desc": "Science-West Civilz"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6150",
+        "desc": "Science/West Cultur"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6151",
+        "desc": "Selected Topics in History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6152",
+        "desc": "Sem: African American History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6153",
+        "desc": "Sem: American Urban History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6154",
+        "desc": "Sem: Church/State Middle Ages"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6155",
+        "desc": "Sem: Cuban Revolutn"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6156",
+        "desc": "Sem: Dipl Hist Intl Relat"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6157",
+        "desc": "Sem: Early American History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6158",
+        "desc": "Sem: Economic and Social Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6159",
+        "desc": "Sem: Economic/Social History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6160",
+        "desc": "Sem: Era French Rev & Napoleon"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6161",
+        "desc": "Sem: Europe in the 20th Cent"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6162",
+        "desc": "Sem: Georgian-Victorian Eng"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6163",
+        "desc": "Sem: History of Ancient Greece"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6164",
+        "desc": "Sem: Intell/Cultural History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6165",
+        "desc": "Sem: Modern Latin America"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6166",
+        "desc": "Sem: Pol Eco Hist Erly Mod Eur"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6167",
+        "desc": "Sem: Problems Hist of Science"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6168",
+        "desc": "Sem: Recent American History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6169",
+        "desc": "Sem: Soc/Cul Hist Erly Mod Eur"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6170",
+        "desc": "Sem: Thght/Culture Middle Ages"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6171",
+        "desc": "Sem:America/Vietnam"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6172",
+        "desc": "Sem:Civil War/Reconstruction"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6173",
+        "desc": "Sem:Dipl Hist/Internatl Rel"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6174",
+        "desc": "Sem:Eco/Soc Hist Medieval Eur"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6175",
+        "desc": "Sem:Gilded Age/Progressive Era"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6176",
+        "desc": "Sem:Intel/Rel His Erly Mod Eur"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6177",
+        "desc": "Sem:Intell/Cultural History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6178",
+        "desc": "Sem:Intellectual/Cultural Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6179",
+        "desc": "Sem:Jewish/Anc Wrld"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6180",
+        "desc": "Sem:Problems/Meth Medievl Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6181",
+        "desc": "Sem:Victorian Thght"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6182",
+        "desc": "Seminar: 19th Century Europe"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6183",
+        "desc": "Seminar: 20th Century England"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6184",
+        "desc": "Seminar: African Diaspora"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6185",
+        "desc": "Seminar: Eastern Europe"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6186",
+        "desc": "Seminar: French History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6187",
+        "desc": "Seminar: German History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6188",
+        "desc": "Seminar: Hellenistic History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6189",
+        "desc": "Seminar: Historical Literature"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6190",
+        "desc": "Seminar: Italian History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6191",
+        "desc": "Seminar: Roman History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6192",
+        "desc": "Seminar: Russia Since 1881"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6193",
+        "desc": "Seminar: Russia up to 1881"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6194",
+        "desc": "Seminar: The Colonial Empire"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6195",
+        "desc": "Seminar: The Middle Period"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6196",
+        "desc": "Since Reconstructn"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6197",
+        "desc": "Small & Colonl Wars"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6198",
+        "desc": "Soc Strct 1660-1815"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6199",
+        "desc": "Soc Thght 1865-1980"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6200",
+        "desc": "Socal Class 1840-90"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6201",
+        "desc": "Socl Hist 1840-1914"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6202",
+        "desc": "Spec Top: Lat Amer"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6203",
+        "desc": "Stalin Epoch"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6204",
+        "desc": "Stu Russian/East European Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6205",
+        "desc": "Studies Mid Eastern History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6206",
+        "desc": "Studies Mod Eur Jewish History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6207",
+        "desc": "Studies Modern European Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6208",
+        "desc": "Studies Pre-Modern Jewish Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6209",
+        "desc": "Studies in Amer Jewish History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6210",
+        "desc": "Studies in American History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6211",
+        "desc": "Studies in Asian History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6212",
+        "desc": "Studies in British History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6213",
+        "desc": "Studies in History of Science"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6214",
+        "desc": "Studies in Latin American Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6215",
+        "desc": "Studies in Medieval History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6216",
+        "desc": "Studies in Women\u2019s History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6217",
+        "desc": "Suburbanztn Usa/Sen"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6218",
+        "desc": "Teachg Hist In Col"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6219",
+        "desc": "Teaching History in College"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6220",
+        "desc": "Tech/Soc Chng U.S."
+    },
+    {
+        "major": "HIST",
+        "room_num": "6221",
+        "desc": "Terrorism/Mod World"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6222",
+        "desc": "The Amer Jewsh Exp"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6223",
+        "desc": "The Colonial Epoch"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6224",
+        "desc": "The Cuban Revolutio"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6225",
+        "desc": "The Enlightenment"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6226",
+        "desc": "The Holocaust"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6227",
+        "desc": "The Sevententh Cent"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6228",
+        "desc": "The Writing of History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6229",
+        "desc": "Thry/Hist Understan"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6230",
+        "desc": "Thry/Hist/Undrstng"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6231",
+        "desc": "Topics 20c Europe"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6232",
+        "desc": "Topics Modern European History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6233",
+        "desc": "Topics in African History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6234",
+        "desc": "Topics in Anthro & History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6235",
+        "desc": "Topics in British History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6236",
+        "desc": "Topics in Gender and Sexuality"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6237",
+        "desc": "Topics in Jewish History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6238",
+        "desc": "Topics in Latin American Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6239",
+        "desc": "Topics in Middle East History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6240",
+        "desc": "Topics in Philosophy & History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6241",
+        "desc": "Topics in Theory and History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6242",
+        "desc": "Topics in World History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6243",
+        "desc": "Topics: History East Asia"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6244",
+        "desc": "Topics: Intellect Cult Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6245",
+        "desc": "Totlit Movmnt/Ideol"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6246",
+        "desc": "University1200-1600"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6247",
+        "desc": "Urban Crises"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6248",
+        "desc": "Urban Mach 1856-Prs"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6249",
+        "desc": "Us Hist 1900-1945"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6250",
+        "desc": "Us Labor/20th Cent"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6251",
+        "desc": "Us Po/Lb/So 1945-Pr"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6252",
+        "desc": "Us Urban Hist Prob"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6253",
+        "desc": "Us/Clt/Hst1800-1919"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6254",
+        "desc": "Usa Labor Systems"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6255",
+        "desc": "Vernacular Culture"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6256",
+        "desc": "Victrns/Imperialsm"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6257",
+        "desc": "Vienna 1867-1938"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6258",
+        "desc": "Voluntrsm/Socl Refm"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6259",
+        "desc": "War/Society 18c-20c"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6260",
+        "desc": "Warfare Thru Ww I"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6261",
+        "desc": "Weber & Durkheim"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6262",
+        "desc": "Western Eur 1918-45"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6263",
+        "desc": "Wetsern Eur 1918-45"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6264",
+        "desc": "Wom/Gender Islamic Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6265",
+        "desc": "Women & Gender in Islam"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6266",
+        "desc": "Women In Class Ant"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6267",
+        "desc": "Women In Us 1848-Pr"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6268",
+        "desc": "Women Usa 1848-Pres"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6269",
+        "desc": "Women/Famly 1860-On"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6270",
+        "desc": "Work/Soc/Latin Amer"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6271",
+        "desc": "World/Tocqueville"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6272",
+        "desc": "Writing  Of History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6273",
+        "desc": "Ww Ii In Europe"
+    },
+    {
+        "major": "HIST",
+        "room_num": "6274",
+        "desc": "Yiddish Studies"
+    }
+]

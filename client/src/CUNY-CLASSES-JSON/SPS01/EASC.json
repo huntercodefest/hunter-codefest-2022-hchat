@@ -1,0 +1,37 @@
+[
+    {
+        "major": "EASC",
+        "room_num": "80603",
+        "desc": "Climate Change"
+    },
+    {
+        "major": "EASC",
+        "room_num": "80604",
+        "desc": "Earth-Inside & Out"
+    },
+    {
+        "major": "EASC",
+        "room_num": "80605",
+        "desc": "Ecology"
+    },
+    {
+        "major": "EASC",
+        "room_num": "80606",
+        "desc": "Oceanography"
+    },
+    {
+        "major": "EASC",
+        "room_num": "80607",
+        "desc": "The Nature of New York"
+    },
+    {
+        "major": "EASC",
+        "room_num": "80608",
+        "desc": "The Ocean System Integ Science"
+    },
+    {
+        "major": "EASC",
+        "room_num": "80609",
+        "desc": "Water: Environmental Science"
+    }
+]

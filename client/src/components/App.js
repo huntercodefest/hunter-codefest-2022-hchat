@@ -1,43 +1,46 @@
 import React from "react";
 import UsernameComponent from "./UsernameComponent";
-import MessageInput from "./MessageInput";
-import classes from "./app.module.css";
+import RoomsComponent from "./RoomsComponent";
+import ChatComponent from "./ChatComponent";
+import classes from "../css/app.module.css";
 import { Room } from "./Rooms";
 
 class App extends React.Component {
 	constructor() {
 		super();
 		this.state = {
-			username: "",
+			username: "daniel",
 			askForNewUsername: true,
-			Room: new Room(null, null, 0, "Global"), // Temp
+			room: new Room(null, null, 0, "Global"), // Temp
 		};
 	}
-	handleUsernameChange(new_username) {
+	handleUsernameChange = (event) => {
+		event.preventDefault();
 		this.setState({
-			username: new_username,
+			username: event.target[1].value,
 			askForNewUsername: false,
-			Room: this.state.Room,
+			room: this.state.room,
 		});
 	}
-	handleRoomChange(Room) {
+	handleRoomChange = (Room) => {
 		this.setState({
 			...this.state,
-			Room: Room,
+			room: Room,
 		});
 	}
 	render() {
 		return (
 			<div>
-				{this.state.askForNewUsername ? (
+				{/* {this.state.askForNewUsername ? (
 					<UsernameComponent
 						handleUsernameChange={this.handleUsernameChange}
+						room={this.state.room}
 					/>
-				) : null}
+				) : null} */}
 				<RoomsComponent handleRoomChange={this.handleRoomChange} />
 				<ChatComponent
 					username={this.state.username}
-					Room={this.state.Room}
+					room={this.state.room}
 				/>
 			</div>
 		);

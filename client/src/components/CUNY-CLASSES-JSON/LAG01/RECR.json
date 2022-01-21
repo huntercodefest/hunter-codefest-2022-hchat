@@ -1,0 +1,32 @@
+[
+    {
+        "school": "LAG01",
+        "major": "RECR",
+        "room_num": "82677",
+        "room_desc": "Intro Rec Leisure"
+    },
+    {
+        "school": "LAG01",
+        "major": "RECR",
+        "room_num": "82678",
+        "room_desc": "Intro to TR"
+    },
+    {
+        "school": "LAG01",
+        "major": "RECR",
+        "room_num": "82679",
+        "room_desc": "Professional TR"
+    },
+    {
+        "school": "LAG01",
+        "major": "RECR",
+        "room_num": "82680",
+        "room_desc": "TR CLinical Fieldwork"
+    },
+    {
+        "school": "LAG01",
+        "major": "RECR",
+        "room_num": "82681",
+        "room_desc": "TR Long Term Care"
+    }
+]

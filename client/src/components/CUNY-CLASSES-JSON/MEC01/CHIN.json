@@ -1,0 +1,26 @@
+[
+    {
+        "school": "MEC01",
+        "major": "CHIN",
+        "room_num": "78198",
+        "room_desc": "Chinese (Mandarin) Beg I LAB"
+    },
+    {
+        "school": "MEC01",
+        "major": "CHIN",
+        "room_num": "78199",
+        "room_desc": "Chinese (Mandarin) Beg II LAB"
+    },
+    {
+        "school": "MEC01",
+        "major": "CHIN",
+        "room_num": "78200",
+        "room_desc": "Chinese (Mandarin) Beginner I"
+    },
+    {
+        "school": "MEC01",
+        "major": "CHIN",
+        "room_num": "78201",
+        "room_desc": "Chinese (Mandarin) Beginner II"
+    }
+]

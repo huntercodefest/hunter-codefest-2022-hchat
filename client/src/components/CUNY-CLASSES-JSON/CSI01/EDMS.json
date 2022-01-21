@@ -1,0 +1,38 @@
+[
+    {
+        "school": "CSI01",
+        "major": "EDMS",
+        "room_num": "84175",
+        "room_desc": "Math Spec Ed Tchrs"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDMS",
+        "room_num": "84176",
+        "room_desc": "Sci Spec Ed Tchr Ado"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDMS",
+        "room_num": "84177",
+        "room_desc": "Soc Stud for Spec Ed Teach"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDMS",
+        "room_num": "84178",
+        "room_desc": "Tchg & Lrng Science Mid Sc"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDMS",
+        "room_num": "84179",
+        "room_desc": "Tchg Soc Stdy Ms"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDMS",
+        "room_num": "84180",
+        "room_desc": "Tchg&Lrng Mth Mid Sh"
+    }
+]

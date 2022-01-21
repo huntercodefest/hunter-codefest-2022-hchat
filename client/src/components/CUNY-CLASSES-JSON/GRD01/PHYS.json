@@ -1,0 +1,1358 @@
+[
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8516",
+        "room_desc": "Adv Condense Matter"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8517",
+        "room_desc": "Adv Element Part"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8518",
+        "room_desc": "Adv Group Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8519",
+        "room_desc": "Adv Quantum Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8520",
+        "room_desc": "Adv Stat Mechanics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8521",
+        "room_desc": "Adv Tech Quant Mech"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8522",
+        "room_desc": "Advanced Group Thry"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8523",
+        "room_desc": "Advanced Mathematic"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8524",
+        "room_desc": "Advanced Theory of Gravitation"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8525",
+        "room_desc": "Amorphous Solids"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8526",
+        "room_desc": "Analy Mthd In Phys"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8527",
+        "room_desc": "Analysis Techniques"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8528",
+        "room_desc": "Analytical Dynamics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8529",
+        "room_desc": "Analytical Mechanics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8530",
+        "room_desc": "Appl Quantum Mechan"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8531",
+        "room_desc": "Aser Spectroscopy"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8532",
+        "room_desc": "Aspts High Tech Ind"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8533",
+        "room_desc": "Astrophysics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8534",
+        "room_desc": "Astrophysics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8535",
+        "room_desc": "Astrophysics II"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8536",
+        "room_desc": "Astrophysics III"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8537",
+        "room_desc": "Atomic Phys and Quantum Mech"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8538",
+        "room_desc": "Atomic Physics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8539",
+        "room_desc": "Atomic/Molec Spectr"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8540",
+        "room_desc": "Auger Spectroscopy"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8541",
+        "room_desc": "Bio-Molecular Physc"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8542",
+        "room_desc": "Biophysics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8543",
+        "room_desc": "Chaos"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8544",
+        "room_desc": "Classical Phys Lab"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8545",
+        "room_desc": "Comm/Media Skills"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8546",
+        "room_desc": "Computat Mthds in Physics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8547",
+        "room_desc": "Computation Methods in Physics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8548",
+        "room_desc": "Condens Matter Phys"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8549",
+        "room_desc": "Conducting System"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8550",
+        "room_desc": "Continuous Media"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8551",
+        "room_desc": "Continuum Mechanics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8552",
+        "room_desc": "Correlat Randm Syst"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8553",
+        "room_desc": "Cosmology"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8554",
+        "room_desc": "Database Systems Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8555",
+        "room_desc": "Dendritic Growth"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8556",
+        "room_desc": "Density Func Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8557",
+        "room_desc": "Density Matrices"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8558",
+        "room_desc": "Dissertation Supervision"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8559",
+        "room_desc": "Dissrt Supervision"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8560",
+        "room_desc": "Electrcty Magnet 2"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8561",
+        "room_desc": "Electricity & Magnetism I"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8562",
+        "room_desc": "Electrochemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8563",
+        "room_desc": "Electrodynamics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8564",
+        "room_desc": "Electromag Thry I"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8565",
+        "room_desc": "Electromagnetic Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8566",
+        "room_desc": "Electromagnetic Theory I"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8567",
+        "room_desc": "Electron Corelation"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8568",
+        "room_desc": "Electron Interacton"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8569",
+        "room_desc": "Electron Scattering"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8570",
+        "room_desc": "Electronics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8571",
+        "room_desc": "Expr Method In Cond"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8572",
+        "room_desc": "Fermion Correlation"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8573",
+        "room_desc": "Fluid Mechanics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8574",
+        "room_desc": "Galactc Phy II (Obser Aspects)"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8575",
+        "room_desc": "Galactc Phys I (Theor Aspects)"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8576",
+        "room_desc": "Gas Optical Prop"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8577",
+        "room_desc": "Gauge Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8578",
+        "room_desc": "Gen Elec Magnetism"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8579",
+        "room_desc": "General Mechanics-Lab"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8580",
+        "room_desc": "General Physics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8581",
+        "room_desc": "General Physics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8582",
+        "room_desc": "General Physics Lab"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8583",
+        "room_desc": "General Relativity"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8584",
+        "room_desc": "Genreal Physics Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8585",
+        "room_desc": "Geophysical Hydrodynamics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8586",
+        "room_desc": "Gradate Lab Revised"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8587",
+        "room_desc": "Graduate Lab I"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8588",
+        "room_desc": "Graduate Lab II"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8589",
+        "room_desc": "Graduate Physics Laboratory"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8590",
+        "room_desc": "Graduate Research 2"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8591",
+        "room_desc": "Gravity/Suprstrings"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8592",
+        "room_desc": "Group Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8593",
+        "room_desc": "Group Theory-Physic"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8594",
+        "room_desc": "Hi Temp Fluid Phn I"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8595",
+        "room_desc": "High Energy Physics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8596",
+        "room_desc": "High Energy Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8597",
+        "room_desc": "Hilbert Space/F A"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8598",
+        "room_desc": "Independent Studies"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8599",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8600",
+        "room_desc": "Interct Molecl/Lite"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8601",
+        "room_desc": "Intermediate Energy"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8602",
+        "room_desc": "Intermoleculr Force"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8603",
+        "room_desc": "Intr Principles/M R"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8604",
+        "room_desc": "Intro Group Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8605",
+        "room_desc": "Intro to Mathematical Physics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8606",
+        "room_desc": "Intro to Modern Physics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8607",
+        "room_desc": "Intro to Modern Physics II"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8608",
+        "room_desc": "Intro to Quantum Mechanics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8609",
+        "room_desc": "Introduction to Astrophysics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8610",
+        "room_desc": "Introduction to Relativity"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8611",
+        "room_desc": "Laboratory 1"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8612",
+        "room_desc": "Laboratory Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8613",
+        "room_desc": "Laser Experiments"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8614",
+        "room_desc": "Laser Interaction"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8615",
+        "room_desc": "Laser Optics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8616",
+        "room_desc": "Laser Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8617",
+        "room_desc": "Laser-Atom Interact"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8618",
+        "room_desc": "Laser/Aton Interact"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8619",
+        "room_desc": "Light Scattering"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8620",
+        "room_desc": "Magnet/Massbauer"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8621",
+        "room_desc": "Magnetic Materials"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8622",
+        "room_desc": "Many Body Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8623",
+        "room_desc": "Materials Scien Lab"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8624",
+        "room_desc": "Math Methods I"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8625",
+        "room_desc": "Mathematica For Phy"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8626",
+        "room_desc": "Mathematical Methods in Phys"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8627",
+        "room_desc": "Mechanics 2"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8628",
+        "room_desc": "Micro Quantm Tunnel"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8629",
+        "room_desc": "Modern Optic Sem"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8630",
+        "room_desc": "Modern Optics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8631",
+        "room_desc": "Modern Physics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8632",
+        "room_desc": "Modern Physics Laboratory"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8633",
+        "room_desc": "Monte Carlo Techniq"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8634",
+        "room_desc": "N-Pert Quant Chromo"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8635",
+        "room_desc": "Nano and Micro Photonics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8636",
+        "room_desc": "Nanofabrication & Nanodevices"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8637",
+        "room_desc": "New Modern Physics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8638",
+        "room_desc": "Non Eq Stat Mech"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8639",
+        "room_desc": "Non-Equil State Mec"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8640",
+        "room_desc": "Non-Linear Diff Eqt"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8641",
+        "room_desc": "Non-Linear Optics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8642",
+        "room_desc": "Non-Linr/Optic Fibr"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8643",
+        "room_desc": "Non-linear Optics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8644",
+        "room_desc": "Nuclear Physics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8645",
+        "room_desc": "Nuclear Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8646",
+        "room_desc": "Numerical Method"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8647",
+        "room_desc": "Numerical Methods"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8648",
+        "room_desc": "Numerical Methods I"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8649",
+        "room_desc": "Opt Prop Thin Films"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8650",
+        "room_desc": "Optic Respon Proper"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8651",
+        "room_desc": "Optics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8652",
+        "room_desc": "Optics/Spat Dispers"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8653",
+        "room_desc": "Particle Physics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8654",
+        "room_desc": "Path Integrals"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8655",
+        "room_desc": "Phase Transitions"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8656",
+        "room_desc": "Photoemission"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8657",
+        "room_desc": "Photonics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8658",
+        "room_desc": "Phys Of Sputtering"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8659",
+        "room_desc": "Physics Grad Lab"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8660",
+        "room_desc": "Physics I Lec/Lab"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8661",
+        "room_desc": "Physics Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8662",
+        "room_desc": "Physics Lab"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8663",
+        "room_desc": "Physics for Architects"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8664",
+        "room_desc": "Physics of Semiconductors"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8665",
+        "room_desc": "Picosec Phen/Conduc"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8666",
+        "room_desc": "Plasma Physics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8667",
+        "room_desc": "Prop Thin Films"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8668",
+        "room_desc": "Quan Optc & Electrn"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8669",
+        "room_desc": "Quantm Field Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8670",
+        "room_desc": "Quantm/Supstring Th"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8671",
+        "room_desc": "Quantum Electronics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8672",
+        "room_desc": "Quantum Field Thry"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8673",
+        "room_desc": "Quantum Hall Effect"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8674",
+        "room_desc": "Quantum Information"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8675",
+        "room_desc": "Quantum Mechanics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8676",
+        "room_desc": "Quantum Mechanics 2"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8677",
+        "room_desc": "Quantum Optics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8678",
+        "room_desc": "Quantum Optics Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8679",
+        "room_desc": "Quantum Theory of Fields"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8680",
+        "room_desc": "Quantum Theory of Solids"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8681",
+        "room_desc": "Raman Scattering"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8682",
+        "room_desc": "Randm Proc-Phys/Fin"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8683",
+        "room_desc": "Random Processes"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8684",
+        "room_desc": "Rdng Crs:Spec Topcs"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8685",
+        "room_desc": "Reading"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8686",
+        "room_desc": "Reading Course"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8687",
+        "room_desc": "Readings"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8688",
+        "room_desc": "Readings In Lasers"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8689",
+        "room_desc": "Relative/Gravitaton"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8690",
+        "room_desc": "Relativstic/Dynamic"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8691",
+        "room_desc": "Resonance/Raman"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8692",
+        "room_desc": "ST: Advanced Physics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8693",
+        "room_desc": "Sci Career Mngmnt"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8694",
+        "room_desc": "Selected Topic"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8695",
+        "room_desc": "Selected Topics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8696",
+        "room_desc": "Semiclas Laser Optc"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8697",
+        "room_desc": "Semiconductor/Optic"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8698",
+        "room_desc": "Semiconductors"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8699",
+        "room_desc": "Sol-Gel Processng 2"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8700",
+        "room_desc": "Solid State Physics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8701",
+        "room_desc": "Solid State Surface"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8702",
+        "room_desc": "Solid State Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8703",
+        "room_desc": "Solids/Lite Scatter"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8704",
+        "room_desc": "Spec Tpc Conden Mtr"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8705",
+        "room_desc": "Spec Tpcs in Adv Physics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8706",
+        "room_desc": "Spec Tpcs:Quant Opt"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8707",
+        "room_desc": "Special Topic"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8708",
+        "room_desc": "Special Topics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8709",
+        "room_desc": "Spectr Surfac State"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8710",
+        "room_desc": "Spectroscop Techniq"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8711",
+        "room_desc": "Spectroscopy"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8712",
+        "room_desc": "Spin Relaxation"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8713",
+        "room_desc": "Sputtering"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8714",
+        "room_desc": "Sputtering Physics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8715",
+        "room_desc": "Stat Mech Comp Sys"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8716",
+        "room_desc": "Statistical Mechanics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8717",
+        "room_desc": "Statistical Physics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8718",
+        "room_desc": "Stellar Evolution"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8719",
+        "room_desc": "Stellar Physics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8720",
+        "room_desc": "Stochastic Methods"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8721",
+        "room_desc": "String Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8722",
+        "room_desc": "Strong Correl Systm"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8723",
+        "room_desc": "Struct Metallurgy"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8724",
+        "room_desc": "Superconductivity"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8725",
+        "room_desc": "Superstring Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8726",
+        "room_desc": "Surface Physics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8727",
+        "room_desc": "Surface Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8728",
+        "room_desc": "Synchro Rad Resch"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8729",
+        "room_desc": "Theoretical Nuclear Physics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8730",
+        "room_desc": "Thermodynamics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8731",
+        "room_desc": "Thin Film Otics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8732",
+        "room_desc": "Thry Relativity & Gravitation"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8733",
+        "room_desc": "Transport Phenomena"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8734",
+        "room_desc": "Turbulence/Chaos"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8735",
+        "room_desc": "Ultra Phenom/Znse"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8736",
+        "room_desc": "Ultrafast Optics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8737",
+        "room_desc": "Ultrafst Opt Puls"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8738",
+        "room_desc": "Wav Propg/Randm Med"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8739",
+        "room_desc": "Wave Prop Randm Med"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8740",
+        "room_desc": "Weak Interactions"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "8741",
+        "room_desc": "X-Ray Diffraction"
+    }
+]

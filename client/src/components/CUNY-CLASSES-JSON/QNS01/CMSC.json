@@ -1,0 +1,758 @@
+[
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24664",
+        "room_desc": "Adv OO Pgm Dsgn C++"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24665",
+        "room_desc": "Adv Operating Sys"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24666",
+        "room_desc": "Adv Productivity Tools for Bus"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24667",
+        "room_desc": "Advanced Programming in C++"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24668",
+        "room_desc": "Advanced Programming in Java"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24669",
+        "room_desc": "Algorithms I"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24670",
+        "room_desc": "Algorithms II"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24671",
+        "room_desc": "Analysis of Algorith"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24672",
+        "room_desc": "Artificial Intell"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24673",
+        "room_desc": "Artificial Intelligence"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24674",
+        "room_desc": "C Programming"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24675",
+        "room_desc": "Cobol"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24676",
+        "room_desc": "Comp App for Pros Math Teacher"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24677",
+        "room_desc": "Comp Architecture & Networks"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24678",
+        "room_desc": "Comp Com Network"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24679",
+        "room_desc": "Comp Org & Assembly Lang"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24680",
+        "room_desc": "Compiler Constrct"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24681",
+        "room_desc": "Compiler Construction"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24682",
+        "room_desc": "Compilers"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24683",
+        "room_desc": "Computability and Complexity"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24684",
+        "room_desc": "Computational Finance"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24685",
+        "room_desc": "Computer Architecture"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24686",
+        "room_desc": "Computer Com Net"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24687",
+        "room_desc": "Computer Graphics"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24688",
+        "room_desc": "Computer Networks"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24689",
+        "room_desc": "Computer Org & Assembly Lang"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24690",
+        "room_desc": "Computer Organization"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24691",
+        "room_desc": "Computer Systems"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24692",
+        "room_desc": "Cooperative Educ Placement"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24693",
+        "room_desc": "Cryptography"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24694",
+        "room_desc": "Data Base"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24695",
+        "room_desc": "Data Communications"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24696",
+        "room_desc": "Data Mining and Warehousing"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24697",
+        "room_desc": "Data Struct Cross-Discip Min"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24698",
+        "room_desc": "Data Structures"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24699",
+        "room_desc": "Database App Programming"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24700",
+        "room_desc": "Database Syst Dev"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24701",
+        "room_desc": "Database Systems"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24702",
+        "room_desc": "Design & Analysis Algorithms"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24703",
+        "room_desc": "Discrete Math Cross-Discipl"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24704",
+        "room_desc": "Discrete Structur"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24705",
+        "room_desc": "Discrete Structures"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24706",
+        "room_desc": "Distributed Computing"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24707",
+        "room_desc": "Distributed Systems"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24708",
+        "room_desc": "Fndtn Alg Grph Th"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24709",
+        "room_desc": "Formal Languages"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24710",
+        "room_desc": "Fortran"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24711",
+        "room_desc": "Foundations Comp Sci"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24712",
+        "room_desc": "Grad Research"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24713",
+        "room_desc": "Group Th & Compl"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24714",
+        "room_desc": "Hardware Design Practicum"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24715",
+        "room_desc": "Honor Research"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24716",
+        "room_desc": "Honors Readings in Comp Sci"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24717",
+        "room_desc": "Honors Thesis"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24718",
+        "room_desc": "Inform Orgnztn/Rtrvl"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24719",
+        "room_desc": "Information Org and Retrieval"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24720",
+        "room_desc": "Information and Intelligence"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24721",
+        "room_desc": "Int Intro Computing"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24722",
+        "room_desc": "Internet and Web Technologies"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24723",
+        "room_desc": "Internship"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24724",
+        "room_desc": "Internship in Computer Science"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24725",
+        "room_desc": "Intro Algori Prob Solving Java"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24726",
+        "room_desc": "Intro Algorithmic Problem Solv"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24727",
+        "room_desc": "Intro Cmpublty/Un"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24728",
+        "room_desc": "Intro Computers & Computation"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24729",
+        "room_desc": "Intro Data Base"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24730",
+        "room_desc": "Intro To Computing"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24731",
+        "room_desc": "Intro To Programming"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24732",
+        "room_desc": "Intro to Scientific Computing"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24733",
+        "room_desc": "Intro to Seq Mach"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24734",
+        "room_desc": "Intro to Web Programming"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24735",
+        "room_desc": "Lisp"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24736",
+        "room_desc": "Logic Design Lab"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24737",
+        "room_desc": "Logic Progr (S)"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24738",
+        "room_desc": "Master\u2019s Thesis"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24739",
+        "room_desc": "Microcmp Dsgn (H)"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24740",
+        "room_desc": "Models of Computation"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24741",
+        "room_desc": "Multimedia Fundmentals & Apps"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24742",
+        "room_desc": "Numerical Meth"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24743",
+        "room_desc": "Numerical Methods"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24744",
+        "room_desc": "Object-Oriented Databases"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24745",
+        "room_desc": "Object-Oriented Prog in Java"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24746",
+        "room_desc": "Object-Oriented Program in C++"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24747",
+        "room_desc": "Operat System Lab"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24748",
+        "room_desc": "Operating Systems Principles"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24749",
+        "room_desc": "Operating-System Programming"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24750",
+        "room_desc": "Pascal Programm"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24751",
+        "room_desc": "Principles of Programming Lang"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24752",
+        "room_desc": "Prncpls Prog Lang"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24753",
+        "room_desc": "Probabilistic Models"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24754",
+        "room_desc": "Problem Solving with Computers"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24755",
+        "room_desc": "Prog Languages"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24756",
+        "room_desc": "Research Practicum"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24757",
+        "room_desc": "Research Projects"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24758",
+        "room_desc": "Sci24759: CMSC,\"Self-Study Programming"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24760",
+        "room_desc": "Seminar In Computer Science"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24761",
+        "room_desc": "Seminar In Csci"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24762",
+        "room_desc": "Seminars in Computer Science"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24763",
+        "room_desc": "Snobol"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24764",
+        "room_desc": "Software Design"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24765",
+        "room_desc": "Software Development Pract"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24766",
+        "room_desc": "Software Engineering"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24767",
+        "room_desc": "Spec Topics"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24768",
+        "room_desc": "Special Topics"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24769",
+        "room_desc": "Special Topics Computer Sci"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24770",
+        "room_desc": "Special Topics in Computer Sci"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24771",
+        "room_desc": "Special Topics-Csci"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24772",
+        "room_desc": "Spreadsheet Programming"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24773",
+        "room_desc": "Surv Comp Sci/Lec"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24774",
+        "room_desc": "Surv Comp Sci/Rec"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24775",
+        "room_desc": "Switch Theory 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24776",
+        "room_desc": "Switching Theory"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24777",
+        "room_desc": "Theory of Computation"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24778",
+        "room_desc": "Topic Sem In C S"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24779",
+        "room_desc": "Topics in Computing"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24780",
+        "room_desc": "Topics in Systems Simulation"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24781",
+        "room_desc": "VT:  Computer Science Capstone"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24782",
+        "room_desc": "VT: Computer Science Synthesis"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24783",
+        "room_desc": "VT: Honors Problems Comp Sci"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24784",
+        "room_desc": "VT: Research"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24785",
+        "room_desc": "VT: Special Topics in Comp Sci"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24786",
+        "room_desc": "Vt: Special Topics Comp Sci"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24787",
+        "room_desc": "Vt:Research"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24788",
+        "room_desc": "Vt:Seminars -Csci"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24789",
+        "room_desc": "Vt:Special Topics"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "24790",
+        "room_desc": "WWW Programming"
+    }
+]

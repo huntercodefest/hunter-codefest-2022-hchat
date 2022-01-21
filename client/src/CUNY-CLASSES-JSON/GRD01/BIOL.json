@@ -1,0 +1,1457 @@
+[
+    {
+        "major": "BIOL",
+        "room_num": "1173",
+        "desc": "Adv Mathematical Biol:Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1174",
+        "desc": "Adv Mathematical Biol:Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1175",
+        "desc": "Adv Physio Psych Ii"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1176",
+        "desc": "Advanced Statistics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1177",
+        "desc": "Advanced Study"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1178",
+        "desc": "Analy Mammal Cell in Tiss Cult"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1179",
+        "desc": "Analysis of Categorical Data"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1180",
+        "desc": "Anatomy & Physiology I"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1181",
+        "desc": "Animal Behavior I"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1182",
+        "desc": "Animal Behavior I: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1183",
+        "desc": "Animal Behavior II"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1184",
+        "desc": "Animal Behavior Lec"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1185",
+        "desc": "Animal Bhvr"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1186",
+        "desc": "Animal Communication: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1187",
+        "desc": "Animal Physiology I"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1188",
+        "desc": "Animal Physiology II"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1189",
+        "desc": "Animal Physiology: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1190",
+        "desc": "Animal Physiology: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1191",
+        "desc": "Animal Systematics: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1192",
+        "desc": "Applied Biostatistics 2"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1193",
+        "desc": "Applied Biostatistics 3"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1194",
+        "desc": "Applied Biostatistics I"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1195",
+        "desc": "Archeogonat Lec/Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1196",
+        "desc": "Bacteriophage"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1197",
+        "desc": "Basic Lab Tech for Research"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1198",
+        "desc": "Beh Aspects Ecology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1199",
+        "desc": "Behavior Genetics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1200",
+        "desc": "Behavior and Evolution"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1201",
+        "desc": "Biochem Evolution/Systematics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1202",
+        "desc": "Biochemistry"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1203",
+        "desc": "Biol Of Invertebrat"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1204",
+        "desc": "Biol System Lec/Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1205",
+        "desc": "Biologic Chemistry"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1206",
+        "desc": "Biological Chemistry"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1207",
+        "desc": "Biological Electron Microscopy"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1208",
+        "desc": "Biological Museology IV"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1209",
+        "desc": "Biological Systemics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1210",
+        "desc": "Biology Of Insects"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1211",
+        "desc": "Biology of Aging"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1212",
+        "desc": "Biology of Birds"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1213",
+        "desc": "Biology of Cancer"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1214",
+        "desc": "Biology of Estuaries"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1215",
+        "desc": "Biophysical Tech Physiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1216",
+        "desc": "Biostatistics I"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1217",
+        "desc": "Biostatistics II"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1218",
+        "desc": "Biotechnology of Algae"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1219",
+        "desc": "Botany"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1220",
+        "desc": "Brain Cls & Vis Perception"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1221",
+        "desc": "Cell & Molecular"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1222",
+        "desc": "Cell Biol I: Microorganisms"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1223",
+        "desc": "Cell Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1224",
+        "desc": "Cell Biology Ii"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1225",
+        "desc": "Cell Biology Internship"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1226",
+        "desc": "Cell Biology Lec"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1227",
+        "desc": "Cell Biology: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1228",
+        "desc": "Cell Biology: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1229",
+        "desc": "Cell Heredity I"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1230",
+        "desc": "Cell Heredity II"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1231",
+        "desc": "Cell Microsurgery"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1232",
+        "desc": "Cells in Culture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1233",
+        "desc": "Cellular & Molec Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1234",
+        "desc": "Cellular Physiology: Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1235",
+        "desc": "Cellular Physiology: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1236",
+        "desc": "Cellular Toxicology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1237",
+        "desc": "Cellular/Molecular Immunology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1238",
+        "desc": "Cmprtv Anml Physiol"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1239",
+        "desc": "Coll Ecol Evolution Behavior"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1240",
+        "desc": "Colloquium"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1241",
+        "desc": "Colloquium In Eeb"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1242",
+        "desc": "Community Ecology: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1243",
+        "desc": "Comp Animal Physiology:  Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1244",
+        "desc": "Comp Animal Physiology:  Lect"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1245",
+        "desc": "Comp Morph Vasculr Plants: Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1246",
+        "desc": "Comp Morph Vasculr Plants: Lec"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1247",
+        "desc": "Comp Neuroendocrine Mechanisms"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1248",
+        "desc": "Comp Vert Anat"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1249",
+        "desc": "Comparative Biochemistry: Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1250",
+        "desc": "Comparative Biochemistry: Lect"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1251",
+        "desc": "Comptnl Molec Biol: Lec/Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1252",
+        "desc": "Confocal Microsc"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1253",
+        "desc": "Confocal Microscopy"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1254",
+        "desc": "Conservation Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1255",
+        "desc": "Current Issues Behav Ontogeny"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1256",
+        "desc": "Cytogenetics: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1257",
+        "desc": "Cytogenetics: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1258",
+        "desc": "Cytology: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1259",
+        "desc": "Data Club"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1260",
+        "desc": "Devel Neurobiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1261",
+        "desc": "Develop Biol (Lect)"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1262",
+        "desc": "Developmental Biology: Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1263",
+        "desc": "Developmental Biology: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1264",
+        "desc": "Developmental Genetics: Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1265",
+        "desc": "Dissertation Supervision"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1266",
+        "desc": "Doct Dissrt Resch"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1267",
+        "desc": "Dros/Mod Sys Fuk Dv"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1268",
+        "desc": "Ecology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1269",
+        "desc": "Ecology: Lab and Field Study"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1270",
+        "desc": "Ecology: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1271",
+        "desc": "Economic Botany"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1272",
+        "desc": "Electrobiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1273",
+        "desc": "Electron Microscopy"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1274",
+        "desc": "Endocrine Cytology: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1275",
+        "desc": "Endocrine Cytology: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1276",
+        "desc": "Endocrinology: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1277",
+        "desc": "Endocrinology: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1278",
+        "desc": "Evol Biology of Vertebrates"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1279",
+        "desc": "Evolution"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1280",
+        "desc": "Evolution & Cultural Behavior"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1281",
+        "desc": "Evolution: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1282",
+        "desc": "Experimental Biology: Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1283",
+        "desc": "Experimental Biology: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1284",
+        "desc": "Experimental Microbiology: Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1285",
+        "desc": "Experimental Parasitology: Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1286",
+        "desc": "Experimental Parasitology: Lec"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1287",
+        "desc": "Experimentl Embryol"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1288",
+        "desc": "Fauna & Flora of NY"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1289",
+        "desc": "Field Studies Animal Behavior"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1290",
+        "desc": "Fishes & Fisheries Biol: Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1291",
+        "desc": "Fishes & Fisheries Biol: Lect"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1292",
+        "desc": "Fossil Record Lect"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1293",
+        "desc": "Foundations of Biology II"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1294",
+        "desc": "Funct/Adapt Biol of Mammalia"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1295",
+        "desc": "Fundamentals of Biostatistics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1296",
+        "desc": "General Biology 2"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1297",
+        "desc": "General Biology I"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1298",
+        "desc": "Genetics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1299",
+        "desc": "Genetics Multicellular Org I"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1300",
+        "desc": "Genetics Multicellular Org II"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1301",
+        "desc": "Genetics-Principles"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1302",
+        "desc": "Genetics/Embryology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1303",
+        "desc": "Genetics: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1304",
+        "desc": "Genetics: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1305",
+        "desc": "Hudson River"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1306",
+        "desc": "Hum Physiology & Biophys"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1307",
+        "desc": "Human Ant/Physiolgy"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1308",
+        "desc": "Human Genetics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1309",
+        "desc": "Human Neuroanatomy Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1310",
+        "desc": "Immunology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1311",
+        "desc": "Independent Doctoral Research"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1312",
+        "desc": "Independent Resch"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1313",
+        "desc": "Independnt Study in Palynology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1314",
+        "desc": "Indpndt Doct Resch"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1315",
+        "desc": "Intermed Neurobiol"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1316",
+        "desc": "Intro Bayesian Statistics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1317",
+        "desc": "Introduction to Biophysics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1318",
+        "desc": "Lab Rotation"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1319",
+        "desc": "Lab: Biol Basis of Animal Beh"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1320",
+        "desc": "Lab: Cell Ultrastrctr"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1321",
+        "desc": "Lab: Fine Cell Structure"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1322",
+        "desc": "Laboratory in Biotechnology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1323",
+        "desc": "Lec: Experimental Microbiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1324",
+        "desc": "Lect: Developmental Genetics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1325",
+        "desc": "Lecture: Community Ecology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1326",
+        "desc": "Lecture: Cytology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1327",
+        "desc": "Lecture: Marine Ecology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1328",
+        "desc": "Limnology: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1329",
+        "desc": "Limnology: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1330",
+        "desc": "Mach Lrng/AI/Bionformatics App"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1331",
+        "desc": "Macroevol: Patterns of Evol"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1332",
+        "desc": "Marine Benthos: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1333",
+        "desc": "Marine Benthos: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1334",
+        "desc": "Marine Ecology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1335",
+        "desc": "Marine Ecology: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1336",
+        "desc": "Marine Microbiology: Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1337",
+        "desc": "Marine Microbiology: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1338",
+        "desc": "Marine Plankton Dynamics: Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1339",
+        "desc": "Marine Plankton Dynamics: Lec"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1340",
+        "desc": "Mathematical Biology: Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1341",
+        "desc": "Mathematical Biology: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1342",
+        "desc": "Medical Microbiol & Immunology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1343",
+        "desc": "Microbial Ecology: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1344",
+        "desc": "Microbial Ecology: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1345",
+        "desc": "Microbial Genetics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1346",
+        "desc": "Microbial Physiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1347",
+        "desc": "Microbio/Immunology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1348",
+        "desc": "Microbiol Eco (Lab)"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1349",
+        "desc": "Microbiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1350",
+        "desc": "Microevolutionary Proc:Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1351",
+        "desc": "Microevolutionary Proc:Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1352",
+        "desc": "Modules in Neuroscience"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1353",
+        "desc": "Molecular Basis of Devel: Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1354",
+        "desc": "Molecular Basis of Devel: Lect"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1355",
+        "desc": "Molecular Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1356",
+        "desc": "Molecular Biology: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1357",
+        "desc": "Molecular Biology: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1358",
+        "desc": "Molecular Evolution"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1359",
+        "desc": "Molecular Genetics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1360",
+        "desc": "Molecular Genetics: Sci Ed"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1361",
+        "desc": "Molecular Neurobiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1362",
+        "desc": "Mthds Tchng Science"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1363",
+        "desc": "Neurobiology of Learn & Memory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1364",
+        "desc": "Neurophysiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1365",
+        "desc": "Neurophysiology Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1366",
+        "desc": "Neurosciences I: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1367",
+        "desc": "Neurosciences II: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1368",
+        "desc": "Neurosciences II: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1369",
+        "desc": "Numerical Systematics: Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1370",
+        "desc": "Oncogenes Cancer"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1371",
+        "desc": "Ornithology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1372",
+        "desc": "Paleobotany: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1373",
+        "desc": "Paleobotany: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1374",
+        "desc": "Photobiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1375",
+        "desc": "Physical Oceangrphy"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1376",
+        "desc": "Physiological Ecology: Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1377",
+        "desc": "Physiological Ecology: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1378",
+        "desc": "Phytochemistry: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1379",
+        "desc": "Phytochemistry: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1380",
+        "desc": "Phytoinformatics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1381",
+        "desc": "Plant Ecology: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1382",
+        "desc": "Plant Ecology: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1383",
+        "desc": "Plant Growth & Development"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1384",
+        "desc": "Plant Molecular Systematics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1385",
+        "desc": "Plant Morphogenesis: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1386",
+        "desc": "Plant Morphogenesis:Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1387",
+        "desc": "Plant Physiology: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1388",
+        "desc": "Plant Physiology: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1389",
+        "desc": "Plant Systematics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1390",
+        "desc": "Plant Systematics: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1391",
+        "desc": "Plant Systematics: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1392",
+        "desc": "Population Ecology: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1393",
+        "desc": "Population Ecology: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1394",
+        "desc": "Population Genetics: Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1395",
+        "desc": "Population Genetics: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1396",
+        "desc": "Prin Cell Microsurg/Micromani"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1397",
+        "desc": "Principles Of Biol"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1398",
+        "desc": "Principles of Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1399",
+        "desc": "Principles of Systematics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1400",
+        "desc": "Prob Microbial Genetics: Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1401",
+        "desc": "Prob in Experimental Cytology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1402",
+        "desc": "Problems in Ecology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1403",
+        "desc": "Problems in Nuclear Cytology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1404",
+        "desc": "Processes Of Aging"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1405",
+        "desc": "Quantitative Genetics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1406",
+        "desc": "Radiation Biology: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1407",
+        "desc": "Radiation Biology: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1408",
+        "desc": "Radioisotopes in Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1409",
+        "desc": "Recombinant Dna Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1410",
+        "desc": "Recombinant Dna Tec"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1411",
+        "desc": "ST: Animal Behavior-Biopsych"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1412",
+        "desc": "Scientific Communications"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1413",
+        "desc": "Sem Acoustic Commun in Animals"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1414",
+        "desc": "Sem Behavioral Aspects Ecology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1415",
+        "desc": "Sem Biological Oceanography 3"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1416",
+        "desc": "Sem Ecol/Evolution/Behavior"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1417",
+        "desc": "Sem Trop Forest Ecol/Conservtn"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1418",
+        "desc": "Sem/Microbiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1419",
+        "desc": "Sem: Hiv And Aids"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1420",
+        "desc": "Sem:Phytogeography"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1421",
+        "desc": "Seminar"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1422",
+        "desc": "Seminar in Animal Behavior"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1423",
+        "desc": "Seminar in Behavioral Genetics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1424",
+        "desc": "Seminar in Biochemistry"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1425",
+        "desc": "Seminar in Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1426",
+        "desc": "Seminar in Biomathematics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1427",
+        "desc": "Seminar in Biophysics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1428",
+        "desc": "Seminar in Cell Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1429",
+        "desc": "Seminar in Cytology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1430",
+        "desc": "Seminar in Developmental Biol"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1431",
+        "desc": "Seminar in Ecology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1432",
+        "desc": "Seminar in Genetics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1433",
+        "desc": "Seminar in Molecular Genetics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1434",
+        "desc": "Seminar in Physiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1435",
+        "desc": "Seminar in Special Topics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1436",
+        "desc": "Seminar in Systematics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1437",
+        "desc": "Seminar in Zoogeography"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1438",
+        "desc": "Sensory Physiol Lec"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1439",
+        "desc": "Sensory Physiology: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1440",
+        "desc": "Sensory Physiology: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1441",
+        "desc": "Spec Prob Devel Biol: Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1442",
+        "desc": "Spec Prob Developmntl Bio: Lec"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1443",
+        "desc": "Special Topic"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1444",
+        "desc": "Special Topics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1445",
+        "desc": "Stat For Biological Research"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1446",
+        "desc": "Statistical Analysis"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1447",
+        "desc": "Struct/Metabol Macromolecules"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1448",
+        "desc": "Syst/Evol Insects/Arachnid:Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1449",
+        "desc": "Syst/Evol Insects/Arachnid:Lec"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1450",
+        "desc": "Taxonomy Vascular Plants: Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1451",
+        "desc": "Taxonomy Vascular Plants: Lect"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1452",
+        "desc": "The Biology of Fishes"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1453",
+        "desc": "Topics in Cellular Signaling"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1454",
+        "desc": "Trends/Iss Physio/Neurosci I"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1455",
+        "desc": "Trends/Iss Physio/Neurosci II"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1456",
+        "desc": "Tutorial"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1457",
+        "desc": "Virology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1458",
+        "desc": "Workshop: Biotechnology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1459",
+        "desc": "World Vegetation"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1460",
+        "desc": "Zool/Phyl Chordata (Rept/Amph)"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1461",
+        "desc": "Zool/Phylog Chordata (Birds)"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1462",
+        "desc": "Zool/Phylog Chordata (Fishes)"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "1463",
+        "desc": "Zool/Phylog Chordata (Mammals)"
+    }
+]

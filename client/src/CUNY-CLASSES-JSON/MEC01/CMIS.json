@@ -1,0 +1,182 @@
+[
+    {
+        "major": "CMIS",
+        "room_num": "78210",
+        "desc": "Adv Internet & Emerg"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78211",
+        "desc": "Adv System Develpmnt & Implmnt"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78212",
+        "desc": "Advanced Programming"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78213",
+        "desc": "Applied Systems Development"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78214",
+        "desc": "Bus Data Netwks"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78215",
+        "desc": "Business Programming with Pl/I"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78216",
+        "desc": "CIS Internship"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78217",
+        "desc": "Cis Ind. Study"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78218",
+        "desc": "Client/Server Cmptg"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78219",
+        "desc": "Comp Apps in Healthcare"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78220",
+        "desc": "Computer Graphics"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78221",
+        "desc": "Computer Literacy"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78222",
+        "desc": "Computer Networks"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78223",
+        "desc": "Contemporary Comp Apps"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78224",
+        "desc": "Data St For Bus Appl"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78225",
+        "desc": "Database Management Systems"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78226",
+        "desc": "Database Syst Des & Mgmt"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78227",
+        "desc": "Digital Media"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78228",
+        "desc": "Dist/Client/Serv Com"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78229",
+        "desc": "Fndtn Cis Using C++"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78230",
+        "desc": "Found/Comp Info Syst"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78231",
+        "desc": "Fund of Electronic Commerce"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78232",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78233",
+        "desc": "Information Security"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78234",
+        "desc": "Internet & Emerg Technlgy"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78235",
+        "desc": "Introduction to Programming"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78236",
+        "desc": "Machine Org and Assembler Lang"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78237",
+        "desc": "Network Operating Systems"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78238",
+        "desc": "Operating Systems"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78239",
+        "desc": "RPG Programming"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78240",
+        "desc": "Special Topics"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78241",
+        "desc": "Special Topics Info Technology"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78242",
+        "desc": "Srvy of Comp Prgrmmng Lang"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78243",
+        "desc": "System Develop"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78244",
+        "desc": "Visual Basic"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "78245",
+        "desc": "Visual C++"
+    }
+]

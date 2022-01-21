@@ -1,0 +1,47 @@
+[
+    {
+        "major": "SEEK",
+        "room_num": "76605",
+        "desc": "Career Workshop"
+    },
+    {
+        "major": "SEEK",
+        "room_num": "76606",
+        "desc": "Counseling Workshop"
+    },
+    {
+        "major": "SEEK",
+        "room_num": "76607",
+        "desc": "SEEK Math Immersion Workshop"
+    },
+    {
+        "major": "SEEK",
+        "room_num": "76608",
+        "desc": "SEEK Math Workshop"
+    },
+    {
+        "major": "SEEK",
+        "room_num": "76609",
+        "desc": "SEEK Reading Immersion Workshp"
+    },
+    {
+        "major": "SEEK",
+        "room_num": "76610",
+        "desc": "SEEK Reading Workshop"
+    },
+    {
+        "major": "SEEK",
+        "room_num": "76611",
+        "desc": "SEEK Reading/Writing Workshop"
+    },
+    {
+        "major": "SEEK",
+        "room_num": "76612",
+        "desc": "SEEK Writing Immersion Workshp"
+    },
+    {
+        "major": "SEEK",
+        "room_num": "76613",
+        "desc": "SEEK Writing Workshop"
+    }
+]

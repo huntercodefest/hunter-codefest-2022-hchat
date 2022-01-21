@@ -1,0 +1,787 @@
+[
+    {
+        "major": "PSYC",
+        "room_num": "61851",
+        "desc": "Abnormal Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61852",
+        "desc": "Addiction and Dependency"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61853",
+        "desc": "Adv PSY Testing"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61854",
+        "desc": "Adv Rsrch Methods in Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61855",
+        "desc": "Advanced Organizational Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61856",
+        "desc": "Advanced Personnel Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61857",
+        "desc": "Animal Behavior"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61858",
+        "desc": "Applied Statistical Analysis"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61859",
+        "desc": "Assessment in Counseling"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61860",
+        "desc": "Attitude and Attitude Change"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61861",
+        "desc": "Capstone: Psy Appr Cont Probl"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61862",
+        "desc": "Career Counseling"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61863",
+        "desc": "Child and Adolescent Psychopat"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61864",
+        "desc": "Clin Techq Ind Psy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61865",
+        "desc": "Clinical Health Counseling"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61866",
+        "desc": "Clinical Instructions"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61867",
+        "desc": "Clinical Interviewing"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61868",
+        "desc": "Cognitive Behavioral Therapy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61869",
+        "desc": "Cognitive Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61870",
+        "desc": "Coping with Grief and Trauma"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61871",
+        "desc": "Counseling and Group Process"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61872",
+        "desc": "Design Of Psy Resrch"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61873",
+        "desc": "Design of Psy Research Sem I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61874",
+        "desc": "Dev: Child&Adoles"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61875",
+        "desc": "Developmental Psychology: Adul"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61876",
+        "desc": "Diag & Apprsl Sp Gp"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61877",
+        "desc": "Diversity in the Workplace"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61878",
+        "desc": "Drugs61879: PSYC,\"Emotions in the Workplace"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61880",
+        "desc": "Environmental Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61881",
+        "desc": "Ethical & Legal Iss"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61882",
+        "desc": "Evolution of Modern Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61883",
+        "desc": "Exper Psych Of Learn"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61884",
+        "desc": "Experimental Philosophy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61885",
+        "desc": "Experimental Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61886",
+        "desc": "Found of Mental Health Counsel"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61887",
+        "desc": "General Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61888",
+        "desc": "H: Psy Appr to Contemp Probs"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61889",
+        "desc": "HON Psychology of the Family"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61890",
+        "desc": "Health Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61891",
+        "desc": "Hon Evol Mod Psy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61892",
+        "desc": "Hon Independent Study PSY I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61893",
+        "desc": "Hon Independent Study PSY II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61894",
+        "desc": "Hon Physiolo Psy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61895",
+        "desc": "Honors - Abnormal Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61896",
+        "desc": "Honors - Cognitive Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61897",
+        "desc": "Honors - General Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61898",
+        "desc": "Honors - Management Behavior"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61899",
+        "desc": "Honors - Psychology I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61900",
+        "desc": "Honors - Psychology II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61901",
+        "desc": "Honors Adv Rsrch Mthds in Psy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61902",
+        "desc": "Honors Special Topics in Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61903",
+        "desc": "Honors- Social Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61904",
+        "desc": "Honors-Lit & Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61905",
+        "desc": "Honors: Ind and Org Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61906",
+        "desc": "Honors: Spe Top in POL SCI"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61907",
+        "desc": "Human Engineering"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61908",
+        "desc": "Independent Study PSY II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61909",
+        "desc": "Independent Study PSY III"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61910",
+        "desc": "Independent Study PSY IV"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61911",
+        "desc": "Independent Study PSY V"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61912",
+        "desc": "Independent study Psychology I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61913",
+        "desc": "Industrial & Orgnizal Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61914",
+        "desc": "Internship I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61915",
+        "desc": "Internship II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61916",
+        "desc": "Internship Project Experience"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61917",
+        "desc": "Internshp In I/O Psy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61918",
+        "desc": "Interviewing Techniques"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61919",
+        "desc": "Intro Environmental Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61920",
+        "desc": "Ldrshp & Managerial Develpmnt"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61921",
+        "desc": "Leadership and Group Processes"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61922",
+        "desc": "Leadershp/Mgrl Devel"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61923",
+        "desc": "Lect Gen Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61924",
+        "desc": "Life Span Development"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61925",
+        "desc": "Literature and Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61926",
+        "desc": "Mind61927: PSYC,\"Obesity & Eating Dsr"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61928",
+        "desc": "Occupational Health Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61929",
+        "desc": "Org Strct & Dynmc"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61930",
+        "desc": "Personality"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61931",
+        "desc": "Personality & Indv Differences"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61932",
+        "desc": "Philosophy and Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61933",
+        "desc": "Physiological Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61934",
+        "desc": "Political Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61935",
+        "desc": "Positive Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61936",
+        "desc": "Prac Commun Psy Serv"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61937",
+        "desc": "Prac Lab & Resrch II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61938",
+        "desc": "Pract Conj W Psy 90"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61939",
+        "desc": "Pract In Comm Psy II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61940",
+        "desc": "Pract Lab & Resrch I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61941",
+        "desc": "Practicum/Experiential"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61942",
+        "desc": "Prob Ind Psy/Personn"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61943",
+        "desc": "Prob Indust Psych II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61944",
+        "desc": "Psy Atten & Percep"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61945",
+        "desc": "Psy Consum Motivatn"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61946",
+        "desc": "Psy Disabling Condtn"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61947",
+        "desc": "Psy Field Research"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61948",
+        "desc": "Psy Impact Org Indv"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61949",
+        "desc": "Psy Of Stress Mgt"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61950",
+        "desc": "Psy Proc In Organiz"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61951",
+        "desc": "Psy Study Of Pol Beh"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61952",
+        "desc": "Psych Gen Ed Req Met"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61953",
+        "desc": "Psych Of Stress Mgmt"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61954",
+        "desc": "Psychology And Law"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61955",
+        "desc": "Psychology And The Internet"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61956",
+        "desc": "Psychology Honors III"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61957",
+        "desc": "Psychology Honors III Honors"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61958",
+        "desc": "Psychology Internship"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61959",
+        "desc": "Psychology Of Death"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61960",
+        "desc": "Psychology Of Deviat"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61961",
+        "desc": "Psychology Proseminar I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61962",
+        "desc": "Psychology and Culture"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61963",
+        "desc": "Psychology and Urban Problems"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61964",
+        "desc": "Psychology of Advertising"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61965",
+        "desc": "Psychology of Career Dev&Plan"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61966",
+        "desc": "Psychology of Gender"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61967",
+        "desc": "Psychology of Learning"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61968",
+        "desc": "Psychology of Life Experience"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61969",
+        "desc": "Psychology of Motivation"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61970",
+        "desc": "Psychology of Religion"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61971",
+        "desc": "Psychology of Training and Dev"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61972",
+        "desc": "Psychology of Women"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61973",
+        "desc": "Psychology of the Family"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61974",
+        "desc": "Psychometric Methods"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61975",
+        "desc": "Psychopathology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61976",
+        "desc": "Psychopathology of Childhood"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61977",
+        "desc": "Psychosocial & Cult"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61978",
+        "desc": "Research Methods for Thesis I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61979",
+        "desc": "Research Methods in Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61980",
+        "desc": "Research Practicum Psych II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61981",
+        "desc": "Research Practicum in Psy I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61982",
+        "desc": "Resrch Practicum III"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61983",
+        "desc": "Rsrch & Prog Evaluation"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61984",
+        "desc": "Rsrch Sem Eval Psych Rsrch II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61985",
+        "desc": "Sem Indus & Org Psy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61986",
+        "desc": "Seminar Contemp Psy Topics"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61987",
+        "desc": "Sensation and Perception"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61988",
+        "desc": "Sexuality:Alternativ"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61989",
+        "desc": "Small Group Processes"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61990",
+        "desc": "Social Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61991",
+        "desc": "Spec Prbms in Psych Series II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61992",
+        "desc": "Spec Prob Psy II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61993",
+        "desc": "Spec Probs In PSY II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61994",
+        "desc": "Spec Topics In Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61995",
+        "desc": "Special Prob In Psy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61996",
+        "desc": "Special Problems in Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61997",
+        "desc": "Special Problems/Psy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61998",
+        "desc": "Special Topics in Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "61999",
+        "desc": "Statistics for Social Science"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "62000",
+        "desc": "Tests and Measurements"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "62001",
+        "desc": "The Psychology of Motivation"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "62002",
+        "desc": "The Psychology of Sleep"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "62003",
+        "desc": "Theories of  Personality"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "62004",
+        "desc": "Theories of Counseling"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "62005",
+        "desc": "Thesis (Thesis II)"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "62006",
+        "desc": "Thought and Reality"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "62007",
+        "desc": "Trainng & Ldrshp Dev"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "62008",
+        "desc": "Trnscult Cncpt Mentl"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "62009",
+        "desc": "Vocational Psychology"
+    }
+]

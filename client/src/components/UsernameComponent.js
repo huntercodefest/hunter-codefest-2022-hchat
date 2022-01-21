@@ -1,5 +1,6 @@
 import React from "react";
-import classes from "../app.module.css";
+import Modal from "./Modal"
+import classes from "../css/app.module.css";
 
 class UsernameComponent extends React.Component {
 	constructor(props) {

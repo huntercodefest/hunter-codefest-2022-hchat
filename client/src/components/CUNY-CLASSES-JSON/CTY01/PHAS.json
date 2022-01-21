@@ -1,0 +1,632 @@
+[
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42606",
+        "room_desc": "Anatomy"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42607",
+        "room_desc": "Behavioral Sci 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42608",
+        "room_desc": "Behavioral Science"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42609",
+        "room_desc": "Behavioral Science I"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42610",
+        "room_desc": "Clinical Anatomy"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42611",
+        "room_desc": "Clinical Correlation"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42612",
+        "room_desc": "Clinical Correlation I"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42613",
+        "room_desc": "Clinical Correlation II"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42614",
+        "room_desc": "Clinical Laboratory"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42615",
+        "room_desc": "Clinical Medicine I"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42616",
+        "room_desc": "Clinical Medicine II"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42617",
+        "room_desc": "Clinical Medicine III"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42618",
+        "room_desc": "Clinical Practice: Pediatrics"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42619",
+        "room_desc": "Clinical Seminar 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42620",
+        "room_desc": "Clinical Seminar 3"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42621",
+        "room_desc": "Clinical Seminar II"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42622",
+        "room_desc": "Cln Prac:Geriatrics"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42623",
+        "room_desc": "Cln Prac:Sicu/Elect"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42624",
+        "room_desc": "Clncl Correlates 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42625",
+        "room_desc": "Clncl Correlates 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42626",
+        "room_desc": "Clncl Med Lec"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42627",
+        "room_desc": "Clncl Prac Emerg Rm"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42628",
+        "room_desc": "Clncl Prac Medcine"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42629",
+        "room_desc": "Cml Cluster 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42630",
+        "room_desc": "Cml Cluster 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42631",
+        "room_desc": "Cml Cluster 3"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42632",
+        "room_desc": "Community Med/Public Health"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42633",
+        "room_desc": "Crit Care/Sicu Rotat"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42634",
+        "room_desc": "Critical Care Clerkship"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42635",
+        "room_desc": "Cross-Cultrl Comp in Counslng"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42636",
+        "room_desc": "Cult-Health-Illness"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42637",
+        "room_desc": "Elective Clerkship"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42638",
+        "room_desc": "Emergency Med Rotatn"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42639",
+        "room_desc": "Emergency Medicine"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42640",
+        "room_desc": "Emergency Medicine Clerkship"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42641",
+        "room_desc": "Epidemiology"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42642",
+        "room_desc": "Fndmntls Embryology"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42643",
+        "room_desc": "Geriatrics"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42644",
+        "room_desc": "Geriatrics Clerkship"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42645",
+        "room_desc": "Geriatrics Rotation"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42646",
+        "room_desc": "Graduate Pairing"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42647",
+        "room_desc": "Gross Anatomy"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42648",
+        "room_desc": "Gross Anatomy and Embyrology"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42649",
+        "room_desc": "Health Promote-Disease Prevent"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42650",
+        "room_desc": "Health42651: PHAS,\"Hist Of Profession"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42652",
+        "room_desc": "History of the Profession"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42653",
+        "room_desc": "Hlth Prom Dis Prev"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42654",
+        "room_desc": "Hlth-Law-Economics"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42655",
+        "room_desc": "I C U"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42656",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42657",
+        "room_desc": "Integrative Medicine"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42658",
+        "room_desc": "Internal Medicine Clerkship"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42659",
+        "room_desc": "Interview and Counseling"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42660",
+        "room_desc": "Interviewing and Counseling II"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42661",
+        "room_desc": "Intv-Cnsl-Cul-Lab 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42662",
+        "room_desc": "Lec Obstrcs & Gyn"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42663",
+        "room_desc": "Lect Srgy & Emrg Med"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42664",
+        "room_desc": "Lecture in Pediatrics"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42665",
+        "room_desc": "Medical Pres Skills Develmnt"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42666",
+        "room_desc": "Medical Spanish"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42667",
+        "room_desc": "Medicine Rotation"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42668",
+        "room_desc": "Microbiology"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42669",
+        "room_desc": "Ob/Gyn Rotation"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42670",
+        "room_desc": "Obstetrics Gyn Clerkship"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42671",
+        "room_desc": "Obstetrics and Gynecology"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42672",
+        "room_desc": "Orient Medical Term"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42673",
+        "room_desc": "Pance: Clinical Seminar 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42674",
+        "room_desc": "Pance:Clinical Sem 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42675",
+        "room_desc": "Pance:Clinical Sem 3"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42676",
+        "room_desc": "Pathology"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42677",
+        "room_desc": "Patient Education"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42678",
+        "room_desc": "Patient Education 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42679",
+        "room_desc": "Patient Interviewing\t"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42680",
+        "room_desc": "Pediatrics"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42681",
+        "room_desc": "Pediatrics Clerkship"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42682",
+        "room_desc": "Pediatrics Rotation"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42683",
+        "room_desc": "Pharmacology"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42684",
+        "room_desc": "Pharmacology 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42685",
+        "room_desc": "Pharmacology 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42686",
+        "room_desc": "Pharmacology I"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42687",
+        "room_desc": "Pharmacology II"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42688",
+        "room_desc": "Physical Diagnosis"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42689",
+        "room_desc": "Physical Diagnosis 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42690",
+        "room_desc": "Physical Diagnosis II"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42691",
+        "room_desc": "Physicl Diagnosis 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42692",
+        "room_desc": "Physicl Diagnosis 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42693",
+        "room_desc": "Physiology 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42694",
+        "room_desc": "Physiology 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42695",
+        "room_desc": "Physiology I"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42696",
+        "room_desc": "Physiology II"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42697",
+        "room_desc": "Prcptrshp Prim Care"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42698",
+        "room_desc": "Prcptrshp Prm Cre 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42699",
+        "room_desc": "Preceptorship Permit Credits 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42700",
+        "room_desc": "Preventive Medicine"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42701",
+        "room_desc": "Primary Care Clerkship"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42702",
+        "room_desc": "Primary Care Rotatn"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42703",
+        "room_desc": "Psychiatric Rotation"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42704",
+        "room_desc": "Psychiatry"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42705",
+        "room_desc": "Psychiatry Clerkship"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42706",
+        "room_desc": "Quantitative Meths"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42707",
+        "room_desc": "Research Methods"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42708",
+        "room_desc": "Surgery"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42709",
+        "room_desc": "Surgery Clerkship"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42710",
+        "room_desc": "Surgery Rotation"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "42711",
+        "room_desc": "Technical Skills"
+    }
+]

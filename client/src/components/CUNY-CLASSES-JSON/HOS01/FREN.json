@@ -1,0 +1,56 @@
+[
+    {
+        "school": "HOS01",
+        "major": "FREN",
+        "room_num": "64753",
+        "room_desc": "African Literature in French"
+    },
+    {
+        "school": "HOS01",
+        "major": "FREN",
+        "room_num": "64754",
+        "room_desc": "Elementary French I"
+    },
+    {
+        "school": "HOS01",
+        "major": "FREN",
+        "room_num": "64755",
+        "room_desc": "Elementary French I (HONORS)"
+    },
+    {
+        "school": "HOS01",
+        "major": "FREN",
+        "room_num": "64756",
+        "room_desc": "Elementary French II"
+    },
+    {
+        "school": "HOS01",
+        "major": "FREN",
+        "room_num": "64757",
+        "room_desc": "Elementary French II (HONORS)"
+    },
+    {
+        "school": "HOS01",
+        "major": "FREN",
+        "room_num": "64758",
+        "room_desc": "Extensive Readings in French"
+    },
+    {
+        "school": "HOS01",
+        "major": "FREN",
+        "room_num": "64759",
+        "room_desc": "French Culture and Science"
+    },
+    {
+        "school": "HOS01",
+        "major": "FREN",
+        "room_num": "64760",
+        "room_desc": "Intermediate French I"
+    },
+    {
+        "school": "HOS01",
+        "major": "FREN",
+        "room_num": "64761",
+        "room_desc": "Intermediate French II"
+    }
+]

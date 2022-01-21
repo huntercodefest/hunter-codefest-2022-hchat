@@ -1,0 +1,278 @@
+[
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22826",
+        "room_desc": "Applied Mechanics"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22827",
+        "room_desc": "Architectural Design II"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22828",
+        "room_desc": "Autocad - Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22829",
+        "room_desc": "Autodesk - Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22830",
+        "room_desc": "CIM -Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22831",
+        "room_desc": "Cad Management-Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22832",
+        "room_desc": "Com App In Et Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22833",
+        "room_desc": "Comp Aid Man Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22834",
+        "room_desc": "Comp Appl In Engineering Tech"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22835",
+        "room_desc": "Comp Con Manuf  Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22836",
+        "room_desc": "Comp Controlled Manufacturing"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22837",
+        "room_desc": "Comp Lab In Mt"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22838",
+        "room_desc": "Computer Aided Design I"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22839",
+        "room_desc": "Computer Aided Design II"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22840",
+        "room_desc": "Computer-Aided Manufacturing"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22841",
+        "room_desc": "Computer-Integrated Manufactur"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22842",
+        "room_desc": "Cooperative Edu/Design Project"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22843",
+        "room_desc": "Elec & Mech Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22844",
+        "room_desc": "Elec-Mech Dr & Tec"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22845",
+        "room_desc": "Engineering Analysis"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22846",
+        "room_desc": "Fund Cnc Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22847",
+        "room_desc": "Fund. of Comp Numerical Contrl"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22848",
+        "room_desc": "Fundamentals of HVAC Systems"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22849",
+        "room_desc": "Int Num Con Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22850",
+        "room_desc": "Intro to Virtual Automation"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22851",
+        "room_desc": "Machine Design"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22852",
+        "room_desc": "Manufacturing Processes"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22853",
+        "room_desc": "Manufctrng Proc Lb"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22854",
+        "room_desc": "Measurement Techniques TS"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22855",
+        "room_desc": "Metallurgy and Materials"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22856",
+        "room_desc": "Metallurgy and Materials Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22857",
+        "room_desc": "Microcomputer Programming"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22858",
+        "room_desc": "Parametric Comp-Aided Design"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22859",
+        "room_desc": "Parametric Computer Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22860",
+        "room_desc": "Power Tech Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22861",
+        "room_desc": "Principles of Automotive Tech"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22862",
+        "room_desc": "Principles of CAD Management"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22863",
+        "room_desc": "Strength of Materials"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22864",
+        "room_desc": "Strength of Materials Laborato"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22865",
+        "room_desc": "Survey & Layout Lb"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22866",
+        "room_desc": "Tech Geom & Autocad"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22867",
+        "room_desc": "Technical Graphics"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22868",
+        "room_desc": "Thermo-Fluid Sys - Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22869",
+        "room_desc": "Thermo-Fluid Systems"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22870",
+        "room_desc": "Thermodynamics"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "22871",
+        "room_desc": "Virtual Auto Lab"
+    }
+]

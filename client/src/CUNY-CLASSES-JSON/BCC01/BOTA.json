@@ -1,0 +1,37 @@
+[
+    {
+        "major": "BOTA",
+        "room_num": "68822",
+        "desc": "Basic Botany"
+    },
+    {
+        "major": "BOTA",
+        "room_num": "68823",
+        "desc": "Conifers"
+    },
+    {
+        "major": "BOTA",
+        "room_num": "68824",
+        "desc": "Entomolgy"
+    },
+    {
+        "major": "BOTA",
+        "room_num": "68825",
+        "desc": "Fall Trees and Shrubs"
+    },
+    {
+        "major": "BOTA",
+        "room_num": "68826",
+        "desc": "Plant Form and Function"
+    },
+    {
+        "major": "BOTA",
+        "room_num": "68827",
+        "desc": "Plant Kingdom"
+    },
+    {
+        "major": "BOTA",
+        "room_num": "68828",
+        "desc": "Spring Trees/Shrubs"
+    }
+]

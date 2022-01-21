@@ -1,0 +1,27 @@
+[
+    {
+        "major": "ITAL",
+        "room_num": "64802",
+        "desc": "Elementary Italian 2 (HONORS)"
+    },
+    {
+        "major": "ITAL",
+        "room_num": "64803",
+        "desc": "Elementary Italian I"
+    },
+    {
+        "major": "ITAL",
+        "room_num": "64804",
+        "desc": "Elementary Italian II"
+    },
+    {
+        "major": "ITAL",
+        "room_num": "64805",
+        "desc": "Intermediate Italian I"
+    },
+    {
+        "major": "ITAL",
+        "room_num": "64806",
+        "desc": "Intermediate Italian II"
+    }
+]

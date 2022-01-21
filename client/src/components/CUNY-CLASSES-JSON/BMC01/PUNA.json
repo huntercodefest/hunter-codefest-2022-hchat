@@ -1,0 +1,26 @@
+[
+    {
+        "school": "BMC01",
+        "major": "PUNA",
+        "room_num": "19027",
+        "room_desc": "Intro Public Affairs & Admin"
+    },
+    {
+        "school": "BMC01",
+        "major": "PUNA",
+        "room_num": "19028",
+        "room_desc": "Performance Measurement"
+    },
+    {
+        "school": "BMC01",
+        "major": "PUNA",
+        "room_num": "19029",
+        "room_desc": "Policy Development & Analysis"
+    },
+    {
+        "school": "BMC01",
+        "major": "PUNA",
+        "room_num": "19030",
+        "room_desc": "Res Meth NonProf & Pub Adm"
+    }
+]

@@ -1,5 +1,5 @@
 import React from "react";
-import classes from "../app.module.css";
+import classes from "../css/app.module.css";
 
 class MessageInput extends React.Component {
 	constructor(props) {

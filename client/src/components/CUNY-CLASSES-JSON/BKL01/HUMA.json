@@ -1,0 +1,50 @@
+[
+    {
+        "school": "BKL01",
+        "major": "HUMA",
+        "room_num": "74298",
+        "room_desc": "Hum: Arts & Lit 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "HUMA",
+        "room_num": "74299",
+        "room_desc": "Integrated Study Arts & Lit"
+    },
+    {
+        "school": "BKL01",
+        "major": "HUMA",
+        "room_num": "74300",
+        "room_desc": "Interdisc Project"
+    },
+    {
+        "school": "BKL01",
+        "major": "HUMA",
+        "room_num": "74301",
+        "room_desc": "Intr Communicats"
+    },
+    {
+        "school": "BKL01",
+        "major": "HUMA",
+        "room_num": "74302",
+        "room_desc": "Non West Lit"
+    },
+    {
+        "school": "BKL01",
+        "major": "HUMA",
+        "room_num": "74303",
+        "room_desc": "Sem:Arts Lit H"
+    },
+    {
+        "school": "BKL01",
+        "major": "HUMA",
+        "room_num": "74304",
+        "room_desc": "Studies in the Arts of America"
+    },
+    {
+        "school": "BKL01",
+        "major": "HUMA",
+        "room_num": "74305",
+        "room_desc": "Women\u2019S Studies"
+    }
+]

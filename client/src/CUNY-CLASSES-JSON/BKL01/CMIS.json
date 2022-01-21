@@ -1,0 +1,1217 @@
+[
+    {
+        "major": "CMIS",
+        "room_num": "70988",
+        "desc": "Acctg Computing"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "70989",
+        "desc": "Adv Microcomp Applic"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "70990",
+        "desc": "Adv PC Techniques for Business"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "70991",
+        "desc": "Adv Pc Computing"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "70992",
+        "desc": "Adv Pgm Tchnqs-C"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "70993",
+        "desc": "Adv Pgm Techniques"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "70994",
+        "desc": "Adv Pgm Technqs"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "70995",
+        "desc": "Advanced Computing Topics"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "70996",
+        "desc": "Advanced Database Systems"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "70997",
+        "desc": "Advanced Digital Art"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "70998",
+        "desc": "Advanced Seminar 1"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "70999",
+        "desc": "Advanced Seminar 2"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71000",
+        "desc": "Algorithms and Complexity"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71001",
+        "desc": "Analysis of Algorithms"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71002",
+        "desc": "Applied Software Development"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71003",
+        "desc": "Artificial Intelligence"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71004",
+        "desc": "Artificial Intelligence I"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71005",
+        "desc": "Artificial Intelligence II"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71006",
+        "desc": "Assembly Lang Prog"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71007",
+        "desc": "Assembly Lang Prog for Microco"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71008",
+        "desc": "Assmbly Lang Micro"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71009",
+        "desc": "C++ For C Prgmrs"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71010",
+        "desc": "Cis System&Architect"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71011",
+        "desc": "Client-Server Web Programming"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71012",
+        "desc": "Cmptg: Nat71013: CMIS,\"Cmptr Applic H Sci"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71014",
+        "desc": "Cmptr Organization"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71015",
+        "desc": "Cmptrs: Soc Conseq"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71016",
+        "desc": "Cmputer Architecture"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71017",
+        "desc": "Communic Networks"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71018",
+        "desc": "Communication Networks"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71019",
+        "desc": "Comp Application in Health Sci"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71020",
+        "desc": "Comp-Human Interface"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71021",
+        "desc": "Compiler Construction"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71022",
+        "desc": "Compilers 2"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71023",
+        "desc": "Computability & Unsolvability"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71024",
+        "desc": "Computer Architecture"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71025",
+        "desc": "Computer Graphics"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71026",
+        "desc": "Computer Mangement Games"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71027",
+        "desc": "Computer Mgmt Games"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71028",
+        "desc": "Computer Networks"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71029",
+        "desc": "Computer Networks & Protocols"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71030",
+        "desc": "Computer Organization"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71031",
+        "desc": "Computer Programming Sci App 2"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71032",
+        "desc": "Computer Security"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71033",
+        "desc": "Computer Systems &Architecture"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71034",
+        "desc": "Computers and Ethics"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71035",
+        "desc": "Computers and Software"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71036",
+        "desc": "Computers: Social Consequences"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71037",
+        "desc": "Computing &Quantitative Reason"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71038",
+        "desc": "Computing Workshop 1"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71039",
+        "desc": "Computing Workshop 2"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71040",
+        "desc": "Computing Workshop 2computing"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71041",
+        "desc": "Computing Workshop I"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71042",
+        "desc": "Computing:Nature Power&Limits"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71043",
+        "desc": "Cryptography and Cryptanalysis"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71044",
+        "desc": "Cryptosystems"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71045",
+        "desc": "Data Mining & Applied Machine"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71046",
+        "desc": "Data Structures"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71047",
+        "desc": "Data Tools and Algorithms"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71048",
+        "desc": "Data Visualization"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71049",
+        "desc": "Database Systems"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71050",
+        "desc": "Declarative Pgmg"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71051",
+        "desc": "Declarative Programming"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71052",
+        "desc": "Desgn&Implemntatn 1"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71053",
+        "desc": "Design & Implementation I"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71054",
+        "desc": "Design&Implemntatn 2"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71055",
+        "desc": "Design&Implemntatn Web Applctn"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71056",
+        "desc": "Digital Computer Systems"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71057",
+        "desc": "Digital Image Processing"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71058",
+        "desc": "Digital Signal Processing"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71059",
+        "desc": "Discrete Structure"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71060",
+        "desc": "Discrete Structures"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71061",
+        "desc": "Distributed Cmptg"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71062",
+        "desc": "Distributed Sys Adm"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71063",
+        "desc": "Distributed System Adminstratn"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71064",
+        "desc": "Electronic Commerce"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71065",
+        "desc": "Elementary Robotics"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71066",
+        "desc": "Engineering Mobile Software"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71067",
+        "desc": "Expert Systems"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71068",
+        "desc": "Exploring Robotics"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71069",
+        "desc": "Formal Langs& Autom"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71070",
+        "desc": "Found System Program"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71071",
+        "desc": "Foundat Cognit Sci"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71072",
+        "desc": "Foundation Business Analytics"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71073",
+        "desc": "Foundations System Programming"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71074",
+        "desc": "Funct Progr Langs"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71075",
+        "desc": "Game Design"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71076",
+        "desc": "Game Design and Development"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71077",
+        "desc": "Game Programming"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71078",
+        "desc": "Game Theory and Social Choice"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71079",
+        "desc": "Graph and Network Algorithms"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71080",
+        "desc": "Graphics Algrthms"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71081",
+        "desc": "Graphics Soft Dsgn"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71082",
+        "desc": "Graphics: Software Sys Design"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71083",
+        "desc": "Health Informatics Internship"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71084",
+        "desc": "Human-Computer Interaction"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71085",
+        "desc": "IT Project Management"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71086",
+        "desc": "Independent & Group Projects 1"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71087",
+        "desc": "Independent & Group Projects 2"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71088",
+        "desc": "Independent Study & Research 2"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71089",
+        "desc": "Independent Study & Research 3"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71090",
+        "desc": "Independent Study & Research 4"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71091",
+        "desc": "Independent Study & Research I"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71092",
+        "desc": "Info Syst Plan & Pol"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71093",
+        "desc": "Info System Project Management"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71094",
+        "desc": "Info Systems Planning & Policy"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71095",
+        "desc": "Information Security"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71096",
+        "desc": "Information Systems Management"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71097",
+        "desc": "Information and Computation"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71098",
+        "desc": "Int Cmptr Applctns"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71099",
+        "desc": "Intr Comput & Unsolv"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71100",
+        "desc": "Intro Cmptr Systs"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71101",
+        "desc": "Intro Modern Prog Techniques"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71102",
+        "desc": "Intro Multi Comput"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71103",
+        "desc": "Intro Multimedia Programming"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71104",
+        "desc": "Intro Multmedia Prg"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71105",
+        "desc": "Intro Natl Lang/Proc"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71106",
+        "desc": "Intro Natural Lang Processing"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71107",
+        "desc": "Intro Prg Sci Appl 1"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71108",
+        "desc": "Intro Prg Sci Appl 2"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71109",
+        "desc": "Intro Prgmg In C++"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71110",
+        "desc": "Intro Prmg Using C++"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71111",
+        "desc": "Intro Scientific"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71112",
+        "desc": "Intro Software Engin"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71113",
+        "desc": "Intro To C++ Program"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71114",
+        "desc": "Intro To Cis Applic"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71115",
+        "desc": "Intro to Computer Applications"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71116",
+        "desc": "Intro to JAVA Programming"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71117",
+        "desc": "Intro to Modeling & Simulation"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71118",
+        "desc": "Intro to Programming In C++"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71119",
+        "desc": "Intro to Programming in Python"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71120",
+        "desc": "Intro to Software Engineering"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71121",
+        "desc": "Introduction Music Computing"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71122",
+        "desc": "Introduction to Data Science"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71123",
+        "desc": "JAVA Prog in Sci Appliction 2"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71124",
+        "desc": "JAVA Prog:Science Applcation 1"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71125",
+        "desc": "Java for Programmers"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71126",
+        "desc": "Lang & Automat Theor"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71127",
+        "desc": "Languages & Automata Theory"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71128",
+        "desc": "Local Area Networks"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71129",
+        "desc": "Logic In Cmptr Sci"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71130",
+        "desc": "Logic Programming"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71131",
+        "desc": "Logic in Computer Science"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71132",
+        "desc": "Machine Learning"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71133",
+        "desc": "Macromo Struct & Bio"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71134",
+        "desc": "Macromo Struct &Bioinformatics"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71135",
+        "desc": "Management Information Systems"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71136",
+        "desc": "Mgement Info Systs"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71137",
+        "desc": "Mgmt New&Emerg Techn"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71138",
+        "desc": "Mgmt New&Emerging Technologies"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71139",
+        "desc": "Microcomptrs In Ed"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71140",
+        "desc": "Microcomputers in Education"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71141",
+        "desc": "Microprocessors"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71142",
+        "desc": "Modeling & Simulat"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71143",
+        "desc": "Modern JavaScript"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71144",
+        "desc": "Multimed Comp Syst"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71145",
+        "desc": "Multimedia Coding &Compression"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71146",
+        "desc": "Multimedia Computer Systems"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71147",
+        "desc": "Multimedia Computing"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71148",
+        "desc": "Multimedia Database"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71149",
+        "desc": "Multimedia Databases"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71150",
+        "desc": "Multimedia Networking"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71151",
+        "desc": "Multimedia Presentations"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71152",
+        "desc": "Multimedia Security"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71153",
+        "desc": "Natural-Language Processing"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71154",
+        "desc": "Networks & Protocols"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71155",
+        "desc": "New Media and Business"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71156",
+        "desc": "Numerical Methods"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71157",
+        "desc": "Object-Oriented Programming"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71158",
+        "desc": "Operating Systems"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71159",
+        "desc": "Operating Systems I"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71160",
+        "desc": "Operating Systems II"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71161",
+        "desc": "Operations Management"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71162",
+        "desc": "Parall&Distrib Comp"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71163",
+        "desc": "Parallel & Distributed Comp"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71164",
+        "desc": "Parallel & Distributed Systems"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71165",
+        "desc": "Parallel Algorithm"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71166",
+        "desc": "Parallel Algorithms"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71167",
+        "desc": "Parallel Distrib Sys"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71168",
+        "desc": "Parallel&Distributed Computing"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71169",
+        "desc": "Pat Rcog&Neurl Net"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71170",
+        "desc": "Pattern Recognition&Neural Net"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71171",
+        "desc": "Perform Evaluation"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71172",
+        "desc": "Phil & Artif Intell"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71173",
+        "desc": "Phil & Artificial Intelligence"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71174",
+        "desc": "Pl/I For Programm"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71175",
+        "desc": "Principles of Robotics"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71176",
+        "desc": "Production For Web"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71177",
+        "desc": "Prog Parallel Proc"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71178",
+        "desc": "Progr & Operation"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71179",
+        "desc": "Progr Lang Design"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71180",
+        "desc": "Program Practicum"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71181",
+        "desc": "Program Verificat"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71182",
+        "desc": "Programming In Perl"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71183",
+        "desc": "Programming Language Design"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71184",
+        "desc": "Programming Language&Compilers"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71185",
+        "desc": "Programming Languages"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71186",
+        "desc": "Programming Paradigms in C++"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71187",
+        "desc": "Programming Practicum"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71188",
+        "desc": "Programming in Perl"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71189",
+        "desc": "Projects 1"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71190",
+        "desc": "Projects 2"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71191",
+        "desc": "Quantum Computing"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71192",
+        "desc": "Reqmts Specification"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71193",
+        "desc": "Requirement Modeling Info Sys"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71194",
+        "desc": "Research Project 1"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71195",
+        "desc": "Research Project 2"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71196",
+        "desc": "Research Project 3"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71197",
+        "desc": "Research Project 4"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71198",
+        "desc": "Research Project I"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71199",
+        "desc": "Research Project I71200: CMIS,\"Research Project II"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71201",
+        "desc": "Robot Vision"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71202",
+        "desc": "Self Study Language"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71203",
+        "desc": "Self-Instr Of Pl/I"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71204",
+        "desc": "Self-Study of Program Lang"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71205",
+        "desc": "Seminar 1"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71206",
+        "desc": "Seminar 2"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71207",
+        "desc": "Seminar in Computer Science I"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71208",
+        "desc": "Seminar in Computer Science II"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71209",
+        "desc": "Seminar in Special Topics I"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71210",
+        "desc": "Seminar in Special Topics II"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71211",
+        "desc": "Social Software"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71212",
+        "desc": "Software Methodology"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71213",
+        "desc": "Special Topics"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71214",
+        "desc": "Special Topics Seminar I"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71215",
+        "desc": "Special Topics Seminar II"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71216",
+        "desc": "Special Topics in Computer Sci"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71217",
+        "desc": "Special Topics in Computing"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71218",
+        "desc": "Syst Administration"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71219",
+        "desc": "System & Ntwrk Admin"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71220",
+        "desc": "Systems Analysis and Design"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71221",
+        "desc": "Telecommunications"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71222",
+        "desc": "Teleprocessing Systems"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71223",
+        "desc": "The Internet"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71224",
+        "desc": "The Outer Limits of Reasoning"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71225",
+        "desc": "Theoretical Computer Science"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71226",
+        "desc": "Theory of Computability"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71227",
+        "desc": "Thesis Research"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71228",
+        "desc": "Topics in Systems Simulation"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71229",
+        "desc": "Topics: Sys Simulat"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71230",
+        "desc": "UNIX Shell Programming"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71231",
+        "desc": "Visual Basic"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "71232",
+        "desc": "Workstation Programming"
+    }
+]

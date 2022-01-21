@@ -1,0 +1,887 @@
+[
+    {
+        "major": "ARIM",
+        "room_num": "46338",
+        "desc": "16mm Alternative Processing"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46339",
+        "desc": "3-D Animation"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46340",
+        "desc": "3D Animation and Modeling"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46341",
+        "desc": "3D Modeling&Composit"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46342",
+        "desc": "3D Virtual Environ"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46343",
+        "desc": "3D Virtual Environments"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46344",
+        "desc": "A Hybrid Media Perform Wrkshp"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46345",
+        "desc": "Access Interference"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46346",
+        "desc": "Adv Interactive Expr"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46347",
+        "desc": "Adv Studio: Channels"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46348",
+        "desc": "Adv Studio: Emerging Media"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46349",
+        "desc": "Adv Studio: Visions"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46350",
+        "desc": "Adv Studio: Words"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46351",
+        "desc": "Adv Studio:Channels"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46352",
+        "desc": "Advanced Studio: Documentary"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46353",
+        "desc": "Advanced Studio: Visions"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46354",
+        "desc": "Algorithmic Disobedience"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46355",
+        "desc": "Alt Darkrm Processes for Film"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46356",
+        "desc": "Alt Media: Examples & Exp"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46357",
+        "desc": "Alt Video Image Processing"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46358",
+        "desc": "Analog Expr Time Based Media"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46359",
+        "desc": "Analytical Seminar"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46360",
+        "desc": "Animation Studio"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46361",
+        "desc": "Archival Media & Aesthetics"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46362",
+        "desc": "Audio Narratives"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46363",
+        "desc": "Augmented Reality"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46364",
+        "desc": "Blank Screen"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46365",
+        "desc": "Choreographing Camera & Sound"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46366",
+        "desc": "Cinematographic Storytelling"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46367",
+        "desc": "Collab.Media Proj/in"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46368",
+        "desc": "Collective Documentary"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46369",
+        "desc": "Color Aesthetics46370: ARIM,\"Color Corr DaVinci Resolve"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46371",
+        "desc": "Communications and the City"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46372",
+        "desc": "Convo Interfaces Augment Story"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46373",
+        "desc": "Creating Audio Walks w/Detour"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46374",
+        "desc": "Creating Non-Fic Virt Reality"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46375",
+        "desc": "Crit Wrtng Skills for Artists"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46376",
+        "desc": "Culture Jamming"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46377",
+        "desc": "DIY Augmented Reality"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46378",
+        "desc": "Design Direction"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46379",
+        "desc": "Dev&Prod Non-Fic Med"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46380",
+        "desc": "Develop & Prod Non-Fict Media"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46381",
+        "desc": "Devised Performance"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46382",
+        "desc": "Digital Resistance"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46383",
+        "desc": "Dircting Prac Script to Screen"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46384",
+        "desc": "Director\u2019s Eye-Visual Strytell"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46385",
+        "desc": "Disease & Disaster"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46386",
+        "desc": "Documentary 1"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46387",
+        "desc": "Documentary Editing"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46388",
+        "desc": "Documentary II"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46389",
+        "desc": "Documenting Histories - Asia"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46390",
+        "desc": "Editing in Premiere"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46391",
+        "desc": "Editing with Pro Tools"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46392",
+        "desc": "Electronic Mus & Vis Perf Tech"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46393",
+        "desc": "Emerging Media 1"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46394",
+        "desc": "Emerging Media II"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46395",
+        "desc": "Film as Collabative Art"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46396",
+        "desc": "Food Media"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46397",
+        "desc": "Fundraising for Film"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46398",
+        "desc": "Global Communication"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46399",
+        "desc": "Grantwriting for Nonfict Media"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46400",
+        "desc": "Graphic Novel"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46401",
+        "desc": "Hist & Theory Emerging Media"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46402",
+        "desc": "Hist & Theory of Documentary"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46403",
+        "desc": "History of New Media"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46404",
+        "desc": "Hybrid Documentary"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46405",
+        "desc": "Hypermedia Cities"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46406",
+        "desc": "Hypertexts & Cross-Media Narra"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46407",
+        "desc": "Immediate Site: Homeworks"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46408",
+        "desc": "Immediate Site: Requiem"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46409",
+        "desc": "Immersive & Participatory Live"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46410",
+        "desc": "Improvisatory Audiovisuals"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46411",
+        "desc": "In St:Snd Recording"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46412",
+        "desc": "Ind Study :Cinematography"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46413",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46414",
+        "desc": "Independent Study: Lighting"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46415",
+        "desc": "Int Tools & Tech Wkshp:HD Cine"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46416",
+        "desc": "Int Tools & Tech Wkshp:Light"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46417",
+        "desc": "Int Tools & Tech Wkshp:Sound"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46418",
+        "desc": "Intactv Reactv Visuals Max/MSP"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46419",
+        "desc": "Interactive Expression"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46420",
+        "desc": "Interactive Installation"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46421",
+        "desc": "Interactive Video"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46422",
+        "desc": "Interactve Media Pro"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46423",
+        "desc": "Interdisciplinary Research"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46424",
+        "desc": "Inves Video Rptg Child Welfare"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46425",
+        "desc": "Invst Journ:Pub Hous"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46426",
+        "desc": "Keeping Time"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46427",
+        "desc": "Language to be Looked At"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46428",
+        "desc": "Literary Journalism"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46429",
+        "desc": "Live Art in Visual Environment"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46430",
+        "desc": "MFA Thesis Project"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46431",
+        "desc": "Making Generative Media"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46432",
+        "desc": "Media & Policy/Digital Age"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46433",
+        "desc": "Media Activism"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46434",
+        "desc": "Media and Law"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46435",
+        "desc": "Media and the Public Sphere"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46436",
+        "desc": "Media&Public Sphere"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46437",
+        "desc": "Media46438: ARIM,\"Microcultural Incidents"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46439",
+        "desc": "Motion Graphics"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46440",
+        "desc": "Multi-Channel Video Install"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46441",
+        "desc": "Multicamera Studio Workshop"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46442",
+        "desc": "Mutable Nartve&Inactve Strytel"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46443",
+        "desc": "Narr Tech for Non-Fiction"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46444",
+        "desc": "Narrative Short Workshop"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46445",
+        "desc": "Neighborhood News"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46446",
+        "desc": "Neverending Story"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46447",
+        "desc": "New Currents in Documentary"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46448",
+        "desc": "New Directions in Documentary"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46449",
+        "desc": "New Media Art for Soc Justice"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46450",
+        "desc": "New Media Storytlg & Map Strat"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46451",
+        "desc": "Non-Rep Spatial Sound Comp"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46452",
+        "desc": "Nonfic Storytell Digital Platf"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46453",
+        "desc": "Nonlinear Storytelling"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46454",
+        "desc": "On-Line Journalism"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46455",
+        "desc": "Online Journalism"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46456",
+        "desc": "Pblc Hum: Digital Media Artst"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46457",
+        "desc": "Performing Sound and Visuals"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46458",
+        "desc": "Performing the Internet"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46459",
+        "desc": "Physical Computing"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46460",
+        "desc": "Play Culture"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46461",
+        "desc": "Poetry & Film Workshop"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46462",
+        "desc": "Premiere Editing"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46463",
+        "desc": "Probs of Amer Journl"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46464",
+        "desc": "Psychogeography"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46465",
+        "desc": "Public Health & Documentary"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46466",
+        "desc": "Public Issue Graphics"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46467",
+        "desc": "Public Relations"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46468",
+        "desc": "Publicity and Society"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46469",
+        "desc": "Queer Audience"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46470",
+        "desc": "Radicalizing the Local"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46471",
+        "desc": "Re-Enactment in Documentary"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46472",
+        "desc": "Reimagining the Family Album"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46473",
+        "desc": "Remix Culture: Theory & Pract"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46474",
+        "desc": "Rights And Re-Visions"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46475",
+        "desc": "Rights and Revisions"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46476",
+        "desc": "Rptg:Lcl Pol&Invstgv"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46477",
+        "desc": "Site-Responsive Narrative Med"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46478",
+        "desc": "Soc Cla46479: ARIM,\"Soc Inequality &Med"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46480",
+        "desc": "Soc Problems Media&Culture"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46481",
+        "desc": "Soc&Hist Roots Art & Culture"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46482",
+        "desc": "Social Inequality and Media"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46483",
+        "desc": "Social Media Storytelling"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46484",
+        "desc": "Socially Engaged Gaming"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46485",
+        "desc": "Sonic Ephemera & Aesthetic"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46486",
+        "desc": "Sound Design for Filmmakers"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46487",
+        "desc": "Sound Editing"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46488",
+        "desc": "Sound Environments"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46489",
+        "desc": "Sound Fields"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46490",
+        "desc": "Sound Postproduction"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46491",
+        "desc": "Sounds of a Revolution"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46492",
+        "desc": "Sp Tp Socially Engaged Games"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46493",
+        "desc": "Sp Tp Studio Practice"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46494",
+        "desc": "Sp Tp: Narrative Scriptwriting"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46495",
+        "desc": "Spatial Narratives"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46496",
+        "desc": "Special Topics Seminar"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46497",
+        "desc": "Story Strategies"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46498",
+        "desc": "Studio"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46499",
+        "desc": "Superstation: Exper TV Studio"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46500",
+        "desc": "TV Culture & Soc."
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46501",
+        "desc": "Taking a Documetary Detour"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46502",
+        "desc": "Tchng Pract/Channels"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46503",
+        "desc": "Tchng Pract/Visions"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46504",
+        "desc": "Teaching Pract/Words"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46505",
+        "desc": "The Anti-Documentary"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46506",
+        "desc": "The Language of News"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46507",
+        "desc": "Thesis Extension"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46508",
+        "desc": "Thesis Preproduction"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46509",
+        "desc": "Thesis Production"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46510",
+        "desc": "Third Cinema"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46511",
+        "desc": "Time Square Red & Blue"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46512",
+        "desc": "Urban Investigative Reporting"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46513",
+        "desc": "Visible Evidence"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46514",
+        "desc": "Visiting Artist Lab:Writ Short"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46515",
+        "desc": "Visual Cultural Seminar"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46516",
+        "desc": "Web Documentary"
+    },
+    {
+        "major": "ARIM",
+        "room_num": "46517",
+        "desc": "Working with Non-Pro Actors"
+    }
+]

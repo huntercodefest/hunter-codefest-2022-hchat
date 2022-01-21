@@ -1,0 +1,470 @@
+[
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22618",
+        "room_desc": "Advanced Beginning Ballet II"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22619",
+        "room_desc": "Advanced Beginning Ballet III"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22620",
+        "room_desc": "Aerobic Exercise"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22621",
+        "room_desc": "Archery"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22622",
+        "room_desc": "Badminton"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22623",
+        "room_desc": "Baseball I"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22624",
+        "room_desc": "Baseball II"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22625",
+        "room_desc": "Basketball"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22626",
+        "room_desc": "Basketball I"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22627",
+        "room_desc": "Basketball II"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22628",
+        "room_desc": "Beginning Ballet for Majors"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22629",
+        "room_desc": "Beginning Paddleball"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22630",
+        "room_desc": "Beginning Swimming"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22631",
+        "room_desc": "Beginning Tennis"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22632",
+        "room_desc": "Beginning Volleyball"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22633",
+        "room_desc": "Bowling I"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22634",
+        "room_desc": "Bowling II"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22635",
+        "room_desc": "Concepts Personal Training II"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22636",
+        "room_desc": "Concepts of Personal Training"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22637",
+        "room_desc": "Contact Improvisation"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22638",
+        "room_desc": "Cross-Country I"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22639",
+        "room_desc": "Cross-Country II"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22640",
+        "room_desc": "Dance Workshop III"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22641",
+        "room_desc": "Fitness Walking"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22642",
+        "room_desc": "Foundations Of Physical Educat"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22643",
+        "room_desc": "Games and Sports for Children"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22644",
+        "room_desc": "Golf"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22645",
+        "room_desc": "Handball"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22646",
+        "room_desc": "Intercollegiate Swimming Coed"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22647",
+        "room_desc": "Intermediate Ballet II"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22648",
+        "room_desc": "Intermediate Ballet III"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22649",
+        "room_desc": "Intermediate Modern III"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22650",
+        "room_desc": "Intermediate Swimming"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22651",
+        "room_desc": "Intermediate Volleyball"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22652",
+        "room_desc": "Intrcol Swim 1"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22653",
+        "room_desc": "Intro to Physical Fitness"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22654",
+        "room_desc": "Introduction To Exercise Scien"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22655",
+        "room_desc": "Introduction to Coaching"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22656",
+        "room_desc": "Introduction to Team Sport"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22657",
+        "room_desc": "Introduction to T\u2019ai Chi"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22658",
+        "room_desc": "Jogging"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22659",
+        "room_desc": "Lifeguard Training"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22660",
+        "room_desc": "Modern Dance Improvisation"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22661",
+        "room_desc": "Physical Ed Waiver"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22662",
+        "room_desc": "Principles of Cross Training"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22663",
+        "room_desc": "Racquetball"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22664",
+        "room_desc": "Self-Defense"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22665",
+        "room_desc": "Slimnastics"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22666",
+        "room_desc": "Soccer"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22667",
+        "room_desc": "Soccer I"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22668",
+        "room_desc": "Soccer II"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22669",
+        "room_desc": "Softball"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22670",
+        "room_desc": "Softball I"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22671",
+        "room_desc": "Softball II"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22672",
+        "room_desc": "Special Topics in Modern Dance"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22673",
+        "room_desc": "Sports Conditioning"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22674",
+        "room_desc": "Swim for Fitness"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22675",
+        "room_desc": "Swimming"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22676",
+        "room_desc": "T&P Of Trk And Fld"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22677",
+        "room_desc": "Table Tennis"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22678",
+        "room_desc": "Tennis 1"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22679",
+        "room_desc": "Tennis II"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22680",
+        "room_desc": "Theo & Practice of Volleyball"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22681",
+        "room_desc": "Theo And Prac Badm"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22682",
+        "room_desc": "Theo And Prac Bask"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22683",
+        "room_desc": "Theory & Practice of Softball"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22684",
+        "room_desc": "Theory and Practice of Fencing"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22685",
+        "room_desc": "Theory and Practice of Golf"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22686",
+        "room_desc": "Theory and Practice of Soccer"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22687",
+        "room_desc": "Theory and Practice of Tennis"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22688",
+        "room_desc": "Touch Football"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22689",
+        "room_desc": "Track-Field I"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22690",
+        "room_desc": "Track-Field II"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22691",
+        "room_desc": "Volleyball I"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22692",
+        "room_desc": "Volleyball II"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22693",
+        "room_desc": "Wat.Safety22694: EDPH,\"Weight Training"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22695",
+        "room_desc": "Yoga"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "22696",
+        "room_desc": "Yoga II"
+    }
+]

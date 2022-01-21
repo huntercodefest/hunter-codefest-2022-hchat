@@ -1,0 +1,1242 @@
+[
+    {
+        "major": "ENGL",
+        "room_num": "84510",
+        "desc": "16th-Century English Lit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84511",
+        "desc": "17th-Century Eng Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84512",
+        "desc": "18th-Century Eng Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84513",
+        "desc": "19th Cent Eng Lit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84514",
+        "desc": "19th Cent English Fiction"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84515",
+        "desc": "19th Century American Fiction"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84516",
+        "desc": "20th Cent English Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84517",
+        "desc": "20th Century American Poetry"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84518",
+        "desc": "20th-Century Brit & Irish Poet"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84519",
+        "desc": "Adv Engineer Des II"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84520",
+        "desc": "Advanced Reading"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84521",
+        "desc": "African American Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84522",
+        "desc": "African Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84523",
+        "desc": "Amer & Brit Literary Trad II"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84524",
+        "desc": "Amer Fic Since WW II"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84525",
+        "desc": "Amer Lit After 1900"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84526",
+        "desc": "Amer Lit Before 1900"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84527",
+        "desc": "Amer Poetry Through 19th Cent"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84528",
+        "desc": "American Drama"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84529",
+        "desc": "Anglophone Arab Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84530",
+        "desc": "Arabic Liter in Translation"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84531",
+        "desc": "Asian Literatures Before 1900"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84532",
+        "desc": "Autobiographical Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84533",
+        "desc": "Autobiography"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84534",
+        "desc": "Autobiography and Biography"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84535",
+        "desc": "Basic Reading"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84536",
+        "desc": "Brit & Amer Lit Traditions I"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84537",
+        "desc": "Brit & Amer Liter Trditn"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84538",
+        "desc": "British Literature since 1800"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84539",
+        "desc": "British Literature to 1800"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84540",
+        "desc": "Broadcast Journalism"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84541",
+        "desc": "CLIP Reading A Beginning"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84542",
+        "desc": "CLIP Reading B Intermediate 1"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84543",
+        "desc": "CLIP Reading B2 Intermediate 2"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84544",
+        "desc": "CLIP Reading C Advanced"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84545",
+        "desc": "CLIP Writing A Beginning"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84546",
+        "desc": "CLIP Writing B1 Intermediate 1"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84547",
+        "desc": "CLIP Writing B2 Intermediate 2"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84548",
+        "desc": "CLIP Writing C Advanced"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84549",
+        "desc": "CUNY Start English"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84550",
+        "desc": "CUNYStart Reading"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84551",
+        "desc": "CUNYStart Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84552",
+        "desc": "Chaucer"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84553",
+        "desc": "Clas/Bibl Lit Bkgrds"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84554",
+        "desc": "Classic Europe Lit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84555",
+        "desc": "College Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84556",
+        "desc": "Coming of Age Narratives"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84557",
+        "desc": "Comm Skills I"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84558",
+        "desc": "Comp&Rhetorcl Models"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84559",
+        "desc": "Comp/Rhetoric Studes"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84560",
+        "desc": "Contemp Americ Usage"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84561",
+        "desc": "Contemporary Drama"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84562",
+        "desc": "Contemporary Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84563",
+        "desc": "Contemporary Poetry"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84564",
+        "desc": "Copy Editing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84565",
+        "desc": "Craft of Creative Nonfiction"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84566",
+        "desc": "Craft of Creative Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84567",
+        "desc": "Craft of Fiction"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84568",
+        "desc": "Craft of Playwriting"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84569",
+        "desc": "Craft of Poetry"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84570",
+        "desc": "Creative Nonfiction Workshop"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84571",
+        "desc": "Creative Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84572",
+        "desc": "Critical App to Children\u2019s Lit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84573",
+        "desc": "Cultural Variety"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84574",
+        "desc": "Developmental Reading"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84575",
+        "desc": "Developmental Writing I"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84576",
+        "desc": "Developmental Writing II"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84577",
+        "desc": "Disabilities in Lit & Culture"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84578",
+        "desc": "Discussion and Debate"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84579",
+        "desc": "ENH Graduate Credit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84580",
+        "desc": "EPL English"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84581",
+        "desc": "EPL Reading"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84582",
+        "desc": "EPL Reading and Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84583",
+        "desc": "EPL Reading/Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84584",
+        "desc": "EPL Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84585",
+        "desc": "ESL English"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84586",
+        "desc": "ESL Reading"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84587",
+        "desc": "ESL Reading and Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84588",
+        "desc": "ESL Reading/Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84589",
+        "desc": "ESL Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84590",
+        "desc": "ESL Wrtg84591: ENGL,\"Early Celtic Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84592",
+        "desc": "Eng Grad Ind Study"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84593",
+        "desc": "Eng Grad Lit Cr"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84594",
+        "desc": "Eng Grad Lit Credit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84595",
+        "desc": "English 200-Level Elective"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84596",
+        "desc": "English Credit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84597",
+        "desc": "English Drama to 1800"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84598",
+        "desc": "English Grad Credit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84599",
+        "desc": "English Graduate Credit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84600",
+        "desc": "English Ind Study"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84601",
+        "desc": "English Independent Study"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84602",
+        "desc": "English Internship"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84603",
+        "desc": "English Internships"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84604",
+        "desc": "English Internshp"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84605",
+        "desc": "Enh Grad Credit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84606",
+        "desc": "Epic and Romance"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84607",
+        "desc": "Eur Lit of the Romantic Period"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84608",
+        "desc": "Fiction Workshop"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84609",
+        "desc": "Gender- Negotiating Difference"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84610",
+        "desc": "Global Anglophone Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84611",
+        "desc": "Global Literature II"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84612",
+        "desc": "History of Print Media"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84613",
+        "desc": "Imm  ESL Writing Low-Level"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84614",
+        "desc": "Imm ESL Reading Low-level"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84615",
+        "desc": "Immersion Reading Workshop"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84616",
+        "desc": "Integrated Reading and Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84617",
+        "desc": "Intermediate Script Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84618",
+        "desc": "Intro College Writng"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84619",
+        "desc": "Intro To Lit Studies"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84620",
+        "desc": "Intro to African Diaspora Lit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84621",
+        "desc": "Intro to Popular Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84622",
+        "desc": "Intro to the Stdy of Lit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84623",
+        "desc": "Introduction to Drama"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84624",
+        "desc": "Introduction to Fiction"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84625",
+        "desc": "Introduction to Journalism"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84626",
+        "desc": "Introduction to Nonfiction"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84627",
+        "desc": "Introduction to Poetry"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84628",
+        "desc": "Introduction to Screen Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84629",
+        "desc": "Introduction to Shakespeare"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84630",
+        "desc": "James Joyce"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84631",
+        "desc": "John Milton"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84632",
+        "desc": "Journal I"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84633",
+        "desc": "Journalism and Society"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84634",
+        "desc": "Lit & Humanities I"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84635",
+        "desc": "Lit Myth/Archetype"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84636",
+        "desc": "Lit of Ancient Greece and Rome"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84637",
+        "desc": "Lit. of the African Diaspora"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84638",
+        "desc": "Literature Credit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84639",
+        "desc": "Literature and Global Cultures"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84640",
+        "desc": "Literature and Humanities"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84641",
+        "desc": "Literature and Music"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84642",
+        "desc": "Literature and Society"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84643",
+        "desc": "Literature of Eng Renaissance"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84644",
+        "desc": "Literature of Medieval England"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84645",
+        "desc": "Literature of Medieval Europe"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84646",
+        "desc": "Literature of Social Protest"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84647",
+        "desc": "Magazine Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84648",
+        "desc": "Major 20th-Century Novelists"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84649",
+        "desc": "Major 20th-Century Poets"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84650",
+        "desc": "Major American Author I"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84651",
+        "desc": "Major American Author II"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84652",
+        "desc": "Major American Author III"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84653",
+        "desc": "Major English Author I"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84654",
+        "desc": "Major English Author II"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84655",
+        "desc": "Major English Author III"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84656",
+        "desc": "Major Woman Author I"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84657",
+        "desc": "Major Woman Author II"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84658",
+        "desc": "Major Woman Author III"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84659",
+        "desc": "Major World Author I"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84660",
+        "desc": "Major World Author II"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84661",
+        "desc": "Major World Author III"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84662",
+        "desc": "Medieval Eng Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84663",
+        "desc": "Methods in Linguistic Research"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84664",
+        "desc": "Methods of Graduate Study"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84665",
+        "desc": "Migration& Diasporas"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84666",
+        "desc": "Mod Eng Fict - World War2"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84667",
+        "desc": "Mod World Classics"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84668",
+        "desc": "Modern East Asian Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84669",
+        "desc": "Modern European Drama"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84670",
+        "desc": "Modern Irish Writers"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84671",
+        "desc": "Modern Russian Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84672",
+        "desc": "Modern World Lit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84673",
+        "desc": "Mythology Of Women"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84674",
+        "desc": "Newspaper Reporting"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84675",
+        "desc": "Non-Native English"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84676",
+        "desc": "Non-Native Reading"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84677",
+        "desc": "Non-Native Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84678",
+        "desc": "Nonfiction Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84679",
+        "desc": "Oral Intrprtaton of Lit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84680",
+        "desc": "Playwrighting Workshop"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84681",
+        "desc": "Playwriting I"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84682",
+        "desc": "Poetry Workshop"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84683",
+        "desc": "Postcolonial Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84684",
+        "desc": "Postmodern American Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84685",
+        "desc": "Public Speaking"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84686",
+        "desc": "Queer Studies"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84687",
+        "desc": "Rdngs in Engl Romantic Lit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84688",
+        "desc": "Reading for College"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84689",
+        "desc": "Renaissnce Eur Lit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84690",
+        "desc": "Screen Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84691",
+        "desc": "Senior Seminar in Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84692",
+        "desc": "Shkspeare Tragdies"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84693",
+        "desc": "South Asian Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84694",
+        "desc": "Std Resto & XVIII Cent Eng Lit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84695",
+        "desc": "Stdy In Afr Am Lit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84696",
+        "desc": "Stdy in Anglosaxon Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84697",
+        "desc": "Stdy in US Multicult Lit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84698",
+        "desc": "Stdy in XVIII Century Fiction"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84699",
+        "desc": "Studies In Drama"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84700",
+        "desc": "Studies In Fiction"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84701",
+        "desc": "Studies in Advanced Journalism"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84702",
+        "desc": "Studies in Literary Theory"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84703",
+        "desc": "Studies in Poetry"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84704",
+        "desc": "Studies in Science Fiction"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84705",
+        "desc": "Studies in Shakespeare"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84706",
+        "desc": "Studies in Women & Lit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84707",
+        "desc": "Tech Writing/Reading"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84708",
+        "desc": "The African-Amer Lit Tradition"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84709",
+        "desc": "The American Renaissance"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84710",
+        "desc": "The Bible and Later Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84711",
+        "desc": "The Comic Vision"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84712",
+        "desc": "The Early Shakespeare"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84713",
+        "desc": "The Later Shakespeare"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84714",
+        "desc": "The Modernists I"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84715",
+        "desc": "The Modernists II"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84716",
+        "desc": "The Teaching of Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84717",
+        "desc": "The Tragic Vision"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84718",
+        "desc": "Themes in Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84719",
+        "desc": "Theories Of Lit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84720",
+        "desc": "Theories of Composition"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84721",
+        "desc": "Theories of Mass Media"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84722",
+        "desc": "Theory Of Drama"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84723",
+        "desc": "Thesis Tutorial"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84724",
+        "desc": "Trends In Literature And Film"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84725",
+        "desc": "U S Lit To 1855"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84726",
+        "desc": "U.S. Fiction"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84727",
+        "desc": "U.S. Lit In Comparative Contxt"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84728",
+        "desc": "U.S. Lit Since 1855"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84729",
+        "desc": "US Fiction from the Late Nine"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84730",
+        "desc": "US Fiction/ Early N. Amer Lit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84731",
+        "desc": "Us.Lit:Multicult."
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84732",
+        "desc": "Victorian Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84733",
+        "desc": "Victorian Poetry"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84734",
+        "desc": "Victorian Realist Novels"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84735",
+        "desc": "Walt Whitman"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84736",
+        "desc": "Woman as Hero"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84737",
+        "desc": "Women And Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84738",
+        "desc": "Women In Lit/Arts"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84739",
+        "desc": "Women Novelists"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84740",
+        "desc": "Women Writing Intro"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84741",
+        "desc": "Women and Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84742",
+        "desc": "Women\u2019s Written Expression"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84743",
+        "desc": "Workshop in Creative Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84744",
+        "desc": "World Drama since 1800"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84745",
+        "desc": "World Drama to 1800"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84746",
+        "desc": "World Literature in Contexts"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84747",
+        "desc": "Writing Ac Curr K-12"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84748",
+        "desc": "Writing Across the Curriculum"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84749",
+        "desc": "Writing Fiction I"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84750",
+        "desc": "Writing Poetry I"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84751",
+        "desc": "Writing about Media"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84752",
+        "desc": "Writing and Peer Tutoring"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84753",
+        "desc": "Writing for the Media"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84754",
+        "desc": "Writing in the Business World"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84755",
+        "desc": "Writing/Adver & Pr"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84756",
+        "desc": "Wrkshp in Autobio Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84757",
+        "desc": "Wrkshp/Wrtng Abt Lit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "84758",
+        "desc": "XIX Cent European Fiction"
+    }
+]

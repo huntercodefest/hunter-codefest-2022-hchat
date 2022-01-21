@@ -1,0 +1,650 @@
+[
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68305",
+        "room_desc": "Adv Cogn Behavioral Approaches"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68306",
+        "room_desc": "Adv Cognitive Beh App to Couns"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68307",
+        "room_desc": "Adv Lrng/Behavr II"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68308",
+        "room_desc": "Adv Multicult Counsl"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68309",
+        "room_desc": "Adv Physiolgl Psyc"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68310",
+        "room_desc": "Advanced Internship"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68311",
+        "room_desc": "Advanced Learning and Behavior"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68312",
+        "room_desc": "Advanced Seminar in Psychology"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68313",
+        "room_desc": "Alcohol&Subst Abuse"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68314",
+        "room_desc": "Applied Behavior Analysis"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68315",
+        "room_desc": "Applied Public Interest Tech"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68316",
+        "room_desc": "Approaches to Psychotherapy"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68317",
+        "room_desc": "Asd:Intro To Cont Is"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68318",
+        "room_desc": "Assessment in Counseling"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68319",
+        "room_desc": "Assmnt&Cnsl Strategy"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68320",
+        "room_desc": "Biological Origins of Behavior"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68321",
+        "room_desc": "Career Development"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68322",
+        "room_desc": "Case Conc&Trmt Strat"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68323",
+        "room_desc": "Child Psychopathology"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68324",
+        "room_desc": "Clinical Instruction"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68325",
+        "room_desc": "Cog-Beh Apprpach to Counsel"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68326",
+        "room_desc": "Cognitive Psychology"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68327",
+        "room_desc": "Comm Mental Health"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68328",
+        "room_desc": "Community Psych"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68329",
+        "room_desc": "Comparative Psy"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68330",
+        "room_desc": "Comparative Psychology"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68331",
+        "room_desc": "Contemp Iss Human Sexuality"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68332",
+        "room_desc": "Counseling Psychology"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68333",
+        "room_desc": "Counseling and Grief and Loss"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68334",
+        "room_desc": "Cross-Cultural Psychology"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68335",
+        "room_desc": "Dev/Lifespan Psy"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68336",
+        "room_desc": "Developmental Psychology"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68337",
+        "room_desc": "Drugs and Behavior"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68338",
+        "room_desc": "Environmental Psychology"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68339",
+        "room_desc": "Ethics/Child Abuse"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68340",
+        "room_desc": "Evolutionary Psychology"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68341",
+        "room_desc": "Exp Psych: Cognition & Percept"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68342",
+        "room_desc": "Exper Psy:Learng Beh"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68343",
+        "room_desc": "Exper Psych: Child Develop"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68344",
+        "room_desc": "Exper Psych:Soc&Pers"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68345",
+        "room_desc": "Expermntl Soc Psyc"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68346",
+        "room_desc": "Fdnts Trtmt Autism"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68347",
+        "room_desc": "Fdtns Mental Hlth Cn"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68348",
+        "room_desc": "Fnds Trmt Apprch App & Methods"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68349",
+        "room_desc": "Forensic Psychology"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68350",
+        "room_desc": "Gender and Sexuality"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68351",
+        "room_desc": "Group Dynamics"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68352",
+        "room_desc": "Group Theory and Practice"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68353",
+        "room_desc": "Health Psychology"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68354",
+        "room_desc": "Hist & Syst of Psychology"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68355",
+        "room_desc": "Immigrant/Family Counseling"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68356",
+        "room_desc": "Industrial Psychology"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68357",
+        "room_desc": "Infancy"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68358",
+        "room_desc": "Internship"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68359",
+        "room_desc": "Internship in Psychology"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68360",
+        "room_desc": "Intro Forensic Psy"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68361",
+        "room_desc": "Lang Acquisition"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68362",
+        "room_desc": "Language Development"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68363",
+        "room_desc": "Learning Theories"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68364",
+        "room_desc": "Ment Hlth Counsel Internship I"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68365",
+        "room_desc": "Ment Hlth Internship"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68366",
+        "room_desc": "Mental Health Internship"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68367",
+        "room_desc": "Mentoring & Adol Dev"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68368",
+        "room_desc": "Mntl Hlth Coun Pract"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68369",
+        "room_desc": "Mother/Daughtr Sem"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68370",
+        "room_desc": "Motivation"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68371",
+        "room_desc": "Motor Development"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68372",
+        "room_desc": "Parapsychology"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68373",
+        "room_desc": "Personal Adjustment"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68374",
+        "room_desc": "Phenomenological Psychology"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68375",
+        "room_desc": "Phys Psy:Cog&Beh Neu"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68376",
+        "room_desc": "Phys Psych II: Motiv Behavior"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68377",
+        "room_desc": "Physio Psy:Motiv Beh"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68378",
+        "room_desc": "Physiolog Psyc Lab"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68379",
+        "room_desc": "Prejudice and Social Identity"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68380",
+        "room_desc": "Psy Grad Credit"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68381",
+        "room_desc": "Psych Of Aging"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68382",
+        "room_desc": "Psych Of Religion"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68383",
+        "room_desc": "Psych Persp Disblty"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68384",
+        "room_desc": "Psych Research"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68385",
+        "room_desc": "Psych&Chinese Cultur"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68386",
+        "room_desc": "Psycholgy Elective"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68387",
+        "room_desc": "Psycholgy Ind Stdy"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68388",
+        "room_desc": "Psychology"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68389",
+        "room_desc": "Psychology & Law"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68390",
+        "room_desc": "Psychology Independent Study"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68391",
+        "room_desc": "Psychology Internship"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68392",
+        "room_desc": "Psychology Intrnship"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68393",
+        "room_desc": "Psychology and Chinese Culture"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68394",
+        "room_desc": "Psychology and the Law"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68395",
+        "room_desc": "Psychology of Advertising"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68396",
+        "room_desc": "Psychology of Creativity"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68397",
+        "room_desc": "Psychology of Death and Dying"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68398",
+        "room_desc": "Psychology of Memory"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68399",
+        "room_desc": "Psychology of Women"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68400",
+        "room_desc": "Psychopathology"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68401",
+        "room_desc": "Psycodyn Existn App"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68402",
+        "room_desc": "Res&Prog Mthd Mntl"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68403",
+        "room_desc": "Seminar In Psycholgy"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68404",
+        "room_desc": "Social Psych- Mobile Comm Tech"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68405",
+        "room_desc": "Social Psychology"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68406",
+        "room_desc": "Socio-Cult Found of Counsel"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68407",
+        "room_desc": "Spch68408: PSYC,\"Statistics in Psychology"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68409",
+        "room_desc": "Stress Management"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68410",
+        "room_desc": "Tests/Measurements"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68411",
+        "room_desc": "The Atypical Child"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68412",
+        "room_desc": "The Psychology of Emotion"
+    },
+    {
+        "school": "NYT01",
+        "major": "PSYC",
+        "room_num": "68413",
+        "room_desc": "Theories of Personality"
+    }
+]

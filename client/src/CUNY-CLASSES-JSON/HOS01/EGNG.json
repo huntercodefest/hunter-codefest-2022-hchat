@@ -1,0 +1,27 @@
+[
+    {
+        "major": "EGNG",
+        "room_num": "64640",
+        "desc": "Computer-Aided Analysis Tools"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "64641",
+        "desc": "Electrical Circuits"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "64642",
+        "desc": "Engineering Design Workshop I"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "64643",
+        "desc": "Engineering Economics"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "64644",
+        "desc": "Intro Earth & Atmospheric Sci"
+    }
+]

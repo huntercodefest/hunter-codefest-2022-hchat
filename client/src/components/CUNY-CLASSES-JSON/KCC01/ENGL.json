@@ -1,0 +1,476 @@
+[
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63343",
+        "room_desc": "Accelerated Learning Program"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63344",
+        "room_desc": "Adv Research in Lit"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63345",
+        "room_desc": "Advanced Composition"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63346",
+        "room_desc": "American Environmental Lit"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63347",
+        "room_desc": "Analytical Reading"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63348",
+        "room_desc": "Basic Reading Skills"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63349",
+        "room_desc": "Basic Reading and Writing"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63350",
+        "room_desc": "Bridge Crs - Intensive Writing"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63351",
+        "room_desc": "CLIP Reading"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63352",
+        "room_desc": "CLIP Writing"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63353",
+        "room_desc": "CUNY Start Writing"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63354",
+        "room_desc": "CUNYStart English"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63355",
+        "room_desc": "Classical/Bible Literature"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63356",
+        "room_desc": "Classicism & Romanti"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63357",
+        "room_desc": "Cltrl& Lnguistc Asp-Teach Lang"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63358",
+        "room_desc": "Competence Read/Writ"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63359",
+        "room_desc": "Composition I"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63360",
+        "room_desc": "Composition I ALP"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63361",
+        "room_desc": "Composition II"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63362",
+        "room_desc": "Contemp Afr/Amer Lit"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63363",
+        "room_desc": "Creative Writing: Fiction"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63364",
+        "room_desc": "Creative Writing: Nonfiction"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63365",
+        "room_desc": "Creative Writing: Poetry"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63366",
+        "room_desc": "CreativeWriting: Screenwriting"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63367",
+        "room_desc": "Developing Competence in Wrtg"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63368",
+        "room_desc": "Drama"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63369",
+        "room_desc": "ENG Integ Studies Seminar"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63370",
+        "room_desc": "Eng 2 for Spa Speaker"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63371",
+        "room_desc": "Eng 4/ Native Spkrs"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63372",
+        "room_desc": "English German Speaker"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63373",
+        "room_desc": "English III / Native Speakers"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63374",
+        "room_desc": "English Tutorial"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63375",
+        "room_desc": "Explore Literary NY"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63376",
+        "room_desc": "Fluency Read/Write"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63377",
+        "room_desc": "Fndtn Coll Lev Writ"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63378",
+        "room_desc": "Found College Level Rdng"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63379",
+        "room_desc": "Gothic and Horror Fiction"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63380",
+        "room_desc": "IS Adv Research Techiques"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63381",
+        "room_desc": "IS Colonial Lit"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63382",
+        "room_desc": "IS Creative Writing Poetry"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63383",
+        "room_desc": "IS Faulkner & Lit/South"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63384",
+        "room_desc": "IS Image of Italy"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63385",
+        "room_desc": "IS Lit Them"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63386",
+        "room_desc": "IS Mod European Lit"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63387",
+        "room_desc": "IS Natnal Cinema Italy"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63388",
+        "room_desc": "IS Prep for Tutoring"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63389",
+        "room_desc": "IS Roman Writ In Trans"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63390",
+        "room_desc": "IS Write Improvement"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63391",
+        "room_desc": "IS in Eng Literature"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63392",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63393",
+        "room_desc": "Integrative Language Seminar"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63394",
+        "room_desc": "Intens Prep ACT"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63395",
+        "room_desc": "Intensive Reading"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63396",
+        "room_desc": "Intensive Writing 1"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63397",
+        "room_desc": "Intensive Writing 2"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63398",
+        "room_desc": "Intro to Creative Writing"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63399",
+        "room_desc": "Intro to Literary Studies"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63400",
+        "room_desc": "Introduction to Literature"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63401",
+        "room_desc": "Literature and Film"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63402",
+        "room_desc": "Literature and Psychology"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63403",
+        "room_desc": "Modern European Literature"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63404",
+        "room_desc": "Overseas in Greece"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63405",
+        "room_desc": "Poetry"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63406",
+        "room_desc": "Prep - CUNY Reading"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63407",
+        "room_desc": "Prep CUNY Writing Test"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63408",
+        "room_desc": "Read/Keep Journals"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63409",
+        "room_desc": "Reading Comprehension & Speed"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63410",
+        "room_desc": "Roots of African-American Lit"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63411",
+        "room_desc": "Science Fiction"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63412",
+        "room_desc": "Sexuality and Literature"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63413",
+        "room_desc": "Shakespeare Survey"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63414",
+        "room_desc": "Short Fiction"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63415",
+        "room_desc": "The Novel"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63416",
+        "room_desc": "The Outsider in Cont"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63417",
+        "room_desc": "Themes in Amer Lit I"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63418",
+        "room_desc": "Themes in Americ Literature II"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63419",
+        "room_desc": "Violence in Am Lit & Vis Cult"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63420",
+        "room_desc": "Women and Literature"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "63421",
+        "room_desc": "World Literature"
+    }
+]

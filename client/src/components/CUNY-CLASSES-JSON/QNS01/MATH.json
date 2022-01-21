@@ -1,0 +1,968 @@
+[
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28743",
+        "room_desc": "Actuarial Math I: Calc & Prob"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28744",
+        "room_desc": "Actuarial Math II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28745",
+        "room_desc": "Adv Calculus"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28746",
+        "room_desc": "Adv Math/Logic"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28747",
+        "room_desc": "Adv Ordin Diff Equat"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28748",
+        "room_desc": "Advanced Calculus"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28749",
+        "room_desc": "Advanced Probability"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28750",
+        "room_desc": "Advanced Statistics"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28751",
+        "room_desc": "Algebraic Number Theory"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28752",
+        "room_desc": "Algebraic Structures"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28753",
+        "room_desc": "Anal Geom Calc"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28754",
+        "room_desc": "Analysis Geom & Trig"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28755",
+        "room_desc": "Analytic Geom & Diff Calculus"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28756",
+        "room_desc": "App Lin Algebra"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28757",
+        "room_desc": "App Prob & Stat"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28758",
+        "room_desc": "Calc & Analytic Geom"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28759",
+        "room_desc": "Calc App Soc Sci"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28760",
+        "room_desc": "Calc Appl Soc Sci II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28761",
+        "room_desc": "Calc/Diff & Integtn"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28762",
+        "room_desc": "Calc/Integration & Infinite"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28763",
+        "room_desc": "Calculus"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28764",
+        "room_desc": "Calculus with Applications I"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28765",
+        "room_desc": "Calculus-Infinite Series"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28766",
+        "room_desc": "Calculus/Differentiation"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28767",
+        "room_desc": "Calculus/Integration"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28768",
+        "room_desc": "College Algebra for Precalc"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28769",
+        "room_desc": "College Geometry"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28770",
+        "room_desc": "Combinatorial Theory."
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28771",
+        "room_desc": "Combinatorial Topology"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28772",
+        "room_desc": "Comp Sol Math Pblms"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28773",
+        "room_desc": "Complex Variables"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28774",
+        "room_desc": "Compt Solution of Math Prbms"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28775",
+        "room_desc": "Computation Stats for Data Sci"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28776",
+        "room_desc": "Ct Set Topology"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28777",
+        "room_desc": "Data Sci via Machine Learning"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28778",
+        "room_desc": "Diff Equa with Num Methods II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28779",
+        "room_desc": "Diff Equa/Num Meth 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28780",
+        "room_desc": "Diff Equations"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28781",
+        "room_desc": "Diff Equations 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28782",
+        "room_desc": "Differential Forms"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28783",
+        "room_desc": "Differential Geometry."
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28784",
+        "room_desc": "Differential Topology"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28785",
+        "room_desc": "Discrete Math - Csci"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28786",
+        "room_desc": "Discrete Math Comp Sci"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28787",
+        "room_desc": "Discrete Mathematics"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28788",
+        "room_desc": "Elem Statistcs"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28789",
+        "room_desc": "Elementary Prob&Stat"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28790",
+        "room_desc": "Elementary Real Analysis"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28791",
+        "room_desc": "Elementary Set Theory"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28792",
+        "room_desc": "Foundations of Analysis"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28793",
+        "room_desc": "Foundations of Geometry."
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28794",
+        "room_desc": "Funct of a Complex Variab"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28795",
+        "room_desc": "Functional Analysis"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28796",
+        "room_desc": "Functions of Real Variables"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28797",
+        "room_desc": "Fund Of Math"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28798",
+        "room_desc": "Fund of Math"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28799",
+        "room_desc": "Geom Num Theory"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28800",
+        "room_desc": "Higher Geometry"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28801",
+        "room_desc": "History of Mathematics"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28802",
+        "room_desc": "History of Modern Mathematics"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28803",
+        "room_desc": "Honors Abstract Algebra"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28804",
+        "room_desc": "Honors Calculus I"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28805",
+        "room_desc": "Honors Calculus II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28806",
+        "room_desc": "Honors Calculus III"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28807",
+        "room_desc": "Honors Calculus IV"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28808",
+        "room_desc": "Honors Linear Algebra"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28809",
+        "room_desc": "Honors Seminar 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28810",
+        "room_desc": "Honors Seminar I"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28811",
+        "room_desc": "Honors Seminar II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28812",
+        "room_desc": "Ideas In Mathematics"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28813",
+        "room_desc": "Ideas in Mathematics"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28814",
+        "room_desc": "Int Alg Trig"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28815",
+        "room_desc": "Inter Algebra"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28816",
+        "room_desc": "Interp & Fin Diff"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28817",
+        "room_desc": "Intro Alg Structures"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28818",
+        "room_desc": "Intro Prob & Math Stat"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28819",
+        "room_desc": "Intro Probability"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28820",
+        "room_desc": "Intro To Alg Trig"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28821",
+        "room_desc": "Intro To Calculus"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28822",
+        "room_desc": "Intro To Topology"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28823",
+        "room_desc": "Intro to Math Probability"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28824",
+        "room_desc": "Introduction to Set Theory"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28825",
+        "room_desc": "Lin Alg App 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28826",
+        "room_desc": "Lin Prog & Game Thy"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28827",
+        "room_desc": "Linear Algebra I"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28828",
+        "room_desc": "Linear Algebra II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28829",
+        "room_desc": "Math Algo Standpt"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28830",
+        "room_desc": "Math Analysis"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28831",
+        "room_desc": "Math Elem Tchrs"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28832",
+        "room_desc": "Math For Lib Arts"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28833",
+        "room_desc": "Math Found Sec Educ"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28834",
+        "room_desc": "Math Found Second Schl Curr"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28835",
+        "room_desc": "Math Lab-sections"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28836",
+        "room_desc": "Math Literacy"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28837",
+        "room_desc": "Math Requirement Met"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28838",
+        "room_desc": "Math Sec Sch Curr"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28839",
+        "room_desc": "Math Statistics"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28840",
+        "room_desc": "Math Struct Mod Stat"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28841",
+        "room_desc": "Math W/Mathematica"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28842",
+        "room_desc": "Math for Elem School Teachers"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28843",
+        "room_desc": "Math from an Algorithmic Stand"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28844",
+        "room_desc": "Math of Games & Puzzles"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28845",
+        "room_desc": "Mathematical Analysis"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28846",
+        "room_desc": "Mathematical Computing"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28847",
+        "room_desc": "Mathematical Design"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28848",
+        "room_desc": "Mathematical Models"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28849",
+        "room_desc": "Mathematical Problem-Solving"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28850",
+        "room_desc": "Mathematics and Logic"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28851",
+        "room_desc": "Mathematics of Finance"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28852",
+        "room_desc": "Methods Of Math Statistics"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28853",
+        "room_desc": "Modern Abstract Algebra I"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28854",
+        "room_desc": "Modern Abstract Algebra II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28855",
+        "room_desc": "Multivariable Calculus"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28856",
+        "room_desc": "Nonlinear Programming"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28857",
+        "room_desc": "Num Analysis"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28858",
+        "room_desc": "Number Systems"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28859",
+        "room_desc": "Number Theory"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28860",
+        "room_desc": "Numerical Analysis I."
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28861",
+        "room_desc": "Numerical Analysis II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28862",
+        "room_desc": "Oper Res (Prob Meth)"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28863",
+        "room_desc": "Oper Research"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28864",
+        "room_desc": "Ord Differential Equations"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28865",
+        "room_desc": "Partial Differential Equations"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28866",
+        "room_desc": "Point Set Topol"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28867",
+        "room_desc": "Point Set Topology"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28868",
+        "room_desc": "Precalculus"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28869",
+        "room_desc": "Prep For Precalc"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28870",
+        "room_desc": "Prob & Math Stat"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28871",
+        "room_desc": "Probability"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28872",
+        "room_desc": "Probability Theory Data Sci"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28873",
+        "room_desc": "Projective Geometry"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28874",
+        "room_desc": "Real Variables"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28875",
+        "room_desc": "Set Theory"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28876",
+        "room_desc": "Set Theory and Logic"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28877",
+        "room_desc": "Special Problems"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28878",
+        "room_desc": "Statistical Inference"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28879",
+        "room_desc": "Statistical Theory Data Sci"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28880",
+        "room_desc": "Stochastic Processes"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28881",
+        "room_desc": "Studies in Mathematics"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28882",
+        "room_desc": "Theory Of Equations"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28883",
+        "room_desc": "Theory of Approximation I"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28884",
+        "room_desc": "Theory of Approximation II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28885",
+        "room_desc": "Theory of Func Complex Var"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28886",
+        "room_desc": "Theory of Graphs"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28887",
+        "room_desc": "Theory of Numbers"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28888",
+        "room_desc": "Theory of the Integral"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28889",
+        "room_desc": "Top In Funct Analysis"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28890",
+        "room_desc": "Tutorial"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28891",
+        "room_desc": "VT: Indep Research"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28892",
+        "room_desc": "VT: Independent Research"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28893",
+        "room_desc": "VT: Seminar"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28894",
+        "room_desc": "VT:Indep Research"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28895",
+        "room_desc": "VT:Seminar"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28896",
+        "room_desc": "VT:Studies In Math"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28897",
+        "room_desc": "VT:Tutorial"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28898",
+        "room_desc": "Variable Topics: Tutorial"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28899",
+        "room_desc": "Vt: Studies In Math"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28900",
+        "room_desc": "Vt:Studies In  Math"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28901",
+        "room_desc": "Vt:Studies In Math"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28902",
+        "room_desc": "Writing Tutorial"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "28903",
+        "room_desc": "Writing Workshop"
+    }
+]

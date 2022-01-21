@@ -1,0 +1,22 @@
+[
+    {
+        "major": "CRIM",
+        "room_num": "68919",
+        "desc": "Intro to Criminal Justice"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "68920",
+        "desc": "Introduction to Corrections"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "68921",
+        "desc": "Introduction to Criminology"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "68922",
+        "desc": "Introduction to Policing"
+    }
+]

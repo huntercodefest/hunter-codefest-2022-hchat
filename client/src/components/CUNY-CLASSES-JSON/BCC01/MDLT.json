@@ -1,0 +1,56 @@
+[
+    {
+        "school": "BCC01",
+        "major": "MDLT",
+        "room_num": "69327",
+        "room_desc": "Clinical Chemistry"
+    },
+    {
+        "school": "BCC01",
+        "major": "MDLT",
+        "room_num": "69328",
+        "room_desc": "Clinical Hematology"
+    },
+    {
+        "school": "BCC01",
+        "major": "MDLT",
+        "room_num": "69329",
+        "room_desc": "Clinical Internship"
+    },
+    {
+        "school": "BCC01",
+        "major": "MDLT",
+        "room_num": "69330",
+        "room_desc": "Diagnostic Mircobiology"
+    },
+    {
+        "school": "BCC01",
+        "major": "MDLT",
+        "room_num": "69331",
+        "room_desc": "Immunohematology"
+    },
+    {
+        "school": "BCC01",
+        "major": "MDLT",
+        "room_num": "69332",
+        "room_desc": "Immunology/Serology"
+    },
+    {
+        "school": "BCC01",
+        "major": "MDLT",
+        "room_num": "69333",
+        "room_desc": "Intro to Clinical Microbiology"
+    },
+    {
+        "school": "BCC01",
+        "major": "MDLT",
+        "room_num": "69334",
+        "room_desc": "Intro to M.L.T."
+    },
+    {
+        "school": "BCC01",
+        "major": "MDLT",
+        "room_num": "69335",
+        "room_desc": "Urinalysis and Body Fluids"
+    }
+]

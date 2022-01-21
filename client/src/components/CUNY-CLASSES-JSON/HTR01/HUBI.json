@@ -1,0 +1,20 @@
+[
+    {
+        "school": "HTR01",
+        "major": "HUBI",
+        "room_num": "53341",
+        "room_desc": "Human Biology Senior Capstone"
+    },
+    {
+        "school": "HTR01",
+        "major": "HUBI",
+        "room_num": "53342",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "HTR01",
+        "major": "HUBI",
+        "room_num": "53343",
+        "room_desc": "Internship"
+    }
+]

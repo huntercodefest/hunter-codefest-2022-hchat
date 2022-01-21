@@ -1,0 +1,26 @@
+[
+    {
+        "school": "QNS01",
+        "major": "JWST",
+        "room_num": "28422",
+        "room_desc": "Courses In Jewish Studies"
+    },
+    {
+        "school": "QNS01",
+        "major": "JWST",
+        "room_num": "28423",
+        "room_desc": "Jewish Ethics"
+    },
+    {
+        "school": "QNS01",
+        "major": "JWST",
+        "room_num": "28424",
+        "room_desc": "Jewish Mysticism and Hasidism"
+    },
+    {
+        "school": "QNS01",
+        "major": "JWST",
+        "room_num": "28425",
+        "room_desc": "Senior Seminar"
+    }
+]

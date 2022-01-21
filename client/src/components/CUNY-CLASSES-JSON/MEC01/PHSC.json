@@ -1,0 +1,80 @@
+[
+    {
+        "school": "MEC01",
+        "major": "PHSC",
+        "room_num": "79711",
+        "room_desc": "Geographic Info Sci"
+    },
+    {
+        "school": "MEC01",
+        "major": "PHSC",
+        "room_num": "79712",
+        "room_desc": "Hydrology"
+    },
+    {
+        "school": "MEC01",
+        "major": "PHSC",
+        "room_num": "79713",
+        "room_desc": "Independent Research I"
+    },
+    {
+        "school": "MEC01",
+        "major": "PHSC",
+        "room_num": "79714",
+        "room_desc": "Independent Research II"
+    },
+    {
+        "school": "MEC01",
+        "major": "PHSC",
+        "room_num": "79715",
+        "room_desc": "Independent Research III"
+    },
+    {
+        "school": "MEC01",
+        "major": "PHSC",
+        "room_num": "79716",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "MEC01",
+        "major": "PHSC",
+        "room_num": "79717",
+        "room_desc": "Intro To Physical Sc"
+    },
+    {
+        "school": "MEC01",
+        "major": "PHSC",
+        "room_num": "79718",
+        "room_desc": "Intro to Telecommunications"
+    },
+    {
+        "school": "MEC01",
+        "major": "PHSC",
+        "room_num": "79719",
+        "room_desc": "Meteorology"
+    },
+    {
+        "school": "MEC01",
+        "major": "PHSC",
+        "room_num": "79720",
+        "room_desc": "Ocean Science (Oceanography)"
+    },
+    {
+        "school": "MEC01",
+        "major": "PHSC",
+        "room_num": "79721",
+        "room_desc": "Res Met/Lab Instmnta"
+    },
+    {
+        "school": "MEC01",
+        "major": "PHSC",
+        "room_num": "79722",
+        "room_desc": "Spec Top Climate & Planets"
+    },
+    {
+        "school": "MEC01",
+        "major": "PHSC",
+        "room_num": "79723",
+        "room_desc": "Spec Top Telecom"
+    }
+]

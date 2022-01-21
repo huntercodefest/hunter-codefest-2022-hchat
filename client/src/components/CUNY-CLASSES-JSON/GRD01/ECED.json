@@ -1,0 +1,32 @@
+[
+    {
+        "school": "GRD01",
+        "major": "ECED",
+        "room_num": "3921",
+        "room_desc": "Assessment & Instruction II"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECED",
+        "room_num": "3922",
+        "room_desc": "Foundations of Education"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECED",
+        "room_num": "3923",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECED",
+        "room_num": "3924",
+        "room_desc": "Lang & Literacy Dev:Tch Rdng"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECED",
+        "room_num": "3925",
+        "room_desc": "Multi-Cultural Education"
+    }
+]

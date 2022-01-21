@@ -1,0 +1,56 @@
+[
+    {
+        "school": "CTY01",
+        "major": "EGSC",
+        "room_num": "38064",
+        "room_desc": "Applied Machine Learning and D"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGSC",
+        "room_num": "38065",
+        "room_desc": "Applied Statistics"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGSC",
+        "room_num": "38066",
+        "room_desc": "Big Data and Scalable Computat"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGSC",
+        "room_num": "38067",
+        "room_desc": "Capstone Project"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGSC",
+        "room_num": "38068",
+        "room_desc": "Capstone Thesis"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGSC",
+        "room_num": "38069",
+        "room_desc": "Data Engineering: Infrastructu"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGSC",
+        "room_num": "38070",
+        "room_desc": "Introduction to Data Science"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGSC",
+        "room_num": "38071",
+        "room_desc": "Machine Learning for Finance a"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGSC",
+        "room_num": "38072",
+        "room_desc": "Visual Analytics"
+    }
+]

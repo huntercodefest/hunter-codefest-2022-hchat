@@ -1,0 +1,26 @@
+[
+    {
+        "school": "BCC01",
+        "major": "ARAB",
+        "room_num": "68732",
+        "room_desc": "Beginning Arabic I"
+    },
+    {
+        "school": "BCC01",
+        "major": "ARAB",
+        "room_num": "68733",
+        "room_desc": "Beginning Arabic II"
+    },
+    {
+        "school": "BCC01",
+        "major": "ARAB",
+        "room_num": "68734",
+        "room_desc": "Introduction to Arabic I"
+    },
+    {
+        "school": "BCC01",
+        "major": "ARAB",
+        "room_num": "68735",
+        "room_desc": "Introduction to Arabic II"
+    }
+]

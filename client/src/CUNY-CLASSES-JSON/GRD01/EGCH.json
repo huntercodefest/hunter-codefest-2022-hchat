@@ -1,0 +1,297 @@
+[
+    {
+        "major": "EGCH",
+        "room_num": "4380",
+        "desc": "Adv Chem Thermodynamics"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4381",
+        "desc": "Adv Chemical Thermodynamics"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4382",
+        "desc": "Adv Top in Polymer Sci & Engin"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4383",
+        "desc": "Advanced Kinetics"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4384",
+        "desc": "Advanced Materials"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4385",
+        "desc": "Advanced Materials Engineering"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4386",
+        "desc": "Advanced Topics: Polymer Sci"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4387",
+        "desc": "Bioprocess Engineering"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4388",
+        "desc": "Cell and Tissue Engineering"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4389",
+        "desc": "Chem Proc Dyn & Cntrl"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4390",
+        "desc": "Chem React Kinet"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4391",
+        "desc": "Chem Reaction Kinet"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4392",
+        "desc": "Chemical Process Economics"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4393",
+        "desc": "Chemical Process Simulation"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4394",
+        "desc": "Doctoral Dissertation Research"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4395",
+        "desc": "Electrochem Princ & Pract"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4396",
+        "desc": "Energy Systems Engineering"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4397",
+        "desc": "Fluid Particle Systems"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4398",
+        "desc": "Fluidization"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4399",
+        "desc": "GIS Transportation Modeling"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4400",
+        "desc": "Independent Studies"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4401",
+        "desc": "Interfacial Phenomena"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4402",
+        "desc": "Mass Transfer"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4403",
+        "desc": "Mechanics of Polymer Melt Proc"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4404",
+        "desc": "Modeling in Chem Engineering"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4405",
+        "desc": "Molecular Simulation"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4406",
+        "desc": "Multiphase Reactors"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4407",
+        "desc": "Nanotechnology"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4408",
+        "desc": "Non-Newtonian Fluids"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4409",
+        "desc": "Organic Films and Analysis"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4410",
+        "desc": "Polymer Processing"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4411",
+        "desc": "Polymer Survaces & Interfaces"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4412",
+        "desc": "Powder Science & Technology"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4413",
+        "desc": "Process Control"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4414",
+        "desc": "Process Dynamics & Control II"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4415",
+        "desc": "Process Dynamics and Control I"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4416",
+        "desc": "Project"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4417",
+        "desc": "Report"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4418",
+        "desc": "Rheology"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4419",
+        "desc": "Rheology of Soft Materials"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4420",
+        "desc": "ST: Chemical Engineering"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4421",
+        "desc": "ST: Civil Engineering"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4422",
+        "desc": "Seminar"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4423",
+        "desc": "Separation Operations I"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4424",
+        "desc": "Separation Operations II"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4425",
+        "desc": "Simulation"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4426",
+        "desc": "Soft Materials Lab"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4427",
+        "desc": "Statistical Mechanics"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4428",
+        "desc": "Statistical Mechanics I"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4429",
+        "desc": "Statistical Mechanics II"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4430",
+        "desc": "Technq & Pract of Simulation"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4431",
+        "desc": "Thermodynamics"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4432",
+        "desc": "Thin Organic Films & Analysis"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4433",
+        "desc": "Tissue Engineering"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4434",
+        "desc": "Top in Materials Sci & Engin"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4435",
+        "desc": "Topics in Chemical Engineering"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4436",
+        "desc": "Trans Phenom Ii"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4437",
+        "desc": "Transport Phenom"
+    },
+    {
+        "major": "EGCH",
+        "room_num": "4438",
+        "desc": "Unit Operations 2"
+    }
+]

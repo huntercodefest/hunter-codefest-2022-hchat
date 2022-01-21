@@ -1,0 +1,52 @@
+[
+    {
+        "major": "LATI",
+        "room_num": "28486",
+        "desc": "Elementary Latin"
+    },
+    {
+        "major": "LATI",
+        "room_num": "28487",
+        "desc": "Great Authors"
+    },
+    {
+        "major": "LATI",
+        "room_num": "28488",
+        "desc": "Intermediate Latin"
+    },
+    {
+        "major": "LATI",
+        "room_num": "28489",
+        "desc": "Latin Prose Composition I"
+    },
+    {
+        "major": "LATI",
+        "room_num": "28490",
+        "desc": "Med Lat Lit"
+    },
+    {
+        "major": "LATI",
+        "room_num": "28491",
+        "desc": "Readings in Latin Literature"
+    },
+    {
+        "major": "LATI",
+        "room_num": "28492",
+        "desc": "Req Met By Prof Exam"
+    },
+    {
+        "major": "LATI",
+        "room_num": "28493",
+        "desc": "Roman Fiction"
+    },
+    {
+        "major": "LATI",
+        "room_num": "28494",
+        "desc": "Roman Poetry"
+    },
+    {
+        "major": "LATI",
+        "room_num": "28495",
+        "desc": "Roman Prose"
+    }
+]

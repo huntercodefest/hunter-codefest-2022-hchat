@@ -1,0 +1,44 @@
+[
+    {
+        "school": "BAR01",
+        "major": "IMME",
+        "room_num": "60637",
+        "room_desc": "Basic Writing Esl II"
+    },
+    {
+        "school": "BAR01",
+        "major": "IMME",
+        "room_num": "60638",
+        "room_desc": "Basic Writing II"
+    },
+    {
+        "school": "BAR01",
+        "major": "IMME",
+        "room_num": "60639",
+        "room_desc": "Basic Wrtng IV Rev"
+    },
+    {
+        "school": "BAR01",
+        "major": "IMME",
+        "room_num": "60640",
+        "room_desc": "Elementary Algebra"
+    },
+    {
+        "school": "BAR01",
+        "major": "IMME",
+        "room_num": "60641",
+        "room_desc": "Reading Workshop"
+    },
+    {
+        "school": "BAR01",
+        "major": "IMME",
+        "room_num": "60642",
+        "room_desc": "Training Spoken Engl"
+    },
+    {
+        "school": "BAR01",
+        "major": "IMME",
+        "room_num": "60643",
+        "room_desc": "Univ Bsc Sk Prog Wrt"
+    }
+]

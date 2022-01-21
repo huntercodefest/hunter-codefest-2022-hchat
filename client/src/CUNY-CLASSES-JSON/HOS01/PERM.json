@@ -1,0 +1,12 @@
+[
+    {
+        "major": "PERM",
+        "room_num": "64941",
+        "desc": "Permit Out"
+    },
+    {
+        "major": "PERM",
+        "room_num": "64942",
+        "desc": "Permit Out Variable"
+    }
+]

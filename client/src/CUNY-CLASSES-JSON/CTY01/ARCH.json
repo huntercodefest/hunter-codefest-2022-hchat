@@ -1,0 +1,2582 @@
+[
+    {
+        "major": "ARCH",
+        "room_num": "31556",
+        "desc": "18th & 19th C Europn"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31557",
+        "desc": "20th Century Architecture"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31558",
+        "desc": "Aalto & Scand Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31559",
+        "desc": "Aalto Rialto"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31560",
+        "desc": "Activist Space In NYC"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31561",
+        "desc": "Activist Space In New York Cty"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31562",
+        "desc": "Adv Arch Design"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31563",
+        "desc": "Adv Arch Dsgn Stud 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31564",
+        "desc": "Adv Arch Structures"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31565",
+        "desc": "Adv Presentation Techniques"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31566",
+        "desc": "Adv Prsntatn Technq"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31567",
+        "desc": "Adv Structures"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31568",
+        "desc": "Adv Stud In Sustain"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31569",
+        "desc": "Advanced Computing"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31570",
+        "desc": "Advanced Presentation Techniq"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31571",
+        "desc": "Advanced Representation Techni"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31572",
+        "desc": "Advanced Studio"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31573",
+        "desc": "Advcd Structrs Smnr"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31574",
+        "desc": "Aesthetics"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31575",
+        "desc": "Afr Arch Heritage"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31576",
+        "desc": "African Architecture"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31577",
+        "desc": "Alyar Aalto"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31578",
+        "desc": "American Arch Thry"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31579",
+        "desc": "American Settlement Patterns"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31580",
+        "desc": "American Urban Landscape"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31581",
+        "desc": "Amrcn Sttlmnt Pttrns"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31582",
+        "desc": "Analytical-Syn Draw"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31583",
+        "desc": "Anth Of Urban Areas"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31584",
+        "desc": "Applied Resilience by Design"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31585",
+        "desc": "Apt Unit Planning"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31586",
+        "desc": "Arch & Media"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31587",
+        "desc": "Arch & Photography 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31588",
+        "desc": "Arch & Urb In The Us"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31589",
+        "desc": "Arch After W W 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31590",
+        "desc": "Arch Design Build Sys Resea"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31591",
+        "desc": "Arch Drawing"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31592",
+        "desc": "Arch Drawing 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31593",
+        "desc": "Arch Photography"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31594",
+        "desc": "Arch Photography 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31595",
+        "desc": "Arch Rendering"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31596",
+        "desc": "Arch Theory"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31597",
+        "desc": "Arch Visualization"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31598",
+        "desc": "Arch:Male-Female"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31599",
+        "desc": "Archae Design Build Syst Rsrch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31600",
+        "desc": "Archit Thesis"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31601",
+        "desc": "Architec And Gender"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31602",
+        "desc": "Architectural Freehand Drawing"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31603",
+        "desc": "Architectural Lighting Electiv"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31604",
+        "desc": "Architectural Management"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31605",
+        "desc": "Architectural Mngmt"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31606",
+        "desc": "Architectural Photography II"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31607",
+        "desc": "Architectural Sketching"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31608",
+        "desc": "Architectural Studio 1.1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31609",
+        "desc": "Architectural Studio 1.2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31610",
+        "desc": "Architectural Studio 1.3"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31611",
+        "desc": "Architectural Studio 1.4"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31612",
+        "desc": "Architecture  of Ancient China"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31613",
+        "desc": "Architecture & Film"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31614",
+        "desc": "Architecture & Food"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31615",
+        "desc": "Architecture & Photography"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31616",
+        "desc": "Architecture Studio 2.2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31617",
+        "desc": "Architecture Studio 2.3"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31618",
+        "desc": "Architecture Thesis"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31619",
+        "desc": "Architecture and Food"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31620",
+        "desc": "Architecture and Gender"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31621",
+        "desc": "Architecture and Preservation"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31622",
+        "desc": "Architecture and Science"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31623",
+        "desc": "Art in Public Places"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31624",
+        "desc": "Articulating an Idea"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31625",
+        "desc": "Baroque Urbanism"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31626",
+        "desc": "Berlin 20th & 21st C"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31627",
+        "desc": "Berlin 20th & 21st Century"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31628",
+        "desc": "Bioremediation"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31629",
+        "desc": "Bldg Equipment 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31630",
+        "desc": "Blk & Pr Stdt Wkshp"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31631",
+        "desc": "Bond Center Research"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31632",
+        "desc": "Bond Center Thesis"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31633",
+        "desc": "Build Performance Sims/Analy"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31634",
+        "desc": "Building Equipment I"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31635",
+        "desc": "Building Modeling"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31636",
+        "desc": "Building Systems 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31637",
+        "desc": "Building Systems 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31638",
+        "desc": "Building Systems III"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31639",
+        "desc": "Building Systems IV"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31640",
+        "desc": "Built Environment of NYC"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31641",
+        "desc": "CCAC Research should be Bond C"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31642",
+        "desc": "CCNY Model Making"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31643",
+        "desc": "Cap Interdis Proj 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31644",
+        "desc": "Cap Interdis Proj 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31645",
+        "desc": "Case St Sustainabili"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31646",
+        "desc": "Case Std Sustainblty"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31647",
+        "desc": "Case Stud Sustanblty"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31648",
+        "desc": "Case Studies in Sustainability"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31649",
+        "desc": "Ccac Research"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31650",
+        "desc": "Ccac Reserch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31651",
+        "desc": "Children & The City"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31652",
+        "desc": "Cities & Urban Life"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31653",
+        "desc": "City As A Museum"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31654",
+        "desc": "City of Naples"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31655",
+        "desc": "Cmptr Dsgn Wkshp 3"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31656",
+        "desc": "Cmptr Dsgn Wkshp 4"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31657",
+        "desc": "Cmptr Dsgn Wrkshp 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31658",
+        "desc": "Cmptr Pres Technqs"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31659",
+        "desc": "Cnstrctn Doc 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31660",
+        "desc": "Cnstruction Docmnts"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31661",
+        "desc": "Co-Op Ed"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31662",
+        "desc": "Co-Op Education"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31663",
+        "desc": "Co-Op Internship 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31664",
+        "desc": "Co-Op Internship 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31665",
+        "desc": "Co-op Ed"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31666",
+        "desc": "Co-op Internship 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31667",
+        "desc": "Co-op Internship I"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31668",
+        "desc": "Col-Pstcol Arch Ind"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31669",
+        "desc": "Communication Studio III"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31670",
+        "desc": "Compositions"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31671",
+        "desc": "Comprehensive Design 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31672",
+        "desc": "Comprehensive Design 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31673",
+        "desc": "Comprehensive Studio"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31674",
+        "desc": "Computation and Design"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31675",
+        "desc": "Computational Design"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31676",
+        "desc": "Computer Aided Dsgn"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31677",
+        "desc": "Computer Press Tech"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31678",
+        "desc": "Computer Rendering"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31679",
+        "desc": "Computers & Env Chg"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31680",
+        "desc": "Computers And Env"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31681",
+        "desc": "Computers In Arch 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31682",
+        "desc": "Computers In Arch 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31683",
+        "desc": "Computers In Architecture II"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31684",
+        "desc": "Computers in Architecture"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31685",
+        "desc": "Constrctn Documents"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31686",
+        "desc": "Construction 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31687",
+        "desc": "Construction Documents I"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31688",
+        "desc": "Construction Documents II"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31689",
+        "desc": "Construction I"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31690",
+        "desc": "Construction II"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31691",
+        "desc": "Construction III"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31692",
+        "desc": "Construction IV"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31693",
+        "desc": "Construction Tech 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31694",
+        "desc": "Construction Tech 3"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31695",
+        "desc": "Construction Tech 4"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31696",
+        "desc": "Construction Technology 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31697",
+        "desc": "Construction Technology 3"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31698",
+        "desc": "Construction Technology I"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31699",
+        "desc": "Construction Technology II"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31700",
+        "desc": "Construction Technology III"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31701",
+        "desc": "Construction Technology IV"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31702",
+        "desc": "Contemporary Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31703",
+        "desc": "Contemporary Architecture"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31704",
+        "desc": "Coop Education"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31705",
+        "desc": "Core Studio 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31706",
+        "desc": "Core Studio 4"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31707",
+        "desc": "Core Studio 5"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31708",
+        "desc": "Core Studio I"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31709",
+        "desc": "Core Studio III"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31710",
+        "desc": "Core Studio VI"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31711",
+        "desc": "Cost Control"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31712",
+        "desc": "Cr Disp Sel Dsgn Top"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31713",
+        "desc": "Crit Issues In Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31714",
+        "desc": "Cross Pollinati Prac"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31715",
+        "desc": "Curating Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31716",
+        "desc": "Curating Arch 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31717",
+        "desc": "Curating Architecture 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31718",
+        "desc": "Curating Architecture II"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31719",
+        "desc": "Descriptive Geometry"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31720",
+        "desc": "Design 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31721",
+        "desc": "Design 3"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31722",
+        "desc": "Design 4"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31723",
+        "desc": "Design Build"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31724",
+        "desc": "Design Childrns Env"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31725",
+        "desc": "Design Concrete Structures"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31726",
+        "desc": "Design For Risk"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31727",
+        "desc": "Design Research"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31728",
+        "desc": "Design Seminar"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31729",
+        "desc": "Design Seminar 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31730",
+        "desc": "Design Seminar II"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31731",
+        "desc": "Design Studies"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31732",
+        "desc": "Design Studio IV"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31733",
+        "desc": "Design Workshop 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31734",
+        "desc": "Design Workshop 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31735",
+        "desc": "Design Workshop 3"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31736",
+        "desc": "Design Workshop 4"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31737",
+        "desc": "Design Workshop I"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31738",
+        "desc": "Design Workshop II"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31739",
+        "desc": "Design Workshop III"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31740",
+        "desc": "Design for Risk"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31741",
+        "desc": "Design-Build"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31742",
+        "desc": "Dialectics of Arch and Educ"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31743",
+        "desc": "Dig Des & Fabrication"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31744",
+        "desc": "Digital Architecture"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31745",
+        "desc": "Digital Constructs"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31746",
+        "desc": "Digital Fabrication Pavillion"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31747",
+        "desc": "Digital Fabrication Practice"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31748",
+        "desc": "Digital Fabrication Practices"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31749",
+        "desc": "Digital Systems: Space Syntax"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31750",
+        "desc": "Digital Techniques"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31751",
+        "desc": "Dirctns Green Design"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31752",
+        "desc": "Disc Form In Nature"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31753",
+        "desc": "Discvr Form In Natr"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31754",
+        "desc": "Displ African Arts"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31755",
+        "desc": "Documenting New York"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31756",
+        "desc": "Drawing And Color"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31757",
+        "desc": "Drawing New York"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31758",
+        "desc": "Drawing Nyc"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31759",
+        "desc": "Drawing and Color"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31760",
+        "desc": "Dvlpng Cmmnctn Skls"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31761",
+        "desc": "Dwelling & Habitat"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31762",
+        "desc": "Dynamic Vegetation Systems & T"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31763",
+        "desc": "Dynamics Human Ecol"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31764",
+        "desc": "Econ Of Sustainablty"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31765",
+        "desc": "Efficiency & Tall Buildings"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31766",
+        "desc": "Efficiency and Tall Buildings"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31767",
+        "desc": "Ene Sys Eng Glob Sus"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31768",
+        "desc": "Env Psy For Architec"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31769",
+        "desc": "Environment Concepts II"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31770",
+        "desc": "Environmental Justice"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31771",
+        "desc": "Environmental Sys 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31772",
+        "desc": "Environmental Syst 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31773",
+        "desc": "Environmental Systems"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31774",
+        "desc": "Environmntl Mngmt"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31775",
+        "desc": "Environmntl Mngmt 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31776",
+        "desc": "Envrnmntl Psyc Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31777",
+        "desc": "European Research Seminar I"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31778",
+        "desc": "European Research Seminar II"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31779",
+        "desc": "Faculty Directed Research"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31780",
+        "desc": "Field Ecology"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31781",
+        "desc": "Film31782: ARCH,\"Finish Mat & Meth"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31783",
+        "desc": "Frank Lloyd Wright"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31784",
+        "desc": "Fund Arch Theory"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31785",
+        "desc": "GLASS TECHNOLOGIES"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31786",
+        "desc": "Gaudi & Arch Culture"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31787",
+        "desc": "Gender & Space"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31788",
+        "desc": "Gender And Space"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31789",
+        "desc": "Geospatial Analysis"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31790",
+        "desc": "Graph Comm For Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31791",
+        "desc": "Green Building Design & Leed"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31792",
+        "desc": "HVAC System Impact"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31793",
+        "desc": "Hist & Thry 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31794",
+        "desc": "Hist & Thry 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31795",
+        "desc": "Hist & Thry 3"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31796",
+        "desc": "Hist & Thry Arch 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31797",
+        "desc": "Hist Arch Draw Mon"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31798",
+        "desc": "Hist Of Amer Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31799",
+        "desc": "Hist Of Struct Forms"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31800",
+        "desc": "Hist Of Urban Hsing"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31801",
+        "desc": "Hist Urban Hsing"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31802",
+        "desc": "Hist Urnan Hsing"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31803",
+        "desc": "Hist of Arch Representation Te"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31804",
+        "desc": "Historic Preservatn"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31805",
+        "desc": "History & Theory of Landscape"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31806",
+        "desc": "History and Theory III"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31807",
+        "desc": "History of European City"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31808",
+        "desc": "History of the European City"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31809",
+        "desc": "History/Theory IV"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31810",
+        "desc": "Housing Design"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31811",
+        "desc": "Housing Theories"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31812",
+        "desc": "Housing-Metropolis"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31813",
+        "desc": "Hsing Prjcts & Urban Challenge"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31814",
+        "desc": "Hst Dev-Dsgn Museums"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31815",
+        "desc": "Hst Mod Urb Infrat"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31816",
+        "desc": "Hst Mod Urbn Infrast"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31817",
+        "desc": "Hunting Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31818",
+        "desc": "Iconc Bldg Tectonics"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31819",
+        "desc": "Iconic Building Tectonics"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31820",
+        "desc": "Imagining Manhattan: building"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31821",
+        "desc": "In Situ"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31822",
+        "desc": "Indep Work Proj 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31823",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31824",
+        "desc": "Independent Work"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31825",
+        "desc": "Integrated Building Systems"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31826",
+        "desc": "Integrtd Bldg Design"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31827",
+        "desc": "Intensive Hands-on Wrkshp"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31828",
+        "desc": "Intensive Vertical Studio"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31829",
+        "desc": "Interg Bldg Systems"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31830",
+        "desc": "Interior Design 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31831",
+        "desc": "Interior Design 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31832",
+        "desc": "Internship 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31833",
+        "desc": "Internship 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31834",
+        "desc": "Internship 3"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31835",
+        "desc": "Internship IV"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31836",
+        "desc": "Intmed Modlng Rhino"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31837",
+        "desc": "Intr Prsntatn Technq"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31838",
+        "desc": "Intro Digital Media"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31839",
+        "desc": "Intro Hstrc Presvtn"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31840",
+        "desc": "Intro Urban Presrvtn"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31841",
+        "desc": "Intro to Ecology and GIS"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31842",
+        "desc": "Intro.Hist.Theo.Tec."
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31843",
+        "desc": "Introduction to Design of Timb"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31844",
+        "desc": "Introduction to Landscape Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31845",
+        "desc": "Islamic Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31846",
+        "desc": "Islamic Architecture"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31847",
+        "desc": "Islamic Archtecture"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31848",
+        "desc": "Lang Amrcn Cty Plng"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31849",
+        "desc": "Latin America Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31850",
+        "desc": "Latin American Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31851",
+        "desc": "Latin American Architecture"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31852",
+        "desc": "Le Corbusier"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31853",
+        "desc": "Learning the Landscape"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31854",
+        "desc": "Lecorbusier"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31855",
+        "desc": "Low Energy Bldg"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31856",
+        "desc": "Low Energy Bldgs"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31857",
+        "desc": "Low-Energy Buildings"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31858",
+        "desc": "Lrngng Lndscape"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31859",
+        "desc": "Maps31860: ARCH,\"Mat & Meth Const 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31861",
+        "desc": "Mat & Meth Const 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31862",
+        "desc": "Material Resch Specs"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31863",
+        "desc": "Material and Climate in the Bu"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31864",
+        "desc": "Materials and Construction L"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31865",
+        "desc": "Materials-Cnstruc 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31866",
+        "desc": "Materials/Construc 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31867",
+        "desc": "Materials/Construction S"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31868",
+        "desc": "Meaning In Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31869",
+        "desc": "Mech Equip (Hvac)"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31870",
+        "desc": "Mechanical Equip 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31871",
+        "desc": "Mechanical Equipt"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31872",
+        "desc": "Mechanical Systems"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31873",
+        "desc": "Methods Of Arch 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31874",
+        "desc": "Methods Of Arch 3"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31875",
+        "desc": "Methods Of Arch 4"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31876",
+        "desc": "Methods of Architecture III"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31877",
+        "desc": "Mod Hous-Gndr-Rce-Cl"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31878",
+        "desc": "Modern Architecture and Urban"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31879",
+        "desc": "Modern Architecture: Comparati"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31880",
+        "desc": "Modern Housing and Urbanism in"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31881",
+        "desc": "Modern Japanese Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31882",
+        "desc": "Modern Japanese Architecture"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31883",
+        "desc": "Modern Landscapes of XX Cent"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31884",
+        "desc": "Modern Landscapes of the 20th"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31885",
+        "desc": "Modernism & Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31886",
+        "desc": "Modernism & Architecture"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31887",
+        "desc": "Mtrls-Rsch-Frabrcton"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31888",
+        "desc": "NOMA Student Design"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31889",
+        "desc": "Natural Resources"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31890",
+        "desc": "New Directions In Green Design"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31891",
+        "desc": "New Urban Ideologies"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31892",
+        "desc": "Newburgh Connection"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31893",
+        "desc": "Ny Mosques"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31894",
+        "desc": "Nyc Class Rviv Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31895",
+        "desc": "Nyc Hous: Frcs Tht Shpe"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31896",
+        "desc": "Nyc Hous:Shaping Of"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31897",
+        "desc": "Of Matter"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31898",
+        "desc": "Oscar Niemeyer"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31899",
+        "desc": "Parametric Design Build"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31900",
+        "desc": "Paris"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31901",
+        "desc": "Pencil Meets Button"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31902",
+        "desc": "Pencil meets Button"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31903",
+        "desc": "Perspectives on Sust Materials"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31904",
+        "desc": "Phil Of Technology"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31905",
+        "desc": "Photo & Vid Represnt"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31906",
+        "desc": "Photo Shop For Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31907",
+        "desc": "Photo Shop for Architecture"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31908",
+        "desc": "Photography and Video Represen"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31909",
+        "desc": "Phys History Nyc"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31910",
+        "desc": "Phys Modeling Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31911",
+        "desc": "Physical Hist Nyc"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31912",
+        "desc": "Physical History NYC"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31913",
+        "desc": "Physics & Energy"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31914",
+        "desc": "Physics Modeling Architecture"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31915",
+        "desc": "Plng Tool Urb Chng"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31916",
+        "desc": "Post Industrial Fact"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31917",
+        "desc": "Prblms 20th C Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31918",
+        "desc": "Pre-Computation Parametric"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31919",
+        "desc": "Presence & The Past"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31920",
+        "desc": "Present & The Past"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31921",
+        "desc": "Problems in 19th Century Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31922",
+        "desc": "Productive Distortions"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31923",
+        "desc": "Productn Technology"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31924",
+        "desc": "Professional Practice"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31925",
+        "desc": "Projects & Urban Challenges US"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31926",
+        "desc": "Quan Meth Arch Prac"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31927",
+        "desc": "Queer Space"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31928",
+        "desc": "Race31929: ARCH,\"Race31930: ARCH,\"Rdg Africn Architect"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31931",
+        "desc": "Rdng North American Metrop"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31932",
+        "desc": "Rdng-Wrtng In Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31933",
+        "desc": "Re-Imag Tall Buildng"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31934",
+        "desc": "Re-Imagining Tall Buildings"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31935",
+        "desc": "Reading African Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31936",
+        "desc": "Reconstr To Deconstr"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31937",
+        "desc": "Renewable Energies"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31938",
+        "desc": "Research"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31939",
+        "desc": "Research Independent Study"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31940",
+        "desc": "Responsive Architectural Inter"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31941",
+        "desc": "Responsive Architectures"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31942",
+        "desc": "Retrofitting Suburbia"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31943",
+        "desc": "Rewrk Arc Cn Lexicon"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31944",
+        "desc": "Rsch Indp Study"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31945",
+        "desc": "Scripting Illusion"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31946",
+        "desc": "Seminar On Louis Kahn"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31947",
+        "desc": "Seminar on Louis Kahn"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31948",
+        "desc": "Seminar: Louis Kahn"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31949",
+        "desc": "Series Research"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31950",
+        "desc": "Set Design"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31951",
+        "desc": "Shop Draw Fabricatio"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31952",
+        "desc": "Site Design"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31953",
+        "desc": "Site Dev Landscape"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31954",
+        "desc": "Site Technology"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31955",
+        "desc": "Six Modern Bldgs"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31956",
+        "desc": "Six Modern Buildings"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31957",
+        "desc": "Sld Wste Reuse Recyl"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31958",
+        "desc": "Soc-Cul Non W Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31959",
+        "desc": "Spanish Architecture"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31960",
+        "desc": "Spatial Analys & Sci of Where"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31961",
+        "desc": "Spatial and Regional Represent"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31962",
+        "desc": "Static& Streng. Mat."
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31963",
+        "desc": "Statics-Str Of Matl"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31964",
+        "desc": "Strngth Of Materials"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31965",
+        "desc": "Struc Form In Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31966",
+        "desc": "Structural Anatomy of Building"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31967",
+        "desc": "Structure Anatomy of Bldgs"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31968",
+        "desc": "Structure-Concrete"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31969",
+        "desc": "Structures 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31970",
+        "desc": "Structures 1 - Introduction to"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31971",
+        "desc": "Structures 2 ? Design of Struc"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31972",
+        "desc": "Structures 2 Design of Struc"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31973",
+        "desc": "Structures 3"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31974",
+        "desc": "Structures 3 ? Behavior of Str"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31975",
+        "desc": "Structures 4"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31976",
+        "desc": "Structures I"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31977",
+        "desc": "Structures I31978: ARCH,\"Structures II: Concrete"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31979",
+        "desc": "Structures III Structural Syst"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31980",
+        "desc": "Studies In Film & Aesthetics"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31981",
+        "desc": "Studio Seminar 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31982",
+        "desc": "Studio Seminar I"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31983",
+        "desc": "Studio Seminar II"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31984",
+        "desc": "Studio Seminar III"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31985",
+        "desc": "Studio Seminar IV"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31986",
+        "desc": "Study Abroad 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31987",
+        "desc": "Study Abroad 3"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31988",
+        "desc": "Study Abroad Program"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31989",
+        "desc": "Survey West Arch 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31990",
+        "desc": "Survey World Arch 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31991",
+        "desc": "Survey World Arch 3"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31992",
+        "desc": "Survey World Arch 4"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31993",
+        "desc": "Survey World Architecture 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31994",
+        "desc": "Survey of World Architecture 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31995",
+        "desc": "Survey of World Architecture 4"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31996",
+        "desc": "Sust Cortyrd Hse Set"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31997",
+        "desc": "Sustainable Building Performan"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31998",
+        "desc": "Sustainable Design"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "31999",
+        "desc": "Sustainable Soil and Water"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32000",
+        "desc": "Sustainble Intl Pers"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32001",
+        "desc": "Sustaninable Design"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32002",
+        "desc": "Tch Architecture 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32003",
+        "desc": "Tch Architecture 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32004",
+        "desc": "Teaching Architecture 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32005",
+        "desc": "Teaching Architecture 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32006",
+        "desc": "Teaching Asst in Architecture"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32007",
+        "desc": "Tech Urban Analysis"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32008",
+        "desc": "Th Envelope"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32009",
+        "desc": "The City Of Naples"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32010",
+        "desc": "The Envelope"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32011",
+        "desc": "The Festival"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32012",
+        "desc": "The Isms"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32013",
+        "desc": "The Making of Contemp Architec"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32014",
+        "desc": "The Making of Contemporary Arc"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32015",
+        "desc": "The Measure of Human"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32016",
+        "desc": "The Measure of Humankind"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32017",
+        "desc": "The Synthetic Subline- Vibrant"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32018",
+        "desc": "Theory"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32019",
+        "desc": "Theory Of Technology"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32020",
+        "desc": "Theory and Methods for Researc"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32021",
+        "desc": "Thesis"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32022",
+        "desc": "Thesis Studio"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32023",
+        "desc": "Thry & Methods for Research"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32024",
+        "desc": "Topic Hist Landsc32025: ARCH,\"Topic Hist of World Architect"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32026",
+        "desc": "Topics Computational Studies"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32027",
+        "desc": "Topics His Landsc32028: ARCH,\"Topics Hist Arch & Soc"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32029",
+        "desc": "Topics Hist of World Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32030",
+        "desc": "Topics In Modrn Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32031",
+        "desc": "Topics Modern Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32032",
+        "desc": "Topics in Arch and the City"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32033",
+        "desc": "Topics in Archaeology History"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32034",
+        "desc": "Topics in Computational Studie"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32035",
+        "desc": "Topics in Design & Methods"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32036",
+        "desc": "Topics in Design Methods"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32037",
+        "desc": "Topics in Hist of Arch & Soc"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32038",
+        "desc": "Topics in Professional Studies"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32039",
+        "desc": "Topics in Sustainability"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32040",
+        "desc": "Topics in Sustainability: Adva"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32041",
+        "desc": "Topics in Technology"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32042",
+        "desc": "Topics in Visual Studies"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32043",
+        "desc": "Tpcs In Architecture"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32044",
+        "desc": "Transportatn In Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32045",
+        "desc": "Trnsportation & Arch"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32046",
+        "desc": "Trnsptn & Architec"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32047",
+        "desc": "Tropical Archtectre"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32048",
+        "desc": "Tropical Archtectur"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32049",
+        "desc": "Under Surveillance"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32050",
+        "desc": "Urb Rgnl Ecol Sys 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32051",
+        "desc": "Urb Xport Syst"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32052",
+        "desc": "Urban Cartography"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32053",
+        "desc": "Urban Design Theory"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32054",
+        "desc": "Urban Ecologies 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32055",
+        "desc": "Urban Intervention"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32056",
+        "desc": "Urban Plants-Plant Ident"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32057",
+        "desc": "Urban Reconstruction"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32058",
+        "desc": "Urban Reconstructn"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32059",
+        "desc": "Urban Stormwater Management"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32060",
+        "desc": "Urban Studies-Theory of City"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32061",
+        "desc": "Urban Theory"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32062",
+        "desc": "Values Cncpts Mthds"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32063",
+        "desc": "Van Eyck & Hertzberg"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32064",
+        "desc": "Van Eyck-Hertzberger"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32065",
+        "desc": "Van Eyck-Herzberger"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32066",
+        "desc": "Vert Design Studio"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32067",
+        "desc": "Vis Rep:Eco And Tect"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32068",
+        "desc": "Visual Studies"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32069",
+        "desc": "Visual Studies 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32070",
+        "desc": "Visual Studies 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32071",
+        "desc": "Visualizing Central Park"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32072",
+        "desc": "Western Arch 1"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32073",
+        "desc": "Western Architecture 2"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32074",
+        "desc": "Wonder of Medieval Architectur"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32075",
+        "desc": "Wood & Steel Design"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32076",
+        "desc": "Words and Building"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32077",
+        "desc": "Words and Buildings"
+    },
+    {
+        "major": "ARCH",
+        "room_num": "32078",
+        "desc": "World Cities"
+    }
+]

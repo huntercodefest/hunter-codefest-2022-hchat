@@ -1,0 +1,27 @@
+[
+    {
+        "major": "CMST",
+        "room_num": "78287",
+        "desc": "Assembler Lang Lab"
+    },
+    {
+        "major": "CMST",
+        "room_num": "78288",
+        "desc": "Fortran Program Lab"
+    },
+    {
+        "major": "CMST",
+        "room_num": "78289",
+        "desc": "Microcomputers Lab"
+    },
+    {
+        "major": "CMST",
+        "room_num": "78290",
+        "desc": "Pascal Prog Lab"
+    },
+    {
+        "major": "CMST",
+        "room_num": "78291",
+        "desc": "Pl/I Programming Lab"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "school": "BKL01",
+        "major": "CREO",
+        "room_num": "71348",
+        "room_desc": "Basic Writing/Reading Heritage"
+    },
+    {
+        "school": "BKL01",
+        "major": "CREO",
+        "room_num": "71349",
+        "room_desc": "Basic Wrt/Read Skill"
+    },
+    {
+        "school": "BKL01",
+        "major": "CREO",
+        "room_num": "71350",
+        "room_desc": "Inter Wtg/Rdg Skills"
+    },
+    {
+        "school": "BKL01",
+        "major": "CREO",
+        "room_num": "71351",
+        "room_desc": "Special Topics"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "school": "BCC01",
+        "major": "EDCO",
+        "room_num": "68958",
+        "room_desc": "Apprenticeship I"
+    },
+    {
+        "school": "BCC01",
+        "major": "EDCO",
+        "room_num": "68959",
+        "room_desc": "Apprenticeship II"
+    },
+    {
+        "school": "BCC01",
+        "major": "EDCO",
+        "room_num": "68960",
+        "room_desc": "Apprenticeship III"
+    },
+    {
+        "school": "BCC01",
+        "major": "EDCO",
+        "room_num": "68961",
+        "room_desc": "Coop Work Experience III"
+    },
+    {
+        "school": "BCC01",
+        "major": "EDCO",
+        "room_num": "68962",
+        "room_desc": "Cooperative Work Experience"
+    },
+    {
+        "school": "BCC01",
+        "major": "EDCO",
+        "room_num": "68963",
+        "room_desc": "Cooperative Work Experience II"
+    }
+]

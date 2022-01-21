@@ -1,0 +1,22 @@
+[
+    {
+        "major": "DATA",
+        "room_num": "78327",
+        "desc": "Fortran Programming"
+    },
+    {
+        "major": "DATA",
+        "room_num": "78328",
+        "desc": "Intro Computer Progr"
+    },
+    {
+        "major": "DATA",
+        "room_num": "78329",
+        "desc": "Pl/I Programming"
+    },
+    {
+        "major": "DATA",
+        "room_num": "78330",
+        "desc": "Pl/I Programming Lab"
+    }
+]

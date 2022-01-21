@@ -1,0 +1,62 @@
+[
+    {
+        "major": "INSI",
+        "room_num": "85242",
+        "desc": "Bus Intell & Analytics"
+    },
+    {
+        "major": "INSI",
+        "room_num": "85243",
+        "desc": "Computational Problem Solving"
+    },
+    {
+        "major": "INSI",
+        "room_num": "85244",
+        "desc": "Data Comm & IT Infrastructure"
+    },
+    {
+        "major": "INSI",
+        "room_num": "85245",
+        "desc": "Electronic Health Records Mgt"
+    },
+    {
+        "major": "INSI",
+        "room_num": "85246",
+        "desc": "Enterprise Comp Strategies"
+    },
+    {
+        "major": "INSI",
+        "room_num": "85247",
+        "desc": "ISI Independent Study"
+    },
+    {
+        "major": "INSI",
+        "room_num": "85248",
+        "desc": "Info Sec & Risk Management"
+    },
+    {
+        "major": "INSI",
+        "room_num": "85249",
+        "desc": "Info Structures for Business"
+    },
+    {
+        "major": "INSI",
+        "room_num": "85250",
+        "desc": "Info Systems Project Mgt"
+    },
+    {
+        "major": "INSI",
+        "room_num": "85251",
+        "desc": "Info Systems for Healthcare"
+    },
+    {
+        "major": "INSI",
+        "room_num": "85252",
+        "desc": "Intro to Systems Analysis"
+    },
+    {
+        "major": "INSI",
+        "room_num": "85253",
+        "desc": "Proj in Info Syst and Inform"
+    }
+]

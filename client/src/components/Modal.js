@@ -11,7 +11,7 @@ class Modal extends React.Component {
 					<form
 						onSubmit={(event) => {
 							this.props.handleUsernameChange(
-								event.target[1].value
+								event
 							);
 						}}>
 						<h2>Enter Username</h2>

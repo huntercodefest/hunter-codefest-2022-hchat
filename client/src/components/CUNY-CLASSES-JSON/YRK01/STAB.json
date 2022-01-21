@@ -1,0 +1,20 @@
+[
+    {
+        "school": "YRK01",
+        "major": "STAB",
+        "room_num": "17014",
+        "room_desc": "Study Abroad"
+    },
+    {
+        "school": "YRK01",
+        "major": "STAB",
+        "room_num": "17015",
+        "room_desc": "Study Abroad 3 credits"
+    },
+    {
+        "school": "YRK01",
+        "major": "STAB",
+        "room_num": "17016",
+        "room_desc": "Study Abroad 5 credits"
+    }
+]

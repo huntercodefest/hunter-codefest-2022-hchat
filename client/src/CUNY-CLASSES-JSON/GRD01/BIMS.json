@@ -1,0 +1,737 @@
+[
+    {
+        "major": "BIMS",
+        "room_num": "1026",
+        "desc": "AS:Biophy Membranes/Proteins"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1027",
+        "desc": "AS:Biophy Prot/Nucl Acd/Membr"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1028",
+        "desc": "AT:Computational Molecular Bio"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1029",
+        "desc": "Ad Physio Muscle:Contract Mech"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1030",
+        "desc": "Adv Biochem Topic"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1031",
+        "desc": "Adv Cell Biology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1032",
+        "desc": "Adv Human Biochemry"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1033",
+        "desc": "Adv Human Biochemty"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1034",
+        "desc": "Adv Human Genetics"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1035",
+        "desc": "Adv Molecular Biol"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1036",
+        "desc": "Adv Molecular/Cell Immunobiol"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1037",
+        "desc": "Adv St:Role Gene Exp Mole Path"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1038",
+        "desc": "Adv Study: ST in Physiology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1039",
+        "desc": "Adv Topic Biochemst"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1040",
+        "desc": "Adv Topics in Cancer Biology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1041",
+        "desc": "Adv Tpsc Cell/Molecular Sci"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1042",
+        "desc": "Advanced Biochemistry"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1043",
+        "desc": "Advanced Human Genetics"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1044",
+        "desc": "Advanced Study"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1045",
+        "desc": "Advanced Topics Cell Biology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1046",
+        "desc": "Advanced Topics Molecular Biol"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1047",
+        "desc": "Basic Pharmacology I"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1048",
+        "desc": "Biochem Pharmaclogy"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1049",
+        "desc": "Biochem Pharmacol"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1050",
+        "desc": "Biochemistry"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1051",
+        "desc": "Biophysics"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1052",
+        "desc": "Biostat & Comp l Meth-Biology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1053",
+        "desc": "Cell Physiology & Ion Channels"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1054",
+        "desc": "Cell Signaling System"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1055",
+        "desc": "Cellular Pathobioly"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1056",
+        "desc": "Comp. Anatomy"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1057",
+        "desc": "Computational Structural Biol"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1058",
+        "desc": "Concept Foun Biostat Inference"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1059",
+        "desc": "Contractle Mechnism"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1060",
+        "desc": "Core I:Biochem & Molecular Bio"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1061",
+        "desc": "Core I:Biochem/Mol"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1062",
+        "desc": "Core II:Cell & Devel Biology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1063",
+        "desc": "Devel Neurobiology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1064",
+        "desc": "Developmental Biology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1065",
+        "desc": "Developmental Neurobiology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1066",
+        "desc": "Dissertation Supervision"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1067",
+        "desc": "Dissrt Supervision"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1068",
+        "desc": "Electron Microscopy"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1069",
+        "desc": "Exp Bimd Sci:Rsch Lab Rotation"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1070",
+        "desc": "Fundamentals Animal Virology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1071",
+        "desc": "Fundamentals of Immunobiology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1072",
+        "desc": "General Human Biochemistry"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1073",
+        "desc": "General Human Physiology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1074",
+        "desc": "Grad Journal Cl Molecular Biol"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1075",
+        "desc": "Grad Seminar in Microbiology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1076",
+        "desc": "Human Development"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1077",
+        "desc": "Human Genetics"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1078",
+        "desc": "Human Genetics Tutl"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1079",
+        "desc": "Human Histology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1080",
+        "desc": "Human Morphology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1081",
+        "desc": "Human Population Genetics"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1082",
+        "desc": "Human and Molecular Genetics"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1083",
+        "desc": "Immunogenetics"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1084",
+        "desc": "Immunology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1085",
+        "desc": "Immunopathology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1086",
+        "desc": "Independent Doctoral Research"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1087",
+        "desc": "Indpndt Doct Resch"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1088",
+        "desc": "Interact/Dyn Bio Macromolec I"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1089",
+        "desc": "Interact/Dyn Bio Macromolec II"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1090",
+        "desc": "Intr Meth Theor Mole Biophys"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1091",
+        "desc": "Intr Molec/Cell Pth"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1092",
+        "desc": "Intro Microbiology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1093",
+        "desc": "Intro Pharmacological Methods"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1094",
+        "desc": "Introduction to Microbiology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1095",
+        "desc": "Journal Cl Cell Biol/Anatomy"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1096",
+        "desc": "Journal Cl Cell/Molecular Sci"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1097",
+        "desc": "Journal Cl Molecular Genetics"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1098",
+        "desc": "Journal Cl Virology/Oncogenes"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1099",
+        "desc": "Journal Club in Biochemistry"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1100",
+        "desc": "Journal Club in Biomathematics"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1101",
+        "desc": "Journal Club in Immunobiology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1102",
+        "desc": "Journal Club in Neurobiology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1103",
+        "desc": "Journal Club in Pharmacology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1104",
+        "desc": "Jrn Clb:Mol Bas Dis"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1105",
+        "desc": "Jrn Clb:Pharmacolog"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1106",
+        "desc": "Jrnl Cl/Grad Stu Sem Biomed Sc"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1107",
+        "desc": "Lipids & Membranes"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1108",
+        "desc": "Mathematical Methods"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1109",
+        "desc": "Mathematical Modeling"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1110",
+        "desc": "Med Gross Anatony/Hum Develop"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1111",
+        "desc": "Medical Genetics"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1112",
+        "desc": "Meth Molecular & Cell Patholgy"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1113",
+        "desc": "Microbial Genetics"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1114",
+        "desc": "Microbiology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1115",
+        "desc": "Mol Mechnsm Disease"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1116",
+        "desc": "Mol/Cell Biophysics"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1117",
+        "desc": "Molec/Cel/Endocrine"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1118",
+        "desc": "Molecul/Cell Pathol"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1119",
+        "desc": "Molecular Basis of Disease I"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1120",
+        "desc": "Molecular Basis of Disease II"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1121",
+        "desc": "Morphometric Method"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1122",
+        "desc": "Nervous System"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1123",
+        "desc": "Neuro Corr Behavior"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1124",
+        "desc": "Neuroanatomy"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1125",
+        "desc": "Neuroanatomy I"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1126",
+        "desc": "Neuroanatomy II"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1127",
+        "desc": "Neurobio Jour Club"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1128",
+        "desc": "Neurobiol Methods"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1129",
+        "desc": "Neurochemistry"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1130",
+        "desc": "Neuroendocrinology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1131",
+        "desc": "Neurophysiology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1132",
+        "desc": "Pathobiol Journ Clb"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1133",
+        "desc": "Pathol/Gene Express"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1134",
+        "desc": "Pharmacology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1135",
+        "desc": "Pharmacology Semnar"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1136",
+        "desc": "Physical Biochemtry"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1137",
+        "desc": "Physiology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1138",
+        "desc": "Physiology 1"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1139",
+        "desc": "Prin Neurobio I:Cell/Molecular"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1140",
+        "desc": "Prin Neurobio II:Syst/Organiz"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1141",
+        "desc": "Princpls Of Neurobl"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1142",
+        "desc": "Prob Theory Biomed Problems"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1143",
+        "desc": "Res Molec/Cell Pth"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1144",
+        "desc": "Research Biochem Pharmacology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1145",
+        "desc": "Research Methods"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1146",
+        "desc": "Sem Cell Biology/Anatomy"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1147",
+        "desc": "Sem Cell/Molecular Endocrin"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1148",
+        "desc": "Sem Cell/Molecular Sciences"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1149",
+        "desc": "Sem Molecular Basis of Disease"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1150",
+        "desc": "Sem Physiology and Biophysics"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1151",
+        "desc": "Seminar in Biochemistry"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1152",
+        "desc": "Seminar in Biomathematics"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1153",
+        "desc": "Seminar in Human Genetics"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1154",
+        "desc": "Seminar in Immunology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1155",
+        "desc": "Seminar in Microbiology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1156",
+        "desc": "Seminar in Molecular Biology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1157",
+        "desc": "Seminar in Neurobiology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1158",
+        "desc": "Seminar in Pharmacology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1159",
+        "desc": "Seminars in Biomedical Science"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1160",
+        "desc": "Special Topics in Pharmacology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1161",
+        "desc": "Stat/Math Method Genetic Rsch"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1162",
+        "desc": "Stu Sem Physiology/Biophysics"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1163",
+        "desc": "Synaptic Transmissn"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1164",
+        "desc": "Systemic Pharmacology"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1165",
+        "desc": "Tut Molecular Basis of Disease"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1166",
+        "desc": "Tut:Intro Comp Model Macromole"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1167",
+        "desc": "Tutorial and Special Topics"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1168",
+        "desc": "Tutorial in Neurosciences"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1169",
+        "desc": "Tutorial/Biochem"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1170",
+        "desc": "Tutorial/Pharmacoly"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1171",
+        "desc": "Tutorial:Biomed Sci"
+    },
+    {
+        "major": "BIMS",
+        "room_num": "1172",
+        "desc": "Tutorial:Virology"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "major": "EMSA",
+        "room_num": "20321",
+        "desc": "Disasters and Mass Casualty"
+    },
+    {
+        "major": "EMSA",
+        "room_num": "20322",
+        "desc": "Emergency Dispatch & Comm"
+    },
+    {
+        "major": "EMSA",
+        "room_num": "20323",
+        "desc": "Emergency Incident Management"
+    },
+    {
+        "major": "EMSA",
+        "room_num": "20324",
+        "desc": "GIS for EMERG SERVICES"
+    },
+    {
+        "major": "EMSA",
+        "room_num": "20325",
+        "desc": "Independent Study 200-level"
+    },
+    {
+        "major": "EMSA",
+        "room_num": "20326",
+        "desc": "Independent Study 300-level"
+    },
+    {
+        "major": "EMSA",
+        "room_num": "20327",
+        "desc": "Independent Study 400-level"
+    },
+    {
+        "major": "EMSA",
+        "room_num": "20328",
+        "desc": "Intro Emerg Medical Services"
+    },
+    {
+        "major": "EMSA",
+        "room_num": "20329",
+        "desc": "Intro to Emergency Mgmnt"
+    },
+    {
+        "major": "EMSA",
+        "room_num": "20330",
+        "desc": "Responder Health & Safety"
+    },
+    {
+        "major": "EMSA",
+        "room_num": "20331",
+        "desc": "Topics Emergency Serv Admin"
+    }
+]

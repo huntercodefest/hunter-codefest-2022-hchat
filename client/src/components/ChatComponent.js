@@ -1,5 +1,9 @@
+import React from "react";
+import Message from "./Message";
+import ChatRoom from "./ChatRoom";
+import MessageInput from "./MessageInput";
 class ChatComponent extends React.Component {
-    constructor(props) {
+	constructor(props) {
 		// connect to server here
 		super(props);
 		this.ws = null;
@@ -7,87 +11,95 @@ class ChatComponent extends React.Component {
 			messages: [],
 			inputvalue: "",
 		};
+		// function binds
+		this.handleChange = this.handleChange.bind(this);
+		this.handleSubmit = this.handleSubmit.bind(this);
+		this.sendToServer = this.sendToServer.bind(this);
+		this.receiveFromServer = this.receiveFromServer.bind(this);
 	}
 	connectToServer() {
 		// TODO
 		this.ws.onopen = () => {
 			this.ws.send(
-                `#${this.props.Room.room_num}
-                _${this.props.username}
-                :`
-                );
+				`#${this.props.room.room_num}_${this.props.username}:`
+			);
 		};
 		this.ws.onmessage = (msg) => {
-			this.receiveFromServer(message);
+			this.receiveFromServer(msg);
 		};
 	}
 	sendToServer(msg) {
-		if (this.validateMessage(msg)){
-            this.ws.send(this.processMessage(msg));
-        }
+		if (this.validateMessage(msg)) {
+			const p = this.processMessage(msg);
+			console.log(p);
+			this.ws.send(p);
+		}
 	}
 	receiveFromServer(rcv_msg) {
 		// TODO
 		// Parse received message
 		// And make new message component
 		// with time and username and message
-        const user, msg;
-        for (let i = 0; i < rcv_msg.length; i++){
-            const user_end_index = rcv_msg.indexOf(':')
-            user = rcv_msg.substring(
-                rcv_msg.indexOf('_')+1, 
-                user_end_index)
-            msg = rcv_msg.substring(
-                user_end_index+1)
-        }
-
-        const time = new Date();
-        const message = <Message time={time} username={user} message={msg}/>;
+		const data = rcv_msg.data;
+		console.log(this);
+		let user = null;
+		let msg = null;
+		for (let i = 0; i < data.length; i++) {
+			const user_end_index = data.indexOf(":");
+			user = data.substring(data.indexOf("_") + 1, user_end_index);
+			msg = data.substring(user_end_index + 1);
+		}
+		console.log(`received message ${msg} from server`);
+		const time = new Date();
+		const message = <Message time={time} username={user} message={msg} />;
 		this.setState({
 			...this.state,
 			messages: this.state.messages.concat(message),
 		});
 	}
-    validateMessage(msg) {
+	validateMessage(msg) {
 		// placeholder
 		return msg.length > 0 && msg.length <= 500;
 	}
-    processMessage(msg){
-        return `#${this.props.Room.room_num}
-        _${this.props.username}
-        :${msg}`
-    }
+	processMessage(msg) {
+		return `#${this.props.room.room_num}_${this.props.username}:${msg}`;
+	}
 	handleSubmit(event) {
 		event.preventDefault();
 		this.sendToServer(event.target[0].value);
+		this.setState({
+			...this.state,
+			inputvalue: "",
+		});
 		// Send message to server
 	}
-    handleChange(event){
-        this.setState({
+	handleChange(event) {
+		this.setState({
 			...this.state,
-			inputvalue: event.target.value
-        })
-    }
-    attemptConnection(){
-        // If ws connection already exists or username is empty
-        if (this.ws !== null || this.props.username === ""){
-            return
-        }
-        this.ws = new WebSocket()
-        this.connectToServer()
-
-    }
+			inputvalue: event.target.value,
+		});
+	}
+	attemptConnection() {
+		// If ws connection already exists or username is empty
+		if (this.ws !== null || this.props.username === "") {
+			return;
+		}
+		this.ws = new WebSocket("ws://hchat.hopto.org:8080/ws");
+		this.connectToServer();
+	}
+	componentDidMount() {
+		this.attemptConnection();
+	}
 	render() {
-        this.attemptConnection()
 		return (
 			<div>
 				<ChatRoom
-					Room={this.props.Room_Desc}
-					Messages={this.state.messages}
+					room_desc={this.props.room.room_desc}
+					messages={this.state.messages}
 				/>
 				<MessageInput
 					handleSubmit={this.handleSubmit}
-                    handleChange={this.handleChange}
+					handleChange={this.handleChange}
 					value={this.state.inputvalue}
 				/>
 			</div>
@@ -95,4 +107,4 @@ class ChatComponent extends React.Component {
 	}
 }
 
-export default ChatComponent
+export default ChatComponent;

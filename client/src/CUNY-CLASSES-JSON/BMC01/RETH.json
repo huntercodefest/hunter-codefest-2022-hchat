@@ -1,0 +1,62 @@
+[
+    {
+        "major": "RETH",
+        "room_num": "19057",
+        "desc": "Cardio-Respiratory Physiology"
+    },
+    {
+        "major": "RETH",
+        "room_num": "19058",
+        "desc": "Fund Clin Medicine"
+    },
+    {
+        "major": "RETH",
+        "room_num": "19059",
+        "desc": "Fund Respir Therapy"
+    },
+    {
+        "major": "RETH",
+        "room_num": "19060",
+        "desc": "Intro Resp Therapy Equipment"
+    },
+    {
+        "major": "RETH",
+        "room_num": "19061",
+        "desc": "Pulmonary Function Testing"
+    },
+    {
+        "major": "RETH",
+        "room_num": "19062",
+        "desc": "RTT Clinic Pract I"
+    },
+    {
+        "major": "RETH",
+        "room_num": "19063",
+        "desc": "RTT Clinic Pract II"
+    },
+    {
+        "major": "RETH",
+        "room_num": "19064",
+        "desc": "RTT Clinic Pract III"
+    },
+    {
+        "major": "RETH",
+        "room_num": "19065",
+        "desc": "Respiratory Therapy I"
+    },
+    {
+        "major": "RETH",
+        "room_num": "19066",
+        "desc": "Respiratory Therapy II"
+    },
+    {
+        "major": "RETH",
+        "room_num": "19067",
+        "desc": "Respiratory Therapy III"
+    },
+    {
+        "major": "RETH",
+        "room_num": "19068",
+        "desc": "Rtt Summer Cln Prac"
+    }
+]

@@ -1,0 +1,727 @@
+[
+    {
+        "major": "BIOL",
+        "room_num": "65455",
+        "desc": "31  Ooo"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65456",
+        "desc": "Adv Meth Cell Bio"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65457",
+        "desc": "Adv Microbiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65458",
+        "desc": "Adv Topics in Gene Reg Systems"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65459",
+        "desc": "Advanced Human Anatomy"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65460",
+        "desc": "Advanced Microscopy"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65461",
+        "desc": "Advanced Pharmacology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65462",
+        "desc": "Advanced Physiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65463",
+        "desc": "Advanced Statistics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65464",
+        "desc": "Advanced Tropical Ecology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65465",
+        "desc": "Animal Behavior"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65466",
+        "desc": "Animal Physl-Tchrs"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65467",
+        "desc": "Animals in Captivity"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65468",
+        "desc": "Applied Microbio and Biotech"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65469",
+        "desc": "Bio Principles I Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65470",
+        "desc": "Biochemistry I"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65471",
+        "desc": "Biochemistry II"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65472",
+        "desc": "Biogeography"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65473",
+        "desc": "Bioinformatics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65474",
+        "desc": "Biology 100-Level Elective"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65475",
+        "desc": "Biology 200-Level Elective"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65476",
+        "desc": "Biology 300-Level Elective"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65477",
+        "desc": "Biology 400-Level Elective"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65478",
+        "desc": "Biology Grad Credit"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65479",
+        "desc": "Biology Ind Study"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65480",
+        "desc": "Biology Independent Study"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65481",
+        "desc": "Biology Internship"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65482",
+        "desc": "Biology of Cancer"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65483",
+        "desc": "Biophys/Drug Abuse"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65484",
+        "desc": "Botany"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65485",
+        "desc": "Cancer Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65486",
+        "desc": "Cell Biochemistry"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65487",
+        "desc": "Cell Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65488",
+        "desc": "Cell Culture Techniques"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65489",
+        "desc": "Cell Physiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65490",
+        "desc": "Cell Signaling"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65491",
+        "desc": "Cell Struct-Tchers"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65492",
+        "desc": "Cellular Toxicology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65493",
+        "desc": "Clinical Microbiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65494",
+        "desc": "Clinical Pathology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65495",
+        "desc": "Comparative Endocrinology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65496",
+        "desc": "Comparative Physiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65497",
+        "desc": "Computational Molecular Bio"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65498",
+        "desc": "Conservation Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65499",
+        "desc": "Developmental Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65500",
+        "desc": "Develpmntl Bio-Tchrs"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65501",
+        "desc": "Diagnostic Molecular Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65502",
+        "desc": "Drug Therapy"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65503",
+        "desc": "Ecology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65504",
+        "desc": "Ecology And Man"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65505",
+        "desc": "Ecology Exper Mthds"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65506",
+        "desc": "Ecology-Teachers"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65507",
+        "desc": "Elect Micros & Xray Micranalys"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65508",
+        "desc": "Entomology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65509",
+        "desc": "Env&Evol Physiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65510",
+        "desc": "Evolution"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65511",
+        "desc": "Evolution And Man"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65512",
+        "desc": "Evolution of Development"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65513",
+        "desc": "Evolution of Gene Regulation"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65514",
+        "desc": "Evolution of Primates"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65515",
+        "desc": "Evoluton-Secndry Sch"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65516",
+        "desc": "Exp Animal Physiolgy"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65517",
+        "desc": "Exp Meth Adv Genetcs"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65518",
+        "desc": "Exp Methods in Behavioral Bio"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65519",
+        "desc": "Exper Cell Biochem"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65520",
+        "desc": "Field Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65521",
+        "desc": "Gene Regulatory Systems"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65522",
+        "desc": "General Biology I"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65523",
+        "desc": "General Biology I Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65524",
+        "desc": "General Biology II"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65525",
+        "desc": "General Biology II Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65526",
+        "desc": "General Microbiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65527",
+        "desc": "General Physiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65528",
+        "desc": "General Virology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65529",
+        "desc": "Genetics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65530",
+        "desc": "Genetics-Teachers"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65531",
+        "desc": "Genetics/Evolution"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65532",
+        "desc": "Graduate Bio Independent Study"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65533",
+        "desc": "Healthcare Law and Ethics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65534",
+        "desc": "Healthcare and Law Ethics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65535",
+        "desc": "Histology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65536",
+        "desc": "History of Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65537",
+        "desc": "Hosp Internship I"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65538",
+        "desc": "Hosp Internship II"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65539",
+        "desc": "Human Anat & Phys II"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65540",
+        "desc": "Human Anatomy I"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65541",
+        "desc": "Human Anatomy I Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65542",
+        "desc": "Human Anatomy and Physiology I"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65543",
+        "desc": "Human Body"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65544",
+        "desc": "Human Sexuality"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65545",
+        "desc": "Immunology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65546",
+        "desc": "Intro Bioinformat & Genomics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65547",
+        "desc": "Intro to Tropical Ecology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65548",
+        "desc": "Introduction to Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65549",
+        "desc": "Introduction to Biotechnology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65550",
+        "desc": "Introduction to Tropical Ecolo"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65551",
+        "desc": "Invertebrate Zoology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65552",
+        "desc": "Lab Meth Cell Bio"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65553",
+        "desc": "Lab Meth Molec Genet"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65554",
+        "desc": "Lab Meth Physiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65555",
+        "desc": "Life Science in Taiwan"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65556",
+        "desc": "Marine Bio&Oceanogph"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65557",
+        "desc": "Marine Ecology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65558",
+        "desc": "Mathematical Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65559",
+        "desc": "Mathematical Models in Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65560",
+        "desc": "Methodologies in Biotechnology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65561",
+        "desc": "Micrb & Cell Path Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65562",
+        "desc": "Microbiology & Cell Pathology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65563",
+        "desc": "Mol Bio & Biotech Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65564",
+        "desc": "Mol Bio for Sec Schl Tchrs"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65565",
+        "desc": "Mol Fdns Cell Functn"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65566",
+        "desc": "Mole Bio & Biotec Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65567",
+        "desc": "Molecular Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65568",
+        "desc": "Molecular Development"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65569",
+        "desc": "Molecular Genetics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65570",
+        "desc": "Nat Sci For Teachers"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65571",
+        "desc": "Neuroscience"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65572",
+        "desc": "Nutrition"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65573",
+        "desc": "Ornithology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65574",
+        "desc": "Pathophys Conc Hlth"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65575",
+        "desc": "Pharmacotherapeutics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65576",
+        "desc": "Plant Evolutionary Ecology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65577",
+        "desc": "Plant Physiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65578",
+        "desc": "Plant Population Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65579",
+        "desc": "Prin&Meth Sys65580: BIOL,\"Principles of Bio II Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65581",
+        "desc": "Principles of Biology I"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65582",
+        "desc": "Principles of Biology II"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65583",
+        "desc": "Principles of Epidemiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65584",
+        "desc": "Principles of Neurobiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65585",
+        "desc": "Public Health Nutrition"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65586",
+        "desc": "Radiation Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65587",
+        "desc": "Sci Tech Environ Bio"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65588",
+        "desc": "Scientific Communication"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65589",
+        "desc": "Scientific Communication II"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65590",
+        "desc": "Social Problems in Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65591",
+        "desc": "Spec Tpcs Stat Anal"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65592",
+        "desc": "Statistical Analysis"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65593",
+        "desc": "Stats for Bio Sciences"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65594",
+        "desc": "The Biology of Disease"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65595",
+        "desc": "The Mammals"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65596",
+        "desc": "Thesis Research"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65597",
+        "desc": "Tpcs Marine Bio&Ocea"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65598",
+        "desc": "Urban Ecology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65599",
+        "desc": "Vertebrate Endocrinology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "65600",
+        "desc": "Vertebrate Zoology"
+    }
+]

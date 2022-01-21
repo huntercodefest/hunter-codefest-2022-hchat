@@ -1,0 +1,512 @@
+[
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78020",
+        "room_desc": "Adv Animal Studie"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78021",
+        "room_desc": "Advanced Techniques of Molecul"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78022",
+        "room_desc": "Anat & Phys Hum Syst II Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78023",
+        "room_desc": "Anat&Phy Hum Sys II"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78024",
+        "room_desc": "Anat/Phys-Hum Sys."
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78025",
+        "room_desc": "Anatomy & Physiology Lab I"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78026",
+        "room_desc": "Anatomy & Physiology Lab II"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78027",
+        "room_desc": "Anatomy and Physiology Lab I"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78028",
+        "room_desc": "Basic Biology"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78029",
+        "room_desc": "Biological Aspects of Aging"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78030",
+        "room_desc": "Biology Elective Reviewed"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78031",
+        "room_desc": "Biotechnology & Society"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78032",
+        "room_desc": "Biotechnology and Society"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78033",
+        "room_desc": "Cell Biology"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78034",
+        "room_desc": "Cell Biology Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78035",
+        "room_desc": "Chordate Devel Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78036",
+        "room_desc": "Chordate Development"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78037",
+        "room_desc": "Chordate Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78038",
+        "room_desc": "Chordate Morphology"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78039",
+        "room_desc": "Developmental Biology"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78040",
+        "room_desc": "Endocrinology"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78041",
+        "room_desc": "Endocrinology Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78042",
+        "room_desc": "Environmental   Scie"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78043",
+        "room_desc": "Environmental Scienc"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78044",
+        "room_desc": "Epigenetics"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78045",
+        "room_desc": "Evolution"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78046",
+        "room_desc": "Evolution Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78047",
+        "room_desc": "General Biology I"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78048",
+        "room_desc": "General Biology I La"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78049",
+        "room_desc": "General Biology I Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78050",
+        "room_desc": "General Biology II"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78051",
+        "room_desc": "General Biology II Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78052",
+        "room_desc": "Genetics"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78053",
+        "room_desc": "Genetics Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78054",
+        "room_desc": "Histology"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78055",
+        "room_desc": "Histology Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78056",
+        "room_desc": "Honors Research"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78057",
+        "room_desc": "Human Anatomy & Physiology II"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78058",
+        "room_desc": "Human Anatomy and Physiology *"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78059",
+        "room_desc": "Human Anatomy and Physiology I"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78060",
+        "room_desc": "Human Body Struct & Function"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78061",
+        "room_desc": "Human Body Struct & Functn Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78062",
+        "room_desc": "Human Genome Project"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78063",
+        "room_desc": "Human Genome/Hth/Soc"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78064",
+        "room_desc": "Human Physiology"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78065",
+        "room_desc": "Human Physiology Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78066",
+        "room_desc": "Immun & Path Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78067",
+        "room_desc": "Immun&Path Micro"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78068",
+        "room_desc": "Immunology"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78069",
+        "room_desc": "Immunology Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78070",
+        "room_desc": "Independent Research I"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78071",
+        "room_desc": "Independent Research II"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78072",
+        "room_desc": "Independent Research III"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78073",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78074",
+        "room_desc": "Intro Anat.& Phy Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78075",
+        "room_desc": "Intro Sci Of Biology"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78076",
+        "room_desc": "Intro To Anatomy & Physiology"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78077",
+        "room_desc": "Intro To Space Bio"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78078",
+        "room_desc": "Intro/Space Bio Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78079",
+        "room_desc": "Introduction to Biology"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78080",
+        "room_desc": "Invert Zoology Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78081",
+        "room_desc": "Invertebrate Zoology"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78082",
+        "room_desc": "Laboratory Instrumentation"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78083",
+        "room_desc": "Microbial Physiology"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78084",
+        "room_desc": "Microbiology"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78085",
+        "room_desc": "Microbiology Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78086",
+        "room_desc": "Molec Biotech Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78087",
+        "room_desc": "Molecular Bio Tech"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78088",
+        "room_desc": "Molecular Biology"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78089",
+        "room_desc": "Molecular Biology Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78090",
+        "room_desc": "Molecular Neurobiology"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78091",
+        "room_desc": "Molecular Neurobiology Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78092",
+        "room_desc": "Morphology Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78093",
+        "room_desc": "Pathogenic MicroBio & Immun"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78094",
+        "room_desc": "Pathogenic Microbio & Immun"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78095",
+        "room_desc": "Pathophysiology"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78096",
+        "room_desc": "Plant Sci/Botany Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78097",
+        "room_desc": "Plant Science/Botany"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78098",
+        "room_desc": "Pre Prof Seminar"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78099",
+        "room_desc": "Prin/Foren Toxicolog"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78100",
+        "room_desc": "Principles of Virology"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78101",
+        "room_desc": "Research Methods"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78102",
+        "room_desc": "Senior Research"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78103",
+        "room_desc": "Senior Seminar"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "78104",
+        "room_desc": "Topics In Immunol"
+    }
+]

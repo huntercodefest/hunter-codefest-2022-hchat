@@ -1,0 +1,716 @@
+[
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5507",
+        "room_desc": "17 C Fren Literatur"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5508",
+        "room_desc": "Advanced French Grammar"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5509",
+        "room_desc": "Baudelaire/Beckett"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5510",
+        "room_desc": "Cntmp Lit Studies"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5511",
+        "room_desc": "Contemp Fren Culture & Civiliz"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5512",
+        "room_desc": "Cultural Transltns"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5513",
+        "room_desc": "Dissert Workshop"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5514",
+        "room_desc": "Dissertation Supervision"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5515",
+        "room_desc": "Earliest Fren Texts"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5516",
+        "room_desc": "Eighteenth-Century Novel"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5517",
+        "room_desc": "Elem French/Grads"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5518",
+        "room_desc": "Elementary French"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5519",
+        "room_desc": "Elementary French 2"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5520",
+        "room_desc": "Elementary French I"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5521",
+        "room_desc": "Elementary French II"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5522",
+        "room_desc": "Evol & Struct of the Fren Lang"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5523",
+        "room_desc": "Evol of Poet Fms to Baudel"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5524",
+        "room_desc": "Fr Cariben Novel Fr"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5525",
+        "room_desc": "Franco Liter/Cultur"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5526",
+        "room_desc": "Francophone Lit in Africa"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5527",
+        "room_desc": "Francophone Lit of Maghreb"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5528",
+        "room_desc": "Francophone Lit of the Caribb"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5529",
+        "room_desc": "Fre Lit in Rel to Arts or Disc"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5530",
+        "room_desc": "Fren Oral & Writ Expr"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5531",
+        "room_desc": "Fren Parad in Western Thought"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5532",
+        "room_desc": "Fren Writ Eur Unifi"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5533",
+        "room_desc": "French"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5534",
+        "room_desc": "French Canadian Literature"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5535",
+        "room_desc": "French I"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5536",
+        "room_desc": "French Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5537",
+        "room_desc": "French Translation"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5538",
+        "room_desc": "French-Canadian Lit"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5539",
+        "room_desc": "From Baudelaire to the Present"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5540",
+        "room_desc": "Genre5541: FREN,\"Gide & Proust"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5542",
+        "room_desc": "History of the French Language"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5543",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5544",
+        "room_desc": "Int French Convers"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5545",
+        "room_desc": "Intens Study of Maj Fig in 20c"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5546",
+        "room_desc": "Intensive Elem French"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5547",
+        "room_desc": "Intensive Intermed Fren 1 & 2"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5548",
+        "room_desc": "Intensive Intermed French II"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5549",
+        "room_desc": "Intensive Intermediate"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5550",
+        "room_desc": "Inter Intens French"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5551",
+        "room_desc": "Interm French/Grad"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5552",
+        "room_desc": "Intermed Grammar & Comp"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5553",
+        "room_desc": "Intermediate French"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5554",
+        "room_desc": "Intermediate French 2"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5555",
+        "room_desc": "Intermediate French Convers I"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5556",
+        "room_desc": "Intermediate French I"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5557",
+        "room_desc": "Interpretation"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5558",
+        "room_desc": "Intro French 2"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5559",
+        "room_desc": "Intro French I"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5560",
+        "room_desc": "Intro To French"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5561",
+        "room_desc": "Legal Translation"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5562",
+        "room_desc": "Lit Transl: Theories & Practic"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5563",
+        "room_desc": "Literary Criticism"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5564",
+        "room_desc": "Literary Transl  Fr"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5565",
+        "room_desc": "Literary Translatn"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5566",
+        "room_desc": "Literature and French Film"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5567",
+        "room_desc": "Methods & Teaching"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5568",
+        "room_desc": "Mod French Theatre"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5569",
+        "room_desc": "Modern Readings"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5570",
+        "room_desc": "Modernism Arnd 1950"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5571",
+        "room_desc": "Montaigne"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5572",
+        "room_desc": "Mythes Et Francopho"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5573",
+        "room_desc": "Poet-Char & Cesaire"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5574",
+        "room_desc": "Ponge (Fren)"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5575",
+        "room_desc": "Post Coloniale"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5576",
+        "room_desc": "Practicum in Translation"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5577",
+        "room_desc": "Prob in the Thry of Literature"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5578",
+        "room_desc": "Problem Translat Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5579",
+        "room_desc": "Problems in French Lit Hist"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5580",
+        "room_desc": "Problems in French Lit History"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5581",
+        "room_desc": "Problems in Translation"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5582",
+        "room_desc": "Problems in the Modern Novel"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5583",
+        "room_desc": "Readings in Old French"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5584",
+        "room_desc": "ST:French Literature"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5585",
+        "room_desc": "ST:Linguistics"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5586",
+        "room_desc": "Sem in Renaissance Literature"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5587",
+        "room_desc": "Sem: Lit Theory & Criticism"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5588",
+        "room_desc": "Seminar XVII Cent Literature"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5589",
+        "room_desc": "Seminar in 18c Literature"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5590",
+        "room_desc": "Seminar in 19c Literature"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5591",
+        "room_desc": "Seminar in 20c Literature"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5592",
+        "room_desc": "Seminar in Medieval Literature"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5593",
+        "room_desc": "Seminar in Narrative"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5594",
+        "room_desc": "Seminar in Poetry and Poetics"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5595",
+        "room_desc": "Seminar in the Essay"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5596",
+        "room_desc": "Seminar in the Theatre"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5597",
+        "room_desc": "Structuralism&Post-Structurali"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5598",
+        "room_desc": "Studies in 17th Century Lit"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5599",
+        "room_desc": "Studies in 18c Literature"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5600",
+        "room_desc": "Studies in 19c Literature"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5601",
+        "room_desc": "Studies in 20c Literature"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5602",
+        "room_desc": "Studies in Medieval Literature"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5603",
+        "room_desc": "Studies in Renaissance Literat"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5604",
+        "room_desc": "Studies in Semiotics"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5605",
+        "room_desc": "Style and Stylistics"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5606",
+        "room_desc": "Surrealism5607: FREN,\"Survey:Francophone Lit"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5608",
+        "room_desc": "Symbolism5609: FREN,\"Teach Coll Fren  Fr"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5610",
+        "room_desc": "Teaching French in College"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5611",
+        "room_desc": "Tech Tran/Bank-Comm"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5612",
+        "room_desc": "Tech Translt (Fren)"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5613",
+        "room_desc": "Technical Transl Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5614",
+        "room_desc": "Technical Translation"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5615",
+        "room_desc": "Techniq of Literary Research"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5616",
+        "room_desc": "Techniques of Lit Research"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5617",
+        "room_desc": "Techniques of Literary Resrch"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5618",
+        "room_desc": "Textual Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5619",
+        "room_desc": "The Philosophical Movement"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5620",
+        "room_desc": "Thry & Prac Tran I:Fren to Eng"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5621",
+        "room_desc": "Thry & Prac Tran II:Eng to Fre"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5622",
+        "room_desc": "Thry/Pract Translat"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5623",
+        "room_desc": "Trans/Internat Orgn"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5624",
+        "room_desc": "Transl Engl To Fren"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5625",
+        "room_desc": "Translation Tech I"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5626",
+        "room_desc": "W/M Francophonc Nvl"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5627",
+        "room_desc": "Western Paradigms"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "5628",
+        "room_desc": "Women and French Literature"
+    }
+]

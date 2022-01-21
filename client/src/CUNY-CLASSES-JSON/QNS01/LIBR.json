@@ -1,0 +1,27 @@
+[
+    {
+        "major": "LIBR",
+        "room_num": "28513",
+        "desc": "Fund Lib Res"
+    },
+    {
+        "major": "LIBR",
+        "room_num": "28514",
+        "desc": "Fundamentals Library Research"
+    },
+    {
+        "major": "LIBR",
+        "room_num": "28515",
+        "desc": "Information Literacy"
+    },
+    {
+        "major": "LIBR",
+        "room_num": "28516",
+        "desc": "Information in the Digital Age"
+    },
+    {
+        "major": "LIBR",
+        "room_num": "28517",
+        "desc": "Writing& Libr Research Methods"
+    }
+]

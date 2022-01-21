@@ -1,0 +1,37 @@
+[
+    {
+        "major": "HEBR",
+        "room_num": "22944",
+        "desc": "Elementary Hebrew I"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "22945",
+        "desc": "Elementary Hebrew II"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "22946",
+        "desc": "Hebrew Lit Trans 1"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "22947",
+        "desc": "Hebrew Literature"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "22948",
+        "desc": "Intermed Hebrew Conversation"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "22949",
+        "desc": "Intermediate Hebrew I"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "22950",
+        "desc": "Intermediate Hebrew II"
+    }
+]

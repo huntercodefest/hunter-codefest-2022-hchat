@@ -1,0 +1,27 @@
+[
+    {
+        "major": "ECON",
+        "room_num": "63140",
+        "desc": "Interntl Trade: Beyond Borders"
+    },
+    {
+        "major": "ECON",
+        "room_num": "63141",
+        "desc": "Macroeconomics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "63142",
+        "desc": "Microeconomics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "63143",
+        "desc": "Money and Banking"
+    },
+    {
+        "major": "ECON",
+        "room_num": "63144",
+        "desc": "Principles of Financial Mngmt"
+    }
+]

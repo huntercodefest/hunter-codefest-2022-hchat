@@ -1,0 +1,242 @@
+[
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78247",
+        "room_desc": "Advanced Topics/Cs"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78248",
+        "room_desc": "Algorithms/Bioinform"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78249",
+        "room_desc": "Analysis of Algorithms"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78250",
+        "room_desc": "Artificial Intelligence"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78251",
+        "room_desc": "Assembly Language Programming"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78252",
+        "room_desc": "Cobol Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78253",
+        "room_desc": "Computer And Network Security"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78254",
+        "room_desc": "Computer Architecture"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78255",
+        "room_desc": "Computer Science Seminar"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78256",
+        "room_desc": "Cs/Telecommunication"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78257",
+        "room_desc": "Data Communications"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78258",
+        "room_desc": "Data Structures"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78259",
+        "room_desc": "Data Structures and Algorithms"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78260",
+        "room_desc": "Database Systems"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78261",
+        "room_desc": "Digital Systems"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78262",
+        "room_desc": "Discrete Structures"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78263",
+        "room_desc": "Fortran Programming"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78264",
+        "room_desc": "Geographic Information Systems"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78265",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78266",
+        "room_desc": "Intelligence Systems"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78267",
+        "room_desc": "Internet and Web Technologies"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78268",
+        "room_desc": "Into/Elect Gme Des"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78269",
+        "room_desc": "Introduction to Computing"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78270",
+        "room_desc": "Local/Wide Area Ntwk"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78271",
+        "room_desc": "Mobile Application Development"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78272",
+        "room_desc": "Network Programming"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78273",
+        "room_desc": "Object Progmng/Desig"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78274",
+        "room_desc": "Object Programming & Design"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78275",
+        "room_desc": "Operating Systems"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78276",
+        "room_desc": "Programming Language Paradigms"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78277",
+        "room_desc": "Remote Sensing"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78278",
+        "room_desc": "Robot Programming"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78279",
+        "room_desc": "Sci Prg I/Data Anlys"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78280",
+        "room_desc": "Sci. Programing II"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78281",
+        "room_desc": "Software Development"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78282",
+        "room_desc": "Software Engineering"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78283",
+        "room_desc": "Sp Topics/Comp. Sci."
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78284",
+        "room_desc": "Spc Topics Comp/Sci"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78285",
+        "room_desc": "Theoretical Comp Sci"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "78286",
+        "room_desc": "Unix System Programming"
+    }
+]

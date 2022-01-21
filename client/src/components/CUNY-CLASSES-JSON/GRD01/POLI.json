@@ -1,0 +1,26 @@
+[
+    {
+        "school": "GRD01",
+        "major": "POLI",
+        "room_num": "8742",
+        "room_desc": "Elementary Polish 2"
+    },
+    {
+        "school": "GRD01",
+        "major": "POLI",
+        "room_num": "8743",
+        "room_desc": "Elementary Polish I"
+    },
+    {
+        "school": "GRD01",
+        "major": "POLI",
+        "room_num": "8744",
+        "room_desc": "Intermediate Polish 2"
+    },
+    {
+        "school": "GRD01",
+        "major": "POLI",
+        "room_num": "8745",
+        "room_desc": "Intermediate Polish I"
+    }
+]

@@ -1,0 +1,352 @@
+[
+    {
+        "major": "PHTH",
+        "room_num": "68087",
+        "desc": "Abnormal Ped Devel & Assess"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68088",
+        "desc": "Acute Care Physical Therapy"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68089",
+        "desc": "Adv Asmnt Hum Motion"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68090",
+        "desc": "Adv Topics Phys Ther"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68091",
+        "desc": "Biomechanics and Kinesiology"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68092",
+        "desc": "Cardiac Rehab (Fall Year 2)"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68093",
+        "desc": "Clin Educ Theories"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68094",
+        "desc": "Clin Practicum III"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68095",
+        "desc": "Clini Med for PT (Fall Year I)"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68096",
+        "desc": "Clinical Affiliation I"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68097",
+        "desc": "Clinical Affiliation II"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68098",
+        "desc": "Clinical Affiliation III"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68099",
+        "desc": "Clinical Affiliation IV"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68100",
+        "desc": "Clinical Anatomy Summer Year I"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68101",
+        "desc": "Clinical Decision Making"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68102",
+        "desc": "Clinical Education: Education"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68103",
+        "desc": "Clinical Practicum"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68104",
+        "desc": "Clinical Practicum II"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68105",
+        "desc": "Clinical Res & Hlth Infomatics"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68106",
+        "desc": "Colloquium Elective"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68107",
+        "desc": "Diff Diag & Inter Clinic Neuro"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68108",
+        "desc": "Diff Diag & Inter in Clin Orth"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68109",
+        "desc": "Diff Diag in Neuro Eval Summer"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68110",
+        "desc": "Disabilties Interven"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68111",
+        "desc": "Elect&Motion Analysi"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68112",
+        "desc": "Evd-based Rsrch & Appl Stats"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68113",
+        "desc": "Foundations of Patient Care"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68114",
+        "desc": "Health Care Admin"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68115",
+        "desc": "Health Prom  (Spring Year 2)"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68116",
+        "desc": "Health Promo For Sel"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68117",
+        "desc": "Human Physio & Exerc Physio"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68118",
+        "desc": "Integumentary System Asmt & In"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68119",
+        "desc": "Intro to Muscu Exam (Fall Yr I"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68120",
+        "desc": "Intro to PT and Ethics"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68121",
+        "desc": "Introduction: Neurological PT"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68122",
+        "desc": "Lwr Ext Kinesiology & Assess"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68123",
+        "desc": "Medical Terminology"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68124",
+        "desc": "Musc Exam III (Spring Year 2)"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68125",
+        "desc": "Muscu Exam & Intrv II"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68126",
+        "desc": "Muscu Exam & Intvn I (Sp Yr I)"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68127",
+        "desc": "Neurological Interventions I"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68128",
+        "desc": "Orthotics and Prosthetics"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68129",
+        "desc": "Pathokinesiology"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68130",
+        "desc": "Pediatric Dev & Assessment"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68131",
+        "desc": "Pharm&Sys Review"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68132",
+        "desc": "Phys Modalities-Clini Dec Make"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68133",
+        "desc": "Physical Therapy Credit"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68134",
+        "desc": "Physical Therapy Ind S"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68135",
+        "desc": "Prax IV: Cardiopl Rehab"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68136",
+        "desc": "Prax1:Patient Skills"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68137",
+        "desc": "Prax2:Test/Measurmnt"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68138",
+        "desc": "Prax3:Therapeutics"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68139",
+        "desc": "Prax5:Orthoped Treat"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68140",
+        "desc": "Prax6:Neuromotor"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68141",
+        "desc": "Prax7:Rehab Topics"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68142",
+        "desc": "Proprioceptive Neuro Facilitat"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68143",
+        "desc": "Psycho Aspects of Clin Practic"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68144",
+        "desc": "Pt Intervention and Prevention"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68145",
+        "desc": "Pulmonary Physical Therapy"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68146",
+        "desc": "Radiology and Imaging"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68147",
+        "desc": "Research Design"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68148",
+        "desc": "Research Methodologies"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68149",
+        "desc": "Research Seminar I"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68150",
+        "desc": "Sem Org Mangmnt"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68151",
+        "desc": "Sys&Func Nervous System"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68152",
+        "desc": "Thesis I (Fall Year 2)"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68153",
+        "desc": "Thesis II"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68154",
+        "desc": "Thesis III"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68155",
+        "desc": "Topics In Physical Therapy"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "68156",
+        "desc": "Upper Extmty Kinisio"
+    }
+]

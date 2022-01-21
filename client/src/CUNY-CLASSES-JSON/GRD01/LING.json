@@ -1,0 +1,867 @@
+[
+    {
+        "major": "LING",
+        "room_num": "6480",
+        "desc": "1st Language Acquis"
+    },
+    {
+        "major": "LING",
+        "room_num": "6481",
+        "desc": "2nd Lang Acquisit"
+    },
+    {
+        "major": "LING",
+        "room_num": "6482",
+        "desc": "Adv Psycholing Lab"
+    },
+    {
+        "major": "LING",
+        "room_num": "6483",
+        "desc": "Adv Psycholinguists"
+    },
+    {
+        "major": "LING",
+        "room_num": "6484",
+        "desc": "Advanced Phonetics"
+    },
+    {
+        "major": "LING",
+        "room_num": "6485",
+        "desc": "Advanced Phonology"
+    },
+    {
+        "major": "LING",
+        "room_num": "6486",
+        "desc": "Artifical Intellign"
+    },
+    {
+        "major": "LING",
+        "room_num": "6487",
+        "desc": "Aspect Creole Lang"
+    },
+    {
+        "major": "LING",
+        "room_num": "6488",
+        "desc": "Bilingual/Ethnoling"
+    },
+    {
+        "major": "LING",
+        "room_num": "6489",
+        "desc": "Bilingualism"
+    },
+    {
+        "major": "LING",
+        "room_num": "6490",
+        "desc": "Child/Formal Comp"
+    },
+    {
+        "major": "LING",
+        "room_num": "6491",
+        "desc": "Cognit & Computatn"
+    },
+    {
+        "major": "LING",
+        "room_num": "6492",
+        "desc": "Cognitiv/Neurolings"
+    },
+    {
+        "major": "LING",
+        "room_num": "6493",
+        "desc": "Comparative Syntax"
+    },
+    {
+        "major": "LING",
+        "room_num": "6494",
+        "desc": "Computat Linguists"
+    },
+    {
+        "major": "LING",
+        "room_num": "6495",
+        "desc": "Computat Morphology"
+    },
+    {
+        "major": "LING",
+        "room_num": "6496",
+        "desc": "Computat Semantics I"
+    },
+    {
+        "major": "LING",
+        "room_num": "6497",
+        "desc": "Computational Ling Methods I"
+    },
+    {
+        "major": "LING",
+        "room_num": "6498",
+        "desc": "Computaton Semantic"
+    },
+    {
+        "major": "LING",
+        "room_num": "6499",
+        "desc": "Corpus Analysis"
+    },
+    {
+        "major": "LING",
+        "room_num": "6500",
+        "desc": "Cptr In Translation"
+    },
+    {
+        "major": "LING",
+        "room_num": "6501",
+        "desc": "Cptr Speech Analys"
+    },
+    {
+        "major": "LING",
+        "room_num": "6502",
+        "desc": "Descriptive Ling I"
+    },
+    {
+        "major": "LING",
+        "room_num": "6503",
+        "desc": "Descriptive Ling Ii"
+    },
+    {
+        "major": "LING",
+        "room_num": "6504",
+        "desc": "Devel Read Abiltiy"
+    },
+    {
+        "major": "LING",
+        "room_num": "6505",
+        "desc": "Dialectology"
+    },
+    {
+        "major": "LING",
+        "room_num": "6506",
+        "desc": "Diglos Phon:Haitian"
+    },
+    {
+        "major": "LING",
+        "room_num": "6507",
+        "desc": "Discourse/Computatn"
+    },
+    {
+        "major": "LING",
+        "room_num": "6508",
+        "desc": "Dissertation Supervision"
+    },
+    {
+        "major": "LING",
+        "room_num": "6509",
+        "desc": "Elliptical Construt"
+    },
+    {
+        "major": "LING",
+        "room_num": "6510",
+        "desc": "Eval & Measure TESOL"
+    },
+    {
+        "major": "LING",
+        "room_num": "6511",
+        "desc": "Exper Psycholinguis"
+    },
+    {
+        "major": "LING",
+        "room_num": "6512",
+        "desc": "Field Methods 2"
+    },
+    {
+        "major": "LING",
+        "room_num": "6513",
+        "desc": "First Language Acquisition"
+    },
+    {
+        "major": "LING",
+        "room_num": "6514",
+        "desc": "Fndtionl Issues in Linguistics"
+    },
+    {
+        "major": "LING",
+        "room_num": "6515",
+        "desc": "Fndtns Of Ling"
+    },
+    {
+        "major": "LING",
+        "room_num": "6516",
+        "desc": "Focus"
+    },
+    {
+        "major": "LING",
+        "room_num": "6517",
+        "desc": "Forensic Linguistic"
+    },
+    {
+        "major": "LING",
+        "room_num": "6518",
+        "desc": "Formal Lang/Automat"
+    },
+    {
+        "major": "LING",
+        "room_num": "6519",
+        "desc": "French Syntax"
+    },
+    {
+        "major": "LING",
+        "room_num": "6520",
+        "desc": "Funct Thry/Grammr"
+    },
+    {
+        "major": "LING",
+        "room_num": "6521",
+        "desc": "Government/Binding"
+    },
+    {
+        "major": "LING",
+        "room_num": "6522",
+        "desc": "Gram/Prag/Disc Anal"
+    },
+    {
+        "major": "LING",
+        "room_num": "6523",
+        "desc": "Grammar Proces/Des"
+    },
+    {
+        "major": "LING",
+        "room_num": "6524",
+        "desc": "Historical Linguistics"
+    },
+    {
+        "major": "LING",
+        "room_num": "6525",
+        "desc": "Independent Resch"
+    },
+    {
+        "major": "LING",
+        "room_num": "6526",
+        "desc": "Independent Research"
+    },
+    {
+        "major": "LING",
+        "room_num": "6527",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "LING",
+        "room_num": "6528",
+        "desc": "Indices/Reference"
+    },
+    {
+        "major": "LING",
+        "room_num": "6529",
+        "desc": "Informat/Discourse"
+    },
+    {
+        "major": "LING",
+        "room_num": "6530",
+        "desc": "Innateness Of Lang"
+    },
+    {
+        "major": "LING",
+        "room_num": "6531",
+        "desc": "Intermediate Syntax"
+    },
+    {
+        "major": "LING",
+        "room_num": "6532",
+        "desc": "Intro Discors Anlys"
+    },
+    {
+        "major": "LING",
+        "room_num": "6533",
+        "desc": "Intro Linguistic Phonetics"
+    },
+    {
+        "major": "LING",
+        "room_num": "6534",
+        "desc": "Intro Theoretical Linguistics"
+    },
+    {
+        "major": "LING",
+        "room_num": "6535",
+        "desc": "Intro To Sanskrit"
+    },
+    {
+        "major": "LING",
+        "room_num": "6536",
+        "desc": "Intro to Learnability Theory"
+    },
+    {
+        "major": "LING",
+        "room_num": "6537",
+        "desc": "Intro to Psycholinguistics"
+    },
+    {
+        "major": "LING",
+        "room_num": "6538",
+        "desc": "Intron to Applied Linguistics"
+    },
+    {
+        "major": "LING",
+        "room_num": "6539",
+        "desc": "Lang Man Or Machine"
+    },
+    {
+        "major": "LING",
+        "room_num": "6540",
+        "desc": "Language Contact"
+    },
+    {
+        "major": "LING",
+        "room_num": "6541",
+        "desc": "Language&Dialects Urba Centers"
+    },
+    {
+        "major": "LING",
+        "room_num": "6542",
+        "desc": "Language/Literature"
+    },
+    {
+        "major": "LING",
+        "room_num": "6543",
+        "desc": "Languags In Contact"
+    },
+    {
+        "major": "LING",
+        "room_num": "6544",
+        "desc": "Lexic Sem/Comput Is"
+    },
+    {
+        "major": "LING",
+        "room_num": "6545",
+        "desc": "Ling Field Methods"
+    },
+    {
+        "major": "LING",
+        "room_num": "6546",
+        "desc": "Linguistic Variaton"
+    },
+    {
+        "major": "LING",
+        "room_num": "6547",
+        "desc": "Lisp Cptr/Symbolic"
+    },
+    {
+        "major": "LING",
+        "room_num": "6548",
+        "desc": "Math Ling & Logic"
+    },
+    {
+        "major": "LING",
+        "room_num": "6549",
+        "desc": "Mental Lexicon"
+    },
+    {
+        "major": "LING",
+        "room_num": "6550",
+        "desc": "Meth/Materials Esl"
+    },
+    {
+        "major": "LING",
+        "room_num": "6551",
+        "desc": "Meth/Materials in TESOL"
+    },
+    {
+        "major": "LING",
+        "room_num": "6552",
+        "desc": "Methods Computation Ling II"
+    },
+    {
+        "major": "LING",
+        "room_num": "6553",
+        "desc": "Micro-Parametrc Syn"
+    },
+    {
+        "major": "LING",
+        "room_num": "6554",
+        "desc": "Modern Linguistic Theories"
+    },
+    {
+        "major": "LING",
+        "room_num": "6555",
+        "desc": "Morphology"
+    },
+    {
+        "major": "LING",
+        "room_num": "6556",
+        "desc": "Nat Lang/Database"
+    },
+    {
+        "major": "LING",
+        "room_num": "6557",
+        "desc": "Non-Trnsfrmat Syntx"
+    },
+    {
+        "major": "LING",
+        "room_num": "6558",
+        "desc": "Optimality Theory"
+    },
+    {
+        "major": "LING",
+        "room_num": "6559",
+        "desc": "Parameters/Syntax"
+    },
+    {
+        "major": "LING",
+        "room_num": "6560",
+        "desc": "Phonetics"
+    },
+    {
+        "major": "LING",
+        "room_num": "6561",
+        "desc": "Phonetics Practicum"
+    },
+    {
+        "major": "LING",
+        "room_num": "6562",
+        "desc": "Phonology"
+    },
+    {
+        "major": "LING",
+        "room_num": "6563",
+        "desc": "Phonology I"
+    },
+    {
+        "major": "LING",
+        "room_num": "6564",
+        "desc": "Phonology I Practcm"
+    },
+    {
+        "major": "LING",
+        "room_num": "6565",
+        "desc": "Phonology II"
+    },
+    {
+        "major": "LING",
+        "room_num": "6566",
+        "desc": "Pidgins and Creoles"
+    },
+    {
+        "major": "LING",
+        "room_num": "6567",
+        "desc": "Polarity Phenomena"
+    },
+    {
+        "major": "LING",
+        "room_num": "6568",
+        "desc": "Practicum"
+    },
+    {
+        "major": "LING",
+        "room_num": "6569",
+        "desc": "Practicums in Linguistic Tools"
+    },
+    {
+        "major": "LING",
+        "room_num": "6570",
+        "desc": "Pragmatics & Discourse Analy"
+    },
+    {
+        "major": "LING",
+        "room_num": "6571",
+        "desc": "Propositnl Attitude"
+    },
+    {
+        "major": "LING",
+        "room_num": "6572",
+        "desc": "Proseminar"
+    },
+    {
+        "major": "LING",
+        "room_num": "6573",
+        "desc": "Psycho Linguistics"
+    },
+    {
+        "major": "LING",
+        "room_num": "6574",
+        "desc": "Psycholing Literacy"
+    },
+    {
+        "major": "LING",
+        "room_num": "6575",
+        "desc": "Psycholinguist Lab"
+    },
+    {
+        "major": "LING",
+        "room_num": "6576",
+        "desc": "Psycholinguistc Lab"
+    },
+    {
+        "major": "LING",
+        "room_num": "6577",
+        "desc": "Psycholinguistics"
+    },
+    {
+        "major": "LING",
+        "room_num": "6578",
+        "desc": "Psychophonology"
+    },
+    {
+        "major": "LING",
+        "room_num": "6579",
+        "desc": "Res Mthd Psycholing"
+    },
+    {
+        "major": "LING",
+        "room_num": "6580",
+        "desc": "Research Methods in Urban Ling"
+    },
+    {
+        "major": "LING",
+        "room_num": "6581",
+        "desc": "Romance Linguistics"
+    },
+    {
+        "major": "LING",
+        "room_num": "6582",
+        "desc": "Rsch Analy/Statistics in Ling"
+    },
+    {
+        "major": "LING",
+        "room_num": "6583",
+        "desc": "Rsch Meth 2nd Lang Acquisition"
+    },
+    {
+        "major": "LING",
+        "room_num": "6584",
+        "desc": "Rsch Meth Psycholing/Cog Ling"
+    },
+    {
+        "major": "LING",
+        "room_num": "6585",
+        "desc": "ST: Advanced Syntax"
+    },
+    {
+        "major": "LING",
+        "room_num": "6586",
+        "desc": "ST: Bilingualism & Urban Ling"
+    },
+    {
+        "major": "LING",
+        "room_num": "6587",
+        "desc": "ST: Computational Linguistics"
+    },
+    {
+        "major": "LING",
+        "room_num": "6588",
+        "desc": "ST: Linguistics"
+    },
+    {
+        "major": "LING",
+        "room_num": "6589",
+        "desc": "ST: Phonol/Morphol/the Lexicon"
+    },
+    {
+        "major": "LING",
+        "room_num": "6590",
+        "desc": "ST: Psycholing/Cognitive Ling"
+    },
+    {
+        "major": "LING",
+        "room_num": "6591",
+        "desc": "ST: Second Lang Acquisition"
+    },
+    {
+        "major": "LING",
+        "room_num": "6592",
+        "desc": "ST: Semantics"
+    },
+    {
+        "major": "LING",
+        "room_num": "6593",
+        "desc": "ST: Syntactic Theory"
+    },
+    {
+        "major": "LING",
+        "room_num": "6594",
+        "desc": "Second Language Acquisition"
+    },
+    {
+        "major": "LING",
+        "room_num": "6595",
+        "desc": "Sem 2nd Lang Aquis"
+    },
+    {
+        "major": "LING",
+        "room_num": "6596",
+        "desc": "Sem In Phonology"
+    },
+    {
+        "major": "LING",
+        "room_num": "6597",
+        "desc": "Sem: Acquis Of Synt"
+    },
+    {
+        "major": "LING",
+        "room_num": "6598",
+        "desc": "Sem: Japanese Syntx"
+    },
+    {
+        "major": "LING",
+        "room_num": "6599",
+        "desc": "Sem: Resrch Methods"
+    },
+    {
+        "major": "LING",
+        "room_num": "6600",
+        "desc": "Sem: Spanish Syntax"
+    },
+    {
+        "major": "LING",
+        "room_num": "6601",
+        "desc": "Sem: TESOL Research"
+    },
+    {
+        "major": "LING",
+        "room_num": "6602",
+        "desc": "Sem:Comp Creole Syn"
+    },
+    {
+        "major": "LING",
+        "room_num": "6603",
+        "desc": "Sem:Iss 2nd Lang Ac"
+    },
+    {
+        "major": "LING",
+        "room_num": "6604",
+        "desc": "Sem:Mora Theory"
+    },
+    {
+        "major": "LING",
+        "room_num": "6605",
+        "desc": "Sem:Semi-Creolizatn"
+    },
+    {
+        "major": "LING",
+        "room_num": "6606",
+        "desc": "Semantics"
+    },
+    {
+        "major": "LING",
+        "room_num": "6607",
+        "desc": "Semantics I"
+    },
+    {
+        "major": "LING",
+        "room_num": "6608",
+        "desc": "Semantics II"
+    },
+    {
+        "major": "LING",
+        "room_num": "6609",
+        "desc": "Semantics Ii"
+    },
+    {
+        "major": "LING",
+        "room_num": "6610",
+        "desc": "Semantics/Pragmatic"
+    },
+    {
+        "major": "LING",
+        "room_num": "6611",
+        "desc": "Semtcs Of Imag Disc"
+    },
+    {
+        "major": "LING",
+        "room_num": "6612",
+        "desc": "Sentence Processing"
+    },
+    {
+        "major": "LING",
+        "room_num": "6613",
+        "desc": "Socioling Discourse"
+    },
+    {
+        "major": "LING",
+        "room_num": "6614",
+        "desc": "Sociolinguistics"
+    },
+    {
+        "major": "LING",
+        "room_num": "6615",
+        "desc": "Spanish Dialectology"
+    },
+    {
+        "major": "LING",
+        "room_num": "6616",
+        "desc": "Spanish In The Us"
+    },
+    {
+        "major": "LING",
+        "room_num": "6617",
+        "desc": "Spanish In The Usa"
+    },
+    {
+        "major": "LING",
+        "room_num": "6618",
+        "desc": "Spanish in the United States"
+    },
+    {
+        "major": "LING",
+        "room_num": "6619",
+        "desc": "Spec Tpcs Semantics"
+    },
+    {
+        "major": "LING",
+        "room_num": "6620",
+        "desc": "Special Problems"
+    },
+    {
+        "major": "LING",
+        "room_num": "6621",
+        "desc": "Special Topics"
+    },
+    {
+        "major": "LING",
+        "room_num": "6622",
+        "desc": "Special Topics in Linguistics"
+    },
+    {
+        "major": "LING",
+        "room_num": "6623",
+        "desc": "Speech Perception"
+    },
+    {
+        "major": "LING",
+        "room_num": "6624",
+        "desc": "Speech Production"
+    },
+    {
+        "major": "LING",
+        "room_num": "6625",
+        "desc": "Stat/Perform Data"
+    },
+    {
+        "major": "LING",
+        "room_num": "6626",
+        "desc": "Struct Lang: Newari"
+    },
+    {
+        "major": "LING",
+        "room_num": "6627",
+        "desc": "Struct Modern Engl"
+    },
+    {
+        "major": "LING",
+        "room_num": "6628",
+        "desc": "Struct Of Spanish"
+    },
+    {
+        "major": "LING",
+        "room_num": "6629",
+        "desc": "Structure Individual Language"
+    },
+    {
+        "major": "LING",
+        "room_num": "6630",
+        "desc": "Supervised Research"
+    },
+    {
+        "major": "LING",
+        "room_num": "6631",
+        "desc": "Syntax Exotic Lang"
+    },
+    {
+        "major": "LING",
+        "room_num": "6632",
+        "desc": "Syntax I"
+    },
+    {
+        "major": "LING",
+        "room_num": "6633",
+        "desc": "Syntax II"
+    },
+    {
+        "major": "LING",
+        "room_num": "6634",
+        "desc": "Syntax Ii Practicum"
+    },
+    {
+        "major": "LING",
+        "room_num": "6635",
+        "desc": "Syntax Workshop"
+    },
+    {
+        "major": "LING",
+        "room_num": "6636",
+        "desc": "Syntax/Semant Devel"
+    },
+    {
+        "major": "LING",
+        "room_num": "6637",
+        "desc": "Syntax/Semantics"
+    },
+    {
+        "major": "LING",
+        "room_num": "6638",
+        "desc": "TESOL Through Content"
+    },
+    {
+        "major": "LING",
+        "room_num": "6639",
+        "desc": "Teaching Grammatical Structure"
+    },
+    {
+        "major": "LING",
+        "room_num": "6640",
+        "desc": "Temporal Expression"
+    },
+    {
+        "major": "LING",
+        "room_num": "6641",
+        "desc": "Tense6642: LING,\"Tesol: 4 Lang Skills"
+    },
+    {
+        "major": "LING",
+        "room_num": "6643",
+        "desc": "Theory Of Parsing"
+    },
+    {
+        "major": "LING",
+        "room_num": "6644",
+        "desc": "Theory/Anaphora"
+    },
+    {
+        "major": "LING",
+        "room_num": "6645",
+        "desc": "Topics In Syntax"
+    },
+    {
+        "major": "LING",
+        "room_num": "6646",
+        "desc": "Topics: Linguitics"
+    },
+    {
+        "major": "LING",
+        "room_num": "6647",
+        "desc": "Tpcs Japanese Syntx"
+    },
+    {
+        "major": "LING",
+        "room_num": "6648",
+        "desc": "Typology/Universals"
+    },
+    {
+        "major": "LING",
+        "room_num": "6649",
+        "desc": "Urban Linguistics"
+    },
+    {
+        "major": "LING",
+        "room_num": "6650",
+        "desc": "Var Thry/Black Engl"
+    },
+    {
+        "major": "LING",
+        "room_num": "6651",
+        "desc": "Variation Theory"
+    },
+    {
+        "major": "LING",
+        "room_num": "6652",
+        "desc": "Workshop In Syntax"
+    },
+    {
+        "major": "LING",
+        "room_num": "6653",
+        "desc": "Wrkshp Compar Syntx"
+    }
+]

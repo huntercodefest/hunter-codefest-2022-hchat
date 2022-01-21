@@ -1,0 +1,1034 @@
+[
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1590",
+        "room_desc": "Adv Biochemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1591",
+        "room_desc": "Adv Inorganic Chem"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1592",
+        "room_desc": "Adv Nanotechnology Mat Chem"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1593",
+        "room_desc": "Adv Org Chem II1594: CHEM,\"Adv Physical Chem"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1595",
+        "room_desc": "Adv Polymer Chem I1596: CHEM,\"Adv Polymer Chem II1597: CHEM,\"Adv Sem Analytical Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1598",
+        "room_desc": "Adv Sem Iii"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1599",
+        "room_desc": "Adv Sem Organic Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1600",
+        "room_desc": "Adv Sem Polymer Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1601",
+        "room_desc": "Adv Sem Theor/Phys/Inorg Chem"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1602",
+        "room_desc": "Adv Seminar Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1603",
+        "room_desc": "Advanced Inorganic Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1604",
+        "room_desc": "Advanced Molecular Biophysics"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1605",
+        "room_desc": "Advanced Organic"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1606",
+        "room_desc": "Advanced Organic Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1607",
+        "room_desc": "Advanced Polymer Chemistry I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1608",
+        "room_desc": "Analytical Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1609",
+        "room_desc": "Analytical Spectroscopy"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1610",
+        "room_desc": "Bas Lab Tech for Resch Chem"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1611",
+        "room_desc": "Bas Lab Techniques"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1612",
+        "room_desc": "Basic Lab Tech: Organic Chem"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1613",
+        "room_desc": "Basic Lab Tech: Polymer Chem"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1614",
+        "room_desc": "Basic Lab Techs"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1615",
+        "room_desc": "Basic Laboratory"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1616",
+        "room_desc": "Biochemisrty Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1617",
+        "room_desc": "Biochemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1618",
+        "room_desc": "Biochemistry I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1619",
+        "room_desc": "Biochemistry Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1620",
+        "room_desc": "Bioinorganic Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1621",
+        "room_desc": "Bioinorganic Chemst"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1622",
+        "room_desc": "Catalysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1623",
+        "room_desc": "Char/Prprts Polymrs"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1624",
+        "room_desc": "Chem Info Sources"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1625",
+        "room_desc": "Chem Natural Prod"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1626",
+        "room_desc": "Chem in Nonaqueous Solutions"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1627",
+        "room_desc": "Chem-Phys-Eng Sem I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1628",
+        "room_desc": "Chem/Stat Thermodyn & Chem Kin"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1629",
+        "room_desc": "Chemical Information Sources"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1630",
+        "room_desc": "Chemical Kinetics"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1631",
+        "room_desc": "Chemical Separations"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1632",
+        "room_desc": "Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1633",
+        "room_desc": "Chemistry of Natural Products"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1634",
+        "room_desc": "Colloid Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1635",
+        "room_desc": "Computational Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1636",
+        "room_desc": "Computer In Chem"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1637",
+        "room_desc": "Computers in Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1638",
+        "room_desc": "Determintn Struc Org Molecules"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1639",
+        "room_desc": "Dissertation Supervision"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1640",
+        "room_desc": "Dissrt Supervision"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1641",
+        "room_desc": "Doct Dissrt Resch"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1642",
+        "room_desc": "Doctoral Dissertation Research"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1643",
+        "room_desc": "Electro Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1644",
+        "room_desc": "Electroanalytical Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1645",
+        "room_desc": "Electrochemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1646",
+        "room_desc": "Environ Organic Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1647",
+        "room_desc": "Environmental Chem"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1648",
+        "room_desc": "Environmental Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1649",
+        "room_desc": "Environmental Chemistry I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1650",
+        "room_desc": "Environmental Org Chem"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1651",
+        "room_desc": "Environmental Organic Chem"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1652",
+        "room_desc": "Essen-Gen Chem (Lab)"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1653",
+        "room_desc": "Essen-Gen Chem (Lec)"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1654",
+        "room_desc": "Essentls Of Chem Lb"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1655",
+        "room_desc": "Essntls Of Chem Lec"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1656",
+        "room_desc": "First Level Laboratory Resch"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1657",
+        "room_desc": "General Chem I Lab"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1658",
+        "room_desc": "General Chem I Lect"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1659",
+        "room_desc": "General Chem Labrty"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1660",
+        "room_desc": "General Chem Lec-Lab I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1661",
+        "room_desc": "General Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1662",
+        "room_desc": "General Chemistry 2"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1663",
+        "room_desc": "General Chemistry 2 Lab"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1664",
+        "room_desc": "General Chemistry I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1665",
+        "room_desc": "General Chemistry I Lab"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1666",
+        "room_desc": "General Lecture & Lab 2"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1667",
+        "room_desc": "Glassblowing"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1668",
+        "room_desc": "Group Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1669",
+        "room_desc": "High Resolutn Infrared Spectra"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1670",
+        "room_desc": "Inorganic Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1671",
+        "room_desc": "Inorganic Mechanism"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1672",
+        "room_desc": "Inorganic Photochemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1673",
+        "room_desc": "Inorganic Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1674",
+        "room_desc": "Institut Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1675",
+        "room_desc": "Instr Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1676",
+        "room_desc": "Intermed Chem 2"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1677",
+        "room_desc": "Intro Biochem"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1678",
+        "room_desc": "Intro Nanotechnology Matrials"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1679",
+        "room_desc": "Intro To Chem (Lab)"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1680",
+        "room_desc": "Intro To Chem (Lec)"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1681",
+        "room_desc": "Intro To Org Chem"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1682",
+        "room_desc": "Introductory Quantum Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1683",
+        "room_desc": "Isotope Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1684",
+        "room_desc": "Kinetics/Mech Inorg Reactions"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1685",
+        "room_desc": "Lab Rsrch Molec Biophysics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1686",
+        "room_desc": "Lab Rsrch Molec Biophysics II"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1687",
+        "room_desc": "Lab Tch Rsrch Nantchnlgy Mat I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1688",
+        "room_desc": "Lab Tch Rsrch Nantchnlgy MatII"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1689",
+        "room_desc": "Lab Tech Resch I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1690",
+        "room_desc": "Lab Tech in Environmental Chem"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1691",
+        "room_desc": "Light Microscope/Microchem"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1692",
+        "room_desc": "Magnetc Resonance Spectroscopy"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1693",
+        "room_desc": "Magntc Resonance Spectroscopy"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1694",
+        "room_desc": "Mechanistic Kinetics"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1695",
+        "room_desc": "Microprocessor"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1696",
+        "room_desc": "Microprocessors-Experiment"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1697",
+        "room_desc": "Microscopy & Microanalysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1698",
+        "room_desc": "Molecular Biophysics"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1699",
+        "room_desc": "NMR Spectroscopy"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1700",
+        "room_desc": "Nmr Spectroscopy"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1701",
+        "room_desc": "Organic Chem I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1702",
+        "room_desc": "Organic Chem Lab"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1703",
+        "room_desc": "Organic Chem Lec"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1704",
+        "room_desc": "Organic Chem Lec Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1705",
+        "room_desc": "Organic Chem of Heterocycles"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1706",
+        "room_desc": "Organic Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1707",
+        "room_desc": "Organic Chemistry 2 (Lab)"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1708",
+        "room_desc": "Organic Chemistry I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1709",
+        "room_desc": "Organic Chemistry I Lab"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1710",
+        "room_desc": "Organic Chemistry I-Lec"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1711",
+        "room_desc": "Organic Chemistry II"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1712",
+        "room_desc": "Organic I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1713",
+        "room_desc": "Organic Lec/Lab"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1714",
+        "room_desc": "Organic Mechanisms"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1715",
+        "room_desc": "Organic Synthesis"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1716",
+        "room_desc": "Organometallc Chem & Catalysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1717",
+        "room_desc": "Organometallic Chem&Catalysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1718",
+        "room_desc": "Photochemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1719",
+        "room_desc": "Phys Chem Ii Lab"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1720",
+        "room_desc": "Physical Biochem"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1721",
+        "room_desc": "Physical Chem"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1722",
+        "room_desc": "Physical Chem I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1723",
+        "room_desc": "Physical Chem Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1724",
+        "room_desc": "Physical Chem Iii"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1725",
+        "room_desc": "Physical Chem Lect"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1726",
+        "room_desc": "Physical Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1727",
+        "room_desc": "Physical Chemistry 2"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1728",
+        "room_desc": "Physical Chemistry I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1729",
+        "room_desc": "Physical Chemistry I (Lec)"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1730",
+        "room_desc": "Physical Chemistry II"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1731",
+        "room_desc": "Polymer Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1732",
+        "room_desc": "Project Teach"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1733",
+        "room_desc": "Quantal Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1734",
+        "room_desc": "Quantum Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1735",
+        "room_desc": "Quantum Mechanics"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1736",
+        "room_desc": "Quantum Organic Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1737",
+        "room_desc": "RNA Biochem & Molec Biol"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1738",
+        "room_desc": "Radiochemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1739",
+        "room_desc": "Relaxatn Proc Near Equilibrium"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1740",
+        "room_desc": "ST: Physical Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1741",
+        "room_desc": "Sem:Chem-Phys-Engr 2"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1742",
+        "room_desc": "Seminar"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1743",
+        "room_desc": "Semnr In Biochem"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1744",
+        "room_desc": "Solid State Physical Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1745",
+        "room_desc": "Spec Struct Proof Org Chem"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1746",
+        "room_desc": "Spec Top: Chemistry Educ"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1747",
+        "room_desc": "Spec Tpcs Inorganic Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1748",
+        "room_desc": "Special Lectures in Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1749",
+        "room_desc": "Special Topics Analytical Chem"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1750",
+        "room_desc": "Special Topics Inorganic Chem"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1751",
+        "room_desc": "Special Topics in Organic Chem"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1752",
+        "room_desc": "Special Topics in Polymer Chem"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1753",
+        "room_desc": "Spect Mthds Struct Determin"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1754",
+        "room_desc": "Spectroscopy"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1755",
+        "room_desc": "Spectroscopy/Struct Prf"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1756",
+        "room_desc": "Statistical Mechanics"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1757",
+        "room_desc": "Stereochemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1758",
+        "room_desc": "Surf Chem/Colloids"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1759",
+        "room_desc": "Surface Chem & Colloids"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1760",
+        "room_desc": "Surface Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1761",
+        "room_desc": "Theories of Analytical Chem"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1762",
+        "room_desc": "Thermodyn/Stat Th Liq/Solutns"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1763",
+        "room_desc": "Undergrad Seminar"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "1764",
+        "room_desc": "X-Ray Crystal Structure Analy"
+    }
+]

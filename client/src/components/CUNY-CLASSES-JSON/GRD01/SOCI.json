@@ -1,0 +1,1568 @@
+[
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9868",
+        "room_desc": "1980 Census/Demcrph"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9869",
+        "room_desc": "20th Cent Marxism"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9870",
+        "room_desc": "3rd World Urbaniz"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9871",
+        "room_desc": "Adv Capitalism"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9872",
+        "room_desc": "Adv Field Methods"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9873",
+        "room_desc": "Adv Indust Society"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9874",
+        "room_desc": "Adv Social Statistc"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9875",
+        "room_desc": "Adv Tabular Analys"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9876",
+        "room_desc": "Adv Topics in Social Research"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9877",
+        "room_desc": "Advance Criminology"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9878",
+        "room_desc": "Amer Judicial Systm"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9879",
+        "room_desc": "Amer Soc Prot Mvmnt"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9880",
+        "room_desc": "Amercn Social Thry"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9881",
+        "room_desc": "American Culture"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9882",
+        "room_desc": "American Elect Pol"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9883",
+        "room_desc": "American Minorities"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9884",
+        "room_desc": "American Sociology"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9885",
+        "room_desc": "Analy Lge Natl Data"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9886",
+        "room_desc": "Appl Soc Research II"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9887",
+        "room_desc": "Asian American"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9888",
+        "room_desc": "Change in Control of Sex Behav"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9889",
+        "room_desc": "Church History"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9890",
+        "room_desc": "City & The Economy"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9891",
+        "room_desc": "Cla/Sex/Race &Crime"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9892",
+        "room_desc": "Clas Thry/Soc Rel"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9893",
+        "room_desc": "Cmpar Study Urban"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9894",
+        "room_desc": "Cmprtv Pop Probs+Po"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9895",
+        "room_desc": "Cntmpry Feminist"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9896",
+        "room_desc": "Collective Behavior"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9897",
+        "room_desc": "Community Studies"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9898",
+        "room_desc": "Comp Political Soc"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9899",
+        "room_desc": "Comparative Social Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9900",
+        "room_desc": "Comparative Studies"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9901",
+        "room_desc": "Complex Organization"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9902",
+        "room_desc": "Compr Comunty Powr"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9903",
+        "room_desc": "Computer Applicatin"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9904",
+        "room_desc": "Concepts in Environment Soc"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9905",
+        "room_desc": "Construct & Test of Soc Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9906",
+        "room_desc": "Construct/Illness"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9907",
+        "room_desc": "Contemp Sociological Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9908",
+        "room_desc": "Contemprary Germany"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9909",
+        "room_desc": "Contmp Fre Soc Thgt"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9910",
+        "room_desc": "Crimin & Crim Just"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9911",
+        "room_desc": "Crimnlgy/Thry/Inst"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9912",
+        "room_desc": "Crisis Of Socialism"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9913",
+        "room_desc": "Crit Thry & Frankfurt School"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9914",
+        "room_desc": "Critical Criminol"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9915",
+        "room_desc": "Cultur & Geogr Commun in NY"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9916",
+        "room_desc": "Cultur & Pers of Amer Minorit"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9917",
+        "room_desc": "Culture Of Workplac"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9918",
+        "room_desc": "Current Soc Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9919",
+        "room_desc": "Demography"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9920",
+        "room_desc": "Demography & Populat Problems"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9921",
+        "room_desc": "Dev of Sociological Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9922",
+        "room_desc": "Devel & Moderizat"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9923",
+        "room_desc": "Devel Alco/Drug Dep"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9924",
+        "room_desc": "Devel in Mass Comm Research"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9925",
+        "room_desc": "Develop & Underdevelopment"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9926",
+        "room_desc": "Deviant Behavior"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9927",
+        "room_desc": "Dialectical Methodology"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9928",
+        "room_desc": "Dissertation Supervision"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9929",
+        "room_desc": "Divers Chldrn/Curr Nat Pol Deb"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9930",
+        "room_desc": "Drugs9931: SOCI,\"Durkheim"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9932",
+        "room_desc": "Environment and Culture"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9933",
+        "room_desc": "Ethnic & Racial Stratification"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9934",
+        "room_desc": "Ethnic+Occup Struct"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9935",
+        "room_desc": "Ethnicity/Culture"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9936",
+        "room_desc": "Ethnomethodology"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9937",
+        "room_desc": "Family Interaction"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9938",
+        "room_desc": "Family Interactions"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9939",
+        "room_desc": "Family Thry History"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9940",
+        "room_desc": "Family and Social Change"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9941",
+        "room_desc": "Fdtns of Political Economy"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9942",
+        "room_desc": "Femin Persp on Soc & Pol Thry"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9943",
+        "room_desc": "Focus Group Resch"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9944",
+        "room_desc": "Frankfort School"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9945",
+        "room_desc": "Gender & The Law"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9946",
+        "room_desc": "Gender Equal/Family"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9947",
+        "room_desc": "Georg Simmel"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9948",
+        "room_desc": "Germany In 1950\u2019S"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9949",
+        "room_desc": "Global Blk Urb Dias"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9950",
+        "room_desc": "Global Info/Telecom"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9951",
+        "room_desc": "Global Restructurng"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9952",
+        "room_desc": "Habermas"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9953",
+        "room_desc": "High Edu/Soc Inequa"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9954",
+        "room_desc": "Hist Amer Sociology"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9955",
+        "room_desc": "Hist Root/Mass Cult"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9956",
+        "room_desc": "Historical Sociology"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9957",
+        "room_desc": "History & Fndtns of Amer Soc"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9958",
+        "room_desc": "History Of Fields"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9959",
+        "room_desc": "Hum/Soc/Cult Capitl"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9960",
+        "room_desc": "Immigrant Cities"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9961",
+        "room_desc": "Independent Research"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9962",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9963",
+        "room_desc": "Individ Commun Soc"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9964",
+        "room_desc": "Indpndt Resch"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9965",
+        "room_desc": "Industrial Sociology"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9966",
+        "room_desc": "Inqiry/Exemp-Protot"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9967",
+        "room_desc": "Institut Discrimitn"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9968",
+        "room_desc": "Institutions of Sel Societies"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9969",
+        "room_desc": "Integration/Conflct"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9970",
+        "room_desc": "Intermed Statistics"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9971",
+        "room_desc": "Interpers Processes"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9972",
+        "room_desc": "Intrdscplnry Resrch"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9973",
+        "room_desc": "Intro Statistics"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9974",
+        "room_desc": "Intro to Cultural Studies"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9975",
+        "room_desc": "Intro to Sociology"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9976",
+        "room_desc": "Intro/Cultural Stdy"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9977",
+        "room_desc": "Introduction to Med"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9978",
+        "room_desc": "Introductory Sociology"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9979",
+        "room_desc": "Investment/Labor"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9980",
+        "room_desc": "Issues in Community Research"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9981",
+        "room_desc": "Juvenile Delinquency"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9982",
+        "room_desc": "Linguistic Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9983",
+        "room_desc": "Lit As Soc Knowledg"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9984",
+        "room_desc": "Log/Epist Fndtn Soc"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9985",
+        "room_desc": "Marx & Marxism"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9986",
+        "room_desc": "Marx & West Marxism"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9987",
+        "room_desc": "Marx As Sociologist"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9988",
+        "room_desc": "Marx and Marxism"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9989",
+        "room_desc": "Mass Communict Resh"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9990",
+        "room_desc": "Mass Culture and the Arts"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9991",
+        "room_desc": "Mass Media/Cltrl St"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9992",
+        "room_desc": "Mathematics for Sociology"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9993",
+        "room_desc": "Max Weber"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9994",
+        "room_desc": "Max Weber\u2019s Sociology"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9995",
+        "room_desc": "Medical Sociology"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9996",
+        "room_desc": "Men/Masculinity/Soc"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9997",
+        "room_desc": "Meth Cultural Analy"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9998",
+        "room_desc": "Methods of Sociological Resch"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "9999",
+        "room_desc": "Movement Of 60\u2019S"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10000",
+        "room_desc": "Multi-Disc Research"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10001",
+        "room_desc": "Multiethnic State & Pluralism"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10002",
+        "room_desc": "Multivariate Anlyss"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10003",
+        "room_desc": "Neighborhood Stabilization"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10004",
+        "room_desc": "Ny/World Metropolis"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10005",
+        "room_desc": "Nyc/New Immigrants"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10006",
+        "room_desc": "Org Inn Wrkpl Alt"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10007",
+        "room_desc": "Personality and Social Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10008",
+        "room_desc": "Pol Eco Adam Smith"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10009",
+        "room_desc": "Pol Econ/Health Car"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10010",
+        "room_desc": "Polit Eco & Eco Soc"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10011",
+        "room_desc": "Polit Sociology & Revol Change"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10012",
+        "room_desc": "Polit/Soc Of Educat"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10013",
+        "room_desc": "Political Economy I"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10014",
+        "room_desc": "Political Sociology"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10015",
+        "room_desc": "Politiciz Of Ethni"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10016",
+        "room_desc": "Politics and Revolution"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10017",
+        "room_desc": "Poverty In The Usa"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10018",
+        "room_desc": "Power In Minority"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10019",
+        "room_desc": "Prep Course/Sociol"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10020",
+        "room_desc": "Problems/Modernity"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10021",
+        "room_desc": "Prosem Adv Soc Rsch"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10022",
+        "room_desc": "Proseminar"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10023",
+        "room_desc": "Psyche & Society"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10024",
+        "room_desc": "Psychoanalytic Sociology"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10025",
+        "room_desc": "Psychology Models"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10026",
+        "room_desc": "Public Opinion Res"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10027",
+        "room_desc": "Qualifying Paper Seminar I"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10028",
+        "room_desc": "Qualifying Paper Seminar II"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10029",
+        "room_desc": "Qualitative Methods"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10030",
+        "room_desc": "Race10031: SOCI,\"Race-Ethnicity & Nation-State"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10032",
+        "room_desc": "Race/Ethnic In Nyc"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10033",
+        "room_desc": "Racial Confl in Amer Cities"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10034",
+        "room_desc": "Reading"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10035",
+        "room_desc": "Rec Pers Race & Rac in Am Soc"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10036",
+        "room_desc": "Recent Modern Socty"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10037",
+        "room_desc": "Res Iss Intern Devl"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10038",
+        "room_desc": "Res Prac Nyc Problm"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10039",
+        "room_desc": "Research Methods"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10040",
+        "room_desc": "Revol Chnge Lat Ame"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10041",
+        "room_desc": "Role Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10042",
+        "room_desc": "Roots Of Mass Cult"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10043",
+        "room_desc": "ST: Community Structure"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10044",
+        "room_desc": "ST: Criminology"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10045",
+        "room_desc": "ST: Cultural Studies"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10046",
+        "room_desc": "ST: Demography and Ecology"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10047",
+        "room_desc": "ST: Gender & Family Organizatn"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10048",
+        "room_desc": "ST: Institutions & Organizatns"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10049",
+        "room_desc": "ST: Methodology"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10050",
+        "room_desc": "ST: Race and Ethnicity"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10051",
+        "room_desc": "ST: Social Change & Developmnt"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10052",
+        "room_desc": "ST: Social Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10053",
+        "room_desc": "ST: Socializ & Soc Interaction"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10054",
+        "room_desc": "ST: Sociological Statistics"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10055",
+        "room_desc": "ST: The Sociology of Knowledge"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10056",
+        "room_desc": "ST: Urban & Community Studies"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10057",
+        "room_desc": "ST:Qualit & Interpretive Mthds"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10058",
+        "room_desc": "ST:State10059: SOCI,\"Sel Tpc:Ethnography"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10060",
+        "room_desc": "Sem Integr Soc Resc"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10061",
+        "room_desc": "Sem:Arts & Politics"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10062",
+        "room_desc": "Sem:Fem Epist/Resch"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10063",
+        "room_desc": "Sem:Field Techniques in Resrch"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10064",
+        "room_desc": "Seminar: Marx"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10065",
+        "room_desc": "Sex Roles and Social Change"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10066",
+        "room_desc": "Sexlty Con Soc Thry"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10067",
+        "room_desc": "Soc Change in Develop Nations"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10068",
+        "room_desc": "Soc Chng/Devl&Under"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10069",
+        "room_desc": "Soc Constr Of Drugs"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10070",
+        "room_desc": "Soc Constrct Illnes"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10071",
+        "room_desc": "Soc Crit Age Teleco"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10072",
+        "room_desc": "Soc Of Education"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10073",
+        "room_desc": "Soc Proc Global Interdepend"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10074",
+        "room_desc": "Soc Sci10075: SOCI,\"Soc Struc/Ment Hlth"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10076",
+        "room_desc": "Soc of Work & Occupations"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10077",
+        "room_desc": "Soc of the Arts & Mass Comm"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10078",
+        "room_desc": "Social Contl Of Sex"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10079",
+        "room_desc": "Social Rev / Social"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10080",
+        "room_desc": "Social Statistics"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10081",
+        "room_desc": "Social Stratification"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10082",
+        "room_desc": "Social Stratificatn"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10083",
+        "room_desc": "Socializ & Comparat Soc Struct"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10084",
+        "room_desc": "Socio Eco Formation"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10085",
+        "room_desc": "Socio/Everyday Life"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10086",
+        "room_desc": "Socio:Asian-America"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10087",
+        "room_desc": "Sociological Statistics"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10088",
+        "room_desc": "Sociological Statistics II"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10089",
+        "room_desc": "Sociology Of Family"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10090",
+        "room_desc": "Sociology Of Ghandi"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10091",
+        "room_desc": "Sociology Of Relign"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10092",
+        "room_desc": "Sociology Of Work"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10093",
+        "room_desc": "Sociology and Phenomenology"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10094",
+        "room_desc": "Sociology of Education"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10095",
+        "room_desc": "Sociology of Gender"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10096",
+        "room_desc": "Sociology of Law"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10097",
+        "room_desc": "Sociology of Life Cycles"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10098",
+        "room_desc": "Sociology of Religion"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10099",
+        "room_desc": "Sociology of Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10100",
+        "room_desc": "Sociology of the Novel"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10101",
+        "room_desc": "Sociology of the State"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10102",
+        "room_desc": "Sociology/Religion"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10103",
+        "room_desc": "Special Problems in Deviance"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10104",
+        "room_desc": "State & Soc In Eur"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10105",
+        "room_desc": "Studies High Cultur"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10106",
+        "room_desc": "Study Of Values"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10107",
+        "room_desc": "The American Dilemma Revisited"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10108",
+        "room_desc": "The Interview"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10109",
+        "room_desc": "The Labeling Process"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10110",
+        "room_desc": "The Sociology of Leisure"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10111",
+        "room_desc": "Theor Pers in the Role of Wom"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10112",
+        "room_desc": "Theories Of Body"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10113",
+        "room_desc": "Theort Perspt Gendr"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10114",
+        "room_desc": "Theory/Crit Of P/M"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10115",
+        "room_desc": "Thry Social Change"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10116",
+        "room_desc": "Tuorial"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10117",
+        "room_desc": "Tutorial"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10118",
+        "room_desc": "Unions And Society"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10119",
+        "room_desc": "Urb Soc Human Ecol"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10120",
+        "room_desc": "Urb Struct10121: SOCI,\"Urban Policy/Polits"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10122",
+        "room_desc": "Urban Social Conflicts"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10123",
+        "room_desc": "Urban Sociology"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10124",
+        "room_desc": "Urban Violence"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10125",
+        "room_desc": "Violence/Violation"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10126",
+        "room_desc": "Welfare State Crisi"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10127",
+        "room_desc": "Women & Work"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10128",
+        "room_desc": "Women And Work"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10129",
+        "room_desc": "Women Power Struct"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10130",
+        "room_desc": "Women/Hlth Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10131",
+        "room_desc": "Workers\u2019 Movements"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10132",
+        "room_desc": "World Metro Commun-Thry & Mthd"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "10133",
+        "room_desc": "Yoruba 14"
+    }
+]

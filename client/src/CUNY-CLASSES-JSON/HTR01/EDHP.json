@@ -1,0 +1,307 @@
+[
+    {
+        "major": "EDHP",
+        "room_num": "49578",
+        "desc": "Admin Of Sch Hlth Ed"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49579",
+        "desc": "Aff Teach&Hlth Behav"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49580",
+        "desc": "Affective Tch Strat"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49581",
+        "desc": "Aids And Society"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49582",
+        "desc": "Consumer Health"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49583",
+        "desc": "Contemporary Health Concepts"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49584",
+        "desc": "Creatv Cnflct Resolu"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49585",
+        "desc": "Crit Iss In Hlth Ed"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49586",
+        "desc": "Death And Dying"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49587",
+        "desc": "Devel The Hlth Curr"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49588",
+        "desc": "Drugs And Drug Dependencies"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49589",
+        "desc": "Envir Hzrds&Eff Hlth"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49590",
+        "desc": "Eth Iss Hlth&Mtl Hlt"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49591",
+        "desc": "Eval The Health Prog"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49592",
+        "desc": "Evaluation In Health Education"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49593",
+        "desc": "Fam Liv Incl S.E.Sch"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49594",
+        "desc": "Fieldwork"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49595",
+        "desc": "Fld Exper In Hlth Ed"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49596",
+        "desc": "He For Clssrm Tchr"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49597",
+        "desc": "Health Appraisal and School"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49598",
+        "desc": "Health Counseling"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49599",
+        "desc": "Health Education for Special"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49600",
+        "desc": "Health Teach Resources"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49601",
+        "desc": "Hed For Clssrm Teach"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49602",
+        "desc": "Hed For Teachers"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49603",
+        "desc": "Hist&Phil Of Hlth Ed"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49604",
+        "desc": "Hlth Ed For Elem Sch"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49605",
+        "desc": "Hlth Ed of Children"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49606",
+        "desc": "Hlth Ed:Chldhood Edu"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49607",
+        "desc": "Hlth Main&Fit In Ind"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49608",
+        "desc": "Honors In Health Education"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49609",
+        "desc": "Ind Study/Field Work"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49610",
+        "desc": "Ind Study/Fieldwork"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49611",
+        "desc": "Indep Study - Hlt Ed"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49612",
+        "desc": "Intern-Sch Hlth Mngt"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49613",
+        "desc": "Mang Sch Hlth Prgrms"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49614",
+        "desc": "Mental Health For Health Edu"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49615",
+        "desc": "Meth Of Tch Hlth Ed"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49616",
+        "desc": "Mthd Tchng Health Ed"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49617",
+        "desc": "Phl Bas-Hlth & Hed"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49618",
+        "desc": "Public Health 1"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49619",
+        "desc": "Public Health Issues"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49620",
+        "desc": "Research Seminar"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49621",
+        "desc": "Safe Ed & Emerg Care"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49622",
+        "desc": "Safety Education"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49623",
+        "desc": "Sch Hlth Cur&Hlth Ap"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49624",
+        "desc": "Sch Hlth Serv&Envir"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49625",
+        "desc": "School Health Curric"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49626",
+        "desc": "Sem:Hlth Enhnce Prog"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49627",
+        "desc": "Sem:Stress Mngment"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49628",
+        "desc": "Stress Management"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49629",
+        "desc": "The School Health Program"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49630",
+        "desc": "Thesis Seminar"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49631",
+        "desc": "Tpcs: Hlth Is. Clsrm"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49632",
+        "desc": "Urban Health"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49633",
+        "desc": "Wellness&Hlth Promo"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49634",
+        "desc": "Wks:He:Stress Mngmnt"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49635",
+        "desc": "Wkshp In Hlth Ed"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49636",
+        "desc": "Wksp Cur Iss-Health"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49637",
+        "desc": "Women And Health"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "49638",
+        "desc": "Workshop In Hlth Ed"
+    }
+]

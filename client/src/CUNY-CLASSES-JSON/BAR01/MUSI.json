@@ -1,0 +1,287 @@
+[
+    {
+        "major": "MUSI",
+        "room_num": "61517",
+        "desc": "Antiq Thru Baroque"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61518",
+        "desc": "Band"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61519",
+        "desc": "Band II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61520",
+        "desc": "Band III"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61521",
+        "desc": "Band IV"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61522",
+        "desc": "Basic Music Theory I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61523",
+        "desc": "Choral Mstrpieces"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61524",
+        "desc": "Chorus"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61525",
+        "desc": "Chorus II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61526",
+        "desc": "Chorus III"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61527",
+        "desc": "Chorus IV"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61528",
+        "desc": "Classicism To Modern"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61529",
+        "desc": "Commercial Music and the Media"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61530",
+        "desc": "Ear Training I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61531",
+        "desc": "Ear Training II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61532",
+        "desc": "Ear Training III"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61533",
+        "desc": "Ear Training IV"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61534",
+        "desc": "Electronic Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61535",
+        "desc": "Ensemble"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61536",
+        "desc": "Ensemble II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61537",
+        "desc": "Ensemble III"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61538",
+        "desc": "Ensemble IV"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61539",
+        "desc": "Fundamentals of Music I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61540",
+        "desc": "Harmony I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61541",
+        "desc": "Harmony II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61542",
+        "desc": "Harmony III"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61543",
+        "desc": "Harmony IV"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61544",
+        "desc": "History Of Music I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61545",
+        "desc": "Honors -  Music I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61546",
+        "desc": "Honors - Classicism to Modern"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61547",
+        "desc": "Honors - Music II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61548",
+        "desc": "Honors Principles of Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61549",
+        "desc": "Honors-Jazz: Origin to Present"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61550",
+        "desc": "Independent Study Music I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61551",
+        "desc": "Independent Study Music II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61552",
+        "desc": "Independent Study Music III"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61553",
+        "desc": "Independent Study Music IV"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61554",
+        "desc": "Internship in Music Management"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61555",
+        "desc": "Jazz: Origins to the Present"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61556",
+        "desc": "Msc Of Lat Am& Carib"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61557",
+        "desc": "Music In The City"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61558",
+        "desc": "Music and Society"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61559",
+        "desc": "Music in America"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61560",
+        "desc": "Music in Civilization"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61561",
+        "desc": "Music in Films"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61562",
+        "desc": "Music in the Light Theatre"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61563",
+        "desc": "Music of the Baroque Period"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61564",
+        "desc": "Music of the Classic Period"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61565",
+        "desc": "Music of the Romantic Period"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61566",
+        "desc": "Music of the Twentieth Century"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61567",
+        "desc": "Orchestra"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61568",
+        "desc": "Orchestration I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61569",
+        "desc": "Popular Song in America"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61570",
+        "desc": "Principles of Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61571",
+        "desc": "The American Musical Theatre"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61572",
+        "desc": "The Opera"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "61573",
+        "desc": "World Music"
+    }
+]

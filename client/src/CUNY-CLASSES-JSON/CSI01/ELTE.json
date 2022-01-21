@@ -1,0 +1,287 @@
+[
+    {
+        "major": "ELTE",
+        "room_num": "84453",
+        "desc": "Ac Fund Lab"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84454",
+        "desc": "Adv Elctrnc Instrmts"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84455",
+        "desc": "Circuit Theory"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84456",
+        "desc": "Cntrl Sys&Servomech"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84457",
+        "desc": "Co-Op Educ Et I"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84458",
+        "desc": "Co-Op Educ Et II"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84459",
+        "desc": "Comm/Microwave Lab"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84460",
+        "desc": "Commercial Commctn"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84461",
+        "desc": "Computer Hardware Technology"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84462",
+        "desc": "Computer-aided Technology"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84463",
+        "desc": "Computr Sys Elctrncs"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84464",
+        "desc": "Comuncaton/Microwave"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84465",
+        "desc": "Dc Fund Theory"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84466",
+        "desc": "Digital Circuit Laboratory"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84467",
+        "desc": "Digital Theory"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84468",
+        "desc": "Elec Circ Analysis Lab"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84469",
+        "desc": "Elec Pwr Trans&Distr"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84470",
+        "desc": "Elec Tech Ind Stdy"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84471",
+        "desc": "Elect Tech 400-Level Elec"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84472",
+        "desc": "Elect Tech Internshp"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84473",
+        "desc": "Elect Tech Intrnshp"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84474",
+        "desc": "Electrcity Principls"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84475",
+        "desc": "Electric Circ Ii"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84476",
+        "desc": "Electric Circt Anal"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84477",
+        "desc": "Electric Circuit Laboratory I"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84478",
+        "desc": "Electric Design"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84479",
+        "desc": "Electric Machines"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84480",
+        "desc": "Electrical Circuit Analysis"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84481",
+        "desc": "Electrical Machines"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84482",
+        "desc": "Electrical Machines Laboratory"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84483",
+        "desc": "Electrical Technical Intern"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84484",
+        "desc": "Electrical Wiring Techniques"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84485",
+        "desc": "Electrnic Comm Ii"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84486",
+        "desc": "Electronic Devices I"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84487",
+        "desc": "Electronic Drafting"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84488",
+        "desc": "Electronics"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84489",
+        "desc": "Electronics Fund"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84490",
+        "desc": "Electronics II"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84491",
+        "desc": "Electronics II Laboratory"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84492",
+        "desc": "Electronics Laboratory"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84493",
+        "desc": "Fcc License Review"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84494",
+        "desc": "Ind Electricity"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84495",
+        "desc": "Ind Electricty Lab"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84496",
+        "desc": "Ind Electronics"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84497",
+        "desc": "Industrial Elctrnics"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84498",
+        "desc": "Intro Msrmt&Instrmtn"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84499",
+        "desc": "Intro To Circuits"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84500",
+        "desc": "Introduction to Electronics"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84501",
+        "desc": "Microprcesors Theory"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84502",
+        "desc": "Microprocessor Laboratory"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84503",
+        "desc": "Power Systems Analysis I"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84504",
+        "desc": "Power Systems Analysis II"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84505",
+        "desc": "Princ of Digital Circuitry"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84506",
+        "desc": "Telecommunications I"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84507",
+        "desc": "Telecommunications II"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84508",
+        "desc": "Telecommunications System Engi"
+    },
+    {
+        "major": "ELTE",
+        "room_num": "84509",
+        "desc": "Troubleshootng Lab"
+    }
+]

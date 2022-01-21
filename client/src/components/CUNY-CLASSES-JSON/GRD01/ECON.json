@@ -1,0 +1,830 @@
+[
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3927",
+        "room_desc": "3rd World Capital"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3928",
+        "room_desc": "Accounting Info Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3929",
+        "room_desc": "Adv Mic Thy:Gen Eqlbrm/Wlf St"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3930",
+        "room_desc": "Adv Micro Thry: Appl Welf Econ"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3931",
+        "room_desc": "Advnced Corp Financ"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3932",
+        "room_desc": "American Economic History"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3933",
+        "room_desc": "Applied Econmetrics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3934",
+        "room_desc": "Applied Econometrics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3935",
+        "room_desc": "Applied Economics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3936",
+        "room_desc": "Applied Macroeconometrics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3937",
+        "room_desc": "Applied Microeconometrics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3938",
+        "room_desc": "Business Law I"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3939",
+        "room_desc": "Caribbean Economics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3940",
+        "room_desc": "Cmptational Methods Economists"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3941",
+        "room_desc": "Comparative Economic Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3942",
+        "room_desc": "Comput Aided Analy"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3943",
+        "room_desc": "Cptr Aided Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3944",
+        "room_desc": "Dissertation Seminar"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3945",
+        "room_desc": "Dissertation Supervision"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3946",
+        "room_desc": "Ecological Economics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3947",
+        "room_desc": "Econ Analysis 1"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3948",
+        "room_desc": "Econ Statistics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3949",
+        "room_desc": "Econom Fluctuation"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3950",
+        "room_desc": "Econometric Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3951",
+        "room_desc": "Econometrics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3952",
+        "room_desc": "Econometrics II"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3953",
+        "room_desc": "Econometrics-Thry/Applic I"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3954",
+        "room_desc": "Economic Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3955",
+        "room_desc": "Economic Aspects of Soc Policy"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3956",
+        "room_desc": "Economic Development I"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3957",
+        "room_desc": "Economic Development II"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3958",
+        "room_desc": "Economic History of Special"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3959",
+        "room_desc": "Economic Statistics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3960",
+        "room_desc": "Economic Statistics II"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3961",
+        "room_desc": "Economic Trade"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3962",
+        "room_desc": "Economics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3963",
+        "room_desc": "Economics of Health"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3964",
+        "room_desc": "Economics of the Welfare State"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3965",
+        "room_desc": "European Economic History"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3966",
+        "room_desc": "Finance"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3967",
+        "room_desc": "Financial Theory & Engineering"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3968",
+        "room_desc": "Firm Under Uncertty"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3969",
+        "room_desc": "Hist Economic Thgh"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3970",
+        "room_desc": "History of Economic Thought I"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3971",
+        "room_desc": "History of Economic Thought II"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3972",
+        "room_desc": "Human Resources"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3973",
+        "room_desc": "Independent Graduate Study"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3974",
+        "room_desc": "Independent Resch"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3975",
+        "room_desc": "Individual Research"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3976",
+        "room_desc": "Industrial Organization I"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3977",
+        "room_desc": "Industrial Organization II"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3978",
+        "room_desc": "Industrial Relations"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3979",
+        "room_desc": "Inequality3980: ECON,\"Inter Trd & Develop"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3981",
+        "room_desc": "International Economics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3982",
+        "room_desc": "International Finance"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3983",
+        "room_desc": "International Trade I"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3984",
+        "room_desc": "International Trade II"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3985",
+        "room_desc": "Intnl Econ I"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3986",
+        "room_desc": "Intro Econometrics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3987",
+        "room_desc": "Intro Macroeconomic Theory I"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3988",
+        "room_desc": "Intro Macroeconomic Theory II"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3989",
+        "room_desc": "Intro Microeconomic Theory I"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3990",
+        "room_desc": "Intro Microeconomic Theory II"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3991",
+        "room_desc": "Intro to Applied Econometrics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3992",
+        "room_desc": "Intro to Economics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3993",
+        "room_desc": "Intro to Macroeconomics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3994",
+        "room_desc": "Intro to Microeconomics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3995",
+        "room_desc": "Invest/Secur Mkts"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3996",
+        "room_desc": "Labor Economics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3997",
+        "room_desc": "Labor Economics II"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3998",
+        "room_desc": "Law and Economics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "3999",
+        "room_desc": "Location Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4000",
+        "room_desc": "Machine Learning for Econmists"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4001",
+        "room_desc": "Macro Eco Thry I"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4002",
+        "room_desc": "Macro Econ Thry Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4003",
+        "room_desc": "Macro-Econ Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4004",
+        "room_desc": "Macroecon Thry 1"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4005",
+        "room_desc": "Macroeconomic Theory I"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4006",
+        "room_desc": "Macroeconomics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4007",
+        "room_desc": "Macroeconommics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4008",
+        "room_desc": "Managerial Econ"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4009",
+        "room_desc": "Managerial Economics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4010",
+        "room_desc": "Marxist Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4011",
+        "room_desc": "Math For Economists"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4012",
+        "room_desc": "Mathematical Economics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4013",
+        "room_desc": "Mathematical Economics II"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4014",
+        "room_desc": "Mathematics for Economists"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4015",
+        "room_desc": "Micro Eco Thry Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4016",
+        "room_desc": "Microeconomic Theory I"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4017",
+        "room_desc": "Microeconomics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4018",
+        "room_desc": "Monetary Theory and Policy I"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4019",
+        "room_desc": "Monetary Theory and Policy II"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4020",
+        "room_desc": "Money & Banking"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4021",
+        "room_desc": "N S Relations"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4022",
+        "room_desc": "Optimal Decision Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4023",
+        "room_desc": "Panel Econometrics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4024",
+        "room_desc": "Pol Dev Latin Amer"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4025",
+        "room_desc": "Politcal Econ Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4026",
+        "room_desc": "Price Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4027",
+        "room_desc": "Princ of Econ: Macroeconomics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4028",
+        "room_desc": "Princ of Econ: Microeconomics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4029",
+        "room_desc": "Principles of Accounting I"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4030",
+        "room_desc": "Public Economics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4031",
+        "room_desc": "Public Finance"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4032",
+        "room_desc": "Public Finance I"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4033",
+        "room_desc": "Public Finance II"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4034",
+        "room_desc": "Public Goods and Coll Choice"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4035",
+        "room_desc": "Resch Sem Industrial Organztn"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4036",
+        "room_desc": "Resch Sem Labor Economics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4037",
+        "room_desc": "Resch Sem Monetary/Income Anal"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4038",
+        "room_desc": "Research Sem Economic Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4039",
+        "room_desc": "Sem Appl Econ Iii"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4040",
+        "room_desc": "Sem Applied Eco Iii"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4041",
+        "room_desc": "Sem Applied Econ Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4042",
+        "room_desc": "Sem in Empir Res in Macro Thry"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4043",
+        "room_desc": "Sem. Applied Economics III"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4044",
+        "room_desc": "Seminar Applied Economics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4045",
+        "room_desc": "Seminar Applied Economics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4046",
+        "room_desc": "Seminar Applied Economics II"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4047",
+        "room_desc": "Seminar Applied Economics III"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4048",
+        "room_desc": "Seminar in Empirical"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4049",
+        "room_desc": "Seminar in Urban Economics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4050",
+        "room_desc": "Seminar/Economics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4051",
+        "room_desc": "Soviet Economy"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4052",
+        "room_desc": "Spatial Econometrics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4053",
+        "room_desc": "Spec Topics in Micro Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4054",
+        "room_desc": "Special Topic"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4055",
+        "room_desc": "Special Topics in Macro Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4056",
+        "room_desc": "Stat Analy For Econ"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4057",
+        "room_desc": "Techs Of Eco Dev"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4058",
+        "room_desc": "The Economics of Uncertainty"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4059",
+        "room_desc": "Theories of Political Economy"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4060",
+        "room_desc": "Transportation & Economics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4061",
+        "room_desc": "Urban Economics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4062",
+        "room_desc": "Urban Economics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4063",
+        "room_desc": "Urban Economics II"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4064",
+        "room_desc": "Urban Location"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "4065",
+        "room_desc": "Wkshp in Family Decision Proc"
+    }
+]

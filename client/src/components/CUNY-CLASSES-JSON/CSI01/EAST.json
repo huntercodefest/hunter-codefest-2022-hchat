@@ -1,0 +1,26 @@
+[
+    {
+        "school": "CSI01",
+        "major": "EAST",
+        "room_num": "83957",
+        "room_desc": "East Asian Popular Cultures"
+    },
+    {
+        "school": "CSI01",
+        "major": "EAST",
+        "room_num": "83958",
+        "room_desc": "Eastern Philosophy"
+    },
+    {
+        "school": "CSI01",
+        "major": "EAST",
+        "room_num": "83959",
+        "room_desc": "Intro to Asian Phil Traditions"
+    },
+    {
+        "school": "CSI01",
+        "major": "EAST",
+        "room_num": "83960",
+        "room_desc": "Japanese Cinema: Theory & Hst"
+    }
+]

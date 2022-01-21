@@ -1,5 +1,5 @@
 import React from "react";
-import arrow_path from "../../public/backarrow.svg";
+import arrow_path from "../backarrow.svg";
 
 class BackButton extends React.Component {
 	constructor(props) {

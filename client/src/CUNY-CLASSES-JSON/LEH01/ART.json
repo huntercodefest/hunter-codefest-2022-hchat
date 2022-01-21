@@ -1,0 +1,512 @@
+[
+    {
+        "major": "ART",
+        "room_num": "10968",
+        "desc": "2D Design for Digital Media"
+    },
+    {
+        "major": "ART",
+        "room_num": "10969",
+        "desc": "Adv 2d Des-Digtl Med"
+    },
+    {
+        "major": "ART",
+        "room_num": "10970",
+        "desc": "Adv Ceramics III"
+    },
+    {
+        "major": "ART",
+        "room_num": "10971",
+        "desc": "Adv Digital Media 1"
+    },
+    {
+        "major": "ART",
+        "room_num": "10972",
+        "desc": "Adv Digital Media 2"
+    },
+    {
+        "major": "ART",
+        "room_num": "10973",
+        "desc": "Adv Digital Media 4"
+    },
+    {
+        "major": "ART",
+        "room_num": "10974",
+        "desc": "Adv Digital Media III"
+    },
+    {
+        "major": "ART",
+        "room_num": "10975",
+        "desc": "Advanced 2-Dimensional Design"
+    },
+    {
+        "major": "ART",
+        "room_num": "10976",
+        "desc": "Advanced Black-and-White Photo"
+    },
+    {
+        "major": "ART",
+        "room_num": "10977",
+        "desc": "Advanced Ceramic Techniques"
+    },
+    {
+        "major": "ART",
+        "room_num": "10978",
+        "desc": "Advanced Ceramics 1"
+    },
+    {
+        "major": "ART",
+        "room_num": "10979",
+        "desc": "Advanced Ceramics 2"
+    },
+    {
+        "major": "ART",
+        "room_num": "10980",
+        "desc": "Advanced Design"
+    },
+    {
+        "major": "ART",
+        "room_num": "10981",
+        "desc": "Advanced Drawing"
+    },
+    {
+        "major": "ART",
+        "room_num": "10982",
+        "desc": "Advanced Drawing for Animation"
+    },
+    {
+        "major": "ART",
+        "room_num": "10983",
+        "desc": "Advanced Life Drawing"
+    },
+    {
+        "major": "ART",
+        "room_num": "10984",
+        "desc": "Advanced Painting"
+    },
+    {
+        "major": "ART",
+        "room_num": "10985",
+        "desc": "Advanced Painting I"
+    },
+    {
+        "major": "ART",
+        "room_num": "10986",
+        "desc": "Advanced Painting II"
+    },
+    {
+        "major": "ART",
+        "room_num": "10987",
+        "desc": "Advanced Painting III"
+    },
+    {
+        "major": "ART",
+        "room_num": "10988",
+        "desc": "Advanced Painting IV"
+    },
+    {
+        "major": "ART",
+        "room_num": "10989",
+        "desc": "Advanced Photography I"
+    },
+    {
+        "major": "ART",
+        "room_num": "10990",
+        "desc": "Advanced Photography II"
+    },
+    {
+        "major": "ART",
+        "room_num": "10991",
+        "desc": "Advanced Printmaking I"
+    },
+    {
+        "major": "ART",
+        "room_num": "10992",
+        "desc": "Advanced Printmaking II"
+    },
+    {
+        "major": "ART",
+        "room_num": "10993",
+        "desc": "Advanced Printmaking III"
+    },
+    {
+        "major": "ART",
+        "room_num": "10994",
+        "desc": "Advanced Printmaking IV"
+    },
+    {
+        "major": "ART",
+        "room_num": "10995",
+        "desc": "Advanced Printmaking Workshop"
+    },
+    {
+        "major": "ART",
+        "room_num": "10996",
+        "desc": "Advanced Problems in Design I"
+    },
+    {
+        "major": "ART",
+        "room_num": "10997",
+        "desc": "Advanced Problems in Design II"
+    },
+    {
+        "major": "ART",
+        "room_num": "10998",
+        "desc": "Advanced Sculpture"
+    },
+    {
+        "major": "ART",
+        "room_num": "10999",
+        "desc": "Advanced Sculpture I"
+    },
+    {
+        "major": "ART",
+        "room_num": "11000",
+        "desc": "Advanced Sculpture II"
+    },
+    {
+        "major": "ART",
+        "room_num": "11001",
+        "desc": "Advanced Sculpture III"
+    },
+    {
+        "major": "ART",
+        "room_num": "11002",
+        "desc": "Advanced Sculpture IV"
+    },
+    {
+        "major": "ART",
+        "room_num": "11003",
+        "desc": "Advanced Stop Motion Animation"
+    },
+    {
+        "major": "ART",
+        "room_num": "11004",
+        "desc": "Advanced Watercolor"
+    },
+    {
+        "major": "ART",
+        "room_num": "11005",
+        "desc": "App.Imag&Applic-Wwwi"
+    },
+    {
+        "major": "ART",
+        "room_num": "11006",
+        "desc": "Applied Imaging&App to WWW II"
+    },
+    {
+        "major": "ART",
+        "room_num": "11007",
+        "desc": "Bachelor of Fine Arts Thesis I"
+    },
+    {
+        "major": "ART",
+        "room_num": "11008",
+        "desc": "Bachelorof Fine Arts Thesis II"
+    },
+    {
+        "major": "ART",
+        "room_num": "11009",
+        "desc": "Basic Drawing"
+    },
+    {
+        "major": "ART",
+        "room_num": "11010",
+        "desc": "Broadcast Design"
+    },
+    {
+        "major": "ART",
+        "room_num": "11011",
+        "desc": "Ceramic Sculpture"
+    },
+    {
+        "major": "ART",
+        "room_num": "11012",
+        "desc": "Ceramics I"
+    },
+    {
+        "major": "ART",
+        "room_num": "11013",
+        "desc": "Ceramics II"
+    },
+    {
+        "major": "ART",
+        "room_num": "11014",
+        "desc": "Ceramics III"
+    },
+    {
+        "major": "ART",
+        "room_num": "11015",
+        "desc": "Comp Model & Design II"
+    },
+    {
+        "major": "ART",
+        "room_num": "11016",
+        "desc": "Computer Animation I"
+    },
+    {
+        "major": "ART",
+        "room_num": "11017",
+        "desc": "Computer Animation II"
+    },
+    {
+        "major": "ART",
+        "room_num": "11018",
+        "desc": "Computer Modeling & Design II"
+    },
+    {
+        "major": "ART",
+        "room_num": "11019",
+        "desc": "Computer Modeling and Design"
+    },
+    {
+        "major": "ART",
+        "room_num": "11020",
+        "desc": "Computer Modeling and Design I"
+    },
+    {
+        "major": "ART",
+        "room_num": "11021",
+        "desc": "Design"
+    },
+    {
+        "major": "ART",
+        "room_num": "11022",
+        "desc": "Digital Media Prod:Advc-Narrtv"
+    },
+    {
+        "major": "ART",
+        "room_num": "11023",
+        "desc": "Digital Media Prod:TheoryPract"
+    },
+    {
+        "major": "ART",
+        "room_num": "11024",
+        "desc": "Digital Multimedia"
+    },
+    {
+        "major": "ART",
+        "room_num": "11025",
+        "desc": "Drawing"
+    },
+    {
+        "major": "ART",
+        "room_num": "11026",
+        "desc": "Drawing for Animation"
+    },
+    {
+        "major": "ART",
+        "room_num": "11027",
+        "desc": "Elmnts Of Visual Com"
+    },
+    {
+        "major": "ART",
+        "room_num": "11028",
+        "desc": "Field Methods in Photography"
+    },
+    {
+        "major": "ART",
+        "room_num": "11029",
+        "desc": "First-Year Graduate Seminar"
+    },
+    {
+        "major": "ART",
+        "room_num": "11030",
+        "desc": "Fund Wheel Thrown Ceramics"
+    },
+    {
+        "major": "ART",
+        "room_num": "11031",
+        "desc": "Fund.Ceram.Hand Bldg"
+    },
+    {
+        "major": "ART",
+        "room_num": "11032",
+        "desc": "Imaging/Appl To Www1"
+    },
+    {
+        "major": "ART",
+        "room_num": "11033",
+        "desc": "Ind Std Comp Imaging"
+    },
+    {
+        "major": "ART",
+        "room_num": "11034",
+        "desc": "Independent Research"
+    },
+    {
+        "major": "ART",
+        "room_num": "11035",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "ART",
+        "room_num": "11036",
+        "desc": "Intro Digital Imaging"
+    },
+    {
+        "major": "ART",
+        "room_num": "11037",
+        "desc": "Intro to 2-Dimensional Design"
+    },
+    {
+        "major": "ART",
+        "room_num": "11038",
+        "desc": "Intro to Digital Imaging"
+    },
+    {
+        "major": "ART",
+        "room_num": "11039",
+        "desc": "Intro-3 Dimensional Design"
+    },
+    {
+        "major": "ART",
+        "room_num": "11040",
+        "desc": "Introduction to Animation"
+    },
+    {
+        "major": "ART",
+        "room_num": "11041",
+        "desc": "Introduction to Painting"
+    },
+    {
+        "major": "ART",
+        "room_num": "11042",
+        "desc": "Introduction to Photography"
+    },
+    {
+        "major": "ART",
+        "room_num": "11043",
+        "desc": "Introduction to Printmaking"
+    },
+    {
+        "major": "ART",
+        "room_num": "11044",
+        "desc": "Introduction to Sculpture"
+    },
+    {
+        "major": "ART",
+        "room_num": "11045",
+        "desc": "Life Drawing"
+    },
+    {
+        "major": "ART",
+        "room_num": "11046",
+        "desc": "Masters Project"
+    },
+    {
+        "major": "ART",
+        "room_num": "11047",
+        "desc": "Master\u2019S Studio/Sem."
+    },
+    {
+        "major": "ART",
+        "room_num": "11048",
+        "desc": "Master\u2019s Thesis I"
+    },
+    {
+        "major": "ART",
+        "room_num": "11049",
+        "desc": "Master\u2019s Thesis II"
+    },
+    {
+        "major": "ART",
+        "room_num": "11050",
+        "desc": "Mechanical Drawing"
+    },
+    {
+        "major": "ART",
+        "room_num": "11051",
+        "desc": "Observation & the Visual Exp"
+    },
+    {
+        "major": "ART",
+        "room_num": "11052",
+        "desc": "Painting"
+    },
+    {
+        "major": "ART",
+        "room_num": "11053",
+        "desc": "Photography"
+    },
+    {
+        "major": "ART",
+        "room_num": "11054",
+        "desc": "Portraiture in Painting"
+    },
+    {
+        "major": "ART",
+        "room_num": "11055",
+        "desc": "Printmaking Workshop"
+    },
+    {
+        "major": "ART",
+        "room_num": "11056",
+        "desc": "Profess Exp in the Fine Arts"
+    },
+    {
+        "major": "ART",
+        "room_num": "11057",
+        "desc": "Professional Pract-Visual Arts"
+    },
+    {
+        "major": "ART",
+        "room_num": "11058",
+        "desc": "Relativity of Color"
+    },
+    {
+        "major": "ART",
+        "room_num": "11059",
+        "desc": "Sculpture"
+    },
+    {
+        "major": "ART",
+        "room_num": "11060",
+        "desc": "Sem In Contempy Art"
+    },
+    {
+        "major": "ART",
+        "room_num": "11061",
+        "desc": "Seminar In Contemporary Art"
+    },
+    {
+        "major": "ART",
+        "room_num": "11062",
+        "desc": "Senior Project"
+    },
+    {
+        "major": "ART",
+        "room_num": "11063",
+        "desc": "Special Topics in Studio Art"
+    },
+    {
+        "major": "ART",
+        "room_num": "11064",
+        "desc": "Studio Photography"
+    },
+    {
+        "major": "ART",
+        "room_num": "11065",
+        "desc": "The Artist\u2019s Multiple"
+    },
+    {
+        "major": "ART",
+        "room_num": "11066",
+        "desc": "The Fine Print"
+    },
+    {
+        "major": "ART",
+        "room_num": "11067",
+        "desc": "Topics in Computer Imaging"
+    },
+    {
+        "major": "ART",
+        "room_num": "11068",
+        "desc": "Variable Topics in Studio Art"
+    },
+    {
+        "major": "ART",
+        "room_num": "11069",
+        "desc": "Watercolor"
+    }
+]

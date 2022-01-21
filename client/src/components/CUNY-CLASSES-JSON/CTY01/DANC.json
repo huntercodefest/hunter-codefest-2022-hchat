@@ -1,0 +1,314 @@
+[
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34380",
+        "room_desc": "Aerobic Dance"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34381",
+        "room_desc": "Anatomy/Kinesiology"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34382",
+        "room_desc": "Ballet Technique 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34383",
+        "room_desc": "Ballet Technique 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34384",
+        "room_desc": "Ballet Technique 3"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34385",
+        "room_desc": "Ballet Technque 4"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34386",
+        "room_desc": "Choreography 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34387",
+        "room_desc": "Choreography 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34388",
+        "room_desc": "Citidance 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34389",
+        "room_desc": "Citidance 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34390",
+        "room_desc": "Composition"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34391",
+        "room_desc": "Dance & Design"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34392",
+        "room_desc": "Dance Anal & Crit"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34393",
+        "room_desc": "Dance History"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34394",
+        "room_desc": "Dance History 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34395",
+        "room_desc": "Dance History 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34396",
+        "room_desc": "Dance Partnering"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34397",
+        "room_desc": "Dance Research Meth"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34398",
+        "room_desc": "Dance Workshop Proj"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34399",
+        "room_desc": "Dnce Dir & Chorog 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34400",
+        "room_desc": "Dnce Dir & Chorog 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34401",
+        "room_desc": "Folk & Natnl Dances"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34402",
+        "room_desc": "Improvisation"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34403",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34404",
+        "room_desc": "Intro Modrn Dance 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34405",
+        "room_desc": "Intro Modrn Dance 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34406",
+        "room_desc": "Intro To Ballet"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34407",
+        "room_desc": "Intro To Ballet 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34408",
+        "room_desc": "Jazz"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34409",
+        "room_desc": "Jazz Dance 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34410",
+        "room_desc": "Labanotation 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34411",
+        "room_desc": "Labnotation 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34412",
+        "room_desc": "Mod Dnce Technque 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34413",
+        "room_desc": "Mod Dnce Technque 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34414",
+        "room_desc": "Mod Dnce Technque 3"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34415",
+        "room_desc": "Mod Dnce Technque 4"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34416",
+        "room_desc": "Mod Dnce Technque 5"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34417",
+        "room_desc": "Mod Dnce Technque 6"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34418",
+        "room_desc": "Mod Dnce Technque 7"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34419",
+        "room_desc": "Mod Dnce Technque 8"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34420",
+        "room_desc": "Modern Dance"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34421",
+        "room_desc": "Music For Dancers"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34422",
+        "room_desc": "Musical Thtr Wrkshp"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34423",
+        "room_desc": "New & Reptory Wks 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34424",
+        "room_desc": "New & Reptory Wks 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34425",
+        "room_desc": "New & Reptory Works"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34426",
+        "room_desc": "Notation Studies 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34427",
+        "room_desc": "Notation Studies 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34428",
+        "room_desc": "Proj:Choreog & Dir"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34429",
+        "room_desc": "Proj:Dance History"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34430",
+        "room_desc": "Proj:Dnce Criticism"
+    },
+    {
+        "school": "CTY01",
+        "major": "DANC",
+        "room_num": "34431",
+        "room_desc": "Projects Notation 1"
+    }
+]

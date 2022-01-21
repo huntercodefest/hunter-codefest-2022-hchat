@@ -1,0 +1,907 @@
+[
+    {
+        "major": "CRIM",
+        "room_num": "19896",
+        "desc": "Advanced Criminology"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19897",
+        "desc": "Advanced Penology"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19898",
+        "desc": "Agency Analysis"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19899",
+        "desc": "Alcohol & Drug Use"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19900",
+        "desc": "American Cj System"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19901",
+        "desc": "An Economic Analysis of Crime"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19902",
+        "desc": "Capital Punishment"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19903",
+        "desc": "Capstone Seminar"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19904",
+        "desc": "Change & Innovatn Cj"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19905",
+        "desc": "Cj Eur 1750-Presn"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19906",
+        "desc": "Cj Theor In Practice"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19907",
+        "desc": "Cmp Prg Mgmt&Anly"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19908",
+        "desc": "Colloq Mj Wks Crj"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19909",
+        "desc": "Commty & Gender Viol"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19910",
+        "desc": "Comparative Police Admin"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19911",
+        "desc": "Comprehensive Review"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19912",
+        "desc": "Computer App in Pub Pol"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19913",
+        "desc": "Computer Apps In Cj"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19914",
+        "desc": "Computer Security"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19915",
+        "desc": "Constut & Crimnl Jstc"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19916",
+        "desc": "Corporal Punishment"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19917",
+        "desc": "Corporate Crime"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19918",
+        "desc": "Corruption & Reform"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19919",
+        "desc": "Counseling Rehab Offenders"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19920",
+        "desc": "Counter Terrorism Law Enfrcmnt"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19921",
+        "desc": "Counter Terrorism Policy"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19922",
+        "desc": "Crim Just Intern Exp"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19923",
+        "desc": "Crim Justice Tr Cred"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19924",
+        "desc": "Crime Analysis & Prevention"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19925",
+        "desc": "Crime And Media"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19926",
+        "desc": "Crime Mapping"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19927",
+        "desc": "Crime Prevention"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19928",
+        "desc": "Crime Prevention and Control"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19929",
+        "desc": "Crime Scene Investigation"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19930",
+        "desc": "Crime&Justice In Nyc"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19931",
+        "desc": "Crimes Due Obedience"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19932",
+        "desc": "Criminal Law"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19933",
+        "desc": "Criminal Responsibility"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19934",
+        "desc": "Criminal Thesis Prospectus"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19935",
+        "desc": "Crit Iss Disp Res"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19936",
+        "desc": "Cross Nat Compar Crm"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19937",
+        "desc": "Cutting Edge Criminology"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19938",
+        "desc": "Cyber-Criminology"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19939",
+        "desc": "Cybercriminology"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19940",
+        "desc": "Death Penalty: Law and Policy"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19941",
+        "desc": "Defender\u2019s Lab"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19942",
+        "desc": "Deviant Behavior"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19943",
+        "desc": "Dimensions of Justice"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19944",
+        "desc": "Domestic Violence"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19945",
+        "desc": "Drugs19946: CRIM,\"Environmental Crimin"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19947",
+        "desc": "Espionage In America"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19948",
+        "desc": "Ethical Issues in Crim Justice"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19949",
+        "desc": "Ethnography-Criminology"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19950",
+        "desc": "Eval & Monitor of Sub Abuse"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19951",
+        "desc": "Evidence Generation"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19952",
+        "desc": "Fac Mentored Research Experien"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19953",
+        "desc": "Fac-Mentored Research in CRJ"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19954",
+        "desc": "Fbi Internship"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19955",
+        "desc": "Fem Off West Soc"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19956",
+        "desc": "Feminist Criminology"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19957",
+        "desc": "Field Work In Cj"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19958",
+        "desc": "Field Work in Criminal Justice"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19959",
+        "desc": "Gangs in American Society"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19960",
+        "desc": "Gender & Imprisonmnt"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19961",
+        "desc": "Gender And Violence"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19962",
+        "desc": "Hate Incidents and Crimes"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19963",
+        "desc": "Hist Pers Viol Crime"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19964",
+        "desc": "Hist of Police Admin"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19965",
+        "desc": "History Crim Justice"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19966",
+        "desc": "History Of Genocide"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19967",
+        "desc": "Hlth Iss Correction"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19968",
+        "desc": "Hm Sec & Intl Relati"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19969",
+        "desc": "Homeland Sec & Intl Relations"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19970",
+        "desc": "Homeland Sec & Terro"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19971",
+        "desc": "Homeland Security"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19972",
+        "desc": "Hostage Negotiation"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19973",
+        "desc": "Immigration Law"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19974",
+        "desc": "Immigration&Crime"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19975",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19976",
+        "desc": "Independent Study 200-level"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19977",
+        "desc": "Independent Study 300-level"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19978",
+        "desc": "Independent Study 400-level"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19979",
+        "desc": "Intensive Seminar in Terrorism"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19980",
+        "desc": "Interdisc Crj"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19981",
+        "desc": "Internship Crim Just"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19982",
+        "desc": "Internship Crim Just Law Polic"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19983",
+        "desc": "Intro Crim Just"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19984",
+        "desc": "Investigating Cybercrime"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19985",
+        "desc": "Investigation of Violent Crime"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19986",
+        "desc": "Investigative Techniques"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19987",
+        "desc": "Issues In Crj I"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19988",
+        "desc": "Issues In Crj II"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19989",
+        "desc": "Jud Oversght Law Enf"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19990",
+        "desc": "Jud Ovrsght Law Enf"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19991",
+        "desc": "Judic&Corr Ethics"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19992",
+        "desc": "Judicial Ovrsight Le"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19993",
+        "desc": "Just Adm & Plan"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19994",
+        "desc": "Justice Planning & Policies"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19995",
+        "desc": "Justice and Reform"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19996",
+        "desc": "Law & High Tech Crim"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19997",
+        "desc": "Law & Society"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "19998",
+        "desc": "Law19999: CRIM,\"Legal Aspects of UC Activity"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20000",
+        "desc": "Lit of Crime & Justice"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20001",
+        "desc": "Major Cj Problems I"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20002",
+        "desc": "Major Cj Problems II"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20003",
+        "desc": "Mental Health Sysm"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20004",
+        "desc": "Mentoring Intern 1"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20005",
+        "desc": "Mentoring Intrn 2"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20006",
+        "desc": "NYPD Leadership Skills I"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20007",
+        "desc": "NYPD Leadership Skills II"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20008",
+        "desc": "NYPD Leadership Skills III"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20009",
+        "desc": "NYPD Leadership Skills IV"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20010",
+        "desc": "Organized Crime"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20011",
+        "desc": "Passed Comp Exam"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20012",
+        "desc": "Police Ethics"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20013",
+        "desc": "Police Leadership"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20014",
+        "desc": "Police&Community"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20015",
+        "desc": "Police&Culture of Lawlessness"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20016",
+        "desc": "Policy Analysis Crj"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20017",
+        "desc": "Pre-Fresh Intro Cj"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20018",
+        "desc": "Prob In Pol Admin"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20019",
+        "desc": "Prob Of Crim Just"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20020",
+        "desc": "Prob-Oriented Policing"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20021",
+        "desc": "Probation and Parole"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20022",
+        "desc": "Problm Solving Court"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20023",
+        "desc": "Probs in Contemporary Correct"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20024",
+        "desc": "Prosecuting Crime"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20025",
+        "desc": "Prosecuting Crimes"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20026",
+        "desc": "Psych & Law"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20027",
+        "desc": "Public Health Challenges in Cr"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20028",
+        "desc": "Punishment and Responsibility"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20029",
+        "desc": "Quantitative Inquiry"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20030",
+        "desc": "Quantitative Inquiry II"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20031",
+        "desc": "Race & Crime"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20032",
+        "desc": "Race & Crime In Amer"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20033",
+        "desc": "Race Crime & Justice"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20034",
+        "desc": "Race20035: CRIM,\"Readings in Research"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20036",
+        "desc": "Res Meth In Cj"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20037",
+        "desc": "Research Design and Methods"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20038",
+        "desc": "Rights of the Accused"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20039",
+        "desc": "Rsrch Methds/Sta Crj"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20040",
+        "desc": "Sem Civil Rgts Lib"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20041",
+        "desc": "Semin Punish Society"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20042",
+        "desc": "Seminar In Terrorism Studies"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20043",
+        "desc": "Seminar Selc Topics"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20044",
+        "desc": "Seminar in Terrorism Studies"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20045",
+        "desc": "Senior Thesis I"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20046",
+        "desc": "Senior Thesis II"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20047",
+        "desc": "Sentencing"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20048",
+        "desc": "September 11th"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20049",
+        "desc": "Sex Crimes"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20050",
+        "desc": "Soc Mov-Revol & Ter"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20051",
+        "desc": "Soc Violence & Moral"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20052",
+        "desc": "Sociology of Crime"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20053",
+        "desc": "Sociology of Delinquency"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20054",
+        "desc": "Space20055: CRIM,\"Special Topics In CRJ"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20056",
+        "desc": "Special Topics In Cj"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20057",
+        "desc": "Stat Software in Crim Justice"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20058",
+        "desc": "Terror & Apocalyptic Violence"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20059",
+        "desc": "Terrorism & Security"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20060",
+        "desc": "Terrorism and Cultures"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20061",
+        "desc": "Terrorism and Politics"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20062",
+        "desc": "The American Jury"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20063",
+        "desc": "The History of Crime"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20064",
+        "desc": "Theories Terrorism"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20065",
+        "desc": "Unders Crim Behavior"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20066",
+        "desc": "Urb. Youth & Crime"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20067",
+        "desc": "Urban Violence"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20068",
+        "desc": "Us Intelligence"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20069",
+        "desc": "Victimology"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20070",
+        "desc": "Violence Across Globe"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20071",
+        "desc": "Violent Crime Investigation"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20072",
+        "desc": "Violnce Across Globe"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20073",
+        "desc": "White Collar Crime"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20074",
+        "desc": "Wildlife Crime"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20075",
+        "desc": "Women & Terrorism"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20076",
+        "desc": "Women Public Uniform"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20077",
+        "desc": "Women and Crime"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20078",
+        "desc": "Women and Criminal Justice"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20079",
+        "desc": "Writing for Management"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "20080",
+        "desc": "Youth Crime & Delinq Control"
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "major": "CLLS",
+        "room_num": "15541",
+        "desc": "Advanced Hematology"
+    },
+    {
+        "major": "CLLS",
+        "room_num": "15542",
+        "desc": "Anat & Phys"
+    },
+    {
+        "major": "CLLS",
+        "room_num": "15543",
+        "desc": "Clinical Bacteriology"
+    },
+    {
+        "major": "CLLS",
+        "room_num": "15544",
+        "desc": "Clinical Chemistry"
+    },
+    {
+        "major": "CLLS",
+        "room_num": "15545",
+        "desc": "Clinical Immunoserology"
+    },
+    {
+        "major": "CLLS",
+        "room_num": "15546",
+        "desc": "Clinical Internshp 1"
+    },
+    {
+        "major": "CLLS",
+        "room_num": "15547",
+        "desc": "Clinical Lab Internship II"
+    },
+    {
+        "major": "CLLS",
+        "room_num": "15548",
+        "desc": "Coagulation"
+    },
+    {
+        "major": "CLLS",
+        "room_num": "15549",
+        "desc": "Diagnostic Technique"
+    },
+    {
+        "major": "CLLS",
+        "room_num": "15550",
+        "desc": "Immuno-Hematology"
+    },
+    {
+        "major": "CLLS",
+        "room_num": "15551",
+        "desc": "Intro Hematology/Phlebotomy"
+    },
+    {
+        "major": "CLLS",
+        "room_num": "15552",
+        "desc": "Mycology&Parasitolgy"
+    },
+    {
+        "major": "CLLS",
+        "room_num": "15553",
+        "desc": "Seminar Prof Issues"
+    },
+    {
+        "major": "CLLS",
+        "room_num": "15554",
+        "desc": "Tissue Techniques"
+    },
+    {
+        "major": "CLLS",
+        "room_num": "15555",
+        "desc": "Urinalysis and Body Fluids"
+    }
+]

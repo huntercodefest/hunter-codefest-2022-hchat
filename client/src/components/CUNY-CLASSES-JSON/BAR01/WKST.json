@@ -1,0 +1,20 @@
+[
+    {
+        "school": "BAR01",
+        "major": "WKST",
+        "room_num": "62684",
+        "room_desc": "Intro To The Wrkplce"
+    },
+    {
+        "school": "BAR01",
+        "major": "WKST",
+        "room_num": "62685",
+        "room_desc": "Intro to Workplace III"
+    },
+    {
+        "school": "BAR01",
+        "major": "WKST",
+        "room_num": "62686",
+        "room_desc": "Introduction to Workplace II"
+    }
+]

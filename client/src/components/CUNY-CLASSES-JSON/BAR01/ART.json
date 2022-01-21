@@ -1,0 +1,398 @@
+[
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59072",
+        "room_desc": "African Art"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59073",
+        "room_desc": "Animation and Motion Graphics"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59074",
+        "room_desc": "Architecture and the City"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59075",
+        "room_desc": "Art Advanced Elec"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59076",
+        "room_desc": "Art History Survey I"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59077",
+        "room_desc": "Art History Survey II"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59078",
+        "room_desc": "Art Honors III"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59079",
+        "room_desc": "Art Of The 19th Cent"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59080",
+        "room_desc": "Art Survey"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59081",
+        "room_desc": "Art of the United States"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59082",
+        "room_desc": "Asian Art"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59083",
+        "room_desc": "Baroque and Rococo Art"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59084",
+        "room_desc": "Basic Drawing"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59085",
+        "room_desc": "Basic Graphic Commun"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59086",
+        "room_desc": "Basic Painting"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59087",
+        "room_desc": "Basic Photography"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59088",
+        "room_desc": "Basic Sculpture"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59089",
+        "room_desc": "Capstone: Design/Pho"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59090",
+        "room_desc": "Computer Based Image"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59091",
+        "room_desc": "Computer-Based Graphic Design"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59092",
+        "room_desc": "Corporate Design"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59093",
+        "room_desc": "Corporate Design II"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59094",
+        "room_desc": "Digital Photography"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59095",
+        "room_desc": "Graph Comm: Illustra"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59096",
+        "room_desc": "Graphic Comm Int II"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59097",
+        "room_desc": "Graphic Communic Int"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59098",
+        "room_desc": "Greek and Roman Art"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59099",
+        "room_desc": "History of Modern Architecture"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59100",
+        "room_desc": "History of Modern Design"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59101",
+        "room_desc": "History of Photography"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59102",
+        "room_desc": "Honors - Art History Survey I"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59103",
+        "room_desc": "Honors Art History Survey II"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59104",
+        "room_desc": "Honors Art II"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59105",
+        "room_desc": "Honors Digital Photo"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59106",
+        "room_desc": "Honors Special Topics in Art H"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59107",
+        "room_desc": "Honors in Art I"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59108",
+        "room_desc": "Honors- Special Topics in Art"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59109",
+        "room_desc": "Independent Study Art I"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59110",
+        "room_desc": "Independent Study Art II"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59111",
+        "room_desc": "Independent Study Art III"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59112",
+        "room_desc": "Independent Study Art IV"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59113",
+        "room_desc": "Independent Study Art V"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59114",
+        "room_desc": "Intermediate Drawing"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59115",
+        "room_desc": "Intermediate Graphic Communica"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59116",
+        "room_desc": "Intermediate Photography"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59117",
+        "room_desc": "Intro Arts Administ"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59118",
+        "room_desc": "Intro Design Visual"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59119",
+        "room_desc": "Islamic Art"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59120",
+        "room_desc": "Medieval Art"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59121",
+        "room_desc": "Modern Latin American Art"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59122",
+        "room_desc": "Museums and Gallery Studies"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59123",
+        "room_desc": "Native Art of the Americas"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59124",
+        "room_desc": "Photojournalism"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59125",
+        "room_desc": "Principles of Internet Design"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59126",
+        "room_desc": "Principles of Visual Art (2D)"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59127",
+        "room_desc": "Principles of Visual Art (3D)"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59128",
+        "room_desc": "Print Production"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59129",
+        "room_desc": "Renaissance Art"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59130",
+        "room_desc": "Senior Seminar"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59131",
+        "room_desc": "Spec Tops In Art His"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59132",
+        "room_desc": "Special Topics in Art (Studio)"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59133",
+        "room_desc": "The Art Market"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59134",
+        "room_desc": "Twentieth-Century Art"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59135",
+        "room_desc": "Typography:His & App"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59136",
+        "room_desc": "Typogrphy His & Appl"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "59137",
+        "room_desc": "Visual Arts On Film"
+    }
+]

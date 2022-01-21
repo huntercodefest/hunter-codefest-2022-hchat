@@ -1,0 +1,38 @@
+[
+    {
+        "school": "BMC01",
+        "major": "NURS",
+        "room_num": "18801",
+        "room_desc": "Comp Nursing Care"
+    },
+    {
+        "school": "BMC01",
+        "major": "NURS",
+        "room_num": "18802",
+        "room_desc": "Fund. Of Nursing"
+    },
+    {
+        "school": "BMC01",
+        "major": "NURS",
+        "room_num": "18803",
+        "room_desc": "Nursing Process IV"
+    },
+    {
+        "school": "BMC01",
+        "major": "NURS",
+        "room_num": "18804",
+        "room_desc": "Ob & Psy Nur Care"
+    },
+    {
+        "school": "BMC01",
+        "major": "NURS",
+        "room_num": "18805",
+        "room_desc": "Ped & Med Surg Care"
+    },
+    {
+        "school": "BMC01",
+        "major": "NURS",
+        "room_num": "18806",
+        "room_desc": "Pro Issue Contmp Nursing Pract"
+    }
+]

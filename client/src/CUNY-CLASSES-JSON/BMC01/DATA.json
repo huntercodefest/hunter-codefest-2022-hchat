@@ -1,0 +1,327 @@
+[
+    {
+        "major": "DATA",
+        "room_num": "17615",
+        "desc": "A L P For Ibm 360"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17616",
+        "desc": "Accelerated D P"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17617",
+        "desc": "Adv Cobol Program"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17618",
+        "desc": "Adv Comp Operations"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17619",
+        "desc": "Adv Computer Ops"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17620",
+        "desc": "Adv Medical Comp Record"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17621",
+        "desc": "Adv Rpg Programming"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17622",
+        "desc": "Advanced COBOL"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17623",
+        "desc": "Assemb Lang & Arch"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17624",
+        "desc": "Assembler Lang Prog"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17625",
+        "desc": "Basic"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17626",
+        "desc": "Basic COBOL Programming"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17627",
+        "desc": "Basic Cobol"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17628",
+        "desc": "Basic Computer Ops"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17629",
+        "desc": "Basic Ibm 360 Ops"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17630",
+        "desc": "Basic Report Program Generator"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17631",
+        "desc": "Basic Rpg Program"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17632",
+        "desc": "C"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17633",
+        "desc": "Cics On Line Sys Pg"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17634",
+        "desc": "Cobol"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17635",
+        "desc": "Cobol II"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17636",
+        "desc": "Cobol Programming"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17637",
+        "desc": "Comp/ In Society"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17638",
+        "desc": "Computer & Society"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17639",
+        "desc": "Computer Concepts"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17640",
+        "desc": "Computer Operations"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17641",
+        "desc": "Computers & Prog"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17642",
+        "desc": "D P Systems And App"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17643",
+        "desc": "DAT Directed Study"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17644",
+        "desc": "Dat Directed Study"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17645",
+        "desc": "Data Base Applicat"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17646",
+        "desc": "Data Structrues"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17647",
+        "desc": "Database"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17648",
+        "desc": "File Handling"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17649",
+        "desc": "Fortran"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17650",
+        "desc": "Fortran IV"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17651",
+        "desc": "Gen Cobol Program"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17652",
+        "desc": "Intro Comp Applicat"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17653",
+        "desc": "Intro Comp Graphics"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17654",
+        "desc": "Intro To D P"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17655",
+        "desc": "Intro To Data Proc"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17656",
+        "desc": "Intro To Ibm Comp"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17657",
+        "desc": "Intro to Common Med Recurr"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17658",
+        "desc": "Intro to Computer Science"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17659",
+        "desc": "Job Control Lang"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17660",
+        "desc": "Management Systems"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17661",
+        "desc": "Med Recrd Appl D P"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17662",
+        "desc": "On-Line Operations"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17663",
+        "desc": "Operating Systems"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17664",
+        "desc": "Operating Systems Concepts"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17665",
+        "desc": "Operations For IBM 360 Comp"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17666",
+        "desc": "Operations Implemnt"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17667",
+        "desc": "Operations Mgt."
+    },
+    {
+        "major": "DATA",
+        "room_num": "17668",
+        "desc": "Pl/1 Prog Lang/One"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17669",
+        "desc": "Programm Language I"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17670",
+        "desc": "R.P.G. & D.O.S Conc IBM 360"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17671",
+        "desc": "Rpg Programming"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17672",
+        "desc": "Spreadsheet Pkges"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17673",
+        "desc": "Survey Data Proc"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17674",
+        "desc": "Systems Analysis"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17675",
+        "desc": "Systems Development"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17676",
+        "desc": "Systems Development/Procedures"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17677",
+        "desc": "Systems Implement"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17678",
+        "desc": "Time Share Systems"
+    },
+    {
+        "major": "DATA",
+        "room_num": "17679",
+        "desc": "Unix"
+    }
+]

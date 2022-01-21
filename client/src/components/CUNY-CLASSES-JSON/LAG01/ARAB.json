@@ -1,0 +1,50 @@
+[
+    {
+        "school": "LAG01",
+        "major": "ARAB",
+        "room_num": "81222",
+        "room_desc": "Arab Cinema"
+    },
+    {
+        "school": "LAG01",
+        "major": "ARAB",
+        "room_num": "81223",
+        "room_desc": "Arab Lit Trans"
+    },
+    {
+        "school": "LAG01",
+        "major": "ARAB",
+        "room_num": "81224",
+        "room_desc": "Arabic for Heritage Speakers"
+    },
+    {
+        "school": "LAG01",
+        "major": "ARAB",
+        "room_num": "81225",
+        "room_desc": "Elementary Arabic I"
+    },
+    {
+        "school": "LAG01",
+        "major": "ARAB",
+        "room_num": "81226",
+        "room_desc": "Elementary Arabic II"
+    },
+    {
+        "school": "LAG01",
+        "major": "ARAB",
+        "room_num": "81227",
+        "room_desc": "Intermediate Arabic"
+    },
+    {
+        "school": "LAG01",
+        "major": "ARAB",
+        "room_num": "81228",
+        "room_desc": "Intermediate Arabic 2"
+    },
+    {
+        "school": "LAG01",
+        "major": "ARAB",
+        "room_num": "81229",
+        "room_desc": "Modern Arabic Literature"
+    }
+]

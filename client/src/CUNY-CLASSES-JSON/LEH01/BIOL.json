@@ -1,0 +1,647 @@
+[
+    {
+        "major": "BIOL",
+        "room_num": "11129",
+        "desc": "Advanced Oceanography"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11130",
+        "desc": "Advanced Study"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11131",
+        "desc": "Anatomy and Physiology I"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11132",
+        "desc": "Anatomy and Physiology II"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11133",
+        "desc": "Bio Data Analysis&Intrprtation"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11134",
+        "desc": "Biochem Of Diffrentn"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11135",
+        "desc": "Biogeography"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11136",
+        "desc": "Bioinformatics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11137",
+        "desc": "Biological Chemistry"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11138",
+        "desc": "Biological Data Analysis/Inte"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11139",
+        "desc": "Biological Fine Structure"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11140",
+        "desc": "Biological Systematics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11141",
+        "desc": "Biology Journal Review"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11142",
+        "desc": "Biology Seminar"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11143",
+        "desc": "Biology of Aquatic Organisms"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11144",
+        "desc": "Biostatistics."
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11145",
+        "desc": "Cell Bio & Electron Microscopy"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11146",
+        "desc": "Cell Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11147",
+        "desc": "Cell Phys & Biochem"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11148",
+        "desc": "Cell Physiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11149",
+        "desc": "Colloquium"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11150",
+        "desc": "Com Morp Vas Pl-Lec"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11151",
+        "desc": "Comp Anat Of Verteb"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11152",
+        "desc": "Comp Physio & Biochem"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11153",
+        "desc": "Comparative Animal Physiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11154",
+        "desc": "Comparative Morphology-Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11155",
+        "desc": "Cytology: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11156",
+        "desc": "Drugs11157: BIOL,\"Ecology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11158",
+        "desc": "Endocrine Physiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11159",
+        "desc": "Evol of Fem/Male Behavior Pref"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11160",
+        "desc": "Evoltn11161: BIOL,\"Exper. Parasit:Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11162",
+        "desc": "Exper. Parasit:Lec."
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11163",
+        "desc": "Experimental Microbiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11164",
+        "desc": "Explorations in Biology Media"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11165",
+        "desc": "Fish & Fisheries Bio: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11166",
+        "desc": "Fish&Fishres Bio-Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11167",
+        "desc": "Flowering Plants"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11168",
+        "desc": "Genetics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11169",
+        "desc": "Genetics of Man"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11170",
+        "desc": "Genomics and Human Health"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11171",
+        "desc": "Grntsmnshp-art dev rsrch prpsl"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11172",
+        "desc": "Growth & Dev High Plants"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11173",
+        "desc": "Growth&Dev of Lower Plants"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11174",
+        "desc": "Honors in Biological Sciences"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11175",
+        "desc": "Human Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11176",
+        "desc": "Human Biology of Systems"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11177",
+        "desc": "Human Body & Brain Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11178",
+        "desc": "Human Body and Brain"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11179",
+        "desc": "Human Physiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11180",
+        "desc": "Ichthyology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11181",
+        "desc": "Ichthyology Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11182",
+        "desc": "Independent Doctoral Research"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11183",
+        "desc": "Intro Experimntl Bio"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11184",
+        "desc": "Intro-Ecologicl Environmenalsm"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11185",
+        "desc": "Introduction to Ethnobotany"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11186",
+        "desc": "Introduction to Experiment"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11187",
+        "desc": "Introduction to Immunology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11188",
+        "desc": "Invertebrate Zoology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11189",
+        "desc": "Invertebrate Zoology Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11190",
+        "desc": "Lab: Electron11191: BIOL,\"Laboratory in Endocrinology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11192",
+        "desc": "Mammalian Histology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11193",
+        "desc": "Mammalian Physiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11194",
+        "desc": "Marine Biology Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11195",
+        "desc": "Marine Biology Lectures"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11196",
+        "desc": "Marine Ecology: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11197",
+        "desc": "Marine Ecology: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11198",
+        "desc": "Masters Comprehensive"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11199",
+        "desc": "Mathematical Bio-Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11200",
+        "desc": "Mathematical Biology: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11201",
+        "desc": "Medical Microbiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11202",
+        "desc": "Microbial Phys/Gene."
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11203",
+        "desc": "Microbial Physiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11204",
+        "desc": "Microbiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11205",
+        "desc": "Modeling Cellular Networks"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11206",
+        "desc": "Molecular Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11207",
+        "desc": "Molecular Genetics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11208",
+        "desc": "Neural Dev:Genes&Cellsto Brain"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11209",
+        "desc": "Neural Development Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11210",
+        "desc": "Neurophysiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11211",
+        "desc": "Neurophysiology Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11212",
+        "desc": "Paleobotany: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11213",
+        "desc": "Paleobotany: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11214",
+        "desc": "Parasitology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11215",
+        "desc": "Parasitology Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11216",
+        "desc": "Phys&Biochem-Differn"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11217",
+        "desc": "Phys&Taxonomy of Fungi"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11218",
+        "desc": "Physiological Ecology: Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11219",
+        "desc": "Physiological Ecology: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11220",
+        "desc": "Phytochemistry: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11221",
+        "desc": "Phytochemistry: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11222",
+        "desc": "Plant Biochemistry"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11223",
+        "desc": "Plant Ecology: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11224",
+        "desc": "Plant Ecology: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11225",
+        "desc": "Plant Growth and Development"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11226",
+        "desc": "Plant Molec Bio Lec"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11227",
+        "desc": "Plant Molecular Biology: Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11228",
+        "desc": "Plant Morphogen Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11229",
+        "desc": "Plant Morphogenesis: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11230",
+        "desc": "Plant Morphogens-Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11231",
+        "desc": "Plant Physiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11232",
+        "desc": "Plant Physiology: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11233",
+        "desc": "Plant Physiology: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11234",
+        "desc": "Plant Systematics: Laboratory"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11235",
+        "desc": "Plant Systematics: Lecture"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11236",
+        "desc": "Plants and People"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11237",
+        "desc": "Princip of Biology:Cells&Genes"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11238",
+        "desc": "Principles of Biol: Organisms"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11239",
+        "desc": "Principles of Virology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11240",
+        "desc": "Problems in Ecology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11241",
+        "desc": "Problems in Microbiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11242",
+        "desc": "Protozoology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11243",
+        "desc": "Seminar in Biochemistry"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11244",
+        "desc": "Seminar in Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11245",
+        "desc": "Seminar in Special Topics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11246",
+        "desc": "Spec Topics Bio Chem"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11247",
+        "desc": "Special Topics in Physiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11248",
+        "desc": "Statistics for Bio Research"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11249",
+        "desc": "Studies in Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11250",
+        "desc": "Taxon Vasc Plant Lab"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11251",
+        "desc": "Taxonomy of Vasc Plants-Lec"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11252",
+        "desc": "The Biology of Insects"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11253",
+        "desc": "Thesis Research"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11254",
+        "desc": "Topics in Economic Botany"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11255",
+        "desc": "Topics in Genetics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11256",
+        "desc": "Topics in Urban Ecology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11257",
+        "desc": "Tutorial"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11258",
+        "desc": "Vertebrate Embryology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11259",
+        "desc": "Vertebrate Endocrinology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "11260",
+        "desc": "Virology"
+    }
+]

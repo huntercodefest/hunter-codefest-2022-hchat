@@ -1,0 +1,644 @@
+[
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70612",
+        "room_desc": "Anatomy&Physology Spec&Swallow"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70613",
+        "room_desc": "Argumentation"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70614",
+        "room_desc": "Articulatory Phonetics"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70615",
+        "room_desc": "Assessment and Intervention 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70616",
+        "room_desc": "Assessment and Intervention 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70617",
+        "room_desc": "Assessment and Intervention 3"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70618",
+        "room_desc": "Assessment in Spec-Lang Path"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70619",
+        "room_desc": "Auditory Processing Disorders"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70620",
+        "room_desc": "Augmentv & Alterntv Communcatn"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70621",
+        "room_desc": "Autism Spectrum Disorders"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70622",
+        "room_desc": "Beh Analy Lang70623: CASD,\"Biling&Second Lang Acquisition"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70624",
+        "room_desc": "Biling&Second Language Learner"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70625",
+        "room_desc": "Cleft Palate Speech"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70626",
+        "room_desc": "Clincal Pract &Sem inAudiology"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70627",
+        "room_desc": "Clinic"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70628",
+        "room_desc": "Clinical Audiology"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70629",
+        "room_desc": "Clinical Found Spec-Lang Path"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70630",
+        "room_desc": "Clinician-Client Relationship"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70631",
+        "room_desc": "Comm Sciences & Disorders"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70632",
+        "room_desc": "Comm for Business &Professions"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70633",
+        "room_desc": "Comm in Individual with Autism"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70634",
+        "room_desc": "Communication Disorders &Aging"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70635",
+        "room_desc": "Communication Law and Policy"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70636",
+        "room_desc": "Communication Theory"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70637",
+        "room_desc": "Communication and Identity"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70638",
+        "room_desc": "Communication and Sports"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70639",
+        "room_desc": "Comp Application Clinical&Ed"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70640",
+        "room_desc": "Conflict Managment in Business"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70641",
+        "room_desc": "Conflict and Negotiation"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70642",
+        "room_desc": "Crisis Communication"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70643",
+        "room_desc": "Current Issues in CASD"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70644",
+        "room_desc": "Diagnostics in Spec-Lang Path"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70645",
+        "room_desc": "Disorders in Adults"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70646",
+        "room_desc": "Dysphagia"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70647",
+        "room_desc": "EI 1: Theory and Practice"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70648",
+        "room_desc": "Earl Int: Clinic Pract&Seminar"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70649",
+        "room_desc": "Early Intervention: 0 - 3"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70650",
+        "room_desc": "Erly Inter II: ID70651: CASD,\"Family Communication"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70652",
+        "room_desc": "Fluency Disorders"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70653",
+        "room_desc": "Fundamental Interpersonal Comm"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70654",
+        "room_desc": "Gender and Communication"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70655",
+        "room_desc": "Group Communication"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70656",
+        "room_desc": "Health Communication"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70657",
+        "room_desc": "Hearing-impaired Children"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70658",
+        "room_desc": "Independent Research"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70659",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70660",
+        "room_desc": "Instrumentation Speech&Hearing"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70661",
+        "room_desc": "Intercultural Communication"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70662",
+        "room_desc": "Intervention Spec-Lang Disordr"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70663",
+        "room_desc": "Intervention in Spec-Lang Path"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70664",
+        "room_desc": "Intro Autism Spectrum Disorder"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70665",
+        "room_desc": "Intro Communication Disorders"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70666",
+        "room_desc": "Intro Rehabilitative Audiology"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70667",
+        "room_desc": "Intro to Assistive Technology"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70668",
+        "room_desc": "Intro to Clinical Audiology"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70669",
+        "room_desc": "Lang Disordrs in Pre-Schoolers"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70670",
+        "room_desc": "Language Acquisition"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70671",
+        "room_desc": "Language Development:Birth-5Yr"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70672",
+        "room_desc": "Language Development:Grade1-12"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70673",
+        "room_desc": "Literacy&Lang Learng Disablty"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70674",
+        "room_desc": "Medical Speech-Lang Pathology"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70675",
+        "room_desc": "Modern Communication Theories"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70676",
+        "room_desc": "Morphology"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70677",
+        "room_desc": "Motor Speech Disorders"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70678",
+        "room_desc": "Nature of Speech-Lang Disorder"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70679",
+        "room_desc": "Neural Processes Communication"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70680",
+        "room_desc": "Neurological Bases Comm&Disord"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70681",
+        "room_desc": "Nonverbal Communication"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70682",
+        "room_desc": "Oral Interpretation Child Lit"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70683",
+        "room_desc": "Oral Interpretation: Poetry"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70684",
+        "room_desc": "Oral Interpretation: Prose"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70685",
+        "room_desc": "Org70686: CASD,\"Organizational Communication"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70687",
+        "room_desc": "Parliamentary Procedure"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70688",
+        "room_desc": "Pedatric Feed&Swallow Disorder"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70689",
+        "room_desc": "Perform Children\u2019s Literature"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70690",
+        "room_desc": "Problems Of Speech"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70691",
+        "room_desc": "Prof Speech for ESL Speakers"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70692",
+        "room_desc": "Professional Speech"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70693",
+        "room_desc": "Proseminar SpeechLang Patholgy"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70694",
+        "room_desc": "Proseminar in Audiology"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70695",
+        "room_desc": "Public Address"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70696",
+        "room_desc": "Public Speaking"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70697",
+        "room_desc": "Research Spec-Lang Path & Aud"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70698",
+        "room_desc": "Rhetoric & Public Address"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70699",
+        "room_desc": "Sem in Rhetoric&Public Address"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70700",
+        "room_desc": "Seminar"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70701",
+        "room_desc": "Social Media Communication"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70702",
+        "room_desc": "Sound Development & Disorders"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70703",
+        "room_desc": "Spec Topic Comm Sci&Disorder 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70704",
+        "room_desc": "SpecTopic Comm Sci&Disorder 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70705",
+        "room_desc": "Special Topic"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70706",
+        "room_desc": "Special Topics"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70707",
+        "room_desc": "Speech Comm & Group Dynamics"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70708",
+        "room_desc": "Speech Criticism"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70709",
+        "room_desc": "Speech Disorder Cerebral Palsy"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70710",
+        "room_desc": "Speech Laboratory"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70711",
+        "room_desc": "Speech Lang &Hearing:Acoustics"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70712",
+        "room_desc": "Speech Sci &Acoustic Phonetics"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70713",
+        "room_desc": "Speech-Lang Path Educ Settings"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70714",
+        "room_desc": "Survy Speech70715: CASD,\"Teaching Autistic Students"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70716",
+        "room_desc": "Teaching Students with Autism"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70717",
+        "room_desc": "Techniques Speech Communcation"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70718",
+        "room_desc": "The Nature of Stuttering"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70719",
+        "room_desc": "Thesis Research"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70720",
+        "room_desc": "Visual Communication"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70721",
+        "room_desc": "Voice Disorders"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "70722",
+        "room_desc": "Workshop"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "major": "EDCO",
+        "room_num": "15704",
+        "desc": "Co-op Orientation"
+    },
+    {
+        "major": "EDCO",
+        "room_num": "15705",
+        "desc": "Work Exp&Seminar 3"
+    },
+    {
+        "major": "EDCO",
+        "room_num": "15706",
+        "desc": "Work Experience and Seminar I"
+    },
+    {
+        "major": "EDCO",
+        "room_num": "15707",
+        "desc": "Work Experience and Seminar II"
+    },
+    {
+        "major": "EDCO",
+        "room_num": "15708",
+        "desc": "Work Experience and Seminar IV"
+    }
+]

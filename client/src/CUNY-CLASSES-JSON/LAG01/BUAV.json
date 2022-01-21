@@ -1,0 +1,17 @@
+[
+    {
+        "major": "BUAV",
+        "room_num": "81381",
+        "desc": "Intro Aviation Bus"
+    },
+    {
+        "major": "BUAV",
+        "room_num": "81382",
+        "desc": "Intro Aviation Mgmt"
+    },
+    {
+        "major": "BUAV",
+        "room_num": "81383",
+        "desc": "Intro Aviation Oper"
+    }
+]

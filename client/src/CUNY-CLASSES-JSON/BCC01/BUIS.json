@@ -1,0 +1,22 @@
+[
+    {
+        "major": "BUIS",
+        "room_num": "68830",
+        "desc": "Client-Side Programming"
+    },
+    {
+        "major": "BUIS",
+        "room_num": "68831",
+        "desc": "Multimedia Theory"
+    },
+    {
+        "major": "BUIS",
+        "room_num": "68832",
+        "desc": "Server-Side Programming"
+    },
+    {
+        "major": "BUIS",
+        "room_num": "68833",
+        "desc": "Website Development"
+    }
+]

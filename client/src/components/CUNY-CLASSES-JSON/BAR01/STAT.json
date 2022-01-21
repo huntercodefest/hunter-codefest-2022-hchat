@@ -1,0 +1,458 @@
+[
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62536",
+        "room_desc": "Adv Computer Prog"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62537",
+        "room_desc": "Adv Data Mining for Bus App"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62538",
+        "room_desc": "Adv Samp Theor& Prac"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62539",
+        "room_desc": "Adv Stat Inference"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62540",
+        "room_desc": "Adv Statist Meth"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62541",
+        "room_desc": "Advanced Data Analysis"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62542",
+        "room_desc": "Advanced Data Mining"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62543",
+        "room_desc": "Advanced Linear Models"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62544",
+        "room_desc": "Advanced Statistical Computing"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62545",
+        "room_desc": "Anal Of Cat & Ord"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62546",
+        "room_desc": "Anal Var:Princ&Applc"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62547",
+        "room_desc": "Analysis of Time Series"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62548",
+        "room_desc": "Applied Natural Language Proce"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62549",
+        "room_desc": "Applied Probability"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62550",
+        "room_desc": "Applied Sta for Bus Analytics"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62551",
+        "room_desc": "Bas Elctr Data Proc"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62552",
+        "room_desc": "Basic Software Tools"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62553",
+        "room_desc": "Big Data Technologies"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62554",
+        "room_desc": "Business Statistics I"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62555",
+        "room_desc": "Business Statistics II"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62556",
+        "room_desc": "Categorical Data Analysis"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62557",
+        "room_desc": "Comp Sim In Bus Res"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62558",
+        "room_desc": "Data Analysis/Model"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62559",
+        "room_desc": "Data Mining for Bus Analytics"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62560",
+        "room_desc": "Data Mining for Business Analy"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62561",
+        "room_desc": "Data Visualization"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62562",
+        "room_desc": "Experimental Desi For Business"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62563",
+        "room_desc": "Financial Statistics"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62564",
+        "room_desc": "Fndtns Stat Inferenc"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62565",
+        "room_desc": "Honors - Business Statistics"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62566",
+        "room_desc": "Honors - Statistics II"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62567",
+        "room_desc": "Honors-Statistics I"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62568",
+        "room_desc": "Indep Study & Research Stat I"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62569",
+        "room_desc": "Independent Study STA I"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62570",
+        "room_desc": "Info Reseach Analys"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62571",
+        "room_desc": "Intrmed Stat Methods"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62572",
+        "room_desc": "Intro Multivariate Analysis"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62573",
+        "room_desc": "Intro to SAS Programming"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62574",
+        "room_desc": "Machine Learning/Data Mining"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62575",
+        "room_desc": "Managerial Statistics"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62576",
+        "room_desc": "Math Tools For Business"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62577",
+        "room_desc": "Modern Regression Analysis"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62578",
+        "room_desc": "Multvrt Stat Methods"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62579",
+        "room_desc": "Nonpara&Semipara Ana"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62580",
+        "room_desc": "Nonparametric Statistics"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62581",
+        "room_desc": "Numerical Method Com"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62582",
+        "room_desc": "Prob Solving App&Res"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62583",
+        "room_desc": "Quality Assurance"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62584",
+        "room_desc": "Regression and Forecasting Mod"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62585",
+        "room_desc": "Regression&Forecast"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62586",
+        "room_desc": "Res Method For Sem"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62587",
+        "room_desc": "Res Mthd For Thesis"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62588",
+        "room_desc": "Res Sem Quan Methods"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62589",
+        "room_desc": "Sampling Theory and Practice"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62590",
+        "room_desc": "Spec Top Is Graphics"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62591",
+        "room_desc": "Spec Top Stat Anal"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62592",
+        "room_desc": "Spec Topic Appld Sta"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62593",
+        "room_desc": "Special Topics in Statistical"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62594",
+        "room_desc": "Special Topics in Statistics"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62595",
+        "room_desc": "Stat Analyis Hca"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62596",
+        "room_desc": "Stat Analysis Pub Ad"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62597",
+        "room_desc": "Stat Learning for Data Mining"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62598",
+        "room_desc": "Stat Meth/Sampl& Aud"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62599",
+        "room_desc": "Stat Methods for Qual Imprvmnt"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62600",
+        "room_desc": "Stat Mthd In Audt"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62601",
+        "room_desc": "Stat Nat Lang Processing"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62602",
+        "room_desc": "Statis Meth Soc Sci"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62603",
+        "room_desc": "Statist Qual Control Methods"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62604",
+        "room_desc": "Statistical Computing"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62605",
+        "room_desc": "Statistics for Social Science"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62606",
+        "room_desc": "Stochastic Process Bus Appl I"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62607",
+        "room_desc": "Sys Desgn Plan & Op"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62608",
+        "room_desc": "Theory Stat Prob Dis"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62609",
+        "room_desc": "Theory for Stat Inference"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62610",
+        "room_desc": "Thesis (Thesis II)"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "62611",
+        "room_desc": "Time Ser: Forecast & Stat Mod"
+    }
+]

@@ -1,0 +1,422 @@
+[
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32945",
+        "room_desc": "Ami-Go"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32946",
+        "room_desc": "Ami-Go 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32947",
+        "room_desc": "Ami-Go 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32948",
+        "room_desc": "Anatomy & Dvlpmt 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32949",
+        "room_desc": "Anatomy 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32950",
+        "room_desc": "Anatomy 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32951",
+        "room_desc": "Behavioral Med 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32952",
+        "room_desc": "Biochemistry 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32953",
+        "room_desc": "Biochemistry 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32954",
+        "room_desc": "Biostat-Epidmlgy 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32955",
+        "room_desc": "Biostat/Epidmlogy 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32956",
+        "room_desc": "Cln Dec Mk-Ev Bsd Md"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32957",
+        "room_desc": "Com & Hlth-Fld Wk 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32958",
+        "room_desc": "Com & Hlth-Fld Wk 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32959",
+        "room_desc": "Com Hlth Socl Med 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32960",
+        "room_desc": "Community Hlth Svcs"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32961",
+        "room_desc": "Communties & Hlth 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32962",
+        "room_desc": "Communties & Hlth 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32963",
+        "room_desc": "Cul-Hlth & Illness"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32964",
+        "room_desc": "Cultre Hlth Illness"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32965",
+        "room_desc": "Embryology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32966",
+        "room_desc": "Field Work-Comm Med"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32967",
+        "room_desc": "Fld Wk Comm Medicin"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32968",
+        "room_desc": "Found Human Biology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32969",
+        "room_desc": "Fund Epidm-Biostats"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32970",
+        "room_desc": "General Chem Lab"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32971",
+        "room_desc": "General Chem-Lab"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32972",
+        "room_desc": "General Chem-Lec"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32973",
+        "room_desc": "General Chemistry 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32974",
+        "room_desc": "Histology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32975",
+        "room_desc": "Histology 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32976",
+        "room_desc": "Histology/Cell Bio"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32977",
+        "room_desc": "Hmn Anat & Embrylgy"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32978",
+        "room_desc": "Hmn Med Physiology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32979",
+        "room_desc": "Human Development 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32980",
+        "room_desc": "Human Med Physio 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32981",
+        "room_desc": "Humn Anat & Embrlgy"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32982",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32983",
+        "room_desc": "Intr Prim Care Prac"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32984",
+        "room_desc": "Intro Clncl Med 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32985",
+        "room_desc": "Intro Clncl Med 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32986",
+        "room_desc": "Intro To Bmed"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32987",
+        "room_desc": "Law & Med Urb Cmnty"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32988",
+        "room_desc": "Lit & Medicine"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32989",
+        "room_desc": "Math Prin & Stat Ap"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32990",
+        "room_desc": "Md Grs Anat/Hum Dev"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32991",
+        "room_desc": "Medical Genetics"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32992",
+        "room_desc": "Microb & Immunology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32993",
+        "room_desc": "Microbiology 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32994",
+        "room_desc": "Microbiology I"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32995",
+        "room_desc": "Molecules To Cells 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32996",
+        "room_desc": "Molecules To Cells 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32997",
+        "room_desc": "Neurobiology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32998",
+        "room_desc": "Neuroscience"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "32999",
+        "room_desc": "Organic-Biochem 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "33000",
+        "room_desc": "Organic-Biochem 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "33001",
+        "room_desc": "Pathology 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "33002",
+        "room_desc": "Pathology 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "33003",
+        "room_desc": "Pharmacology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "33004",
+        "room_desc": "Physical Science 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "33005",
+        "room_desc": "Physical Science 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "33006",
+        "room_desc": "Physiology  1"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "33007",
+        "room_desc": "Physiology 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "33008",
+        "room_desc": "Physiology 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "33009",
+        "room_desc": "Prin Gen/Org Chem 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "33010",
+        "room_desc": "Prin Gen/Org Chem 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "33011",
+        "room_desc": "Prv-Pub Hlth U S Sys"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "33012",
+        "room_desc": "Summer Field Work"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "33013",
+        "room_desc": "U S Health Care 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "33014",
+        "room_desc": "U S Health Care 2"
+    }
+]

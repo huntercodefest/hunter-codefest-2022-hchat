@@ -1,0 +1,37 @@
+[
+    {
+        "major": "ECON",
+        "room_num": "68951",
+        "desc": "Consumer Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "68952",
+        "desc": "Economic Issues"
+    },
+    {
+        "major": "ECON",
+        "room_num": "68953",
+        "desc": "Economics of Developing Areas"
+    },
+    {
+        "major": "ECON",
+        "room_num": "68954",
+        "desc": "History of Economic Thought"
+    },
+    {
+        "major": "ECON",
+        "room_num": "68955",
+        "desc": "Labor Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "68956",
+        "desc": "Macroeconomics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "68957",
+        "desc": "Microeconomics"
+    }
+]

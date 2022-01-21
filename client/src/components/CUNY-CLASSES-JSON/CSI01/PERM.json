@@ -1,0 +1,20 @@
+[
+    {
+        "school": "CSI01",
+        "major": "PERM",
+        "room_num": "85889",
+        "room_desc": "Permit Course"
+    },
+    {
+        "school": "CSI01",
+        "major": "PERM",
+        "room_num": "85890",
+        "room_desc": "Permit Course - Puerto Rico"
+    },
+    {
+        "school": "CSI01",
+        "major": "PERM",
+        "room_num": "85891",
+        "room_desc": "Permit Non CUNY"
+    }
+]

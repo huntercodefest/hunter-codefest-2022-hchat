@@ -1,0 +1,1312 @@
+[
+    {
+        "major": "ECON",
+        "room_num": "34640",
+        "desc": "Accounting 1"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34641",
+        "desc": "Accounting 2"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34642",
+        "desc": "Accounting Cycle"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34643",
+        "desc": "Adm & Manageral Pol"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34644",
+        "desc": "Adm & Managerial Po"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34645",
+        "desc": "Admin:Personnel"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34646",
+        "desc": "Adv Bnk-Fin Srv Ind"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34647",
+        "desc": "Adv Eco Forecasting"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34648",
+        "desc": "Adv Finan Analysis & Decisn"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34649",
+        "desc": "Adv Macro-Mon Thry"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34650",
+        "desc": "Advanced Financial Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34651",
+        "desc": "Advanced Microeconomic Theory"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34652",
+        "desc": "Advanced Options and Futures"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34653",
+        "desc": "Advanced Python for Business"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34654",
+        "desc": "Advanced Quantitative Finance"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34655",
+        "desc": "Agriclt Dvl Cntries"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34656",
+        "desc": "Am Economic History"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34657",
+        "desc": "American Business Law"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34658",
+        "desc": "American Economic Development"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34659",
+        "desc": "Analysis Of Law"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34660",
+        "desc": "Applied International Economic"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34661",
+        "desc": "Applied Investing"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34662",
+        "desc": "Area Seminar in Development"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34663",
+        "desc": "Asian Economic Development"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34664",
+        "desc": "Behavioral Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34665",
+        "desc": "Bnkng-Fin Serv Ind"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34666",
+        "desc": "Business Contracts"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34667",
+        "desc": "Business Ethics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34668",
+        "desc": "Business Law"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34669",
+        "desc": "Business and Society"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34670",
+        "desc": "Chinese Culture and Society"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34671",
+        "desc": "Chinese Politcal Economy 2"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34672",
+        "desc": "Chinese Political Economy 1"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34673",
+        "desc": "Cmp Ap Bus Inf Syst"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34674",
+        "desc": "Cntmp Dom Eco Prob"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34675",
+        "desc": "Cntmp Intl Eco Prob"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34676",
+        "desc": "Commercial Chinese Language"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34677",
+        "desc": "Compar Labor Mvmnt"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34678",
+        "desc": "Comparative Economic Systems"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34679",
+        "desc": "Comparative Labor Movements"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34680",
+        "desc": "Computer Aided Anal"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34681",
+        "desc": "Consumer Behavior"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34682",
+        "desc": "Contem Domest Probs"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34683",
+        "desc": "Contem Intntl Probs"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34684",
+        "desc": "Coop Ed"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34685",
+        "desc": "Corporate Finance"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34686",
+        "desc": "Cost Accounting"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34687",
+        "desc": "Data Analytics for Decision Ma"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34688",
+        "desc": "Data For Decision Making"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34689",
+        "desc": "Data-Driven Decision-Making"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34690",
+        "desc": "Database Management"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34691",
+        "desc": "Developing Management Skills"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34692",
+        "desc": "Eco Analysis"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34693",
+        "desc": "Eco Env & Entrepship"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34694",
+        "desc": "Eco Envrmnt/Ntrl Res"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34695",
+        "desc": "Eco Natrl Resources"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34696",
+        "desc": "Eco Professnl Sports"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34697",
+        "desc": "Econ & Social Sec"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34698",
+        "desc": "Econ Analysis"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34699",
+        "desc": "Econ Develop & Econ History"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34700",
+        "desc": "Econ Of Finance"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34701",
+        "desc": "Econ Of Labor"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34702",
+        "desc": "Econometrics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34703",
+        "desc": "Econometrics 2"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34704",
+        "desc": "Economic Development"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34705",
+        "desc": "Economic Forecastng"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34706",
+        "desc": "Economic History"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34707",
+        "desc": "Economic Systems"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34708",
+        "desc": "Economic Thought"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34709",
+        "desc": "Economics For Public Poilcy"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34710",
+        "desc": "Economics Of Labor"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34711",
+        "desc": "Economics of Corporate Finance"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34712",
+        "desc": "Economics of Investment"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34713",
+        "desc": "Economics of Investments"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34714",
+        "desc": "Economics of Labor"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34715",
+        "desc": "Economics of Regulation"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34716",
+        "desc": "Economics of Social Mobility"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34717",
+        "desc": "Economics of the Environment a"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34718",
+        "desc": "Energy & Envir Cnstr"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34719",
+        "desc": "Enrgy34720: ECON,\"Entrepreneurial Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34721",
+        "desc": "Entrepreneurship"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34722",
+        "desc": "Entrepreneurship: Women & Dive"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34723",
+        "desc": "Entreprenurial Eco"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34724",
+        "desc": "Entrpn Env Sens Area"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34725",
+        "desc": "Entrprnshp34726: ECON,\"Env Eco & Sustanblty"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34727",
+        "desc": "Environmental Econ"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34728",
+        "desc": "Environmental Mangmt"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34729",
+        "desc": "Envr Entrepreneurshp"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34730",
+        "desc": "Europ Econ"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34731",
+        "desc": "European Economic Development"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34732",
+        "desc": "Finance"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34733",
+        "desc": "Financial Analysis I"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34734",
+        "desc": "Financial Analysis II"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34735",
+        "desc": "Financial Analysis MA Workshop"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34736",
+        "desc": "Financial Analysis Workshop"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34737",
+        "desc": "Financial Communication"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34738",
+        "desc": "Financial Crisis"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34739",
+        "desc": "Finl Analysis & Decn Making"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34740",
+        "desc": "Fintech Entrepreneurship"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34741",
+        "desc": "Fnd Empirical Rsch"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34742",
+        "desc": "Game Theory and Strategic Beha"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34743",
+        "desc": "Geog Aspcts Develop"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34744",
+        "desc": "Geography"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34745",
+        "desc": "Globalization"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34746",
+        "desc": "Governmnt Regulation"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34747",
+        "desc": "Harlem Eco Devl 2"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34748",
+        "desc": "Health Care Finance"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34749",
+        "desc": "Health Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34750",
+        "desc": "Health Policy"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34751",
+        "desc": "Hlth Serv Operatns"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34752",
+        "desc": "Hlth Serv Sys"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34753",
+        "desc": "Honors"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34754",
+        "desc": "Honors 2"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34755",
+        "desc": "Honors 3"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34756",
+        "desc": "Honors 4"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34757",
+        "desc": "Honors Financial Analysis"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34758",
+        "desc": "Honors I"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34759",
+        "desc": "Honors II"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34760",
+        "desc": "Honors III"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34761",
+        "desc": "Honors IV"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34762",
+        "desc": "Honors34763: ECON,\"Human Resources Management"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34764",
+        "desc": "Ind Org & Pub Plcy"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34765",
+        "desc": "Ind St Res"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34766",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34767",
+        "desc": "Industrial Organization"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34768",
+        "desc": "Info & Tech Mgmt Ma"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34769",
+        "desc": "Info&Tech Management"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34770",
+        "desc": "Informatn/Tech Mgmnt"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34771",
+        "desc": "Int Fin Mangemnt"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34772",
+        "desc": "Intermediate Macroeconomics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34773",
+        "desc": "Intermediate Microeconomics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34774",
+        "desc": "International Bus Environment"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34775",
+        "desc": "International Business"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34776",
+        "desc": "International Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34777",
+        "desc": "International Finance"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34778",
+        "desc": "International Infrastructure F"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34779",
+        "desc": "International Trade Theory"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34780",
+        "desc": "Internationl Finance"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34781",
+        "desc": "Internet Marketing"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34782",
+        "desc": "Internship"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34783",
+        "desc": "Interntl Trade Thry"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34784",
+        "desc": "Intrntl Bus Envrmnt"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34785",
+        "desc": "Intrntl Econ Policy"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34786",
+        "desc": "Intro Advertising"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34787",
+        "desc": "Intro Math Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34788",
+        "desc": "Intro Quant Econ"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34789",
+        "desc": "Intro To Econ Honors"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34790",
+        "desc": "Intro to Econometrics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34791",
+        "desc": "Intro to Economic Development"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34792",
+        "desc": "Introduction to Econometrics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34793",
+        "desc": "Introduction to Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34794",
+        "desc": "Introduction to Game Theory"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34795",
+        "desc": "Investments"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34796",
+        "desc": "Iss In Financial Ser"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34797",
+        "desc": "Labor"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34798",
+        "desc": "Labor Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34799",
+        "desc": "Law & Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34800",
+        "desc": "Law And Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34801",
+        "desc": "Law of Business Contracts"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34802",
+        "desc": "Law of Business Organization"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34803",
+        "desc": "Lbr:Nw Glbl Eco"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34804",
+        "desc": "Leadership"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34805",
+        "desc": "Macro and Monetary Theory"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34806",
+        "desc": "Macroeconomic Analysis"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34807",
+        "desc": "Macroeconomics 2"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34808",
+        "desc": "Macroeconomics I"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34809",
+        "desc": "Macroeconomics II"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34810",
+        "desc": "Management"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34811",
+        "desc": "Managerial Accounting"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34812",
+        "desc": "Managerial Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34813",
+        "desc": "Managerial Finance"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34814",
+        "desc": "Managing Business Complexity"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34815",
+        "desc": "Maps & Air Photos"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34816",
+        "desc": "Market Research"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34817",
+        "desc": "Marketing"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34818",
+        "desc": "Marketing Research"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34819",
+        "desc": "Micro Theory"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34820",
+        "desc": "Microeconomic Analysis"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34821",
+        "desc": "Microeconomic Theory I"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34822",
+        "desc": "Microeconomic Theory II"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34823",
+        "desc": "Mod U S Econ"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34824",
+        "desc": "Modern U S Economy"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34825",
+        "desc": "Monetary Theo. Poli."
+    },
+    {
+        "major": "ECON",
+        "room_num": "34826",
+        "desc": "Money & Banking"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34827",
+        "desc": "Money And Banking"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34828",
+        "desc": "Money and Banking"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34829",
+        "desc": "Non-Cap Pths Eco Dv"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34830",
+        "desc": "Nonprofit Organizations"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34831",
+        "desc": "Nonviolent Communication"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34832",
+        "desc": "Operations And Productions"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34833",
+        "desc": "Operations and Production"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34834",
+        "desc": "Options And Futures"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34835",
+        "desc": "Options and Futures"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34836",
+        "desc": "Org & Manaagmt"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34837",
+        "desc": "Organization and Management"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34838",
+        "desc": "Organizational Behvr"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34839",
+        "desc": "Organizational Change"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34840",
+        "desc": "Organizatnl Behavior"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34841",
+        "desc": "Personal Finance"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34842",
+        "desc": "Personnel"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34843",
+        "desc": "Policies Of Trade"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34844",
+        "desc": "Prin Microeconomics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34845",
+        "desc": "Prin Of Stat"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34846",
+        "desc": "Princ Of Macroecon"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34847",
+        "desc": "Principals And Management"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34848",
+        "desc": "Principles 1"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34849",
+        "desc": "Principles 2"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34850",
+        "desc": "Principles of Accounting 1"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34851",
+        "desc": "Principles of Accounting 2"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34852",
+        "desc": "Principles of Accounting I"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34853",
+        "desc": "Principles of Accounting II"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34854",
+        "desc": "Principles of Macroeconomics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34855",
+        "desc": "Principles of Management"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34856",
+        "desc": "Principles of Marketing"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34857",
+        "desc": "Principles of Microeconomics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34858",
+        "desc": "Principles of Statistics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34859",
+        "desc": "Princpls & Urb Anal"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34860",
+        "desc": "Prsnl Finance Plng"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34861",
+        "desc": "Prtshp/Infrstr Fi/Ma"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34862",
+        "desc": "Pub Invstmt Analysis"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34863",
+        "desc": "Public Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34864",
+        "desc": "Public Expenditure"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34865",
+        "desc": "Public Finance"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34866",
+        "desc": "Public Investment Analysis"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34867",
+        "desc": "Python for Business Analytics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34868",
+        "desc": "Quantitative Finance"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34869",
+        "desc": "Real Estate Finance"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34870",
+        "desc": "Selected Topics in Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34871",
+        "desc": "Sem In Perf Mng/Cmp"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34872",
+        "desc": "Sem:Economic Devlp"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34873",
+        "desc": "Seminar: Urban Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34874",
+        "desc": "Seminars."
+    },
+    {
+        "major": "ECON",
+        "room_num": "34875",
+        "desc": "Social Entrepreneurship"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34876",
+        "desc": "Social Innovation"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34877",
+        "desc": "Socialist Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34878",
+        "desc": "Solutions for Societal Equity"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34879",
+        "desc": "Stat Anal-Math Eco"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34880",
+        "desc": "Stat/Mth Ec-Cmp App"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34881",
+        "desc": "Statistical Anal 2"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34882",
+        "desc": "Statistical Analys.I"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34883",
+        "desc": "Strategic Management"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34884",
+        "desc": "Supply chain management (SCM)"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34885",
+        "desc": "Technology Entrepeneurship"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34886",
+        "desc": "Technology Entrepreneurship"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34887",
+        "desc": "The Economics of the Pandemic"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34888",
+        "desc": "The Startup Garage"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34889",
+        "desc": "Theories & Models Econ Growth"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34890",
+        "desc": "Theory:Urban Locatio"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34891",
+        "desc": "Thesis"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34892",
+        "desc": "Thesis Research"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34893",
+        "desc": "Trade-Aid:Dev Cntry"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34894",
+        "desc": "Transportation Econ"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34895",
+        "desc": "Transportation Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34896",
+        "desc": "Trnsp & Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34897",
+        "desc": "U S Econ"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34898",
+        "desc": "U S Trade Unionism"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34899",
+        "desc": "US Political Economy"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34900",
+        "desc": "United States Trade Unionism"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34901",
+        "desc": "Urban Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34902",
+        "desc": "Urban Geog"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34903",
+        "desc": "Women in the Workplace"
+    },
+    {
+        "major": "ECON",
+        "room_num": "34904",
+        "desc": "World Economic Geogr"
+    }
+]

@@ -1,14 +1,14 @@
 import React from "react";
-
+import classes from "../css/chat.module.css";
 class ChatRoom extends React.Component {
 	constructor(props) {
 		super(props);
 	}
-
 	render() {
 		return (
-			<div>
-				<span>{this.props.Room_Desc}</span>
+			<div className={classes.chatroom}>
+				<p>Chatroom starts here</p>
+				<span>{this.props.room_Desc}</span>
 				<div>{this.props.messages}</div>
 			</div>
 		);

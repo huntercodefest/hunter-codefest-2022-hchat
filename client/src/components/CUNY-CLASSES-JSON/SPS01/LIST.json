@@ -1,0 +1,38 @@
+[
+    {
+        "school": "SPS01",
+        "major": "LIST",
+        "room_num": "80798",
+        "room_desc": "Capstone in Liberal Studies II"
+    },
+    {
+        "school": "SPS01",
+        "major": "LIST",
+        "room_num": "80799",
+        "room_desc": "Ethics & Quant Reasoning"
+    },
+    {
+        "school": "SPS01",
+        "major": "LIST",
+        "room_num": "80800",
+        "room_desc": "History and Global Studies"
+    },
+    {
+        "school": "SPS01",
+        "major": "LIST",
+        "room_num": "80801",
+        "room_desc": "Internship in Applied Liberal"
+    },
+    {
+        "school": "SPS01",
+        "major": "LIST",
+        "room_num": "80802",
+        "room_desc": "Literature and Communication"
+    },
+    {
+        "school": "SPS01",
+        "major": "LIST",
+        "room_num": "80803",
+        "room_desc": "Pro-Seminar in Liberal Studies"
+    }
+]

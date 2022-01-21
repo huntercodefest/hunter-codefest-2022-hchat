@@ -1,0 +1,42 @@
+[
+    {
+        "major": "ITAL",
+        "room_num": "82053",
+        "desc": "Elementary Italian I"
+    },
+    {
+        "major": "ITAL",
+        "room_num": "82054",
+        "desc": "Elementary Italian II"
+    },
+    {
+        "major": "ITAL",
+        "room_num": "82055",
+        "desc": "Intermediate Italian"
+    },
+    {
+        "major": "ITAL",
+        "room_num": "82056",
+        "desc": "Intermediate Italian 2"
+    },
+    {
+        "major": "ITAL",
+        "room_num": "82057",
+        "desc": "Ital For Span Spkrs"
+    },
+    {
+        "major": "ITAL",
+        "room_num": "82058",
+        "desc": "Italian Language Lab"
+    },
+    {
+        "major": "ITAL",
+        "room_num": "82059",
+        "desc": "Italian Lit in Translation"
+    },
+    {
+        "major": "ITAL",
+        "room_num": "82060",
+        "desc": "Social Themes Italian Lit"
+    }
+]

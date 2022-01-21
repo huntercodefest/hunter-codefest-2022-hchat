@@ -1,0 +1,392 @@
+[
+    {
+        "major": "ECON",
+        "room_num": "59731",
+        "desc": "Advanced Labor Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59732",
+        "desc": "Advanced Macro-Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59733",
+        "desc": "Advanced Micro-Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59734",
+        "desc": "Applied Micro-Econometrics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59735",
+        "desc": "Behavioral Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59736",
+        "desc": "Contemp Eco Develpmt"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59737",
+        "desc": "Contemporary Economic Thought"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59738",
+        "desc": "Curr Prob Micro Eco"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59739",
+        "desc": "Current Economic Problems"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59740",
+        "desc": "Eco 9705 Lecture"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59741",
+        "desc": "Eco An Of Legal Inst"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59742",
+        "desc": "Eco Analy For Bus Dec"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59743",
+        "desc": "Eco Fluctu&Forcastg"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59744",
+        "desc": "Eco Geo And Spa Theo"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59745",
+        "desc": "Eco Geography Europe"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59746",
+        "desc": "Eco Prob Lin Regr An"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59747",
+        "desc": "Econ Geog Of U.S. & Can"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59748",
+        "desc": "Econometrics - Theory & App I"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59749",
+        "desc": "Econometrics-Thry & Apps II"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59750",
+        "desc": "Economic & Business Forecast"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59751",
+        "desc": "Economic Analysis"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59752",
+        "desc": "Economic Development"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59753",
+        "desc": "Economics of Labor"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59754",
+        "desc": "Economics of Urban Areas"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59755",
+        "desc": "Electronic Comp Appl"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59756",
+        "desc": "Env Eco/Sustain Deve"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59757",
+        "desc": "Environmental Eco"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59758",
+        "desc": "Evolution of Economic Thought"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59759",
+        "desc": "Field Study Economic Lecture"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59760",
+        "desc": "Field Study of the Economics o"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59761",
+        "desc": "Financial Econometrics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59762",
+        "desc": "Firms in the Global Economy"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59763",
+        "desc": "Fundamentals of Macroeconomics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59764",
+        "desc": "Fundamentals of Microeconomics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59765",
+        "desc": "Game Theory"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59766",
+        "desc": "Hca Economics & FIN"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59767",
+        "desc": "Health Care Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59768",
+        "desc": "Hon Adv Labor Econ"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59769",
+        "desc": "Hon Fin Econometrics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59770",
+        "desc": "Hon Imtermd Macro"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59771",
+        "desc": "Honors - Macro Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59772",
+        "desc": "Honors - Micro Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59773",
+        "desc": "Honors - Money & Banking"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59774",
+        "desc": "Honors - Statistics Analysis"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59775",
+        "desc": "Honors Courses in Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59776",
+        "desc": "Honors- International Econ/Fin"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59777",
+        "desc": "Honors-Intermd Microecon"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59778",
+        "desc": "Ind Org & Pub Policy"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59779",
+        "desc": "Independent Research ECO I"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59780",
+        "desc": "Intermediate Macro-Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59781",
+        "desc": "Intermediate Micro-Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59782",
+        "desc": "International Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59783",
+        "desc": "Internship in Economics I"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59784",
+        "desc": "Internship in Economics II"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59785",
+        "desc": "Int\u2019L Econ & Finance"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59786",
+        "desc": "Invest/Human Capital"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59787",
+        "desc": "Labor Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59788",
+        "desc": "Macro-Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59789",
+        "desc": "Macroeconomics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59790",
+        "desc": "Managerial Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59791",
+        "desc": "Micro-Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59792",
+        "desc": "Microeconomics for Managers"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59793",
+        "desc": "Monetary Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59794",
+        "desc": "Money Banking Monetary Policy"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59795",
+        "desc": "Money Bnkng Mont Pol"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59796",
+        "desc": "Natl Inc Anal&Fluct"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59797",
+        "desc": "Principles of Public Finance"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59798",
+        "desc": "Public Enterprise Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59799",
+        "desc": "Public Finance I"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59800",
+        "desc": "Res Method For Sem"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59801",
+        "desc": "Res Mthd For Thesis"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59802",
+        "desc": "Research Seminar"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59803",
+        "desc": "Seminar in Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59804",
+        "desc": "Special Topics in Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59805",
+        "desc": "Sta Analysis Eco/Fin"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59806",
+        "desc": "The Economics of Int Trade"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59807",
+        "desc": "Thesis (Thesis II)"
+    },
+    {
+        "major": "ECON",
+        "room_num": "59808",
+        "desc": "Urban Economics"
+    }
+]

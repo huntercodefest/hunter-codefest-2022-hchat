@@ -1,0 +1,57 @@
+[
+    {
+        "major": "ENSL",
+        "room_num": "5343",
+        "desc": "American English"
+    },
+    {
+        "major": "ENSL",
+        "room_num": "5344",
+        "desc": "Comm Skills 1"
+    },
+    {
+        "major": "ENSL",
+        "room_num": "5345",
+        "desc": "Composition"
+    },
+    {
+        "major": "ENSL",
+        "room_num": "5346",
+        "desc": "Conversational Engl"
+    },
+    {
+        "major": "ENSL",
+        "room_num": "5347",
+        "desc": "Engl Cmpstn/Scl Sci"
+    },
+    {
+        "major": "ENSL",
+        "room_num": "5348",
+        "desc": "Fdtns Of Reading Ii"
+    },
+    {
+        "major": "ENSL",
+        "room_num": "5349",
+        "desc": "Hist Soc & Culture"
+    },
+    {
+        "major": "ENSL",
+        "room_num": "5350",
+        "desc": "Intro Coll Writing"
+    },
+    {
+        "major": "ENSL",
+        "room_num": "5351",
+        "desc": "Oral Commun Skills"
+    },
+    {
+        "major": "ENSL",
+        "room_num": "5352",
+        "desc": "Reading"
+    },
+    {
+        "major": "ENSL",
+        "room_num": "5353",
+        "desc": "Writing Skills Ii"
+    }
+]

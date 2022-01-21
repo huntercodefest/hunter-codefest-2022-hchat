@@ -1,0 +1,87 @@
+[
+    {
+        "major": "MDTC",
+        "room_num": "64274",
+        "desc": "Clinic Class Syst ICD10CM-PCS"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "64275",
+        "desc": "Cptr Apps Health Care Data Sec"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "64276",
+        "desc": "Cptrs & Communication Technol"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "64277",
+        "desc": "Health Care Delivery in the US"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "64278",
+        "desc": "Health Care Stats & Research"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "64279",
+        "desc": "Intro Health Data Mgmt&InfoSys"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "64280",
+        "desc": "Intro to CPT/HCPCS Coding"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "64281",
+        "desc": "Legal Ethic Aspect Health Care"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "64282",
+        "desc": "Medical Terminology"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "64283",
+        "desc": "Organizational Resources Manag"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "64284",
+        "desc": "Pharmacology for Allied Health"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "64285",
+        "desc": "Principles Health Care Reimbur"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "64286",
+        "desc": "Pro Practice Experience III"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "64287",
+        "desc": "Prof Practice Experience IV"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "64288",
+        "desc": "Profess Practice Experience I"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "64289",
+        "desc": "Profess Practice Experience II"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "64290",
+        "desc": "Quality Assess Perform Improve"
+    }
+]

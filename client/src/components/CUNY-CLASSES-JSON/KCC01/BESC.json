@@ -1,0 +1,32 @@
+[
+    {
+        "school": "KCC01",
+        "major": "BESC",
+        "room_num": "62871",
+        "room_desc": "BEH Integ Studies Seminar"
+    },
+    {
+        "school": "KCC01",
+        "major": "BESC",
+        "room_num": "62872",
+        "room_desc": "Beh Career Seminar"
+    },
+    {
+        "school": "KCC01",
+        "major": "BESC",
+        "room_num": "62873",
+        "room_desc": "Conducting Research"
+    },
+    {
+        "school": "KCC01",
+        "major": "BESC",
+        "room_num": "62874",
+        "room_desc": "Human Services Seminar"
+    },
+    {
+        "school": "KCC01",
+        "major": "BESC",
+        "room_num": "62875",
+        "room_desc": "Introduction to Research"
+    }
+]

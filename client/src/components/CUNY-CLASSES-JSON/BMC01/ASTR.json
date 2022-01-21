@@ -1,0 +1,44 @@
+[
+    {
+        "school": "BMC01",
+        "major": "ASTR",
+        "room_num": "17337",
+        "room_desc": "Ast Directed Study"
+    },
+    {
+        "school": "BMC01",
+        "major": "ASTR",
+        "room_num": "17338",
+        "room_desc": "Astronomy Directed Study"
+    },
+    {
+        "school": "BMC01",
+        "major": "ASTR",
+        "room_num": "17339",
+        "room_desc": "Astronomy: General Observation"
+    },
+    {
+        "school": "BMC01",
+        "major": "ASTR",
+        "room_num": "17340",
+        "room_desc": "Astronomy: General Theory"
+    },
+    {
+        "school": "BMC01",
+        "major": "ASTR",
+        "room_num": "17341",
+        "room_desc": "Astronomy: Observation & Model"
+    },
+    {
+        "school": "BMC01",
+        "major": "ASTR",
+        "room_num": "17342",
+        "room_desc": "General Astronomy"
+    },
+    {
+        "school": "BMC01",
+        "major": "ASTR",
+        "room_num": "17343",
+        "room_desc": "General Astronomy (Honors)"
+    }
+]

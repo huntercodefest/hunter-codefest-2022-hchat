@@ -1,0 +1,80 @@
+[
+    {
+        "school": "GRD01",
+        "major": "CHIN",
+        "room_num": "1765",
+        "room_desc": "Chinese Calligraphy I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHIN",
+        "room_num": "1766",
+        "room_desc": "Chinese Calligraphy II"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHIN",
+        "room_num": "1767",
+        "room_desc": "Elementary Chinese"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHIN",
+        "room_num": "1768",
+        "room_desc": "Elementary Chinese 2"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHIN",
+        "room_num": "1769",
+        "room_desc": "Elementary Chinese I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHIN",
+        "room_num": "1770",
+        "room_desc": "Elementary Chinese II"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHIN",
+        "room_num": "1771",
+        "room_desc": "Intens Elem Chinese"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHIN",
+        "room_num": "1772",
+        "room_desc": "Intensive Elem Chinese I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHIN",
+        "room_num": "1773",
+        "room_desc": "Intermed Chinese 1"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHIN",
+        "room_num": "1774",
+        "room_desc": "Intermed Chinese 2"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHIN",
+        "room_num": "1775",
+        "room_desc": "Intermediate Chinese 2"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHIN",
+        "room_num": "1776",
+        "room_desc": "Intermediate Chinese I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHIN",
+        "room_num": "1777",
+        "room_desc": "Journaltc Chin Lit I"
+    }
+]

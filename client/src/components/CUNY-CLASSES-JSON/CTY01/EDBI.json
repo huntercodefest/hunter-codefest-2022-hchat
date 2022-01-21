@@ -1,0 +1,62 @@
+[
+    {
+        "school": "CTY01",
+        "major": "EDBI",
+        "room_num": "34945",
+        "room_desc": "Basic Ecology"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBI",
+        "room_num": "34946",
+        "room_desc": "Environmental Conservation"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBI",
+        "room_num": "34947",
+        "room_desc": "Environmental Field Studies"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBI",
+        "room_num": "34948",
+        "room_desc": "Field Biology"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBI",
+        "room_num": "34949",
+        "room_desc": "Genetics"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBI",
+        "room_num": "34950",
+        "room_desc": "Human Biology"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBI",
+        "room_num": "34951",
+        "room_desc": "Human Ecology"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBI",
+        "room_num": "34952",
+        "room_desc": "Indpnt Stud:Rsrch Biology"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBI",
+        "room_num": "34953",
+        "room_desc": "Modern Concepts in Biology I"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBI",
+        "room_num": "34954",
+        "room_desc": "Modern Concepts in Biology II"
+    }
+]

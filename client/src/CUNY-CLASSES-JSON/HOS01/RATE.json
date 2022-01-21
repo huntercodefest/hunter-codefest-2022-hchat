@@ -1,0 +1,122 @@
+[
+    {
+        "major": "RATE",
+        "room_num": "64991",
+        "desc": "Advanced Procedures I"
+    },
+    {
+        "major": "RATE",
+        "room_num": "64992",
+        "desc": "Advanced Procedures II"
+    },
+    {
+        "major": "RATE",
+        "room_num": "64993",
+        "desc": "Applied Quality Assurance"
+    },
+    {
+        "major": "RATE",
+        "room_num": "64994",
+        "desc": "Clincial Radiography IV"
+    },
+    {
+        "major": "RATE",
+        "room_num": "64995",
+        "desc": "Clinical Radiography I"
+    },
+    {
+        "major": "RATE",
+        "room_num": "64996",
+        "desc": "Clinical Radiography II"
+    },
+    {
+        "major": "RATE",
+        "room_num": "64997",
+        "desc": "Clinical Radiography III"
+    },
+    {
+        "major": "RATE",
+        "room_num": "64998",
+        "desc": "Clinical Radiography V"
+    },
+    {
+        "major": "RATE",
+        "room_num": "64999",
+        "desc": "Contrast Media"
+    },
+    {
+        "major": "RATE",
+        "room_num": "65000",
+        "desc": "Pathology"
+    },
+    {
+        "major": "RATE",
+        "room_num": "65001",
+        "desc": "Prof Practice Issues"
+    },
+    {
+        "major": "RATE",
+        "room_num": "65002",
+        "desc": "Radiation Biology"
+    },
+    {
+        "major": "RATE",
+        "room_num": "65003",
+        "desc": "Radiation Protection"
+    },
+    {
+        "major": "RATE",
+        "room_num": "65004",
+        "desc": "Radiographic Anatomy I"
+    },
+    {
+        "major": "RATE",
+        "room_num": "65005",
+        "desc": "Radiographic Anatomy II"
+    },
+    {
+        "major": "RATE",
+        "room_num": "65006",
+        "desc": "Radiography I & Lab"
+    },
+    {
+        "major": "RATE",
+        "room_num": "65007",
+        "desc": "Radiography I (LAB)"
+    },
+    {
+        "major": "RATE",
+        "room_num": "65008",
+        "desc": "Radiography II & Lab"
+    },
+    {
+        "major": "RATE",
+        "room_num": "65009",
+        "desc": "Radiography II (LAB)"
+    },
+    {
+        "major": "RATE",
+        "room_num": "65010",
+        "desc": "Radiologic Physics"
+    },
+    {
+        "major": "RATE",
+        "room_num": "65011",
+        "desc": "Radiologic Science I & Lab"
+    },
+    {
+        "major": "RATE",
+        "room_num": "65012",
+        "desc": "Radiologic Science II & Lab"
+    },
+    {
+        "major": "RATE",
+        "room_num": "65013",
+        "desc": "Radioologic Science (LAB)"
+    },
+    {
+        "major": "RATE",
+        "room_num": "65014",
+        "desc": "Senior Seminar"
+    }
+]

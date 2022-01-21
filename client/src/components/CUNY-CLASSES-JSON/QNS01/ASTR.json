@@ -1,0 +1,32 @@
+[
+    {
+        "school": "QNS01",
+        "major": "ASTR",
+        "room_num": "24259",
+        "room_desc": "Gen Ast With Lab"
+    },
+    {
+        "school": "QNS01",
+        "major": "ASTR",
+        "room_num": "24260",
+        "room_desc": "General Astronomy"
+    },
+    {
+        "school": "QNS01",
+        "major": "ASTR",
+        "room_num": "24261",
+        "room_desc": "General Astronomy with Lab"
+    },
+    {
+        "school": "QNS01",
+        "major": "ASTR",
+        "room_num": "24262",
+        "room_desc": "Intro Astronomy with Lab"
+    },
+    {
+        "school": "QNS01",
+        "major": "ASTR",
+        "room_num": "24263",
+        "room_desc": "Modern Aspects of Astronomy"
+    }
+]

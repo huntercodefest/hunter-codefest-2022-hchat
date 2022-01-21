@@ -1,0 +1,38 @@
+[
+    {
+        "school": "LAG01",
+        "major": "STHR",
+        "room_num": "82871",
+        "room_desc": "Biology Research (CN)"
+    },
+    {
+        "school": "LAG01",
+        "major": "STHR",
+        "room_num": "82872",
+        "room_desc": "Clinical 1st 6 Weeks"
+    },
+    {
+        "school": "LAG01",
+        "major": "STHR",
+        "room_num": "82873",
+        "room_desc": "Lab Hour"
+    },
+    {
+        "school": "LAG01",
+        "major": "STHR",
+        "room_num": "82874",
+        "room_desc": "Math Intervention 1"
+    },
+    {
+        "school": "LAG01",
+        "major": "STHR",
+        "room_num": "82875",
+        "room_desc": "Math Intervention 2"
+    },
+    {
+        "school": "LAG01",
+        "major": "STHR",
+        "room_num": "82876",
+        "room_desc": "Studio Hour"
+    }
+]

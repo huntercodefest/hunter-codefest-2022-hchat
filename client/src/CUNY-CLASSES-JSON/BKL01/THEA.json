@@ -1,0 +1,1222 @@
+[
+    {
+        "major": "THEA",
+        "room_num": "77421",
+        "desc": "20th Cent Theater"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77422",
+        "desc": "Acct for Performing &Media Art"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77423",
+        "desc": "Acr 1/Acting W/Imagn"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77424",
+        "desc": "Act 2/Contemp Play"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77425",
+        "desc": "Act 2: Scene Study"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77426",
+        "desc": "Act 3/Classic Play"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77427",
+        "desc": "Act 4/Actor & Play"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77428",
+        "desc": "Act II Actor & Contemp Play"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77429",
+        "desc": "Acting 3"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77430",
+        "desc": "Acting 5"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77431",
+        "desc": "Acting I: Fundamentals"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77432",
+        "desc": "Acting I:Acting w/ Imagination"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77433",
+        "desc": "Acting Practicum I"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77434",
+        "desc": "Acting Practicum II"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77435",
+        "desc": "Acting Practicum III"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77436",
+        "desc": "Acting Practicum IV"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77437",
+        "desc": "Acting V"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77438",
+        "desc": "Acting V:Shakespeare"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77439",
+        "desc": "Acting Workshop I"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77440",
+        "desc": "Acting Workshop II"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77441",
+        "desc": "Acting for the Camera"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77442",
+        "desc": "Actor Technique"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77443",
+        "desc": "Actors Approach to Shakespeare"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77444",
+        "desc": "Adv Acting Wrkshop"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77445",
+        "desc": "Adv Sem In Acting"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77446",
+        "desc": "Advanced Costume Design"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77447",
+        "desc": "Advanced Directing"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77448",
+        "desc": "Advanced Lighting Design"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77449",
+        "desc": "Advanced Scene Design"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77450",
+        "desc": "Advanced Seminar in Directing"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77451",
+        "desc": "Advanced Studies in Design"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77452",
+        "desc": "American Musical Theater"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77453",
+        "desc": "Art Of Theater"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77454",
+        "desc": "Art/Mgr Decision"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77455",
+        "desc": "Audition Techniques"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77456",
+        "desc": "Black Theater"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77457",
+        "desc": "Bus Act&Audition Tec"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77458",
+        "desc": "Bus Mgmt Perf Arts"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77459",
+        "desc": "Bus Mgmt Performing Arts"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77460",
+        "desc": "Bus of Acting & Aud Tech"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77461",
+        "desc": "Classics of Modern Realism"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77462",
+        "desc": "Classics:Mod Real"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77463",
+        "desc": "Collab Discpln Sem"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77464",
+        "desc": "Costume Const Stage&Screen 3"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77465",
+        "desc": "Costume Construct"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77466",
+        "desc": "Costume Construct Stage&Screen"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77467",
+        "desc": "Costume Construction I"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77468",
+        "desc": "Costume Construction II"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77469",
+        "desc": "Costume Construction Iii"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77470",
+        "desc": "Costume Design"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77471",
+        "desc": "Costume Design for the Stage I"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77472",
+        "desc": "Costume Dsign for the Stage II"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77473",
+        "desc": "Costume Rendering"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77474",
+        "desc": "Costume Shop Practicum"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77475",
+        "desc": "Costume-Rendering Techniques"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77476",
+        "desc": "Criticism Workshop"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77477",
+        "desc": "Crosscult Flk Art2"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77478",
+        "desc": "Dev Drama Struct 1"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77479",
+        "desc": "Dev Drama Struct 2"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77480",
+        "desc": "Devise & Colabrt Cre"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77481",
+        "desc": "Devising Workshop"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77482",
+        "desc": "Dialects for the Actor"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77483",
+        "desc": "Dict & Dialect Actor II"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77484",
+        "desc": "Dict&Dialect Actor 1"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77485",
+        "desc": "Dict&Dialect Actor 2"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77486",
+        "desc": "Dict&Dialect Actor 3"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77487",
+        "desc": "Dict&Dialect Actor 4"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77488",
+        "desc": "Diction and Dialect Actor IV"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77489",
+        "desc": "Dir 2/Wk With Actr"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77490",
+        "desc": "Dir 4/Work W/Envir"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77491",
+        "desc": "Directing"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77492",
+        "desc": "Directing 1:Fndmntls"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77493",
+        "desc": "Directing 3:Classics"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77494",
+        "desc": "Directing I"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77495",
+        "desc": "Directing I: Interpretive Fund"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77496",
+        "desc": "Directing II"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77497",
+        "desc": "Directing III: Classics"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77498",
+        "desc": "Directing IV:Problems in Style"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77499",
+        "desc": "Directing Techniques"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77500",
+        "desc": "Directing Workshop"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77501",
+        "desc": "Dynamics 10"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77502",
+        "desc": "Dynamics 4"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77503",
+        "desc": "Dynamics 6"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77504",
+        "desc": "Dynamics I"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77505",
+        "desc": "Dynamics II"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77506",
+        "desc": "Dynamics III"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77507",
+        "desc": "Dynamics IV"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77508",
+        "desc": "Dynamics V"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77509",
+        "desc": "Dynamics VI"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77510",
+        "desc": "Dynamics VII"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77511",
+        "desc": "Dynamics VIII"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77512",
+        "desc": "Fundamentals of Stage Lighting"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77513",
+        "desc": "Fundraising"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77514",
+        "desc": "Fundraising for PerformingArts"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77515",
+        "desc": "Global Theater History&Theory3"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77516",
+        "desc": "Global Theater History&TheoryI"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77517",
+        "desc": "Global Thtr Hist Thry II"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77518",
+        "desc": "Hist Amer Theater"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77519",
+        "desc": "Hist Asian Theatre"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77520",
+        "desc": "Hist Of The In Educ"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77521",
+        "desc": "Hist The. Fr 1642"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77522",
+        "desc": "Hist Theat Fr 1642"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77523",
+        "desc": "Hist Theater To 1642"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77524",
+        "desc": "Hist Theory & Crit 1"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77525",
+        "desc": "Hist Theory & Crit 2"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77526",
+        "desc": "Hist U.S. Theater"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77527",
+        "desc": "History Theater in Education"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77528",
+        "desc": "History of Western Theater I"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77529",
+        "desc": "History of Western Theater II"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77530",
+        "desc": "History of the Theater to 1642"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77531",
+        "desc": "Improvisation for the Actor I"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77532",
+        "desc": "Improvisation for the Actor II"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77533",
+        "desc": "Independent Research"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77534",
+        "desc": "Intr Theater Prod"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77535",
+        "desc": "Intro Soc Sci"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77536",
+        "desc": "Intro To Dramaturgy"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77537",
+        "desc": "Intro to Theater Production"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77538",
+        "desc": "Introduction to Acting"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77539",
+        "desc": "Introduction to Dramaturgy"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77540",
+        "desc": "Introduction to Theater Arts"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77541",
+        "desc": "Labor & Employ Relat"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77542",
+        "desc": "Labor & Employee Relations"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77543",
+        "desc": "Lighting Design"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77544",
+        "desc": "Lighting Design I"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77545",
+        "desc": "Lighting Design II"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77546",
+        "desc": "Mini In Theatre Arts"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77547",
+        "desc": "Model Collaboration"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77548",
+        "desc": "Models of Collaboration"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77549",
+        "desc": "Movement Actor 4"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77550",
+        "desc": "Movement for the Actor I"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77551",
+        "desc": "Movement for the Actor II"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77552",
+        "desc": "Movement for the Actor III"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77553",
+        "desc": "Pa Promotion & Mktg"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77554",
+        "desc": "Perf Art Externship"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77555",
+        "desc": "Perf Arts & Law"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77556",
+        "desc": "Perf Arts Adminis"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77557",
+        "desc": "Perf Tech/Cls Tchr"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77558",
+        "desc": "Performance Ensemble"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77559",
+        "desc": "Performance Techniques I"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77560",
+        "desc": "Performance Techniques II"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77561",
+        "desc": "Performance Techniques III"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77562",
+        "desc": "Performance Technq"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77563",
+        "desc": "Performing Arts Externship"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77564",
+        "desc": "Period Techniques"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77565",
+        "desc": "Post Grad Internsh"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77566",
+        "desc": "Princip of Performing Arts Adm"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77567",
+        "desc": "Production Practicum I"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77568",
+        "desc": "Production Practicum II"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77569",
+        "desc": "Production Practicum III"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77570",
+        "desc": "Production Practicum IV"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77571",
+        "desc": "Production Practicum V"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77572",
+        "desc": "Production Practicum VI"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77573",
+        "desc": "Promotion & Mktg Perfming Arts"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77574",
+        "desc": "Property Construction"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77575",
+        "desc": "Puppetry For The Theater"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77576",
+        "desc": "Rehearsal Technq"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77577",
+        "desc": "Rendering Tech"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77578",
+        "desc": "Rendering Techniques"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77579",
+        "desc": "Research Problems in Theater"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77580",
+        "desc": "Residency & Thesis"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77581",
+        "desc": "Running Crew Practicum"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77582",
+        "desc": "Running Crew Practicum I"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77583",
+        "desc": "Running Crew Practicum II"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77584",
+        "desc": "Running Crew Practicum III"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77585",
+        "desc": "Scene Design"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77586",
+        "desc": "Scene Design I"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77587",
+        "desc": "Scene Design Wkshp"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77588",
+        "desc": "Scene Painting"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77589",
+        "desc": "Scene Rendering"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77590",
+        "desc": "Scene Tech 2:2d Cadd"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77591",
+        "desc": "Scene/Electrics Shop Practicum"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77592",
+        "desc": "Scenic Design"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77593",
+        "desc": "Scenic Design II"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77594",
+        "desc": "Scenographic Techn"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77595",
+        "desc": "Scenographic Techn I: Fund"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77596",
+        "desc": "Scenographic Techniques"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77597",
+        "desc": "Scenographic Technq 3 3D CADD"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77598",
+        "desc": "Scenographic Technq II 2D CADD"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77599",
+        "desc": "Scenogrphc Tech III"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77600",
+        "desc": "Sem Perf Arts Mgmt"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77601",
+        "desc": "Sem in Perf Arts Management"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77602",
+        "desc": "Seminar"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77603",
+        "desc": "Seminar in Theater Criticism"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77604",
+        "desc": "Senior Rehearsal & Performance"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77605",
+        "desc": "Sound Recording"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77606",
+        "desc": "Special Problems"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77607",
+        "desc": "Special Topics in Theater"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77608",
+        "desc": "Sr Rhrsl & Perform"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77609",
+        "desc": "Stage Design Concepts"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77610",
+        "desc": "Stage Lighting"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77611",
+        "desc": "Stage Lighting Workshop"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77612",
+        "desc": "Stage Makeup"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77613",
+        "desc": "Stage Management"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77614",
+        "desc": "Stage Management 2"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77615",
+        "desc": "Stage and Company Management"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77616",
+        "desc": "Stage/ Screen Costum Constr 2"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77617",
+        "desc": "Stagecraft"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77618",
+        "desc": "Stagecraft I"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77619",
+        "desc": "Studies Dram Theor"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77620",
+        "desc": "Technol & Performing Arts"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77621",
+        "desc": "Technol &Perf Arts"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77622",
+        "desc": "Text Analysis"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77623",
+        "desc": "The Energized Self"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77624",
+        "desc": "Theat Hist & Prod"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77625",
+        "desc": "Theater Design and Planning"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77626",
+        "desc": "Theater Hist & Prod"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77627",
+        "desc": "Theater History and Production"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77628",
+        "desc": "Theater In Asia"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77629",
+        "desc": "Theater Lab"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77630",
+        "desc": "Theater Lab 2"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77631",
+        "desc": "Theater Lab 4"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77632",
+        "desc": "Theater Lab 6"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77633",
+        "desc": "Theater Laboratory"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77634",
+        "desc": "Theater Laboratory  VI"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77635",
+        "desc": "Theater Laboratory I"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77636",
+        "desc": "Theater Laboratory II"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77637",
+        "desc": "Theater Laboratory III"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77638",
+        "desc": "Theater Laboratory IV"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77639",
+        "desc": "Theater Laboratory V"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77640",
+        "desc": "Theater Management"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77641",
+        "desc": "Theater Practicum"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77642",
+        "desc": "Theater Research &Bibliography"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77643",
+        "desc": "Theater Rsch Biblio"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77644",
+        "desc": "Theater Workshop"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77645",
+        "desc": "Theater and the City"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77646",
+        "desc": "Theater in Age of Globaliztion"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77647",
+        "desc": "Theater in Asia"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77648",
+        "desc": "Theater in the Classroom"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77649",
+        "desc": "Theatr Theor &Crit"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77650",
+        "desc": "Thesis Prod/Proj"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77651",
+        "desc": "Thesis Production &/or Project"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77652",
+        "desc": "Thesis Research"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77653",
+        "desc": "Twentieth Century Theater"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77654",
+        "desc": "Voice 3"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77655",
+        "desc": "Voice III"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77656",
+        "desc": "Voice Production 1"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77657",
+        "desc": "Voice Production 2"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77658",
+        "desc": "Voice Production 4"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77659",
+        "desc": "Women in Theater"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77660",
+        "desc": "Workshop"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77661",
+        "desc": "World Theater History I"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77662",
+        "desc": "World Theater History II"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77663",
+        "desc": "World Theater History III"
+    },
+    {
+        "major": "THEA",
+        "room_num": "77664",
+        "desc": "World Theater History IV"
+    }
+]

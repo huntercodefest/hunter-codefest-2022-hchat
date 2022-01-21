@@ -1,0 +1,32 @@
+[
+    {
+        "school": "SPS01",
+        "major": "PHIL",
+        "room_num": "80892",
+        "room_desc": "Bioethics for Health Profess"
+    },
+    {
+        "school": "SPS01",
+        "major": "PHIL",
+        "room_num": "80893",
+        "room_desc": "Cmptrs Soc-Hum Val"
+    },
+    {
+        "school": "SPS01",
+        "major": "PHIL",
+        "room_num": "80894",
+        "room_desc": "Critical Thinking"
+    },
+    {
+        "school": "SPS01",
+        "major": "PHIL",
+        "room_num": "80895",
+        "room_desc": "Ethics in the Workplace"
+    },
+    {
+        "school": "SPS01",
+        "major": "PHIL",
+        "room_num": "80896",
+        "room_desc": "Introduction to Philosophy"
+    }
+]

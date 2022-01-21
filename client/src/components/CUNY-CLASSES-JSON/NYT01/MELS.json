@@ -1,0 +1,110 @@
+[
+    {
+        "school": "NYT01",
+        "major": "MELS",
+        "room_num": "67776",
+        "room_desc": "ASCP Comprehensive Review"
+    },
+    {
+        "school": "NYT01",
+        "major": "MELS",
+        "room_num": "67777",
+        "room_desc": "Clinic:microb/parasit/mycology"
+    },
+    {
+        "school": "NYT01",
+        "major": "MELS",
+        "room_num": "67778",
+        "room_desc": "Clinical Hematology"
+    },
+    {
+        "school": "NYT01",
+        "major": "MELS",
+        "room_num": "67779",
+        "room_desc": "Clinical Laboratory Chemistry"
+    },
+    {
+        "school": "NYT01",
+        "major": "MELS",
+        "room_num": "67780",
+        "room_desc": "Clinical Microbiology"
+    },
+    {
+        "school": "NYT01",
+        "major": "MELS",
+        "room_num": "67781",
+        "room_desc": "Clinical Training:  Blood Bank"
+    },
+    {
+        "school": "NYT01",
+        "major": "MELS",
+        "room_num": "67782",
+        "room_desc": "Clinical Training: Chemistry"
+    },
+    {
+        "school": "NYT01",
+        "major": "MELS",
+        "room_num": "67783",
+        "room_desc": "Clinical:Hematology/Coag."
+    },
+    {
+        "school": "NYT01",
+        "major": "MELS",
+        "room_num": "67784",
+        "room_desc": "Clinical:Immunology/Serology"
+    },
+    {
+        "school": "NYT01",
+        "major": "MELS",
+        "room_num": "67785",
+        "room_desc": "Clinical:Urinalysis/Body Fluid"
+    },
+    {
+        "school": "NYT01",
+        "major": "MELS",
+        "room_num": "67786",
+        "room_desc": "Diagnostic Molecular Biology"
+    },
+    {
+        "school": "NYT01",
+        "major": "MELS",
+        "room_num": "67787",
+        "room_desc": "Immunohematology"
+    },
+    {
+        "school": "NYT01",
+        "major": "MELS",
+        "room_num": "67788",
+        "room_desc": "Immunology/Serology"
+    },
+    {
+        "school": "NYT01",
+        "major": "MELS",
+        "room_num": "67789",
+        "room_desc": "Lab Operations and Mgmt"
+    },
+    {
+        "school": "NYT01",
+        "major": "MELS",
+        "room_num": "67790",
+        "room_desc": "Medical Technology Training I"
+    },
+    {
+        "school": "NYT01",
+        "major": "MELS",
+        "room_num": "67791",
+        "room_desc": "Medical Technology Training II"
+    },
+    {
+        "school": "NYT01",
+        "major": "MELS",
+        "room_num": "67792",
+        "room_desc": "Parasitology/Mycology/Virology"
+    },
+    {
+        "school": "NYT01",
+        "major": "MELS",
+        "room_num": "67793",
+        "room_desc": "Urinalysis/Body Fluids"
+    }
+]

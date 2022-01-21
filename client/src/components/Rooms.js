@@ -9,15 +9,15 @@ export function RoomList(CurrList, PrevList) {
 	this.CurrList = CurrList;
 	// If prevlist is not null
 	PrevList
-		? (this.PrevList = new RoomList(PrevList, PrevList.PrevList))
+		? (this.PrevList = new RoomList(PrevList.CurrList, PrevList.PrevList))
 		: (this.PrevList = null);
 }
 
-const Schools = new RoomList(
+export const Schools = new RoomList(
 	[
 		new Room("BAR01", null, null, "Baruch College"),
 		new Room("BCC01", null, null, "Bronx Community College"),
-		new Room("BK101", null, null, "Brooklyn College"),
+		new Room("BKL01", null, null, "Brooklyn College"),
 		new Room("BMC01", null, null, "Borough of Manhattan Community College"),
 		new Room("CSI01", null, null, "College of Staten Island"),
 		new Room("CTY01", null, null, "The City College of New York"),
@@ -53,4 +53,3 @@ const Schools = new RoomList(
 	],
 	null
 );
-export { Schools };

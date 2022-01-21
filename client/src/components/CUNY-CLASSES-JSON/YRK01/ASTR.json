@@ -1,0 +1,74 @@
+[
+    {
+        "school": "YRK01",
+        "major": "ASTR",
+        "room_num": "15308",
+        "room_desc": "Astronomy Laboratory"
+    },
+    {
+        "school": "YRK01",
+        "major": "ASTR",
+        "room_num": "15309",
+        "room_desc": "Astrophysics I: Planetary Astr"
+    },
+    {
+        "school": "YRK01",
+        "major": "ASTR",
+        "room_num": "15310",
+        "room_desc": "Astrophysics II: Stellar Astr"
+    },
+    {
+        "school": "YRK01",
+        "major": "ASTR",
+        "room_num": "15311",
+        "room_desc": "Astrophysics III:Extragalactic"
+    },
+    {
+        "school": "YRK01",
+        "major": "ASTR",
+        "room_num": "15312",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "YRK01",
+        "major": "ASTR",
+        "room_num": "15313",
+        "room_desc": "Intro Astronomy"
+    },
+    {
+        "school": "YRK01",
+        "major": "ASTR",
+        "room_num": "15314",
+        "room_desc": "Introduction to Cosmology"
+    },
+    {
+        "school": "YRK01",
+        "major": "ASTR",
+        "room_num": "15315",
+        "room_desc": "Methods of Scientific Research"
+    },
+    {
+        "school": "YRK01",
+        "major": "ASTR",
+        "room_num": "15316",
+        "room_desc": "Observational Astronomy"
+    },
+    {
+        "school": "YRK01",
+        "major": "ASTR",
+        "room_num": "15317",
+        "room_desc": "Stars and the Milky Way"
+    },
+    {
+        "school": "YRK01",
+        "major": "ASTR",
+        "room_num": "15318",
+        "room_desc": "Stars15319: ASTR,\"Sun & Planets"
+    },
+    {
+        "school": "YRK01",
+        "major": "ASTR",
+        "room_num": "15320",
+        "room_desc": "The Solar System"
+    }
+]

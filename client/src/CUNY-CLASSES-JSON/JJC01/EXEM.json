@@ -1,0 +1,52 @@
+[
+    {
+        "major": "EXEM",
+        "room_num": "20429",
+        "desc": "Eng 101 Exemption"
+    },
+    {
+        "major": "EXEM",
+        "room_num": "20430",
+        "desc": "English 201 Exemption"
+    },
+    {
+        "major": "EXEM",
+        "room_num": "20431",
+        "desc": "F Lang Exemp 101/111"
+    },
+    {
+        "major": "EXEM",
+        "room_num": "20432",
+        "desc": "F Lang Exemption All"
+    },
+    {
+        "major": "EXEM",
+        "room_num": "20433",
+        "desc": "In Service Exemption"
+    },
+    {
+        "major": "EXEM",
+        "room_num": "20434",
+        "desc": "Mat 105 Exemption"
+    },
+    {
+        "major": "EXEM",
+        "room_num": "20435",
+        "desc": "Math Gen Ed Exemption"
+    },
+    {
+        "major": "EXEM",
+        "room_num": "20436",
+        "desc": "Nsc 107 Exemption"
+    },
+    {
+        "major": "EXEM",
+        "room_num": "20437",
+        "desc": "Ped Exemption"
+    },
+    {
+        "major": "EXEM",
+        "room_num": "20438",
+        "desc": "Spe 113 Exemption"
+    }
+]

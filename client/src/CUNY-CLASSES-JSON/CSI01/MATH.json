@@ -1,0 +1,547 @@
+[
+    {
+        "major": "MATH",
+        "room_num": "85512",
+        "desc": "Abstract Algebra I"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85513",
+        "desc": "Abstract Algebra II"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85514",
+        "desc": "Accelerated Calculus I"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85515",
+        "desc": "Accelerated Calculus II"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85516",
+        "desc": "Actuarial Science"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85517",
+        "desc": "Advanced Calculus I"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85518",
+        "desc": "Advanced Calculus II"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85519",
+        "desc": "Advanced Statistics"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85520",
+        "desc": "Alg/Trig Computr Lab"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85521",
+        "desc": "Algorithmic Algbra"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85522",
+        "desc": "Anal Geom-Calc I"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85523",
+        "desc": "App Mth For Comp Sci"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85524",
+        "desc": "App Stat Mthd Hlth"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85525",
+        "desc": "Applied Finite Math"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85526",
+        "desc": "Applied Math I"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85527",
+        "desc": "Applied Mathematical Analysis"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85528",
+        "desc": "Applied Mth Sec Schl"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85529",
+        "desc": "Applied Stats Using Computers"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85530",
+        "desc": "Basic Mathematics"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85531",
+        "desc": "CUNYStart Math"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85532",
+        "desc": "Calc Sec Schl Teach"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85533",
+        "desc": "Calculus Computer Laboratory"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85534",
+        "desc": "Calculus I with Pre-Calculus"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85535",
+        "desc": "Calculus II"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85536",
+        "desc": "Calculus III"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85537",
+        "desc": "Cmbinatorics/Graphs"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85538",
+        "desc": "Coll Alg & Trig"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85539",
+        "desc": "College Algebra and Trigonomet"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85540",
+        "desc": "Complex Analysis"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85541",
+        "desc": "Cryptology"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85542",
+        "desc": "Development of Mathematics"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85543",
+        "desc": "Differential Equations"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85544",
+        "desc": "Disc Mth Model-Tchrs"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85545",
+        "desc": "Discrte Mth Comp Sci"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85546",
+        "desc": "Elem Algebra"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85547",
+        "desc": "Elementary Algebra"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85548",
+        "desc": "Elements of Intermediate Algeb"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85549",
+        "desc": "Finite Mathematics"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85550",
+        "desc": "Foundations of Mathematics"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85551",
+        "desc": "Foundations of Number Theory"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85552",
+        "desc": "Functions & Models in Coll Alg"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85553",
+        "desc": "Functions of Complex Variables"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85554",
+        "desc": "Fundamentals of Mathematics I"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85555",
+        "desc": "Fundamentals of Mathematics II"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85556",
+        "desc": "Geometry"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85557",
+        "desc": "Geometry Foundatns"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85558",
+        "desc": "Geometry-Teachers"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85559",
+        "desc": "Hist Of Math Thought"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85560",
+        "desc": "Hst Persp Mth Topics"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85561",
+        "desc": "Immersion Math Part I Workshop"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85562",
+        "desc": "Immersion Math Workshop"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85563",
+        "desc": "Immersion Math20 LAMPAS"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85564",
+        "desc": "Intermediate Algebra"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85565",
+        "desc": "Intro Math Modeling"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85566",
+        "desc": "Intro To Cryptology"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85567",
+        "desc": "Intro to Differential Geometry"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85568",
+        "desc": "Intro to Mathematical Modeling"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85569",
+        "desc": "Intro to Mathematical Proof"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85570",
+        "desc": "Introduction to Probability an"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85571",
+        "desc": "Linear Algebra"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85572",
+        "desc": "Linear Programming"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85573",
+        "desc": "Machine Learning"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85574",
+        "desc": "Math & Environment"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85575",
+        "desc": "Math Concepts I"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85576",
+        "desc": "Math Concepts II"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85577",
+        "desc": "Math Express"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85578",
+        "desc": "Math For Liberal Arts Students"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85579",
+        "desc": "Math Grad Credit"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85580",
+        "desc": "Math Immersion"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85581",
+        "desc": "Math Ind Study"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85582",
+        "desc": "Math Independent Study"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85583",
+        "desc": "Math Internship"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85584",
+        "desc": "Math Statistics"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85585",
+        "desc": "Math Topics"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85586",
+        "desc": "MathStart Course"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85587",
+        "desc": "Mathematical Biology"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85588",
+        "desc": "Mathematical Ideas"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85589",
+        "desc": "Mathematical Logic"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85590",
+        "desc": "Mathematical Statistics I"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85591",
+        "desc": "Mathematical Statistics II"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85592",
+        "desc": "Mathematics of Finance"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85593",
+        "desc": "Mathematics-Tchers"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85594",
+        "desc": "Medical Dosage Calculations"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85595",
+        "desc": "Mod Algebra-Elem Teachers"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85596",
+        "desc": "Nonlinear Dynamics and Chaos"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85597",
+        "desc": "Number Theory"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85598",
+        "desc": "Numerical Analysis"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85599",
+        "desc": "Numerical Methods"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85600",
+        "desc": "Numricl Anal-Tchrs"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85601",
+        "desc": "Operations Research"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85602",
+        "desc": "Partial Differentl Equations"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85603",
+        "desc": "Partial Diffntl Equa"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85604",
+        "desc": "Pre-Calculus Mathematics"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85605",
+        "desc": "Prob Theory & Stoch Process"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85606",
+        "desc": "Prob Thry for Sec Schl Tchrs"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85607",
+        "desc": "Probab Theor & intro Math Stat"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85608",
+        "desc": "Probab/Mth Stat Intr"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85609",
+        "desc": "Probab/Statistics"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85610",
+        "desc": "Proofs and Explorations"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85611",
+        "desc": "Select Top in Intermed Algebra"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85612",
+        "desc": "Set Theory"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85613",
+        "desc": "Statistics"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85614",
+        "desc": "Stats for Secondary Schl Tchrs"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85615",
+        "desc": "Tech Calculus II"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85616",
+        "desc": "Technical Calc I"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85617",
+        "desc": "Technical Calculus"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85618",
+        "desc": "Theory of Topology"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85619",
+        "desc": "Thinking Mathematically"
+    },
+    {
+        "major": "MATH",
+        "room_num": "85620",
+        "desc": "Topology"
+    }
+]

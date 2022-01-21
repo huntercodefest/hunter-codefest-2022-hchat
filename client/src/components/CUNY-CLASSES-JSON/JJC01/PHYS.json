@@ -1,0 +1,56 @@
+[
+    {
+        "school": "JJC01",
+        "major": "PHYS",
+        "room_num": "21265",
+        "room_desc": "College Physics I"
+    },
+    {
+        "school": "JJC01",
+        "major": "PHYS",
+        "room_num": "21266",
+        "room_desc": "College Physics II"
+    },
+    {
+        "school": "JJC01",
+        "major": "PHYS",
+        "room_num": "21267",
+        "room_desc": "General Physics 2"
+    },
+    {
+        "school": "JJC01",
+        "major": "PHYS",
+        "room_num": "21268",
+        "room_desc": "General Physics I"
+    },
+    {
+        "school": "JJC01",
+        "major": "PHYS",
+        "room_num": "21269",
+        "room_desc": "General Physics II"
+    },
+    {
+        "school": "JJC01",
+        "major": "PHYS",
+        "room_num": "21270",
+        "room_desc": "Independent Study 200-level"
+    },
+    {
+        "school": "JJC01",
+        "major": "PHYS",
+        "room_num": "21271",
+        "room_desc": "Independent Study 300-level"
+    },
+    {
+        "school": "JJC01",
+        "major": "PHYS",
+        "room_num": "21272",
+        "room_desc": "Independent Study 400-level"
+    },
+    {
+        "school": "JJC01",
+        "major": "PHYS",
+        "room_num": "21273",
+        "room_desc": "Our Physicl World"
+    }
+]

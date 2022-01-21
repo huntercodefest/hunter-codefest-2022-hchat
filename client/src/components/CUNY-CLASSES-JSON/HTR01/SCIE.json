@@ -1,0 +1,32 @@
+[
+    {
+        "school": "HTR01",
+        "major": "SCIE",
+        "room_num": "57043",
+        "room_desc": "Brains57044: SCIE,\"Ethical Conduct"
+    },
+    {
+        "school": "HTR01",
+        "major": "SCIE",
+        "room_num": "57045",
+        "room_desc": "Foundations of Science"
+    },
+    {
+        "school": "HTR01",
+        "major": "SCIE",
+        "room_num": "57046",
+        "room_desc": "Intro Biomed Res"
+    },
+    {
+        "school": "HTR01",
+        "major": "SCIE",
+        "room_num": "57047",
+        "room_desc": "Natur & Limit of Sci"
+    },
+    {
+        "school": "HTR01",
+        "major": "SCIE",
+        "room_num": "57048",
+        "room_desc": "Sci:Mdcal & Rsrch Car"
+    }
+]

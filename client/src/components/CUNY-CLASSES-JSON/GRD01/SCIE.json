@@ -1,0 +1,20 @@
+[
+    {
+        "school": "GRD01",
+        "major": "SCIE",
+        "room_num": "9858",
+        "room_desc": "Meas Model/Computer"
+    },
+    {
+        "school": "GRD01",
+        "major": "SCIE",
+        "room_num": "9859",
+        "room_desc": "Tch Pract Mol Biophys/Biomater"
+    },
+    {
+        "school": "GRD01",
+        "major": "SCIE",
+        "room_num": "9860",
+        "room_desc": "Teach Strat For Molec Biophysc"
+    }
+]

@@ -1,0 +1,322 @@
+[
+    {
+        "major": "EGSC",
+        "room_num": "66509",
+        "desc": "Advanced Engineering Design"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66510",
+        "desc": "Advanced Engineering Design I"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66511",
+        "desc": "Advanced Engineering Design II"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66512",
+        "desc": "Analog&Digtl Sys Des"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66513",
+        "desc": "App Env Science"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66514",
+        "desc": "Applied Elasticity"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66515",
+        "desc": "Applied Mechanics Laboratory"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66516",
+        "desc": "Apps66517: EGSC,\"Basic Measurements Laboratory"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66518",
+        "desc": "Broadband&Sonet Ntwk"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66519",
+        "desc": "Computer Architecture"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66520",
+        "desc": "Computer-Aided Engineering"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66521",
+        "desc": "Control Systems"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66522",
+        "desc": "Design & Analysis of Elec Powe"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66523",
+        "desc": "Digital & Analog Comm Syst"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66524",
+        "desc": "Digital Electronics Laboratory"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66525",
+        "desc": "Digital Signal Processing"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66526",
+        "desc": "Dynamics"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66527",
+        "desc": "Elec Prop Materials"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66528",
+        "desc": "Elect & Elect Circuits"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66529",
+        "desc": "Elect Pwr Trans&Dist"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66530",
+        "desc": "Electrical & Elec Circuits II"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66531",
+        "desc": "Electrical Machines and Energy"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66532",
+        "desc": "Electromagntic Rad"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66533",
+        "desc": "Embedded Sys Analysis & Design"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66534",
+        "desc": "Energy Conversion"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66535",
+        "desc": "Engineer Economics"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66536",
+        "desc": "Engineering Grad Crd"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66537",
+        "desc": "Engineering Grad Credit"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66538",
+        "desc": "Engineering Graphics"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66539",
+        "desc": "Engineering Ind Stdy"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66540",
+        "desc": "Engineering Independent Study"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66541",
+        "desc": "Engineering Internsh"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66542",
+        "desc": "Engineering Internship"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66543",
+        "desc": "Engineering Mechanics"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66544",
+        "desc": "Envirnmntl Enginrg"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66545",
+        "desc": "Fluid Mechanics"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66546",
+        "desc": "Fund Wireless Comm"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66547",
+        "desc": "Heat Transfer"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66548",
+        "desc": "Imge&Video Processig"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66549",
+        "desc": "Int To Elec Tech Lab"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66550",
+        "desc": "Intdis Hon Rsrch Sem"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66551",
+        "desc": "Intelligent Networks"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66552",
+        "desc": "Intro Computer Engin"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66553",
+        "desc": "Intro Electronc Tech"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66554",
+        "desc": "Intro To Dgt Tec Lab"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66555",
+        "desc": "Introduction to Engineering"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66556",
+        "desc": "Introduction to Nanotechnology"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66557",
+        "desc": "Mech Properties of Materials"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66558",
+        "desc": "Mechanic Materials"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66559",
+        "desc": "Mechanics of Solids"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66560",
+        "desc": "Mgmt&Engin Info Sys"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66561",
+        "desc": "Microcontrollers"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66562",
+        "desc": "Network Systems Engineering"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66563",
+        "desc": "Power Electronics & Instrument"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66564",
+        "desc": "Power Plant Design"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66565",
+        "desc": "Properties of Materials"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66566",
+        "desc": "Quant Envirn Engnr"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66567",
+        "desc": "Signals and Noise"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66568",
+        "desc": "Solid State Device Fundament"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66569",
+        "desc": "Systems Analysis"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66570",
+        "desc": "Systems Laboratory"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66571",
+        "desc": "Telecommunications System Engi"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66572",
+        "desc": "Thermodynamics"
+    },
+    {
+        "major": "EGSC",
+        "room_num": "66573",
+        "desc": "Transport Processes"
+    }
+]

@@ -1,0 +1,758 @@
+[
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21689",
+        "room_desc": "Advanced Policy Analysis"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21690",
+        "room_desc": "Anlytcl Mthds Hlth Care Audit"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21691",
+        "room_desc": "Applied Econ for Public Admin"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21692",
+        "room_desc": "Assmnt Aud & Inv Hr"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21693",
+        "room_desc": "Audit & Invstg In Hr"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21694",
+        "room_desc": "Budgeting"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21695",
+        "room_desc": "Bureaupathology"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21696",
+        "room_desc": "Capital21697: PUAD,\"Capstone Sem in Pub Admin"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21698",
+        "room_desc": "Capstone Seminar"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21699",
+        "room_desc": "Cases Prod Pub Management"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21700",
+        "room_desc": "Cmp Prg Mgmt&Anly"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21701",
+        "room_desc": "Comp App Pub Pol"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21702",
+        "room_desc": "Comp App Pubadm"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21703",
+        "room_desc": "Comp Public Administration"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21704",
+        "room_desc": "Compar Pub Admin"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21705",
+        "room_desc": "Compar Public Admin"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21706",
+        "room_desc": "Computer Security"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21707",
+        "room_desc": "Conc&Cas Pub Pol"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21708",
+        "room_desc": "Contemp Issues in Court Admin"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21709",
+        "room_desc": "Contemporary Admin & Judiciary"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21710",
+        "room_desc": "Court Administration"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21711",
+        "room_desc": "Crimnlgy & Pub Polcy"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21712",
+        "room_desc": "Critical Incident Analysis"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21713",
+        "room_desc": "Crj Service Delivery"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21714",
+        "room_desc": "Current Ig Issues"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21715",
+        "room_desc": "Decisions In Crisis"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21716",
+        "room_desc": "Decisions and Crises"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21717",
+        "room_desc": "Del Sys Just&Urb Srv"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21718",
+        "room_desc": "Deliver System in Crim Justice"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21719",
+        "room_desc": "Ethics & Cmplc Audit"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21720",
+        "room_desc": "Ethics In Pub Serv"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21721",
+        "room_desc": "Fac Mentored Reseach Experien"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21722",
+        "room_desc": "Fac-Mentored Research: PAD"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21723",
+        "room_desc": "Financial Forensic Exam &Audit"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21724",
+        "room_desc": "Fraud21725: PUAD,\"Governing the Just City"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21726",
+        "room_desc": "Health Services Fraud21727: PUAD,\"Hr & Labor Rel Pb Sc"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21728",
+        "room_desc": "Human Resource Administration"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21729",
+        "room_desc": "Human Resources Management"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21730",
+        "room_desc": "Independent Sector"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21731",
+        "room_desc": "Independent Sector: Nonprofits"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21732",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21733",
+        "room_desc": "Independent Study 200-level"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21734",
+        "room_desc": "Independent Study 300-level"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21735",
+        "room_desc": "Independent Study 400-level"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21736",
+        "room_desc": "Information in Public Administ"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21737",
+        "room_desc": "Insp & Ovrst Health Care Dlvry"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21738",
+        "room_desc": "Insp. General Course"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21739",
+        "room_desc": "Inspction & Oversght"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21740",
+        "room_desc": "Int Pub Policy & Adm"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21741",
+        "room_desc": "International Intergov Orgs"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21742",
+        "room_desc": "International Public Administr"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21743",
+        "room_desc": "Internship"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21744",
+        "room_desc": "Intl Insp & Oversight"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21745",
+        "room_desc": "Intl Iss Envrn Ovrst"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21746",
+        "room_desc": "Intl Pub Pol & Admin"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21747",
+        "room_desc": "Intro to Public Administration"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21748",
+        "room_desc": "Investigation Management"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21749",
+        "room_desc": "Investigative Technique"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21750",
+        "room_desc": "Just Adm & Plan"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21751",
+        "room_desc": "Labor Relations"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21752",
+        "room_desc": "Law School Transfer III"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21753",
+        "room_desc": "Law School Transfer IV"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21754",
+        "room_desc": "Law School Trnsfer 2"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21755",
+        "room_desc": "Law School Trnsfr 1"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21756",
+        "room_desc": "Law of Public Employment"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21757",
+        "room_desc": "Managing People:Hr"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21758",
+        "room_desc": "Mang Org Beh Tran"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21759",
+        "room_desc": "Measurement in Public Policy"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21760",
+        "room_desc": "Methods in Transparent System"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21761",
+        "room_desc": "Mgmt Of Info&Technol"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21762",
+        "room_desc": "Mgt Sysms & Tchnqs"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21763",
+        "room_desc": "Not-for-Profit Organization"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21764",
+        "room_desc": "Operations Management"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21765",
+        "room_desc": "Operations Research"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21766",
+        "room_desc": "Organ Perform Asses"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21767",
+        "room_desc": "Organization Theory & Manag"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21768",
+        "room_desc": "Out-Sourcing"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21769",
+        "room_desc": "Ovs Ind Reg&Pol Auth"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21770",
+        "room_desc": "Passed Comp Exam"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21771",
+        "room_desc": "Passed Qualify Exam"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21772",
+        "room_desc": "Planning and Policy Analysis"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21773",
+        "room_desc": "Police Oversight"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21774",
+        "room_desc": "Policy Advocacy Practicum"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21775",
+        "room_desc": "Policy Advocacy Practicum 2"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21776",
+        "room_desc": "Policy Advocacy Practicum I"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21777",
+        "room_desc": "Policy Advocacy Practicum II"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21778",
+        "room_desc": "Policy Analysis Crj"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21779",
+        "room_desc": "Polit Settg Pub Adm"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21780",
+        "room_desc": "Practicum In Pub Adm"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21781",
+        "room_desc": "Productivity Mgmt"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21782",
+        "room_desc": "Progm Devel & Eval"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21783",
+        "room_desc": "Project Management"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21784",
+        "room_desc": "Pub Administration"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21785",
+        "room_desc": "Pub Org Fraud Waste"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21786",
+        "room_desc": "Pub Org Oversight"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21787",
+        "room_desc": "Pub Sect Inspect"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21788",
+        "room_desc": "Public Admin Elective Credit"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21789",
+        "room_desc": "Public Administration"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21790",
+        "room_desc": "Public Health Policy and Admin"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21791",
+        "room_desc": "Public Oversight of Policing"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21792",
+        "room_desc": "Public Policy & Admn"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21793",
+        "room_desc": "Public Policy Analysis"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21794",
+        "room_desc": "Public Sector Acct & Auditing"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21795",
+        "room_desc": "Public Sector Financial Mgmt"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21796",
+        "room_desc": "Quant Analys for Decision Mkrs"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21797",
+        "room_desc": "Quant Prb In Pad"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21798",
+        "room_desc": "Quantitative Methd 1"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21799",
+        "room_desc": "Quantitative Method II"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21800",
+        "room_desc": "Rsrch Mthds in Public Admin"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21801",
+        "room_desc": "ST:Public Administration"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21802",
+        "room_desc": "Sem & Internship Public Admin"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21803",
+        "room_desc": "Seminar Public Administration"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21804",
+        "room_desc": "Semnr Selc Topics"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21805",
+        "room_desc": "Semr&Intrn Nyc Go"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21806",
+        "room_desc": "Special Topics"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21807",
+        "room_desc": "Statistics for Public Admin"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21808",
+        "room_desc": "Technqs & Tools Hr"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21809",
+        "room_desc": "Terrorist Financing"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21810",
+        "room_desc": "Tools/Techniques"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21811",
+        "room_desc": "Urban Study Transfer I"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21812",
+        "room_desc": "Urban Study Trnsfr 2"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21813",
+        "room_desc": "Urban Study Trnsfr 3"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21814",
+        "room_desc": "Urban Study Trnsfr 4"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21815",
+        "room_desc": "Workplace Investgtns"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21816",
+        "room_desc": "Workplace Investigation"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "21817",
+        "room_desc": "Writing for Management"
+    }
+]

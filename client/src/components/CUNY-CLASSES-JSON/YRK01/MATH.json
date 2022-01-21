@@ -1,0 +1,290 @@
+[
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16310",
+        "room_desc": "Actuarial Mathematics I"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16311",
+        "room_desc": "Actuarial Mathematics II"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16312",
+        "room_desc": "Actuarial Mathematics III"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16313",
+        "room_desc": "Advanced Calculus I"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16314",
+        "room_desc": "Advanced Calculus II"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16315",
+        "room_desc": "Analyt Geom Calc 1"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16316",
+        "room_desc": "Analyt Geom Calc 2"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16317",
+        "room_desc": "Applied Regression Analysis"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16318",
+        "room_desc": "Calculus 3"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16319",
+        "room_desc": "College Algebra"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16320",
+        "room_desc": "Combinatorial Geometry"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16321",
+        "room_desc": "Computer Algebra System"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16322",
+        "room_desc": "Computers in Modern Society"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16323",
+        "room_desc": "Differential Eq& Dynamical Sys"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16324",
+        "room_desc": "Discrete Math Structures"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16325",
+        "room_desc": "Discrete Mathematics"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16326",
+        "room_desc": "Finite Differ & Diff Equations"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16327",
+        "room_desc": "Foundational Mathematics I"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16328",
+        "room_desc": "Foundational Mathematics II"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16329",
+        "room_desc": "Geometric Structures"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16330",
+        "room_desc": "Geometry and Measurement"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16331",
+        "room_desc": "Guided Study"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16332",
+        "room_desc": "Hist & Phil Of Math"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16333",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16334",
+        "room_desc": "Individual Study"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16335",
+        "room_desc": "Intermediate Algebra"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16336",
+        "room_desc": "Introduction Complex Analysis"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16337",
+        "room_desc": "Introduction to Topology"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16338",
+        "room_desc": "Linear Algebra"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16339",
+        "room_desc": "Math & Its Applications"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16340",
+        "room_desc": "Math Meth Phys Sci"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16341",
+        "room_desc": "Mathematical Logic"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16342",
+        "room_desc": "Mathematical Modeling"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16343",
+        "room_desc": "Mathematics for Social Justice"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16344",
+        "room_desc": "Modern Algebra"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16345",
+        "room_desc": "Numerical Analysis"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16346",
+        "room_desc": "Operations Research"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16347",
+        "room_desc": "Pre-Calculus"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16348",
+        "room_desc": "Probability and Statistics I"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16349",
+        "room_desc": "Probability and Statistics II"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16350",
+        "room_desc": "Quant Approaches Urban Prob"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16351",
+        "room_desc": "Quant Mth Decs Mkng"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16352",
+        "room_desc": "Seminar Comtemp Math"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16353",
+        "room_desc": "Seminar Contemp Math"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16354",
+        "room_desc": "Seminar Contemporary Math"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16355",
+        "room_desc": "Stat & Probability"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16356",
+        "room_desc": "Statistics for Educators"
+    },
+    {
+        "school": "YRK01",
+        "major": "MATH",
+        "room_num": "16357",
+        "room_desc": "Theory of Numbers"
+    }
+]

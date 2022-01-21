@@ -1,0 +1,38 @@
+[
+    {
+        "school": "KCC01",
+        "major": "EDHP",
+        "room_num": "63188",
+        "room_desc": "Cardio Fitness"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDHP",
+        "room_num": "63189",
+        "room_desc": "Concepts of Wellness"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDHP",
+        "room_num": "63190",
+        "room_desc": "Fitness Assmnt/Persc"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDHP",
+        "room_num": "63191",
+        "room_desc": "Fitness Assmnt/Presc"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDHP",
+        "room_num": "63192",
+        "room_desc": "Fitness/Assess/Presc"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDHP",
+        "room_num": "63193",
+        "room_desc": "IS Fit Assess/Prescr"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "school": "BCC01",
+        "major": "ELTE",
+        "room_num": "69027",
+        "room_desc": "AC Circuit Analysis"
+    },
+    {
+        "school": "BCC01",
+        "major": "ELTE",
+        "room_num": "69028",
+        "room_desc": "Comp App Telecommun"
+    },
+    {
+        "school": "BCC01",
+        "major": "ELTE",
+        "room_num": "69029",
+        "room_desc": "Computer Applications In Tech"
+    },
+    {
+        "school": "BCC01",
+        "major": "ELTE",
+        "room_num": "69030",
+        "room_desc": "Computer Programming"
+    },
+    {
+        "school": "BCC01",
+        "major": "ELTE",
+        "room_num": "69031",
+        "room_desc": "DC Circuit Analysis"
+    },
+    {
+        "school": "BCC01",
+        "major": "ELTE",
+        "room_num": "69032",
+        "room_desc": "Digital System I"
+    },
+    {
+        "school": "BCC01",
+        "major": "ELTE",
+        "room_num": "69033",
+        "room_desc": "Digital System II"
+    },
+    {
+        "school": "BCC01",
+        "major": "ELTE",
+        "room_num": "69034",
+        "room_desc": "Elc Systm For Tel II"
+    },
+    {
+        "school": "BCC01",
+        "major": "ELTE",
+        "room_num": "69035",
+        "room_desc": "Elc Systm For Telc 1"
+    },
+    {
+        "school": "BCC01",
+        "major": "ELTE",
+        "room_num": "69036",
+        "room_desc": "Electrical Circuits"
+    },
+    {
+        "school": "BCC01",
+        "major": "ELTE",
+        "room_num": "69037",
+        "room_desc": "Electronic Communications"
+    },
+    {
+        "school": "BCC01",
+        "major": "ELTE",
+        "room_num": "69038",
+        "room_desc": "Electronic Controls"
+    },
+    {
+        "school": "BCC01",
+        "major": "ELTE",
+        "room_num": "69039",
+        "room_desc": "Electronics I"
+    },
+    {
+        "school": "BCC01",
+        "major": "ELTE",
+        "room_num": "69040",
+        "room_desc": "Electronics II"
+    },
+    {
+        "school": "BCC01",
+        "major": "ELTE",
+        "room_num": "69041",
+        "room_desc": "Laser & Fiber Optics"
+    }
+]
