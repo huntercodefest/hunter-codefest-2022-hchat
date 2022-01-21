@@ -1,5 +1,9 @@
 *{box-sizing: border-box;}
 
+div, span {
+    font-family: Roboto, Arial, Helvetica, sans-serif
+}
+
 .container {
     display:flex;
     border: solid black 1px;
@@ -38,7 +42,7 @@
     color: #fff;
     height: 100%;
     width: 100%;
-    padding: 3px 5px 0 5px;  
+    padding: 3px 5px 0 5px;
 }
 
 .stack2 {
@@ -126,6 +130,7 @@ button{
 }
 
 .chatMessages{
+    border-top: solid black 1px;
     border-left: solid black 1px;
     height: 100%;
     width: 100%;
