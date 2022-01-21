@@ -85,6 +85,14 @@ class ChatComponent extends React.Component {
 		this.ws = new WebSocket("ws://hchat.hopto.org:8080/ws");
 		this.connectToServer();
 	}
+	componentDidUpdate(prevProps){
+		if (this.props.room !== prevProps.room) {
+			this.setState({
+				...this.state,
+				messages: [],
+			});	
+		}
+	}
 	render() {
 		this.attemptConnection();
 		return (

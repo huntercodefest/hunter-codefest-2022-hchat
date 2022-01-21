@@ -11,10 +11,12 @@ class App extends React.Component {
 		this.state = {
 			username: "",
 			askForNewUsername: true,
+			clear: false,
 			room: new Room(null, null, 0, "Global"), // Temp
 		};
 		this.handleUsernameChange = this.handleUsernameChange.bind(this);
 		this.handleRoomChange = this.handleRoomChange.bind(this);
+		this.clearedChatRoom = this.clearedChatRoom.bind(this)
 	}
 	handleUsernameChange = (event) => {
 		event.preventDefault();
@@ -29,10 +31,18 @@ class App extends React.Component {
 			console.log(`Changed to room#${room.room_num}`)
 			this.setState({
 				...this.state,
+				clear: true,
 				room: room,
 			});
 		}
 	};
+
+	clearedChatRoom = () => {
+		this.setState({
+			...this.state,
+			clear: false
+		})
+	}
 	render() {
 		return (
 			<div>
@@ -46,6 +56,8 @@ class App extends React.Component {
 				<ChatComponent
 					username={this.state.username}
 					room={this.state.room}
+					clear={this.state.clear}
+					clearFunc={this.clearedChatRoom}
 				/>
 			</div>
 		);
