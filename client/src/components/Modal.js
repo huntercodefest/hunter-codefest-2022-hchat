@@ -10,9 +10,7 @@ class Modal extends React.Component {
 				<div className={classes.modal}>
 					<form
 						onSubmit={(event) => {
-							this.props.handleUsernameChange(
-								event
-							);
+							this.props.handleUsernameChange(event);
 						}}>
 						<h2>Enter Username</h2>
 						<input

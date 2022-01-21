@@ -10,7 +10,6 @@ class RoomsComponent extends React.Component {
 			searchList: Schools,
 			searchValue: "",
 			displayList: Schools.CurrList,
-			Room: this.props.room,
 		};
 		// Function binds
 		this.handleListChange=this.handleListChange.bind(this)
@@ -48,7 +47,6 @@ class RoomsComponent extends React.Component {
 		const rel_path = `./CUNY-CLASSES-JSON/${room.school}`
 		const paths = require(`${rel_path}/_PATHS.json`);
 		let roomList = null;
-		console.log(room)
 		// if clicked on a school
 		if (room.major === null) {
 			// create new roomlist of school, major
@@ -61,7 +59,6 @@ class RoomsComponent extends React.Component {
 		else if (room.room_num === null){
 			// return the path of the json file with school
 			const p = paths.filter(path => path.major === room.major)
-			console.log(p)
 			// return the json file of classes
 			const classes = require(`${rel_path}/${p[0].path}`)
 			// create new roomlist of school, major, room number, room desc

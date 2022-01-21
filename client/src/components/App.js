@@ -9,34 +9,39 @@ class App extends React.Component {
 	constructor() {
 		super();
 		this.state = {
-			username: "daniel",
+			username: "",
 			askForNewUsername: true,
 			room: new Room(null, null, 0, "Global"), // Temp
 		};
+		this.handleUsernameChange = this.handleUsernameChange.bind(this);
+		this.handleRoomChange = this.handleRoomChange.bind(this);
 	}
 	handleUsernameChange = (event) => {
 		event.preventDefault();
 		this.setState({
-			username: event.target[1].value,
+			username: event.target[0].value,
 			askForNewUsername: false,
 			room: this.state.room,
 		});
-	}
-	handleRoomChange = (Room) => {
-		this.setState({
-			...this.state,
-			room: Room,
-		});
-	}
+	};
+	handleRoomChange = (room) => {
+		if (room.room_num) {
+			console.log(`Changed to room#${room.room_num}`)
+			this.setState({
+				...this.state,
+				room: room,
+			});
+		}
+	};
 	render() {
 		return (
 			<div>
-				{/* {this.state.askForNewUsername ? (
+				{this.state.askForNewUsername ? (
 					<UsernameComponent
 						handleUsernameChange={this.handleUsernameChange}
 						room={this.state.room}
 					/>
-				) : null} */}
+				) : null}
 				<RoomsComponent handleRoomChange={this.handleRoomChange} />
 				<ChatComponent
 					username={this.state.username}

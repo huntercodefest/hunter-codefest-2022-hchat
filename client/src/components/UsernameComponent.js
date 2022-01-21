@@ -8,11 +8,12 @@ class UsernameComponent extends React.Component {
 		this.state = {
 			value: "",
 		};
+		this.handleValueChange = this.handleValueChange.bind(this)
 	}
-	handleValueChange(event) {
+	handleValueChange = (event) => {
 		this.setState({
 			// target is form child 1 is input
-			value: event.target.children[1].value,
+			value: event.target.value,
 		});
 	}
 	render() {

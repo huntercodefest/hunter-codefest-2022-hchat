@@ -6,11 +6,7 @@ class RoomsContainer extends React.Component {
 	}
 	jsx = [];
 	process() {
-		this.jsx = [];
-		const dList = this.props.displayList;
-		console.log("print dlist")
-		console.log(dList)
-		this.jsx = dList.map((room) => (
+		this.jsx = this.props.displayList.map((room) => (
 			<button
 				key={room.room_desc}
 				onClick={() => {
