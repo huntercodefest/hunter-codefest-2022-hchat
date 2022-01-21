@@ -1,0 +1,132 @@
+[
+    {
+        "major": "HESC",
+        "room_num": "16106",
+        "desc": "Application of GIS"
+    },
+    {
+        "major": "HESC",
+        "room_num": "16107",
+        "desc": "Contaminant hydrology"
+    },
+    {
+        "major": "HESC",
+        "room_num": "16108",
+        "desc": "Disease Vector Control"
+    },
+    {
+        "major": "HESC",
+        "room_num": "16109",
+        "desc": "Environmental Management"
+    },
+    {
+        "major": "HESC",
+        "room_num": "16110",
+        "desc": "Environmental Physiology"
+    },
+    {
+        "major": "HESC",
+        "room_num": "16111",
+        "desc": "Field Study"
+    },
+    {
+        "major": "HESC",
+        "room_num": "16112",
+        "desc": "Field-based Experience"
+    },
+    {
+        "major": "HESC",
+        "room_num": "16113",
+        "desc": "Food Sanitation"
+    },
+    {
+        "major": "HESC",
+        "room_num": "16114",
+        "desc": "Fundamentals of Air Pollution"
+    },
+    {
+        "major": "HESC",
+        "room_num": "16115",
+        "desc": "Health & Safety Regulations"
+    },
+    {
+        "major": "HESC",
+        "room_num": "16116",
+        "desc": "Health Informatics"
+    },
+    {
+        "major": "HESC",
+        "room_num": "16117",
+        "desc": "Health Policy"
+    },
+    {
+        "major": "HESC",
+        "room_num": "16118",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "HESC",
+        "room_num": "16119",
+        "desc": "Industrial Hygiene"
+    },
+    {
+        "major": "HESC",
+        "room_num": "16120",
+        "desc": "Intro to Environmental Science"
+    },
+    {
+        "major": "HESC",
+        "room_num": "16121",
+        "desc": "Marketing in Health Care"
+    },
+    {
+        "major": "HESC",
+        "room_num": "16122",
+        "desc": "Medical Terminology"
+    },
+    {
+        "major": "HESC",
+        "room_num": "16123",
+        "desc": "Nursing Home Administration"
+    },
+    {
+        "major": "HESC",
+        "room_num": "16124",
+        "desc": "Pollution Control Technology"
+    },
+    {
+        "major": "HESC",
+        "room_num": "16125",
+        "desc": "Prin Of Env Hlth Sc"
+    },
+    {
+        "major": "HESC",
+        "room_num": "16126",
+        "desc": "Prin-Env Hlth-Lab"
+    },
+    {
+        "major": "HESC",
+        "room_num": "16127",
+        "desc": "Sci Tech & Environ"
+    },
+    {
+        "major": "HESC",
+        "room_num": "16128",
+        "desc": "Solid Waste Management"
+    },
+    {
+        "major": "HESC",
+        "room_num": "16129",
+        "desc": "Supervised Field Experience"
+    },
+    {
+        "major": "HESC",
+        "room_num": "16130",
+        "desc": "Water Pollution Biology"
+    },
+    {
+        "major": "HESC",
+        "room_num": "16131",
+        "desc": "Water Quality Analysis"
+    }
+]

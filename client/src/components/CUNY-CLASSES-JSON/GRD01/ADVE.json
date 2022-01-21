@@ -1,0 +1,26 @@
+[
+    {
+        "school": "GRD01",
+        "major": "ADVE",
+        "room_num": "229",
+        "room_desc": "Advert Fundamentals"
+    },
+    {
+        "school": "GRD01",
+        "major": "ADVE",
+        "room_num": "230",
+        "room_desc": "Advertising Media"
+    },
+    {
+        "school": "GRD01",
+        "major": "ADVE",
+        "room_num": "231",
+        "room_desc": "Advertising Prin"
+    },
+    {
+        "school": "GRD01",
+        "major": "ADVE",
+        "room_num": "232",
+        "room_desc": "Tba"
+    }
+]

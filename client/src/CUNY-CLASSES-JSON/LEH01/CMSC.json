@@ -1,0 +1,332 @@
+[
+    {
+        "major": "CMSC",
+        "room_num": "11474",
+        "desc": "Analysis of Algorithms"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11475",
+        "desc": "Artificial Intelligence"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11476",
+        "desc": "Automata Theory"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11477",
+        "desc": "Basic&Cmp Asstd Inst"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11478",
+        "desc": "Cmp Prog Inf Proc Ii"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11479",
+        "desc": "Combin & Graph Algorith"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11480",
+        "desc": "Communicating Robots"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11481",
+        "desc": "Comp Progrmng in Fortran"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11482",
+        "desc": "Comp.Organizationlab"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11483",
+        "desc": "Compiler Construction"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11484",
+        "desc": "Computability Theory"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11485",
+        "desc": "Computational Tools Bioinforma"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11486",
+        "desc": "Computer Graphics"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11487",
+        "desc": "Computer Organization"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11488",
+        "desc": "Computer Programming in C++"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11489",
+        "desc": "Computer Programming in Java"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11490",
+        "desc": "Computer Thinking for Educator"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11491",
+        "desc": "Cryptography"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11492",
+        "desc": "Data Struct & Algrms II"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11493",
+        "desc": "Data Struct & Algrthms I"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11494",
+        "desc": "Data Structures&Algorithms-Edu"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11495",
+        "desc": "Database Systems"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11496",
+        "desc": "E-commerce Technologies"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11497",
+        "desc": "Elem Disc Struc&Appl"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11498",
+        "desc": "Image Processing"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11499",
+        "desc": "Ind Study in Comp Science"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11500",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11501",
+        "desc": "Independent Study 3"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11502",
+        "desc": "Internet Programming"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11503",
+        "desc": "Internship in Computer Science"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11504",
+        "desc": "Intro Enterprise Cmp"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11505",
+        "desc": "Intro to Enterp Computing"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11506",
+        "desc": "Introduction to Networks"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11507",
+        "desc": "Linear Prg&Oper Res"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11508",
+        "desc": "Logo & Comp-Assisted Instruct"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11509",
+        "desc": "Master\u2019s Thesis Research"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11510",
+        "desc": "Mastrs Comprehensive"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11511",
+        "desc": "Mobile Programming"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11512",
+        "desc": "Modeling Cellular Networks"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11513",
+        "desc": "Network Systems Lab"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11514",
+        "desc": "Numerical Analysis"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11515",
+        "desc": "Numerical Methods"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11516",
+        "desc": "Object Oriented Techniques"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11517",
+        "desc": "Operating Systems"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11518",
+        "desc": "Parallel Algorithms&Architect"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11519",
+        "desc": "Princ-Commnctn Netwk"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11520",
+        "desc": "Prog.Non-Com.Sci Maj"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11521",
+        "desc": "Programming Languages"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11522",
+        "desc": "Programming Methods I"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11523",
+        "desc": "Programming Methods I for Educ"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11524",
+        "desc": "Programming Methods II"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11525",
+        "desc": "Programming Methods II for Edu"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11526",
+        "desc": "Programming in Pascal"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11527",
+        "desc": "Programming in Visual Basic"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11528",
+        "desc": "Programming through Web Dev."
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11529",
+        "desc": "Quantum Computer Science"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11530",
+        "desc": "Security of Networks"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11531",
+        "desc": "Simulation and Modeling"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11532",
+        "desc": "Software Engineering"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11533",
+        "desc": "Supvse Intrn Cmp Sci"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11534",
+        "desc": "Survey of Computer Hardware"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11535",
+        "desc": "System Programming Languages"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11536",
+        "desc": "Systems Analysis and Design"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11537",
+        "desc": "Topics in Computer Programming"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11538",
+        "desc": "Topics in Computer Science"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "11539",
+        "desc": "Video Game Programming"
+    }
+]

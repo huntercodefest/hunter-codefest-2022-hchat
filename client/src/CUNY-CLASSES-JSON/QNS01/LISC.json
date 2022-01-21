@@ -1,0 +1,407 @@
+[
+    {
+        "major": "LISC",
+        "room_num": "28652",
+        "desc": "Adlt Read Advis Svc"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28653",
+        "desc": "Advanced Tech Concepts"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28654",
+        "desc": "Advanced Technical Services"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28655",
+        "desc": "Archival Appraisal28656: LISC,\"Archival28657: LISC,\"Archives & Manuscripts"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28658",
+        "desc": "Art Libr & Visual Res Curator"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28659",
+        "desc": "Bibl Control:No-Print"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28660",
+        "desc": "Business Information Sources"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28661",
+        "desc": "Collection Develop"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28662",
+        "desc": "Collection Development"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28663",
+        "desc": "Comput Data Base Src"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28664",
+        "desc": "Design Visual Materl"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28665",
+        "desc": "Design&Constr Biblio Databases"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28666",
+        "desc": "Design&Production of Multimedi"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28667",
+        "desc": "Digital Humanities& Hum Resour"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28668",
+        "desc": "Digital Libraries"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28669",
+        "desc": "Digital Preservation"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28670",
+        "desc": "Digitization of Cult Materials"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28671",
+        "desc": "From Manuscripts to eBooks"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28672",
+        "desc": "Fund Lib/Inform Sci"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28673",
+        "desc": "Government Information Sources"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28674",
+        "desc": "Health Sciences Librarianship"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28675",
+        "desc": "Hist Child Lit"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28676",
+        "desc": "Hist Lib Mod Wld"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28677",
+        "desc": "Human-Computer Interaction"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28678",
+        "desc": "In Srces Ser V A"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28679",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28680",
+        "desc": "Indexing/Abstracting"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28681",
+        "desc": "Inf Sourc/Serv Nonbk"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28682",
+        "desc": "Inf Source & Svce"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28683",
+        "desc": "Info Access Systems"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28684",
+        "desc": "Info Envir Cont Society"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28685",
+        "desc": "Info Lit Instructions for Adts"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28686",
+        "desc": "Info Serv:Soc Sci"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28687",
+        "desc": "Info Sources & Servc"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28688",
+        "desc": "Info Sources&Service: General"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28689",
+        "desc": "Info System Analysis & Design"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28690",
+        "desc": "Internship"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28691",
+        "desc": "Internship. Fieldwork"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28692",
+        "desc": "Intro to Archival Studies"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28693",
+        "desc": "Intro to Organization of Info"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28694",
+        "desc": "Introd To Libship"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28695",
+        "desc": "Issues in Org of Materials"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28696",
+        "desc": "Law Librarianship"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28697",
+        "desc": "Lib In Multicult Soc"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28698",
+        "desc": "Managing New Technologies"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28699",
+        "desc": "Mat28700: LISC,\"Materials for Young Adults"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28701",
+        "desc": "Metadata for Digital Resources"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28702",
+        "desc": "Myth&Folklore Child/Adolescent"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28703",
+        "desc": "Non Print Catal"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28704",
+        "desc": "Nonbook Materials"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28705",
+        "desc": "Online & Optical Sys"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28706",
+        "desc": "Online Research"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28707",
+        "desc": "Org & Mgmt: Public Libraries"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28708",
+        "desc": "Org & Mgt: Acad & Resrch Librs"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28709",
+        "desc": "Org&Mgt:Media Center"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28710",
+        "desc": "Org/Man Sp Lib/Info"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28711",
+        "desc": "Organization Of Mat"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28712",
+        "desc": "Organization and Management"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28713",
+        "desc": "Plan & Deliver Svc"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28714",
+        "desc": "Presvtn of Cult Hertg Materils"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28715",
+        "desc": "Pub Lib Serv For Chl"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28716",
+        "desc": "Public Lib Prog Plan"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28717",
+        "desc": "Public Library"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28718",
+        "desc": "Read Motivat Techniq Chld&Adol"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28719",
+        "desc": "Records Management"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28720",
+        "desc": "Ref & Bib Sci"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28721",
+        "desc": "Ref & Bibliog"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28722",
+        "desc": "Res & Bib Methods"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28723",
+        "desc": "Res in Library and Info Studie"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28724",
+        "desc": "Resources School Curriculum"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28725",
+        "desc": "Select Tech Apps In Info Mgmt"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28726",
+        "desc": "Sem Concepts/Issues"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28727",
+        "desc": "Serials Librarianship"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28728",
+        "desc": "Storytelling"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28729",
+        "desc": "Strategic and Competive Intell"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28730",
+        "desc": "Teaching Information Lit K-12"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28731",
+        "desc": "Tech Svc In Lib"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28732",
+        "desc": "The Technology of Information"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28733",
+        "desc": "VT: Seminar"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28734",
+        "desc": "VT:Seminar"
+    },
+    {
+        "major": "LISC",
+        "room_num": "28735",
+        "desc": "Web Programming"
+    }
+]

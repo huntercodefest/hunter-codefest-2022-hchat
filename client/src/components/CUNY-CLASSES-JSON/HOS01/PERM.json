@@ -1,0 +1,14 @@
+[
+    {
+        "school": "HOS01",
+        "major": "PERM",
+        "room_num": "64941",
+        "room_desc": "Permit Out"
+    },
+    {
+        "school": "HOS01",
+        "major": "PERM",
+        "room_num": "64942",
+        "room_desc": "Permit Out Variable"
+    }
+]

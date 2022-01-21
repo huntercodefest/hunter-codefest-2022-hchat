@@ -1,0 +1,32 @@
+[
+    {
+        "school": "NYT01",
+        "major": "FOLA",
+        "room_num": "66963",
+        "room_desc": "Foreign Language Eligible"
+    },
+    {
+        "school": "NYT01",
+        "major": "FOLA",
+        "room_num": "66964",
+        "room_desc": "Foreign Language Exempt"
+    },
+    {
+        "school": "NYT01",
+        "major": "FOLA",
+        "room_num": "66965",
+        "room_desc": "Foreign Language Exempt 112"
+    },
+    {
+        "school": "NYT01",
+        "major": "FOLA",
+        "room_num": "66966",
+        "room_desc": "Foreign Language Exempt 113"
+    },
+    {
+        "school": "NYT01",
+        "major": "FOLA",
+        "room_num": "66967",
+        "room_desc": "Foreign Language Exempt 114"
+    }
+]

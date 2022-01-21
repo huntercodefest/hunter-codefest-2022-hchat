@@ -1,0 +1,2168 @@
+[
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26498",
+        "room_desc": "18th Cent Drama"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26499",
+        "room_desc": "19c Amer Transcendental"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26500",
+        "room_desc": "19th & Early 20th Cent Drama"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26501",
+        "room_desc": "20th & 21st Cent Drama & Perf"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26502",
+        "room_desc": "20th & 21st Cent Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26503",
+        "room_desc": "20th Cent Lit 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26504",
+        "room_desc": "20th Century Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26505",
+        "room_desc": "20th and 21st Century Fiction"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26506",
+        "room_desc": "20th and 21st Century Poetry"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26507",
+        "room_desc": "Academic Communication"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26508",
+        "room_desc": "Adaptation Studies"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26509",
+        "room_desc": "Adv Exp Writing"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26510",
+        "room_desc": "Advanced Writing Project"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26511",
+        "room_desc": "Afr-Amer Lit Trad"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26512",
+        "room_desc": "African American Literature I"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26513",
+        "room_desc": "African American Literature II"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26514",
+        "room_desc": "Afro-Amer Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26515",
+        "room_desc": "Afro-Amer Lit 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26516",
+        "room_desc": "Afro-American Lit 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26517",
+        "room_desc": "Am Lit 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26518",
+        "room_desc": "Am Lit Bef 1918"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26519",
+        "room_desc": "Am Lit Reg/Real/Nat"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26520",
+        "room_desc": "Am Lit Survey 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26521",
+        "room_desc": "Am Realism & Nature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26522",
+        "room_desc": "Amer Novel"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26523",
+        "room_desc": "American Fiction26524: ENGL,\"American Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26525",
+        "room_desc": "American Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26526",
+        "room_desc": "American Literature Survey I"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26527",
+        "room_desc": "American Literature Survey II"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26528",
+        "room_desc": "American Writers To 1918"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26529",
+        "room_desc": "An Introduction to Folklore"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26530",
+        "room_desc": "Anglophone African Fiction"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26531",
+        "room_desc": "Asian American Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26532",
+        "room_desc": "Aspects Criticism"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26533",
+        "room_desc": "Aspects of Drama"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26534",
+        "room_desc": "Aspects of Fiction"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26535",
+        "room_desc": "Aspects of Literary Criticism"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26536",
+        "room_desc": "Aspects of Poetry"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26537",
+        "room_desc": "Autobiography"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26538",
+        "room_desc": "B&A Fic 1945-Pr"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26539",
+        "room_desc": "B&A Frm 1890-1945"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26540",
+        "room_desc": "Baroque Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26541",
+        "room_desc": "Basic Writ Skills"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26542",
+        "room_desc": "Basic Writ Skls"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26543",
+        "room_desc": "Br & Am Fic 1918-45"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26544",
+        "room_desc": "Br & Am Poe 1910-45"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26545",
+        "room_desc": "Br & Am Poet 1945-"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26546",
+        "room_desc": "Br & Am Poet-1945"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26547",
+        "room_desc": "Brit Am Poet 1890-1945"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26548",
+        "room_desc": "British Literature Survey I"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26549",
+        "room_desc": "British Literature Survey II"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26550",
+        "room_desc": "British Romanticism"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26551",
+        "room_desc": "Business Writing"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26552",
+        "room_desc": "Celtic Myth and Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26553",
+        "room_desc": "Chaucer"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26554",
+        "room_desc": "Chaucer: The Early Works"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26555",
+        "room_desc": "Clas Bkgr Eng Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26556",
+        "room_desc": "Classical Backgrounds Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26557",
+        "room_desc": "Co-op Education Placement"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26558",
+        "room_desc": "College Writing I"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26559",
+        "room_desc": "Colonial American Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26560",
+        "room_desc": "Comb Rdg & Wrtng"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26561",
+        "room_desc": "Comedy and Satire"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26562",
+        "room_desc": "Comp & Non Fict Prose"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26563",
+        "room_desc": "Comp Drama Poet"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26564",
+        "room_desc": "Comp Ii: Writ & Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26565",
+        "room_desc": "Comp N-Fict Prose"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26566",
+        "room_desc": "Comp Rdg In Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26567",
+        "room_desc": "Comp Rdg Mod Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26568",
+        "room_desc": "Comp Seminar"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26569",
+        "room_desc": "Comp Theory & Lit Studies"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26570",
+        "room_desc": "Composition 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26571",
+        "room_desc": "Cont Fict & Drm"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26572",
+        "room_desc": "Contemp Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26573",
+        "room_desc": "Coop Educ Placement"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26574",
+        "room_desc": "Coop Education Placement"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26575",
+        "room_desc": "Cooperative Edu Placement"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26576",
+        "room_desc": "Cooperative Educ Placement"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26577",
+        "room_desc": "Department Honors Seminar"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26578",
+        "room_desc": "Developmt Wrtg Sk"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26579",
+        "room_desc": "Dickens"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26580",
+        "room_desc": "Digital Literary Studies"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26581",
+        "room_desc": "Drama"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26582",
+        "room_desc": "Drama & Comp"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26583",
+        "room_desc": "Drama 1890-1945"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26584",
+        "room_desc": "Drama 1945-Now"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26585",
+        "room_desc": "Drama Restoration & XVIII Cent"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26586",
+        "room_desc": "Drama in Theory and Practice"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26587",
+        "room_desc": "ENGL 120 Exemption"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26588",
+        "room_desc": "Early American Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26589",
+        "room_desc": "Early Modern Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26590",
+        "room_desc": "Early Twentieth-Century Poetry"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26591",
+        "room_desc": "Early Vict Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26592",
+        "room_desc": "Early-Twentieth-Cent Fiction"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26593",
+        "room_desc": "Editorial Practices"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26594",
+        "room_desc": "Eng & Amer Novelists"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26595",
+        "room_desc": "Eng Bible As Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26596",
+        "room_desc": "Eng Comp 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26597",
+        "room_desc": "Eng Lit 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26598",
+        "room_desc": "Eng Lit Survey 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26599",
+        "room_desc": "Eng Novel 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26600",
+        "room_desc": "Eng Renaiss Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26601",
+        "room_desc": "Eng Renaissance"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26602",
+        "room_desc": "Engl Lit Survey 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26603",
+        "room_desc": "English 110 Exempt"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26604",
+        "room_desc": "English Comp"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26605",
+        "room_desc": "English Comp 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26606",
+        "room_desc": "English Comp 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26607",
+        "room_desc": "English Composition"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26608",
+        "room_desc": "English Grammar"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26609",
+        "room_desc": "English Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26610",
+        "room_desc": "Environmental Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26611",
+        "room_desc": "Essay Writing Bala"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26612",
+        "room_desc": "Expos Writing"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26613",
+        "room_desc": "Feminism Folklore"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26614",
+        "room_desc": "Fiction The & Prac"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26615",
+        "room_desc": "Fiction Wkshp"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26616",
+        "room_desc": "Fiction Workshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26617",
+        "room_desc": "Fiction in Theory and Practice"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26618",
+        "room_desc": "Film & Fict 1930s"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26619",
+        "room_desc": "Frederick Douglass"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26620",
+        "room_desc": "Gender Issues In Li"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26621",
+        "room_desc": "Genre"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26622",
+        "room_desc": "Gk Latin Back"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26623",
+        "room_desc": "Global Literatures in English"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26624",
+        "room_desc": "Gr & Lat Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26625",
+        "room_desc": "Gr Writ Eng Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26626",
+        "room_desc": "Gr Writers Eng Li"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26627",
+        "room_desc": "Grad Metho ENG Edu Stud"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26628",
+        "room_desc": "Grad Methodology"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26629",
+        "room_desc": "Great Works Amer Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26630",
+        "room_desc": "Greek&Lat Classic"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26631",
+        "room_desc": "Grt Writers Eng Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26632",
+        "room_desc": "Grt Writers Engl Lit II"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26633",
+        "room_desc": "Gt Wks Eng Lit 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26634",
+        "room_desc": "Gt Wks Eng Lit 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26635",
+        "room_desc": "Gt Wks Engl Lit 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26636",
+        "room_desc": "Gt Writ Eng Lit 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26637",
+        "room_desc": "Gt Writ Eng Lit 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26638",
+        "room_desc": "Hawthne & Melville"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26639",
+        "room_desc": "High Modernist Fict"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26640",
+        "room_desc": "Hist Eng Lang"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26641",
+        "room_desc": "Hist Engl Lang"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26642",
+        "room_desc": "History of Literary Criticism"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26643",
+        "room_desc": "Honors Seminar"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26644",
+        "room_desc": "Indep Study"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26645",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26646",
+        "room_desc": "Int Lit & Analysis"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26647",
+        "room_desc": "Internship"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26648",
+        "room_desc": "Intro College Writ"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26649",
+        "room_desc": "Intro College Writing ESL"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26650",
+        "room_desc": "Intro Creative Writing"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26651",
+        "room_desc": "Intro Literary Study"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26652",
+        "room_desc": "Intro To Am Cult"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26653",
+        "room_desc": "Intro To Comp"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26654",
+        "room_desc": "Intro To Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26655",
+        "room_desc": "Intro To Lit Study"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26656",
+        "room_desc": "Intro To Poetry"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26657",
+        "room_desc": "Intro To Shakesp"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26658",
+        "room_desc": "Intro to Academic Writing"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26659",
+        "room_desc": "Intro to Irish Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26660",
+        "room_desc": "Intro to Poetry"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26661",
+        "room_desc": "Introd To Coll Writ"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26662",
+        "room_desc": "Introduction to Editing"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26663",
+        "room_desc": "Introduction to Literary Study"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26664",
+        "room_desc": "Introduction to Middle English"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26665",
+        "room_desc": "Introduction to Narrative"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26666",
+        "room_desc": "Introduction to Old English"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26667",
+        "room_desc": "Introduction to Poetry"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26668",
+        "room_desc": "Introduction to Shakespeare"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26669",
+        "room_desc": "Introduction to Writing Nonfic"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26670",
+        "room_desc": "Introduction to the Bible"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26671",
+        "room_desc": "Irish Comedy"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26672",
+        "room_desc": "Late19th & Early 20th Cent US"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26673",
+        "room_desc": "Lit Pope To Blak"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26674",
+        "room_desc": "Literary Criticism"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26675",
+        "room_desc": "Literary History"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26676",
+        "room_desc": "Literature & Film"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26677",
+        "room_desc": "Literature American Indians"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26678",
+        "room_desc": "Literature and Film"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26679",
+        "room_desc": "Literature and Place"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26680",
+        "room_desc": "Literature and Politics"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26681",
+        "room_desc": "Literature and Psychology"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26682",
+        "room_desc": "Literature and Religion"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26683",
+        "room_desc": "MFA Thesis Workshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26684",
+        "room_desc": "Ma Methodology"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26685",
+        "room_desc": "Maj Eng Amer Nov"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26686",
+        "room_desc": "Major Modern Writers"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26687",
+        "room_desc": "Major Modrn Writ"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26688",
+        "room_desc": "Major Novelists"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26689",
+        "room_desc": "Major Romantic Writers"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26690",
+        "room_desc": "Major Victorian Writers"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26691",
+        "room_desc": "Major Works of the Middle Ages"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26692",
+        "room_desc": "Major Write Renaiss Excl Shake"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26693",
+        "room_desc": "Major Writers of the18th Cent"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26694",
+        "room_desc": "Mark Twain"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26695",
+        "room_desc": "Medieval & Early Modern Drama"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26696",
+        "room_desc": "Medieval Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26697",
+        "room_desc": "Medieval Literature26698: ENGL,\"Medieval Literature26699: ENGL,\"Metaphys Poetry"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26700",
+        "room_desc": "Methods for Writing Research"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26701",
+        "room_desc": "Mid 20th & 21st Century US Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26702",
+        "room_desc": "Milton"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26703",
+        "room_desc": "Mod Eng Grammar"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26704",
+        "room_desc": "Modern Drama"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26705",
+        "room_desc": "Modern English Grammar"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26706",
+        "room_desc": "Modern Fiction"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26707",
+        "room_desc": "Modern Irish Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26708",
+        "room_desc": "Modernisms"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26709",
+        "room_desc": "Mstrp Yid Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26710",
+        "room_desc": "Myth & Pop Cult"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26711",
+        "room_desc": "New Approaches to Eng Grammar"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26712",
+        "room_desc": "Newsp & Art Writ"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26713",
+        "room_desc": "Newspaper and Article Writing"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26714",
+        "room_desc": "Nineteenth-Century U.S. Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26715",
+        "room_desc": "Non-fiction Workshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26716",
+        "room_desc": "Nonfictional Prose"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26717",
+        "room_desc": "Nov 1945 Pres"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26718",
+        "room_desc": "Novel 1918-45"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26719",
+        "room_desc": "Playwriting Workshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26720",
+        "room_desc": "Poetry"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26721",
+        "room_desc": "Poetry & Verse Drama"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26722",
+        "room_desc": "Poetry 1910-1945"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26723",
+        "room_desc": "Poetry 1945-Pres"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26724",
+        "room_desc": "Poetry Workshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26725",
+        "room_desc": "Poetry in Theory and Practice"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26726",
+        "room_desc": "Popular Culture"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26727",
+        "room_desc": "Portfolio Workshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26728",
+        "room_desc": "Prin Lit Critic"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26729",
+        "room_desc": "Prin Lit Critsm"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26730",
+        "room_desc": "Prose Fic & Comp"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26731",
+        "room_desc": "Prose Fiction"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26732",
+        "room_desc": "Puritanism In Amer Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26733",
+        "room_desc": "Reading as Writers"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26734",
+        "room_desc": "Readings American Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26735",
+        "room_desc": "Readings in British Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26736",
+        "room_desc": "Readings in Drama"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26737",
+        "room_desc": "Readings in Fiction"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26738",
+        "room_desc": "Readings in Global Literatures"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26739",
+        "room_desc": "Reg & Real Am Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26740",
+        "room_desc": "Reg26741: ENGL,\"Regionalism Amer"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26742",
+        "room_desc": "Renaissance Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26743",
+        "room_desc": "Restoration & 18th Cent Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26744",
+        "room_desc": "Rhetoric and Writing in Engl"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26745",
+        "room_desc": "Romanticism"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26746",
+        "room_desc": "Sel St Amer Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26747",
+        "room_desc": "Sel Stud Eng Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26748",
+        "room_desc": "Seminar in Grad Methodology"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26749",
+        "room_desc": "Seventeenth-Century Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26750",
+        "room_desc": "Shakespeare"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26751",
+        "room_desc": "Shakespeare I"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26752",
+        "room_desc": "Shakespeare II"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26753",
+        "room_desc": "Southern Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26754",
+        "room_desc": "Sp Stud Amer Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26755",
+        "room_desc": "Spec St Blake"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26756",
+        "room_desc": "Spec Topics Film"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26757",
+        "room_desc": "Special Seminars"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26758",
+        "room_desc": "Special Studies"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26759",
+        "room_desc": "Stud Am Lit 1860-"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26760",
+        "room_desc": "Stud In Irish Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26761",
+        "room_desc": "Stud In Mod Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26762",
+        "room_desc": "Stud Lan Lit Cult"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26763",
+        "room_desc": "Stud Medieval Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26764",
+        "room_desc": "Studies American Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26765",
+        "room_desc": "Studies In Film"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26766",
+        "room_desc": "Studies in Children?s Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26767",
+        "room_desc": "Studies in Comics and Graphic"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26768",
+        "room_desc": "Studies in Criticism"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26769",
+        "room_desc": "Studies in English Linguistics"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26770",
+        "room_desc": "Studies in Gender& Sexualities"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26771",
+        "room_desc": "Studies in Literature and Film"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26772",
+        "room_desc": "Studies in Medieval Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26773",
+        "room_desc": "Studies in Modern Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26774",
+        "room_desc": "Studies in Old English"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26775",
+        "room_desc": "Studies in Poetry"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26776",
+        "room_desc": "Studies in Romantic Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26777",
+        "room_desc": "Studies in Shakespeare\u2019s Plays"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26778",
+        "room_desc": "Studies in Young Adult Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26779",
+        "room_desc": "Synt Strct Eng"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26780",
+        "room_desc": "Teaching College Writing"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26781",
+        "room_desc": "Teaching Sem"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26782",
+        "room_desc": "Text in Its Historical Moment"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26783",
+        "room_desc": "The American Dream"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26784",
+        "room_desc": "The American Novel to 1918"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26785",
+        "room_desc": "The Arthurian Tradition"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26786",
+        "room_desc": "The Early Black Atlantic"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26787",
+        "room_desc": "The Eighteenth-Century Novel"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26788",
+        "room_desc": "The English Language"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26789",
+        "room_desc": "The Immigrant Experience"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26790",
+        "room_desc": "The Literature of the Bible"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26791",
+        "room_desc": "The Nineteenth-Century Novel"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26792",
+        "room_desc": "The Novel & Prose Drama"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26793",
+        "room_desc": "Theory"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26794",
+        "room_desc": "Thesis Course"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26795",
+        "room_desc": "Thesis Workshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26796",
+        "room_desc": "Translation Theory & Practice"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26797",
+        "room_desc": "VT: African Lit & Culture"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26798",
+        "room_desc": "VT: Caribbean Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26799",
+        "room_desc": "VT: Children?s Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26800",
+        "room_desc": "VT: Composing Digital Media"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26801",
+        "room_desc": "VT: Gender and Sexualities"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26802",
+        "room_desc": "VT: Global Literatures in Engl"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26803",
+        "room_desc": "VT: Interdisciplinary Approach"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26804",
+        "room_desc": "VT: Irish Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26805",
+        "room_desc": "VT: Latino/Latina Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26806",
+        "room_desc": "VT: Literature and Folklore"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26807",
+        "room_desc": "VT: Modern South Asian Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26808",
+        "room_desc": "VT: Seminar Teaching Writing"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26809",
+        "room_desc": "VT: Studies Lit/Film"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26810",
+        "room_desc": "VT: Studies Non-Fiction Prose"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26811",
+        "room_desc": "VT: Studies in Drama & Perform"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26812",
+        "room_desc": "VT: Studies in Fiction"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26813",
+        "room_desc": "VT: Studies in Lit and Culture"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26814",
+        "room_desc": "VT: Studies in Poetry"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26815",
+        "room_desc": "VT: Studies in Popular Genres"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26816",
+        "room_desc": "VT: Studies in Theory"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26817",
+        "room_desc": "VT: Topics In Writing"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26818",
+        "room_desc": "VT: Topics in Writing"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26819",
+        "room_desc": "VT: Tran Ntl Post-Col Glob Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26820",
+        "room_desc": "VT: Women\u2019s Writing"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26821",
+        "room_desc": "VT: Writing Studies"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26822",
+        "room_desc": "VT: Writing for Special Fields"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26823",
+        "room_desc": "VT:Renaissance Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26824",
+        "room_desc": "Victorian Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26825",
+        "room_desc": "Victorian Poetry and Prose"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26826",
+        "room_desc": "Vt: Chaucer & Langland"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26827",
+        "room_desc": "Vt: Dickens"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26828",
+        "room_desc": "Vt: Film/Afr Diaspora"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26829",
+        "room_desc": "Vt: Lit As Film"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26830",
+        "room_desc": "Vt: Senior Semi in Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26831",
+        "room_desc": "Vt: Women And Crime"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26832",
+        "room_desc": "Vt: XVIII Century Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26833",
+        "room_desc": "Vt:17th Century Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26834",
+        "room_desc": "Vt:Am Lit 1820-1920"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26835",
+        "room_desc": "Vt:Early Amer Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26836",
+        "room_desc": "Vt:Victorian Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26837",
+        "room_desc": "Women & Lit Trad"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26838",
+        "room_desc": "Women Poets"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26839",
+        "room_desc": "Workshop in Drama"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26840",
+        "room_desc": "Workshop in Fiction"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26841",
+        "room_desc": "Workshop in Poetry"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26842",
+        "room_desc": "Wr Non-Fict Prose"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26843",
+        "room_desc": "Writ Abt Teaching"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26844",
+        "room_desc": "Write Clinic"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26845",
+        "room_desc": "Writers 17th Century"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26846",
+        "room_desc": "Writing Clinic"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26847",
+        "room_desc": "Writing Multilingualism"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26848",
+        "room_desc": "Writing Project"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26849",
+        "room_desc": "Writing Prose"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26850",
+        "room_desc": "Writing Sci & Tech for Public"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26851",
+        "room_desc": "Writing Studio"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26852",
+        "room_desc": "Writing Tutorial"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26853",
+        "room_desc": "Writing Workshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26854",
+        "room_desc": "Writing about Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26855",
+        "room_desc": "Writing about Literature Eng"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26856",
+        "room_desc": "Writing about Writing"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26857",
+        "room_desc": "Writing from the Field"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26858",
+        "room_desc": "Writing26859: ENGL,\"Written Comp"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26860",
+        "room_desc": "Written Composition"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26861",
+        "room_desc": "Wrkshp: ST in Creative Writing"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26862",
+        "room_desc": "Wrt & Rdg Skills"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "26863",
+        "room_desc": "Young Adult Literature"
+    }
+]

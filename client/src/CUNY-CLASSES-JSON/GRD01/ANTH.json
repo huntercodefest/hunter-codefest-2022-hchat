@@ -1,0 +1,1297 @@
+[
+    {
+        "major": "ANTH",
+        "room_num": "264",
+        "desc": "Adapt/Dev Soc Movem"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "265",
+        "desc": "African Primates: Bio/Evol/Beh"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "266",
+        "desc": "Afro-America"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "267",
+        "desc": "Amer So Clas/Cultur"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "268",
+        "desc": "Analy Lang of Selected Areas"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "269",
+        "desc": "Ancient Egypt State"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "270",
+        "desc": "Anth Of Colonialism"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "271",
+        "desc": "Anth Of Development"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "272",
+        "desc": "Anth Persp Violence"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "273",
+        "desc": "Anthr Latin America"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "274",
+        "desc": "Anthro Demography"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "275",
+        "desc": "Anthro Of Cities"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "276",
+        "desc": "Anthro Of Developmt"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "277",
+        "desc": "Anthro Politic Proc"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "278",
+        "desc": "Anthro Research"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "279",
+        "desc": "Anthro Views/Usa Ii"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "280",
+        "desc": "Anthro of Music & Art"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "281",
+        "desc": "Anthropolgy Of Work"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "282",
+        "desc": "Anthropology Of Usa"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "283",
+        "desc": "Anthropology of Race"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "284",
+        "desc": "Applied Anthropolgy"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "285",
+        "desc": "Approc/Urban Commun"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "286",
+        "desc": "Arch Field Mthds"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "287",
+        "desc": "Archaeol Of Africa"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "288",
+        "desc": "Archaeological Field School"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "289",
+        "desc": "Archaeology as Anthropology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "290",
+        "desc": "Archaeology of Mesoamerica"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "291",
+        "desc": "Archaeology of Selected Areas"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "292",
+        "desc": "Behavioral Biology & Ecology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "293",
+        "desc": "Catarrhine Evolutin"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "294",
+        "desc": "Class And Culture"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "295",
+        "desc": "Class/Class Conscio"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "296",
+        "desc": "Cntmp Anthro Theory"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "297",
+        "desc": "Cognitive Anthropol"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "298",
+        "desc": "Commoditization"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "299",
+        "desc": "Comp Urban:Lang/Soc"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "300",
+        "desc": "Complex Socty Organ"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "301",
+        "desc": "Consrvation Archaeo"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "302",
+        "desc": "Construct Aboriginl"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "303",
+        "desc": "Contemp Archaeological Theory"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "304",
+        "desc": "Contemporary Social Theory"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "305",
+        "desc": "Contmp Scl Mvmnt La"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "306",
+        "desc": "Core Course: Linguistic Anthro"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "307",
+        "desc": "Critical Approaches"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "308",
+        "desc": "Culture & Emotion"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "309",
+        "desc": "Culture & Envirnmnt"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "310",
+        "desc": "Culture/Globl Frmwk"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "311",
+        "desc": "Decolon/Pro Autonmy"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "312",
+        "desc": "Descriptive Semantics"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "313",
+        "desc": "Dev & Chng Anthro Perspect"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "314",
+        "desc": "Discourses Of Devel"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "315",
+        "desc": "Dissertation Supervision"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "316",
+        "desc": "Doctoral Dissertation Writing"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "317",
+        "desc": "Ecol/Beh Bio Primat"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "318",
+        "desc": "Enthnol/Nog Pacific"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "319",
+        "desc": "Environ & Developmt"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "320",
+        "desc": "Ethic In Anth Symps"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "321",
+        "desc": "Ethn/Ethnog Mexico"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "322",
+        "desc": "Ethnicity & Nationalism"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "323",
+        "desc": "Ethnicity/Disease"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "324",
+        "desc": "Ethnicity/Nationlsm"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "325",
+        "desc": "Ethno-/Myth/Text"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "326",
+        "desc": "Ethno/Nog East Eur"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "327",
+        "desc": "Ethnoarch Ceramics"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "328",
+        "desc": "Ethnoarchaeology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "329",
+        "desc": "Ethnog & Cult Critq"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "330",
+        "desc": "Ethnogr Mediterrane"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "331",
+        "desc": "Ethnographic Method"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "332",
+        "desc": "Ethnohist Mesoamer"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "333",
+        "desc": "Ethnohist Na Indian"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "334",
+        "desc": "Ethnol-nog of Selected Areas"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "335",
+        "desc": "Ethnol/Ethng Lat Am"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "336",
+        "desc": "Ethnol/Ethnog Europ"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "337",
+        "desc": "Ethnol/Nog Caribbea"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "338",
+        "desc": "Ethnol/Nog Of China"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "339",
+        "desc": "Ethnol/nog of Selected Areas"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "340",
+        "desc": "Ethnology Of Andes"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "341",
+        "desc": "Europe World Systm"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "342",
+        "desc": "Evolution Genetics"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "343",
+        "desc": "Evolutionary Morphology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "344",
+        "desc": "Evolutionary Primatology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "345",
+        "desc": "Evolutionary Theory"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "346",
+        "desc": "Family/Kinshp/Hist"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "347",
+        "desc": "Faunal Analysis"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "348",
+        "desc": "Feld Meth/Prop Writ"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "349",
+        "desc": "Field Meth/Primatol"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "350",
+        "desc": "Field Methods in Linguistics"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "351",
+        "desc": "Fld Mth In Cult"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "352",
+        "desc": "Fld Mthds Cul Anth"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "353",
+        "desc": "Foundations of Social Theory"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "354",
+        "desc": "French Ethno Tradit"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "355",
+        "desc": "Gender And Culture"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "356",
+        "desc": "Gender/Class/Caste"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "357",
+        "desc": "Gender/Ethn Ind Ame"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "358",
+        "desc": "Genetics & Human Biology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "359",
+        "desc": "Geochron/Paleo Arch"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "360",
+        "desc": "Global Work Process"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "361",
+        "desc": "Globl/Transntl Proc"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "362",
+        "desc": "Gramsci & Anthropgy"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "363",
+        "desc": "Health/Med In U.S."
+    },
+    {
+        "major": "ANTH",
+        "room_num": "364",
+        "desc": "Hist Anth Of Race"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "365",
+        "desc": "Hist Anthro Theory"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "366",
+        "desc": "Hist Archaeology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "367",
+        "desc": "Hist/Physic Anthro"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "368",
+        "desc": "Histcal Archaeology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "369",
+        "desc": "Historical Anthro"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "370",
+        "desc": "Historical Archaeology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "371",
+        "desc": "Historical Ecology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "372",
+        "desc": "History of Archaeological Thry"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "373",
+        "desc": "History of Cultural Anthro I"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "374",
+        "desc": "History of Cultural Anthro II"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "375",
+        "desc": "Hum Biol Variations"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "376",
+        "desc": "Hum:Rts Of Indigns"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "377",
+        "desc": "Human Anatomy"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "378",
+        "desc": "Human Biology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "379",
+        "desc": "Human Evolutionary Adaptations"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "380",
+        "desc": "Human Fossil Record"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "381",
+        "desc": "Human Genetics"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "382",
+        "desc": "Human Skeletal Biology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "383",
+        "desc": "Human Variat/Genets"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "384",
+        "desc": "Human Variations"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "385",
+        "desc": "Ideology Seminar"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "386",
+        "desc": "Ind Rsch-Hist Of Envir Legacy"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "387",
+        "desc": "Ind Study/Resch Archaeology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "388",
+        "desc": "Ind Study/Resch Cultural Anth"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "389",
+        "desc": "Ind Study/Resch Physical Anth"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "390",
+        "desc": "Ind Study/Research Linguistics"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "391",
+        "desc": "Independent Resch"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "392",
+        "desc": "India Ethnol-Ethng"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "393",
+        "desc": "Intl Migrat/Settle"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "394",
+        "desc": "Intro Human Evolution"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "395",
+        "desc": "Islamic Case Studes"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "396",
+        "desc": "Kin Family & State"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "397",
+        "desc": "Language & Culture"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "398",
+        "desc": "Language & Nationalism"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "399",
+        "desc": "Language & Society"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "400",
+        "desc": "Language and Culture"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "401",
+        "desc": "Latin Amer Developm"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "402",
+        "desc": "Latin America"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "403",
+        "desc": "Ling Model/Culture"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "404",
+        "desc": "Linguistic Anth/Cultural Anth"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "405",
+        "desc": "Linguistic Pragmatc"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "406",
+        "desc": "Lithic Analysis"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "407",
+        "desc": "Marxism & Anthro"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "408",
+        "desc": "Marxism-Anthropolgy"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "409",
+        "desc": "Marxism/Hist & Anth"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "410",
+        "desc": "Mid East Prehist"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "411",
+        "desc": "Middle Eastern Soc"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "412",
+        "desc": "Migrtn/Dspra/Identy"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "413",
+        "desc": "No American Indians"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "414",
+        "desc": "Nyc:Interdisc Appro"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "415",
+        "desc": "Paleoanthropology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "416",
+        "desc": "Peasant Studies"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "417",
+        "desc": "Peasants/Work Class"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "418",
+        "desc": "Person/Self/Others"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "419",
+        "desc": "Perspect On Women I"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "420",
+        "desc": "Phylog421: ANTH,\"Phys Anth Professional Devel"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "422",
+        "desc": "Physical Anthro &  Archaeology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "423",
+        "desc": "Physical Anthroplgy"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "424",
+        "desc": "Pidgin-Creole"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "425",
+        "desc": "Pol Anth Caribbean"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "426",
+        "desc": "Pol Ecol/Env Movemt"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "427",
+        "desc": "Pol Econ Eastrn Eur"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "428",
+        "desc": "Pol Econ G Europe"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "429",
+        "desc": "Political Anthlogy"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "430",
+        "desc": "Political Anthro"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "431",
+        "desc": "Politics & Ideology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "432",
+        "desc": "Populat Processes 2"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "433",
+        "desc": "Prehist So America"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "434",
+        "desc": "Prim Evol Genetics & Behav"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "435",
+        "desc": "Primate Conservation"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "436",
+        "desc": "Primate Disease Ecology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "437",
+        "desc": "Primate Phylgeny Ii"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "438",
+        "desc": "Primate Phylogeny 1"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "439",
+        "desc": "Primate Phylogny Ii"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "440",
+        "desc": "Program Seminar"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "441",
+        "desc": "Proposal Writing Seminar"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "442",
+        "desc": "Quant Meth Anth Res"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "443",
+        "desc": "Quant Meth in Phys Anthro"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "444",
+        "desc": "Rain Forest Ecology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "445",
+        "desc": "Rdngs Cultur Anth 2"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "446",
+        "desc": "Read/Culture Anth I"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "447",
+        "desc": "Read: Complex Socty"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "448",
+        "desc": "Reading/Anthro Thry"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "449",
+        "desc": "Readng The Classics"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "450",
+        "desc": "Regional Analysis"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "451",
+        "desc": "Religion & Power"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "452",
+        "desc": "Religious Change"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "453",
+        "desc": "Res Desgn/Prop Wrie"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "454",
+        "desc": "Res/Prop Wrtng Arch"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "455",
+        "desc": "Resch Design"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "456",
+        "desc": "Resch Practicum Nyc"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "457",
+        "desc": "Resch Social Scienc"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "458",
+        "desc": "Research Design"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "459",
+        "desc": "Research Methods"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "460",
+        "desc": "Revolution & Change"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "461",
+        "desc": "Rise Of The State"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "462",
+        "desc": "Rural Dev/Cult Diff"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "463",
+        "desc": "Rural Society"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "464",
+        "desc": "ST: Anthropological Research"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "465",
+        "desc": "ST: Archaeology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "466",
+        "desc": "ST: Cultural Anthropology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "467",
+        "desc": "ST: Current Topics in Anthro"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "468",
+        "desc": "ST: Linguistic Anthropology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "469",
+        "desc": "ST:Archaeology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "470",
+        "desc": "ST:Cultural Anthropology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "471",
+        "desc": "ST:Linguistic Anthropology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "472",
+        "desc": "ST:Physical Anthropology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "473",
+        "desc": "Self474: ANTH,\"Sem Health & Illnes"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "475",
+        "desc": "Sem Pragmtsm & Anth"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "476",
+        "desc": "Sem: Archaeol Field Mthds"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "477",
+        "desc": "Sem: Archaeology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "478",
+        "desc": "Sem: Global Factory"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "479",
+        "desc": "Sem: Lithic Analysis"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "480",
+        "desc": "Sem: Methods/Problems in Arch"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "481",
+        "desc": "Sem: Ny Globl Persp"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "482",
+        "desc": "Sem: Pop Culture"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "483",
+        "desc": "Sem: Popltn Process"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "484",
+        "desc": "Sem: Soc Ident/Pol"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "485",
+        "desc": "Sem:Anal Mthd-Archaeol"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "486",
+        "desc": "Sem:Anthro Of Sex"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "487",
+        "desc": "Sem:Con Res Med Ant"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "488",
+        "desc": "Sem:Fld Meth/Proposal Writing"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "489",
+        "desc": "Sem:Fld/Lab/Analy Meth in Arch"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "490",
+        "desc": "Sem:Multiculturalsm"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "491",
+        "desc": "Sem:Readng Foucault"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "492",
+        "desc": "Seminar In Gender"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "493",
+        "desc": "Seminar On Europe"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "494",
+        "desc": "Semnr Afr Primates"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "495",
+        "desc": "Semnr Race/Ethncity"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "496",
+        "desc": "So Amer Ethnol/Nogr"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "497",
+        "desc": "Soc Diff Hinter/Frn"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "498",
+        "desc": "Soc Ling:Blk Englsh"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "499",
+        "desc": "Social Anthropology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "500",
+        "desc": "Sociolinguistics"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "501",
+        "desc": "Spanish In The Us"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "502",
+        "desc": "Special Topics"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "503",
+        "desc": "State Formation"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "504",
+        "desc": "Symbolic Anthropol"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "505",
+        "desc": "Taxonomic Linguistc"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "506",
+        "desc": "Teaching Undergraduate Anth"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "507",
+        "desc": "Theory/Archaeology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "508",
+        "desc": "Third World Urbaniz"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "509",
+        "desc": "Third World Women"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "510",
+        "desc": "Topical Seminar"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "511",
+        "desc": "Topics: Anthropological Meth"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "512",
+        "desc": "Tribal People"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "513",
+        "desc": "Tropic Rain Forest"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "514",
+        "desc": "Urb Fear/Built Envr"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "515",
+        "desc": "Usa Anthropol Views"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "516",
+        "desc": "Visual Anthropology"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "517",
+        "desc": "Warfare & Aggressin"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "518",
+        "desc": "Women Cross-Culture"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "519",
+        "desc": "Women/Cntmp Society"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "520",
+        "desc": "Women/Econ Pol Chng"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "521",
+        "desc": "Women/Socioeco Dev"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "522",
+        "desc": "Women/Socioeco Devl"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "523",
+        "desc": "World of the Vikings"
+    },
+    {
+        "major": "ANTH",
+        "room_num": "524",
+        "desc": "Zooarchaeology"
+    }
+]

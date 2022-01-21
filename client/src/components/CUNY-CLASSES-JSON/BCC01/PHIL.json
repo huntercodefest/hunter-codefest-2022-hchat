@@ -1,0 +1,14 @@
+[
+    {
+        "school": "BCC01",
+        "major": "PHIL",
+        "room_num": "69421",
+        "room_desc": "Introduction to Philosophy"
+    },
+    {
+        "school": "BCC01",
+        "major": "PHIL",
+        "room_num": "69422",
+        "room_desc": "Introduction to Religion"
+    }
+]

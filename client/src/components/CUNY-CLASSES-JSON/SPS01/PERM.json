@@ -1,0 +1,20 @@
+[
+    {
+        "school": "SPS01",
+        "major": "PERM",
+        "room_num": "80889",
+        "room_desc": "CUNY Permit"
+    },
+    {
+        "school": "SPS01",
+        "major": "PERM",
+        "room_num": "80890",
+        "room_desc": "Non-CUNY Permit"
+    },
+    {
+        "school": "SPS01",
+        "major": "PERM",
+        "room_num": "80891",
+        "room_desc": "Permit"
+    }
+]

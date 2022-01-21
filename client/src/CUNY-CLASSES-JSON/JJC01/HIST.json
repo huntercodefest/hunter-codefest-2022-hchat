@@ -1,0 +1,457 @@
+[
+    {
+        "major": "HIST",
+        "room_num": "20635",
+        "desc": "Afr Diaspora Hist 1"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20636",
+        "desc": "African Diaspora II"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20637",
+        "desc": "Am Prob 1840-Pres"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20638",
+        "desc": "Amer Civilztn 1"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20639",
+        "desc": "Amer Civilztn 2"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20640",
+        "desc": "American Legal History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20641",
+        "desc": "Ancient Egypt"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20642",
+        "desc": "Ancient Greece&Rome"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20643",
+        "desc": "Ancient Law & Soc"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20644",
+        "desc": "Ancient Near East Law/Society"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20645",
+        "desc": "Ancient Warfare"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20646",
+        "desc": "Asian History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20647",
+        "desc": "Blacks in Latin America"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20648",
+        "desc": "Cairo Then and Now"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20649",
+        "desc": "Carib Migratn-Us"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20650",
+        "desc": "China 1650 - Present"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20651",
+        "desc": "China to 1650"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20652",
+        "desc": "China: 1650-Present"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20653",
+        "desc": "Civl Lib Dis Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20654",
+        "desc": "Class Race&Fam Latin Amer Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20655",
+        "desc": "Comp Revolutions"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20656",
+        "desc": "Cont His I"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20657",
+        "desc": "Cont Hist II"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20658",
+        "desc": "Crime & Pun In Us"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20659",
+        "desc": "Crit Persp on Middle East"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20660",
+        "desc": "Crj Eur 1750-Pres"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20661",
+        "desc": "Crj In Europe"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20662",
+        "desc": "Developmt Of Weapons"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20663",
+        "desc": "Doing History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20664",
+        "desc": "Exempt Hist Gen Ed"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20665",
+        "desc": "Exploring Global History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20666",
+        "desc": "Fac Mentored Research Experien"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20667",
+        "desc": "Famous Trials"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20668",
+        "desc": "Fem Felon Premodern World"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20669",
+        "desc": "Gend&Sex Muslim Soc"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20670",
+        "desc": "His Carib Islands"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20671",
+        "desc": "His Crim Jus&Pop Cul"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20672",
+        "desc": "His Muslim Societies"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20673",
+        "desc": "His Of Jus & Ineqlty"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20674",
+        "desc": "His&Jus Worldwide"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20675",
+        "desc": "Hist Crime Nyc"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20676",
+        "desc": "Hist Muslim Society"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20677",
+        "desc": "Hist Of Gender Image"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20678",
+        "desc": "Hist Sci/Med To 1650"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20679",
+        "desc": "Hist Slavery To 1650"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20680",
+        "desc": "Historiography"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20681",
+        "desc": "History Gender I"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20682",
+        "desc": "History Of Lynching"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20683",
+        "desc": "History Of Slavery I"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20684",
+        "desc": "History Of Terrorism"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20685",
+        "desc": "History of Catholicism"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20686",
+        "desc": "History of Contemporary Cuba"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20687",
+        "desc": "History of Eugenics"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20688",
+        "desc": "History of Genocide"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20689",
+        "desc": "History of Islamic Law"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20690",
+        "desc": "History of New York City"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20691",
+        "desc": "History of Puerto Rico"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20692",
+        "desc": "History of the Cold War"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20693",
+        "desc": "Immigra Ethnic US"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20694",
+        "desc": "Imperialism"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20695",
+        "desc": "Independent Study 200-level"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20696",
+        "desc": "Independent Study 300-level"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20697",
+        "desc": "Independent Study 400-level"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20698",
+        "desc": "Individual Readings"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20699",
+        "desc": "Interdisc Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20700",
+        "desc": "Islamic History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20701",
+        "desc": "Just Islam 500-Pres"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20702",
+        "desc": "Marriage in Medieval Europe"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20703",
+        "desc": "Medieval Marriage"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20704",
+        "desc": "Microhistories"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20705",
+        "desc": "Mod Military Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20706",
+        "desc": "Modern Military Hist"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20707",
+        "desc": "Orchest Music & War"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20708",
+        "desc": "Origin Contp West"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20709",
+        "desc": "Premodern Punishment"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20710",
+        "desc": "Psychohistory"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20711",
+        "desc": "Reacting to the Past"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20712",
+        "desc": "Religions of the Ancient World"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20713",
+        "desc": "Research Methods in History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20714",
+        "desc": "Rev & Soc Chng Contemp Lat Am"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20715",
+        "desc": "Selected Topics in History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20716",
+        "desc": "Senior Seminar in History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20717",
+        "desc": "Social History of Catholicism"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20718",
+        "desc": "The Ancient World"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20719",
+        "desc": "The Medieval World"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20720",
+        "desc": "The Modern World"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20721",
+        "desc": "The Sixties"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20722",
+        "desc": "Topics His Sci&Med"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20723",
+        "desc": "Topics in Legal History"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20724",
+        "desc": "Us Forn Pol Latam"
+    },
+    {
+        "major": "HIST",
+        "room_num": "20725",
+        "desc": "Violence&Soc Chng"
+    }
+]

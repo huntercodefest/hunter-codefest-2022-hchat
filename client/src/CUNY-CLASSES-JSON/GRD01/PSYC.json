@@ -1,0 +1,2487 @@
+[
+    {
+        "major": "PSYC",
+        "room_num": "9072",
+        "desc": "2nd Year Resrch Sem"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9073",
+        "desc": "A Behav Scien/Busns"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9074",
+        "desc": "Abnormal Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9075",
+        "desc": "Action Research"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9076",
+        "desc": "Adult Psychopathology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9077",
+        "desc": "Adult Psychotherapy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9078",
+        "desc": "Adv Experimental Psych I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9079",
+        "desc": "Adv Experimental Psych II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9080",
+        "desc": "Adv Physiological Psych II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9081",
+        "desc": "Adv Physiological Psych III"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9082",
+        "desc": "Adv Psychodiagnostc"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9083",
+        "desc": "Adv Sem Spec Prob Career Dev"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9084",
+        "desc": "Adv Sem Spec Prob Org Develop"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9085",
+        "desc": "Adv Sem in Res Prob Pers Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9086",
+        "desc": "Adv Sleep Disorders"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9087",
+        "desc": "Adv Social Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9088",
+        "desc": "Adv Statistics Meth"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9089",
+        "desc": "Adv Topics in Psychotherapy II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9090",
+        "desc": "Advanced Independent Research"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9091",
+        "desc": "Advanced Social Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9092",
+        "desc": "Advncd Clin Extrnshp IV:Nurpsy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9093",
+        "desc": "Advncd Clin Extrnshp V:Nuropsy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9094",
+        "desc": "Alcohol & Drugs"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9095",
+        "desc": "Altered States of Conscious"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9096",
+        "desc": "Animal Behavior"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9097",
+        "desc": "Animal Behavior I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9098",
+        "desc": "Animal Communiction"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9099",
+        "desc": "Aphasia"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9100",
+        "desc": "Applied Behavior Analysis II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9101",
+        "desc": "Attention"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9102",
+        "desc": "Attitude and Attitude Change"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9103",
+        "desc": "Basic Neurosci: Behav Neurosci"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9104",
+        "desc": "Basic Neurosci: Cog Neurosci"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9105",
+        "desc": "Basic Neurosci: Molec Neurosci"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9106",
+        "desc": "Basic Neurosci:Systms Neurosci"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9107",
+        "desc": "Basic Psych Processes I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9108",
+        "desc": "Basic Psychology Processes II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9109",
+        "desc": "Behav & Conserv in Captivity"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9110",
+        "desc": "Behav Analysis Child Devlpmnt"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9111",
+        "desc": "Behav Intervent with Children"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9112",
+        "desc": "Behav Mod in Ind & Org Environ"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9113",
+        "desc": "Behav Sci & Bus"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9114",
+        "desc": "Behav Scnce In Bus"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9115",
+        "desc": "Behav: Busin/Engin"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9116",
+        "desc": "Behavior Genetics"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9117",
+        "desc": "Behavior Int Child"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9118",
+        "desc": "Behavior Modificton"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9119",
+        "desc": "Behavioral Neuroscience"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9120",
+        "desc": "Behavioral Sciences"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9121",
+        "desc": "Behavioral Sciences and Bus"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9122",
+        "desc": "Behvr\u2019l Intrvntn Devlpmntl Dis"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9123",
+        "desc": "Bhvr Fndtns Of Bus"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9124",
+        "desc": "Biological Basis of Behavior"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9125",
+        "desc": "Brain & Behavior"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9126",
+        "desc": "Career Development"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9127",
+        "desc": "Categ/Conc Form:Beh Analy Appr"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9128",
+        "desc": "Child Interviewing"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9129",
+        "desc": "Child Neuropsych Assessment"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9130",
+        "desc": "Child Psychotherapy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9131",
+        "desc": "Child Therapy Prac"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9132",
+        "desc": "Children/Psychology & the Law"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9133",
+        "desc": "Clin Neuropsy Pract"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9134",
+        "desc": "Clinical Interview"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9135",
+        "desc": "Clinical Interviewing"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9136",
+        "desc": "Clinical Issues in Adolescence"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9137",
+        "desc": "Clinical Practicum I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9138",
+        "desc": "Clinical Practicum II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9139",
+        "desc": "Clinical Psychopharmacology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9140",
+        "desc": "Cncptlzing Rsrching Black ID"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9141",
+        "desc": "Cntxt & Struct In"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9142",
+        "desc": "Cog Neurosci Human Mem Syst"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9143",
+        "desc": "Cogn Dev:Proc Theories & Resch"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9144",
+        "desc": "Cogn Dev:Struct Theories & Res"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9145",
+        "desc": "Cognit Behav Treatm"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9146",
+        "desc": "Cognition and Affect"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9147",
+        "desc": "Cognitive Devel Ii"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9148",
+        "desc": "Cognitive Develop I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9149",
+        "desc": "Cognitive Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9150",
+        "desc": "Cogntv/Affective Aspcts Bhvr"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9151",
+        "desc": "Coll in Animal Beh & Biopsych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9152",
+        "desc": "Comp Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9153",
+        "desc": "Comparative Psyc"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9154",
+        "desc": "Comprtive Cognition & Learning"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9155",
+        "desc": "Comput Simulatn of Psych Proc"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9156",
+        "desc": "Computational Cognition I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9157",
+        "desc": "Computational Cognition II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9158",
+        "desc": "Contemp Psych Thry:Winnicott"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9159",
+        "desc": "Cptr Simulation/Psy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9160",
+        "desc": "Critical Issues in Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9161",
+        "desc": "Cross-Cult Iss in Global Orgs"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9162",
+        "desc": "Cultur Asp Hum Dev:Mind in Soc"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9163",
+        "desc": "Culture/Environment"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9164",
+        "desc": "Curr Environ Resch"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9165",
+        "desc": "Curr Top in Environ Psych I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9166",
+        "desc": "Current Research in Biopsycho"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9167",
+        "desc": "Design Studio"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9168",
+        "desc": "Design of Resch in Animl Behav"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9169",
+        "desc": "Develop Psych-The Later Years"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9170",
+        "desc": "Development of Cognition"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9171",
+        "desc": "Developmental Assessment"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9172",
+        "desc": "Developmental Disabilities I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9173",
+        "desc": "Developmental Disabilities II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9174",
+        "desc": "Developmental Neuropsychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9175",
+        "desc": "Developmental Proseminar I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9176",
+        "desc": "Developmental Proseminar II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9177",
+        "desc": "Developmental Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9178",
+        "desc": "Developmental Psychology I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9179",
+        "desc": "Developmental Psychology II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9180",
+        "desc": "Developmental Resch"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9181",
+        "desc": "Dialectical Behavior Therapy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9182",
+        "desc": "Discourse Theory and Analysis"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9183",
+        "desc": "Disorders Of Self"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9184",
+        "desc": "Dissertation Supervision"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9185",
+        "desc": "Diversity Issues/Clinical Psyc"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9186",
+        "desc": "Diversity in Organizations"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9187",
+        "desc": "Doctoral Dissertation Seminar"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9188",
+        "desc": "Dream/Impirical Res"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9189",
+        "desc": "Ed-Based Psychodynamic Trtmnt"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9190",
+        "desc": "Emot Facial Express"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9191",
+        "desc": "Emotions in Organizations"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9192",
+        "desc": "Empir Supp Trtmnt Subs Abuse"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9193",
+        "desc": "Env Soc Sci II:Eco/Contxt Conc"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9194",
+        "desc": "Env Soc Sci III:Soc/Cult Thry"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9195",
+        "desc": "Environment Stress"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9196",
+        "desc": "Epistemol Fdtns of Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9197",
+        "desc": "Epistemological Fnd"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9198",
+        "desc": "Ethic/Profes Issues"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9199",
+        "desc": "Ethical Legal Iss for Psychol"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9200",
+        "desc": "Ethical Prncpls Rsrch/Prof Dev"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9201",
+        "desc": "Ethical/Legal Iss for Psychol"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9202",
+        "desc": "Ethical/Legal Issues Frnsc Psy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9203",
+        "desc": "Ethnic/Gender/Diversity Issues"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9204",
+        "desc": "Ethnicity/Mentlhlth"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9205",
+        "desc": "Ethology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9206",
+        "desc": "Ev Based Assmnt/Trtmnt Disrdrs"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9207",
+        "desc": "Ev-Based Asmnt/Trtmnt TSD"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9208",
+        "desc": "Ev-Bsd Trtmnt Adlst Mntl Illne"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9209",
+        "desc": "Eval Psyc Resch"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9210",
+        "desc": "Exper Approaches"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9211",
+        "desc": "Exper Psychopathgy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9212",
+        "desc": "Exper Psychopharmacology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9213",
+        "desc": "Experimental Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9214",
+        "desc": "Experimental Psych & the Law"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9215",
+        "desc": "Experimental Psych and Law"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9216",
+        "desc": "Experimental Psychl"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9217",
+        "desc": "Experimental Social Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9218",
+        "desc": "Externship Clin Neuropsych III"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9219",
+        "desc": "Externship Clin Psychology I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9220",
+        "desc": "Externship Clinical Psych II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9221",
+        "desc": "Fam Systms/Thry/Trtmnt/Rsrch I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9222",
+        "desc": "Family Systems"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9223",
+        "desc": "Family Systems I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9224",
+        "desc": "Family Systems Ii"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9225",
+        "desc": "Family Sytms Thry Trtmt Res II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9226",
+        "desc": "Family Violence"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9227",
+        "desc": "Fdtns Ment Hlth Counsel/Consul"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9228",
+        "desc": "Field Resch Mthds in Soc Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9229",
+        "desc": "Field Research I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9230",
+        "desc": "Field Studies in Animal Behav"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9231",
+        "desc": "Field/Animal Behavr"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9232",
+        "desc": "Fld Exp Psychother & Counsel 2"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9233",
+        "desc": "Fld Exp Psychother & Counsel I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9234",
+        "desc": "Forensic Interviewing & Evaltn"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9235",
+        "desc": "Forensic Psych Assessment I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9236",
+        "desc": "Forensic Psych Assessment II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9237",
+        "desc": "Foundations of Cognitive Sci"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9238",
+        "desc": "General Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9239",
+        "desc": "Group Dynamics & Group Trtmnt"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9240",
+        "desc": "Group Psychotherapy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9241",
+        "desc": "Head Injury"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9242",
+        "desc": "Health Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9243",
+        "desc": "Health of Lesbians Gays Bisexu"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9244",
+        "desc": "Heirarchical Linear Modeling"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9245",
+        "desc": "Hist Of Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9246",
+        "desc": "Hist&Theo Fndtns Crit S/P Psyc"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9247",
+        "desc": "History of Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9248",
+        "desc": "Human Devlpmnt/Glblzation"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9249",
+        "desc": "Human Engineering"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9250",
+        "desc": "Human Motivation"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9251",
+        "desc": "Independent Psych Resch"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9252",
+        "desc": "Independent Reading"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9253",
+        "desc": "Independent Resch"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9254",
+        "desc": "Independent Research"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9255",
+        "desc": "Infancy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9256",
+        "desc": "Infant Psychopath"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9257",
+        "desc": "Info Thry-Decis Pro"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9258",
+        "desc": "Info/Dec Proc Hum Behav-Cognit"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9259",
+        "desc": "Insomnia"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9260",
+        "desc": "Instrumentation in Exper Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9261",
+        "desc": "Int Neuropsychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9262",
+        "desc": "Interdisc Autism/Spectr Disord"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9263",
+        "desc": "Intergroup Relations"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9264",
+        "desc": "Intermediate Stat"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9265",
+        "desc": "Intgrtive Fndations Psychthrpy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9266",
+        "desc": "Intro Indiv Psy Test in Ind"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9267",
+        "desc": "Intro Neuropsycholy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9268",
+        "desc": "Intro Psychotherapy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9269",
+        "desc": "Intro To Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9270",
+        "desc": "Intro to Behav Neuroscience"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9271",
+        "desc": "Intro to Environmental Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9272",
+        "desc": "Intro to Forensic Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9273",
+        "desc": "Intro to Neuropsychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9274",
+        "desc": "Intro to Soc & Env Policy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9275",
+        "desc": "Introduction to Meta-analysis"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9276",
+        "desc": "Issue Clinical Psy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9277",
+        "desc": "Juvenile Law"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9278",
+        "desc": "Lang/Thght In Devel"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9279",
+        "desc": "Language Development"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9280",
+        "desc": "Language and Thought"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9281",
+        "desc": "Law and Social Science Evidenc"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9282",
+        "desc": "Leadership in Organizations"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9283",
+        "desc": "Learning"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9284",
+        "desc": "Learning and Development"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9285",
+        "desc": "Lifespan Development"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9286",
+        "desc": "Macroprocesses"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9287",
+        "desc": "Measure of Ability"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9288",
+        "desc": "Measurement of Abilities"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9289",
+        "desc": "Memory & Forensic Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9290",
+        "desc": "Memory Development"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9291",
+        "desc": "Methods of Cognitive Neurosci"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9292",
+        "desc": "Microcptr/Psy Resch"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9293",
+        "desc": "Mind In Society"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9294",
+        "desc": "Morality9295: PSYC,\"Motivation and Reinforcement"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9296",
+        "desc": "Multivariate Analys"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9297",
+        "desc": "Multivariate Stat Methods"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9298",
+        "desc": "Narrative Inquiry"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9299",
+        "desc": "Natural Language Processing"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9300",
+        "desc": "Neuro Chem of Learn&Motivation"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9301",
+        "desc": "Neuroanatomy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9302",
+        "desc": "Neuroanatomy Ii"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9303",
+        "desc": "Neurobiology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9304",
+        "desc": "Neuropathology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9305",
+        "desc": "Neuropathophysiolgy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9306",
+        "desc": "Neurophysiology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9307",
+        "desc": "Neuropsychological Assessment"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9308",
+        "desc": "Neuropsychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9309",
+        "desc": "Neuropsychology of Learning"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9310",
+        "desc": "Neuropsychology of Perception"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9311",
+        "desc": "Neurosci Meth I:Stats/Resrch"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9312",
+        "desc": "Neurosci Meth II:Stats/Resrch"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9313",
+        "desc": "Neuroscience I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9314",
+        "desc": "Neuroscience II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9315",
+        "desc": "Neuroscience Rotation"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9316",
+        "desc": "Neuroscience of Consciousness"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9317",
+        "desc": "Non Piaget Cog Devl"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9318",
+        "desc": "Nurosci III:Behvrl/Cog Neuro"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9319",
+        "desc": "Object Relations Ii"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9320",
+        "desc": "Organiz Diagnos & Interventn"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9321",
+        "desc": "Organization Behavr"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9322",
+        "desc": "Organizational Development"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9323",
+        "desc": "Organizational Psy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9324",
+        "desc": "Organizational Psyc"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9325",
+        "desc": "Organizational Survey Research"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9326",
+        "desc": "Parent-Child Peer Relations"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9327",
+        "desc": "Perception Resch Ii"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9328",
+        "desc": "Pers Assessment I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9329",
+        "desc": "Personality Development"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9330",
+        "desc": "Personality Ii"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9331",
+        "desc": "Personality Measurement I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9332",
+        "desc": "Personality Measurement II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9333",
+        "desc": "Personality/Individual Dffrncs"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9334",
+        "desc": "Personnel Assess in Organizatn"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9335",
+        "desc": "Personnel Psy Resch"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9336",
+        "desc": "Personnel Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9337",
+        "desc": "Physiological Psyc"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9338",
+        "desc": "Physiological Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9339",
+        "desc": "Prac Adult Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9340",
+        "desc": "Prac/Sleep Disor Ii"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9341",
+        "desc": "Pract Applied Beh Analysis II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9342",
+        "desc": "Pract Clin Eval Sleep Disordrs"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9343",
+        "desc": "Pract Clin Neuropsy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9344",
+        "desc": "Pract Interv & Pers Apprais 3"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9345",
+        "desc": "Pract Interv & Pers Apprais I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9346",
+        "desc": "Pract Interv & Pers Apprais II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9347",
+        "desc": "Pract Psychodiagn/Pers Assess"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9348",
+        "desc": "Pract in Environmental Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9349",
+        "desc": "Pract:Appl Behavior Analysis"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9350",
+        "desc": "Pract:Treatment Sleep Disorder"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9351",
+        "desc": "Practicum Neuropsyc"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9352",
+        "desc": "Practicum in Appl Behav Analy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9353",
+        "desc": "Practicum in Applied Behavior"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9354",
+        "desc": "Practicum in Devel Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9355",
+        "desc": "Practicum in the Applic Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9356",
+        "desc": "Prev Psyc/Mental Disorder"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9357",
+        "desc": "Pro-Seminar II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9358",
+        "desc": "Prob in Ind Psych 2/Org Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9359",
+        "desc": "Prob in Ind Psych I/Pers Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9360",
+        "desc": "Prof Issues In Psy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9361",
+        "desc": "Prof Issues in Clinical Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9362",
+        "desc": "Prog & Data Analysis"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9363",
+        "desc": "Prosem Dev Psyc Ii"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9364",
+        "desc": "Prosem in Psychology and Law"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9365",
+        "desc": "Prosem:Cognition/Brain/Behvior"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9366",
+        "desc": "Proseminar I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9367",
+        "desc": "Proseminar II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9368",
+        "desc": "Psy-New School"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9369",
+        "desc": "Psyanalytc Thry Ii"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9370",
+        "desc": "Psyc Aspcts of Learn Disabilit"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9371",
+        "desc": "Psyc Women/Work"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9372",
+        "desc": "Psych Eyewitness"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9373",
+        "desc": "Psych Impact of Org on Indiv"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9374",
+        "desc": "Psych Of Percep"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9375",
+        "desc": "Psych of Confession Evidence"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9376",
+        "desc": "Psych of Criminal Behavior"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9377",
+        "desc": "Psych of Human Sexuality"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9378",
+        "desc": "Psych of Sleep/Dreams"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9379",
+        "desc": "Psych of Small Groups"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9380",
+        "desc": "Psychoanalysis Today"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9381",
+        "desc": "Psychoanalytic Theories I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9382",
+        "desc": "Psychoanalytic Theories II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9383",
+        "desc": "Psychodiagnostics I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9384",
+        "desc": "Psychodiagnostics II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9385",
+        "desc": "Psychoeduc & Commun Interventn"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9386",
+        "desc": "Psychol Profile Off (JJ crse)"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9387",
+        "desc": "Psychol Profiling"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9388",
+        "desc": "Psychology Of Aging"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9389",
+        "desc": "Psychology for Parents"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9390",
+        "desc": "Psychology of Learning"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9391",
+        "desc": "Psychology of Perception"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9392",
+        "desc": "Psychology of Urban Problems"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9393",
+        "desc": "Psychology of Women"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9394",
+        "desc": "Psychology of the Eyewitness"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9395",
+        "desc": "Psychology of the Jury"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9396",
+        "desc": "Psychology of the Victim"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9397",
+        "desc": "Psychology9398: PSYC,\"Psychometric Methods"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9399",
+        "desc": "Psychometrics"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9400",
+        "desc": "Psychopathology I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9401",
+        "desc": "Psychopathology II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9402",
+        "desc": "Psychopathology of Childhood"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9403",
+        "desc": "Psychopathology of Infancy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9404",
+        "desc": "Psychopharmacology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9405",
+        "desc": "Psychopharmocology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9406",
+        "desc": "Psychophys of Sleep & Dreams"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9407",
+        "desc": "Psychophysical Methods"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9408",
+        "desc": "Psychother Intervnt"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9409",
+        "desc": "Psychother/Soc Valu"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9410",
+        "desc": "Psychotherapy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9411",
+        "desc": "Psychsoc Det Hlth Dsprty/Dvrst"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9412",
+        "desc": "Psytherap Intervent"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9413",
+        "desc": "Quantitative Methods in Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9414",
+        "desc": "Record & Stim Tech in Phys Psy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9415",
+        "desc": "Relational Psychoanalysis"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9416",
+        "desc": "Res Mthd & Ethics Env Psych I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9417",
+        "desc": "Res Mthd & Ethics Env Psych II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9418",
+        "desc": "Res Mthds & Des Ii"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9419",
+        "desc": "Res Mthds Ii:Qualit"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9420",
+        "desc": "Res/Health Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9421",
+        "desc": "Resch & Program Evaluation"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9422",
+        "desc": "Resch Mthds in Animal Behavior"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9423",
+        "desc": "Resch Mthds in Human Develop"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9424",
+        "desc": "Resch Semnr/Health"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9425",
+        "desc": "Resch-Management"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9426",
+        "desc": "Research Design"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9427",
+        "desc": "Research Methods"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9428",
+        "desc": "Research Methods I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9429",
+        "desc": "Research Methods Ii"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9430",
+        "desc": "Research Methods and Design I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9431",
+        "desc": "Research Methods and Design II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9432",
+        "desc": "Research Methods in Hum Dev II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9433",
+        "desc": "Research Practicum"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9434",
+        "desc": "Research/Clinical Supervision"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9435",
+        "desc": "Resrch Meth Hmn Dev Psy II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9436",
+        "desc": "Resrch Meth Hum Dev Psy I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9437",
+        "desc": "Resrch Meth Tut Hmn Dev II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9438",
+        "desc": "Resrch Meth Tut Hmn Dev Psy I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9439",
+        "desc": "Rsrch Mthds/Design"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9440",
+        "desc": "ST: Neural Basis of Learning"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9441",
+        "desc": "ST: Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9442",
+        "desc": "Second Year Research Sem II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9443",
+        "desc": "Second Year Research Seminar"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9444",
+        "desc": "Selected Topics"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9445",
+        "desc": "Self Awareness Ii"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9446",
+        "desc": "Sem & Pract on Teach of Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9447",
+        "desc": "Sem Adv Dat An Tech Fld Res II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9448",
+        "desc": "Sem Adv Dat Ana Tech Fld Res I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9449",
+        "desc": "Sem Contemp Psych Topics"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9450",
+        "desc": "Sem Contemp Psychological Tpcs"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9451",
+        "desc": "Sem Develop Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9452",
+        "desc": "Sem in Applied Soc Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9453",
+        "desc": "Sem in Clin Neuropsy I9454: PSYC,\"Sem in Clin Neuropsy II9455: PSYC,\"Sem in Commun Consultations I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9456",
+        "desc": "Sem in Commun Consultations II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9457",
+        "desc": "Sem in Comparative Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9458",
+        "desc": "Sem in Concept Iss in Fld Res"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9459",
+        "desc": "Sem in Curr Psych Research"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9460",
+        "desc": "Sem in Devel Neuropsychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9461",
+        "desc": "Sem in Develop Psychopathology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9462",
+        "desc": "Sem in Developmental Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9463",
+        "desc": "Sem in Environment Evaluation"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9464",
+        "desc": "Sem in Exper Psychopathology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9465",
+        "desc": "Sem in History of Soc Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9466",
+        "desc": "Sem in Human Neuropsychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9467",
+        "desc": "Sem in Ind & Organiz Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9468",
+        "desc": "Sem in Math Models of Behavior"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9469",
+        "desc": "Sem in Memory:Funct 2:Amnesia"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9470",
+        "desc": "Sem in Memory:Funct I:Bas Proc"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9471",
+        "desc": "Sem in Neurochem Correl of Beh"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9472",
+        "desc": "Sem in Perception- Perception"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9473",
+        "desc": "Sem in Physiological Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9474",
+        "desc": "Sem in Pol Ecol & Env Justice"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9475",
+        "desc": "Sem in Projective Techniques"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9476",
+        "desc": "Sem in Psych of Personality"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9477",
+        "desc": "Sem in Psychology of Learning"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9478",
+        "desc": "Sem in Psychometric Techniq"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9479",
+        "desc": "Sem in Reprod:Behav & Physiol"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9480",
+        "desc": "Sem in Thry of Mental Testing"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9481",
+        "desc": "Sem on Environmental Cognition"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9482",
+        "desc": "Sem on Gender & Env/Sex/Space"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9483",
+        "desc": "Sem on Phys Envir & Soc Behav"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9484",
+        "desc": "Sem/Pictorial Rep"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9485",
+        "desc": "Sem/Prac-Teach Psyc"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9486",
+        "desc": "Sem: Language Acquisition"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9487",
+        "desc": "Seminar in Behavior Theory"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9488",
+        "desc": "Seminar in Biopsychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9489",
+        "desc": "Seminar in Conditioning"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9490",
+        "desc": "Seminar in Neuroethology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9491",
+        "desc": "Seminar in Psycholinguistics"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9492",
+        "desc": "Seminar in Psychopharmacology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9493",
+        "desc": "Seminar in Psychotherapy I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9494",
+        "desc": "Seminar in Psychotherapy II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9495",
+        "desc": "Seminar in Sensory Processes"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9496",
+        "desc": "Seminar in Social Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9497",
+        "desc": "Seminar in Soviet Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9498",
+        "desc": "Seminar in Special Topics"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9499",
+        "desc": "Sensory Proces Visn"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9500",
+        "desc": "Sensory Psychology--Perception"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9501",
+        "desc": "Sensory and Motor Systems"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9502",
+        "desc": "Sex and Gender"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9503",
+        "desc": "Sleep And Disorders"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9504",
+        "desc": "Sleep Dis Diag & Interview"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9505",
+        "desc": "Sleepiness/Disorders Somnlnce"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9506",
+        "desc": "Small Group Processes"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9507",
+        "desc": "Social Cog/Affective Neurosci"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9508",
+        "desc": "Social Cognition"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9509",
+        "desc": "Social Interaction and Develop"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9510",
+        "desc": "Social Justice Research"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9511",
+        "desc": "Social Psych Texts"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9512",
+        "desc": "Social Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9513",
+        "desc": "Social Psychopathology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9514",
+        "desc": "Social-Personality Psych I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9515",
+        "desc": "Sociology Of Crime"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9516",
+        "desc": "Sociotechnical Systems Theory"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9517",
+        "desc": "Spec Tpcs Exper Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9518",
+        "desc": "Spec Tpcs in Exper Psych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9519",
+        "desc": "Special Topics in Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9520",
+        "desc": "Sports Medicine"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9521",
+        "desc": "Stat Consultation"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9522",
+        "desc": "Stat Meth Psy 2"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9523",
+        "desc": "Stat Meth Psych I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9524",
+        "desc": "Stat Methods in Psychology I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9525",
+        "desc": "Stat Methods in Psychology II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9526",
+        "desc": "Stat Mthds in Psych II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9527",
+        "desc": "Statist Methods I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9528",
+        "desc": "Statistic Methods I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9529",
+        "desc": "Statistical Mthds"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9530",
+        "desc": "Sterotyping/Prejudice/LegalSys"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9531",
+        "desc": "Stimulus Control of Behavior"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9532",
+        "desc": "Structural Equation Modeling"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9533",
+        "desc": "Studio in Env Des & Planning"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9534",
+        "desc": "Subcort Brain Behav"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9535",
+        "desc": "Supervision & Consultation"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9536",
+        "desc": "Survey of Clinical Neuropsych"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9537",
+        "desc": "Symbolic Processes"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9538",
+        "desc": "Systems of Psychotherapy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9539",
+        "desc": "Systems of Psychotherapy II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9540",
+        "desc": "Teaching Of Psychol"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9541",
+        "desc": "Teaching Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9542",
+        "desc": "Tech in Human Neuropsychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9543",
+        "desc": "Tech in Phys Psy 2:Ablat/Hist"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9544",
+        "desc": "Tech in Phys Psy:Chem/Meta Mth"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9545",
+        "desc": "The Contempo Self"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9546",
+        "desc": "The Synaptic Self"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9547",
+        "desc": "Theories Of City"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9548",
+        "desc": "Theories Of Person"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9549",
+        "desc": "Theories of Affect"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9550",
+        "desc": "Theories of Association"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9551",
+        "desc": "Theories of Development"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9552",
+        "desc": "Theories of Social (In)Justice"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9553",
+        "desc": "Therapeut Intervent"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9554",
+        "desc": "Therapeutic Interventions"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9555",
+        "desc": "Therapeutic Intervn"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9556",
+        "desc": "Thinking"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9557",
+        "desc": "Thr&Mthd Appl Behav Analy II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9558",
+        "desc": "Thrptc IntvrvntnII/Empr Trtmnt"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9559",
+        "desc": "Thrtcl Apprchs of Soc Pers Psy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9560",
+        "desc": "Thry & Mthds of Psychotherapy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9561",
+        "desc": "Thry/Meth Appld Behav Anlys I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9562",
+        "desc": "Thry/Mthd Appl Behav Analy I"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9563",
+        "desc": "Thry/Mthd Appl Behav Analy II"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9564",
+        "desc": "Thry/Pract Grp Psychotherapy"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9565",
+        "desc": "Training Methods and Research"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9566",
+        "desc": "Transference/Countertrnsfrnce"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9567",
+        "desc": "Treatmnt Autism Spect Disorder"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9568",
+        "desc": "Tutorial"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9569",
+        "desc": "Urban Psychology"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9570",
+        "desc": "Vid/Photo Doc for Psy Res/Pres"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9571",
+        "desc": "Violence and Agression"
+    },
+    {
+        "major": "PSYC",
+        "room_num": "9572",
+        "desc": "Women Resch Group"
+    }
+]

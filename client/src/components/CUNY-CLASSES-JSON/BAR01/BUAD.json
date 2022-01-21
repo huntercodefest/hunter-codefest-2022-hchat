@@ -1,0 +1,560 @@
+[
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59230",
+        "room_desc": "3 Faces Of Negotiati"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59231",
+        "room_desc": "Adv Independent Study BUS II"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59232",
+        "room_desc": "Bus Comm II:Bus Prof"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59233",
+        "room_desc": "Bus Comm II:Leadrshp"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59234",
+        "room_desc": "Bus Comm II:Qnt&Tech"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59235",
+        "room_desc": "Bus Research Seminar"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59236",
+        "room_desc": "Business & Economic Dev"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59237",
+        "room_desc": "Business & Society"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59238",
+        "room_desc": "Business Analytic Project Mgmt"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59239",
+        "room_desc": "Business Communication I"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59240",
+        "room_desc": "Business Consulting"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59241",
+        "room_desc": "Business Fundamentals"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59242",
+        "room_desc": "Business Fundamentals: The Con"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59243",
+        "room_desc": "Business Internship"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59244",
+        "room_desc": "Business Internship IV"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59245",
+        "room_desc": "Business Internship V"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59246",
+        "room_desc": "Business Internship VI"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59247",
+        "room_desc": "Business Policy"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59248",
+        "room_desc": "Business and Society"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59249",
+        "room_desc": "Case Studies in Business"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59250",
+        "room_desc": "Comm for Acct Managers"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59251",
+        "room_desc": "Communications and Ethics for"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59252",
+        "room_desc": "Competition Anlysis & Regulatn"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59253",
+        "room_desc": "Current Topics in Business"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59254",
+        "room_desc": "Digital Marketing Bootcamp"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59255",
+        "room_desc": "Dissertation Research - Final"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59256",
+        "room_desc": "Dissertation Research - Propos"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59257",
+        "room_desc": "Econometric Meth for Bus Resea"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59258",
+        "room_desc": "Econometric Methods"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59259",
+        "room_desc": "Elective Credit 1.0cr"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59260",
+        "room_desc": "Elective Credit 2.0cr"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59261",
+        "room_desc": "Elective Credit 3.0cr"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59262",
+        "room_desc": "Elective Credit 4.0cr"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59263",
+        "room_desc": "Emerging Trends Bus"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59264",
+        "room_desc": "Ethics in Business Analytics"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59265",
+        "room_desc": "Field Experience (optional)"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59266",
+        "room_desc": "Graduate Internship"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59267",
+        "room_desc": "Graduate Internship I"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59268",
+        "room_desc": "Graduate Internship II"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59269",
+        "room_desc": "Graduate Internship III"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59270",
+        "room_desc": "Graduate Internship IV"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59271",
+        "room_desc": "Graduate Internship Module I"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59272",
+        "room_desc": "Graduate Internship Module II"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59273",
+        "room_desc": "Graduate Internship Module III"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59274",
+        "room_desc": "Graduate Internships Module IV"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59275",
+        "room_desc": "Hnrs Bus Fundament: Contem Bus"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59276",
+        "room_desc": "Hon Case Studies in Business"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59277",
+        "room_desc": "Hon Entre Ventures"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59278",
+        "room_desc": "Hon Financial Rep & Analysis I"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59279",
+        "room_desc": "Hon Intr To Business"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59280",
+        "room_desc": "Honors - Business Consulting"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59281",
+        "room_desc": "Honors Advanced Organizational"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59282",
+        "room_desc": "Honors Bus Fund: The Con"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59283",
+        "room_desc": "Honors Special Topics in Bus"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59284",
+        "room_desc": "Honors Thesis in Business I"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59285",
+        "room_desc": "Honors Thesis in Business II"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59286",
+        "room_desc": "Human Capital & the Triple BL"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59287",
+        "room_desc": "Ideation59288: BUAD,\"Imp Indiv and Org Performance"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59289",
+        "room_desc": "Independent Study BUS  I"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59290",
+        "room_desc": "Industry & Compet Analysis"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59291",
+        "room_desc": "Information-Based Strategies"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59292",
+        "room_desc": "International Corporate Financ"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59293",
+        "room_desc": "Internship I"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59294",
+        "room_desc": "Internship II"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59295",
+        "room_desc": "Internship III"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59296",
+        "room_desc": "Internship IV"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59297",
+        "room_desc": "Internship V"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59298",
+        "room_desc": "Internship VI"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59299",
+        "room_desc": "Intro Bus For Nonbus"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59300",
+        "room_desc": "Introduction to Business - Rec"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59301",
+        "room_desc": "Leadership Assess & Develop"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59302",
+        "room_desc": "Leadership Theory"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59303",
+        "room_desc": "Management Communication"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59304",
+        "room_desc": "Management of Innovation"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59305",
+        "room_desc": "Managerial Communication"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59306",
+        "room_desc": "Managerial Skills Acc Prof"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59307",
+        "room_desc": "Marketing Communications Strat"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59308",
+        "room_desc": "Organizational Theory II"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59309",
+        "room_desc": "Philosophy of Science"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59310",
+        "room_desc": "Position Paper Defense"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59311",
+        "room_desc": "Position Paper Research"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59312",
+        "room_desc": "Qualitative Mthds in Bus Rsrch"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59313",
+        "room_desc": "Rsrch Design & Methodology"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59314",
+        "room_desc": "Sem Cont Bus Researc"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59315",
+        "room_desc": "Spe Top In Sustainable Busines"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59316",
+        "room_desc": "Spe Top in Sustainable Busines"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59317",
+        "room_desc": "Special Topics"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59318",
+        "room_desc": "Special Topics in Business"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59319",
+        "room_desc": "Strategic Business Comm"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59320",
+        "room_desc": "Sust Bus: Pers59321: BUAD,\"Technology-Driven Org Chng"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59322",
+        "room_desc": "Total Quality Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59323",
+        "room_desc": "Understnding the Consumer Jrny"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "59324",
+        "room_desc": "Undrstnd Employee & Cust Users"
+    }
+]

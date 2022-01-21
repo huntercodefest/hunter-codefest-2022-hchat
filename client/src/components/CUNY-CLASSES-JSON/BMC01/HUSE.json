@@ -1,0 +1,50 @@
+[
+    {
+        "school": "BMC01",
+        "major": "HUSE",
+        "room_num": "18263",
+        "room_desc": "Child Welfare"
+    },
+    {
+        "school": "BMC01",
+        "major": "HUSE",
+        "room_num": "18264",
+        "room_desc": "Disabilities & Behavioral"
+    },
+    {
+        "school": "BMC01",
+        "major": "HUSE",
+        "room_num": "18265",
+        "room_desc": "Fld Exp Hum Ser I"
+    },
+    {
+        "school": "BMC01",
+        "major": "HUSE",
+        "room_num": "18266",
+        "room_desc": "Fld Exp Hum Ser II"
+    },
+    {
+        "school": "BMC01",
+        "major": "HUSE",
+        "room_num": "18267",
+        "room_desc": "Human Services Skills"
+    },
+    {
+        "school": "BMC01",
+        "major": "HUSE",
+        "room_num": "18268",
+        "room_desc": "Intro Hum Ser & Sw"
+    },
+    {
+        "school": "BMC01",
+        "major": "HUSE",
+        "room_num": "18269",
+        "room_desc": "Introduction to Gerontology"
+    },
+    {
+        "school": "BMC01",
+        "major": "HUSE",
+        "room_num": "18270",
+        "room_desc": "Soc Wel Prog & Pol"
+    }
+]

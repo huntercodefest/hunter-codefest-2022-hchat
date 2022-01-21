@@ -1,0 +1,977 @@
+[
+    {
+        "major": "WGST",
+        "room_num": "58666",
+        "desc": "18 C Women Writers"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58667",
+        "desc": "18C Brit Wmn Writr"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58668",
+        "desc": "19 & 20C Ital Wmn Wrte"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58669",
+        "desc": "19 Cen Women Writers"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58670",
+        "desc": "19th C Amer Wmn Fict"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58671",
+        "desc": "19th Century French Literature"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58672",
+        "desc": "20C Amer Wmns Fict"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58673",
+        "desc": "20C les & Gay Wtg/Rdg"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58674",
+        "desc": "Afr Wmn:Devl & Polts"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58675",
+        "desc": "Afro-Amer Wmn Writ"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58676",
+        "desc": "Aids and Society"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58677",
+        "desc": "All American Women"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58678",
+        "desc": "Am Wm Wtrs:Late 19C"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58679",
+        "desc": "Arab American Lit"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58680",
+        "desc": "Asian American Family"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58681",
+        "desc": "Asian American Queerness"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58682",
+        "desc": "Asian American Women"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58683",
+        "desc": "Asian-Amer Women Nar"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58684",
+        "desc": "Asn Am Wmn:Perfrmnce"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58685",
+        "desc": "Asn-Am Women\u2019s Writ"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58686",
+        "desc": "Bathroom Politics"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58687",
+        "desc": "Black Children"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58688",
+        "desc": "Black Feminism"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58689",
+        "desc": "Black Women Literature Artist"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58690",
+        "desc": "Black Women Writers"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58691",
+        "desc": "Blk Feminism African Diaspora"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58692",
+        "desc": "Body Politcs:Sex & Rep"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58693",
+        "desc": "Carib:Wmn58694: WGST,\"Caribbean Wmn Wrtr"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58695",
+        "desc": "Caribbean Women Writers"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58696",
+        "desc": "Childhood in N.Y."
+    },
+    {
+        "major": "WGST",
+        "room_num": "58697",
+        "desc": "Chng Role Wm Chn&Jpn"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58698",
+        "desc": "Cla: Fem Thought"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58699",
+        "desc": "Cntmp Afr Wmn Wtrs"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58700",
+        "desc": "Cntrl Rpro: Glob Comp"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58701",
+        "desc": "Construc Black Female Body"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58702",
+        "desc": "Cont Am Wmn Wrtrs"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58703",
+        "desc": "Cont Fem Th Mult Cul"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58704",
+        "desc": "Contemp Caribb Womn"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58705",
+        "desc": "Contemporary Feminist Theory"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58706",
+        "desc": "Contemporary Women"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58707",
+        "desc": "Decoloniz Gender: Text & Image"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58708",
+        "desc": "Decolonizing Desire"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58709",
+        "desc": "Dom & Hait Lit & Cult"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58710",
+        "desc": "E 20th C Am Wm Nvlts"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58711",
+        "desc": "Edith Wharton"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58712",
+        "desc": "Encounters W/The Oth"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58713",
+        "desc": "Ethncty;Gen & Disease"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58714",
+        "desc": "Excsn:Af Wn Exp Lt"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58715",
+        "desc": "Fam & Household Anthropology"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58716",
+        "desc": "Fam & Hsehld:Anth & Hist"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58717",
+        "desc": "Family & Sex and Violence"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58718",
+        "desc": "Fem Perspctvs: Lit"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58719",
+        "desc": "Fem Pol Thought"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58720",
+        "desc": "Feminism & Judaism"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58721",
+        "desc": "Feminist Sci Fiction"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58722",
+        "desc": "Fmnist & Ethical Wrtgs"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58723",
+        "desc": "Fr. Sht Story Wm Wtr"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58724",
+        "desc": "Frnch Womn 1789-1914"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58725",
+        "desc": "Gay & Lesb Pol in U.S."
+    },
+    {
+        "major": "WGST",
+        "room_num": "58726",
+        "desc": "Gdr & Sxlty School CUNY"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58727",
+        "desc": "Gend & Dev:Asia & Amer"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58728",
+        "desc": "Gender & Development"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58729",
+        "desc": "Gender and Masculinities"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58730",
+        "desc": "Gender and Power in Workplace"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58731",
+        "desc": "Gender in AA Lit & Flm"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58732",
+        "desc": "Gender in Archaeolgy"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58733",
+        "desc": "Gender58734: WGST,\"Gender58735: WGST,\"Globalizing Women"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58736",
+        "desc": "Gnder Dynamcs-Africa"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58737",
+        "desc": "Gndr & Cltr:Med&Mod"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58738",
+        "desc": "Gndr & Sex in Latin Am"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58739",
+        "desc": "Gndr58740: WGST,\"Gndr58741: WGST,\"Growing up Female"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58742",
+        "desc": "Health Dispar58743: WGST,\"Hist:Womn in Mod Eur"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58744",
+        "desc": "Honors Seminar"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58745",
+        "desc": "Immgrnt Wom in NYC"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58746",
+        "desc": "Independent Research"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58747",
+        "desc": "Indpdnt Wmn: Brontes"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58748",
+        "desc": "International Women Writers"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58749",
+        "desc": "Internship"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58750",
+        "desc": "Internship Seminar"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58751",
+        "desc": "Intro Gender/Sex Studies"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58752",
+        "desc": "Intro: Gay and Lesbian Studies"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58753",
+        "desc": "Irish Wmn Writers"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58754",
+        "desc": "Ital Women Writers"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58755",
+        "desc": "Jane Austen"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58756",
+        "desc": "Korean Americans"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58757",
+        "desc": "LGBT Policy"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58758",
+        "desc": "Language58759: WGST,\"Latina Life Stories"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58760",
+        "desc": "Latina Women"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58761",
+        "desc": "Latina Writing"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58762",
+        "desc": "Leadership Fieldwork"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58763",
+        "desc": "Lesbian Bodies"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58764",
+        "desc": "Lesbian Cultural Standard"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58765",
+        "desc": "Lesbian Texts"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58766",
+        "desc": "Lit Vc of as Am Wom"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58767",
+        "desc": "Lit: Fin-De-Siecle"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58768",
+        "desc": "Lt Plgr:Blk Wmn Auth"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58769",
+        "desc": "Masculinities"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58770",
+        "desc": "Med Wmn: Sexlty & Power"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58771",
+        "desc": "Mig & Imm 20C Wmn"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58772",
+        "desc": "Mltclt Wm Self Wrtgs"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58773",
+        "desc": "Motherhood"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58774",
+        "desc": "Mult. Lesbian Texts"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58775",
+        "desc": "Multicult Wmn Wtrs"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58776",
+        "desc": "Multidisciplinary: South Bronx"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58777",
+        "desc": "Narrative of Trauma"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58778",
+        "desc": "Nat Women in Amer Hi"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58779",
+        "desc": "PR & Other Hisp Women"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58780",
+        "desc": "Pol Queer Sexuality"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58781",
+        "desc": "Political Islam&Womn"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58782",
+        "desc": "Politics of  A.I.D.S"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58783",
+        "desc": "Politics of LGBT Rights"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58784",
+        "desc": "Politics of Masculinity"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58785",
+        "desc": "Politics of Reproduction"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58786",
+        "desc": "Post Stonewall"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58787",
+        "desc": "Prison Human Rights & Gender"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58788",
+        "desc": "Psysoc Hlth Lat Womn"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58789",
+        "desc": "Public Spkng in Gender Studies"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58790",
+        "desc": "Qr Voltlty:Lt & Flm"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58791",
+        "desc": "Queer Theory"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58792",
+        "desc": "Race Class and Gendr"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58793",
+        "desc": "Race58794: WGST,\"Race58795: WGST,\"Rape as a War Crime"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58796",
+        "desc": "Rdng Lit by Women"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58797",
+        "desc": "Redefining Latina Health"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58798",
+        "desc": "Ren Engl Wrt Wom"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58799",
+        "desc": "S. Asian Women Literature"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58800",
+        "desc": "Same Sex Marriage"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58801",
+        "desc": "Sel Std in Amr Lit"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58802",
+        "desc": "Sem:Fem Theory & Meth"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58803",
+        "desc": "Seminar"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58804",
+        "desc": "Sex Gender in the Middle Ages"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58805",
+        "desc": "Sex Race & Gentri NY"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58806",
+        "desc": "Sexu Orient58807: WGST,\"Sexual Abuse"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58808",
+        "desc": "Sexual Health Edu"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58809",
+        "desc": "Sexuality58810: WGST,\"Shakespeare\u2019s Heroines"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58811",
+        "desc": "The Black Family"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58812",
+        "desc": "Theor & Prac of Dvlpmt"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58813",
+        "desc": "Top Asian-Amer Litt."
+    },
+    {
+        "major": "WGST",
+        "room_num": "58814",
+        "desc": "Topics:Lit By Wom"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58815",
+        "desc": "Tpcs in 19th C. Lit"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58816",
+        "desc": "Translating Wmn"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58817",
+        "desc": "Transnational Feminism"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58818",
+        "desc": "Transnational Feminisms"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58819",
+        "desc": "Vagina Monolog:Play"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58820",
+        "desc": "Violence and Lesbianism"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58821",
+        "desc": "Virginia Woolf"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58822",
+        "desc": "What is Queer Culture"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58823",
+        "desc": "Wld Lt:Pstcl Wm Wt"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58824",
+        "desc": "Wm Brt Wrt 1780-1830"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58825",
+        "desc": "Wmn & Dom Pub Pol"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58826",
+        "desc": "Wmn & Soc-Vict Englnd"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58827",
+        "desc": "Wmn Glo Pub Pol 1960"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58828",
+        "desc": "Wmn Gnd & Fam:Chin Hst"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58829",
+        "desc": "Wmn Pub Pol 1960s"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58830",
+        "desc": "Wmn Wrtrs&Short Stry"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58831",
+        "desc": "Wmn&Marriag:Fmle Plt"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58832",
+        "desc": "Wmn58833: WGST,\"Wom in Bible/Engl Tr"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58834",
+        "desc": "Wom:Early Europ Soc"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58835",
+        "desc": "Woman for President"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58836",
+        "desc": "Women & Devt in Caribb"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58837",
+        "desc": "Women & Globalization"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58838",
+        "desc": "Women & Leadership"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58839",
+        "desc": "Women Hlth & Society"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58840",
+        "desc": "Women Mozart Operas"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58841",
+        "desc": "Women Philosophers"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58842",
+        "desc": "Women Roosevelt Era"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58843",
+        "desc": "Women W/Disablties"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58844",
+        "desc": "Women With Disabilities"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58845",
+        "desc": "Women and Developmnt"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58846",
+        "desc": "Women and Film"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58847",
+        "desc": "Women and Work"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58848",
+        "desc": "Women in Africa"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58849",
+        "desc": "Women in Ancient Myth"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58850",
+        "desc": "Women in British History"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58851",
+        "desc": "Women in Culture"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58852",
+        "desc": "Women in French Lit"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58853",
+        "desc": "Women in Islam World"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58854",
+        "desc": "Women in Jewish Hist"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58855",
+        "desc": "Women in Literature"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58856",
+        "desc": "Women in Migration"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58857",
+        "desc": "Women in Prehist Soc"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58858",
+        "desc": "Women in Revol Socty"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58859",
+        "desc": "Women in the 3rd Wld"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58860",
+        "desc": "Women in the Dev Wld"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58861",
+        "desc": "Women in the Middle East"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58862",
+        "desc": "Women of Color"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58863",
+        "desc": "Women\u2019s Search for Self"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58864",
+        "desc": "Womn & Mus in Wrld Cul"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58865",
+        "desc": "Womn Stry & Repro Rght"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58866",
+        "desc": "Womn W/Disabilities"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58867",
+        "desc": "Womn in 20th C Am Lt"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58868",
+        "desc": "Womn in Russian Cult"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58869",
+        "desc": "Work and Family"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58870",
+        "desc": "Writ Womens Biography"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58871",
+        "desc": "Writing Wounded Body"
+    },
+    {
+        "major": "WGST",
+        "room_num": "58872",
+        "desc": "Wrk Class Womn U.S."
+    }
+]

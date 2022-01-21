@@ -1,0 +1,397 @@
+[
+    {
+        "major": "PHIL",
+        "room_num": "14098",
+        "desc": "19c Continent Philos"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14099",
+        "desc": "Aesthetics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14100",
+        "desc": "African Philosophical Thought"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14101",
+        "desc": "American Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14102",
+        "desc": "Analytic Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14103",
+        "desc": "Asian Philosophies"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14104",
+        "desc": "Business Ethics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14105",
+        "desc": "Capitalism and Its Critics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14106",
+        "desc": "Classical Ethical Theories"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14107",
+        "desc": "Contem Analytic Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14108",
+        "desc": "Contemp Moral Issues"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14109",
+        "desc": "Contemporary Moral Issues"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14110",
+        "desc": "Contemporary Social Ethics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14111",
+        "desc": "Critical Reasoning"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14112",
+        "desc": "Critical Thinking in Practice"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14113",
+        "desc": "Disability14114: PHIL,\"Educating Kings and Citizens"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14115",
+        "desc": "Environmental Ethics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14116",
+        "desc": "Ethical Theory"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14117",
+        "desc": "Ethicl Issues/Comput"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14118",
+        "desc": "Ethics and Science"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14119",
+        "desc": "Existentialism"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14120",
+        "desc": "Fundamentals of Human Rights"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14121",
+        "desc": "GRE Theory and Practice"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14122",
+        "desc": "Global Justice"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14123",
+        "desc": "Hist of PHI III:19 Century"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14124",
+        "desc": "Hist of Philosophy II: Modern"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14125",
+        "desc": "Hist of Philosphy IV:20th Cen"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14126",
+        "desc": "History of Philosophy I"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14127",
+        "desc": "Honors Tutorial"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14128",
+        "desc": "Intermediate Logic"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14129",
+        "desc": "Intro To Logic"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14130",
+        "desc": "Intro to African Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14131",
+        "desc": "Introduction Jewish Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14132",
+        "desc": "Introduction to Logic"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14133",
+        "desc": "Issues:Phi Of Relign"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14134",
+        "desc": "Justice And Society"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14135",
+        "desc": "Justice and Society"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14136",
+        "desc": "Legal Reasoning"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14137",
+        "desc": "Logic and Language"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14138",
+        "desc": "Logical Theory"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14139",
+        "desc": "Medical Ethics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14140",
+        "desc": "Metaphysics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14141",
+        "desc": "Neuroethics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14142",
+        "desc": "Phi Of Contemp Music"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14143",
+        "desc": "Phil Prob in Legal Theory"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14144",
+        "desc": "Phil Thght Pre-Socra"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14145",
+        "desc": "Phil of Contemporary Music"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14146",
+        "desc": "Phil of Protest & Liberation"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14147",
+        "desc": "Philos-Soc Sciences"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14148",
+        "desc": "Philosophical Ideas in Lit"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14149",
+        "desc": "Philosophies of the Self"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14150",
+        "desc": "Philosophy and Film"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14151",
+        "desc": "Philosophy and Gender"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14152",
+        "desc": "Philosophy of Freedom"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14153",
+        "desc": "Philosophy of History"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14154",
+        "desc": "Philosophy of Language"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14155",
+        "desc": "Philosophy of Law"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14156",
+        "desc": "Philosophy of Mind"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14157",
+        "desc": "Philosophy of Religion"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14158",
+        "desc": "Philosophy of Science"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14159",
+        "desc": "Philosophy of Sport"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14160",
+        "desc": "Philosophy of Technology"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14161",
+        "desc": "Political Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14162",
+        "desc": "Probability and Induction"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14163",
+        "desc": "Problems of Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14164",
+        "desc": "Race and Ethnicity in Society"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14165",
+        "desc": "Readings in Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14166",
+        "desc": "Sem:Phi &Socl Policy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14167",
+        "desc": "Social Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14168",
+        "desc": "Special Topics in Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14169",
+        "desc": "Theories of Human Nature"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14170",
+        "desc": "Theory of Knowledge"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14171",
+        "desc": "Topcs In Epistemolgy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14172",
+        "desc": "Topcs In Logic &Lang"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14173",
+        "desc": "Topcs-Histor Philos"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14174",
+        "desc": "Topcs-Polit&Socl Phi"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14175",
+        "desc": "Topics In Ethics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14176",
+        "desc": "Topics in Metaphysics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "14177",
+        "desc": "Topics in Philosophy"
+    }
+]

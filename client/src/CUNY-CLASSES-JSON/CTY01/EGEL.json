@@ -1,0 +1,1377 @@
+[
+    {
+        "major": "EGEL",
+        "room_num": "37493",
+        "desc": "5G Technologies and IoT"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37494",
+        "desc": "Ad Sem:Photonics Eng"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37495",
+        "desc": "Adv Cmmncatn Theory"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37496",
+        "desc": "Adv Micro Rem Sensng"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37497",
+        "desc": "Adv Seminar in Photography"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37498",
+        "desc": "Adv Stat&Non Linr An"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37499",
+        "desc": "Adv Topics Digital Integrated"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37500",
+        "desc": "Adv Tops Cntrl Thry"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37501",
+        "desc": "Advanced Computer Architecture"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37502",
+        "desc": "Advanced Mobile Robotics"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37503",
+        "desc": "Advanced Seminar"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37504",
+        "desc": "Advanced Wireless Networks"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37505",
+        "desc": "Ana & Des Intel Sys"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37506",
+        "desc": "Anal Of Non-Linear"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37507",
+        "desc": "Anal/Des Intell Sys"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37508",
+        "desc": "Analog Computer Lab"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37509",
+        "desc": "Analog Integrated Circuits"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37510",
+        "desc": "Analysis 1"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37511",
+        "desc": "Analysis 2"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37512",
+        "desc": "Analysis 3"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37513",
+        "desc": "Analysis 4"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37514",
+        "desc": "Analysis 5"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37515",
+        "desc": "Analysis Random Syst"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37516",
+        "desc": "Antenna Theory"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37517",
+        "desc": "Antennas37518: EGEL,\"App Opt Sgnl Proc"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37519",
+        "desc": "App Stats-Data Anal"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37520",
+        "desc": "Appld Pattrn Recog"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37521",
+        "desc": "Applied Algebra"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37522",
+        "desc": "Artificial Intel for Engr Apps"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37523",
+        "desc": "Artificial Intelligence Soluti"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37524",
+        "desc": "Biomed Imaging"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37525",
+        "desc": "Bmd Sig Pro Instrum"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37526",
+        "desc": "Circuit-Systms Anal"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37527",
+        "desc": "Cmptr Anal Tools Ee"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37528",
+        "desc": "Cntrl & Robtcs Dsgn"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37529",
+        "desc": "Comm Protocol Engineering"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37530",
+        "desc": "Comm Protocol Engr"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37531",
+        "desc": "Communctn Electrncs"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37532",
+        "desc": "Communicat Systems"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37533",
+        "desc": "Communication Electronics"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37534",
+        "desc": "Communication System Design La"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37535",
+        "desc": "Communication Systems Design"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37536",
+        "desc": "Communication Theory"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37537",
+        "desc": "Comp Aided Digital VLSI Circ"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37538",
+        "desc": "Comp Anal Des-Syst"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37539",
+        "desc": "Comp Interface Sens"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37540",
+        "desc": "Components Pwr Syst"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37541",
+        "desc": "Computer Comm Networks"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37542",
+        "desc": "Computer Communication Systems"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37543",
+        "desc": "Computer Engineering Lab"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37544",
+        "desc": "Computer Evaluation"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37545",
+        "desc": "Computer Networks"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37546",
+        "desc": "Computer-Aided Circuit Design"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37547",
+        "desc": "Comunctns Electrncs"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37548",
+        "desc": "Comunications Protcl Engr"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37549",
+        "desc": "Contr Syst Thery 2"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37550",
+        "desc": "Control Laboratory"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37551",
+        "desc": "Control Syst Lab"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37552",
+        "desc": "Cryptology"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37553",
+        "desc": "Data Network Design"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37554",
+        "desc": "Data Ntwk Dsgn Proj"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37555",
+        "desc": "Data and Computer Comm"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37556",
+        "desc": "Database Design"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37557",
+        "desc": "Dgl Cmctn/Dspv Chnl"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37558",
+        "desc": "Dgtl Comp Systems"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37559",
+        "desc": "Diessertation Superv"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37560",
+        "desc": "Dig Sig Processing Algorithms"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37561",
+        "desc": "Digital Communication 1"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37562",
+        "desc": "Digital Computer Systems"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37563",
+        "desc": "Digital Computers"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37564",
+        "desc": "Digital Computers 1"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37565",
+        "desc": "Digital Computers II"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37566",
+        "desc": "Digital Data Comm"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37567",
+        "desc": "Digital Data Communications II"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37568",
+        "desc": "Digital Design using Verilog"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37569",
+        "desc": "Digital Filter Desg"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37570",
+        "desc": "Digital Filter Design"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37571",
+        "desc": "Digital Integrated Circuits"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37572",
+        "desc": "Digital Signal Proc"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37573",
+        "desc": "Digital Signal Processing"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37574",
+        "desc": "Digital Speech Proc"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37575",
+        "desc": "Digital Syst Arch"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37576",
+        "desc": "Digital Systems Design"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37577",
+        "desc": "Digital Systems Lab"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37578",
+        "desc": "Digital Systems Laboratory"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37579",
+        "desc": "Digital Systm Arch"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37580",
+        "desc": "Digitial Computer Systems"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37581",
+        "desc": "Dir Energy Conversn"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37582",
+        "desc": "Dir Enrgy Cnvrsn"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37583",
+        "desc": "Direct Energy Conversion"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37584",
+        "desc": "Dissertation Superv"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37585",
+        "desc": "Dissertation Supervised"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37586",
+        "desc": "Dissertation Supervision"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37587",
+        "desc": "Doc Dissertation"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37588",
+        "desc": "Doctoral Dissertatio"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37589",
+        "desc": "Doctoral Dissertation"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37590",
+        "desc": "Doctoral Dissertation Supervis"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37591",
+        "desc": "Doctoral Dissertatn"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37592",
+        "desc": "Doctoral Dissertion Research"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37593",
+        "desc": "Dsgn Ctrl Pwr Sys 2"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37594",
+        "desc": "Dsgn Fdbk Cntrl Sys"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37595",
+        "desc": "Dyn/Cntrls Aersp Veh"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37596",
+        "desc": "E E Lab 1"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37597",
+        "desc": "E E Lab 2"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37598",
+        "desc": "E E Lab 4"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37599",
+        "desc": "E Proj:Eco Anal-Inv"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37600",
+        "desc": "Elec Engr 1"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37601",
+        "desc": "Elec Engr 2"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37602",
+        "desc": "Elec Engr Seminar 1"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37603",
+        "desc": "Elec Power Lab 1"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37604",
+        "desc": "Elec Syst & Control"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37605",
+        "desc": "Electric Power Engineering"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37606",
+        "desc": "Electrical Engineering Lab 3"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37607",
+        "desc": "Electro-Optics"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37608",
+        "desc": "Electromagnetics"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37609",
+        "desc": "Electronics I"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37610",
+        "desc": "Electronics II"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37611",
+        "desc": "Elements of Control Theory"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37612",
+        "desc": "Elements of Power Systems"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37613",
+        "desc": "Elmnts Power Systms"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37614",
+        "desc": "Engr Electrodynam II"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37615",
+        "desc": "Engr Systems Mngmnt"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37616",
+        "desc": "Entrepreneurship"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37617",
+        "desc": "Fiber Optic Communications"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37618",
+        "desc": "Fiber Optic Communications I"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37619",
+        "desc": "Fiber Optic Communications II"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37620",
+        "desc": "Fiber-Optic Com Systems Design"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37621",
+        "desc": "Graduate Laboratory"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37622",
+        "desc": "Graph Theory"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37623",
+        "desc": "Hardware Security"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37624",
+        "desc": "High Speed Networks"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37625",
+        "desc": "I P Routing"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37626",
+        "desc": "Image Processing"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37627",
+        "desc": "Image Processing Recognition"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37628",
+        "desc": "Imge Proc & Rcogntn"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37629",
+        "desc": "Imgng & Img Pro:Bmd"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37630",
+        "desc": "Ind Stud Proj"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37631",
+        "desc": "Ind Stud/Proj"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37632",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37633",
+        "desc": "Independent Study Project"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37634",
+        "desc": "Independent Study/Project"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37635",
+        "desc": "Industrl Robotics 1"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37636",
+        "desc": "Infmtn Thry Cding"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37637",
+        "desc": "Int Quantum Opt Comm"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37638",
+        "desc": "Integrated Circuits I"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37639",
+        "desc": "Intgrted Circuits 1"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37640",
+        "desc": "Intgrted Circuits 2"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37641",
+        "desc": "Into:Adaptiv Control"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37642",
+        "desc": "Intro Lab Practice"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37643",
+        "desc": "Intro Masers-Lasers"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37644",
+        "desc": "Intro Modern Control Theory"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37645",
+        "desc": "Intro To Robotics"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37646",
+        "desc": "Intro to Digital Image Process"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37647",
+        "desc": "Intro to Lasers"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37648",
+        "desc": "Intro to Robotics"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37649",
+        "desc": "Introduction to Cyber Security"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37650",
+        "desc": "Introduction to Lasers"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37651",
+        "desc": "Ip Routing"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37652",
+        "desc": "Knowledge Based Sys"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37653",
+        "desc": "Linear Feedback Systems"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37654",
+        "desc": "Linear Sys Anal 1"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37655",
+        "desc": "Linear Sys Anal 2"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37656",
+        "desc": "Linear Systems Analysis I"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37657",
+        "desc": "Linear Systems Analysis II"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37658",
+        "desc": "Local Area Network Laboratory"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37659",
+        "desc": "Local Area Networks"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37660",
+        "desc": "Local Area Ntwrk Lab"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37661",
+        "desc": "MOS Devices and Circuits"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37662",
+        "desc": "Man Org Beh In Engr"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37663",
+        "desc": "Management Concepts Engineers"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37664",
+        "desc": "Masters Project"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37665",
+        "desc": "Masters Research"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37666",
+        "desc": "Master\u2019s Thesis"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37667",
+        "desc": "Material Science"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37668",
+        "desc": "Mcrv Smi Cnctr Dvc"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37669",
+        "desc": "Mcrv Smi Cndctr Dvc"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37670",
+        "desc": "Measurements 1"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37671",
+        "desc": "Measurements 2"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37672",
+        "desc": "Micro Basd Sys Dsgn"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37673",
+        "desc": "Micro Mouse Design"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37674",
+        "desc": "Microprocessors"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37675",
+        "desc": "Microwave Elect"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37676",
+        "desc": "Microwave Electrncs"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37677",
+        "desc": "Microwave Electronics"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37678",
+        "desc": "Microwave Engineering Design"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37679",
+        "desc": "Microwave Laboratory"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37680",
+        "desc": "Microwave Networks"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37681",
+        "desc": "Mobile Robotics"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37682",
+        "desc": "Modelling Com Systm"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37683",
+        "desc": "Multi Disc-Prod Dsg"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37684",
+        "desc": "Multi-D Sgnl Proc"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37685",
+        "desc": "Multidimensional Signl Process"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37686",
+        "desc": "Network Security"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37687",
+        "desc": "Network Theory 1"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37688",
+        "desc": "Neural Networks"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37689",
+        "desc": "Neural Networks and Deep Learn"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37690",
+        "desc": "Non-Ln Sig Pro-Bmed"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37691",
+        "desc": "Nonlinear Optics"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37692",
+        "desc": "Numerical Mdlng E E"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37693",
+        "desc": "Nxt Gen Optical Wks"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37694",
+        "desc": "Optic Remote Sensng"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37695",
+        "desc": "Optical Comm"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37696",
+        "desc": "Optical Fiber Comm"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37697",
+        "desc": "Optical Signal Processing"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37698",
+        "desc": "Parallel Comp Arch"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37699",
+        "desc": "Parallel Processing"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37700",
+        "desc": "Penetration Testing & Ethical"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37701",
+        "desc": "Photonic Engineering"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37702",
+        "desc": "Photonic Engrng"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37703",
+        "desc": "Photonics Engineering Lab"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37704",
+        "desc": "Photonin Eng"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37705",
+        "desc": "Phys Electron Lab"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37706",
+        "desc": "Physical Electronics"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37707",
+        "desc": "Physical Electronics I"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37708",
+        "desc": "Physical Electronics II"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37709",
+        "desc": "Power Electronics"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37710",
+        "desc": "Power System Design"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37711",
+        "desc": "Power Systems"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37712",
+        "desc": "Power Systems Analysis 1"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37713",
+        "desc": "Prob & Stochstc Pro"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37714",
+        "desc": "Probabal/Stochstic Processes"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37715",
+        "desc": "Probability and Statistics"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37716",
+        "desc": "Programming For E E"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37717",
+        "desc": "Project Management"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37718",
+        "desc": "Projects 2"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37719",
+        "desc": "Quantum Electronics"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37720",
+        "desc": "Random Functions"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37721",
+        "desc": "Remote Sensing"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37722",
+        "desc": "Remote Snsng-Surv"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37723",
+        "desc": "Renewable Energy"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37724",
+        "desc": "Report"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37725",
+        "desc": "Res For The Doct Dis"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37726",
+        "desc": "Research Doctoral Dissertation"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37727",
+        "desc": "Rf/Microwave Design"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37728",
+        "desc": "Robotics"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37729",
+        "desc": "Rsch Doctral Dissert"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37730",
+        "desc": "Rt/Prt Mesh Opt Ntwk"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37731",
+        "desc": "Secure Internet of Things Desi"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37732",
+        "desc": "Semi-condu Materials & Devices"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37733",
+        "desc": "Seminar"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37734",
+        "desc": "Senior Design 1"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37735",
+        "desc": "Senior Design II"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37736",
+        "desc": "Signal Processing Design"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37737",
+        "desc": "Signal Theory"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37738",
+        "desc": "Signals & Noise"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37739",
+        "desc": "Smicndctr Mat Dev 2"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37740",
+        "desc": "Snr Dsgn 2 For Comp Engr"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37741",
+        "desc": "Snr Dsgn I For Comp Engr"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37742",
+        "desc": "Solid State Design"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37743",
+        "desc": "Solid State Devices Laboratory"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37744",
+        "desc": "Sp Tp:Remote Sensing"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37745",
+        "desc": "Spread Spectrum"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37746",
+        "desc": "Stat Communications"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37747",
+        "desc": "Statistical Commctn Theory"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37748",
+        "desc": "Strategic Comm Sys"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37749",
+        "desc": "Strategic Comm Syst"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37750",
+        "desc": "Switching Systems"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37751",
+        "desc": "Switching Systems 1"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37752",
+        "desc": "System Theory"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37753",
+        "desc": "Telc Ntwk Elmnt Mngt"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37754",
+        "desc": "Telecom Netwrk Elmt Engr"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37755",
+        "desc": "Theory Random Proc"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37756",
+        "desc": "Theory of Linear Systems"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37757",
+        "desc": "Topic & Iss Climate"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37758",
+        "desc": "VLSI Design"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37759",
+        "desc": "Vhdl & Log Syn"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37760",
+        "desc": "Vlsi Des Testabil 2"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37761",
+        "desc": "Vlsi Des Testability"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37762",
+        "desc": "Vlsi Design"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37763",
+        "desc": "Vlsi Syst Synthesis"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37764",
+        "desc": "Wavelets-Filter Bnks"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37765",
+        "desc": "Wireless Communication"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37766",
+        "desc": "Wireless Communications"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37767",
+        "desc": "Wirls Multimed Net"
+    },
+    {
+        "major": "EGEL",
+        "room_num": "37768",
+        "desc": "Ylsi Design"
+    }
+]

@@ -1,0 +1,3056 @@
+[
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1901",
+        "room_desc": "3D Photography"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1902",
+        "room_desc": "A I Logic Base Sys"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1903",
+        "room_desc": "Adv Data Communicat"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1904",
+        "room_desc": "Adv Java Networks"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1905",
+        "room_desc": "Adv Knowldg Enginer"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1906",
+        "room_desc": "Adv Natural Lang Processing"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1907",
+        "room_desc": "Adv Num & Alg Compu"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1908",
+        "room_desc": "Adv Operating Systm"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1909",
+        "room_desc": "Adv Prog Lang"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1910",
+        "room_desc": "Adv Program Techniq"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1911",
+        "room_desc": "Adv Tpcs in Internet Prog"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1912",
+        "room_desc": "Advanced Algorithms"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1913",
+        "room_desc": "Advanced Computer Networks"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1914",
+        "room_desc": "Advanced Data Structure"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1915",
+        "room_desc": "Advanced Data Structures"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1916",
+        "room_desc": "Advncd Multimedia"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1917",
+        "room_desc": "Alg/Numer/Comb Cpt"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1918",
+        "room_desc": "Algebraic/Numerical Cmptation"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1919",
+        "room_desc": "Algo Graph Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1920",
+        "room_desc": "Algor Info Structur"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1921",
+        "room_desc": "Algorhyth/Architect"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1922",
+        "room_desc": "Algorithm Prob Solv I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1923",
+        "room_desc": "Algorithm/Complexty"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1924",
+        "room_desc": "Algorithmic Game Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1925",
+        "room_desc": "Algorithms"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1926",
+        "room_desc": "Algorithms I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1927",
+        "room_desc": "Analysis Algorithms"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1928",
+        "room_desc": "Analysis of Algorithms"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1929",
+        "room_desc": "App Math Comp Sci"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1930",
+        "room_desc": "Appl Fuzzy-Log Proc"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1931",
+        "room_desc": "Appl Logic Prog Lng"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1932",
+        "room_desc": "Art Intel/Cptr Smnt"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1933",
+        "room_desc": "Artific Intelligenc"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1934",
+        "room_desc": "Artifical Intell Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1935",
+        "room_desc": "Artificial Intell"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1936",
+        "room_desc": "Artificial Intell I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1937",
+        "room_desc": "Artificial Intellgn"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1938",
+        "room_desc": "Artificial Intelligence"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1939",
+        "room_desc": "Artificial Intelligence I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1940",
+        "room_desc": "Artificial Intelligence II"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1941",
+        "room_desc": "Assemb Lang & Cptr Org"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1942",
+        "room_desc": "Automata Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1943",
+        "room_desc": "Automated Reasoning"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1944",
+        "room_desc": "Automated Thrm Prov"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1945",
+        "room_desc": "Big Data Analytics"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1946",
+        "room_desc": "Bioinformatics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1947",
+        "room_desc": "Bus Appl Exprt Syst"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1948",
+        "room_desc": "Bus Data Processg I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1949",
+        "room_desc": "C Language"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1950",
+        "room_desc": "C Program"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1951",
+        "room_desc": "C++ Programming II"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1952",
+        "room_desc": "Cache Memories"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1953",
+        "room_desc": "Capstone I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1954",
+        "room_desc": "Capstone II"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1955",
+        "room_desc": "Capstone Internship"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1956",
+        "room_desc": "Capstone Intrnshp Data Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1957",
+        "room_desc": "Category Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1958",
+        "room_desc": "Cellular Automata"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1959",
+        "room_desc": "Cntmp Appl Dev Tech"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1960",
+        "room_desc": "Code/Dsgn/Secr/Athn"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1961",
+        "room_desc": "Codes-Crypt-Sec Comm"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1962",
+        "room_desc": "Coding Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1963",
+        "room_desc": "Cognitive Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1964",
+        "room_desc": "Cognitve Cptr Scinc"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1965",
+        "room_desc": "Combinatorcs & Optimization II"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1966",
+        "room_desc": "Combinatorial Algorithms"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1967",
+        "room_desc": "Combinatorial Mthds"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1968",
+        "room_desc": "Combinatorics"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1969",
+        "room_desc": "Combinatorics & Optimization I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1970",
+        "room_desc": "Command Language"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1971",
+        "room_desc": "Communication Networks"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1972",
+        "room_desc": "Communicaton Netwrk"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1973",
+        "room_desc": "Comp Arch & Networks"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1974",
+        "room_desc": "Comp Complex"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1975",
+        "room_desc": "Comp Complexity/Recursion Thry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1976",
+        "room_desc": "Comp Meth Discrete Mathematics"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1977",
+        "room_desc": "Comp Modeling/Dsgn Appl Systms"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1978",
+        "room_desc": "Compiler Constrn Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1979",
+        "room_desc": "Compiler Construct"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1980",
+        "room_desc": "Compiler Constructn"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1981",
+        "room_desc": "Complexity/Cryptogr"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1982",
+        "room_desc": "Comptnl Complexity"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1983",
+        "room_desc": "Comput Meth Signal Processing"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1984",
+        "room_desc": "Comput Vis & Im Proc Adv Techn"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1985",
+        "room_desc": "Computab/Unsolvabty"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1986",
+        "room_desc": "Computability Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1987",
+        "room_desc": "Computability/Models Computatn"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1988",
+        "room_desc": "Computability/Unsolvability"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1989",
+        "room_desc": "Computat Geometry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1990",
+        "room_desc": "Computational Complexities"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1991",
+        "room_desc": "Computational Ling"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1992",
+        "room_desc": "Computational Models Cog Syst"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1993",
+        "room_desc": "Computational Vision"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1994",
+        "room_desc": "Computatnal Algebra"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1995",
+        "room_desc": "Compute Vision"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1996",
+        "room_desc": "Computer"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1997",
+        "room_desc": "Computer Algebra"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1998",
+        "room_desc": "Computer Archit II"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "1999",
+        "room_desc": "Computer Architect"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2000",
+        "room_desc": "Computer Architecture I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2001",
+        "room_desc": "Computer Communication Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2002",
+        "room_desc": "Computer Communications I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2003",
+        "room_desc": "Computer Communications II"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2004",
+        "room_desc": "Computer Graphics"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2005",
+        "room_desc": "Computer Linguistics"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2006",
+        "room_desc": "Computer Networks"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2007",
+        "room_desc": "Computer Organiztn"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2008",
+        "room_desc": "Computer Programmng"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2009",
+        "room_desc": "Computer Science Research"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2010",
+        "room_desc": "Computer Security"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2011",
+        "room_desc": "Computer Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2012",
+        "room_desc": "Computer Systems I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2013",
+        "room_desc": "Computer Systems II"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2014",
+        "room_desc": "Computer Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2015",
+        "room_desc": "Computer Theory I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2016",
+        "room_desc": "Computer Vision"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2017",
+        "room_desc": "Computer Vision/Image Procssng"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2018",
+        "room_desc": "Computer/Programing"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2019",
+        "room_desc": "Conc Shrd Memory Syst"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2020",
+        "room_desc": "Concur & Distr Prog"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2021",
+        "room_desc": "Concur & Distrb Pro"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2022",
+        "room_desc": "Concurr/Distrib Sys"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2023",
+        "room_desc": "Conflunt Strng Writ"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2024",
+        "room_desc": "Constraint Satisfaction"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2025",
+        "room_desc": "Cptr Aid Analys Des"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2026",
+        "room_desc": "Cptr Architecture"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2027",
+        "room_desc": "Cptr Assemb"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2028",
+        "room_desc": "Cptr Tech & Prog For Resch"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2029",
+        "room_desc": "Cryptographic Proto"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2030",
+        "room_desc": "Cryptography"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2031",
+        "room_desc": "Cryptography&Computer Security"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2032",
+        "room_desc": "Cryptology Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2033",
+        "room_desc": "Data Compression"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2034",
+        "room_desc": "Data Mining"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2035",
+        "room_desc": "Data Reduc: Phys Sci"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2036",
+        "room_desc": "Data Reduct: Phys Sci"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2037",
+        "room_desc": "Data Security/Integ"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2038",
+        "room_desc": "Data Struct & Algrthm I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2039",
+        "room_desc": "Data Struct/Alg Analy"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2040",
+        "room_desc": "Data Struct/Manipul"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2041",
+        "room_desc": "Data Structures"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2042",
+        "room_desc": "Data Structures and Algorithms"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2043",
+        "room_desc": "Data Visualization"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2044",
+        "room_desc": "Database Applic Program"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2045",
+        "room_desc": "Database Management"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2046",
+        "room_desc": "Database Mgmt Systm"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2047",
+        "room_desc": "Database Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2048",
+        "room_desc": "Database Systems I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2049",
+        "room_desc": "Database Systems II"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2050",
+        "room_desc": "Decis Support Prog"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2051",
+        "room_desc": "Decision Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2052",
+        "room_desc": "Des/Impl Netwk Prot"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2053",
+        "room_desc": "Devel/Artfcal Intel"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2054",
+        "room_desc": "Digit Cptr Simulatn"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2055",
+        "room_desc": "Digital Geometry Algorithms"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2056",
+        "room_desc": "Digital Imag Proces"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2057",
+        "room_desc": "Digital Imag Procng"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2058",
+        "room_desc": "Digital Sig Proc"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2059",
+        "room_desc": "Digital Topology"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2060",
+        "room_desc": "Discourse/Computatn"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2061",
+        "room_desc": "Discrete Math/Cryptgrpc Apps"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2062",
+        "room_desc": "Discrete Mathem Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2063",
+        "room_desc": "Discrete Struct Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2064",
+        "room_desc": "Discrete Structures"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2065",
+        "room_desc": "Dissertation Research Project"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2066",
+        "room_desc": "Dissertation Supervision"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2067",
+        "room_desc": "Dist Proces/On-Line"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2068",
+        "room_desc": "Distributed Operating Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2069",
+        "room_desc": "Distributed Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2070",
+        "room_desc": "Doct Dissrt Resch"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2071",
+        "room_desc": "Doctoral Dissertation Research"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2072",
+        "room_desc": "Elem Systems Admin"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2073",
+        "room_desc": "Engr Sftwr Dsgn Lab"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2074",
+        "room_desc": "Error Correct Codes"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2075",
+        "room_desc": "Expert Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2076",
+        "room_desc": "Finite Element Meth"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2077",
+        "room_desc": "Formal Lang and Automata I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2078",
+        "room_desc": "Formal Lang and Automata II"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2079",
+        "room_desc": "Formal Languages I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2080",
+        "room_desc": "Found Logic Program"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2081",
+        "room_desc": "Functional Programg"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2082",
+        "room_desc": "Fund Concepts Programming Sys"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2083",
+        "room_desc": "Fundamental Algorithms"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2084",
+        "room_desc": "Fundamentals of Comp Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2085",
+        "room_desc": "Fundmtnl Algorithms"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2086",
+        "room_desc": "Future Trends/Dcs"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2087",
+        "room_desc": "Fuzzy Sets/Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2088",
+        "room_desc": "Grad Research Lab"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2089",
+        "room_desc": "Graph Theory I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2090",
+        "room_desc": "Graph Theory Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2091",
+        "room_desc": "Graph Thry & Algor"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2092",
+        "room_desc": "Graph User/Des Meth"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2093",
+        "room_desc": "Graphc/Fractl-Morph"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2094",
+        "room_desc": "Graphical Models"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2095",
+        "room_desc": "Group Thry/Complxty"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2096",
+        "room_desc": "High Perf Networks"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2097",
+        "room_desc": "High Perform Comput"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2098",
+        "room_desc": "High Perform Networks"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2099",
+        "room_desc": "High-Speed Networks"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2100",
+        "room_desc": "Image Processing"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2101",
+        "room_desc": "Implic Comput-Medic"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2102",
+        "room_desc": "Ind Study/Research Project"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2103",
+        "room_desc": "Info Org & Retrievl"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2104",
+        "room_desc": "Info Sys: Data Base"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2105",
+        "room_desc": "Inform Marketplace"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2106",
+        "room_desc": "Informat Processing"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2107",
+        "room_desc": "Informat/Ethics/Law"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2108",
+        "room_desc": "Information Management"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2109",
+        "room_desc": "Information Retrieval"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2110",
+        "room_desc": "Instrctn Lvl Prlsm"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2111",
+        "room_desc": "Int Error Corr Code"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2112",
+        "room_desc": "Integrated Cptr Sys"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2113",
+        "room_desc": "Intel Ntwrk-Arch Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2114",
+        "room_desc": "Intell Networks I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2115",
+        "room_desc": "Intelligence/Commun"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2116",
+        "room_desc": "Intelligent Sys & Learnability"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2117",
+        "room_desc": "Internet Programmng"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2118",
+        "room_desc": "Intro Computer Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2119",
+        "room_desc": "Intro Computing"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2120",
+        "room_desc": "Intro Data Structr"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2121",
+        "room_desc": "Intro Sci/Statisticl Computing"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2122",
+        "room_desc": "Intro Scientific Computing"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2123",
+        "room_desc": "Intro Theor Comp Sc"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2124",
+        "room_desc": "Intro Theoretical Comp Sci"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2125",
+        "room_desc": "Intro Theoretical Computer Sci"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2126",
+        "room_desc": "Intro Thry Comp Sci"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2127",
+        "room_desc": "Intro To Assembly"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2128",
+        "room_desc": "Intro To Comp Sci"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2129",
+        "room_desc": "Intro To Compilers"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2130",
+        "room_desc": "Intro To Computer"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2131",
+        "room_desc": "Intro To Computing"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2132",
+        "room_desc": "Intro To Cpmtrs"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2133",
+        "room_desc": "Intro To Cptr"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2134",
+        "room_desc": "Intro To Pascal"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2135",
+        "room_desc": "Intro To Programing"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2136",
+        "room_desc": "Intro To Programmng"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2137",
+        "room_desc": "Intro To Theor Cptr"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2138",
+        "room_desc": "Intro to Computer Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2139",
+        "room_desc": "Introduction to Computing"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2140",
+        "room_desc": "Knowldge Engr Wkshp"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2141",
+        "room_desc": "Knowledg Enginer Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2142",
+        "room_desc": "Knowledge Base Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2143",
+        "room_desc": "Knowledge Represntn"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2144",
+        "room_desc": "Lin Prog/Logic Prog"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2145",
+        "room_desc": "Linear Programming"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2146",
+        "room_desc": "Lisp/Appl Art Intel"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2147",
+        "room_desc": "Lisp/Computat Ling"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2148",
+        "room_desc": "List/String Process"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2149",
+        "room_desc": "Logic & Comp Scien"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2150",
+        "room_desc": "Logic & Computabily"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2151",
+        "room_desc": "Logic Programming"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2152",
+        "room_desc": "Logic in Computer Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2153",
+        "room_desc": "Logic/Artif Intell"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2154",
+        "room_desc": "Logic/Computn/Topol"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2155",
+        "room_desc": "Logical Fndtns Artfcl Intllgnc"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2156",
+        "room_desc": "Logical Found C Sc"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2157",
+        "room_desc": "Machine Learning"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2158",
+        "room_desc": "Machine Learning Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2159",
+        "room_desc": "Manager Info System"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2160",
+        "room_desc": "Mask/Adaptv In A.I."
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2161",
+        "room_desc": "Massively Parallel Programming"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2162",
+        "room_desc": "Math Anal Algorithm"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2163",
+        "room_desc": "Math Logic&Thry Com"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2164",
+        "room_desc": "Math Programming Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2165",
+        "room_desc": "Math/Comput Of Fin"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2166",
+        "room_desc": "Mathematical Prog I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2167",
+        "room_desc": "Mathematical Programming"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2168",
+        "room_desc": "Matrix Computations"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2169",
+        "room_desc": "Metric/Mod Software"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2170",
+        "room_desc": "Micro For Bus Admin"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2171",
+        "room_desc": "Microcomputer"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2172",
+        "room_desc": "Microcomputr Design"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2173",
+        "room_desc": "Microproc/Microcomp"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2174",
+        "room_desc": "Microprocessor/Lab"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2175",
+        "room_desc": "Microprocessors"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2176",
+        "room_desc": "Microsoft Windows"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2177",
+        "room_desc": "Modal/Temporl Logic"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2178",
+        "room_desc": "Modeling Computer Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2179",
+        "room_desc": "Modeling and Simulation"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2180",
+        "room_desc": "Modern Approximation Algorithm"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2181",
+        "room_desc": "Modern Info Transms"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2182",
+        "room_desc": "Modrn Cptr Applictn"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2183",
+        "room_desc": "Mont Carl/Sim Aneal"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2184",
+        "room_desc": "Ms Windows Program"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2185",
+        "room_desc": "Mult-Valu Switch Th"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2186",
+        "room_desc": "Mult-Valued/Fuzzy Logic Syst"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2187",
+        "room_desc": "Multimed Sys/Softwr"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2188",
+        "room_desc": "Multimedia"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2189",
+        "room_desc": "Nat Lang Process"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2190",
+        "room_desc": "Nat Of Telecommunic"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2191",
+        "room_desc": "Natural Language Processing"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2192",
+        "room_desc": "Natural Language Processing I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2193",
+        "room_desc": "Natural Language Processing II"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2194",
+        "room_desc": "Net-Prog: HTML-JAVA"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2195",
+        "room_desc": "Network Security"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2196",
+        "room_desc": "Neural Computing"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2197",
+        "room_desc": "Non-Well Found Sets"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2198",
+        "room_desc": "Numerical Methods I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2199",
+        "room_desc": "Numerical Methods II"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2200",
+        "room_desc": "Nurl Net Rgres Tree"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2201",
+        "room_desc": "Obj Orient Prog In C++"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2202",
+        "room_desc": "Obj-Orient Progr Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2203",
+        "room_desc": "Objct-Oriented Prog"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2204",
+        "room_desc": "Object Orient  Prog"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2205",
+        "room_desc": "Object-Oriented Prg"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2206",
+        "room_desc": "Object-Oriented Programming"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2207",
+        "room_desc": "Operating Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2208",
+        "room_desc": "Operating Systems I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2209",
+        "room_desc": "Operating Systems II"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2210",
+        "room_desc": "Operating Systms Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2211",
+        "room_desc": "Organizat/Retriev"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2212",
+        "room_desc": "Parall & Distr Comp"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2213",
+        "room_desc": "Parall Algorithms"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2214",
+        "room_desc": "Parall Comp/Web Tec"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2215",
+        "room_desc": "Parallel Architctur"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2216",
+        "room_desc": "Parallel Comp Opt"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2217",
+        "room_desc": "Parallel Prgm Dsgn"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2218",
+        "room_desc": "Parallel Scientific Computing"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2219",
+        "room_desc": "Parel Algor/Archtec"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2220",
+        "room_desc": "Pascal"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2221",
+        "room_desc": "Pattern Matching"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2222",
+        "room_desc": "Pattern Recognition"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2223",
+        "room_desc": "Pattern Recognitn/Adaptive Sys"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2224",
+        "room_desc": "Perf Engin/Cptr Bas"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2225",
+        "room_desc": "Perl Prog For Bioinformatics"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2226",
+        "room_desc": "Polynom/Matx Cpt Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2227",
+        "room_desc": "Pract Use Comp Netwrks in Res"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2228",
+        "room_desc": "Practical Unix Programming"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2229",
+        "room_desc": "Practicum in Programming"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2230",
+        "room_desc": "Prgrm Syst Art Int & Cog Syst"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2231",
+        "room_desc": "Prgrmmnglang Dsgn"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2232",
+        "room_desc": "Primal/Cryptography"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2233",
+        "room_desc": "Princ Programming Languages"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2234",
+        "room_desc": "Probab Bas Exp Syst"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2235",
+        "room_desc": "Probab Methds In Ai"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2236",
+        "room_desc": "Probabilistic Modeling"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2237",
+        "room_desc": "Probabilistic Models Comp Syst"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2238",
+        "room_desc": "Prog Devel/Verifctn"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2239",
+        "room_desc": "Prog Lang/Compilers"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2240",
+        "room_desc": "Prog Parall Process"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2241",
+        "room_desc": "Prog: HTML & JAVA"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2242",
+        "room_desc": "Program Languages"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2243",
+        "room_desc": "Program Optimizaton"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2244",
+        "room_desc": "Program Parell Proc"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2245",
+        "room_desc": "Program Verifictn"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2246",
+        "room_desc": "Programming Language"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2247",
+        "room_desc": "Programming Mthds I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2248",
+        "room_desc": "Programming in HTML & Java"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2249",
+        "room_desc": "Programmng In C/C++"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2250",
+        "room_desc": "Progrmng Parallel"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2251",
+        "room_desc": "Project"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2252",
+        "room_desc": "Quickest Detection/Abrupt Chng"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2253",
+        "room_desc": "Readings in Art Int/Cog Sci"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2254",
+        "room_desc": "Readings in Computer Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2255",
+        "room_desc": "Readings in Computer Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2256",
+        "room_desc": "Readings in Media Processing"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2257",
+        "room_desc": "Readings:Algorthm Desgn/Anlsys"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2258",
+        "room_desc": "Readngs in Theortcl Comp Sci"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2259",
+        "room_desc": "Real Time Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2260",
+        "room_desc": "Rec Dvlpmnts Logic"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2261",
+        "room_desc": "Relia/Secur-Telecom"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2262",
+        "room_desc": "Report"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2263",
+        "room_desc": "Representation Thry"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2264",
+        "room_desc": "Research"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2265",
+        "room_desc": "Research Communications"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2266",
+        "room_desc": "Research Project"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2267",
+        "room_desc": "Research Projects and Reports"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2268",
+        "room_desc": "Research Survey"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2269",
+        "room_desc": "Research at CUNY"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2270",
+        "room_desc": "Robot Vision"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2271",
+        "room_desc": "Rsch Mthd Comp Info"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2272",
+        "room_desc": "ST: Adaptive Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2273",
+        "room_desc": "ST: Advanced Operating Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2274",
+        "room_desc": "ST: Algorithm Design"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2275",
+        "room_desc": "ST: Appl Logic to Comp Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2276",
+        "room_desc": "ST: Artificial Intelligence"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2277",
+        "room_desc": "ST: Computational Complexity"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2278",
+        "room_desc": "ST: Computer Graphics"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2279",
+        "room_desc": "ST: Computer Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2280",
+        "room_desc": "ST: Computer Vision"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2281",
+        "room_desc": "ST: Document Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2282",
+        "room_desc": "ST: General Topics"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2283",
+        "room_desc": "ST: Image Processing"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2284",
+        "room_desc": "ST: Information Retrieval"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2285",
+        "room_desc": "ST: Information Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2286",
+        "room_desc": "ST: Logics and Their Uses"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2287",
+        "room_desc": "ST: Mathematical Programming"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2288",
+        "room_desc": "ST: Programming Languages"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2289",
+        "room_desc": "ST: Software Syst & Engineerng"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2290",
+        "room_desc": "ST: Systems Programming"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2291",
+        "room_desc": "ST: Systems Simulation"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2292",
+        "room_desc": "ST: Theoretical Comp Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2293",
+        "room_desc": "ST: Theoretical Computer Sci"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2294",
+        "room_desc": "ST:Computer Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2295",
+        "room_desc": "ST:Cryptography & CompSecurity"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2296",
+        "room_desc": "ST:Database Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2297",
+        "room_desc": "ST:Thrtcl Underpinnin Prg Lang"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2298",
+        "room_desc": "School Age Commun"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2299",
+        "room_desc": "Sci Appl Cluster Cmpt"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2300",
+        "room_desc": "Sci Comp & Numerical Meth"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2301",
+        "room_desc": "Scientif Programmng"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2302",
+        "room_desc": "Searching & Sorting"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2303",
+        "room_desc": "Searching and Sorting"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2304",
+        "room_desc": "Searching/Sorting"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2305",
+        "room_desc": "Security In Computr"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2306",
+        "room_desc": "Selected Topics: Computer Sci"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2307",
+        "room_desc": "Sem Cmptr Sci I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2308",
+        "room_desc": "Sem Informat System"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2309",
+        "room_desc": "Sem Information Sys"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2310",
+        "room_desc": "Sem: Adv Soft Eng Top"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2311",
+        "room_desc": "Sem: Algrthm Design & Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2312",
+        "room_desc": "Sem: Digital Image Processing"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2313",
+        "room_desc": "Sem: Scientific Computing"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2314",
+        "room_desc": "Sem: Theoretical Computer Sci"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2315",
+        "room_desc": "Sem:Artfcl Int/Cog Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2316",
+        "room_desc": "Sem:Media Proc/Comp Visn/Graph"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2317",
+        "room_desc": "Semantics Prog Lang"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2318",
+        "room_desc": "Semi Group Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2319",
+        "room_desc": "Semigroup Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2320",
+        "room_desc": "Seminar In Unix"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2321",
+        "room_desc": "Seminar in Computer Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2322",
+        "room_desc": "Seminar in Computer Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2323",
+        "room_desc": "Seminar in Software Design"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2324",
+        "room_desc": "Seminar: Research at CUNY"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2325",
+        "room_desc": "Semnr Cryptography"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2326",
+        "room_desc": "Semnr On Computing"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2327",
+        "room_desc": "Sequencing and Scheduling"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2328",
+        "room_desc": "Sequential Machines"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2329",
+        "room_desc": "Sftware Des/Analy I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2330",
+        "room_desc": "Simulation"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2331",
+        "room_desc": "Social Issu Computg"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2332",
+        "room_desc": "Social and Cultural Computing"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2333",
+        "room_desc": "Soft-Hard/Cptr Arch"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2334",
+        "room_desc": "Software Des & Analysis II"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2335",
+        "room_desc": "Software Design & Analy III"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2336",
+        "room_desc": "Software Design Lab"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2337",
+        "room_desc": "Software Dsgn & Analysis I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2338",
+        "room_desc": "Software Engineerig"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2339",
+        "room_desc": "Software Engineering"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2340",
+        "room_desc": "Software Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2341",
+        "room_desc": "Software Pipelining"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2342",
+        "room_desc": "Software Systems I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2343",
+        "room_desc": "Space-Time Computat"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2344",
+        "room_desc": "Special Topic- A1"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2345",
+        "room_desc": "Speech and Audio Understanding"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2346",
+        "room_desc": "Stat Tech/Prob Models in C SC"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2347",
+        "room_desc": "Statistical Computing I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2348",
+        "room_desc": "Stochastic Mdls"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2349",
+        "room_desc": "Student Resrch Sem"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2350",
+        "room_desc": "Supercomputers/Uses"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2351",
+        "room_desc": "Superscal/Vliw Arch"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2352",
+        "room_desc": "Survey Cptr Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2353",
+        "room_desc": "Switch Thry Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2354",
+        "room_desc": "Switching Theory I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2355",
+        "room_desc": "Switching Theory II"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2356",
+        "room_desc": "Symbol/Algebr Manipulation Sys"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2357",
+        "room_desc": "Sys Analysis/Design"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2358",
+        "room_desc": "System/Analys Desgn"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2359",
+        "room_desc": "Systems Programming"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2360",
+        "room_desc": "Systems Simulation"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2361",
+        "room_desc": "Technical Communications"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2362",
+        "room_desc": "Telecom Architectur"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2363",
+        "room_desc": "Telecomm Netwrks Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2364",
+        "room_desc": "Text Mining"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2365",
+        "room_desc": "The Four Color Prog"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2366",
+        "room_desc": "The Internet"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2367",
+        "room_desc": "Theoretical Computer Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2368",
+        "room_desc": "Theory Of Parsing"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2369",
+        "room_desc": "Theory Programming"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2370",
+        "room_desc": "Theory of Sequential Machines"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2371",
+        "room_desc": "Theory: Computation"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2372",
+        "room_desc": "Thesis Research"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2373",
+        "room_desc": "Thry Computation"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2374",
+        "room_desc": "Thry/Resch Multimed"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2375",
+        "room_desc": "Top Computer Archit"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2376",
+        "room_desc": "Top Computer Systms"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2377",
+        "room_desc": "Top: Artificial Intellig"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2378",
+        "room_desc": "Topics Art Intell"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2379",
+        "room_desc": "Topics Computer Software Dev"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2380",
+        "room_desc": "Topics Of Fac Rsrch"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2381",
+        "room_desc": "Topics Sci/Stat Com"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2382",
+        "room_desc": "Topics in Databases"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2383",
+        "room_desc": "Topics: Simulation Methodology"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2384",
+        "room_desc": "Tpcs In Cptr System"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2385",
+        "room_desc": "Tpcs/Data Base Syst"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2386",
+        "room_desc": "Tpcs/System Simultn"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2387",
+        "room_desc": "Tpcs: Theory of Computing"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2388",
+        "room_desc": "Tpcs:Comput Vision"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2389",
+        "room_desc": "Tpsc In Theor C Sc"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2390",
+        "room_desc": "Trends Comp Securty"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2391",
+        "room_desc": "Ultr-High Networks"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2392",
+        "room_desc": "Understan Pers Comp"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2393",
+        "room_desc": "Unix & Computer"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2394",
+        "room_desc": "Unix And Computers"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2395",
+        "room_desc": "Unix Sc"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2396",
+        "room_desc": "Use Univ Algeb-A.I."
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2397",
+        "room_desc": "User Intrfce Design & Accsblty"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2398",
+        "room_desc": "Vect Proces/Sprcond"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2399",
+        "room_desc": "Vision-Imag Proc Ad Tec"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2400",
+        "room_desc": "Vision/Brain/Assistive Tchnlgy"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2401",
+        "room_desc": "Visual Computing"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2402",
+        "room_desc": "Vlsi Artific Intell"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2403",
+        "room_desc": "Vlsi Design"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2404",
+        "room_desc": "Voice Data Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2405",
+        "room_desc": "Wavelet Thry Appl"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2406",
+        "room_desc": "Web/Geograph Info Syst"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2407",
+        "room_desc": "Workstation Prgrmng"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2408",
+        "room_desc": "X Windows & Multimd"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "2409",
+        "room_desc": "X Windows/Multimed"
+    }
+]

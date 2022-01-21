@@ -1,0 +1,302 @@
+[
+    {
+        "major": "MDTC",
+        "room_num": "18481",
+        "desc": "CPT/HCPCS Coding"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18482",
+        "desc": "Code & Class Systems I"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18483",
+        "desc": "Code & Class Systems II"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18484",
+        "desc": "Code/Class Systems III"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18485",
+        "desc": "HIM Medical Legal Applications"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18486",
+        "desc": "Health Care Delivery Systems"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18487",
+        "desc": "Health Data Information"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18488",
+        "desc": "Health Record Systems"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18489",
+        "desc": "Health Statistics"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18490",
+        "desc": "Health/Care Del."
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18491",
+        "desc": "Health/Rec Systems"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18492",
+        "desc": "ICD-CM PCS Coding"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18493",
+        "desc": "Intr Hlth Data Info"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18494",
+        "desc": "Intro Health/Data"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18495",
+        "desc": "Intro to Health Info Mgmt"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18496",
+        "desc": "Management in the HIM Dept"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18497",
+        "desc": "Med Emeg Tech Ii"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18498",
+        "desc": "Med Emerg Seminar"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18499",
+        "desc": "Med Emerg Tech I"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18500",
+        "desc": "Med Emerg Tech III"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18501",
+        "desc": "Med Emerg Tech IV"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18502",
+        "desc": "Med Emerg Tech Ii"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18503",
+        "desc": "Med Emerg Tech Iii"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18504",
+        "desc": "Med Emerg Tech Iv"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18505",
+        "desc": "Med Rec Clin Prac"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18506",
+        "desc": "Med Rec Clin Prac 2"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18507",
+        "desc": "Med Rec Clin Prac I"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18508",
+        "desc": "Med Record Sci II"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18509",
+        "desc": "Med Record Sci III"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18510",
+        "desc": "Med Record Sci IV"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18511",
+        "desc": "Med Record Sci Ii"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18512",
+        "desc": "Med Recrd Science I"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18513",
+        "desc": "Med Terminology"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18514",
+        "desc": "Med Terminology I"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18515",
+        "desc": "Med Terminology II"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18516",
+        "desc": "Med Terminology Ii"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18517",
+        "desc": "Med/Applications"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18518",
+        "desc": "Med/Coding I"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18519",
+        "desc": "Med/Coding II"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18520",
+        "desc": "Med/Record/Mgmt."
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18521",
+        "desc": "Medical Coding"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18522",
+        "desc": "Medical Coding I"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18523",
+        "desc": "Medical Emergency Technology I"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18524",
+        "desc": "Medical Record Science I"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18525",
+        "desc": "Medical Terminology"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18526",
+        "desc": "Medical Terminology I"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18527",
+        "desc": "Medical Terminology II"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18528",
+        "desc": "Medicolegal Applications"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18529",
+        "desc": "Mrt Summer Cln Prac"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18530",
+        "desc": "Orient To Med Tech"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18531",
+        "desc": "Pathol Of Disease"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18532",
+        "desc": "Pathology and Pharmacology"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18533",
+        "desc": "Pathology of Diseases I"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18534",
+        "desc": "Pathology of Diseases II"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18535",
+        "desc": "Perform Improve & Data Analysi"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18536",
+        "desc": "Prin of Health Care Reimburse"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18537",
+        "desc": "Prof Practic Exp II"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18538",
+        "desc": "Professional Practice Expr I"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18539",
+        "desc": "Qual/Assur/Form  02"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "18540",
+        "desc": "Ret Retr Health Info"
+    }
+]

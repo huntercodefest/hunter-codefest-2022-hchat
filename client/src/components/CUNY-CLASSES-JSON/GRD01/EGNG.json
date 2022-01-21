@@ -1,0 +1,1826 @@
+[
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4689",
+        "room_desc": "Adaptive Digit Sigl"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4690",
+        "room_desc": "Adv Anlytc Dynamics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4691",
+        "room_desc": "Adv Chem Thermodynm"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4692",
+        "room_desc": "Adv Comm Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4693",
+        "room_desc": "Adv Graph Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4694",
+        "room_desc": "Adv Hydraulics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4695",
+        "room_desc": "Adv Mat Engr"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4696",
+        "room_desc": "Adv Material Mechan"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4697",
+        "room_desc": "Adv Operating Syst"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4698",
+        "room_desc": "Adv Reinforced Cond"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4699",
+        "room_desc": "Adv Soil Mechanic I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4700",
+        "room_desc": "Adv Stress Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4701",
+        "room_desc": "Adv Structure Desgn"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4702",
+        "room_desc": "Advanced Kinetics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4703",
+        "room_desc": "Advanced Numerical Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4704",
+        "room_desc": "Advanced Seminar"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4705",
+        "room_desc": "Advanced Topic"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4706",
+        "room_desc": "Air Pollution"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4707",
+        "room_desc": "Airport Dsgn & Plan"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4708",
+        "room_desc": "Algeb Code Thry"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4709",
+        "room_desc": "Appl Fluid Mechanic"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4710",
+        "room_desc": "Appl Part Differential Equatns"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4711",
+        "room_desc": "Applied Algebra"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4712",
+        "room_desc": "Applied Hydraulics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4713",
+        "room_desc": "Applied Pattern Rec"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4714",
+        "room_desc": "Bas Lab Tech Analy"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4715",
+        "room_desc": "Behav of Inelast Bod & Struct"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4716",
+        "room_desc": "Biofluid Transfer"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4717",
+        "room_desc": "Biol Systm Env Enrg"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4718",
+        "room_desc": "Biomed:Signal Proc"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4719",
+        "room_desc": "Biomedical Engineering Seminar"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4720",
+        "room_desc": "Biosolid Mechanics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4721",
+        "room_desc": "Boundry Element Mth"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4722",
+        "room_desc": "Catalyst Des React"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4723",
+        "room_desc": "Cell and Tissue Mechanics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4724",
+        "room_desc": "Cell and Tissue Transport"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4725",
+        "room_desc": "Cell and Tissue-Mater Interact"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4726",
+        "room_desc": "Cell/Tiss Transport"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4727",
+        "room_desc": "Chem React Kinetics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4728",
+        "room_desc": "Columbia/Device Fab"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4729",
+        "room_desc": "Combinatorial Cmptn"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4730",
+        "room_desc": "Commun Electronics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4731",
+        "room_desc": "Communicat Electrnc"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4732",
+        "room_desc": "Communicat Engin Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4733",
+        "room_desc": "Communicat Networks"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4734",
+        "room_desc": "Communicat Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4735",
+        "room_desc": "Communicat Thry"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4736",
+        "room_desc": "Communications I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4737",
+        "room_desc": "Comp Comm Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4738",
+        "room_desc": "Complexity/Computat"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4739",
+        "room_desc": "Composite Materials"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4740",
+        "room_desc": "Computability"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4741",
+        "room_desc": "Computer Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4742",
+        "room_desc": "Computer Visions"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4743",
+        "room_desc": "Concrete Arch/Plate"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4744",
+        "room_desc": "Conduct Heat Transf"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4745",
+        "room_desc": "Continuum Mechanics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4746",
+        "room_desc": "Control Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4747",
+        "room_desc": "Control Theory I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4748",
+        "room_desc": "Convect Heat Trans"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4749",
+        "room_desc": "Cptr Aid Desgn Alys"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4750",
+        "room_desc": "Cptr Aided Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4751",
+        "room_desc": "Cptr Comm Networks"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4752",
+        "room_desc": "Cptr Control System"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4753",
+        "room_desc": "Cptr Networking"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4754",
+        "room_desc": "Cptr Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4755",
+        "room_desc": "Data Anyl/Stat Infr"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4756",
+        "room_desc": "Data Base Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4757",
+        "room_desc": "Data Communications"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4758",
+        "room_desc": "Data Network Design"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4759",
+        "room_desc": "Database Systems I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4760",
+        "room_desc": "Design I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4761",
+        "room_desc": "Digit Signal Proces"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4762",
+        "room_desc": "Digital Computers"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4763",
+        "room_desc": "Digital Cptr System"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4764",
+        "room_desc": "Digital Data Commun"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4765",
+        "room_desc": "Digital Signal Proc"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4766",
+        "room_desc": "Digital Speech Proc"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4767",
+        "room_desc": "Digital Sys Architc"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4768",
+        "room_desc": "Dirct Energy Conver"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4769",
+        "room_desc": "Dissertation Supervision"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4770",
+        "room_desc": "Dissrt Supervision"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4771",
+        "room_desc": "Distillation"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4772",
+        "room_desc": "Doct Dissrt Resch"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4773",
+        "room_desc": "Drct Energy Cnvrsn"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4774",
+        "room_desc": "Dsp Algorhythm"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4775",
+        "room_desc": "Elec Power Syst"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4776",
+        "room_desc": "Electro-Optics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4777",
+        "room_desc": "Electrodynamics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4778",
+        "room_desc": "Electromagnetics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4779",
+        "room_desc": "Electromagnetics Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4780",
+        "room_desc": "Electron Circuits I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4781",
+        "room_desc": "Electronic Circuits"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4782",
+        "room_desc": "Electronic Devices"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4783",
+        "room_desc": "Electronics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4784",
+        "room_desc": "Elem Power System"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4785",
+        "room_desc": "Energy & Pollution"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4786",
+        "room_desc": "Engergy Conversion"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4787",
+        "room_desc": "Engin Probabil Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4788",
+        "room_desc": "Engineer Hydrology"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4789",
+        "room_desc": "Engineering & Business Law"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4790",
+        "room_desc": "Engineering Law"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4791",
+        "room_desc": "Engineering Math"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4792",
+        "room_desc": "Engineering Probability I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4793",
+        "room_desc": "Engineering Systems Management"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4794",
+        "room_desc": "Engineering Systems Mgmt"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4795",
+        "room_desc": "Engr Decision Thory"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4796",
+        "room_desc": "Engr System Managmt"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4797",
+        "room_desc": "Envirn/Unit Process"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4798",
+        "room_desc": "Environ Engin Anlys"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4799",
+        "room_desc": "Environmental Engin"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4800",
+        "room_desc": "Exper Soil Mechancs"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4801",
+        "room_desc": "Feedback Control"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4802",
+        "room_desc": "Fiber Optics Comm"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4803",
+        "room_desc": "Finite Element Methods"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4804",
+        "room_desc": "Finite Element Mthds in Engin"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4805",
+        "room_desc": "Flexible/Rigid Pav"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4806",
+        "room_desc": "Flo Thru Porous Med"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4807",
+        "room_desc": "Fluid Dynamic Stability"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4808",
+        "room_desc": "Fluid Mech/Combustn"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4809",
+        "room_desc": "Fluid Mechanics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4810",
+        "room_desc": "Fluid Particle Sysm"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4811",
+        "room_desc": "Fluid Technology"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4812",
+        "room_desc": "Fluidization Technl"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4813",
+        "room_desc": "Foundat of Fluid Mechanics II"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4814",
+        "room_desc": "Foundation Engineer"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4815",
+        "room_desc": "Foundatns of Fluid Mechanics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4816",
+        "room_desc": "Fourier Optics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4817",
+        "room_desc": "Fracture Mechanics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4818",
+        "room_desc": "Funct of a Complex Variable"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4819",
+        "room_desc": "GIS Programming"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4820",
+        "room_desc": "Graduate Project"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4821",
+        "room_desc": "Graph Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4822",
+        "room_desc": "Heat Transfer"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4823",
+        "room_desc": "Heating4824: EGNG,\"High Speed Networks"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4825",
+        "room_desc": "Hydraulics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4826",
+        "room_desc": "Hydrology/Contamint"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4827",
+        "room_desc": "Image/Proces Recogn"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4828",
+        "room_desc": "Imaging/Imag Proces"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4829",
+        "room_desc": "Indust Wastwat Tret"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4830",
+        "room_desc": "Info/Coding Thoery"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4831",
+        "room_desc": "Inform Thry/Coding"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4832",
+        "room_desc": "Integ Circuit Desgn"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4833",
+        "room_desc": "Integrated Circs Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4834",
+        "room_desc": "Interfacial Phenom"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4835",
+        "room_desc": "Intro Neural Netwrk"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4836",
+        "room_desc": "Intro To Lasers"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4837",
+        "room_desc": "Intro To Transport"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4838",
+        "room_desc": "Intro to Engineering Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4839",
+        "room_desc": "Intro to GIS"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4840",
+        "room_desc": "Intro to Numerical Methods"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4841",
+        "room_desc": "Irreversible Thermodynamics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4842",
+        "room_desc": "Kinemat Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4843",
+        "room_desc": "Kinematcs & Dynamcs"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4844",
+        "room_desc": "Knowledge Base Sysm"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4845",
+        "room_desc": "Linear Feedback Sys"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4846",
+        "room_desc": "Linear Sys Anlyis 3"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4847",
+        "room_desc": "Linear Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4848",
+        "room_desc": "Linear Systems Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4849",
+        "room_desc": "Local Area Network"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4850",
+        "room_desc": "Local Area Networks"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4851",
+        "room_desc": "Management Info Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4852",
+        "room_desc": "Mass Transfer"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4853",
+        "room_desc": "Master Thesis Resch"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4854",
+        "room_desc": "Master\u2019S Thesis"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4855",
+        "room_desc": "Material Scien/Engr"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4856",
+        "room_desc": "Mathematicl Progrm"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4857",
+        "room_desc": "Mech Feedback Contl"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4858",
+        "room_desc": "Mechancl Vibrations"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4859",
+        "room_desc": "Mechanical Vibratns"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4860",
+        "room_desc": "Mechanics Of Mtrls"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4861",
+        "room_desc": "Mechatronics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4862",
+        "room_desc": "Meth In Soil & Rock"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4863",
+        "room_desc": "Microcomputer Systm"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4864",
+        "room_desc": "Microcptrs/-Program"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4865",
+        "room_desc": "Microfluidic Dev in Biol"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4866",
+        "room_desc": "Microprocees/-Cptr"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4867",
+        "room_desc": "Microprocess Systm"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4868",
+        "room_desc": "Microprocessor Lab"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4869",
+        "room_desc": "Microprocessors"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4870",
+        "room_desc": "Microwave Amplifier"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4871",
+        "room_desc": "Microwave Electronc"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4872",
+        "room_desc": "Microwave Networks"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4873",
+        "room_desc": "Microwave Semicondt"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4874",
+        "room_desc": "Micwv Semind Dev Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4875",
+        "room_desc": "Multidem Signal Pro"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4876",
+        "room_desc": "Multiphase Reactors"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4877",
+        "room_desc": "Nat Lang Process"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4878",
+        "room_desc": "Nat Lang Processing"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4879",
+        "room_desc": "Neural Networks"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4880",
+        "room_desc": "Nonlinear Optics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4881",
+        "room_desc": "Operating Systemii"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4882",
+        "room_desc": "Operating Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4883",
+        "room_desc": "Optic Remote Sensng"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4884",
+        "room_desc": "Optical Communicatn"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4885",
+        "room_desc": "Optical Fiber Comun"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4886",
+        "room_desc": "Paralell Cptr Arch"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4887",
+        "room_desc": "Pascal"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4888",
+        "room_desc": "Passenger Terminals"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4889",
+        "room_desc": "Pattern Recognition"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4890",
+        "room_desc": "Perturbation Techniques"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4891",
+        "room_desc": "Photonic Engineerng"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4892",
+        "room_desc": "Physical Distrb Sys"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4893",
+        "room_desc": "Physical Electroncs"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4894",
+        "room_desc": "Plates & Shells"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4895",
+        "room_desc": "Polymer Surfaces"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4896",
+        "room_desc": "Polymr Scienc Engin"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4897",
+        "room_desc": "Powder S & T"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4898",
+        "room_desc": "Power Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4899",
+        "room_desc": "Pract/Transprtation"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4900",
+        "room_desc": "Prestress Concrete"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4901",
+        "room_desc": "Princ of Operations Research"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4902",
+        "room_desc": "Princip Signl Recov"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4903",
+        "room_desc": "Prob Environ Enginr"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4904",
+        "room_desc": "Prob/Stochastic Pro"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4905",
+        "room_desc": "Probabilistic Model"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4906",
+        "room_desc": "Probability Models"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4907",
+        "room_desc": "Proces Dynam/Contrl"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4908",
+        "room_desc": "Process Control"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4909",
+        "room_desc": "Process Dyn/Cont Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4910",
+        "room_desc": "Prog For Engineers"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4911",
+        "room_desc": "Programming For Ee"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4912",
+        "room_desc": "Programming Langage"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4913",
+        "room_desc": "Programming Langug"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4914",
+        "room_desc": "Project"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4915",
+        "room_desc": "Project Management"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4916",
+        "room_desc": "Protocol Engineerng"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4917",
+        "room_desc": "Quantum Electronics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4918",
+        "room_desc": "Quantum Optics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4919",
+        "room_desc": "Radar Signal Pross"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4920",
+        "room_desc": "Rail System Design"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4921",
+        "room_desc": "Rail Systems Desgin"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4922",
+        "room_desc": "Random Processes in Engin Mech"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4923",
+        "room_desc": "Real Time Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4924",
+        "room_desc": "Report"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4925",
+        "room_desc": "Rheology Het Fluids"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4926",
+        "room_desc": "Rheologybiol Tisue"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4927",
+        "room_desc": "Robotics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4928",
+        "room_desc": "ST: Engineering"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4929",
+        "room_desc": "Satell Env Monitor"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4930",
+        "room_desc": "Selected Topics in Engineering"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4931",
+        "room_desc": "Separtion Operatn I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4932",
+        "room_desc": "Sequential Machines"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4933",
+        "room_desc": "Signal Detection"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4934",
+        "room_desc": "Signal Digit Proc"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4935",
+        "room_desc": "Simulation"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4936",
+        "room_desc": "Social Issue Cptr S"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4937",
+        "room_desc": "Software Methodolgy"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4938",
+        "room_desc": "Solid Wast Coll/Dis"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4939",
+        "room_desc": "Solid Waste Mngment"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4940",
+        "room_desc": "Spread Spect Commun"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4941",
+        "room_desc": "Spread Spectrum"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4942",
+        "room_desc": "Stabil React System"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4943",
+        "room_desc": "Stat Mth Water Res"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4944",
+        "room_desc": "Stat Signal Process"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4945",
+        "room_desc": "Statistical Thermodynamics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4946",
+        "room_desc": "Structural Dynamics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4947",
+        "room_desc": "Symbolic-Algebraic"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4948",
+        "room_desc": "System Simulation"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4949",
+        "room_desc": "Systems Evaluation"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4950",
+        "room_desc": "Tch Pract Molec Biophys/Biomat"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4951",
+        "room_desc": "Theory of Elasticity"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4952",
+        "room_desc": "Thermal Dynamics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4953",
+        "room_desc": "Thermodynam For Ee"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4954",
+        "room_desc": "Thermodynamics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4955",
+        "room_desc": "Thermodynamics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4956",
+        "room_desc": "Thermodynamics Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4957",
+        "room_desc": "Thry Compilation"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4958",
+        "room_desc": "Thry Randm Function"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4959",
+        "room_desc": "Traffic Control"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4960",
+        "room_desc": "Traffic Engineering"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4961",
+        "room_desc": "Traffic Engr Studie"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4962",
+        "room_desc": "Traffic Flow"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4963",
+        "room_desc": "Trajectories/Orbits"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4964",
+        "room_desc": "Transform Mthds in Engineering"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4965",
+        "room_desc": "Transp/Eco Develop"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4966",
+        "room_desc": "Transp/Policy/Mngmt"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4967",
+        "room_desc": "Transport Economics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4968",
+        "room_desc": "Transport Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4969",
+        "room_desc": "Transport Phenom I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4970",
+        "room_desc": "Transport Planning"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4971",
+        "room_desc": "Transport Regulaton"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4972",
+        "room_desc": "Transportation"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4973",
+        "room_desc": "Transportation/Envr"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4974",
+        "room_desc": "Transportaton Safty"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4975",
+        "room_desc": "Transportn Finance"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4976",
+        "room_desc": "Transporton  Safty"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4977",
+        "room_desc": "Tropical Metereolog"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4978",
+        "room_desc": "Turbulence Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4979",
+        "room_desc": "Turbulent Flows"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4980",
+        "room_desc": "Unit Operations"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4981",
+        "room_desc": "Unit Operations I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4982",
+        "room_desc": "Unit Operations Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4983",
+        "room_desc": "Unit Ops Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4984",
+        "room_desc": "Urban Public Transp"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4985",
+        "room_desc": "Urban Sys Transport"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4986",
+        "room_desc": "Viscous Flow Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4987",
+        "room_desc": "Viscous Flow Thry 2"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4988",
+        "room_desc": "Vlsi Computations"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4989",
+        "room_desc": "Vlsi Design"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4990",
+        "room_desc": "Wastwater Treat Plt"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4991",
+        "room_desc": "Water Resources Mod"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4992",
+        "room_desc": "Wave Propag in Fluids & Solids"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "4993",
+        "room_desc": "Wireless Communictn"
+    }
+]

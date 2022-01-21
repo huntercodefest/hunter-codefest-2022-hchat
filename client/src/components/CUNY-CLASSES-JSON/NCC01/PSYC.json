@@ -1,0 +1,20 @@
+[
+    {
+        "school": "NCC01",
+        "major": "PSYC",
+        "room_num": "64295",
+        "room_desc": "Child Psychology"
+    },
+    {
+        "school": "NCC01",
+        "major": "PSYC",
+        "room_num": "64296",
+        "room_desc": "Introduction to Psychology"
+    },
+    {
+        "school": "NCC01",
+        "major": "PSYC",
+        "room_num": "64297",
+        "room_desc": "Social Psychology"
+    }
+]

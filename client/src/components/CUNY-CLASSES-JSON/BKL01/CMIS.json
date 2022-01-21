@@ -1,0 +1,1460 @@
+[
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "70988",
+        "room_desc": "Acctg Computing"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "70989",
+        "room_desc": "Adv Microcomp Applic"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "70990",
+        "room_desc": "Adv PC Techniques for Business"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "70991",
+        "room_desc": "Adv Pc Computing"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "70992",
+        "room_desc": "Adv Pgm Tchnqs-C"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "70993",
+        "room_desc": "Adv Pgm Techniques"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "70994",
+        "room_desc": "Adv Pgm Technqs"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "70995",
+        "room_desc": "Advanced Computing Topics"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "70996",
+        "room_desc": "Advanced Database Systems"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "70997",
+        "room_desc": "Advanced Digital Art"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "70998",
+        "room_desc": "Advanced Seminar 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "70999",
+        "room_desc": "Advanced Seminar 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71000",
+        "room_desc": "Algorithms and Complexity"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71001",
+        "room_desc": "Analysis of Algorithms"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71002",
+        "room_desc": "Applied Software Development"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71003",
+        "room_desc": "Artificial Intelligence"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71004",
+        "room_desc": "Artificial Intelligence I"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71005",
+        "room_desc": "Artificial Intelligence II"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71006",
+        "room_desc": "Assembly Lang Prog"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71007",
+        "room_desc": "Assembly Lang Prog for Microco"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71008",
+        "room_desc": "Assmbly Lang Micro"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71009",
+        "room_desc": "C++ For C Prgmrs"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71010",
+        "room_desc": "Cis System&Architect"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71011",
+        "room_desc": "Client-Server Web Programming"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71012",
+        "room_desc": "Cmptg: Nat71013: CMIS,\"Cmptr Applic H Sci"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71014",
+        "room_desc": "Cmptr Organization"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71015",
+        "room_desc": "Cmptrs: Soc Conseq"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71016",
+        "room_desc": "Cmputer Architecture"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71017",
+        "room_desc": "Communic Networks"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71018",
+        "room_desc": "Communication Networks"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71019",
+        "room_desc": "Comp Application in Health Sci"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71020",
+        "room_desc": "Comp-Human Interface"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71021",
+        "room_desc": "Compiler Construction"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71022",
+        "room_desc": "Compilers 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71023",
+        "room_desc": "Computability & Unsolvability"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71024",
+        "room_desc": "Computer Architecture"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71025",
+        "room_desc": "Computer Graphics"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71026",
+        "room_desc": "Computer Mangement Games"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71027",
+        "room_desc": "Computer Mgmt Games"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71028",
+        "room_desc": "Computer Networks"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71029",
+        "room_desc": "Computer Networks & Protocols"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71030",
+        "room_desc": "Computer Organization"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71031",
+        "room_desc": "Computer Programming Sci App 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71032",
+        "room_desc": "Computer Security"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71033",
+        "room_desc": "Computer Systems &Architecture"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71034",
+        "room_desc": "Computers and Ethics"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71035",
+        "room_desc": "Computers and Software"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71036",
+        "room_desc": "Computers: Social Consequences"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71037",
+        "room_desc": "Computing &Quantitative Reason"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71038",
+        "room_desc": "Computing Workshop 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71039",
+        "room_desc": "Computing Workshop 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71040",
+        "room_desc": "Computing Workshop 2computing"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71041",
+        "room_desc": "Computing Workshop I"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71042",
+        "room_desc": "Computing:Nature Power&Limits"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71043",
+        "room_desc": "Cryptography and Cryptanalysis"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71044",
+        "room_desc": "Cryptosystems"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71045",
+        "room_desc": "Data Mining & Applied Machine"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71046",
+        "room_desc": "Data Structures"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71047",
+        "room_desc": "Data Tools and Algorithms"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71048",
+        "room_desc": "Data Visualization"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71049",
+        "room_desc": "Database Systems"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71050",
+        "room_desc": "Declarative Pgmg"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71051",
+        "room_desc": "Declarative Programming"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71052",
+        "room_desc": "Desgn&Implemntatn 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71053",
+        "room_desc": "Design & Implementation I"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71054",
+        "room_desc": "Design&Implemntatn 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71055",
+        "room_desc": "Design&Implemntatn Web Applctn"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71056",
+        "room_desc": "Digital Computer Systems"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71057",
+        "room_desc": "Digital Image Processing"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71058",
+        "room_desc": "Digital Signal Processing"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71059",
+        "room_desc": "Discrete Structure"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71060",
+        "room_desc": "Discrete Structures"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71061",
+        "room_desc": "Distributed Cmptg"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71062",
+        "room_desc": "Distributed Sys Adm"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71063",
+        "room_desc": "Distributed System Adminstratn"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71064",
+        "room_desc": "Electronic Commerce"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71065",
+        "room_desc": "Elementary Robotics"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71066",
+        "room_desc": "Engineering Mobile Software"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71067",
+        "room_desc": "Expert Systems"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71068",
+        "room_desc": "Exploring Robotics"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71069",
+        "room_desc": "Formal Langs& Autom"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71070",
+        "room_desc": "Found System Program"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71071",
+        "room_desc": "Foundat Cognit Sci"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71072",
+        "room_desc": "Foundation Business Analytics"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71073",
+        "room_desc": "Foundations System Programming"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71074",
+        "room_desc": "Funct Progr Langs"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71075",
+        "room_desc": "Game Design"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71076",
+        "room_desc": "Game Design and Development"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71077",
+        "room_desc": "Game Programming"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71078",
+        "room_desc": "Game Theory and Social Choice"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71079",
+        "room_desc": "Graph and Network Algorithms"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71080",
+        "room_desc": "Graphics Algrthms"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71081",
+        "room_desc": "Graphics Soft Dsgn"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71082",
+        "room_desc": "Graphics: Software Sys Design"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71083",
+        "room_desc": "Health Informatics Internship"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71084",
+        "room_desc": "Human-Computer Interaction"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71085",
+        "room_desc": "IT Project Management"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71086",
+        "room_desc": "Independent & Group Projects 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71087",
+        "room_desc": "Independent & Group Projects 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71088",
+        "room_desc": "Independent Study & Research 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71089",
+        "room_desc": "Independent Study & Research 3"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71090",
+        "room_desc": "Independent Study & Research 4"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71091",
+        "room_desc": "Independent Study & Research I"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71092",
+        "room_desc": "Info Syst Plan & Pol"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71093",
+        "room_desc": "Info System Project Management"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71094",
+        "room_desc": "Info Systems Planning & Policy"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71095",
+        "room_desc": "Information Security"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71096",
+        "room_desc": "Information Systems Management"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71097",
+        "room_desc": "Information and Computation"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71098",
+        "room_desc": "Int Cmptr Applctns"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71099",
+        "room_desc": "Intr Comput & Unsolv"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71100",
+        "room_desc": "Intro Cmptr Systs"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71101",
+        "room_desc": "Intro Modern Prog Techniques"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71102",
+        "room_desc": "Intro Multi Comput"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71103",
+        "room_desc": "Intro Multimedia Programming"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71104",
+        "room_desc": "Intro Multmedia Prg"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71105",
+        "room_desc": "Intro Natl Lang/Proc"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71106",
+        "room_desc": "Intro Natural Lang Processing"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71107",
+        "room_desc": "Intro Prg Sci Appl 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71108",
+        "room_desc": "Intro Prg Sci Appl 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71109",
+        "room_desc": "Intro Prgmg In C++"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71110",
+        "room_desc": "Intro Prmg Using C++"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71111",
+        "room_desc": "Intro Scientific"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71112",
+        "room_desc": "Intro Software Engin"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71113",
+        "room_desc": "Intro To C++ Program"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71114",
+        "room_desc": "Intro To Cis Applic"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71115",
+        "room_desc": "Intro to Computer Applications"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71116",
+        "room_desc": "Intro to JAVA Programming"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71117",
+        "room_desc": "Intro to Modeling & Simulation"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71118",
+        "room_desc": "Intro to Programming In C++"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71119",
+        "room_desc": "Intro to Programming in Python"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71120",
+        "room_desc": "Intro to Software Engineering"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71121",
+        "room_desc": "Introduction Music Computing"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71122",
+        "room_desc": "Introduction to Data Science"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71123",
+        "room_desc": "JAVA Prog in Sci Appliction 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71124",
+        "room_desc": "JAVA Prog:Science Applcation 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71125",
+        "room_desc": "Java for Programmers"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71126",
+        "room_desc": "Lang & Automat Theor"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71127",
+        "room_desc": "Languages & Automata Theory"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71128",
+        "room_desc": "Local Area Networks"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71129",
+        "room_desc": "Logic In Cmptr Sci"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71130",
+        "room_desc": "Logic Programming"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71131",
+        "room_desc": "Logic in Computer Science"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71132",
+        "room_desc": "Machine Learning"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71133",
+        "room_desc": "Macromo Struct & Bio"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71134",
+        "room_desc": "Macromo Struct &Bioinformatics"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71135",
+        "room_desc": "Management Information Systems"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71136",
+        "room_desc": "Mgement Info Systs"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71137",
+        "room_desc": "Mgmt New&Emerg Techn"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71138",
+        "room_desc": "Mgmt New&Emerging Technologies"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71139",
+        "room_desc": "Microcomptrs In Ed"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71140",
+        "room_desc": "Microcomputers in Education"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71141",
+        "room_desc": "Microprocessors"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71142",
+        "room_desc": "Modeling & Simulat"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71143",
+        "room_desc": "Modern JavaScript"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71144",
+        "room_desc": "Multimed Comp Syst"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71145",
+        "room_desc": "Multimedia Coding &Compression"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71146",
+        "room_desc": "Multimedia Computer Systems"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71147",
+        "room_desc": "Multimedia Computing"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71148",
+        "room_desc": "Multimedia Database"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71149",
+        "room_desc": "Multimedia Databases"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71150",
+        "room_desc": "Multimedia Networking"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71151",
+        "room_desc": "Multimedia Presentations"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71152",
+        "room_desc": "Multimedia Security"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71153",
+        "room_desc": "Natural-Language Processing"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71154",
+        "room_desc": "Networks & Protocols"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71155",
+        "room_desc": "New Media and Business"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71156",
+        "room_desc": "Numerical Methods"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71157",
+        "room_desc": "Object-Oriented Programming"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71158",
+        "room_desc": "Operating Systems"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71159",
+        "room_desc": "Operating Systems I"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71160",
+        "room_desc": "Operating Systems II"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71161",
+        "room_desc": "Operations Management"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71162",
+        "room_desc": "Parall&Distrib Comp"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71163",
+        "room_desc": "Parallel & Distributed Comp"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71164",
+        "room_desc": "Parallel & Distributed Systems"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71165",
+        "room_desc": "Parallel Algorithm"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71166",
+        "room_desc": "Parallel Algorithms"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71167",
+        "room_desc": "Parallel Distrib Sys"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71168",
+        "room_desc": "Parallel&Distributed Computing"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71169",
+        "room_desc": "Pat Rcog&Neurl Net"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71170",
+        "room_desc": "Pattern Recognition&Neural Net"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71171",
+        "room_desc": "Perform Evaluation"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71172",
+        "room_desc": "Phil & Artif Intell"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71173",
+        "room_desc": "Phil & Artificial Intelligence"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71174",
+        "room_desc": "Pl/I For Programm"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71175",
+        "room_desc": "Principles of Robotics"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71176",
+        "room_desc": "Production For Web"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71177",
+        "room_desc": "Prog Parallel Proc"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71178",
+        "room_desc": "Progr & Operation"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71179",
+        "room_desc": "Progr Lang Design"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71180",
+        "room_desc": "Program Practicum"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71181",
+        "room_desc": "Program Verificat"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71182",
+        "room_desc": "Programming In Perl"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71183",
+        "room_desc": "Programming Language Design"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71184",
+        "room_desc": "Programming Language&Compilers"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71185",
+        "room_desc": "Programming Languages"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71186",
+        "room_desc": "Programming Paradigms in C++"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71187",
+        "room_desc": "Programming Practicum"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71188",
+        "room_desc": "Programming in Perl"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71189",
+        "room_desc": "Projects 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71190",
+        "room_desc": "Projects 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71191",
+        "room_desc": "Quantum Computing"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71192",
+        "room_desc": "Reqmts Specification"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71193",
+        "room_desc": "Requirement Modeling Info Sys"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71194",
+        "room_desc": "Research Project 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71195",
+        "room_desc": "Research Project 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71196",
+        "room_desc": "Research Project 3"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71197",
+        "room_desc": "Research Project 4"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71198",
+        "room_desc": "Research Project I"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71199",
+        "room_desc": "Research Project I71200: CMIS,\"Research Project II"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71201",
+        "room_desc": "Robot Vision"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71202",
+        "room_desc": "Self Study Language"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71203",
+        "room_desc": "Self-Instr Of Pl/I"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71204",
+        "room_desc": "Self-Study of Program Lang"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71205",
+        "room_desc": "Seminar 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71206",
+        "room_desc": "Seminar 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71207",
+        "room_desc": "Seminar in Computer Science I"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71208",
+        "room_desc": "Seminar in Computer Science II"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71209",
+        "room_desc": "Seminar in Special Topics I"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71210",
+        "room_desc": "Seminar in Special Topics II"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71211",
+        "room_desc": "Social Software"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71212",
+        "room_desc": "Software Methodology"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71213",
+        "room_desc": "Special Topics"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71214",
+        "room_desc": "Special Topics Seminar I"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71215",
+        "room_desc": "Special Topics Seminar II"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71216",
+        "room_desc": "Special Topics in Computer Sci"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71217",
+        "room_desc": "Special Topics in Computing"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71218",
+        "room_desc": "Syst Administration"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71219",
+        "room_desc": "System & Ntwrk Admin"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71220",
+        "room_desc": "Systems Analysis and Design"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71221",
+        "room_desc": "Telecommunications"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71222",
+        "room_desc": "Teleprocessing Systems"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71223",
+        "room_desc": "The Internet"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71224",
+        "room_desc": "The Outer Limits of Reasoning"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71225",
+        "room_desc": "Theoretical Computer Science"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71226",
+        "room_desc": "Theory of Computability"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71227",
+        "room_desc": "Thesis Research"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71228",
+        "room_desc": "Topics in Systems Simulation"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71229",
+        "room_desc": "Topics: Sys Simulat"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71230",
+        "room_desc": "UNIX Shell Programming"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71231",
+        "room_desc": "Visual Basic"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "71232",
+        "room_desc": "Workstation Programming"
+    }
+]

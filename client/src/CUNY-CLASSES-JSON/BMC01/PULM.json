@@ -1,0 +1,47 @@
+[
+    {
+        "major": "PULM",
+        "room_num": "19018",
+        "desc": "Fund Inhala Therapy"
+    },
+    {
+        "major": "PULM",
+        "room_num": "19019",
+        "desc": "IHT Clinic Prac I"
+    },
+    {
+        "major": "PULM",
+        "room_num": "19020",
+        "desc": "Iht Clinic Prac II"
+    },
+    {
+        "major": "PULM",
+        "room_num": "19021",
+        "desc": "Iht Clinic Prac Iii"
+    },
+    {
+        "major": "PULM",
+        "room_num": "19022",
+        "desc": "Inhalat Therapy I"
+    },
+    {
+        "major": "PULM",
+        "room_num": "19023",
+        "desc": "Inhalat Therapy III"
+    },
+    {
+        "major": "PULM",
+        "room_num": "19024",
+        "desc": "Inhalat Therapy Ii"
+    },
+    {
+        "major": "PULM",
+        "room_num": "19025",
+        "desc": "Inhalat Therapy Iii"
+    },
+    {
+        "major": "PULM",
+        "room_num": "19026",
+        "desc": "Pathology"
+    }
+]

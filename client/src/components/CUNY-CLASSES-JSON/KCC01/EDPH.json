@@ -1,0 +1,500 @@
+[
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63196",
+        "room_desc": "Advanced Swimming"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63197",
+        "room_desc": "Aerobic Dance"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63198",
+        "room_desc": "Aqua Exercise"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63199",
+        "room_desc": "Baseball"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63200",
+        "room_desc": "Basic Volleyball"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63201",
+        "room_desc": "Basics Modern Square Dancing"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63202",
+        "room_desc": "Basketball"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63203",
+        "room_desc": "Basketball Techniques"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63204",
+        "room_desc": "Begin Karate and Self-Defense"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63205",
+        "room_desc": "Beginner\u2019s Ballet"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63206",
+        "room_desc": "Beginning Tennis"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63207",
+        "room_desc": "Body Building"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63208",
+        "room_desc": "Body Weight Resistance Train"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63209",
+        "room_desc": "Competitive Swimming"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63210",
+        "room_desc": "Cross Country Skiing"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63211",
+        "room_desc": "Dance Workshop"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63212",
+        "room_desc": "Deep Water Exercise"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63213",
+        "room_desc": "Elem Phys Ed: Program Design"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63214",
+        "room_desc": "Golf"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63215",
+        "room_desc": "Greek Folkloric Dance"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63216",
+        "room_desc": "High Intensity Fitness Trng"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63217",
+        "room_desc": "IS Adv Basketball"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63218",
+        "room_desc": "IS Adv Lifesaving"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63219",
+        "room_desc": "IS Advanced Baseball"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63220",
+        "room_desc": "IS Aqua Exercise"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63221",
+        "room_desc": "IS Body Building"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63222",
+        "room_desc": "IS Deep Wtr Exercise"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63223",
+        "room_desc": "IS Fld Exp Rec Ldrsh"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63224",
+        "room_desc": "IS Intermdte Tennis"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63225",
+        "room_desc": "IS Martial Arts"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63226",
+        "room_desc": "IS Modern Dance"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63227",
+        "room_desc": "IS Phys Ed Mat Adult"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63228",
+        "room_desc": "IS Power Volleyball"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63229",
+        "room_desc": "IS Soccer Techniques"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63230",
+        "room_desc": "IS Square Dance"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63231",
+        "room_desc": "IS Training w/Weight"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63232",
+        "room_desc": "IS: Compete Tennis"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63233",
+        "room_desc": "Indep Stdy Dance Production"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63234",
+        "room_desc": "Indep Stdy: Adv Baseball"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63235",
+        "room_desc": "Indep Study: Women\u2019s Softball"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63236",
+        "room_desc": "Independent Study: Baseball"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63237",
+        "room_desc": "Independent Study: Basketball"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63238",
+        "room_desc": "Independent Study: Dance"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63239",
+        "room_desc": "Independent Study: Folkdance"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63240",
+        "room_desc": "Independent Study: Golf"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63241",
+        "room_desc": "Independent Study: Gymnastics"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63242",
+        "room_desc": "Independent Study: Skiing"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63243",
+        "room_desc": "Independent Study: Softball"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63244",
+        "room_desc": "Independent Study: Swimming"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63245",
+        "room_desc": "Independent Study: Tennis"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63246",
+        "room_desc": "Independent Study: Volleyball"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63247",
+        "room_desc": "Inter Aerobic Dance"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63248",
+        "room_desc": "Intermediate Greek-Roumanian"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63249",
+        "room_desc": "Intermediate Swimming"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63250",
+        "room_desc": "Intermediate Yoga"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63251",
+        "room_desc": "Intmdt Int Folk Dance"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63252",
+        "room_desc": "Introduction to Hatha Yoga"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63253",
+        "room_desc": "Life Guarding"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63254",
+        "room_desc": "Med Insur/ Code&Bill"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63255",
+        "room_desc": "Medical Office Administration"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63256",
+        "room_desc": "Mod Phys Act All Ages/Abilitie"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63257",
+        "room_desc": "Modern Dance Composition"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63258",
+        "room_desc": "Modern Dance Techniques"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63259",
+        "room_desc": "PE MODIFIED"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63260",
+        "room_desc": "Phys Fit Dev: Train w Weights"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63261",
+        "room_desc": "Phys Fit/Dev T/W/W"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63262",
+        "room_desc": "Pilates System of Exercise"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63263",
+        "room_desc": "Power Volleyball"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63264",
+        "room_desc": "Self-Defense Women"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63265",
+        "room_desc": "Sem and On-Site Supv"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63266",
+        "room_desc": "Soccer Techniques"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63267",
+        "room_desc": "Softball"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63268",
+        "room_desc": "Swim for Non Swimmer"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63269",
+        "room_desc": "Tai Chi Ch\u2019uan"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63270",
+        "room_desc": "Tennis II"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63271",
+        "room_desc": "Tennis III"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63272",
+        "room_desc": "Tennis IV"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63273",
+        "room_desc": "Training with Weights"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63274",
+        "room_desc": "W/J/R Mature Adults"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63275",
+        "room_desc": "Walk Jog Run"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63276",
+        "room_desc": "Water Safety Instructor"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63277",
+        "room_desc": "Women\u2019s Self Defense"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "63278",
+        "room_desc": "Yoga and Meditation"
+    }
+]

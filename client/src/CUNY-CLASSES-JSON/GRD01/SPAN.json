@@ -1,0 +1,717 @@
+[
+    {
+        "major": "SPAN",
+        "room_num": "10179",
+        "desc": "19c Spanish Poetry"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10180",
+        "desc": "19th Cent Galician Literature"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10181",
+        "desc": "19th Century Spanish Theatre"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10182",
+        "desc": "20 Cent Spanish Poetry to 1936"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10183",
+        "desc": "20C Galician Literature"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10184",
+        "desc": "20c Narrative since 1936"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10185",
+        "desc": "20c Spanish Narrative to 1936"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10186",
+        "desc": "20c Spanish Poetry since 1936"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10187",
+        "desc": "Adv Span Compositn"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10188",
+        "desc": "Basic Spanish Review"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10189",
+        "desc": "Benito Perez Galdos"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10190",
+        "desc": "Calderon & Span Thea of Baroq"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10191",
+        "desc": "Caribbean Literature"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10192",
+        "desc": "Cervantes"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10193",
+        "desc": "Cont Span-Amer Poet sin 1950"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10194",
+        "desc": "Cont Span-Amer Poetry to 1950"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10195",
+        "desc": "Cont Spanish-American Essay"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10196",
+        "desc": "Contemp Galician Literature"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10197",
+        "desc": "Contemporary Spanish Essay"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10198",
+        "desc": "Court Interpret Ii"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10199",
+        "desc": "Dissertation Seminar"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10200",
+        "desc": "Dissertation Supervision"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10201",
+        "desc": "Don Quijote"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10202",
+        "desc": "Eighteenth-Century Literature"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10203",
+        "desc": "Element Spanish"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10204",
+        "desc": "Elementary Spanish"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10205",
+        "desc": "Elementary Spanish I"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10206",
+        "desc": "Elementary Spanish II"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10207",
+        "desc": "Escenograf Barroca"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10208",
+        "desc": "Formacion Espanol"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10209",
+        "desc": "Fund of Hisp Linguistics"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10210",
+        "desc": "Hispan Literatr/Top"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10211",
+        "desc": "Hispanic Critcal & Cult Thry"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10212",
+        "desc": "Hispanic Literature of U.S."
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10213",
+        "desc": "Hstry/Novel Lat Am"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10214",
+        "desc": "Independent Literary Research"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10215",
+        "desc": "Inten Inter Span 1 & 2"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10216",
+        "desc": "Intens Elem Spanish 1 & 2"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10217",
+        "desc": "Intensive Intrm Spa"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10218",
+        "desc": "Interm Spanish"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10219",
+        "desc": "Interm Spanish/Grad"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10220",
+        "desc": "Intermed Spanish I"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10221",
+        "desc": "Intermediate Spanish"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10222",
+        "desc": "Intermediate Spanish 2"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10223",
+        "desc": "Intro To Spanish"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10224",
+        "desc": "Intro to Methods of Research"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10225",
+        "desc": "Intro to Spanish Morphology"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10226",
+        "desc": "Intro to Spanish Phonology"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10227",
+        "desc": "Intro: Hispanic Literature"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10228",
+        "desc": "Introduction to Spanish"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10229",
+        "desc": "Introduction to Spanish Syntax"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10230",
+        "desc": "Jorge Luis Borges"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10231",
+        "desc": "La Celestina"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10232",
+        "desc": "Lang Ideologies in Hisp World"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10233",
+        "desc": "Lang/Politicl Disc"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10234",
+        "desc": "Latin Amer Short Fiction"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10235",
+        "desc": "Latin America Through Cinema"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10236",
+        "desc": "Latin Liter/Cultur"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10237",
+        "desc": "Latino Culture/Literature USA"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10238",
+        "desc": "Legal Translation"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10239",
+        "desc": "Libro de Buen Amor"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10240",
+        "desc": "Ling Analysis of Mediev Texts"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10241",
+        "desc": "Ling Minorities in Hisp World"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10242",
+        "desc": "Literary Translation:Thry&Prac"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10243",
+        "desc": "Literary Translatn"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10244",
+        "desc": "Lope de Vega & the Span Comed"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10245",
+        "desc": "Medical Translation"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10246",
+        "desc": "Medieval Epic"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10247",
+        "desc": "Medieval Galician Literature"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10248",
+        "desc": "Medieval Poetry"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10249",
+        "desc": "Medieval Prose"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10250",
+        "desc": "Modern & Generation of 1898"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10251",
+        "desc": "Modern Spanish Essay"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10252",
+        "desc": "Modern Spanish-American Essay"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10253",
+        "desc": "Modernism in Span-Amer Poetry"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10254",
+        "desc": "Modernism in Span-Amer Prose"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10255",
+        "desc": "Nonfiction Prose of the 16c"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10256",
+        "desc": "Picaresque Novel"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10257",
+        "desc": "Poetry of the Baroque"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10258",
+        "desc": "Port-Engl/Engl-Port"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10259",
+        "desc": "Practicum in Translation"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10260",
+        "desc": "Pre-Columbian Literature"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10261",
+        "desc": "Rdng: Mod Span Amer Lit"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10262",
+        "desc": "Renaissance Theatre"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10263",
+        "desc": "Reprsntatn Cntmp Spain/Cin"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10264",
+        "desc": "Romancero"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10265",
+        "desc": "Ruben Dario"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10266",
+        "desc": "ST: Hispanic Literature"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10267",
+        "desc": "ST: Spanish Literature"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10268",
+        "desc": "ST: Spanish-American Lit"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10269",
+        "desc": "Sem: 18c & 19c Spanish Lit"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10270",
+        "desc": "Sem: Cervantes Studies"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10271",
+        "desc": "Sem: Span Lit of the Baroque"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10272",
+        "desc": "Sem: Span Lit of the Renaiss"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10273",
+        "desc": "Sem: Span-Amer Lit to the 19c"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10274",
+        "desc": "Sem: Spanish Literature of 20c"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10275",
+        "desc": "Sem: Spanish-American Novel"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10276",
+        "desc": "Sem: Spanish-American Poetry"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10277",
+        "desc": "Sem: Spanish-American Theatre"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10278",
+        "desc": "Sem: Studies Span-Am Lit Crit"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10279",
+        "desc": "Sem: Studies in Galician Lit"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10280",
+        "desc": "Sem: Studies in Mediev Liter"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10281",
+        "desc": "Sem: Studies in Span Linguist"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10282",
+        "desc": "Sem: Studies in Span Lit Crit"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10283",
+        "desc": "Seventeenth-Century Thought"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10284",
+        "desc": "Sixteenth Century Poetry"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10285",
+        "desc": "Span Literat Poetry"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10286",
+        "desc": "Span Prose Fiction of the 16c"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10287",
+        "desc": "Span Prose Fiction of the 17c"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10288",
+        "desc": "Span as Object of Hist Inquiry"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10289",
+        "desc": "Span-Amer Colonial Literature"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10290",
+        "desc": "Span-Amer Fict to Mexic Revol"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10291",
+        "desc": "Span-Amer Lit of the Conquest"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10292",
+        "desc": "Span-Amer Novel since 1960"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10293",
+        "desc": "Span-Amer Poetry of the 19c"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10294",
+        "desc": "Span-American Liter"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10295",
+        "desc": "Spanish 1"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10296",
+        "desc": "Spanish Applied Linguistics"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10297",
+        "desc": "Spanish Fiction of the 19c"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10298",
+        "desc": "Spanish Literature 2"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10299",
+        "desc": "Spanish Mysticism"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10300",
+        "desc": "Spanish Romanticism"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10301",
+        "desc": "Spanish Theatre 20C"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10302",
+        "desc": "Spanish Theatre of the 20c"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10303",
+        "desc": "Spanish for Oral Communication"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10304",
+        "desc": "Spanish in Social Context"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10305",
+        "desc": "Spanish in the Americas"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10306",
+        "desc": "Spanish-Amer Civilization I"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10307",
+        "desc": "Spanish-American Novel to 1960"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10308",
+        "desc": "Spanish-American Short Story"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10309",
+        "desc": "Spanish-American Theatre"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10310",
+        "desc": "Spn Wrt On Eur Unif"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10311",
+        "desc": "Studies Span Sociolinguistics"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10312",
+        "desc": "Studies in Spanish Instruction"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10313",
+        "desc": "Studies in Spanish Lit I"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10314",
+        "desc": "Technical Transl Ii"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10315",
+        "desc": "Technical Translation"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10316",
+        "desc": "The Picaresque Novel"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10317",
+        "desc": "Trans/Internat Comm"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10318",
+        "desc": "Translat/Scien/Tech"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10319",
+        "desc": "Translation I: Spanish-English"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10320",
+        "desc": "Translation II:English-Spanish"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "10321",
+        "desc": "Translatn For Stage"
+    }
+]

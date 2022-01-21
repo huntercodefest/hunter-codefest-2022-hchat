@@ -1,0 +1,80 @@
+[
+    {
+        "school": "KCC01",
+        "major": "IMME",
+        "room_num": "63557",
+        "room_desc": "Immersion ESL Reading-Writing"
+    },
+    {
+        "school": "KCC01",
+        "major": "IMME",
+        "room_num": "63558",
+        "room_desc": "Immersion English Orientation"
+    },
+    {
+        "school": "KCC01",
+        "major": "IMME",
+        "room_num": "63559",
+        "room_desc": "Immersion Math"
+    },
+    {
+        "school": "KCC01",
+        "major": "IMME",
+        "room_num": "63560",
+        "room_desc": "Immersion Math 1"
+    },
+    {
+        "school": "KCC01",
+        "major": "IMME",
+        "room_num": "63561",
+        "room_desc": "Immersion Math II"
+    },
+    {
+        "school": "KCC01",
+        "major": "IMME",
+        "room_num": "63562",
+        "room_desc": "Immersion Math Orientation"
+    },
+    {
+        "school": "KCC01",
+        "major": "IMME",
+        "room_num": "63563",
+        "room_desc": "Immersion Math Quick Refresh"
+    },
+    {
+        "school": "KCC01",
+        "major": "IMME",
+        "room_num": "63564",
+        "room_desc": "Immersion Math Workshop"
+    },
+    {
+        "school": "KCC01",
+        "major": "IMME",
+        "room_num": "63565",
+        "room_desc": "Immersion Math X1"
+    },
+    {
+        "school": "KCC01",
+        "major": "IMME",
+        "room_num": "63566",
+        "room_desc": "Immersion Math X2"
+    },
+    {
+        "school": "KCC01",
+        "major": "IMME",
+        "room_num": "63567",
+        "room_desc": "Immersion Reading"
+    },
+    {
+        "school": "KCC01",
+        "major": "IMME",
+        "room_num": "63568",
+        "room_desc": "Immersion Reading-Writing"
+    },
+    {
+        "school": "KCC01",
+        "major": "IMME",
+        "room_num": "63569",
+        "room_desc": "Immersion Writing"
+    }
+]

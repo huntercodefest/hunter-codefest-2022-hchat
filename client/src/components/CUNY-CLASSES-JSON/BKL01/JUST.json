@@ -1,0 +1,680 @@
+[
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74536",
+        "room_desc": "Amer Jewish Commun"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74537",
+        "room_desc": "American Jewish History"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74538",
+        "room_desc": "Amoraic Period"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74539",
+        "room_desc": "Anti-Semitism"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74540",
+        "room_desc": "Anti-Semitism: Longest Hatred"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74541",
+        "room_desc": "Apocrypha"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74542",
+        "room_desc": "Archaeol Field Sch"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74543",
+        "room_desc": "Archaeol Field School: Israel"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74544",
+        "room_desc": "Ashkenz Hertg:Pol Russ Beyond"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74545",
+        "room_desc": "Bible Seminar"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74546",
+        "room_desc": "Biblical Period"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74547",
+        "room_desc": "Black-Jewish Activism"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74548",
+        "room_desc": "Brit &Amer & Holoc"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74549",
+        "room_desc": "Bus Pract & Jew Trad"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74550",
+        "room_desc": "Classical Jewish Text"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74551",
+        "room_desc": "Contemp Ethic Iss"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74552",
+        "room_desc": "Contemp Iss Halakh"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74553",
+        "room_desc": "Contemp Issues in Halakhah"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74554",
+        "room_desc": "Contemporary Jewish Thought"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74555",
+        "room_desc": "Dead Sea Scrolls"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74556",
+        "room_desc": "E Eur Jew Fr 1917"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74557",
+        "room_desc": "E Eur Rel&Soc Move"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74558",
+        "room_desc": "East European Jewry Until 1917"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74559",
+        "room_desc": "From Ghetto to Emancipation"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74560",
+        "room_desc": "Gender in Classic Jewish Texts"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74561",
+        "room_desc": "Golems Dybbuks &Supernatural"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74562",
+        "room_desc": "Hasid Mvmt:His & Lit"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74563",
+        "room_desc": "Hasidic Dynasties"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74564",
+        "room_desc": "Hasidic Movement:Hist & Lit"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74565",
+        "room_desc": "Hasidism"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74566",
+        "room_desc": "Hebr Canon&Masorah"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74567",
+        "room_desc": "Hist Of Jews In Us"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74568",
+        "room_desc": "History of Zionism"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74569",
+        "room_desc": "History of the Holocaust"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74570",
+        "room_desc": "Holocaust Literature"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74571",
+        "room_desc": "Holocaust Seminar"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74572",
+        "room_desc": "Independent Research I"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74573",
+        "room_desc": "Independent Research II"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74574",
+        "room_desc": "Independent Researches I"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74575",
+        "room_desc": "Independent Researches II"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74576",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74577",
+        "room_desc": "Independent Study I"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74578",
+        "room_desc": "Independent Study II"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74579",
+        "room_desc": "Intro Israeli Lit Translation"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74580",
+        "room_desc": "Intro to Bible & Apocrypha"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74581",
+        "room_desc": "Introduction to Hebrew Bible"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74582",
+        "room_desc": "Introduction to Judaic Studies"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74583",
+        "room_desc": "Introduction to the Midrash"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74584",
+        "room_desc": "Introduction to the Talmud"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74585",
+        "room_desc": "Israel in the Modern World"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74586",
+        "room_desc": "Israel/Mod World"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74587",
+        "room_desc": "Italian Jewry"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74588",
+        "room_desc": "Jew Rel Mvmts Amer"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74589",
+        "room_desc": "Jewish Biography"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74590",
+        "room_desc": "Jewish Civilization"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74591",
+        "room_desc": "Jewish Emanipat"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74592",
+        "room_desc": "Jewish Exper In Us"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74593",
+        "room_desc": "Jewish Religion and Tradition"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74594",
+        "room_desc": "Jews Making A Living"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74595",
+        "room_desc": "Jews Of New York"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74596",
+        "room_desc": "Jews of Brooklyn"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74597",
+        "room_desc": "Jews of Latin America"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74598",
+        "room_desc": "Jews of New York"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74599",
+        "room_desc": "Jewsh Approach Ethical Issues"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74600",
+        "room_desc": "Job & Suffering"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74601",
+        "room_desc": "Job and the Problem of Evil"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74602",
+        "room_desc": "Kabbalah and Messianism"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74603",
+        "room_desc": "Land and Cultures of Israel"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74604",
+        "room_desc": "Maimonides"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74605",
+        "room_desc": "Maimonides:Int Por"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74606",
+        "room_desc": "Mediev Jud Philos"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74607",
+        "room_desc": "Medieval Jewish History"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74608",
+        "room_desc": "Messianic Ideas & Movements"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74609",
+        "room_desc": "Middle East Jews"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74610",
+        "room_desc": "Midrashic Lit"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74611",
+        "room_desc": "Mishnah"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74612",
+        "room_desc": "Modern Fren Jewry"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74613",
+        "room_desc": "Modern German Jewry"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74614",
+        "room_desc": "Modern Jewish Biographies"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74615",
+        "room_desc": "Modern Jewish Thought"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74616",
+        "room_desc": "Mytic74617: JUST,\"Nazi War Crimes"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74618",
+        "room_desc": "Perspective on the Holocaust"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74619",
+        "room_desc": "Readings in Talmud"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74620",
+        "room_desc": "Rel & Holocaust: During &After"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74621",
+        "room_desc": "Sacred & The Self"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74622",
+        "room_desc": "Sages and Scholars"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74623",
+        "room_desc": "Searching for God"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74624",
+        "room_desc": "Seminar in Special Topics"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74625",
+        "room_desc": "Sephardic Heritage"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74626",
+        "room_desc": "Shtetl In Hist & Lit"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74627",
+        "room_desc": "Spec Topic:Central&West Europe"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74628",
+        "room_desc": "Special Topics"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74629",
+        "room_desc": "Special Topics: Holocaust"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74630",
+        "room_desc": "Studies in Jewish Customs"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74631",
+        "room_desc": "Talmud Seminar"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74632",
+        "room_desc": "Tannaitic Period"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74633",
+        "room_desc": "The Dead Sea Scrolls"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74634",
+        "room_desc": "The Holocaust and Halakhah"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74635",
+        "room_desc": "The Holocaust in Literature"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74636",
+        "room_desc": "The Jewish Diaspora"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74637",
+        "room_desc": "The Jewish Woman"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74638",
+        "room_desc": "The Jews of Brooklyn"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74639",
+        "room_desc": "The Jews of New York"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74640",
+        "room_desc": "The Nazi Concentration Camps"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74641",
+        "room_desc": "The Old Yishuv"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74642",
+        "room_desc": "The Sephardic Heritage"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74643",
+        "room_desc": "Thesis Research"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74644",
+        "room_desc": "Tower of Babel"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74645",
+        "room_desc": "W Eur Jew 17c-1815"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74646",
+        "room_desc": "Yiddish Short Stories & Poetry"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74647",
+        "room_desc": "Yiddish Ss&Poety Trn"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74648",
+        "room_desc": "Yiddish Stories&Poety Transltn"
+    },
+    {
+        "school": "BKL01",
+        "major": "JUST",
+        "room_num": "74649",
+        "room_desc": "Zionism"
+    }
+]

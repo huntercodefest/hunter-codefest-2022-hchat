@@ -1,0 +1,37 @@
+[
+    {
+        "major": "ACCT",
+        "room_num": "68720",
+        "desc": "Accounting Information Systems"
+    },
+    {
+        "major": "ACCT",
+        "room_num": "68721",
+        "desc": "Fundamental Accounting I"
+    },
+    {
+        "major": "ACCT",
+        "room_num": "68722",
+        "desc": "Fundamental Accounting II"
+    },
+    {
+        "major": "ACCT",
+        "room_num": "68723",
+        "desc": "Intermediate Accounting"
+    },
+    {
+        "major": "ACCT",
+        "room_num": "68724",
+        "desc": "Princ of Intermdte Accountg"
+    },
+    {
+        "major": "ACCT",
+        "room_num": "68725",
+        "desc": "Principles of Accounting I"
+    },
+    {
+        "major": "ACCT",
+        "room_num": "68726",
+        "desc": "Principles of Accounting II"
+    }
+]

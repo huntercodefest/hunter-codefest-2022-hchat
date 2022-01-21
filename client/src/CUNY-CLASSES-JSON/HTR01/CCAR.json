@@ -1,0 +1,627 @@
+[
+    {
+        "major": "CCAR",
+        "room_num": "47552",
+        "desc": "Advanced Japanese 2"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47553",
+        "desc": "Advanced Japanese I"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47554",
+        "desc": "Aegean Archaeology"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47555",
+        "desc": "Aegean Painting"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47556",
+        "desc": "Ancient Comedy Translation"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47557",
+        "desc": "Ancient Greece"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47558",
+        "desc": "Ancient Greek Poetry Trans"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47559",
+        "desc": "Ancient Novel in Translation"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47560",
+        "desc": "Ancient Novl in Transl"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47561",
+        "desc": "Ancient Numismatics"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47562",
+        "desc": "Ancient Rome"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47563",
+        "desc": "Ancient Science"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47564",
+        "desc": "Ancient Sports and Spectacles"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47565",
+        "desc": "Ancient Technology"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47566",
+        "desc": "Arabic  Novel in Translation"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47567",
+        "desc": "Arch : Mesopotamia and Iran"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47568",
+        "desc": "Archaeology of Anatolia"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47569",
+        "desc": "Archaeology of Ancient Iran"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47570",
+        "desc": "Archaeology of Egypt"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47571",
+        "desc": "Archaeology of Rom. Brtain"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47572",
+        "desc": "Archaeology of Roman Republic"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47573",
+        "desc": "Archeo Eastern Mediterranean"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47574",
+        "desc": "Archeo Western Mediterranean"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47575",
+        "desc": "Arts & Letters 4th Century"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47576",
+        "desc": "Banquets and Blood"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47577",
+        "desc": "Beginning Arabic 2"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47578",
+        "desc": "Beginning Persian 1"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47579",
+        "desc": "Beginning Persian 2"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47580",
+        "desc": "Bkrd for Greek Theatre"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47581",
+        "desc": "Celtic Archaeology"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47582",
+        "desc": "Changing Role Woman:Chin/Jpn"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47583",
+        "desc": "Class Herit:Middle East & Asia"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47584",
+        "desc": "Classical Literature Transl"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47585",
+        "desc": "Classical Mythology"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47586",
+        "desc": "Classical New York"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47587",
+        "desc": "Classical Roots Med Humanities"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47588",
+        "desc": "Classical World in Film"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47589",
+        "desc": "Classics and Race"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47590",
+        "desc": "Cleopatra of Egypt"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47591",
+        "desc": "Comp Back Classical Mythology"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47592",
+        "desc": "Early Christanity & Philoosphy"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47593",
+        "desc": "Elegiac Poets"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47594",
+        "desc": "End of Bronze Age"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47595",
+        "desc": "Euripides? Bacchae"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47596",
+        "desc": "Eye of the Beholder"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47597",
+        "desc": "Field Sem Archaeology"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47598",
+        "desc": "Field Sem Archeology"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47599",
+        "desc": "Field Sem:Archaeology"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47600",
+        "desc": "Golden Age of Athens"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47601",
+        "desc": "Great Sanctuaries of Medit"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47602",
+        "desc": "Greek & Latin Roots of English"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47603",
+        "desc": "Greek & Latin Roots/English"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47604",
+        "desc": "Greek & Roman Didactic Poetry"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47605",
+        "desc": "Greek Archaeology"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47606",
+        "desc": "Greek Civilization"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47607",
+        "desc": "Greek History"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47608",
+        "desc": "Greek World after Alexander"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47609",
+        "desc": "Greek and Roman Tragedy"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47610",
+        "desc": "Helenistic Archy"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47611",
+        "desc": "Hellenistic Archaeology"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47612",
+        "desc": "Hellenistic Bronze Sculpture"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47613",
+        "desc": "Hellenistic Cities"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47614",
+        "desc": "Hellenistic Civilization"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47615",
+        "desc": "Hellenistic History"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47616",
+        "desc": "Homer and Virgil"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47617",
+        "desc": "Homeric Archaeology"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47618",
+        "desc": "Honors in Classics"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47619",
+        "desc": "In Service"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47620",
+        "desc": "Ind Study in Classic"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47621",
+        "desc": "Independent Study In Classic"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47622",
+        "desc": "Intermediate Arabic II"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47623",
+        "desc": "Intermediate Persian 2"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47624",
+        "desc": "Intermediate Persian I"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47625",
+        "desc": "Introduction: Archaeology"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47626",
+        "desc": "Japanese Cinema"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47627",
+        "desc": "Japanese Converstion"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47628",
+        "desc": "Japanese Culture"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47629",
+        "desc": "Japanese Culture 2"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47630",
+        "desc": "Latin Literature Augustan Age"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47631",
+        "desc": "Literature & Cult:Muslim Spn"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47632",
+        "desc": "Literature of Islamic World"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47633",
+        "desc": "Magic & Sci in Antqty"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47634",
+        "desc": "Magic & Science in Antiquity"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47635",
+        "desc": "Magic and Science in Antiquity"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47636",
+        "desc": "Medit in Bronze Age"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47637",
+        "desc": "Mediterranean in Bronze Age"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47638",
+        "desc": "Mythology in Classical Art"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47639",
+        "desc": "Ostia"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47640",
+        "desc": "Pagans and Christians"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47641",
+        "desc": "Performing Greek Tragedy"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47642",
+        "desc": "Periclean Athens"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47643",
+        "desc": "Perspectives:Myth & Arts"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47644",
+        "desc": "Plato and Democracy"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47645",
+        "desc": "Pop Mor in an Greece"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47646",
+        "desc": "Religion of Ancient Greece"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47647",
+        "desc": "Religion of Rome"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47648",
+        "desc": "Research Methods Class Studies"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47649",
+        "desc": "Roman Archaeology I"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47650",
+        "desc": "Roman Archeology II"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47651",
+        "desc": "Roman Civilization"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47652",
+        "desc": "Roman Empire"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47653",
+        "desc": "Roman History"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47654",
+        "desc": "Roman Paint & Mosaics"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47655",
+        "desc": "Roman Satire"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47656",
+        "desc": "Roman World at Work"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47657",
+        "desc": "Sem:Aegean Prehistory"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47658",
+        "desc": "Shakespeare\u2019s Roman Plays"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47659",
+        "desc": "Shrines and Sanctuaries"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47660",
+        "desc": "Spc Top: Beg Arabic"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47661",
+        "desc": "Sports in Ancient World"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47662",
+        "desc": "Supervised Reading"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47663",
+        "desc": "Surv Classical Lit/Translation"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47664",
+        "desc": "Survey of Latin Literature"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47665",
+        "desc": "The Epic Tradition"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47666",
+        "desc": "The Greek and Roman Theatre"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47667",
+        "desc": "The Hero & The City"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47668",
+        "desc": "The Legacy of Ancient Greece"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47669",
+        "desc": "The Legacy of Ancient Rome"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47670",
+        "desc": "Theory & Method Class Archaeol"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47671",
+        "desc": "Topics in Classics"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47672",
+        "desc": "Women & Slaves:Classil Antqty"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47673",
+        "desc": "Women in Classical Myth"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47674",
+        "desc": "Women in Japanese Literature"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47675",
+        "desc": "Women: Ancient Greece"
+    },
+    {
+        "major": "CCAR",
+        "room_num": "47676",
+        "desc": "Writing Ancient Past"
+    }
+]

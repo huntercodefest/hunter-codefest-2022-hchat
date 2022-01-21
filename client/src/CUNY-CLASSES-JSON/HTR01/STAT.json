@@ -1,0 +1,367 @@
+[
+    {
+        "major": "STAT",
+        "room_num": "57792",
+        "desc": "Adv Cnpts:Finan Mrkts"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57793",
+        "desc": "Adv Mach57794: STAT,\"Adv Programming Tech"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57795",
+        "desc": "Advanced Biometrics"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57796",
+        "desc": "Advanced Probability Theory I"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57797",
+        "desc": "Advanced Probability Theory II"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57798",
+        "desc": "An Introduction to Statistics"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57799",
+        "desc": "Analysis Longit Data"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57800",
+        "desc": "Analysis of Categorical Data"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57801",
+        "desc": "Analysis of Variance"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57802",
+        "desc": "Applied Biostat 1"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57803",
+        "desc": "Applied Biostatistics 2"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57804",
+        "desc": "Applied Biostatistics III"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57805",
+        "desc": "Applied Math"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57806",
+        "desc": "Bayesian Stat: In Sciences"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57807",
+        "desc": "Bayesian Stat:In Sci"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57808",
+        "desc": "Bayesian Stat:in Sci"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57809",
+        "desc": "Biostatistics"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57810",
+        "desc": "Case Seminar"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57811",
+        "desc": "Case Stud Appld Math"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57812",
+        "desc": "Concepts & Methods:Samplng"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57813",
+        "desc": "Data Analysis"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57814",
+        "desc": "Data Analysis using Stat Softw"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57815",
+        "desc": "Data Analysis:Stat Sftwr"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57816",
+        "desc": "Desg/Alys Cmplx Surv"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57817",
+        "desc": "Discrete Probability"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57818",
+        "desc": "Elem Prob & Stat"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57819",
+        "desc": "Elements & Visualization"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57820",
+        "desc": "Evening the Odds"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57821",
+        "desc": "Experimental Design"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57822",
+        "desc": "Forensics"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57823",
+        "desc": "Gene Expression Analysis"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57824",
+        "desc": "General Linear Models I"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57825",
+        "desc": "General Linear Models II"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57826",
+        "desc": "Graph Meth & Data An"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57827",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57828",
+        "desc": "Interm Tpcs in Stat"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57829",
+        "desc": "Intro Data Sci & Machine Learn"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57830",
+        "desc": "Intro to Complex Sampling"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57831",
+        "desc": "Intro to Math Stat"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57832",
+        "desc": "Introduction to Applied Stat"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57833",
+        "desc": "Math Ed Nys Rgnt Cur"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57834",
+        "desc": "Mathematical Statistics"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57835",
+        "desc": "Modeling and Visualization"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57836",
+        "desc": "Multivariate Analysis"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57837",
+        "desc": "Multivariate Anlysis"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57838",
+        "desc": "Non-Parametric Statistics"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57839",
+        "desc": "Nonparametric Statistics"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57840",
+        "desc": "Probability"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57841",
+        "desc": "Probability Theory"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57842",
+        "desc": "Regression Analysis"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57843",
+        "desc": "Regression and Anova"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57844",
+        "desc": "Sampling Theory"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57845",
+        "desc": "Sampling for Polling & Surveys"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57846",
+        "desc": "Simul-Stat Modeling"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57847",
+        "desc": "Sta Mod for Spa Data"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57848",
+        "desc": "Stat & Phil of Sci"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57849",
+        "desc": "Stat & The Law"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57850",
+        "desc": "Stat Analysis Biological Data"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57851",
+        "desc": "Stat Data Process 2"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57852",
+        "desc": "Statistic Data Processing I"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57853",
+        "desc": "Statistical Computng"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57854",
+        "desc": "Statistical Learning"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57855",
+        "desc": "Stochastic Methods in Finance"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57856",
+        "desc": "Stochastic Processes"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57857",
+        "desc": "Stochastic Simul"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57858",
+        "desc": "Survival Analysis"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57859",
+        "desc": "Theo & Mthd Stoc Opti"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57860",
+        "desc": "Theory of Games"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57861",
+        "desc": "Time Series Analysis"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57862",
+        "desc": "Top: Time Series"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57863",
+        "desc": "Topics: Stat Infer 1"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57864",
+        "desc": "Topics:Applied Math2"
+    },
+    {
+        "major": "STAT",
+        "room_num": "57865",
+        "desc": "Tps: Stat Inference"
+    }
+]

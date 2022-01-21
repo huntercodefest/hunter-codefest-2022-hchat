@@ -1,0 +1,134 @@
+[
+    {
+        "school": "BMC01",
+        "major": "SCIE",
+        "room_num": "19069",
+        "room_desc": "Biology I"
+    },
+    {
+        "school": "BMC01",
+        "major": "SCIE",
+        "room_num": "19070",
+        "room_desc": "Chemistry I"
+    },
+    {
+        "school": "BMC01",
+        "major": "SCIE",
+        "room_num": "19071",
+        "room_desc": "Computer Methods in Science"
+    },
+    {
+        "school": "BMC01",
+        "major": "SCIE",
+        "room_num": "19072",
+        "room_desc": "Cputr Methds/Pascal"
+    },
+    {
+        "school": "BMC01",
+        "major": "SCIE",
+        "room_num": "19073",
+        "room_desc": "General Biology"
+    },
+    {
+        "school": "BMC01",
+        "major": "SCIE",
+        "room_num": "19074",
+        "room_desc": "General Chemistry"
+    },
+    {
+        "school": "BMC01",
+        "major": "SCIE",
+        "room_num": "19075",
+        "room_desc": "General Physics"
+    },
+    {
+        "school": "BMC01",
+        "major": "SCIE",
+        "room_num": "19076",
+        "room_desc": "General Science"
+    },
+    {
+        "school": "BMC01",
+        "major": "SCIE",
+        "room_num": "19077",
+        "room_desc": "Man and Environment"
+    },
+    {
+        "school": "BMC01",
+        "major": "SCIE",
+        "room_num": "19078",
+        "room_desc": "Microprocessors"
+    },
+    {
+        "school": "BMC01",
+        "major": "SCIE",
+        "room_num": "19079",
+        "room_desc": "Nutrition"
+    },
+    {
+        "school": "BMC01",
+        "major": "SCIE",
+        "room_num": "19080",
+        "room_desc": "Pathophysiology"
+    },
+    {
+        "school": "BMC01",
+        "major": "SCIE",
+        "room_num": "19081",
+        "room_desc": "Pharmacology"
+    },
+    {
+        "school": "BMC01",
+        "major": "SCIE",
+        "room_num": "19082",
+        "room_desc": "Physics I"
+    },
+    {
+        "school": "BMC01",
+        "major": "SCIE",
+        "room_num": "19083",
+        "room_desc": "Prin of Science I"
+    },
+    {
+        "school": "BMC01",
+        "major": "SCIE",
+        "room_num": "19084",
+        "room_desc": "SCI Directed Study"
+    },
+    {
+        "school": "BMC01",
+        "major": "SCIE",
+        "room_num": "19085",
+        "room_desc": "Sci Directed Study"
+    },
+    {
+        "school": "BMC01",
+        "major": "SCIE",
+        "room_num": "19086",
+        "room_desc": "Sci/Math Research"
+    },
+    {
+        "school": "BMC01",
+        "major": "SCIE",
+        "room_num": "19087",
+        "room_desc": "Science Directed Study"
+    },
+    {
+        "school": "BMC01",
+        "major": "SCIE",
+        "room_num": "19088",
+        "room_desc": "Scientific Directed Study"
+    },
+    {
+        "school": "BMC01",
+        "major": "SCIE",
+        "room_num": "19089",
+        "room_desc": "Scientific Instrumentation"
+    },
+    {
+        "school": "BMC01",
+        "major": "SCIE",
+        "room_num": "19090",
+        "room_desc": "The Science of Food"
+    }
+]

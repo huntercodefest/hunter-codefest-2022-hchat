@@ -1,0 +1,32 @@
+[
+    {
+        "major": "EVST",
+        "room_num": "81897",
+        "desc": "Environmental Science"
+    },
+    {
+        "major": "EVST",
+        "room_num": "81898",
+        "desc": "Intro Geo Info Syst"
+    },
+    {
+        "major": "EVST",
+        "room_num": "81899",
+        "desc": "Introduction to Oceanography"
+    },
+    {
+        "major": "EVST",
+        "room_num": "81900",
+        "desc": "Soil Science"
+    },
+    {
+        "major": "EVST",
+        "room_num": "81901",
+        "desc": "Sust Vegetable Prod"
+    },
+    {
+        "major": "EVST",
+        "room_num": "81902",
+        "desc": "Sustainable Urban Agriculture"
+    }
+]

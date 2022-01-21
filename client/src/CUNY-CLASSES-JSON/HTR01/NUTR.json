@@ -1,0 +1,247 @@
+[
+    {
+        "major": "NUTR",
+        "room_num": "55051",
+        "desc": "Advanced Nutrition I"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55052",
+        "desc": "Advanced Nutrition II"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55053",
+        "desc": "Capstone"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55054",
+        "desc": "Clinical Nutrition 2"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55055",
+        "desc": "Clinical Nutrition I"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55056",
+        "desc": "Community Nutrition"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55057",
+        "desc": "Community Nutrition Education"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55058",
+        "desc": "Comp Applic Diet & Nut"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55059",
+        "desc": "Dietetics  Fldwrk:Food Serv"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55060",
+        "desc": "Dietetics I & 2"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55061",
+        "desc": "Dietetics Internship"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55062",
+        "desc": "Dietetics in Fieldwork IV"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55063",
+        "desc": "Dietetics in Fldwrk:Community"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55064",
+        "desc": "Drug-Nutr-Interact"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55065",
+        "desc": "Food Policy"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55066",
+        "desc": "Food Safety Policy and Science"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55067",
+        "desc": "Food Sci & Environmt"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55068",
+        "desc": "Food Sci & Envmt Lab"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55069",
+        "desc": "Food Service and Management"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55070",
+        "desc": "GIS & Public Health"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55071",
+        "desc": "Health & Immigration"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55072",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55073",
+        "desc": "Intro Nutrition Res"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55074",
+        "desc": "Nutr & Chronic Disease"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55075",
+        "desc": "Nutr & Human Development"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55076",
+        "desc": "Nutr Assessment & Counseling"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55077",
+        "desc": "Nutr: Geriatric Pop"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55078",
+        "desc": "Nutrition Assess Popul at Risk"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55079",
+        "desc": "Nutrition Assessment"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55080",
+        "desc": "Nutrition Education"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55081",
+        "desc": "Nutrition Research"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55082",
+        "desc": "Nutrition Seminar"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55083",
+        "desc": "Nutrition and Biochemistry"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55084",
+        "desc": "Nutrition and Disease"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55085",
+        "desc": "Pandemics and Public Health"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55086",
+        "desc": "Parent and Enter Nutrition"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55087",
+        "desc": "Practicum"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55088",
+        "desc": "Problem Seminar"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55089",
+        "desc": "Prog Mgmt: Pub Hlth"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55090",
+        "desc": "Public Health Nutr"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55091",
+        "desc": "Public Nutrition Fieldwork I"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55092",
+        "desc": "Reducing Disparities"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55093",
+        "desc": "Res Mthds: Comm Hlth"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55094",
+        "desc": "Research Methods"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55095",
+        "desc": "Seminar in Dietetics Practice"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55096",
+        "desc": "Survey Research Mthd"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55097",
+        "desc": "The Consumer & Food"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55098",
+        "desc": "Thesis Seminar"
+    },
+    {
+        "major": "NUTR",
+        "room_num": "55099",
+        "desc": "Tp:Hunger in America"
+    }
+]

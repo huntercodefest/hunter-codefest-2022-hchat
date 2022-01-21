@@ -1,0 +1,512 @@
+[
+    {
+        "major": "POSC",
+        "room_num": "14223",
+        "desc": "Adv Methods of Social Research"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14224",
+        "desc": "Advanced Topics Pol Sci"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14225",
+        "desc": "African Amer in the Pol System"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14226",
+        "desc": "Amer Political Systm"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14227",
+        "desc": "American Foreign Policy"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14228",
+        "desc": "American Political System"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14229",
+        "desc": "American Political Thought"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14230",
+        "desc": "Capitalism and Its Critics"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14231",
+        "desc": "Classic & Medieval Poli Philo"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14232",
+        "desc": "Classical Political Economy"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14233",
+        "desc": "Cmpartv&Glbal Persp-Gndr&Pltcs"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14234",
+        "desc": "Comparative EduPolicy&Politics"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14235",
+        "desc": "Comparative Labor Movements"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14236",
+        "desc": "Consti-Gov Struc/Pwr"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14237",
+        "desc": "Constit Law: Rights/Liberties"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14238",
+        "desc": "Constitutional Law"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14239",
+        "desc": "Contemp Compar Govrn"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14240",
+        "desc": "Contemp Polit Issues"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14241",
+        "desc": "Contemporary Political Issues"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14242",
+        "desc": "Contemporary Political Thought"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14243",
+        "desc": "Criminal Justice"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14244",
+        "desc": "Democracy and Its Critics"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14245",
+        "desc": "Freedom of Speech"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14246",
+        "desc": "Fundamentals of Human Rights"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14247",
+        "desc": "Gender and Politics"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14248",
+        "desc": "Global Environmental Politics"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14249",
+        "desc": "Global Justice"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14250",
+        "desc": "Global Political Economy"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14251",
+        "desc": "Globalization"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14252",
+        "desc": "Gov & Politics In Us"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14253",
+        "desc": "Great Political Thinkers"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14254",
+        "desc": "Honors Tutorial"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14255",
+        "desc": "Human Rights"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14256",
+        "desc": "Immigration and Citizenship"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14257",
+        "desc": "Integration of the Americas"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14258",
+        "desc": "International Law"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14259",
+        "desc": "International Politics"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14260",
+        "desc": "Internship in Human Rights&PS"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14261",
+        "desc": "Intl & Regional Organizations"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14262",
+        "desc": "Intrntnl Conflict&Conflict Res"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14263",
+        "desc": "Intro Thry Social & Commun"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14264",
+        "desc": "Intro to Comparative Politics"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14265",
+        "desc": "Jurisprudence"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14266",
+        "desc": "Latino Politics"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14267",
+        "desc": "Law in Action"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14268",
+        "desc": "Law of Diplomacy14269: POSC,\"Law14270: POSC,\"Legislative Politics"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14271",
+        "desc": "Major Asian Political Systems"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14272",
+        "desc": "Marxism"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14273",
+        "desc": "Methods of Social Research."
+    },
+    {
+        "major": "POSC",
+        "room_num": "14274",
+        "desc": "Model United Nations"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14275",
+        "desc": "Modern Political Philosophy"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14276",
+        "desc": "Nationalism&Challng"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14277",
+        "desc": "Non-Western Political Thought"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14278",
+        "desc": "Orgnzng Elctn Campgn"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14279",
+        "desc": "Pol Analysis & Interpretation"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14280",
+        "desc": "Pol Sys Cent Amer & Caribb"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14281",
+        "desc": "Pol Syst Latin Amer"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14282",
+        "desc": "Pol Systms-Mid East"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14283",
+        "desc": "Polit Amer Publc Edu"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14284",
+        "desc": "Political Demography"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14285",
+        "desc": "Political Economy of Developme"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14286",
+        "desc": "Political Issues in NYC"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14287",
+        "desc": "Political Parties"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14288",
+        "desc": "Political Power in America"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14289",
+        "desc": "Political Research Laboratory"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14290",
+        "desc": "Political Socialization"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14291",
+        "desc": "Political Systems in Africa"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14292",
+        "desc": "Political Systems in Europe"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14293",
+        "desc": "Politics & Culture"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14294",
+        "desc": "Politics Amer Povrty"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14295",
+        "desc": "Politics And Culture"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14296",
+        "desc": "Politics and Culture"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14297",
+        "desc": "Politics and human survival"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14298",
+        "desc": "Politics of American Pub Edu"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14299",
+        "desc": "Poltcl Mobilizations&Soc Mvmts"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14300",
+        "desc": "Poly Sci Senior Research Sem"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14301",
+        "desc": "Psychology and Politics"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14302",
+        "desc": "Public Administration"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14303",
+        "desc": "Public Opinion and Polling"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14304",
+        "desc": "Public Policy"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14305",
+        "desc": "Race & Class in American Pol"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14306",
+        "desc": "Russia Today"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14307",
+        "desc": "Science14308: POSC,\"Sem & Intrn Pgrm NYC Govt"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14309",
+        "desc": "Semin&Intrn Prog-Law"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14310",
+        "desc": "Sociological Analysis"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14311",
+        "desc": "Sociology of Politics"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14312",
+        "desc": "Spcl Prbms in Pol Sci"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14313",
+        "desc": "Spec Problems in Political Sci"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14314",
+        "desc": "Special Topics in Human Rights"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14315",
+        "desc": "State and Local Politics"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14316",
+        "desc": "Stbilty In Const Dem"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14317",
+        "desc": "The American Political System"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14318",
+        "desc": "The American Presidency"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14319",
+        "desc": "The Judiciary"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14320",
+        "desc": "The Politics of Health"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14321",
+        "desc": "The Russian Political System"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14322",
+        "desc": "Topics in Political Science"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14323",
+        "desc": "Urban Policy"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14324",
+        "desc": "Urban Politics and Government"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14325",
+        "desc": "Us In World Affairs"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14326",
+        "desc": "Western Political Thought"
+    },
+    {
+        "major": "POSC",
+        "room_num": "14327",
+        "desc": "Women and Politics"
+    }
+]

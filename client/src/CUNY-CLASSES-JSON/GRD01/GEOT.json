@@ -1,0 +1,107 @@
+[
+    {
+        "major": "GEOT",
+        "room_num": "5671",
+        "desc": "Advanced Cartography"
+    },
+    {
+        "major": "GEOT",
+        "room_num": "5672",
+        "desc": "Advanced GIS"
+    },
+    {
+        "major": "GEOT",
+        "room_num": "5673",
+        "desc": "Applied Stat: Hydrology"
+    },
+    {
+        "major": "GEOT",
+        "room_num": "5674",
+        "desc": "Comput Lit Geo Sci"
+    },
+    {
+        "major": "GEOT",
+        "room_num": "5675",
+        "desc": "Earth From Above"
+    },
+    {
+        "major": "GEOT",
+        "room_num": "5676",
+        "desc": "GIS Applic: Populat Geogr"
+    },
+    {
+        "major": "GEOT",
+        "room_num": "5677",
+        "desc": "GIS Applic: Social Geography"
+    },
+    {
+        "major": "GEOT",
+        "room_num": "5678",
+        "desc": "Geocomputation I"
+    },
+    {
+        "major": "GEOT",
+        "room_num": "5679",
+        "desc": "Geog Info Syst Law"
+    },
+    {
+        "major": "GEOT",
+        "room_num": "5680",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "GEOT",
+        "room_num": "5681",
+        "desc": "Intro To Mapping"
+    },
+    {
+        "major": "GEOT",
+        "room_num": "5682",
+        "desc": "Intro to GIS"
+    },
+    {
+        "major": "GEOT",
+        "room_num": "5683",
+        "desc": "Location Based Services"
+    },
+    {
+        "major": "GEOT",
+        "room_num": "5684",
+        "desc": "Mapping Science"
+    },
+    {
+        "major": "GEOT",
+        "room_num": "5685",
+        "desc": "Multivariate Stat in Geography"
+    },
+    {
+        "major": "GEOT",
+        "room_num": "5686",
+        "desc": "Quantitative Method"
+    },
+    {
+        "major": "GEOT",
+        "room_num": "5687",
+        "desc": "Remote Sensing"
+    },
+    {
+        "major": "GEOT",
+        "room_num": "5688",
+        "desc": "Rgmote Sensing"
+    },
+    {
+        "major": "GEOT",
+        "room_num": "5689",
+        "desc": "Satellite Monitorng"
+    },
+    {
+        "major": "GEOT",
+        "room_num": "5690",
+        "desc": "Spatial Data Analys"
+    },
+    {
+        "major": "GEOT",
+        "room_num": "5691",
+        "desc": "Spatial Data Analysis"
+    }
+]

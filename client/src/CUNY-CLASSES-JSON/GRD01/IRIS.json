@@ -1,0 +1,32 @@
+[
+    {
+        "major": "IRIS",
+        "room_num": "6390",
+        "desc": "Elementary Irish I"
+    },
+    {
+        "major": "IRIS",
+        "room_num": "6391",
+        "desc": "Elementary Irish II"
+    },
+    {
+        "major": "IRIS",
+        "room_num": "6392",
+        "desc": "Elementray Irish 2"
+    },
+    {
+        "major": "IRIS",
+        "room_num": "6393",
+        "desc": "Intermediate Irish Grammar"
+    },
+    {
+        "major": "IRIS",
+        "room_num": "6394",
+        "desc": "Spec Tpcs Irish Lang Liter"
+    },
+    {
+        "major": "IRIS",
+        "room_num": "6395",
+        "desc": "Tutorial in Irish Lang & Liter"
+    }
+]

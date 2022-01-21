@@ -1,0 +1,377 @@
+[
+    {
+        "major": "MESG",
+        "room_num": "82281",
+        "desc": "Ac"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82282",
+        "desc": "Animal Hlth Cluster"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82283",
+        "desc": "Ce"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82284",
+        "desc": "Ce Emt"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82285",
+        "desc": "Cel"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82286",
+        "desc": "Cepo"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82287",
+        "desc": "Class in Progress 1"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82288",
+        "desc": "Class in Progress 2"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82289",
+        "desc": "Class in Progress 3"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82290",
+        "desc": "Class in Progress 4"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82291",
+        "desc": "Class in Progress 5"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82292",
+        "desc": "Class in Progress 6"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82293",
+        "desc": "Class in Progress 7"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82294",
+        "desc": "Class in Progress 8"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82295",
+        "desc": "Class in Progress 9"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82296",
+        "desc": "Cont Ed"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82297",
+        "desc": "Coop Seminar Mental Health"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82298",
+        "desc": "Cope Program"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82299",
+        "desc": "Cpe Test -March"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82300",
+        "desc": "Cpe Test January"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82301",
+        "desc": "Cpe Test June"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82302",
+        "desc": "Cpe Test October"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82303",
+        "desc": "Cpe Wkshp - January"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82304",
+        "desc": "Cpe Wokshp - October"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82305",
+        "desc": "Cpe Worshop - March"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82306",
+        "desc": "Cpe Worshop-June"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82307",
+        "desc": "Cs"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82308",
+        "desc": "Economic Development"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82309",
+        "desc": "Emt"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82310",
+        "desc": "Esl House"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82311",
+        "desc": "Honor\u2019S Pair"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82312",
+        "desc": "Int To Reg 6cr"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82313",
+        "desc": "Intent Reg For 3cr"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82314",
+        "desc": "Job Bound"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82315",
+        "desc": "Keyboarding 1 Exp"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82316",
+        "desc": "No Accredited Institution"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82317",
+        "desc": "No Advance Standing"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82318",
+        "desc": "No Transfer Credit Awarded"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82319",
+        "desc": "Older Adults Program"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82320",
+        "desc": "Paired Course"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82321",
+        "desc": "Permit 0.9 Units"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82322",
+        "desc": "Permit 1"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82323",
+        "desc": "Permit 10"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82324",
+        "desc": "Permit 11"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82325",
+        "desc": "Permit 12"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82326",
+        "desc": "Permit 13 Credits"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82327",
+        "desc": "Permit 14 Credits"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82328",
+        "desc": "Permit 15"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82329",
+        "desc": "Permit 2"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82330",
+        "desc": "Permit 3"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82331",
+        "desc": "Permit 4"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82332",
+        "desc": "Permit 5"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82333",
+        "desc": "Permit 6"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82334",
+        "desc": "Permit 7"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82335",
+        "desc": "Permit 8"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82336",
+        "desc": "Permit 9"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82337",
+        "desc": "Permit Brooklyn"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82338",
+        "desc": "Permit To Baruch"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82339",
+        "desc": "Permit To Bmcc"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82340",
+        "desc": "Permit To Bronx Cc"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82341",
+        "desc": "Permit To City"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82342",
+        "desc": "Permit To Hostos Cc"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82343",
+        "desc": "Permit To Hunter"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82344",
+        "desc": "Permit To John Jay"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82345",
+        "desc": "Permit To Kcc"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82346",
+        "desc": "Permit To Lehman"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82347",
+        "desc": "Permit To Medgar"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82348",
+        "desc": "Permit To Nyctc"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82349",
+        "desc": "Permit To Qcc"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82350",
+        "desc": "Permit To Queens"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82351",
+        "desc": "Permit To Staten Isl"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82352",
+        "desc": "Permit To York"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82353",
+        "desc": "Service Learning Sem"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82354",
+        "desc": "Taxi Instiute"
+    },
+    {
+        "major": "MESG",
+        "room_num": "82355",
+        "desc": "Veterans Program"
+    }
+]

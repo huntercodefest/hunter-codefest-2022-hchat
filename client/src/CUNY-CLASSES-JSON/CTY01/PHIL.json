@@ -1,0 +1,962 @@
+[
+    {
+        "major": "PHIL",
+        "room_num": "42712",
+        "desc": "Ad. Sem: Wittgenstein"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42713",
+        "desc": "Aesthetics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42714",
+        "desc": "African-American Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42715",
+        "desc": "American Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42716",
+        "desc": "American Pragmatism"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42717",
+        "desc": "Analytic Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42718",
+        "desc": "Animals In Philsophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42719",
+        "desc": "Applied Ethics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42720",
+        "desc": "Applied Ethics-Hnrs"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42721",
+        "desc": "Aristotl Moral Phil"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42722",
+        "desc": "Asian Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42723",
+        "desc": "Belf Struc Hst Ideas"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42724",
+        "desc": "Bioethics Special"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42725",
+        "desc": "Biomedical Ethics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42726",
+        "desc": "Black Mirror and Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42727",
+        "desc": "Buddhism"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42728",
+        "desc": "Business Ethics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42729",
+        "desc": "Capital Punishment"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42730",
+        "desc": "Chinese Philo"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42731",
+        "desc": "Chinese Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42732",
+        "desc": "Cities & Urban Life"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42733",
+        "desc": "Classcl Pol Thought"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42734",
+        "desc": "Cntinental Eur Phil"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42735",
+        "desc": "Computer Ethics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42736",
+        "desc": "Consciousness"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42737",
+        "desc": "Contemp Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42738",
+        "desc": "Contemp Pol Thought"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42739",
+        "desc": "Contemporary Phenomenology"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42740",
+        "desc": "Contemporary Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42741",
+        "desc": "Coop Ed"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42742",
+        "desc": "Critical Thinking"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42743",
+        "desc": "Decision Theory"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42744",
+        "desc": "Do We Have Free Will?"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42745",
+        "desc": "Dvlmt Christn Thgt"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42746",
+        "desc": "Engineering Ethics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42747",
+        "desc": "Environmental Ethics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42748",
+        "desc": "Environmental Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42749",
+        "desc": "Environmentl Ethics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42750",
+        "desc": "Ethics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42751",
+        "desc": "Ethics Pol Decision"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42752",
+        "desc": "Ethics in Business"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42753",
+        "desc": "Feminist Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42754",
+        "desc": "Free Will"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42755",
+        "desc": "Good-Evil Western Thought"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42756",
+        "desc": "Happiness"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42757",
+        "desc": "Hegel"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42758",
+        "desc": "Hegel and Hegelianism"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42759",
+        "desc": "Hist Of Phil 1"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42760",
+        "desc": "Hist Of Phil 2"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42761",
+        "desc": "Hist of Philosophy II: Modern"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42762",
+        "desc": "History Of Ethics II"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42763",
+        "desc": "History of Philosophy I"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42764",
+        "desc": "History of Philosophy II"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42765",
+        "desc": "Honors I"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42766",
+        "desc": "Honors II"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42767",
+        "desc": "Honors III"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42768",
+        "desc": "Honors IV"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42769",
+        "desc": "Idealism:East and West"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42770",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42771",
+        "desc": "Indian Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42772",
+        "desc": "Intro Comp Relgions"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42773",
+        "desc": "Intro Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42774",
+        "desc": "Intro To Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42775",
+        "desc": "Intro to Jewish Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42776",
+        "desc": "Intro-Honors"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42777",
+        "desc": "Introduction to Logic"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42778",
+        "desc": "Introduction to Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42779",
+        "desc": "Issues In Epistemology"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42780",
+        "desc": "Issues In Metaphysics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42781",
+        "desc": "Justice"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42782",
+        "desc": "Justice and Society"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42783",
+        "desc": "Kant"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42784",
+        "desc": "Kant & Hegel"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42785",
+        "desc": "Kant on the Foundations of Hum"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42786",
+        "desc": "Kant\u2019s Critique of Pure Reason"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42787",
+        "desc": "Kierkeg-Nietz-Freud"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42788",
+        "desc": "Kierkegaard42789: PHIL,\"Knowledge and Value"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42790",
+        "desc": "Latin American Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42791",
+        "desc": "Legal Ethics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42792",
+        "desc": "Life Lessons from Dead Philoso"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42793",
+        "desc": "Literary Criticism"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42794",
+        "desc": "Logical Reasoning"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42795",
+        "desc": "Logical Theory"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42796",
+        "desc": "Major Philosophers: Plato"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42797",
+        "desc": "Marxism"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42798",
+        "desc": "Marxism and Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42799",
+        "desc": "Mathematical Logic"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42800",
+        "desc": "Matters Life-Death"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42801",
+        "desc": "Matters of Life and Death"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42802",
+        "desc": "Mental Health-Mental Illness"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42803",
+        "desc": "Metaphysics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42804",
+        "desc": "Metaphysics and Epistemology"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42805",
+        "desc": "Mind42806: PHIL,\"Modern Concepts Self"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42807",
+        "desc": "Moral Psychology"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42808",
+        "desc": "Nature42809: PHIL,\"Nietzsche"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42810",
+        "desc": "Orientl Philosphies"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42811",
+        "desc": "Personal Identity"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42812",
+        "desc": "Personal Morality"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42813",
+        "desc": "Persons and Machines"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42814",
+        "desc": "Phenom & Existentl"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42815",
+        "desc": "Phenomenology: from Husserl to"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42816",
+        "desc": "Phil & Cosmology"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42817",
+        "desc": "Phil & Technology"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42818",
+        "desc": "Phil Artfcl Intell"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42819",
+        "desc": "Phil Of Childhood"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42820",
+        "desc": "Phil Of History"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42821",
+        "desc": "Phil Of Law"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42822",
+        "desc": "Phil Of Love & Sex"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42823",
+        "desc": "Phil Of Mathematics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42824",
+        "desc": "Phil Of Religion"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42825",
+        "desc": "Phil Of Sci Special"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42826",
+        "desc": "Phil Of Science"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42827",
+        "desc": "Phil of Conspiracy Thry"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42828",
+        "desc": "Phil of Mind and Cognitive Sci"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42829",
+        "desc": "Phil: Wittgenstein"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42830",
+        "desc": "Philosophical Skepticism"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42831",
+        "desc": "Philosophy & Film"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42832",
+        "desc": "Philosophy Of Educat"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42833",
+        "desc": "Philosophy Of Education"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42834",
+        "desc": "Philosophy Of Mind"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42835",
+        "desc": "Philosophy Of Race"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42836",
+        "desc": "Philosophy Of Space and Time"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42837",
+        "desc": "Philosophy and Afrofuturism"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42838",
+        "desc": "Philosophy and Film"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42839",
+        "desc": "Philosophy and the Art World"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42840",
+        "desc": "Philosophy and the Emotions"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42841",
+        "desc": "Philosophy of  Psychoanalysis"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42842",
+        "desc": "Philosophy of Action"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42843",
+        "desc": "Philosophy of Biology"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42844",
+        "desc": "Philosophy of Class and Gender"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42845",
+        "desc": "Philosophy of Conspiracy Theor"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42846",
+        "desc": "Philosophy of Education"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42847",
+        "desc": "Philosophy of Film"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42848",
+        "desc": "Philosophy of History"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42849",
+        "desc": "Philosophy of Language"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42850",
+        "desc": "Philosophy of Law"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42851",
+        "desc": "Philosophy of Literature"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42852",
+        "desc": "Philosophy of Love"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42853",
+        "desc": "Philosophy of Love and Sex"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42854",
+        "desc": "Philosophy of Mathematics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42855",
+        "desc": "Philosophy of Medicine"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42856",
+        "desc": "Philosophy of Memory"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42857",
+        "desc": "Philosophy of Mind"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42858",
+        "desc": "Philosophy of Perception: Olfa"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42859",
+        "desc": "Philosophy of Psychiatry"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42860",
+        "desc": "Philosophy of Psychoanalysis"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42861",
+        "desc": "Philosophy of Quantum Mechanic"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42862",
+        "desc": "Philosophy of Religion"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42863",
+        "desc": "Philosophy of Science"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42864",
+        "desc": "Philosophy of Science Fiction"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42865",
+        "desc": "Philosophy of Simone Weil"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42866",
+        "desc": "Philosophy of Social Science"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42867",
+        "desc": "Philosophy of Space and Time"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42868",
+        "desc": "Philosophy of Sport"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42869",
+        "desc": "Philosophy of Technology"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42870",
+        "desc": "Philosophy of Wittgenstein"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42871",
+        "desc": "Plato"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42872",
+        "desc": "Plotinus"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42873",
+        "desc": "Political Phil"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42874",
+        "desc": "Prac/Th:Phl-Law-Lit"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42875",
+        "desc": "Practical Ancient Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42876",
+        "desc": "Problems in Applied and Social"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42877",
+        "desc": "Psychological Ethics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42878",
+        "desc": "Race42879: PHIL,\"Rationality-Reasonables"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42880",
+        "desc": "Reason Knwldg-Value"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42881",
+        "desc": "Reason42882: PHIL,\"Sci & Phil 20th Cen"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42883",
+        "desc": "Science & Philosophy of Happin"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42884",
+        "desc": "Science42885: PHIL,\"Science42886: PHIL,\"Scientia: The Unity of Knowled"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42887",
+        "desc": "Scientia: Unity of Knowledge"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42888",
+        "desc": "Scientia: the Unity of Knowled"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42889",
+        "desc": "Scientific Reasoning"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42890",
+        "desc": "Self and Identity"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42891",
+        "desc": "Seminar Adv Topics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42892",
+        "desc": "Soc Asp Of Mind-Lng"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42893",
+        "desc": "Soc-Pol Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42894",
+        "desc": "Social Ontology"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42895",
+        "desc": "Special Topics in Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42896",
+        "desc": "Stoicism and the Meaning of Li"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42897",
+        "desc": "Stoicism as a Philosophy of Li"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42898",
+        "desc": "Symbolic Logic"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42899",
+        "desc": "The Ideal Society"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42900",
+        "desc": "The Rational Animal"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42901",
+        "desc": "The Rational Animal: Honors."
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42902",
+        "desc": "Theories Of Relgion"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42903",
+        "desc": "Theory Of Action"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42904",
+        "desc": "Theory Of Knowledge"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42905",
+        "desc": "Theory Of Value"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42906",
+        "desc": "Visual Anthropology"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42907",
+        "desc": "War-Peace-Terrorism"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42908",
+        "desc": "What is Art?"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42909",
+        "desc": "Witchcraft42910: PHIL,\"Wittgenstein"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "42911",
+        "desc": "World Philosophies"
+    }
+]

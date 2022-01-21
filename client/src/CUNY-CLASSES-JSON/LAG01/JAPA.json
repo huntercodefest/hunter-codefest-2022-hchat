@@ -1,0 +1,42 @@
+[
+    {
+        "major": "JAPA",
+        "room_num": "82061",
+        "desc": "Elem Japanese I"
+    },
+    {
+        "major": "JAPA",
+        "room_num": "82062",
+        "desc": "Elementary Japanese II"
+    },
+    {
+        "major": "JAPA",
+        "room_num": "82063",
+        "desc": "Int Elm Japanese 1&2"
+    },
+    {
+        "major": "JAPA",
+        "room_num": "82064",
+        "desc": "Intermediate Japanese I"
+    },
+    {
+        "major": "JAPA",
+        "room_num": "82065",
+        "desc": "Intermediate Japanese II"
+    },
+    {
+        "major": "JAPA",
+        "room_num": "82066",
+        "desc": "Japanese Lit Trans"
+    },
+    {
+        "major": "JAPA",
+        "room_num": "82067",
+        "desc": "Japanese for Heritage Speakers"
+    },
+    {
+        "major": "JAPA",
+        "room_num": "82068",
+        "desc": "Modern Japanese Literature"
+    }
+]

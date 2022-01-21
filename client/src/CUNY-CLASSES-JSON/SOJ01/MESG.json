@@ -1,0 +1,22 @@
+[
+    {
+        "major": "MESG",
+        "room_num": "80305",
+        "desc": "Brooklyn College"
+    },
+    {
+        "major": "MESG",
+        "room_num": "80306",
+        "desc": "City College"
+    },
+    {
+        "major": "MESG",
+        "room_num": "80307",
+        "desc": "Hunter College"
+    },
+    {
+        "major": "MESG",
+        "room_num": "80308",
+        "desc": "Maintenance of Matriculation"
+    }
+]

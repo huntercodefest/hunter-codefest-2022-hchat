@@ -1,0 +1,1237 @@
+[
+    {
+        "major": "NURS",
+        "room_num": "79396",
+        "desc": "Ad Med Surg I Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79397",
+        "desc": "Adlt Med Surg II Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79398",
+        "desc": "Adult Med & Sur Sem"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79399",
+        "desc": "Adult Med & Surg Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79400",
+        "desc": "Adult Med & Surgery"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79401",
+        "desc": "Adult Med Surg I"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79402",
+        "desc": "Adult Med Surg II"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79403",
+        "desc": "Al Nut/Fl-Solid W La"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79404",
+        "desc": "Al Nut/Fl-Solid/W Se"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79405",
+        "desc": "Al Sex/Sen/Funct Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79406",
+        "desc": "Al Sex/Sen/Funct Sem"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79407",
+        "desc": "Alt Circultry-Fluid"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79408",
+        "desc": "Alt Neu Sen Mus Sk F"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79409",
+        "desc": "Alt Nut Elm Sex Fun"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79410",
+        "desc": "Alt Nutri/Fl-Solid W"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79411",
+        "desc": "Alt Psycho-Social Fu"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79412",
+        "desc": "Alt Respir-Integmnt"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79413",
+        "desc": "Alt Sex/Sensory Func"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79414",
+        "desc": "Basic Cncpts Seminar"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79415",
+        "desc": "Basic Concepts In Nu"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79416",
+        "desc": "Basic Concepts Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79417",
+        "desc": "Basic Concepts Prof"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79418",
+        "desc": "Basic Concpt Pro Nur"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79419",
+        "desc": "Basic Hum Needs Sem"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79420",
+        "desc": "Basic Nrsng Cncpts L"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79421",
+        "desc": "Basic Nursing Concep"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79422",
+        "desc": "Basic Nursing Skills"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79423",
+        "desc": "Behav Concepts"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79424",
+        "desc": "C/Al N/Sen/Mus Sk Lb"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79425",
+        "desc": "C/Al Nut El/Sex F Lb"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79426",
+        "desc": "Care Of The Ill Chil"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79427",
+        "desc": "Child Bearing Family"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79428",
+        "desc": "Childbearing Fam Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79429",
+        "desc": "Childbearing Fam Ped"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79430",
+        "desc": "Childbearing/Rearing"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79431",
+        "desc": "Chld Bearing Fam Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79432",
+        "desc": "Chld Bearng Fam Sem"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79433",
+        "desc": "Chldbearing Fam Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79434",
+        "desc": "Chldbearing Fm Cl Lb"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79435",
+        "desc": "Chldbearing/Fam Cl L"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79436",
+        "desc": "Chldbng Fam Ped Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79437",
+        "desc": "Cl Al Ox Fl El/Ga Lb"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79438",
+        "desc": "Cl Alt Resp/Inte Sta"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79439",
+        "desc": "Cl W/Al N/Sen Mu/Sk"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79440",
+        "desc": "Cl W/Al Nut El Sex F"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79441",
+        "desc": "Cl W/Al Ox Fl El/Gas"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79442",
+        "desc": "Cl W/Al Psy Soc Fun"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79443",
+        "desc": "Cl W/Alt Neu Sen Mus"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79444",
+        "desc": "Cl W/Alt Nur Elim Se"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79445",
+        "desc": "Cl W/Alt Ox Fl El/Ga"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79446",
+        "desc": "Cl W/Alt Psy Soc Fun"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79447",
+        "desc": "Cl W/Alt Psy Soc Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79448",
+        "desc": "Cl W/Altered Psy Soc"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79449",
+        "desc": "Cl W/Com Occur Prob"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79450",
+        "desc": "Clinical Lab - Nurs"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79451",
+        "desc": "Clw/Altered Psyc Soc"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79452",
+        "desc": "Cncpt Bas Nur Prac I"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79453",
+        "desc": "Com Occurng Prob II"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79454",
+        "desc": "Comm Mental Hlth Nur"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79455",
+        "desc": "Commonly Hlth Prob"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79456",
+        "desc": "Comunity Mental Hlth"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79457",
+        "desc": "Critical Care Nursin"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79458",
+        "desc": "Dev Per/Blk & Hisp F"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79459",
+        "desc": "Dev. Per. Blk Of His"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79460",
+        "desc": "Diversity Health/Ill"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79461",
+        "desc": "Family & Commnty Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79462",
+        "desc": "Family & Commnty Sem"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79463",
+        "desc": "Family Commu Health"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79464",
+        "desc": "Found Prof Nursing"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79465",
+        "desc": "Fund Nursing Practice Sem"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79466",
+        "desc": "Fund Skills Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79467",
+        "desc": "Fundamentals of Nursing"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79468",
+        "desc": "Gerontological Nursi"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79469",
+        "desc": "Group Behav Nur Prac"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79470",
+        "desc": "Group Dynamics in Nursing"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79471",
+        "desc": "Grp Behv Nur Pract"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79472",
+        "desc": "Guided Proposal Dev"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79473",
+        "desc": "Health Appraisal Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79474",
+        "desc": "Health Assessment of the Adult"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79475",
+        "desc": "Health Policy and NursinG"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79476",
+        "desc": "Hgh Rk Mid-Age/Eldly"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79477",
+        "desc": "Hghrsk Fam/Acrs Life"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79478",
+        "desc": "Hlth Prob Adult I"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79479",
+        "desc": "Hlth Prob Adults I"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79480",
+        "desc": "Hlth Problems Clinical II"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79481",
+        "desc": "Holistic Fund Sk Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79482",
+        "desc": "Holistic Fund Skills"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79483",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79484",
+        "desc": "Inrto Practical Nur"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79485",
+        "desc": "Intro Pratical Nurs"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79486",
+        "desc": "Intro Research Nursg"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79487",
+        "desc": "Intro Research Nursi"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79488",
+        "desc": "Intro to Nursing Research"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79489",
+        "desc": "Intro to Practical Nursing"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79490",
+        "desc": "Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79491",
+        "desc": "Loc/Neur/Musc/Ske Fu"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79492",
+        "desc": "Mat Chld/Psysoc Nurs"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79493",
+        "desc": "Med Surg I"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79494",
+        "desc": "Medical and Surgical Nursing I"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79495",
+        "desc": "Neu Sen Mus Ske Fun"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79496",
+        "desc": "Neu/Mus/Ske/Fun Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79497",
+        "desc": "Neu/Mus/Ske/Fun Sem"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79498",
+        "desc": "Nrsg Prac Nurse Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79499",
+        "desc": "Nrsg Prac Nurse Prac"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79500",
+        "desc": "Ns Ca Clt Alt Ci Fl"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79501",
+        "desc": "Nsg Ca Clt Alt Nut F"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79502",
+        "desc": "Nsg Ca Clt Alt Psy S"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79503",
+        "desc": "Nsg Ca Clt Alt Res I"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79504",
+        "desc": "Nsg Ca Clt Alt Sex S"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79505",
+        "desc": "Nsg Ca Clt Alt Sx Fu"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79506",
+        "desc": "Nsg Ca Clt Loco Neur"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79507",
+        "desc": "Nsg Ca Clt Loco Nu F"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79508",
+        "desc": "Nsg Children Cl Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79509",
+        "desc": "Nsg Clt Alt Flu So E"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79510",
+        "desc": "Nsg Of The Well Chil"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79511",
+        "desc": "Nsg Proc Hlth Apprai"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79512",
+        "desc": "Nsg Proc Hlth Appral"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79513",
+        "desc": "Nur Altered Psy Func"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79514",
+        "desc": "Nur Altered Psy Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79515",
+        "desc": "Nur Basic Concept Lb"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79516",
+        "desc": "Nur Basic Concept Se"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79517",
+        "desc": "Nur Basic Concpt Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79518",
+        "desc": "Nur Basic Hum Needs"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79519",
+        "desc": "Nur Child Bg Family"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79520",
+        "desc": "Nur Childbearing Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79521",
+        "desc": "Nur Chld Bearng Fam"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79522",
+        "desc": "Nur Cl Alt Cfe"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79523",
+        "desc": "Nur Cl Alt Psyc"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79524",
+        "desc": "Nur Concept Seminar"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79525",
+        "desc": "Nur Elim Sex Fun Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79526",
+        "desc": "Nur Fam Communn Hlth"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79527",
+        "desc": "Nur Hgh Rsk Families"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79528",
+        "desc": "Nur Human Needs Sem"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79529",
+        "desc": "Nur In Fam And Comun"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79530",
+        "desc": "Nur In Inner City"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79531",
+        "desc": "Nur In Social Syste"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79532",
+        "desc": "Nur Indepndnt Study"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79533",
+        "desc": "Nur Interventions"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79534",
+        "desc": "Nur Leadership Mgmt"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79535",
+        "desc": "Nur Of Children"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79536",
+        "desc": "Nur Pat Alt Ned Actv"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79537",
+        "desc": "Nur Pat Altr Sensory"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79538",
+        "desc": "Nur Pat Cnt Nerv Sys"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79539",
+        "desc": "Nur Pr Basic Concept"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79540",
+        "desc": "Nur Pro Basic Cncpts"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79541",
+        "desc": "Nur Pro Basic Concep"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79542",
+        "desc": "Nur Pro Basic Concpt"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79543",
+        "desc": "Nur Pro Basic Hum Ne"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79544",
+        "desc": "Nur Proc Basic Conce"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79545",
+        "desc": "Nur Pt Alt Nd Gu Gyn"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79546",
+        "desc": "Nur Pt Alt Nds Intg"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79547",
+        "desc": "Nur Social System"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79548",
+        "desc": "Nur Within Soc Syste"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79549",
+        "desc": "Nur: Basic Concpt La"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79550",
+        "desc": "Nur: Children Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79551",
+        "desc": "Nur: Children Sem"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79552",
+        "desc": "Nur: Cl Alt"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79553",
+        "desc": "Nur: Cl Alt Cfe"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79554",
+        "desc": "Nur: Cl Alt Psyc Soc"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79555",
+        "desc": "Nur: Cl Alt Resp Int"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79556",
+        "desc": "Nuring Human Need La"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79557",
+        "desc": "Nurs Complex Clients"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79558",
+        "desc": "Nurs Groups Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79559",
+        "desc": "Nurs In Inner City"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79560",
+        "desc": "Nurs In Social Syste"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79561",
+        "desc": "Nurs In Th Inner"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79562",
+        "desc": "Nurs In The Inner"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79563",
+        "desc": "Nurs Of Patients"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79564",
+        "desc": "Nurs Process Health"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79565",
+        "desc": "Nurs Process Hlth Ap"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79566",
+        "desc": "Nurs VI Rec Nur."
+    },
+    {
+        "major": "NURS",
+        "room_num": "79567",
+        "desc": "Nursing 1v"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79568",
+        "desc": "Nursing Child Bea"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79569",
+        "desc": "Nursing Children"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79570",
+        "desc": "Nursing I"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79571",
+        "desc": "Nursing II"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79572",
+        "desc": "Nursing IV"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79573",
+        "desc": "Nursing Ii"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79574",
+        "desc": "Nursing Leadership/Management"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79575",
+        "desc": "Nursing Of Children"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79576",
+        "desc": "Nursing Process"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79577",
+        "desc": "Nursing Process Hlth"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79578",
+        "desc": "Nursing Prom: Fam Comm Clients"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79579",
+        "desc": "Nursing Self Concept"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79580",
+        "desc": "Nursing: Children"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79581",
+        "desc": "Nutrition"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79582",
+        "desc": "Orient To Hlth Sci"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79583",
+        "desc": "Orientation To Healt"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79584",
+        "desc": "PN Fundamentals of Nursing"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79585",
+        "desc": "PN Medical Surgical Nursing II"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79586",
+        "desc": "PN State Board Review"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79587",
+        "desc": "Pharmacology"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79588",
+        "desc": "Pn Fundmentls Clinic"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79589",
+        "desc": "Pn Mch/Psyc Clinical"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79590",
+        "desc": "Pn Med Surg Clinical"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79591",
+        "desc": "Pn Med Surg I Skills"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79592",
+        "desc": "Pn Med Surg Nurs II"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79593",
+        "desc": "Pn Nursing Cl II Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79594",
+        "desc": "Pn Pharmacol/Calcu"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79595",
+        "desc": "Pn Skills Lab I"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79596",
+        "desc": "Pn Skills Lab III"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79597",
+        "desc": "Pn/Basic Skills Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79598",
+        "desc": "Pn/Nursing I Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79599",
+        "desc": "Pn/Nursing II Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79600",
+        "desc": "Pra Nur Chld Fam Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79601",
+        "desc": "Pra Nur Chld Fam Sem"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79602",
+        "desc": "Pra Nur Fun Skls Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79603",
+        "desc": "Pra Nur Men Hl Re La"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79604",
+        "desc": "Pra Nur Men Hl Reh S"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79605",
+        "desc": "Pra Nur Men Hl Rehab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79606",
+        "desc": "Prac Nur Chldbng Fam"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79607",
+        "desc": "Prac Nur Fun Skl Sm"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79608",
+        "desc": "Prac Nur Fund Skills"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79609",
+        "desc": "Prac Nur Ped Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79610",
+        "desc": "Pract Nur Ped Sem"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79611",
+        "desc": "Pract Nur Pediatric"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79612",
+        "desc": "Prin Prac Prim Nurs"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79613",
+        "desc": "Prin Pract Prim Care"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79614",
+        "desc": "Pro Basic Hum Needs"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79615",
+        "desc": "Process Of Aging I"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79616",
+        "desc": "Prof Nrsng Mng II La"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79617",
+        "desc": "Prof Nurs/Trends Health Care"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79618",
+        "desc": "Prof Nurs: Past/Pres"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79619",
+        "desc": "Psyc Mental Hlth Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79620",
+        "desc": "Psychology of  Mental Health"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79621",
+        "desc": "Psychosocial Health"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79622",
+        "desc": "Reconstructive Nursi"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79623",
+        "desc": "Rn Clinical Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79624",
+        "desc": "Rn Skills La"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79625",
+        "desc": "Rn Skills Lab"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79626",
+        "desc": "Rn Skills Lab II"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79627",
+        "desc": "Rn Skills Lab III"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79628",
+        "desc": "Rn Skills Lab IV"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79629",
+        "desc": "Rsch Mngt Leadership"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79630",
+        "desc": "Sci Prin Commu Hlth"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79631",
+        "desc": "Scie Princ Comm Hlt"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79632",
+        "desc": "Seminar"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79633",
+        "desc": "Testing"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79634",
+        "desc": "The Chld Bearing Fam"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79635",
+        "desc": "Tran Nur Inner Ct"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79636",
+        "desc": "Tran Nur Inner Ct I"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79637",
+        "desc": "Tran Nur Inner Ct II"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79638",
+        "desc": "Tran To Nur Inner Ct"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79639",
+        "desc": "Tran To Pro Nur Prac"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79640",
+        "desc": "Trans To Nur"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79641",
+        "desc": "Trans To Nur II"
+    },
+    {
+        "major": "NURS",
+        "room_num": "79642",
+        "desc": "Transition to Nursing Practice"
+    }
+]

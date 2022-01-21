@@ -1,0 +1,22 @@
+[
+    {
+        "major": "ACCT",
+        "room_num": "80313",
+        "desc": "Budgeting/Managerial Account"
+    },
+    {
+        "major": "ACCT",
+        "room_num": "80314",
+        "desc": "Financial Accounting I"
+    },
+    {
+        "major": "ACCT",
+        "room_num": "80315",
+        "desc": "Financial Accounting II"
+    },
+    {
+        "major": "ACCT",
+        "room_num": "80316",
+        "desc": "Intro to Financial Mgmnt"
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75513",
+        "room_desc": "CUNY Permit 0.5 Credits"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75514",
+        "room_desc": "Grad Permit .5 Credit"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75515",
+        "room_desc": "Grad Permit 1 Credit"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75516",
+        "room_desc": "Grad Permit 10 Credits"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75517",
+        "room_desc": "Grad Permit 2 Credits"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75518",
+        "room_desc": "Grad Permit 3 Credits"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75519",
+        "room_desc": "Grad Permit 4 Credits"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75520",
+        "room_desc": "Grad Permit 5 Credits"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75521",
+        "room_desc": "Grad Permit 6 Credits"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75522",
+        "room_desc": "Grad Permit 7 Credits"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75523",
+        "room_desc": "Grad Permit 8 Credits"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75524",
+        "room_desc": "NON CUNY 3 Credit Perm Course"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75525",
+        "room_desc": "NON CUNY Permit Course"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75526",
+        "room_desc": "Non-Cuny 6 Cr Permit Course"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75527",
+        "room_desc": "Permit Course"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75528",
+        "room_desc": "Permit Course .5 Credits"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75529",
+        "room_desc": "Permit Course 1 Credit"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75530",
+        "room_desc": "Permit Course 10 Credits"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75531",
+        "room_desc": "Permit Course 12 Credits"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75532",
+        "room_desc": "Permit Course 3 Credits"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75533",
+        "room_desc": "Permit Course 4 Credits"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75534",
+        "room_desc": "Permit Course 5 Credits"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75535",
+        "room_desc": "Permit Course 6 Credits"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75536",
+        "room_desc": "Permit Course 7 Credits"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75537",
+        "room_desc": "Permit Course 8 Credits"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75538",
+        "room_desc": "Permit Course 9 Credits"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "75539",
+        "room_desc": "Permit Course II Credits"
+    }
+]

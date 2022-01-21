@@ -1,0 +1,27 @@
+[
+    {
+        "major": "POLI",
+        "room_num": "82632",
+        "desc": "Elementary Polish I"
+    },
+    {
+        "major": "POLI",
+        "room_num": "82633",
+        "desc": "Elementary Polish II"
+    },
+    {
+        "major": "POLI",
+        "room_num": "82634",
+        "desc": "Intermediate Polish"
+    },
+    {
+        "major": "POLI",
+        "room_num": "82635",
+        "desc": "Modern Polish Literature"
+    },
+    {
+        "major": "POLI",
+        "room_num": "82636",
+        "desc": "Polish for Heritage Speakers"
+    }
+]

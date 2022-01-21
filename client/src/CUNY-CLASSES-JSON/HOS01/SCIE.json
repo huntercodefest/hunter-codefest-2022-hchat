@@ -1,0 +1,17 @@
+[
+    {
+        "major": "SCIE",
+        "room_num": "65016",
+        "desc": "Concepts In Science"
+    },
+    {
+        "major": "SCIE",
+        "room_num": "65017",
+        "desc": "Concepts Of Sci 2"
+    },
+    {
+        "major": "SCIE",
+        "room_num": "65018",
+        "desc": "Introduction to Science"
+    }
+]

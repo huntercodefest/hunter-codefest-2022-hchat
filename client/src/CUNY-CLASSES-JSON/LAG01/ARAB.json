@@ -1,0 +1,42 @@
+[
+    {
+        "major": "ARAB",
+        "room_num": "81222",
+        "desc": "Arab Cinema"
+    },
+    {
+        "major": "ARAB",
+        "room_num": "81223",
+        "desc": "Arab Lit Trans"
+    },
+    {
+        "major": "ARAB",
+        "room_num": "81224",
+        "desc": "Arabic for Heritage Speakers"
+    },
+    {
+        "major": "ARAB",
+        "room_num": "81225",
+        "desc": "Elementary Arabic I"
+    },
+    {
+        "major": "ARAB",
+        "room_num": "81226",
+        "desc": "Elementary Arabic II"
+    },
+    {
+        "major": "ARAB",
+        "room_num": "81227",
+        "desc": "Intermediate Arabic"
+    },
+    {
+        "major": "ARAB",
+        "room_num": "81228",
+        "desc": "Intermediate Arabic 2"
+    },
+    {
+        "major": "ARAB",
+        "room_num": "81229",
+        "desc": "Modern Arabic Literature"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "major": "CMSC",
+        "room_num": "68882",
+        "desc": "Computer Science for Everyone"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "68883",
+        "desc": "Data Structures"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "68884",
+        "desc": "Discrete Mathematics I"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "68885",
+        "desc": "Discrete Mathematics II"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "68886",
+        "desc": "Intro Comptr Prgmg I"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "68887",
+        "desc": "Intro Comptr Prog II"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "68888",
+        "desc": "Intro to Object Prog with Java"
+    }
+]

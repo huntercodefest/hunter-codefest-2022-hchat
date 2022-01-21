@@ -1,0 +1,42 @@
+[
+    {
+        "major": "PERM",
+        "room_num": "63857",
+        "desc": "Permit 1 Credit"
+    },
+    {
+        "major": "PERM",
+        "room_num": "63858",
+        "desc": "Permit 2 Credits"
+    },
+    {
+        "major": "PERM",
+        "room_num": "63859",
+        "desc": "Permit 2.5 Credits"
+    },
+    {
+        "major": "PERM",
+        "room_num": "63860",
+        "desc": "Permit 3 Credits"
+    },
+    {
+        "major": "PERM",
+        "room_num": "63861",
+        "desc": "Permit 4 Credits"
+    },
+    {
+        "major": "PERM",
+        "room_num": "63862",
+        "desc": "Permit 5 Credits"
+    },
+    {
+        "major": "PERM",
+        "room_num": "63863",
+        "desc": "Permit 6 Credits"
+    },
+    {
+        "major": "PERM",
+        "room_num": "63864",
+        "desc": "Permit Course"
+    }
+]

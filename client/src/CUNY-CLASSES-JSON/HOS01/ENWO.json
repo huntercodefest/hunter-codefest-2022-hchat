@@ -1,0 +1,42 @@
+[
+    {
+        "major": "ENWO",
+        "room_num": "64720",
+        "desc": "Core English Workshop"
+    },
+    {
+        "major": "ENWO",
+        "room_num": "64721",
+        "desc": "Core Reading & Writing (WKSP)"
+    },
+    {
+        "major": "ENWO",
+        "room_num": "64722",
+        "desc": "Core Reading Workshop"
+    },
+    {
+        "major": "ENWO",
+        "room_num": "64723",
+        "desc": "Reading & Composit. (SGI-WKSP)"
+    },
+    {
+        "major": "ENWO",
+        "room_num": "64724",
+        "desc": "Reading & Composition (WKSP)"
+    },
+    {
+        "major": "ENWO",
+        "room_num": "64725",
+        "desc": "Reading & Writing (WKSP)"
+    },
+    {
+        "major": "ENWO",
+        "room_num": "64726",
+        "desc": "Writing & Composit. (SGI-WKSP)"
+    },
+    {
+        "major": "ENWO",
+        "room_num": "64727",
+        "desc": "Writing & Composition (WKSP)"
+    }
+]

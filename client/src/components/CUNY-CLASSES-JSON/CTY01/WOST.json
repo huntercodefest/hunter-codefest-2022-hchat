@@ -1,0 +1,962 @@
+[
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45243",
+        "room_desc": "18th C Women Writrs"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45244",
+        "room_desc": "20th Century Women Writers"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45245",
+        "room_desc": "Activist Practicum"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45246",
+        "room_desc": "Adulthood & Aging"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45247",
+        "room_desc": "Af-Am Labor History"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45248",
+        "room_desc": "Amer Cult Patterns"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45249",
+        "room_desc": "Amer Hlth Care Sys"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45250",
+        "room_desc": "Anth Hlth & Healing"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45251",
+        "room_desc": "Anth Of Aging"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45252",
+        "room_desc": "Anth Of Law"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45253",
+        "room_desc": "Anth Of Urban Areas"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45254",
+        "room_desc": "Anthropology of Gender & Sexua"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45255",
+        "room_desc": "Asians In America"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45256",
+        "room_desc": "Asn Cty: Trad-Mdrnsm"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45257",
+        "room_desc": "Autoethnography: Cultural Anal"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45258",
+        "room_desc": "Bio-Cultural Anth"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45259",
+        "room_desc": "Black Latina/x Feminisms in th"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45260",
+        "room_desc": "Black Power Women"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45261",
+        "room_desc": "Blancas45262: WOST,\"Career Planning"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45263",
+        "room_desc": "Carib Immigration"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45264",
+        "room_desc": "Caribbean Politics"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45265",
+        "room_desc": "Caribbean Religions"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45266",
+        "room_desc": "Children\u2019s Lit"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45267",
+        "room_desc": "Chn Fam-Marr-Knshp"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45268",
+        "room_desc": "Coming of Age in the African D"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45269",
+        "room_desc": "Constructng Genders"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45270",
+        "room_desc": "Contemporary Black Family"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45271",
+        "room_desc": "Crime In Blk Comm"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45272",
+        "room_desc": "Criminalization and Mass Incar"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45273",
+        "room_desc": "Cross-Cultural Perspectives"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45274",
+        "room_desc": "Cult Change & Modernization"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45275",
+        "room_desc": "Cult45276: WOST,\"Culture & Health"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45277",
+        "room_desc": "Daughters of Immigrants: Inequ"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45278",
+        "room_desc": "Decolonizing Research Methodol"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45279",
+        "room_desc": "Disaster Capitalism and Creati"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45280",
+        "room_desc": "Dynamics Human Ecol"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45281",
+        "room_desc": "Education in Black Communities"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45282",
+        "room_desc": "Entrepreneurship: Women & Div"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45283",
+        "room_desc": "Entrepreneurship: Women & Dive"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45284",
+        "room_desc": "Ethnic Families U S"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45285",
+        "room_desc": "Family Psych"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45286",
+        "room_desc": "Family Relationshps"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45287",
+        "room_desc": "Feminist Thought"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45288",
+        "room_desc": "From the Cakewalk to the Catwa"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45289",
+        "room_desc": "From the Harem to the Midan"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45290",
+        "room_desc": "Gender Based Violence & Rel"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45291",
+        "room_desc": "Gender Conflict & Dialogue"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45292",
+        "room_desc": "Gender Violence in War & Peace"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45293",
+        "room_desc": "Gender and Sexuality in Caribb"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45294",
+        "room_desc": "Gender and Women in the Middle"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45295",
+        "room_desc": "Gender45296: WOST,\"Global Fundamentalisms & Gende"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45297",
+        "room_desc": "Global Islamic Women"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45298",
+        "room_desc": "Global Lockdown"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45299",
+        "room_desc": "Guerilla Feminism"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45300",
+        "room_desc": "Harlem Community"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45301",
+        "room_desc": "Heredity-Race-Intel"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45302",
+        "room_desc": "Hispanic Wmn Wrtrs"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45303",
+        "room_desc": "Hispanic Women"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45304",
+        "room_desc": "Hlth Cr Plng-Hsp Ex"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45305",
+        "room_desc": "Hlth-Iss-Alternatvs"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45306",
+        "room_desc": "Human Rights Narratives"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45307",
+        "room_desc": "Imag Asn Wm-Flm/Lit"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45308",
+        "room_desc": "Img Wmn Hollywd Flm"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45309",
+        "room_desc": "Img Wmn Med-Ren-Lit"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45310",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45311",
+        "room_desc": "Indiv-Soc Found I R"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45312",
+        "room_desc": "Infancy & Childhood"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45313",
+        "room_desc": "Intersections: Space45314: WOST,\"Introduction to Women of Color"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45315",
+        "room_desc": "Islamic Cult & Iss"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45316",
+        "room_desc": "Japanese Empire"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45317",
+        "room_desc": "Juvenile Delinquency"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45318",
+        "room_desc": "LGBTQ History45319: WOST,\"LGTBQ World History"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45320",
+        "room_desc": "Language and Gender"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45321",
+        "room_desc": "Latin Amer Women"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45322",
+        "room_desc": "Latina & Carib Wrtrs"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45323",
+        "room_desc": "Latina Women Transition"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45324",
+        "room_desc": "Latinas in Transition & Transl"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45325",
+        "room_desc": "Latinas\u2019 Reproductive Rghts"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45326",
+        "room_desc": "Living a Feminist Life/Writing"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45327",
+        "room_desc": "Lng/Dl Crs-Cul Pers"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45328",
+        "room_desc": "Mental Health Care"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45329",
+        "room_desc": "Middle East Under Islam"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45330",
+        "room_desc": "Modern Egypt"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45331",
+        "room_desc": "Modern Middle East"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45332",
+        "room_desc": "N American Indians"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45333",
+        "room_desc": "N/A"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45334",
+        "room_desc": "Non-Fiction Publishing"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45335",
+        "room_desc": "Order in the Courtroom"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45336",
+        "room_desc": "Parent-Infant Reltn"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45337",
+        "room_desc": "People Of Mid East"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45338",
+        "room_desc": "Peoples Of Africa"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45339",
+        "room_desc": "Peoples Of Carib"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45340",
+        "room_desc": "Peoples Of Lat Amer"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45341",
+        "room_desc": "Performing Genders"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45342",
+        "room_desc": "Performing Genders and Sexuali"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45343",
+        "room_desc": "Performing Queerness"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45344",
+        "room_desc": "Political Writing and Proj Dev"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45345",
+        "room_desc": "Post Trauma Recovery (PTR)"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45346",
+        "room_desc": "Practice of Witness/Writing"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45347",
+        "room_desc": "Psy Prsp:Sxl Orient"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45348",
+        "room_desc": "Psych Of Religion"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45349",
+        "room_desc": "Psychology Human Sexual Behv"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45350",
+        "room_desc": "Psychology Of Women"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45351",
+        "room_desc": "Race and Racism"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45352",
+        "room_desc": "Race45353: WOST,\"Racialization: Single Mothers45354: WOST,\"Rdngs Feminist Thry"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45355",
+        "room_desc": "Religions Of India"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45356",
+        "room_desc": "Rsrch Sem: Wmn Wrk Fam"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45357",
+        "room_desc": "Sel Top in Women\u2019s Studies"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45358",
+        "room_desc": "Sem: Women\u2019s Studies"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45359",
+        "room_desc": "Sem:Feminist Theory"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45360",
+        "room_desc": "Sex & Soc Change"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45361",
+        "room_desc": "Sex & Social Change"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45362",
+        "room_desc": "Soc Of Childhood"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45363",
+        "room_desc": "Soc Of Sexual Behav"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45364",
+        "room_desc": "Social Class"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45365",
+        "room_desc": "Social Movements45366: WOST,\"Social Organization"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45367",
+        "room_desc": "Social Problems"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45368",
+        "room_desc": "Sociology of Gender"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45369",
+        "room_desc": "Sociology of Sexualities"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45370",
+        "room_desc": "Somebdy Sing A Black Girl Song"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45371",
+        "room_desc": "Span Amer Civilization I"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45372",
+        "room_desc": "The Black Woman"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45373",
+        "room_desc": "The Enslavement of Women"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45374",
+        "room_desc": "The Female Fighter"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45375",
+        "room_desc": "The Feminist Canon"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45376",
+        "room_desc": "The Holocaust"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45377",
+        "room_desc": "The Moslem Woman"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45378",
+        "room_desc": "Visual Anthropology"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45379",
+        "room_desc": "Witches and Brujas"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45380",
+        "room_desc": "Witches and Other Dangerous Wo"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45381",
+        "room_desc": "Wmen of Color & the Pol of Exp"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45382",
+        "room_desc": "Wmn Cross-Cul Persp"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45383",
+        "room_desc": "Wmn Dvlpng Nations"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45384",
+        "room_desc": "Wmn In Mid East Hst"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45385",
+        "room_desc": "Wmn Nvlst Of 19th C"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45386",
+        "room_desc": "Wmn-Mid Age/Renaiss"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45387",
+        "room_desc": "Wmn/Hlth:Lat-Others"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45388",
+        "room_desc": "Wmn:Vlatn Hm Rts"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45389",
+        "room_desc": "Wmns Lit-Wmn In Lit"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45390",
+        "room_desc": "Women & Health"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45391",
+        "room_desc": "Women & Health 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45392",
+        "room_desc": "Women & Politics"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45393",
+        "room_desc": "Women & Work"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45394",
+        "room_desc": "Women And Violence"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45395",
+        "room_desc": "Women And Work"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45396",
+        "room_desc": "Women In 18th C Lit"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45397",
+        "room_desc": "Women In Antiquity"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45398",
+        "room_desc": "Women In Modrn Hist"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45399",
+        "room_desc": "Women In Science"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45400",
+        "room_desc": "Women Peace & Sec"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45401",
+        "room_desc": "Women Writing Culture"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45402",
+        "room_desc": "Women and Art I"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45403",
+        "room_desc": "Women and Physical Education"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45404",
+        "room_desc": "Women and Politics"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45405",
+        "room_desc": "Women45406: WOST,\"Womens Role"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45407",
+        "room_desc": "Womens Studies"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45408",
+        "room_desc": "Women\u2019S Role"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45409",
+        "room_desc": "Women\u2019s and Gender Mechanisms"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45410",
+        "room_desc": "World Fmnist Lit"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "45411",
+        "room_desc": "Wtchcrft-Rel-Magic"
+    }
+]

@@ -1,0 +1,442 @@
+[
+    {
+        "major": "ART",
+        "room_num": "62783",
+        "desc": "3-Dimenstional Design"
+    },
+    {
+        "major": "ART",
+        "room_num": "62784",
+        "desc": "Art Hist Ancient"
+    },
+    {
+        "major": "ART",
+        "room_num": "62785",
+        "desc": "Art Hist Renaissance"
+    },
+    {
+        "major": "ART",
+        "room_num": "62786",
+        "desc": "Art and Activism"
+    },
+    {
+        "major": "ART",
+        "room_num": "62787",
+        "desc": "Art in England"
+    },
+    {
+        "major": "ART",
+        "room_num": "62788",
+        "desc": "Art in Italy"
+    },
+    {
+        "major": "ART",
+        "room_num": "62789",
+        "desc": "Art in the Pacific"
+    },
+    {
+        "major": "ART",
+        "room_num": "62790",
+        "desc": "Art of Greece"
+    },
+    {
+        "major": "ART",
+        "room_num": "62791",
+        "desc": "Asian Art thru Relig Phi & Pol"
+    },
+    {
+        "major": "ART",
+        "room_num": "62792",
+        "desc": "Ceramic Design"
+    },
+    {
+        "major": "ART",
+        "room_num": "62793",
+        "desc": "Ceramic Sculpture"
+    },
+    {
+        "major": "ART",
+        "room_num": "62794",
+        "desc": "Ceramics I"
+    },
+    {
+        "major": "ART",
+        "room_num": "62795",
+        "desc": "Ceramics II"
+    },
+    {
+        "major": "ART",
+        "room_num": "62796",
+        "desc": "Coding for Designers"
+    },
+    {
+        "major": "ART",
+        "room_num": "62797",
+        "desc": "Computer Art"
+    },
+    {
+        "major": "ART",
+        "room_num": "62798",
+        "desc": "Computer Art II"
+    },
+    {
+        "major": "ART",
+        "room_num": "62799",
+        "desc": "Design Foundations"
+    },
+    {
+        "major": "ART",
+        "room_num": "62800",
+        "desc": "Designing With Type"
+    },
+    {
+        "major": "ART",
+        "room_num": "62801",
+        "desc": "Digital Illustration"
+    },
+    {
+        "major": "ART",
+        "room_num": "62802",
+        "desc": "Digital Publication Design"
+    },
+    {
+        "major": "ART",
+        "room_num": "62803",
+        "desc": "Drawing I"
+    },
+    {
+        "major": "ART",
+        "room_num": "62804",
+        "desc": "Drawing II"
+    },
+    {
+        "major": "ART",
+        "room_num": "62805",
+        "desc": "Figure Modeling"
+    },
+    {
+        "major": "ART",
+        "room_num": "62806",
+        "desc": "Figure Modeling 2"
+    },
+    {
+        "major": "ART",
+        "room_num": "62807",
+        "desc": "Figure Modeling and Carving"
+    },
+    {
+        "major": "ART",
+        "room_num": "62808",
+        "desc": "Figure Painting"
+    },
+    {
+        "major": "ART",
+        "room_num": "62809",
+        "desc": "Glbl Contemp: Art Dvrs & Expr"
+    },
+    {
+        "major": "ART",
+        "room_num": "62810",
+        "desc": "Graphic Design Portfolio"
+    },
+    {
+        "major": "ART",
+        "room_num": "62811",
+        "desc": "Graphic Design and Advertising"
+    },
+    {
+        "major": "ART",
+        "room_num": "62812",
+        "desc": "History of American Art"
+    },
+    {
+        "major": "ART",
+        "room_num": "62813",
+        "desc": "History of Modern Sculpture"
+    },
+    {
+        "major": "ART",
+        "room_num": "62814",
+        "desc": "History of Women In Art"
+    },
+    {
+        "major": "ART",
+        "room_num": "62815",
+        "desc": "Human Centered Design"
+    },
+    {
+        "major": "ART",
+        "room_num": "62816",
+        "desc": "I.S. In Public Art"
+    },
+    {
+        "major": "ART",
+        "room_num": "62817",
+        "desc": "I.S. Studio Arts"
+    },
+    {
+        "major": "ART",
+        "room_num": "62818",
+        "desc": "IS Experimental Typography"
+    },
+    {
+        "major": "ART",
+        "room_num": "62819",
+        "desc": "IS Illustration"
+    },
+    {
+        "major": "ART",
+        "room_num": "62820",
+        "desc": "IS Sculpture II"
+    },
+    {
+        "major": "ART",
+        "room_num": "62821",
+        "desc": "IS Survey of Art History"
+    },
+    {
+        "major": "ART",
+        "room_num": "62822",
+        "desc": "Illustration"
+    },
+    {
+        "major": "ART",
+        "room_num": "62823",
+        "desc": "Illustration Style"
+    },
+    {
+        "major": "ART",
+        "room_num": "62824",
+        "desc": "Ind Study - Studio Arts"
+    },
+    {
+        "major": "ART",
+        "room_num": "62825",
+        "desc": "Indep Study: Graphic Design"
+    },
+    {
+        "major": "ART",
+        "room_num": "62826",
+        "desc": "Independent Study - Ceramics"
+    },
+    {
+        "major": "ART",
+        "room_num": "62827",
+        "desc": "Independent Study - Drawing"
+    },
+    {
+        "major": "ART",
+        "room_num": "62828",
+        "desc": "Independent Study - Painting"
+    },
+    {
+        "major": "ART",
+        "room_num": "62829",
+        "desc": "Independent Study - Sculpture"
+    },
+    {
+        "major": "ART",
+        "room_num": "62830",
+        "desc": "Independent Study-Photography"
+    },
+    {
+        "major": "ART",
+        "room_num": "62831",
+        "desc": "Int Figure Modeling"
+    },
+    {
+        "major": "ART",
+        "room_num": "62832",
+        "desc": "Int Watercolor Ptg"
+    },
+    {
+        "major": "ART",
+        "room_num": "62833",
+        "desc": "Intermediate Landscape Paint"
+    },
+    {
+        "major": "ART",
+        "room_num": "62834",
+        "desc": "Intro Welded Sculp"
+    },
+    {
+        "major": "ART",
+        "room_num": "62835",
+        "desc": "Is Gr. D. Internship"
+    },
+    {
+        "major": "ART",
+        "room_num": "62836",
+        "desc": "Is Honors Design Stu"
+    },
+    {
+        "major": "ART",
+        "room_num": "62837",
+        "desc": "Is Prntmkg & Design"
+    },
+    {
+        "major": "ART",
+        "room_num": "62838",
+        "desc": "Is Prob Studio Arts"
+    },
+    {
+        "major": "ART",
+        "room_num": "62839",
+        "desc": "Landscape Painting"
+    },
+    {
+        "major": "ART",
+        "room_num": "62840",
+        "desc": "Landscape Painting 1"
+    },
+    {
+        "major": "ART",
+        "room_num": "62841",
+        "desc": "Latin American Art"
+    },
+    {
+        "major": "ART",
+        "room_num": "62842",
+        "desc": "Medieval Art"
+    },
+    {
+        "major": "ART",
+        "room_num": "62843",
+        "desc": "Mixed Media"
+    },
+    {
+        "major": "ART",
+        "room_num": "62844",
+        "desc": "Modern Architecture"
+    },
+    {
+        "major": "ART",
+        "room_num": "62845",
+        "desc": "Nineteenth-Century Art"
+    },
+    {
+        "major": "ART",
+        "room_num": "62846",
+        "desc": "Painting & Mixed Med"
+    },
+    {
+        "major": "ART",
+        "room_num": "62847",
+        "desc": "Painting I"
+    },
+    {
+        "major": "ART",
+        "room_num": "62848",
+        "desc": "Painting II"
+    },
+    {
+        "major": "ART",
+        "room_num": "62849",
+        "desc": "Photography I"
+    },
+    {
+        "major": "ART",
+        "room_num": "62850",
+        "desc": "Photography II"
+    },
+    {
+        "major": "ART",
+        "room_num": "62851",
+        "desc": "Photojournalism I"
+    },
+    {
+        "major": "ART",
+        "room_num": "62852",
+        "desc": "Photojournalism II"
+    },
+    {
+        "major": "ART",
+        "room_num": "62853",
+        "desc": "Photoshop as a Design Tool"
+    },
+    {
+        "major": "ART",
+        "room_num": "62854",
+        "desc": "Renaissance Art"
+    },
+    {
+        "major": "ART",
+        "room_num": "62855",
+        "desc": "Sculpture I"
+    },
+    {
+        "major": "ART",
+        "room_num": "62856",
+        "desc": "Sculpture II"
+    },
+    {
+        "major": "ART",
+        "room_num": "62857",
+        "desc": "Still Life Painting"
+    },
+    {
+        "major": "ART",
+        "room_num": "62858",
+        "desc": "Survey of Art History"
+    },
+    {
+        "major": "ART",
+        "room_num": "62859",
+        "desc": "Survey of Latin American Art"
+    },
+    {
+        "major": "ART",
+        "room_num": "62860",
+        "desc": "Survey of Non-Western Art"
+    },
+    {
+        "major": "ART",
+        "room_num": "62861",
+        "desc": "The Art of 3D Animation"
+    },
+    {
+        "major": "ART",
+        "room_num": "62862",
+        "desc": "The Art of Animation"
+    },
+    {
+        "major": "ART",
+        "room_num": "62863",
+        "desc": "The Art of Digital Photography"
+    },
+    {
+        "major": "ART",
+        "room_num": "62864",
+        "desc": "The Art of Storyboarding"
+    },
+    {
+        "major": "ART",
+        "room_num": "62865",
+        "desc": "Transparant Water Color"
+    },
+    {
+        "major": "ART",
+        "room_num": "62866",
+        "desc": "Twentieth-Century Art"
+    },
+    {
+        "major": "ART",
+        "room_num": "62867",
+        "desc": "Typography"
+    },
+    {
+        "major": "ART",
+        "room_num": "62868",
+        "desc": "Virtual Design Studio"
+    },
+    {
+        "major": "ART",
+        "room_num": "62869",
+        "desc": "Watercolor Painting"
+    },
+    {
+        "major": "ART",
+        "room_num": "62870",
+        "desc": "Web Page Design"
+    }
+]

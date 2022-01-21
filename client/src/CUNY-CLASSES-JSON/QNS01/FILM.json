@@ -1,0 +1,27 @@
+[
+    {
+        "major": "FILM",
+        "room_num": "26914",
+        "desc": "Film Genres"
+    },
+    {
+        "major": "FILM",
+        "room_num": "26915",
+        "desc": "Special Topics"
+    },
+    {
+        "major": "FILM",
+        "room_num": "26916",
+        "desc": "Vt:Film Genre"
+    },
+    {
+        "major": "FILM",
+        "room_num": "26917",
+        "desc": "Vt:Great Directors"
+    },
+    {
+        "major": "FILM",
+        "room_num": "26918",
+        "desc": "Vt:Special Topics"
+    }
+]

@@ -1,0 +1,446 @@
+[
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81466",
+        "room_desc": "Adv Database"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81467",
+        "room_desc": "Advanced Network Sec"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81468",
+        "room_desc": "Advanced Unix"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81469",
+        "room_desc": "Advanced Unix Sys Ad"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81470",
+        "room_desc": "Advanced Window Nt"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81471",
+        "room_desc": "Assemb Lang Comp Sci"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81472",
+        "room_desc": "Assembler Programing Language"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81473",
+        "room_desc": "C/C++ Programming"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81474",
+        "room_desc": "Cics With Cobol"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81475",
+        "room_desc": "Cis Indepedent Study"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81476",
+        "room_desc": "Comp Electronics 2"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81477",
+        "room_desc": "Comparative Operating Systems"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81478",
+        "room_desc": "Comput Interfacing"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81479",
+        "room_desc": "Comput Project Lab"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81480",
+        "room_desc": "Computer Architecture"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81481",
+        "room_desc": "Computer Electronics I"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81482",
+        "room_desc": "Computer Electronics II"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81483",
+        "room_desc": "Computer Forensics"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81484",
+        "room_desc": "Computer Graphics"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81485",
+        "room_desc": "Computer Logic 1"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81486",
+        "room_desc": "Computer Logic 2"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81487",
+        "room_desc": "Computer Repair"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81488",
+        "room_desc": "Computer Topics 2"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81489",
+        "room_desc": "Computers and Society"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81490",
+        "room_desc": "Data Advanced Topics"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81491",
+        "room_desc": "Data Base Applications"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81492",
+        "room_desc": "Data Center Oper"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81493",
+        "room_desc": "Data Communications"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81494",
+        "room_desc": "Data Structures"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81495",
+        "room_desc": "Databases"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81496",
+        "room_desc": "Dbase Concepts&Prog"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81497",
+        "room_desc": "Decision Spport Sys"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81498",
+        "room_desc": "Dynamic Web Development"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81499",
+        "room_desc": "E-Commerce Technology"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81500",
+        "room_desc": "Educational Computing"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81501",
+        "room_desc": "Fortran Programming"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81502",
+        "room_desc": "Global Info. Systems"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81503",
+        "room_desc": "Ind Study D.P."
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81504",
+        "room_desc": "Independent Sty D.P."
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81505",
+        "room_desc": "Integrated Software Systems"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81506",
+        "room_desc": "Internet Game Design"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81507",
+        "room_desc": "Internet Skills"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81508",
+        "room_desc": "Internet Telephony"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81509",
+        "room_desc": "Internet Video"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81510",
+        "room_desc": "Intro Computer Sci"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81511",
+        "room_desc": "Intro To Bioinformat"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81512",
+        "room_desc": "Intro To Computers"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81513",
+        "room_desc": "Intro To Desktop Pub"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81514",
+        "room_desc": "Introduction to Media"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81515",
+        "room_desc": "Introduction to Teleprocessing"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81516",
+        "room_desc": "Msdos Concpts & Prog"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81517",
+        "room_desc": "Multimedia/Web Desgn"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81518",
+        "room_desc": "Mvs/Os Control Lang"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81519",
+        "room_desc": "Network Operations"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81520",
+        "room_desc": "Network Security"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81521",
+        "room_desc": "Network and Systems Security"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81522",
+        "room_desc": "Novell Nos"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81523",
+        "room_desc": "Object-Oriented Programming"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81524",
+        "room_desc": "Presentation Graphics"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81525",
+        "room_desc": "Prin Of Prog/Basic"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81526",
+        "room_desc": "Rpg Programming"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81527",
+        "room_desc": "Spreadsheet Applications"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81528",
+        "room_desc": "Structured Cobol"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81529",
+        "room_desc": "Systems Analysis and Design"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81530",
+        "room_desc": "Top In Cis: Win Pgm"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81531",
+        "room_desc": "Topics In Cis"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81532",
+        "room_desc": "Topics In Cis (Tba)"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81533",
+        "room_desc": "Topics In Cis:Html"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81534",
+        "room_desc": "Topics: Cisco Router"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81535",
+        "room_desc": "Unix Network Operating Systems"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81536",
+        "room_desc": "Web Animation"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81537",
+        "room_desc": "Web Programming I"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81538",
+        "room_desc": "Web Programming III"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "81539",
+        "room_desc": "Windows Nt Nos"
+    }
+]

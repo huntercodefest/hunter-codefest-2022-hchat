@@ -1,0 +1,818 @@
+[
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53449",
+        "room_desc": "19 Cent Italian Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53450",
+        "room_desc": "19&20C Ital Wmn Wrte"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53451",
+        "room_desc": "20th Cen Persp on the Renais"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53452",
+        "room_desc": "Advanced Italian Composition"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53453",
+        "room_desc": "Advanced Italian Grammar"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53454",
+        "room_desc": "Alleg Trans 20th C Ital Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53455",
+        "room_desc": "Ariosto"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53456",
+        "room_desc": "Art of Hum of Manzni"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53457",
+        "room_desc": "Boccaccio"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53458",
+        "room_desc": "Boccaccio It.Novella"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53459",
+        "room_desc": "Boccaccios Decameron"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53460",
+        "room_desc": "Carduci/Danunz/Pasco"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53461",
+        "room_desc": "Con Madnss Mlt Prs"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53462",
+        "room_desc": "Contemporary Ital Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53463",
+        "room_desc": "Croce & His Contemporaries"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53464",
+        "room_desc": "Croce and His Contemporaries"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53465",
+        "room_desc": "Dante 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53466",
+        "room_desc": "Dante Divin Comedy"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53467",
+        "room_desc": "Dante Vit Nuo&Infrno"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53468",
+        "room_desc": "Dantes Inferno"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53469",
+        "room_desc": "Dante\u2019s Inferno"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53470",
+        "room_desc": "Dante\u2019s Paradiso & Major Prose"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53471",
+        "room_desc": "Dante\u2019s Purgatorio"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53472",
+        "room_desc": "Dante\u2019s Vita Nuova and Inferno"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53473",
+        "room_desc": "Dntes Para& Maj Prs"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53474",
+        "room_desc": "Dntes Prgtio&Int Par"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53475",
+        "room_desc": "Dntes Prse & Vta Nva"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53476",
+        "room_desc": "Dnte\u2019s Prgtio & Int Par"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53477",
+        "room_desc": "Elem Ital 1 Aud Vis"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53478",
+        "room_desc": "Elem Ital 2 Aud Vis"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53479",
+        "room_desc": "Elem Ital Convers"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53480",
+        "room_desc": "Elementary Italian 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53481",
+        "room_desc": "Elementary Italian 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53482",
+        "room_desc": "Elena Ferrante"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53483",
+        "room_desc": "Female Gaze over the City"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53484",
+        "room_desc": "Food and Italian Identity"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53485",
+        "room_desc": "Foscolo and Leopardi"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53486",
+        "room_desc": "Gerusalemme Liberata"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53487",
+        "room_desc": "History of Italian Language"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53488",
+        "room_desc": "History of Italian Theater"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53489",
+        "room_desc": "History of Italian Theatre"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53490",
+        "room_desc": "Honors Course in Italian"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53491",
+        "room_desc": "How to Read & Interp Ital Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53492",
+        "room_desc": "In Service"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53493",
+        "room_desc": "Independent Research"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53494",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53495",
+        "room_desc": "Intensive Elementary Italian"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53496",
+        "room_desc": "Intensive Intermediate Italian"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53497",
+        "room_desc": "Inter Ital 2 Aud Vis"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53498",
+        "room_desc": "Intermediate Italian 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53499",
+        "room_desc": "Intermediate Italian I"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53500",
+        "room_desc": "Intro Ital Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53501",
+        "room_desc": "It.Lit:Renaissance"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53502",
+        "room_desc": "Ital Amer Wmn Wrtrs"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53503",
+        "room_desc": "Ital Amer Wmn Wtr & Art"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53504",
+        "room_desc": "Ital Cult:Age Enlght"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53505",
+        "room_desc": "Ital Lit & Cinema"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53506",
+        "room_desc": "Ital Lit 16th-17th CYS"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53507",
+        "room_desc": "Ital Lit:Orig-13 C"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53508",
+        "room_desc": "Ital Lt 16C-Presnt"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53509",
+        "room_desc": "Ital Lyrc Ptry Mid"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53510",
+        "room_desc": "Ital Nov & Th Since 1900"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53511",
+        "room_desc": "Ital Phil&Lit Cr 187"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53512",
+        "room_desc": "Italian Audio and Visual"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53513",
+        "room_desc": "Italian Baroque in Engl"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53514",
+        "room_desc": "Italian Culture 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53515",
+        "room_desc": "Italian Culture 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53516",
+        "room_desc": "Italian Ecocriticism"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53517",
+        "room_desc": "Italian Lit: Origins-XIII Cent"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53518",
+        "room_desc": "Italian Literature and Fascism"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53519",
+        "room_desc": "Italian Novel & Cinema"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53520",
+        "room_desc": "Italian Phonetics and Diction"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53521",
+        "room_desc": "Italian Renaiss"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53522",
+        "room_desc": "Italian Renaissance Comedy"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53523",
+        "room_desc": "Italian Stylistics & Rhetoric"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53524",
+        "room_desc": "Italian Theatre 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53525",
+        "room_desc": "Italian Theatre II"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53526",
+        "room_desc": "Italian Translation"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53527",
+        "room_desc": "Italian Women Writers"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53528",
+        "room_desc": "Italian for Oral Communication"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53529",
+        "room_desc": "Itan Phon & Dic"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53530",
+        "room_desc": "Leopardi"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53531",
+        "room_desc": "Literature & Fascism"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53532",
+        "room_desc": "Lorenzo De Medici"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53533",
+        "room_desc": "Love and Sex in the Baroque"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53534",
+        "room_desc": "Machiavelli"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53535",
+        "room_desc": "Mapping It Nat Consc"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53536",
+        "room_desc": "Mapping Italy Nat Consc"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53537",
+        "room_desc": "Modern Ital Poetry"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53538",
+        "room_desc": "Modern Italian Lyric"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53539",
+        "room_desc": "Modern Italian Novel"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53540",
+        "room_desc": "Modern Italian Short Story"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53541",
+        "room_desc": "Neo-Classic Tradition"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53542",
+        "room_desc": "Past Vw Thr Bnclr of Pr 20th C"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53543",
+        "room_desc": "Petrarch Special Topic"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53544",
+        "room_desc": "Petrarch?s Poetry in Motion"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53545",
+        "room_desc": "Petrarchist Trad:Eur"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53546",
+        "room_desc": "Pirandello&Roots:Mod"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53547",
+        "room_desc": "Poetry & Humanism Petrarchist"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53548",
+        "room_desc": "Pre Resorgimento Per"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53549",
+        "room_desc": "Prose Works of Dante"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53550",
+        "room_desc": "Ptrarch53551: ITAL,\"Renaissance Tragedy"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53552",
+        "room_desc": "Second Language Acquisition"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53553",
+        "room_desc": "Sel Mstrpcs Ital Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53554",
+        "room_desc": "Sem:Ital Lit History"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53555",
+        "room_desc": "Shakespeare\u2019s Italy"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53556",
+        "room_desc": "Sicilian Writers"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53557",
+        "room_desc": "Sp Top: Novella Genre"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53558",
+        "room_desc": "Sp Top:The Baroque"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53559",
+        "room_desc": "Sp Tp: 18th Century"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53560",
+        "room_desc": "Sp Tp: Italian Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53561",
+        "room_desc": "Sp Tp:17th Century"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53562",
+        "room_desc": "Sp Tp:Renaissance"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53563",
+        "room_desc": "Sp Tpc:Novella Genre"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53564",
+        "room_desc": "Sp:Topics Ital. Lit."
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53565",
+        "room_desc": "Spec Topic: Ital Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53566",
+        "room_desc": "Special Topics: 20th Century"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53567",
+        "room_desc": "Special Topics: Renaissance"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53568",
+        "room_desc": "Studies in Dantes"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53569",
+        "room_desc": "Survey Ital Lit 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53570",
+        "room_desc": "Tasso\u2019s Jerusalem"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53571",
+        "room_desc": "Tasso\u2019s Melancholy in Euro Per"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53572",
+        "room_desc": "The 19th Cent: Special Topics"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53573",
+        "room_desc": "The Baroque"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53574",
+        "room_desc": "The Epic Tradition"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53575",
+        "room_desc": "The Modern Italian Lyric"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53576",
+        "room_desc": "The Modern Italian Novel"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53577",
+        "room_desc": "The Modern Italian Theatre"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53578",
+        "room_desc": "The Neapolitan Novels"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53579",
+        "room_desc": "Theory & Pract Transl Ital/Eng"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53580",
+        "room_desc": "Thesis Seminar"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53581",
+        "room_desc": "Translation: Italian & English"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53582",
+        "room_desc": "War & Lit in 20th Cent Italy"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53583",
+        "room_desc": "Women in the City"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53584",
+        "room_desc": "Writ & Read Wrkshp Ital Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "53585",
+        "room_desc": "XX Cent Perspec on Renaissance"
+    }
+]

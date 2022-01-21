@@ -1,0 +1,982 @@
+[
+    {
+        "major": "HONS",
+        "room_num": "53134",
+        "desc": "2nd Generation"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53135",
+        "desc": "Adolescence"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53136",
+        "desc": "Adv Inter Independent Study"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53137",
+        "desc": "Adv Interdiscip Stud"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53138",
+        "desc": "Aesthetics of Everyday Life"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53139",
+        "desc": "Africa Fr 700-1600"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53140",
+        "desc": "Age of Alchemy"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53141",
+        "desc": "American Cities"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53142",
+        "desc": "American Wilderness"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53143",
+        "desc": "Arb Cult & Lit"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53144",
+        "desc": "Archaeology at the Movies"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53145",
+        "desc": "Architecture/Biology"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53146",
+        "desc": "Arst-Mod Cogpsy"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53147",
+        "desc": "Art & Perception"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53148",
+        "desc": "Art and Revolution"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53149",
+        "desc": "Art/Pol 19C France"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53150",
+        "desc": "Art/Relig-India/Iran"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53151",
+        "desc": "Athens & Jerusalem"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53152",
+        "desc": "Behavior & Evolution"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53153",
+        "desc": "Bio & Concepts of Human Nature"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53154",
+        "desc": "Biology and Human Nature"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53155",
+        "desc": "Black Visual Culture"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53156",
+        "desc": "Bodies Using Bodies"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53157",
+        "desc": "Broadway Musical"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53158",
+        "desc": "Camerawork"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53159",
+        "desc": "Cervantes/Velazquez"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53160",
+        "desc": "Chaos"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53161",
+        "desc": "Chin Food Cultures"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53162",
+        "desc": "Christian and Muslim Art"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53163",
+        "desc": "Cognitive Science"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53164",
+        "desc": "Complexity"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53165",
+        "desc": "Constructing India"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53166",
+        "desc": "Contemp Russia53167: HONS,\"Contest&Cultur"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53168",
+        "desc": "Creative Process"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53169",
+        "desc": "Creativity"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53170",
+        "desc": "Cross-Currents 20th C Avant-Ga"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53171",
+        "desc": "Culture Hindu India"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53172",
+        "desc": "Cultures in Conflict"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53173",
+        "desc": "Dante and the Classical World"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53174",
+        "desc": "Dante\u2019s World"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53175",
+        "desc": "Darwin&End Rom"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53176",
+        "desc": "Decadence"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53177",
+        "desc": "Democr & Mass Media"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53178",
+        "desc": "Demography"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53179",
+        "desc": "Discovery of Society"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53180",
+        "desc": "East of Renaissance"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53181",
+        "desc": "Education and Politics"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53182",
+        "desc": "Empire and Print Culture"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53183",
+        "desc": "Encounters with the Other"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53184",
+        "desc": "Energy Future"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53185",
+        "desc": "Energy&Environ"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53186",
+        "desc": "Eng Lit&Soc Radiclsm"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53187",
+        "desc": "Ethics & Economics"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53188",
+        "desc": "Ethics Pub Hl"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53189",
+        "desc": "Eu Soc1000-1400"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53190",
+        "desc": "Evidence and Inference"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53191",
+        "desc": "Evol & Its Critics"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53192",
+        "desc": "Evol Soc Behavr"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53193",
+        "desc": "Evolution and Social Animal"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53194",
+        "desc": "Fall Rom Empir"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53195",
+        "desc": "Family Affairs"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53196",
+        "desc": "Faust: Dark Myth of Modernity"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53197",
+        "desc": "Feminist New Media & Health"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53198",
+        "desc": "Flrnc Undr Mdci"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53199",
+        "desc": "Fn De Siecle Fr"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53200",
+        "desc": "Fresh Honors Colloq"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53201",
+        "desc": "Freud and Philosophy"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53202",
+        "desc": "Gen53203: HONS,\"Gender53204: HONS,\"Geo Emerging Disease"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53205",
+        "desc": "Getting Inside the Head"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53206",
+        "desc": "Glbl Shakespeare"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53207",
+        "desc": "Global Migration"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53208",
+        "desc": "Gods53209: HONS,\"Golden Age of Athens"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53210",
+        "desc": "Goth/Lt&Vs Cult"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53211",
+        "desc": "Grdn Cities:NY"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53212",
+        "desc": "Greek Myths in Arts"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53213",
+        "desc": "Hellenistic World"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53214",
+        "desc": "Hist Phil Plato"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53215",
+        "desc": "Honors: Baroque"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53216",
+        "desc": "Honors: Bio & Values"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53217",
+        "desc": "Hons Writing I"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53218",
+        "desc": "Horror in Film"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53219",
+        "desc": "Hum Rts/Pst-Conf Soc"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53220",
+        "desc": "Human Life History"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53221",
+        "desc": "Human Rights"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53222",
+        "desc": "Image Woman Film/Art"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53223",
+        "desc": "Images of Wonder"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53224",
+        "desc": "Imagnd Epidemic"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53225",
+        "desc": "Immigrant Exper. NYC"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53226",
+        "desc": "Intdis Ind Stdy"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53227",
+        "desc": "Integrtng Irtnl"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53228",
+        "desc": "Intrdis Comptr Appls"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53229",
+        "desc": "Intro Cognt Sci"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53230",
+        "desc": "Islamic City: Archit53231: HONS,\"Jazz Age and Machine Age"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53232",
+        "desc": "Jeanj. Rousseau"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53233",
+        "desc": "Jerusalem Under the Mandate"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53234",
+        "desc": "Land of Hunger"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53235",
+        "desc": "Language and Racism"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53236",
+        "desc": "Latin American Lit & Philo"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53237",
+        "desc": "Latin American Thought"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53238",
+        "desc": "Law & Literature"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53239",
+        "desc": "Leonardo & His Time"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53240",
+        "desc": "Lit & Pol:Cent Amer"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53241",
+        "desc": "Lit&Art in Ital Ren"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53242",
+        "desc": "Literature & Science"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53243",
+        "desc": "Love Early Mod Eur Phil & Lit"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53244",
+        "desc": "Madness"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53245",
+        "desc": "Map Reading/Reading Maps"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53246",
+        "desc": "Maps&20th C Lit"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53247",
+        "desc": "Maps:Hist53248: HONS,\"Mathmatcl Thgt"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53249",
+        "desc": "Mdrnsm:1880-1930"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53250",
+        "desc": "Medea"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53251",
+        "desc": "Mediev Religion"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53252",
+        "desc": "Memory Across the Disciplines"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53253",
+        "desc": "Metfic/Metafilm"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53254",
+        "desc": "Mod53255: HONS,\"Modrn Polit Economy"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53256",
+        "desc": "Modrnty & Post Modrn"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53257",
+        "desc": "Multiple Narratives"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53258",
+        "desc": "Music to My Eyes"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53259",
+        "desc": "Myth & Creativity"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53260",
+        "desc": "Nationalism"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53261",
+        "desc": "Nav&Lit Discov"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53262",
+        "desc": "Northern Renaissance"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53263",
+        "desc": "Nuns in American Culture"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53264",
+        "desc": "Opera on the Stage"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53265",
+        "desc": "Opera-Intrdiscplnary"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53266",
+        "desc": "Paradigms Lost"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53267",
+        "desc": "Paradise Apocalypse"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53268",
+        "desc": "Patterns/Exp in Arts"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53269",
+        "desc": "Performing the Self"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53270",
+        "desc": "Philosophy and Literature"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53271",
+        "desc": "Pol & Cult Between World Wars"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53272",
+        "desc": "Pol South Africa Apartheid"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53273",
+        "desc": "Political Leadership"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53274",
+        "desc": "Porcelain"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53275",
+        "desc": "Poverty in US"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53276",
+        "desc": "Power53277: HONS,\"Ptcom:Pol&Eco"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53278",
+        "desc": "Race and Visual Culture"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53279",
+        "desc": "Renaissance Cities"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53280",
+        "desc": "Rep: Nwe Wmn US"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53281",
+        "desc": "Representations of War"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53282",
+        "desc": "Reps Wounded Psyche"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53283",
+        "desc": "Research/Writing"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53284",
+        "desc": "Revelation: East and West"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53285",
+        "desc": "Risk and Randomness"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53286",
+        "desc": "Russia Thru Opr"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53287",
+        "desc": "SA During & After Apartheid"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53288",
+        "desc": "Sanskrit Epic & Hindu Thought"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53289",
+        "desc": "Science & Politics  Global Wmg"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53290",
+        "desc": "Science & Sin"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53291",
+        "desc": "Science Human Values"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53292",
+        "desc": "Science in Art"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53293",
+        "desc": "Sem Carr Philo Pol Mil Frantz"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53294",
+        "desc": "Semiotics of Eating"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53295",
+        "desc": "Sex & Gender in the Mid Ages"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53296",
+        "desc": "Sex and Death"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53297",
+        "desc": "Sex in 20th & 21st Century"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53298",
+        "desc": "Sex-Text Politic Mozart Operas"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53299",
+        "desc": "Ships53300: HONS,\"Shkspear-Page/Stage"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53301",
+        "desc": "Soc Constr Know"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53302",
+        "desc": "Social Hist: NYC Architecture"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53303",
+        "desc": "Sociol. of Knowledge"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53304",
+        "desc": "Soph Honors Colloq"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53305",
+        "desc": "Sophomore Honors Colloquium"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53306",
+        "desc": "Sources 20C Thought"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53307",
+        "desc": "Sp Tp: History of the Book"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53308",
+        "desc": "Spanish Civil War in Lit& Film"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53309",
+        "desc": "Spirals in the 20th Century"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53310",
+        "desc": "State&Socy in Africa"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53311",
+        "desc": "Suffrage 2020: Gndr53312: HONS,\"Surveillance and You"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53313",
+        "desc": "Techngs Resrch Wrtng"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53314",
+        "desc": "The Art & Science of Anatomy"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53315",
+        "desc": "The Body in Medieval Culture"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53316",
+        "desc": "The Culture of Human Sexuality"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53317",
+        "desc": "The Experience of War"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53318",
+        "desc": "The Other Sex"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53319",
+        "desc": "The Search for Knowledge"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53320",
+        "desc": "The Silk Road"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53321",
+        "desc": "The World of Othello"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53322",
+        "desc": "Thinking About Animals"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53323",
+        "desc": "Til Death Do Us Part"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53324",
+        "desc": "Timeless Don Juan"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53325",
+        "desc": "Travels and Journeys"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53326",
+        "desc": "Tropical Rainforest"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53327",
+        "desc": "Upper-Level Honors Colloquium"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53328",
+        "desc": "Urb Women:New Vision"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53329",
+        "desc": "Versions of Reality"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53330",
+        "desc": "Vietnam: Fact and Fiction"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53331",
+        "desc": "Vio&Eth of S.As"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53332",
+        "desc": "Violence/Lat Amer"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53333",
+        "desc": "War in Literature"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53334",
+        "desc": "Water: Interdisc Survey"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53335",
+        "desc": "Weimer Germany 1918-33"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53336",
+        "desc": "Women53337: HONS,\"Women: Ancient & Modern"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53338",
+        "desc": "Words & Music"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53339",
+        "desc": "Work In Modn Society"
+    },
+    {
+        "major": "HONS",
+        "room_num": "53340",
+        "desc": "Zombies&Otr Monsters Fact&Fict"
+    }
+]

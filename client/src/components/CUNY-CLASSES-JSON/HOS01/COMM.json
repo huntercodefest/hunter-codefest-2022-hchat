@@ -1,0 +1,20 @@
+[
+    {
+        "school": "HOS01",
+        "major": "COMM",
+        "room_num": "64478",
+        "room_desc": "Fund Public Speaking"
+    },
+    {
+        "school": "HOS01",
+        "major": "COMM",
+        "room_num": "64479",
+        "room_desc": "Fund Public Speaking (HONORS)"
+    },
+    {
+        "school": "HOS01",
+        "major": "COMM",
+        "room_num": "64480",
+        "room_desc": "Intercultural Communication"
+    }
+]

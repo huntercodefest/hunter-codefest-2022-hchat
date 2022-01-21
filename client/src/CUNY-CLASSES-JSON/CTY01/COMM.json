@@ -1,0 +1,632 @@
+[
+    {
+        "major": "COMM",
+        "room_num": "34254",
+        "desc": "Ad/Pr Portfol Prod"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34255",
+        "desc": "Ad/Pub Relatns Wksp"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34256",
+        "desc": "Adv Cinematography"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34257",
+        "desc": "Adv Journlstc Wrtng"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34258",
+        "desc": "Advanced Journalism"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34259",
+        "desc": "Adver&Publ.Relat.Por"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34260",
+        "desc": "Advertisng/Pr Prod"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34261",
+        "desc": "Advertsing Mngmnt 1"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34262",
+        "desc": "Advertsng Mngmnt 2"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34263",
+        "desc": "Advrtsng Copywritng"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34264",
+        "desc": "Advrtsng Copywrtng"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34265",
+        "desc": "African-Amer & Flm"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34266",
+        "desc": "Arfican Amer Press"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34267",
+        "desc": "Art Of Interviewing"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34268",
+        "desc": "Bcst Journlism Wksp"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34269",
+        "desc": "Black Press"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34270",
+        "desc": "Brdcst Jrnlism Wksp"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34271",
+        "desc": "Brdcst Jrnlsm-Video"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34272",
+        "desc": "Broadcst Journalism"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34273",
+        "desc": "Camera 1"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34274",
+        "desc": "Camera 2"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34275",
+        "desc": "Cine-Idea-Stru-Real"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34276",
+        "desc": "Classical Mythology"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34277",
+        "desc": "Cmptr App In Cmnctn"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34278",
+        "desc": "Communication Theor"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34279",
+        "desc": "Communications Law"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34280",
+        "desc": "Compar Media Systms"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34281",
+        "desc": "Coop Ed"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34282",
+        "desc": "Copywriting"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34283",
+        "desc": "Corporate Cmmcatns"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34284",
+        "desc": "Corporate Commnctns"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34285",
+        "desc": "Crit App Ind Cinema"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34286",
+        "desc": "Crt Aprch Flm Genre"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34287",
+        "desc": "Crtcl Apprch To Dir"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34288",
+        "desc": "Cultural Reporting"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34289",
+        "desc": "Digital Post Prod"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34290",
+        "desc": "Digital Post-Prod"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34291",
+        "desc": "Digital Radio Prod"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34292",
+        "desc": "Directing Fiction"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34293",
+        "desc": "Directing Flm Video"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34294",
+        "desc": "Documentary Flm/Tv"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34295",
+        "desc": "Documentary Wkshp 2"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34296",
+        "desc": "Documentary-Wkshp 1"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34297",
+        "desc": "Documentary:Film-Tv"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34298",
+        "desc": "Dsktop Production 1"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34299",
+        "desc": "Dsktop Production 2"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34300",
+        "desc": "Editing"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34301",
+        "desc": "Emerging Media"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34302",
+        "desc": "Entrtnmnt Pub Rltns"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34303",
+        "desc": "Ethcs/Values Cmnctn"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34304",
+        "desc": "Fiction Screenwrtng"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34305",
+        "desc": "Film & Video Wksp 1"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34306",
+        "desc": "Film & Video Wksp 2"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34307",
+        "desc": "Film Anal For Prod"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34308",
+        "desc": "Film-Video Editing"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34309",
+        "desc": "Flm Hst/Aes:Comedy"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34310",
+        "desc": "Fndtns Of Film"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34311",
+        "desc": "Foundations Of Film"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34312",
+        "desc": "French Cinema"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34313",
+        "desc": "Group Study"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34314",
+        "desc": "Hist & Thry Film 1"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34315",
+        "desc": "Hist & Thry Film 2"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34316",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34317",
+        "desc": "Intermed Film Tech"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34318",
+        "desc": "International Report"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34319",
+        "desc": "Intmd Vidotape Prod"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34320",
+        "desc": "Intmed Flm-Vid Prod"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34321",
+        "desc": "Intr Flm-Video Prod"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34322",
+        "desc": "Intractv Med Prod 1"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34323",
+        "desc": "Intractv Med Prod 2"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34324",
+        "desc": "Intrntl Reporting"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34325",
+        "desc": "Intro Advertising"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34326",
+        "desc": "Intro Comm Tech"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34327",
+        "desc": "Intro Flm & Tv Tech"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34328",
+        "desc": "Intro Media Studies"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34329",
+        "desc": "Intro Public Rltns"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34330",
+        "desc": "Intro To Advertisng"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34331",
+        "desc": "Intro To Journalism"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34332",
+        "desc": "Intro Vidotape Prod"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34333",
+        "desc": "Journalism 1"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34334",
+        "desc": "Latino In Amer Film"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34335",
+        "desc": "Market Research"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34336",
+        "desc": "Marketing"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34337",
+        "desc": "Marketing Research"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34338",
+        "desc": "Mass Media & Pol"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34339",
+        "desc": "Media Arts Mngmnt"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34340",
+        "desc": "Mtn Pct Prod Wksp 1"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34341",
+        "desc": "Mtn Pct Prod Wksp 2"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34342",
+        "desc": "News & Society"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34343",
+        "desc": "Non Fict Video Wksp"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34344",
+        "desc": "Perf Arts Tv: Dance"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34345",
+        "desc": "Political Reporting"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34346",
+        "desc": "Print Journlsm Wksp"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34347",
+        "desc": "Print Jrnlsm Wkshp"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34348",
+        "desc": "Prod-Dir:Documntary"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34349",
+        "desc": "Psychology Thru Flm"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34350",
+        "desc": "Public Relations"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34351",
+        "desc": "Public Rltns Wrtng"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34352",
+        "desc": "Radio Journalism"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34353",
+        "desc": "Radio Program Prod"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34354",
+        "desc": "Reporting & Writing"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34355",
+        "desc": "Res-Wrt:Documentary"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34356",
+        "desc": "Rsc Wrtg Media Stud"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34357",
+        "desc": "Rsch-Wrt Fr Med Lab"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34358",
+        "desc": "Rsch/Wrt-Media:Lab"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34359",
+        "desc": "Screen Writng Wkshp"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34360",
+        "desc": "Screen Wrtng Wksp 2"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34361",
+        "desc": "Screenwriting"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34362",
+        "desc": "Screenwriting 2"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34363",
+        "desc": "Sound Design"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34364",
+        "desc": "Sports Reporting"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34365",
+        "desc": "Stud:Flm Hist Aesth"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34366",
+        "desc": "Television Jrnlism"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34367",
+        "desc": "The Radio Station"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34368",
+        "desc": "The Radio Station 2"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34369",
+        "desc": "Thesis Proj 1:Prod"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34370",
+        "desc": "Thesis Proj 2 Prod"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34371",
+        "desc": "Topics In Reading"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34372",
+        "desc": "Tv Stud Prod Wkshp"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34373",
+        "desc": "Tv Studio Productn"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34374",
+        "desc": "Video Doc Wrkshp 1"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34375",
+        "desc": "Video Doc Wrkshp 2"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34376",
+        "desc": "Visual Anthropology"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34377",
+        "desc": "Women & Film"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34378",
+        "desc": "Wrt Med Arts Prod 1"
+    },
+    {
+        "major": "COMM",
+        "room_num": "34379",
+        "desc": "Wrtng Campus Media"
+    }
+]

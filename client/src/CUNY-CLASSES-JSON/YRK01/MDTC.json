@@ -1,0 +1,22 @@
+[
+    {
+        "major": "MDTC",
+        "room_num": "16358",
+        "desc": "Adv Practic Med Tec"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "16359",
+        "desc": "Indep Study Med Tec"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "16360",
+        "desc": "Microbiology & Immunology"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "16361",
+        "desc": "Prin Of Toxicology"
+    }
+]

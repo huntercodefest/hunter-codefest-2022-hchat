@@ -1,0 +1,908 @@
+[
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27257",
+        "room_desc": "Adv Physical Geol"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27258",
+        "room_desc": "Adv Prin Geol"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27259",
+        "room_desc": "Adv Princ Hist Geol"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27260",
+        "room_desc": "Adv Princ Phys Geol"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27261",
+        "room_desc": "Adv Research Methods"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27262",
+        "room_desc": "Advanced Volcanology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27263",
+        "room_desc": "App Geo Reas: Geo of NYS"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27264",
+        "room_desc": "Biogeochemistry"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27265",
+        "room_desc": "Coastal Geology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27266",
+        "room_desc": "Coastal and Estuarine Geology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27267",
+        "room_desc": "Comparative Planetary Geology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27268",
+        "room_desc": "Contaminant Hydrology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27269",
+        "room_desc": "Cooperative Educ Placement"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27270",
+        "room_desc": "Dinosaurs"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27271",
+        "room_desc": "Earth Comp & Process"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27272",
+        "room_desc": "Earth Hst&Fossil Rec"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27273",
+        "room_desc": "Earth Materials II"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27274",
+        "room_desc": "Earthqk27275: GEOL,\"Earthquakes"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27276",
+        "room_desc": "Earth\u2019s Internal Processes"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27277",
+        "room_desc": "Energy Problems"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27278",
+        "room_desc": "Env Geol Coast Zone"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27279",
+        "room_desc": "Envir Geology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27280",
+        "room_desc": "Envir Issues & Ans"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27281",
+        "room_desc": "Environ Pblms & Sols"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27282",
+        "room_desc": "Environmental Geochemistry"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27283",
+        "room_desc": "Environmental Geology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27284",
+        "room_desc": "Environmental Issues"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27285",
+        "room_desc": "Envr Geol Ny Met Reg"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27286",
+        "room_desc": "Erthqk Vol Mov Co"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27287",
+        "room_desc": "Evolution of Ecosystems"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27288",
+        "room_desc": "Field Geology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27289",
+        "room_desc": "Field Methods"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27290",
+        "room_desc": "Field Methods in Hydrology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27291",
+        "room_desc": "Field Techniques in Enviro Sci"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27292",
+        "room_desc": "GIS in the Geosciences"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27293",
+        "room_desc": "Geo Statistics"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27294",
+        "room_desc": "Geochem Of The Envir"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27295",
+        "room_desc": "Geochemistry."
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27296",
+        "room_desc": "Geol Of New York"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27297",
+        "room_desc": "Geological Reasoning"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27298",
+        "room_desc": "Geology in the Field"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27299",
+        "room_desc": "Geology in the Field."
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27300",
+        "room_desc": "Geology of New York State"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27301",
+        "room_desc": "Geomorphic Processes"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27302",
+        "room_desc": "Geomorphlgy"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27303",
+        "room_desc": "Geomorphology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27304",
+        "room_desc": "Geophysics"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27305",
+        "room_desc": "Geostatistics"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27306",
+        "room_desc": "Geotectonics"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27307",
+        "room_desc": "Global Prg Environmental Rsch"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27308",
+        "room_desc": "Globe Program Certification"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27309",
+        "room_desc": "Groundwater Hydrology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27310",
+        "room_desc": "High Temperature Geochemistry"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27311",
+        "room_desc": "Historical Geology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27312",
+        "room_desc": "Hydrology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27313",
+        "room_desc": "Ign Metm Petrog"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27314",
+        "room_desc": "Igneous Petrology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27315",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27316",
+        "room_desc": "Info Sys & Mapping"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27317",
+        "room_desc": "Intro To Geology Lab"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27318",
+        "room_desc": "Intro To Oceanography"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27319",
+        "room_desc": "Introduction to Geology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27320",
+        "room_desc": "Introduction to Meteorology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27321",
+        "room_desc": "Introduction to Oceanography"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27322",
+        "room_desc": "Introductory Field Geology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27323",
+        "room_desc": "Invertebrate Paleont"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27324",
+        "room_desc": "Low Temperature Geochemistry"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27325",
+        "room_desc": "Man Phys Envir"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27326",
+        "room_desc": "Map Interpretation"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27327",
+        "room_desc": "Marine Geology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27328",
+        "room_desc": "Metamorphic Petrology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27329",
+        "room_desc": "Meteorology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27330",
+        "room_desc": "Meth Of Envir Sci"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27331",
+        "room_desc": "Methods in Geoscience"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27332",
+        "room_desc": "Micropaleontology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27333",
+        "room_desc": "Mineralogy"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27334",
+        "room_desc": "Minerals27335: GEOL,\"Modern Aspects of Geology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27336",
+        "room_desc": "Nat Res & The Env"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27337",
+        "room_desc": "Nat Resources"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27338",
+        "room_desc": "Natural Disasters"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27339",
+        "room_desc": "Natural Resource and Environmt"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27340",
+        "room_desc": "Ocean & Atmosphere"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27341",
+        "room_desc": "Oceanograph Ny Water"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27342",
+        "room_desc": "Oceanographic Fld Cr"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27343",
+        "room_desc": "Oceanography"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27344",
+        "room_desc": "Opt Min & Petrog"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27345",
+        "room_desc": "Optical Mineralogy"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27346",
+        "room_desc": "Origin and Uses Earth Material"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27347",
+        "room_desc": "Our Changing Planet"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27348",
+        "room_desc": "Paleoecology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27349",
+        "room_desc": "Paleontology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27350",
+        "room_desc": "Palynology."
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27351",
+        "room_desc": "Petrography and Petrology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27352",
+        "room_desc": "Phys & Envir Geol"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27353",
+        "room_desc": "Physical Environ"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27354",
+        "room_desc": "Physical Environment of LI"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27355",
+        "room_desc": "Physical Geography"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27356",
+        "room_desc": "Physical Geol"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27357",
+        "room_desc": "Physical Geol Lec"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27358",
+        "room_desc": "Physical Geology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27359",
+        "room_desc": "Physical Geology Lab"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27360",
+        "room_desc": "Planetary Geology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27361",
+        "room_desc": "Prin Of Ocean"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27362",
+        "room_desc": "Prin Stratigrphy"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27363",
+        "room_desc": "Principles of Geochemistry"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27364",
+        "room_desc": "Principles of Hydrology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27365",
+        "room_desc": "Principles of Oceanography"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27366",
+        "room_desc": "Quaternary Geology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27367",
+        "room_desc": "Regional Geol"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27368",
+        "room_desc": "Resources & Hazards XXI Cent"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27369",
+        "room_desc": "SEES Elective Credit"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27370",
+        "room_desc": "Science Law & Envr"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27371",
+        "room_desc": "Sedimentary Petrolgy"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27372",
+        "room_desc": "Sedimentary Petrology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27373",
+        "room_desc": "Sedimentation and Stratigraphy"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27374",
+        "room_desc": "Sedimentology & Landscape Evo"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27375",
+        "room_desc": "Sedimentology."
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27376",
+        "room_desc": "Sem Urban Coast Mgmt"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27377",
+        "room_desc": "Seminar"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27378",
+        "room_desc": "Shallow Subsurface Geophysics"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27379",
+        "room_desc": "Soils in the Environment"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27380",
+        "room_desc": "Soils27381: GEOL,\"Spec Topics In Geol"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27382",
+        "room_desc": "Special Pblms"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27383",
+        "room_desc": "Special Problems"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27384",
+        "room_desc": "Special Studies in Geology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27385",
+        "room_desc": "Special Topics in Geology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27386",
+        "room_desc": "Special Topics: Geol"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27387",
+        "room_desc": "Special Topics: Geology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27388",
+        "room_desc": "Speical Pblms"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27389",
+        "room_desc": "Stratig & Interpret Paleoenvir"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27390",
+        "room_desc": "Stratigraphy"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27391",
+        "room_desc": "Structural Geology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27392",
+        "room_desc": "Surface Process/Dev"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27393",
+        "room_desc": "Surface Processes and Products"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27394",
+        "room_desc": "Survey of Atmospheric Science"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27395",
+        "room_desc": "Tech Env Analysis"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27396",
+        "room_desc": "Tech In Env Geosci"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27397",
+        "room_desc": "The Environment"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27398",
+        "room_desc": "The Fossil Record"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27399",
+        "room_desc": "The Physical Environment"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27400",
+        "room_desc": "Thesis Research"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27401",
+        "room_desc": "Volcanoes"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27402",
+        "room_desc": "Volcanoes and Climate"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27403",
+        "room_desc": "Vt: Special Topics"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27404",
+        "room_desc": "Vt:Computer Modeling"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27405",
+        "room_desc": "Vt:Special Topics"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27406",
+        "room_desc": "Vt:Special Topics in Geology"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27407",
+        "room_desc": "Vt:Thesis Research"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27408",
+        "room_desc": "Water As Resource"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27409",
+        "room_desc": "Water Res & Conserv"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "27410",
+        "room_desc": "Weather27411: GEOL,\"X-ray Diffraction Analysis"
+    }
+]

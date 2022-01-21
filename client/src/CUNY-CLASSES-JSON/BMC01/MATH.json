@@ -1,0 +1,362 @@
+[
+    {
+        "major": "MATH",
+        "room_num": "18401",
+        "desc": "Abstract Algebra"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18402",
+        "desc": "Advanced Calculus I"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18403",
+        "desc": "Anal Geom Cal III"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18404",
+        "desc": "Analytic Geom  & Calc II"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18405",
+        "desc": "Analytic Geom Cal I"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18406",
+        "desc": "Analytic Geom Cal II"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18407",
+        "desc": "Analytic Geom Cal Iii"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18408",
+        "desc": "Analytic Geometry & Calc I"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18409",
+        "desc": "Basic Arith & Algeb-CD Wksp"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18410",
+        "desc": "Basic Arith & Algebra Tutorial"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18411",
+        "desc": "Basic Arithmetic and Algebra"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18412",
+        "desc": "Basic Mathematics"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18413",
+        "desc": "Basic Mathematics - Cd Wksp"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18414",
+        "desc": "Basic Mathematics MR Tutorial"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18415",
+        "desc": "Basic Mathematics Tutorial"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18416",
+        "desc": "Bridge to Advanced Mathematics"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18417",
+        "desc": "CUNY Start Math"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18418",
+        "desc": "College Focus Mathematics"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18419",
+        "desc": "Elem & Interm Algeb with Trig"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18420",
+        "desc": "Elem & Interm Algebra w/ Trig"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18421",
+        "desc": "Elementary Algebra"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18422",
+        "desc": "Elementary Algebra - Cd Wksp"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18423",
+        "desc": "Elementary Algebra MR Tutorial"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18424",
+        "desc": "Elementary Algebra Tutorial"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18425",
+        "desc": "Elementary Algebra Workshop"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18426",
+        "desc": "Essentials of Math"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18427",
+        "desc": "Finite Mathematics"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18428",
+        "desc": "Found Comp Network"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18429",
+        "desc": "Fund Of Math I"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18430",
+        "desc": "Fundamentals of Math"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18431",
+        "desc": "Fundamentals of Math II"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18432",
+        "desc": "Fundamentals of Mathematics I"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18433",
+        "desc": "Fundamentals of Mathematics II"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18434",
+        "desc": "History of Mathematics"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18435",
+        "desc": "Interm Alg & Trig"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18436",
+        "desc": "Interm Alg & Trig - Cd Wksp"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18437",
+        "desc": "Interm Alg & Trig MR Tutorial"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18438",
+        "desc": "Interm Alg & Trig Tutorial"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18439",
+        "desc": "Intermed Algebra & Precalculus"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18440",
+        "desc": "Intermediate Algebra & Trigon"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18441",
+        "desc": "Intermediate Algebra Workshop"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18442",
+        "desc": "Intro Statistics w/ Algebra"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18443",
+        "desc": "Intro. Disc Math"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18444",
+        "desc": "Introduction to Discrete Math"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18445",
+        "desc": "Introduction to Geometry"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18446",
+        "desc": "Introduction to Statistics"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18447",
+        "desc": "Linear Algebra"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18448",
+        "desc": "MAT Directed Study"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18449",
+        "desc": "Mat Directed Study"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18450",
+        "desc": "Math For Elementary Edu I"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18451",
+        "desc": "Math For Elementary Edu II"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18452",
+        "desc": "Math For Health Sci"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18453",
+        "desc": "Math For Resp Thera"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18454",
+        "desc": "Math Foundations For Bus"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18455",
+        "desc": "Math Literacy Comp Tutorial"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18456",
+        "desc": "Math Literacy I"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18457",
+        "desc": "Math Literacy I Tutorial"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18458",
+        "desc": "Math Literacy/Quant Reasoning"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18459",
+        "desc": "Math Workshop"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18460",
+        "desc": "Math for Elementary Education"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18461",
+        "desc": "Math for Hlth Sci w/ Elem Alg"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18462",
+        "desc": "Mathematical Problem Solving"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18463",
+        "desc": "Mathematics Literacy with Comp"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18464",
+        "desc": "Modern Applied Mathematics"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18465",
+        "desc": "Ord Diff Equations"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18466",
+        "desc": "Precalculus"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18467",
+        "desc": "Precalculus (Honors)"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18468",
+        "desc": "Quantitative Reasoning"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18469",
+        "desc": "Research Study Workshop - 150"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18470",
+        "desc": "Research Study Workshop - 51"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18471",
+        "desc": "Sci/Math Research"
+    },
+    {
+        "major": "MATH",
+        "room_num": "18472",
+        "desc": "Statistics"
+    }
+]

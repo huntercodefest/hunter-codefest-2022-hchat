@@ -1,0 +1,67 @@
+[
+    {
+        "major": "IMME",
+        "room_num": "63557",
+        "desc": "Immersion ESL Reading-Writing"
+    },
+    {
+        "major": "IMME",
+        "room_num": "63558",
+        "desc": "Immersion English Orientation"
+    },
+    {
+        "major": "IMME",
+        "room_num": "63559",
+        "desc": "Immersion Math"
+    },
+    {
+        "major": "IMME",
+        "room_num": "63560",
+        "desc": "Immersion Math 1"
+    },
+    {
+        "major": "IMME",
+        "room_num": "63561",
+        "desc": "Immersion Math II"
+    },
+    {
+        "major": "IMME",
+        "room_num": "63562",
+        "desc": "Immersion Math Orientation"
+    },
+    {
+        "major": "IMME",
+        "room_num": "63563",
+        "desc": "Immersion Math Quick Refresh"
+    },
+    {
+        "major": "IMME",
+        "room_num": "63564",
+        "desc": "Immersion Math Workshop"
+    },
+    {
+        "major": "IMME",
+        "room_num": "63565",
+        "desc": "Immersion Math X1"
+    },
+    {
+        "major": "IMME",
+        "room_num": "63566",
+        "desc": "Immersion Math X2"
+    },
+    {
+        "major": "IMME",
+        "room_num": "63567",
+        "desc": "Immersion Reading"
+    },
+    {
+        "major": "IMME",
+        "room_num": "63568",
+        "desc": "Immersion Reading-Writing"
+    },
+    {
+        "major": "IMME",
+        "room_num": "63569",
+        "desc": "Immersion Writing"
+    }
+]

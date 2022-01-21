@@ -1,0 +1,32 @@
+[
+    {
+        "major": "RELI",
+        "room_num": "21819",
+        "desc": "Eastern Religion"
+    },
+    {
+        "major": "RELI",
+        "room_num": "21820",
+        "desc": "Eastern Religions"
+    },
+    {
+        "major": "RELI",
+        "room_num": "21821",
+        "desc": "Independent Study 200-level"
+    },
+    {
+        "major": "RELI",
+        "room_num": "21822",
+        "desc": "Independent Study 300-level"
+    },
+    {
+        "major": "RELI",
+        "room_num": "21823",
+        "desc": "Independent Study 400-level"
+    },
+    {
+        "major": "RELI",
+        "room_num": "21824",
+        "desc": "Western Religions"
+    }
+]

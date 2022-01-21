@@ -1,0 +1,42 @@
+[
+    {
+        "major": "LAW",
+        "room_num": "64838",
+        "desc": "Constitutional Law"
+    },
+    {
+        "major": "LAW",
+        "room_num": "64839",
+        "desc": "Criminal Law"
+    },
+    {
+        "major": "LAW",
+        "room_num": "64840",
+        "desc": "Family Law"
+    },
+    {
+        "major": "LAW",
+        "room_num": "64841",
+        "desc": "Immigration Law"
+    },
+    {
+        "major": "LAW",
+        "room_num": "64842",
+        "desc": "Law and Evidence"
+    },
+    {
+        "major": "LAW",
+        "room_num": "64843",
+        "desc": "Law and Social Change"
+    },
+    {
+        "major": "LAW",
+        "room_num": "64844",
+        "desc": "Penal Law of New York State"
+    },
+    {
+        "major": "LAW",
+        "room_num": "64845",
+        "desc": "Pub Employ Ben Law"
+    }
+]

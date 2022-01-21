@@ -1,0 +1,452 @@
+[
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14874",
+        "room_desc": "Acting I"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14875",
+        "room_desc": "Acting II"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14876",
+        "room_desc": "Acting for Musical Theatre"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14877",
+        "room_desc": "Acting for the Camera"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14878",
+        "room_desc": "Adv.Performing Arts Mgmt"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14879",
+        "room_desc": "Advanced Acting"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14880",
+        "room_desc": "Advanced Acting for the Camera"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14881",
+        "room_desc": "Advanced Costume Design"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14882",
+        "room_desc": "Advanced Digital Storytelling"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14883",
+        "room_desc": "Advanced Lighting Design"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14884",
+        "room_desc": "Advanced Playwriting Workshop"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14885",
+        "room_desc": "Advanced Scenic Design"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14886",
+        "room_desc": "Advanced Stage Management"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14887",
+        "room_desc": "Advanced Technical Theatre"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14888",
+        "room_desc": "Advanced Theatre Internship"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14889",
+        "room_desc": "Advanced Theatre Workshop"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14890",
+        "room_desc": "Advanced Voice for the Stage"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14891",
+        "room_desc": "African American Theatre"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14892",
+        "room_desc": "Art Of The Theatre"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14893",
+        "room_desc": "Art of the Theatre"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14894",
+        "room_desc": "Costume Design"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14895",
+        "room_desc": "Creative Drama for Children"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14896",
+        "room_desc": "Devised Multimedia Performance"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14897",
+        "room_desc": "Digital Storytelling"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14898",
+        "room_desc": "Directing I"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14899",
+        "room_desc": "Directing II"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14900",
+        "room_desc": "Eliz&Jacobean Thtre"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14901",
+        "room_desc": "Experiencing Theatre"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14902",
+        "room_desc": "Greek&Roman Theatre"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14903",
+        "room_desc": "History of Musical Theatre"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14904",
+        "room_desc": "History of The Theatre II"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14905",
+        "room_desc": "History of the Theatre I"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14906",
+        "room_desc": "Honors Multimedia Performing A"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14907",
+        "room_desc": "Improvisation"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14908",
+        "room_desc": "Independent Study in Theatre"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14909",
+        "room_desc": "Lighting Design"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14910",
+        "room_desc": "Movement for Actors & Dancers"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14911",
+        "room_desc": "Multimedia Performing Arts Pro"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14912",
+        "room_desc": "Multimedia Post-Production Wor"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14913",
+        "room_desc": "Multimedia Production Workshop"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14914",
+        "room_desc": "Performing Arts Management"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14915",
+        "room_desc": "Play Analysis"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14916",
+        "room_desc": "Play Product-2ndary"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14917",
+        "room_desc": "Playwriting"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14918",
+        "room_desc": "Puppetry"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14919",
+        "room_desc": "Queer Theatre"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14920",
+        "room_desc": "Research Project in Theatre"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14921",
+        "room_desc": "Scenic Design"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14922",
+        "room_desc": "Somatics I"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14923",
+        "room_desc": "Somatics II"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14924",
+        "room_desc": "Special Problems"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14925",
+        "room_desc": "Special Studies in Theatre"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14926",
+        "room_desc": "Stage Makeup"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14927",
+        "room_desc": "Stagecraft"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14928",
+        "room_desc": "Stds Restore & XVIII Cent Thtr"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14929",
+        "room_desc": "Stdy Contemp Theatre"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14930",
+        "room_desc": "Studies in Modern Theatre"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14931",
+        "room_desc": "The Art of the Theatre"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14932",
+        "room_desc": "The Artist and Society"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14933",
+        "room_desc": "The Children\u2019s Theatre"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14934",
+        "room_desc": "Thea Wkshp: Acting & Directing"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14935",
+        "room_desc": "Thea Wrkshp: Costume-Wardrobe"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14936",
+        "room_desc": "Theatre Honors"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14937",
+        "room_desc": "Theatre Internship"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14938",
+        "room_desc": "Theatre Theory"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14939",
+        "room_desc": "Theatre Wksp: Lighting/Sound"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14940",
+        "room_desc": "Theatre Workshop: Scenery/Prop"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14941",
+        "room_desc": "Theatre Workshop:Stage Mangmnt"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14942",
+        "room_desc": "Tools for Digital Storytelling"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14943",
+        "room_desc": "Topics in Theatre"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14944",
+        "room_desc": "Visual Elements of the Theatre"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14945",
+        "room_desc": "Voice and Speech for the Actor"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14946",
+        "room_desc": "Voice for the Stage"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14947",
+        "room_desc": "Voice-Over Multimedia Platfrms"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "14948",
+        "room_desc": "Working in the Performing Arts"
+    }
+]

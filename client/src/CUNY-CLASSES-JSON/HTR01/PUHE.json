@@ -1,0 +1,722 @@
+[
+    {
+        "major": "PUHE",
+        "room_num": "56511",
+        "desc": "AIDS and HIV for Health Wk"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56512",
+        "desc": "Addictions and Dependencies"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56513",
+        "desc": "Adolescent Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56514",
+        "desc": "Adolescent Health56515: PUHE,\"Advanced Health Economics"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56516",
+        "desc": "Advanced Methods Epidemiology"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56517",
+        "desc": "Advanced Ph Research"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56518",
+        "desc": "Aids and Society"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56519",
+        "desc": "At - Risk to Assests"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56520",
+        "desc": "Biostatistics Rec"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56521",
+        "desc": "Bodies Using Bodies"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56522",
+        "desc": "Capstone Project"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56523",
+        "desc": "Child Health Urban Poverty"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56524",
+        "desc": "Children Ph &The Env"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56525",
+        "desc": "Childrn Env Hlth Pol"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56526",
+        "desc": "Chronic 3 Management"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56527",
+        "desc": "Chronic Disease Management"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56528",
+        "desc": "Cities Society & Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56529",
+        "desc": "Comhe & PH: Grant Writing"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56530",
+        "desc": "Comm Outreach Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56531",
+        "desc": "Comm Pub Hlth: Poster-Pamphlet"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56532",
+        "desc": "Community Health Assessment"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56533",
+        "desc": "Controversal Issue Health Care"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56534",
+        "desc": "Corp56535: PUHE,\"Criminal Justice and Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56536",
+        "desc": "Crs-Clt/Heal Communication Urb"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56537",
+        "desc": "Cult Comp Ph Org Pgm"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56538",
+        "desc": "Diabetes Prvt & Mgmt"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56539",
+        "desc": "Digital Media and Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56540",
+        "desc": "Directed Fieldwork 2"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56541",
+        "desc": "Directed Fieldwork I"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56542",
+        "desc": "Directed Fieldwork III"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56543",
+        "desc": "Directed Fieldwork Practicum"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56544",
+        "desc": "Disability Std:Women"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56545",
+        "desc": "Ecology Disease:Cell Society"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56546",
+        "desc": "Elec Media Health Care"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56547",
+        "desc": "Envirn Public Health Problems"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56548",
+        "desc": "Environmental Health Concepts"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56549",
+        "desc": "Ethics Public Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56550",
+        "desc": "Ethics in Public Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56551",
+        "desc": "Exploring Evidence:Health Poly"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56552",
+        "desc": "Fld Exp Health Serv Ag"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56553",
+        "desc": "Fld Pest Plge Comm"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56554",
+        "desc": "Food Politics and Policy"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56555",
+        "desc": "Fund Social & Behavioral Hlth"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56556",
+        "desc": "Fund of Environmental Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56557",
+        "desc": "Fund of Health Policy & Mgmt"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56558",
+        "desc": "Fundamentals of Biostatistics"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56559",
+        "desc": "Fundamentals of Epidemiology"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56560",
+        "desc": "GIS in Public Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56561",
+        "desc": "Gender and Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56562",
+        "desc": "Gender56563: PUHE,\"Global Environment Develment"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56564",
+        "desc": "Global Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56565",
+        "desc": "Global Maternal & Child Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56566",
+        "desc": "Grant Writing in Public Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56567",
+        "desc": "HIV-AIDS Glob Sci Cult Context"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56568",
+        "desc": "HIV/AIDS: Interd Persp Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56569",
+        "desc": "Health & Mental Hlth Pl"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56570",
+        "desc": "Health Aspects of Aging"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56571",
+        "desc": "Health Care Finance"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56572",
+        "desc": "Health Care Systems & Policy"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56573",
+        "desc": "Health Coun in the Com"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56574",
+        "desc": "Health Information Technology"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56575",
+        "desc": "Health Literacy"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56576",
+        "desc": "Health Professional Writing"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56577",
+        "desc": "Health Program Plan & Eval"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56578",
+        "desc": "Health Science Critical Thinkg"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56579",
+        "desc": "Health in Latin America"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56580",
+        "desc": "Healthy Urban Aging"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56581",
+        "desc": "Hltcare Qual&Perform"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56582",
+        "desc": "Hlth Policy Analysis&Eval Svcs"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56583",
+        "desc": "Hlth Urb Age:Eco&Pol"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56584",
+        "desc": "Honors Community Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56585",
+        "desc": "Human Rights and Public Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56586",
+        "desc": "Human Sexuality"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56587",
+        "desc": "Immigration & Aging"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56588",
+        "desc": "Immigration and Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56589",
+        "desc": "Indep Study Community Health 1"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56590",
+        "desc": "Indep Study Community Health 2"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56591",
+        "desc": "Indep Study Community Health 3"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56592",
+        "desc": "Indep Study: Public Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56593",
+        "desc": "Indep Study:Pub Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56594",
+        "desc": "Indep Study:Pub Hlth"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56595",
+        "desc": "Indep Study:Public Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56596",
+        "desc": "Infl Mass Media Onph"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56597",
+        "desc": "Information Research in Ph"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56598",
+        "desc": "Int Prsp Gbl  Health Justice"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56599",
+        "desc": "Interd Diabetes Prev"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56600",
+        "desc": "Interdispln Diabetes Managment"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56601",
+        "desc": "Intrn Semhiv/Aids Ed"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56602",
+        "desc": "Intro Health Careers"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56603",
+        "desc": "Intro Ph Economics"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56604",
+        "desc": "Intro to Information Graphics"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56605",
+        "desc": "Intro:Community Organizing"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56606",
+        "desc": "Intro:Community/Public Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56607",
+        "desc": "Intro:Health Care System"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56608",
+        "desc": "Introduction to Health Care"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56609",
+        "desc": "Introduction: Health Careers"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56610",
+        "desc": "Introduction:Health Careers"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56611",
+        "desc": "Lg&Lgl Aspt Food Pol"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56612",
+        "desc": "Matern56613: PUHE,\"Maternal and Child Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56614",
+        "desc": "Maternl56615: PUHE,\"Media:Impact & Advoc56616: PUHE,\"Medical Sociology"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56617",
+        "desc": "Mntl Health Promo/Suic Prevent"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56618",
+        "desc": "Multidisc: South Bx"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56619",
+        "desc": "Neighborhood Lab"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56620",
+        "desc": "Non Profit Management Ph"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56621",
+        "desc": "Pandemics and Public Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56622",
+        "desc": "Political Ideology & Pub Hlth"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56623",
+        "desc": "Principles of Biostatistics"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56624",
+        "desc": "Principles of Epidemiology"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56625",
+        "desc": "Prod a Public Health Doc"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56626",
+        "desc": "Public Health Biology"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56627",
+        "desc": "Public Health Informatics"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56628",
+        "desc": "Public Persp: Policy & Practic"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56629",
+        "desc": "QA in Management"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56630",
+        "desc": "Qualitative Research Methods"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56631",
+        "desc": "Redefining Latina health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56632",
+        "desc": "Repro Health Policy"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56633",
+        "desc": "Reproductive56634: PUHE,\"Res Sem Hlth Cuny St"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56635",
+        "desc": "Research Symposium"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56636",
+        "desc": "Research: Action Workshop"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56637",
+        "desc": "Rsch Methods & Data Analysis"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56638",
+        "desc": "Sem:AIDS & HIV Education 2"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56639",
+        "desc": "Sex Role in Family Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56640",
+        "desc": "Sexual Health Promotion"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56641",
+        "desc": "Social Disparities in Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56642",
+        "desc": "Social Justice Public Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56643",
+        "desc": "Social Marketing"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56644",
+        "desc": "Social Media56645: PUHE,\"Social Structure and Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56646",
+        "desc": "Sp Tp Infectious Disease Cntrl"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56647",
+        "desc": "Spss Analysis & Data Manipulat"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56648",
+        "desc": "Statistics Review Workshop"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56649",
+        "desc": "Subt Abuse Pol & Res"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56650",
+        "desc": "Supervised Fieldwork"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56651",
+        "desc": "The History of Public Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56652",
+        "desc": "The Human Organism"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56653",
+        "desc": "The Neighborhood Lab"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56654",
+        "desc": "Topics in Public Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56655",
+        "desc": "Topics:Public Hlth Res & Prac"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56656",
+        "desc": "Tp:Survy Dev Health Res"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56657",
+        "desc": "TransdisciplinaryTmwork Health"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56658",
+        "desc": "Urban Aging Policy"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56659",
+        "desc": "Urban Disasters"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56660",
+        "desc": "Visl Media56661: PUHE,\"Women  Health & Society"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56662",
+        "desc": "Writ Ethnography for Pub Hlth"
+    },
+    {
+        "major": "PUHE",
+        "room_num": "56663",
+        "desc": "Writing Curr Health Issues"
+    }
+]

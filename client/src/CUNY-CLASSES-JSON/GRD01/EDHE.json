@@ -1,0 +1,22 @@
+[
+    {
+        "major": "EDHE",
+        "room_num": "4095",
+        "desc": "Biostatistics Health Research"
+    },
+    {
+        "major": "EDHE",
+        "room_num": "4096",
+        "desc": "Family Health"
+    },
+    {
+        "major": "EDHE",
+        "room_num": "4097",
+        "desc": "First Aid & Safety Education"
+    },
+    {
+        "major": "EDHE",
+        "room_num": "4098",
+        "desc": "Health Services"
+    }
+]

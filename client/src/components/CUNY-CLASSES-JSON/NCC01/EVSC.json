@@ -1,0 +1,38 @@
+[
+    {
+        "school": "NCC01",
+        "major": "EVSC",
+        "room_num": "64233",
+        "room_desc": "Environ Sci I: Environ Systems"
+    },
+    {
+        "school": "NCC01",
+        "major": "EVSC",
+        "room_num": "64234",
+        "room_desc": "Environ Sci II Urbn Ecosys Man"
+    },
+    {
+        "school": "NCC01",
+        "major": "EVSC",
+        "room_num": "64235",
+        "room_desc": "Environmental Impact Assessmnt"
+    },
+    {
+        "school": "NCC01",
+        "major": "EVSC",
+        "room_num": "64236",
+        "room_desc": "Internship Environmental Sci"
+    },
+    {
+        "school": "NCC01",
+        "major": "EVSC",
+        "room_num": "64237",
+        "room_desc": "Special Topics Environment Sci"
+    },
+    {
+        "school": "NCC01",
+        "major": "EVSC",
+        "room_num": "64238",
+        "room_desc": "Urban Sustainability"
+    }
+]

@@ -1,0 +1,527 @@
+[
+    {
+        "major": "NASS",
+        "room_num": "79287",
+        "desc": "Adv Animal Studies"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79288",
+        "desc": "Adv Animal Studies I"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79289",
+        "desc": "African And Carib Li"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79290",
+        "desc": "Arithmetic"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79291",
+        "desc": "Arithmetic II"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79292",
+        "desc": "Arithmetic III"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79293",
+        "desc": "Arithmetic Lab"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79294",
+        "desc": "Arithmetics"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79295",
+        "desc": "Assembly Lang Lab"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79296",
+        "desc": "Basic Mathematics"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79297",
+        "desc": "Basic Physics"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79298",
+        "desc": "Basic Physics Lab"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79299",
+        "desc": "Bio Of Human Health"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79300",
+        "desc": "Biochemistry"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79301",
+        "desc": "Biological Terms"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79302",
+        "desc": "Biology II"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79303",
+        "desc": "Biology Of Human Hea"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79304",
+        "desc": "Biology Of Human Hlt"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79305",
+        "desc": "Calculus"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79306",
+        "desc": "Calculus I"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79307",
+        "desc": "Calculus II"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79308",
+        "desc": "Calculus III"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79309",
+        "desc": "Cell Biology"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79310",
+        "desc": "Cell Biology Lab"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79311",
+        "desc": "Chem Health Prof Lab"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79312",
+        "desc": "Chemistry Health Pro"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79313",
+        "desc": "Chordate Develop"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79314",
+        "desc": "Chordate Develop Lab"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79315",
+        "desc": "Chordate Morphol Lab"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79316",
+        "desc": "Chordate Morphology"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79317",
+        "desc": "College Math I"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79318",
+        "desc": "College Math II"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79319",
+        "desc": "Dev Pers Blk & Hisp"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79320",
+        "desc": "Earth Science"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79321",
+        "desc": "Elem Abstract Algebr"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79322",
+        "desc": "Elem Algebra Lab"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79323",
+        "desc": "Elem Differential Eq"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79324",
+        "desc": "Elem. Algebra"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79325",
+        "desc": "Elem. Linear Algebra"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79326",
+        "desc": "Evolution"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79327",
+        "desc": "Finite Math"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79328",
+        "desc": "Fortran Programming"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79329",
+        "desc": "Fundamental Of Mathe"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79330",
+        "desc": "Gen Bio I Lab"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79331",
+        "desc": "Gen Chem II Lab"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79332",
+        "desc": "Gen Chem Ii"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79333",
+        "desc": "Gen Chem Lab"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79334",
+        "desc": "General Bio I & II L"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79335",
+        "desc": "General Biology I"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79336",
+        "desc": "General Chemistry (L"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79337",
+        "desc": "General Physics I"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79338",
+        "desc": "General Physics I &"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79339",
+        "desc": "General Physics I La"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79340",
+        "desc": "Genetics"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79341",
+        "desc": "Genetics Lab"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79342",
+        "desc": "Genreral Physics Lab"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79343",
+        "desc": "Hum Anato Lab II"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79344",
+        "desc": "Human Physio And Gen"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79345",
+        "desc": "Human Physiology"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79346",
+        "desc": "Human Physiology Lab"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79347",
+        "desc": "Immun & Path. Micro."
+    },
+    {
+        "major": "NASS",
+        "room_num": "79348",
+        "desc": "Immun. & Path. Micro"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79349",
+        "desc": "Independent Res II"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79350",
+        "desc": "Inst Methods Honors"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79351",
+        "desc": "Intro To Chem Lab I"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79352",
+        "desc": "Intro To Chemistry"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79353",
+        "desc": "Intro To Fortran"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79354",
+        "desc": "Intro To Life Scienc"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79355",
+        "desc": "Intro To Nat Sci I"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79356",
+        "desc": "Intro To Nat Sci II"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79357",
+        "desc": "Intro To Natural Sci"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79358",
+        "desc": "Intro To Physic I"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79359",
+        "desc": "Intro To Physical Sc"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79360",
+        "desc": "Intro To Physics I & II"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79361",
+        "desc": "Intro To Study Of Na"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79362",
+        "desc": "Introduction To Chem"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79363",
+        "desc": "Introduction To Math"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79364",
+        "desc": "Introductory Statist"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79365",
+        "desc": "Invertebrate Zoolab"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79366",
+        "desc": "Invertebrate Zoology"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79367",
+        "desc": "Math For Elem Ed"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79368",
+        "desc": "Math For Elem Ed II"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79369",
+        "desc": "Math Of Clin Measure"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79370",
+        "desc": "Mathematic Of Financ"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79371",
+        "desc": "Micro Biology"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79372",
+        "desc": "Micro Computer Lab"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79373",
+        "desc": "Microbioliogy"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79374",
+        "desc": "Microbiology"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79375",
+        "desc": "Microbiology Lab"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79376",
+        "desc": "Organ Chem I"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79377",
+        "desc": "Organic Chem I Lab"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79378",
+        "desc": "Organic Chem II"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79379",
+        "desc": "Organic Chemistry II"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79380",
+        "desc": "Organic Chemistry La"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79381",
+        "desc": "Pathophysiology"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79382",
+        "desc": "Pl/I Programming Lab"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79383",
+        "desc": "Pre Calculus"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79384",
+        "desc": "Pres Calculus"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79385",
+        "desc": "Prin Of Environ Scie"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79386",
+        "desc": "Quant Anal Lab"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79387",
+        "desc": "Quant Analysis"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79388",
+        "desc": "Research Methods"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79389",
+        "desc": "Senior Research"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79390",
+        "desc": "Special Topics In Bi"
+    },
+    {
+        "major": "NASS",
+        "room_num": "79391",
+        "desc": "Statistics"
+    }
+]

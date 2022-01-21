@@ -1,0 +1,26 @@
+[
+    {
+        "school": "BCC01",
+        "major": "EASC",
+        "room_num": "68947",
+        "room_desc": "Earth Systems Science"
+    },
+    {
+        "school": "BCC01",
+        "major": "EASC",
+        "room_num": "68948",
+        "room_desc": "The Atmosphere"
+    },
+    {
+        "school": "BCC01",
+        "major": "EASC",
+        "room_num": "68949",
+        "room_desc": "The Environment"
+    },
+    {
+        "school": "BCC01",
+        "major": "EASC",
+        "room_num": "68950",
+        "room_desc": "The Ocean"
+    }
+]

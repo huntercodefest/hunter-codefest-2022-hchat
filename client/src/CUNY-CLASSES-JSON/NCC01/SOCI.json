@@ -1,0 +1,27 @@
+[
+    {
+        "major": "SOCI",
+        "room_num": "64300",
+        "desc": "Community Organizing"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "64301",
+        "desc": "Crime & Justice Urban Society"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "64302",
+        "desc": "Introduction Urban Community"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "64303",
+        "desc": "Introduction to Sociology"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "64304",
+        "desc": "Social Determinants of Health"
+    }
+]

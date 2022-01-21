@@ -1,0 +1,57 @@
+[
+    {
+        "major": "BIOS",
+        "room_num": "47311",
+        "desc": "Analysis of Category Data"
+    },
+    {
+        "major": "BIOS",
+        "room_num": "47312",
+        "desc": "Analysis of Longitudinal Data"
+    },
+    {
+        "major": "BIOS",
+        "room_num": "47313",
+        "desc": "Analysis of Variance"
+    },
+    {
+        "major": "BIOS",
+        "room_num": "47314",
+        "desc": "Applied Bio-statistics III"
+    },
+    {
+        "major": "BIOS",
+        "room_num": "47315",
+        "desc": "Applied Biostatistics 1"
+    },
+    {
+        "major": "BIOS",
+        "room_num": "47316",
+        "desc": "Applied Biostatistics II"
+    },
+    {
+        "major": "BIOS",
+        "room_num": "47317",
+        "desc": "Data Analysis"
+    },
+    {
+        "major": "BIOS",
+        "room_num": "47318",
+        "desc": "Desg/Alys Cmplx Surv"
+    },
+    {
+        "major": "BIOS",
+        "room_num": "47319",
+        "desc": "Intro: Bayesian Statistics"
+    },
+    {
+        "major": "BIOS",
+        "room_num": "47320",
+        "desc": "Supervised Fieldwork"
+    },
+    {
+        "major": "BIOS",
+        "room_num": "47321",
+        "desc": "Survival Analysis"
+    }
+]

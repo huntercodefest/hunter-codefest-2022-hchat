@@ -1,0 +1,422 @@
+[
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24792",
+        "room_desc": "Advanced Seminars"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24793",
+        "room_desc": "African Lit in World Context"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24794",
+        "room_desc": "African Literatures"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24795",
+        "room_desc": "Age Of Reason"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24796",
+        "room_desc": "America: Lit of a Continent"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24797",
+        "room_desc": "Archetypes"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24798",
+        "room_desc": "Capstone Seminar Human Rights"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24799",
+        "room_desc": "Cinema N. Africa and Mid East"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24800",
+        "room_desc": "Early Modern Atlantic World"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24801",
+        "room_desc": "East Asian Literature I"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24802",
+        "room_desc": "East Asian Literature II"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24803",
+        "room_desc": "East Literature 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24804",
+        "room_desc": "Epic Poetry"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24805",
+        "room_desc": "European Novel"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24806",
+        "room_desc": "Fierce Frontiers"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24807",
+        "room_desc": "Forms Of Fict"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24808",
+        "room_desc": "Forms of Fiction"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24809",
+        "room_desc": "Francophone Lit in a World Co"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24810",
+        "room_desc": "Global Literatures I"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24811",
+        "room_desc": "Global Literatures II"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24812",
+        "room_desc": "Great Auth In Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24813",
+        "room_desc": "Great Authors"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24814",
+        "room_desc": "Great Authors in Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24815",
+        "room_desc": "Great Books"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24816",
+        "room_desc": "Great Books 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24817",
+        "room_desc": "Great Books 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24818",
+        "room_desc": "Great Books I"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24819",
+        "room_desc": "Great Books II"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24820",
+        "room_desc": "Holocaust & Lit Imag"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24821",
+        "room_desc": "Humanities"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24822",
+        "room_desc": "Internship"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24823",
+        "room_desc": "Intro To Cmlit"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24824",
+        "room_desc": "Life Writing"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24825",
+        "room_desc": "Lit Of The Renais"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24826",
+        "room_desc": "Lit&Society N.Africa&Mid East"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24827",
+        "room_desc": "Literary Criticism"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24828",
+        "room_desc": "Literature and Anthropology"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24829",
+        "room_desc": "Literature and Conflict"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24830",
+        "room_desc": "Literature and History"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24831",
+        "room_desc": "Literature and Human Rights"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24832",
+        "room_desc": "Literature and the Movies"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24833",
+        "room_desc": "Modern Drama"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24834",
+        "room_desc": "Modern Poetry"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24835",
+        "room_desc": "Nietzsche24836: COLI,\"Postcolonial Literatures"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24837",
+        "room_desc": "Problems in Drama"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24838",
+        "room_desc": "Psychanlys Cult & Lit Crit"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24839",
+        "room_desc": "Represent Photo & Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24840",
+        "room_desc": "Romanticism"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24841",
+        "room_desc": "Russia and the West"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24842",
+        "room_desc": "Slavery and Freedom"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24843",
+        "room_desc": "The Enlightenment"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24844",
+        "room_desc": "The European Novel"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24845",
+        "room_desc": "Theme In 20C Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24846",
+        "room_desc": "Themes in Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24847",
+        "room_desc": "Topics in Modern Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24848",
+        "room_desc": "Tragedy"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24849",
+        "room_desc": "Trans Theory & Pract"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24850",
+        "room_desc": "VT: Forms Of Fiction"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24851",
+        "room_desc": "VT: Literature and Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24852",
+        "room_desc": "VT: Medieval Lit 1100-1500"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24853",
+        "room_desc": "VT: Russia & The West"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24854",
+        "room_desc": "Vt: Myth & Heroic Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24855",
+        "room_desc": "Vt: Myth/Heroic Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24856",
+        "room_desc": "Vt: Renaissance Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24857",
+        "room_desc": "Vt: Women In Modern World Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24858",
+        "room_desc": "Vt: Women Mod Wld Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24859",
+        "room_desc": "Vt:Advanced Seminar"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24860",
+        "room_desc": "Western Masterpieces"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24861",
+        "room_desc": "Writing Workshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "24862",
+        "room_desc": "Writing about World Literature"
+    }
+]

@@ -1,0 +1,278 @@
+[
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17905",
+        "room_desc": "Art in Education"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17906",
+        "room_desc": "Aud Vis Dev & Tech"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17907",
+        "room_desc": "Curr & Prog Pl I"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17908",
+        "room_desc": "Curr & Prog Pl II"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17909",
+        "room_desc": "Current Concepts in Voc Edu"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17910",
+        "room_desc": "Demo Teach & Eval"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17911",
+        "room_desc": "Demo Teaching"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17912",
+        "room_desc": "EAP Directed Study"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17913",
+        "room_desc": "Eap Directed Study"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17914",
+        "room_desc": "Early Child Ed I"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17915",
+        "room_desc": "Early Child Ed II"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17916",
+        "room_desc": "Early Childhd & Element Edu"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17917",
+        "room_desc": "Ed & Behav Sciences"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17918",
+        "room_desc": "Ed & Communic Arts"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17919",
+        "room_desc": "Ed Asst Work Exp"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17920",
+        "room_desc": "Educ & Art Forms"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17921",
+        "room_desc": "Educ Asst Work Exp"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17922",
+        "room_desc": "Education in Modern Society"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17923",
+        "room_desc": "Eval Of Instruction"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17924",
+        "room_desc": "Intro To Teaching I"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17925",
+        "room_desc": "Intro Voc Ed"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17926",
+        "room_desc": "Introduction to Teaching II"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17927",
+        "room_desc": "Lab Org & Mgt"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17928",
+        "room_desc": "Meth Teach Tech Sub"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17929",
+        "room_desc": "Meth Teach Trde Sub"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17930",
+        "room_desc": "Music and Movement in Learning"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17931",
+        "room_desc": "Observing Children Development"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17932",
+        "room_desc": "Orientation Voc Tch"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17933",
+        "room_desc": "Priv Trade Prof Sem"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17934",
+        "room_desc": "Prof Develmnt Sem"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17935",
+        "room_desc": "Psych Found Of Ed"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17936",
+        "room_desc": "Shop Org & Mgt"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17937",
+        "room_desc": "Super Instruct"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17938",
+        "room_desc": "Supervised Field Work I"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17939",
+        "room_desc": "Supervised Field Work III"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17940",
+        "room_desc": "Suprvsd Fld Work 2"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17941",
+        "room_desc": "Teaching Observation"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17942",
+        "room_desc": "Teaching Obsrvation"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17943",
+        "room_desc": "Tech Contnt Analsis"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17944",
+        "room_desc": "Tech Course Org"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17945",
+        "room_desc": "Trade Analysis"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17946",
+        "room_desc": "Trade Course Org"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17947",
+        "room_desc": "Urban Sch in Diverse Amer Soc"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17948",
+        "room_desc": "Voc Co-Op Prog Ops"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17949",
+        "room_desc": "Voc Co-op Prgm Org"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "17950",
+        "room_desc": "Voc Ed Psychology"
+    }
+]

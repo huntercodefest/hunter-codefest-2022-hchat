@@ -1,0 +1,362 @@
+[
+    {
+        "major": "DANA",
+        "room_num": "80450",
+        "desc": "Adv Prog Techniques"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80451",
+        "desc": "Adv Programming Techniques"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80452",
+        "desc": "Adv Stat & Prob Models"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80453",
+        "desc": "Bus Desgn/Workflow"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80454",
+        "desc": "Business Analyt & Data Mining"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80455",
+        "desc": "Business Analytics"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80456",
+        "desc": "Computational Mathematics"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80457",
+        "desc": "Computer Forensics"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80458",
+        "desc": "Computer and Network Security"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80459",
+        "desc": "Current Topics Data Analytics"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80460",
+        "desc": "Data Acquisition & Management"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80461",
+        "desc": "Data Acquisition & Mgmt"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80462",
+        "desc": "Data Acquisition and Mgmt"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80463",
+        "desc": "Data Acquit & Mgmt"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80464",
+        "desc": "Data Analytics Internship"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80465",
+        "desc": "Data Explor & Outlier Analysis"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80466",
+        "desc": "Data Structures and Algorithms"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80467",
+        "desc": "Database Arch & Programming"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80468",
+        "desc": "E-Commerce for I S"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80469",
+        "desc": "Engr Math-Comp Syst"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80470",
+        "desc": "Enterprise Arch/Apps"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80471",
+        "desc": "Foundations of Info Systems"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80472",
+        "desc": "Fund Of Comp Math"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80473",
+        "desc": "Geographic Information Systems"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80474",
+        "desc": "Health Information Technology"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80475",
+        "desc": "Human-Computer Interaction"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80476",
+        "desc": "I S Special Topics"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80477",
+        "desc": "I S Strat/Mgmt/Acquistn"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80478",
+        "desc": "IT Infrastructure and Support"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80479",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80480",
+        "desc": "Information  Systems Capstone"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80481",
+        "desc": "Information and Systems"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80482",
+        "desc": "Introduction to Data Science"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80483",
+        "desc": "Knowledge and Visual Analytics"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80484",
+        "desc": "Logistics/Sup Chain Mgmt"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80485",
+        "desc": "Machine Learning and Big Data"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80486",
+        "desc": "Managerial Decision Analytics"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80487",
+        "desc": "Managing Innovation & Strategy"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80488",
+        "desc": "Master\u2019s Research Project"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80489",
+        "desc": "Math Modeling"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80490",
+        "desc": "Math Modeling Techniques"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80491",
+        "desc": "Ntwks & Bus Data Comm"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80492",
+        "desc": "Predictive Analytics"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80493",
+        "desc": "Principles of Informatics"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80494",
+        "desc": "Project Management Concepts"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80495",
+        "desc": "Quantitative Finance"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80496",
+        "desc": "Recommender Systems"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80497",
+        "desc": "Research Methods"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80498",
+        "desc": "Research Project"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80499",
+        "desc": "Sim & Model Technqs"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80500",
+        "desc": "Simulation and Modeling Tech"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80501",
+        "desc": "Social Media"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80502",
+        "desc": "Software App Prog I"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80503",
+        "desc": "Software App Prog II"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80504",
+        "desc": "Stat & Probability"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80505",
+        "desc": "Statistics and Probability"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80506",
+        "desc": "Systems Analysis and Design"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80507",
+        "desc": "Technol For Sustain"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80508",
+        "desc": "Technologies-Sustainability"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80509",
+        "desc": "Technology for Sustainability"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80510",
+        "desc": "Top In Complx Sys Analys"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80511",
+        "desc": "Topics In Data Base Syst"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80512",
+        "desc": "Topics-Data Analytics"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80513",
+        "desc": "Urb Society & Sustain"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80514",
+        "desc": "Urb Sustain-Complx Sys"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80515",
+        "desc": "Urb Sustain-Transportation"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80516",
+        "desc": "Urban Complex Systems"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80517",
+        "desc": "Urban Sustain-Energy"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80518",
+        "desc": "Urban Sustainability: Energy"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80519",
+        "desc": "Urban Sustainability: Transpor"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80520",
+        "desc": "Web Analytics"
+    },
+    {
+        "major": "DANA",
+        "room_num": "80521",
+        "desc": "Web Prog/Mobile App Devl"
+    }
+]

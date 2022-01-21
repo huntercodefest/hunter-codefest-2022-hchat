@@ -1,0 +1,62 @@
+[
+    {
+        "major": "ASTR",
+        "room_num": "15308",
+        "desc": "Astronomy Laboratory"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "15309",
+        "desc": "Astrophysics I: Planetary Astr"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "15310",
+        "desc": "Astrophysics II: Stellar Astr"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "15311",
+        "desc": "Astrophysics III:Extragalactic"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "15312",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "15313",
+        "desc": "Intro Astronomy"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "15314",
+        "desc": "Introduction to Cosmology"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "15315",
+        "desc": "Methods of Scientific Research"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "15316",
+        "desc": "Observational Astronomy"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "15317",
+        "desc": "Stars and the Milky Way"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "15318",
+        "desc": "Stars15319: ASTR,\"Sun & Planets"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "15320",
+        "desc": "The Solar System"
+    }
+]

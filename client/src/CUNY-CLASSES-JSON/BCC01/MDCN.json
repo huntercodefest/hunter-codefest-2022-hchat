@@ -1,0 +1,67 @@
+[
+    {
+        "major": "MDCN",
+        "room_num": "69314",
+        "desc": "Cardiac Ultrasound"
+    },
+    {
+        "major": "MDCN",
+        "room_num": "69315",
+        "desc": "Clinical Nuclear Medicine"
+    },
+    {
+        "major": "MDCN",
+        "room_num": "69316",
+        "desc": "Clinical Nuclear Medicine II"
+    },
+    {
+        "major": "MDCN",
+        "room_num": "69317",
+        "desc": "Didactic Nuclear Medicine"
+    },
+    {
+        "major": "MDCN",
+        "room_num": "69318",
+        "desc": "Ekg-Interpretation& Techniques"
+    },
+    {
+        "major": "MDCN",
+        "room_num": "69319",
+        "desc": "Nuclear Medicine Procedures"
+    },
+    {
+        "major": "MDCN",
+        "room_num": "69320",
+        "desc": "Nuclear Physics Laboratory"
+    },
+    {
+        "major": "MDCN",
+        "room_num": "69321",
+        "desc": "Orientation Nuclear Medicine"
+    },
+    {
+        "major": "MDCN",
+        "room_num": "69322",
+        "desc": "Phlebotomy"
+    },
+    {
+        "major": "MDCN",
+        "room_num": "69323",
+        "desc": "Radiation Biology"
+    },
+    {
+        "major": "MDCN",
+        "room_num": "69324",
+        "desc": "Radiation Physics"
+    },
+    {
+        "major": "MDCN",
+        "room_num": "69325",
+        "desc": "Radio-Pharmaceutical Chemistry"
+    },
+    {
+        "major": "MDCN",
+        "room_num": "69326",
+        "desc": "Senior NMT Seminar"
+    }
+]

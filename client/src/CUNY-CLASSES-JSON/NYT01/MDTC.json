@@ -1,0 +1,167 @@
+[
+    {
+        "major": "MDTC",
+        "room_num": "67743",
+        "desc": "Blood Transfusion Technology"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67744",
+        "desc": "Clin Hosp Prac III"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67745",
+        "desc": "Clin Hosp Pract II"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67746",
+        "desc": "Clinical Chemistry Training"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67747",
+        "desc": "Clinical Hosp Prac I"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67748",
+        "desc": "Clinical Microbiology Training"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67749",
+        "desc": "Clinical Microscopy Training"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67750",
+        "desc": "Clinical Parasitology"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67751",
+        "desc": "Clinical Parasitology Training"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67752",
+        "desc": "Clinical Science"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67753",
+        "desc": "Cytology"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67754",
+        "desc": "Cytotechnology Training I"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67755",
+        "desc": "Cytotechnology Training II"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67756",
+        "desc": "Diagnostic Molecular Biology"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67757",
+        "desc": "Hematolgy Training"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67758",
+        "desc": "Hematology"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67759",
+        "desc": "Histotechnology Training I"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67760",
+        "desc": "Histotechnology Training II"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67761",
+        "desc": "Hospital Laboratory Practice"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67762",
+        "desc": "Immuno-Hematology Training"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67763",
+        "desc": "Laboratory Ops & Mgmt"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67764",
+        "desc": "Med Tech Ind Study"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67765",
+        "desc": "Med Tech Intrnship"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67766",
+        "desc": "Medical Mycology"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67767",
+        "desc": "Medical Tech. Comp. Review"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67768",
+        "desc": "Medical Technology Ind Study"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67769",
+        "desc": "Medical Technology Internship"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67770",
+        "desc": "Medical Technology Training I"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67771",
+        "desc": "Medical Technology Training II"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67772",
+        "desc": "Nuclear Medicine Training I"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67773",
+        "desc": "Nuclear Medicine Training II"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67774",
+        "desc": "Radiochemistry & Radiochem An"
+    },
+    {
+        "major": "MDTC",
+        "room_num": "67775",
+        "desc": "Serology-Immunology Training"
+    }
+]

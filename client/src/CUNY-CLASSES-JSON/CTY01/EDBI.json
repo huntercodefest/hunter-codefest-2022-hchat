@@ -1,0 +1,52 @@
+[
+    {
+        "major": "EDBI",
+        "room_num": "34945",
+        "desc": "Basic Ecology"
+    },
+    {
+        "major": "EDBI",
+        "room_num": "34946",
+        "desc": "Environmental Conservation"
+    },
+    {
+        "major": "EDBI",
+        "room_num": "34947",
+        "desc": "Environmental Field Studies"
+    },
+    {
+        "major": "EDBI",
+        "room_num": "34948",
+        "desc": "Field Biology"
+    },
+    {
+        "major": "EDBI",
+        "room_num": "34949",
+        "desc": "Genetics"
+    },
+    {
+        "major": "EDBI",
+        "room_num": "34950",
+        "desc": "Human Biology"
+    },
+    {
+        "major": "EDBI",
+        "room_num": "34951",
+        "desc": "Human Ecology"
+    },
+    {
+        "major": "EDBI",
+        "room_num": "34952",
+        "desc": "Indpnt Stud:Rsrch Biology"
+    },
+    {
+        "major": "EDBI",
+        "room_num": "34953",
+        "desc": "Modern Concepts in Biology I"
+    },
+    {
+        "major": "EDBI",
+        "room_num": "34954",
+        "desc": "Modern Concepts in Biology II"
+    }
+]

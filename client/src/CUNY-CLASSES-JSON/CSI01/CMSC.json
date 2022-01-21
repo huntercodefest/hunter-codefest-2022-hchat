@@ -1,0 +1,677 @@
+[
+    {
+        "major": "CMSC",
+        "room_num": "83695",
+        "desc": "36  Ooo"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83696",
+        "desc": "Adv Comput Game Programming"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83697",
+        "desc": "Adv High Perf Comp"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83698",
+        "desc": "Adv Micro Sys Design"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83699",
+        "desc": "Advanced Data Communications"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83700",
+        "desc": "Advanced Database Systems"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83701",
+        "desc": "Advanced Operating Systems"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83702",
+        "desc": "Advanced Systems Programming"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83703",
+        "desc": "Algrithms&Info Struc"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83704",
+        "desc": "Analysis of Algorithms"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83705",
+        "desc": "App Concepts in Info Systems"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83706",
+        "desc": "App Math Comp Sci"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83707",
+        "desc": "Applications Programming"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83708",
+        "desc": "Applied Cryptography"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83709",
+        "desc": "Artif Intel&Knw Engi"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83710",
+        "desc": "Artificial Intelligence"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83711",
+        "desc": "Assistive Tech for Univ Apps"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83712",
+        "desc": "Basic Desktop Publishing"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83713",
+        "desc": "Broadband and SONET Networks"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83714",
+        "desc": "C Programming"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83715",
+        "desc": "CSC Internship"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83716",
+        "desc": "Cobol Programming"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83717",
+        "desc": "Comp Aided Analysis & Design"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83718",
+        "desc": "Comp Perfrmnce Eval"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83719",
+        "desc": "Comp Sci Grad Cr"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83720",
+        "desc": "Comp Sci Grad Credit"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83721",
+        "desc": "Comp Sci Grad Credti"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83722",
+        "desc": "Comp Sci Ind Study"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83723",
+        "desc": "Comp Sci Indep Stdy"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83724",
+        "desc": "Compiler Construction"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83725",
+        "desc": "Computability"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83726",
+        "desc": "Computation Theory"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83727",
+        "desc": "Computational Problem Solving"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83728",
+        "desc": "Computer Architecture"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83729",
+        "desc": "Computer Graphics"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83730",
+        "desc": "Computer Hacking Revealed"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83731",
+        "desc": "Computer Organization"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83732",
+        "desc": "Computer Sci & Linguistics"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83733",
+        "desc": "Computer Sci Credit"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83734",
+        "desc": "Computer Sci Independent Study"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83735",
+        "desc": "Computer Science Internship"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83736",
+        "desc": "Computer System Design"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83737",
+        "desc": "Computer System Fundamentals"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83738",
+        "desc": "Computer Technology Concepts"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83739",
+        "desc": "Computer Technology Lab"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83740",
+        "desc": "Computer Vision"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83741",
+        "desc": "Computer and Windows"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83742",
+        "desc": "Computers & Society"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83743",
+        "desc": "Computers Perspctves"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83744",
+        "desc": "Computers for Today"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83745",
+        "desc": "Computers83746: CMSC,\"Computing for Teachers I"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83747",
+        "desc": "Computing for Teachers II"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83748",
+        "desc": "Computr Sci Internsh"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83749",
+        "desc": "Cryptography"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83750",
+        "desc": "Data Science"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83751",
+        "desc": "Data Structures"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83752",
+        "desc": "Database Theory"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83753",
+        "desc": "Digital Circuits Design"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83754",
+        "desc": "Digital Circuits Laboratory"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83755",
+        "desc": "Digital Image Processing"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83756",
+        "desc": "Digital Signal Processing"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83757",
+        "desc": "Discrete Simulation"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83758",
+        "desc": "Discrete Structures"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83759",
+        "desc": "Discrte Mth Comp Sci"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83760",
+        "desc": "Formal Language Theory"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83761",
+        "desc": "Fund Wireless Comm"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83762",
+        "desc": "Graduate Research Laboratory"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83763",
+        "desc": "Graph-Based Analy for Big Data"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83764",
+        "desc": "High-speed LAN and WAN"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83765",
+        "desc": "Honors Workshop"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83766",
+        "desc": "Image Process Comp Sci"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83767",
+        "desc": "Info Retrieval"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83768",
+        "desc": "Info Structures for Business"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83769",
+        "desc": "Input/Output Operations"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83770",
+        "desc": "Intelligent Networks"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83771",
+        "desc": "Intermediate Programming"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83772",
+        "desc": "Internet Data Communications"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83773",
+        "desc": "Intrnet/Cdrom/Hsmath"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83774",
+        "desc": "Intrnt App Scrpt Lng"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83775",
+        "desc": "Intro Comp Game Prog"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83776",
+        "desc": "Intro Comp Technolog"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83777",
+        "desc": "Intro Computer Sci"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83778",
+        "desc": "Intro High Perf Computing"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83779",
+        "desc": "Intro To Info Sys"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83780",
+        "desc": "Intro To Ms-Dos"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83781",
+        "desc": "Intro To Wrdprocesng"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83782",
+        "desc": "Intro to Comp Thinking for Tch"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83783",
+        "desc": "Intro to Database Systems"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83784",
+        "desc": "Intro to Sci83785: CMSC,\"Intro to Web Dev/The Internet"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83786",
+        "desc": "Introduction to Data Science"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83787",
+        "desc": "Introduction to Database"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83788",
+        "desc": "Introduction to Spreadsheets"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83789",
+        "desc": "Introductory Computer Graphics"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83790",
+        "desc": "Job Control Language"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83791",
+        "desc": "Knowledge Discovery"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83792",
+        "desc": "Lang & Computers"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83793",
+        "desc": "Mach Learn & Knowledge Disc"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83794",
+        "desc": "Machine Learning & Data Mining"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83795",
+        "desc": "Management Information Systems"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83796",
+        "desc": "Media Trans&Charac"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83797",
+        "desc": "Microcontrollers"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83798",
+        "desc": "Mobile Application Development"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83799",
+        "desc": "Modern Web Development"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83800",
+        "desc": "Natural Language Processing"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83801",
+        "desc": "Network Security"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83802",
+        "desc": "Neural Networks and Deep Learn"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83803",
+        "desc": "Oper Sys Des&Implmtn"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83804",
+        "desc": "Operatating Sys Prog Lab"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83805",
+        "desc": "Operating Systems I"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83806",
+        "desc": "Operating Systems II"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83807",
+        "desc": "Operations I"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83808",
+        "desc": "Operations II"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83809",
+        "desc": "Parallel Computing"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83810",
+        "desc": "Pattern Recogn & Neural Netw"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83811",
+        "desc": "Programing Languages"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83812",
+        "desc": "Robotic Explorations"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83813",
+        "desc": "Scientific Computing"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83814",
+        "desc": "Seminar in Computer Science"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83815",
+        "desc": "Serious Game Development"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83816",
+        "desc": "Shared Memory Parallel Comp"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83817",
+        "desc": "Software Design"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83818",
+        "desc": "Software Engineering"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83819",
+        "desc": "Software Systems Design"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83820",
+        "desc": "Spec Topics Adv Web Dev"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83821",
+        "desc": "Special Topics-Computer Vision"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83822",
+        "desc": "Tech Curr Dev & Instruction"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83823",
+        "desc": "Tech Infsd Curr Dev"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83824",
+        "desc": "Technology Programng"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83825",
+        "desc": "Telecommunication Networks"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83826",
+        "desc": "Text Editing Systems"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83827",
+        "desc": "Theory of Computation"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83828",
+        "desc": "Thesis Research"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83829",
+        "desc": "Topics in System Simulation"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83830",
+        "desc": "Tpc Applic Progrmg"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "83831",
+        "desc": "Web Database Applications"
+    }
+]

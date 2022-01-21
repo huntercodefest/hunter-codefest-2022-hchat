@@ -1,0 +1,22 @@
+[
+    {
+        "major": "CLIP",
+        "room_num": "64451",
+        "desc": "CLIP - Level 1"
+    },
+    {
+        "major": "CLIP",
+        "room_num": "64452",
+        "desc": "CLIP - Level 2"
+    },
+    {
+        "major": "CLIP",
+        "room_num": "64453",
+        "desc": "CLIP - Level 3"
+    },
+    {
+        "major": "CLIP",
+        "room_num": "64454",
+        "desc": "CLIP - Level 4"
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "major": "PHTA",
+        "room_num": "16615",
+        "desc": "Ambulatory Care"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16616",
+        "desc": "Clinical Anatomy"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16617",
+        "desc": "Clinical Correlations"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16618",
+        "desc": "Clinical Skills"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16619",
+        "desc": "Clinical-Intern Med"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16620",
+        "desc": "Diagnostic Studies"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16621",
+        "desc": "Emergency Medicine"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16622",
+        "desc": "Emergency Medicine Rotation"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16623",
+        "desc": "Family Medicine"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16624",
+        "desc": "Internal Medicine I"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16625",
+        "desc": "Internal Medicine II"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16626",
+        "desc": "Interviewing and Counseling"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16627",
+        "desc": "Long Term Care Rotation"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16628",
+        "desc": "Microbiology & Immunology"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16629",
+        "desc": "Ob/Gyn Clinical Rotation"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16630",
+        "desc": "Pathology"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16631",
+        "desc": "Pediatrics Clinical Rotation"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16632",
+        "desc": "Pharmacology I"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16633",
+        "desc": "Pharmacology II"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16634",
+        "desc": "Physical Diagnosis I"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16635",
+        "desc": "Physical Diagnosis I - Lab"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16636",
+        "desc": "Physical Diagnosis II"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16637",
+        "desc": "Physical Diagnosis II - Lab"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16638",
+        "desc": "Physician Assistant Profession"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16639",
+        "desc": "Primary Care I"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16640",
+        "desc": "Primary Care II"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16641",
+        "desc": "Psychiatry Rotation"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16642",
+        "desc": "Psychosocial Dynamics"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16643",
+        "desc": "Surgery"
+    },
+    {
+        "major": "PHTA",
+        "room_num": "16644",
+        "desc": "Surgical Clinical Rotation"
+    }
+]

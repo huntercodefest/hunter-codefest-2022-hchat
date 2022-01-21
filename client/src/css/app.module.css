@@ -1,0 +1,16 @@
+.msgInput {
+    width: 60%;
+    height: 20%;
+    border: 1px solid black;
+    color: black;
+    text-align: center;
+    margin: auto;
+}
+
+.displaynone{
+    display: none;
+}
+
+.message{
+    display: block;
+}

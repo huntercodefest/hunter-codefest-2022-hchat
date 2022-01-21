@@ -1,0 +1,38 @@
+[
+    {
+        "school": "JJC01",
+        "major": "RELI",
+        "room_num": "21819",
+        "room_desc": "Eastern Religion"
+    },
+    {
+        "school": "JJC01",
+        "major": "RELI",
+        "room_num": "21820",
+        "room_desc": "Eastern Religions"
+    },
+    {
+        "school": "JJC01",
+        "major": "RELI",
+        "room_num": "21821",
+        "room_desc": "Independent Study 200-level"
+    },
+    {
+        "school": "JJC01",
+        "major": "RELI",
+        "room_num": "21822",
+        "room_desc": "Independent Study 300-level"
+    },
+    {
+        "school": "JJC01",
+        "major": "RELI",
+        "room_num": "21823",
+        "room_desc": "Independent Study 400-level"
+    },
+    {
+        "school": "JJC01",
+        "major": "RELI",
+        "room_num": "21824",
+        "room_desc": "Western Religions"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "major": "YIDD",
+        "room_num": "77901",
+        "desc": "Elementary 1"
+    },
+    {
+        "major": "YIDD",
+        "room_num": "77902",
+        "desc": "Elementary 2"
+    },
+    {
+        "major": "YIDD",
+        "room_num": "77903",
+        "desc": "Elementary Yiddish I"
+    },
+    {
+        "major": "YIDD",
+        "room_num": "77904",
+        "desc": "Elementary Yiddish II"
+    },
+    {
+        "major": "YIDD",
+        "room_num": "77905",
+        "desc": "Intermediate Yiddish I"
+    },
+    {
+        "major": "YIDD",
+        "room_num": "77906",
+        "desc": "Intermediate Yiddish II"
+    },
+    {
+        "major": "YIDD",
+        "room_num": "77907",
+        "desc": "Mod Readings"
+    },
+    {
+        "major": "YIDD",
+        "room_num": "77908",
+        "desc": "Yiddish Short Stories & Poetry"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "school": "MEC01",
+        "major": "TELE",
+        "room_num": "80129",
+        "room_desc": "Data Communications"
+    },
+    {
+        "school": "MEC01",
+        "major": "TELE",
+        "room_num": "80130",
+        "room_desc": "Digital Comm Systems"
+    },
+    {
+        "school": "MEC01",
+        "major": "TELE",
+        "room_num": "80131",
+        "room_desc": "Local/Wide Area Ntwk"
+    },
+    {
+        "school": "MEC01",
+        "major": "TELE",
+        "room_num": "80132",
+        "room_desc": "Network Design"
+    },
+    {
+        "school": "MEC01",
+        "major": "TELE",
+        "room_num": "80133",
+        "room_desc": "Network Programming"
+    },
+    {
+        "school": "MEC01",
+        "major": "TELE",
+        "room_num": "80134",
+        "room_desc": "Ntwk Eval & Optimztn"
+    },
+    {
+        "school": "MEC01",
+        "major": "TELE",
+        "room_num": "80135",
+        "room_desc": "Siglng & Trnsmn Thry"
+    }
+]

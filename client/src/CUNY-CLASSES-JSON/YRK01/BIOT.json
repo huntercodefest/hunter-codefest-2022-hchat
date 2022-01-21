@@ -1,0 +1,37 @@
+[
+    {
+        "major": "BIOT",
+        "room_num": "15399",
+        "desc": "Bioinformatics"
+    },
+    {
+        "major": "BIOT",
+        "room_num": "15400",
+        "desc": "Biotech&Biopharm Lab"
+    },
+    {
+        "major": "BIOT",
+        "room_num": "15401",
+        "desc": "Biotechnology & Biopharm"
+    },
+    {
+        "major": "BIOT",
+        "room_num": "15402",
+        "desc": "Comp Bio & Mole Dsgn"
+    },
+    {
+        "major": "BIOT",
+        "room_num": "15403",
+        "desc": "Introduction to Biotechnology"
+    },
+    {
+        "major": "BIOT",
+        "room_num": "15404",
+        "desc": "Special Topics Btec"
+    },
+    {
+        "major": "BIOT",
+        "room_num": "15405",
+        "desc": "Theory & Exp-Biotec"
+    }
+]

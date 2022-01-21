@@ -1,0 +1,758 @@
+[
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72012",
+        "room_desc": "Adapted Physical Education"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72013",
+        "room_desc": "Admin Leadershp&Supervsn in PE"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72014",
+        "room_desc": "Adol Educ: Stud Teach Practcum"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72015",
+        "room_desc": "Adol Sci Ed: Stud Tch Prac 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72016",
+        "room_desc": "Adolescent Education: English"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72017",
+        "room_desc": "Adv Digtal Adl Math"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72018",
+        "room_desc": "Adv Inst Strategies for PhysEd"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72019",
+        "room_desc": "Adv Pedagogy&Curiculum P-12:PE"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72020",
+        "room_desc": "Adv Sem Ped & Curr Chldhd Edu"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72021",
+        "room_desc": "Adv Stud Teaching: English"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72022",
+        "room_desc": "Adv Stud Teachng:Social Stud"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72023",
+        "room_desc": "Adv Student Teachng: Mod Lang"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72024",
+        "room_desc": "Adv Theor/Pr Comp"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72025",
+        "room_desc": "Adv Topics in Grades 5-9 Math"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72026",
+        "room_desc": "Child & Youth/Urban Educ"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72027",
+        "room_desc": "Child&Youth with Special Needs"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72028",
+        "room_desc": "Children & Youth in Urban Educ"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72029",
+        "room_desc": "Children&Youth with Spec Needs"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72030",
+        "room_desc": "Classrm Intract & Curriculum"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72031",
+        "room_desc": "Coaching & Officiating"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72032",
+        "room_desc": "Comprehnsv Stdnt Tching PhysEd"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72033",
+        "room_desc": "Concepts of Fitness & Health"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72034",
+        "room_desc": "Critical Issues in US Educatn"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72035",
+        "room_desc": "Curr In Sec Educ"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72036",
+        "room_desc": "Data Anal72037: EDSE,\"Dev Cul Cog Lan Sc"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72038",
+        "room_desc": "Directed Readings and Research"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72039",
+        "room_desc": "Div & Inclusive Class"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72040",
+        "room_desc": "Dual Lifetime Sport &Phys Actv"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72041",
+        "room_desc": "Dvlpng Schl-Based Ldrsp Skills"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72042",
+        "room_desc": "Educ Stud with Special Needs"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72043",
+        "room_desc": "Education and Ethics"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72044",
+        "room_desc": "Evidence &Argument Natural Sci"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72045",
+        "room_desc": "Geography in Mid & High School"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72046",
+        "room_desc": "Hist Phil &Cult Foundatn of Ed"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72047",
+        "room_desc": "Hist72048: EDSE,\"Hist72049: EDSE,\"Honors Sem Educ 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72050",
+        "room_desc": "Honors Sem Educ 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72051",
+        "room_desc": "Human Track in Urban Landscape"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72052",
+        "room_desc": "Inst Stratgies in PhysEd2 7-12"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72053",
+        "room_desc": "Integ Tech & Media"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72054",
+        "room_desc": "Issues & Strategies in Educ"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72055",
+        "room_desc": "Issues Teaching Middle Childhd"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72056",
+        "room_desc": "Lang & Literacy Urban School"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72057",
+        "room_desc": "Lit Nds Stud Mid Sch"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72058",
+        "room_desc": "Lit Needs Of HS Students"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72059",
+        "room_desc": "Mdl Sci Ed Stu Tch 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72060",
+        "room_desc": "Measurement & Assessment in PE"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72061",
+        "room_desc": "Meth Child/Adolesc Science 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72062",
+        "room_desc": "Meth Instr In Adol Sci Tch"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72063",
+        "room_desc": "Meth Mid Chd Adol Sci Teach II"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72064",
+        "room_desc": "Methd Of Instr Adol Sci Tch"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72065",
+        "room_desc": "Method:Tchng Music"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72066",
+        "room_desc": "Methods in Teaching Middle Sch"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72067",
+        "room_desc": "Mid Childhood Science Educat"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72068",
+        "room_desc": "Mindfulness Everyday Living"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72069",
+        "room_desc": "Movement Skills & Dance in PE"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72070",
+        "room_desc": "Number72071: EDSE,\"P&L Sc Inst&L1mid Ad"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72072",
+        "room_desc": "P&L Sc/T&Con1 Mid&Ad"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72073",
+        "room_desc": "PE Curriculum in Sec Schools"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72074",
+        "room_desc": "Ped&Cur M/Ch Adl: Modern Lang"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72075",
+        "room_desc": "Ped&Cur M/Ch Adl: Social Stud"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72076",
+        "room_desc": "Ped&Cur M/Ch Adl:Sci"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72077",
+        "room_desc": "Pedagogy&Curric M/Ch Adl: Engl"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72078",
+        "room_desc": "Pedagogy&Curric M/Ch Adl:Math"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72079",
+        "room_desc": "Pedagogy&Curriculum 7-12:SocSt"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72080",
+        "room_desc": "Pedagogy/Curriculum P-12:PED"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72081",
+        "room_desc": "Perform/Analysis 3:Team Sports"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72082",
+        "room_desc": "Phys & Life Sci72083: EDSE,\"Phys&Life Sci II72084: EDSE,\"PhysEd Field Experience-School"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72085",
+        "room_desc": "Psy and Soc perspectives"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72086",
+        "room_desc": "Sci Ed Adv Meth Rsch"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72087",
+        "room_desc": "Sci Stud Tching Seminar 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72088",
+        "room_desc": "Sci Stud Tchng Semi II"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72089",
+        "room_desc": "Science Ed Rsch Sem"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72090",
+        "room_desc": "Science Stud Teaching Sem 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72091",
+        "room_desc": "Science Student Teaching Sem 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72092",
+        "room_desc": "Sem Ed Res Eng"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72093",
+        "room_desc": "Sem Ed Res Mod La"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72094",
+        "room_desc": "Sem Ed Res P Ed"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72095",
+        "room_desc": "Sem Educ Research: Science"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72096",
+        "room_desc": "Sem I Pedag & Curr72097: EDSE,\"Sem II Pedagogy & Curriculum"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72098",
+        "room_desc": "Sem Meth Of Tch Pe"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72099",
+        "room_desc": "Sem Meth Of Tch Sci"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72100",
+        "room_desc": "Sem Meth Tch Math"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72101",
+        "room_desc": "Sem Meth of Teach Soc Studies"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72102",
+        "room_desc": "Sem Ped M/Ch&Adl:Eng"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72103",
+        "room_desc": "Sem Ped M/Ch&Adl:Modern Lang"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72104",
+        "room_desc": "Sem Ped M/Ch&Adl:Mth"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72105",
+        "room_desc": "Sem Ped M/Ch&Adl:Ped"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72106",
+        "room_desc": "Sem Ped M/Ch&Adl:Sst"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72107",
+        "room_desc": "Sem Theory & Res Mid Sch Math"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72108",
+        "room_desc": "Sem on Practice of Teaching"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72109",
+        "room_desc": "Semi Edu Res Soc Stud"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72110",
+        "room_desc": "Semi Tchng Mthds Music Edu"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72111",
+        "room_desc": "Seminar Adolescence Education"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72112",
+        "room_desc": "Seminar in Educ Research: Math"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72113",
+        "room_desc": "Sen Seminar-Phys Ed Teacher Ed"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72114",
+        "room_desc": "Skills&Strategies Phys Ed1 P-5"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72115",
+        "room_desc": "Soc Values & Indiv Nds: Math"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72116",
+        "room_desc": "Soc Values & Individual Needs"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72117",
+        "room_desc": "Social Values/Individual Needs"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72118",
+        "room_desc": "Special Topics"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72119",
+        "room_desc": "Special Topics in Education"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72120",
+        "room_desc": "Stud Tchg 2: Math"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72121",
+        "room_desc": "Stud Tchg 2: Phys Ed"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72122",
+        "room_desc": "Stud Tchg 2: Science"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72123",
+        "room_desc": "Student Teaching"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72124",
+        "room_desc": "Student Teaching I - Mod Lang"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72125",
+        "room_desc": "Student Teaching Practicum"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72126",
+        "room_desc": "Student Teaching Practicum I"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72127",
+        "room_desc": "Student Teaching Practicum II"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72128",
+        "room_desc": "Student Teachng: Mathematics 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72129",
+        "room_desc": "Student Teachng: Mathematics 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72130",
+        "room_desc": "Supervised Practicum Teaching"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72131",
+        "room_desc": "Tch Geography Mid/High Schl"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72132",
+        "room_desc": "Tch Lit Mid & Sec Sc"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72133",
+        "room_desc": "Tch Writ Across Curr"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72134",
+        "room_desc": "Tchg Stud: Sp Needs"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72135",
+        "room_desc": "Tching Sem:Sci Environmtl Ed 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72136",
+        "room_desc": "Tching Sem:Sci Environmtl Ed 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72137",
+        "room_desc": "Teach Child in Cultural Contex"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72138",
+        "room_desc": "Teach Geom &Probablty Grade5-9"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72139",
+        "room_desc": "Teach Number &Algebra Grade5-9"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72140",
+        "room_desc": "Teaching Adol In Content Areas"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72141",
+        "room_desc": "Teaching Math Middle Childhood"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72142",
+        "room_desc": "Theater in the Classroom"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72143",
+        "room_desc": "Theory/Pract Of Comp"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "72144",
+        "room_desc": "Wksp S Ed:Int/Dis"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "school": "LEH01",
+        "major": "CLAS",
+        "room_num": "11432",
+        "room_desc": "300-Level Elective"
+    },
+    {
+        "school": "LEH01",
+        "major": "CLAS",
+        "room_num": "11433",
+        "room_desc": "Greek & Roman Trag- Engl Trans"
+    },
+    {
+        "school": "LEH01",
+        "major": "CLAS",
+        "room_num": "11434",
+        "room_desc": "Synthesis of Classical Culture"
+    }
+]

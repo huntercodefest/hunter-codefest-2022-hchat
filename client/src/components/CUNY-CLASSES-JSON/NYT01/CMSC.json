@@ -1,0 +1,812 @@
+[
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65817",
+        "room_desc": "36  Ooo"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65818",
+        "room_desc": "Adv Comput Game Programming"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65819",
+        "room_desc": "Adv High Perf Comp"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65820",
+        "room_desc": "Adv Micro Sys Design"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65821",
+        "room_desc": "Advanced Data Communications"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65822",
+        "room_desc": "Advanced Database Systems"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65823",
+        "room_desc": "Advanced Operating Systems"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65824",
+        "room_desc": "Advanced Systems Programming"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65825",
+        "room_desc": "Algrithms&Info Struc"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65826",
+        "room_desc": "Analysis of Algorithms"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65827",
+        "room_desc": "App Concepts in Info Systems"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65828",
+        "room_desc": "App Math Comp Sci"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65829",
+        "room_desc": "Applications Programming"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65830",
+        "room_desc": "Applied Cryptography"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65831",
+        "room_desc": "Artif Intel&Knw Engi"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65832",
+        "room_desc": "Artificial Intelligence"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65833",
+        "room_desc": "Assistive Tech for Univ Apps"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65834",
+        "room_desc": "Basic Desktop Publishing"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65835",
+        "room_desc": "Broadband and SONET Networks"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65836",
+        "room_desc": "C Programming"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65837",
+        "room_desc": "CSC Internship"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65838",
+        "room_desc": "Cobol Programming"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65839",
+        "room_desc": "Comp Aided Analysis & Design"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65840",
+        "room_desc": "Comp Perfrmnce Eval"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65841",
+        "room_desc": "Comp Sci Grad Cr"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65842",
+        "room_desc": "Comp Sci Grad Credit"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65843",
+        "room_desc": "Comp Sci Grad Credti"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65844",
+        "room_desc": "Comp Sci Ind Study"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65845",
+        "room_desc": "Comp Sci Indep Stdy"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65846",
+        "room_desc": "Compiler Construction"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65847",
+        "room_desc": "Computability"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65848",
+        "room_desc": "Computation Theory"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65849",
+        "room_desc": "Computational Problem Solving"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65850",
+        "room_desc": "Computer Architecture"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65851",
+        "room_desc": "Computer Graphics"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65852",
+        "room_desc": "Computer Hacking Revealed"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65853",
+        "room_desc": "Computer Organization"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65854",
+        "room_desc": "Computer Sci & Linguistics"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65855",
+        "room_desc": "Computer Sci Credit"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65856",
+        "room_desc": "Computer Sci Independent Study"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65857",
+        "room_desc": "Computer Science Internship"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65858",
+        "room_desc": "Computer System Design"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65859",
+        "room_desc": "Computer System Fundamentals"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65860",
+        "room_desc": "Computer Technology Concepts"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65861",
+        "room_desc": "Computer Technology Lab"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65862",
+        "room_desc": "Computer Vision"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65863",
+        "room_desc": "Computer and Windows"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65864",
+        "room_desc": "Computers & Society"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65865",
+        "room_desc": "Computers Perspctves"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65866",
+        "room_desc": "Computers for Today"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65867",
+        "room_desc": "Computers65868: CMSC,\"Computing for Teachers I"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65869",
+        "room_desc": "Computing for Teachers II"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65870",
+        "room_desc": "Computr Sci Internsh"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65871",
+        "room_desc": "Cryptography"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65872",
+        "room_desc": "Data Science"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65873",
+        "room_desc": "Data Structures"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65874",
+        "room_desc": "Database Theory"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65875",
+        "room_desc": "Digital Circuits Design"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65876",
+        "room_desc": "Digital Circuits Laboratory"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65877",
+        "room_desc": "Digital Image Processing"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65878",
+        "room_desc": "Digital Signal Processing"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65879",
+        "room_desc": "Discrete Simulation"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65880",
+        "room_desc": "Discrete Structures"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65881",
+        "room_desc": "Discrte Mth Comp Sci"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65882",
+        "room_desc": "Formal Language Theory"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65883",
+        "room_desc": "Fund Wireless Comm"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65884",
+        "room_desc": "Graduate Research Laboratory"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65885",
+        "room_desc": "Graph-Based Analy for Big Data"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65886",
+        "room_desc": "High-speed LAN and WAN"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65887",
+        "room_desc": "Honors Workshop"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65888",
+        "room_desc": "Image Process Comp Sci"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65889",
+        "room_desc": "Info Retrieval"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65890",
+        "room_desc": "Info Structures for Business"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65891",
+        "room_desc": "Input/Output Operations"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65892",
+        "room_desc": "Intelligent Networks"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65893",
+        "room_desc": "Intermediate Programming"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65894",
+        "room_desc": "Internet Data Communications"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65895",
+        "room_desc": "Intrnet/Cdrom/Hsmath"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65896",
+        "room_desc": "Intrnt App Scrpt Lng"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65897",
+        "room_desc": "Intro Comp Game Prog"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65898",
+        "room_desc": "Intro Comp Technolog"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65899",
+        "room_desc": "Intro Computer Sci"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65900",
+        "room_desc": "Intro High Perf Computing"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65901",
+        "room_desc": "Intro To Info Sys"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65902",
+        "room_desc": "Intro To Ms-Dos"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65903",
+        "room_desc": "Intro To Wrdprocesng"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65904",
+        "room_desc": "Intro to Comp Thinking for Tch"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65905",
+        "room_desc": "Intro to Database Systems"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65906",
+        "room_desc": "Intro to Sci65907: CMSC,\"Intro to Web Dev/The Internet"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65908",
+        "room_desc": "Introduction to Data Science"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65909",
+        "room_desc": "Introduction to Database"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65910",
+        "room_desc": "Introduction to Spreadsheets"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65911",
+        "room_desc": "Introductory Computer Graphics"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65912",
+        "room_desc": "Job Control Language"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65913",
+        "room_desc": "Knowledge Discovery"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65914",
+        "room_desc": "Lang & Computers"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65915",
+        "room_desc": "Mach Learn & Knowledge Disc"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65916",
+        "room_desc": "Machine Learning & Data Mining"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65917",
+        "room_desc": "Management Information Systems"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65918",
+        "room_desc": "Media Trans&Charac"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65919",
+        "room_desc": "Microcontrollers"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65920",
+        "room_desc": "Mobile Application Development"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65921",
+        "room_desc": "Modern Web Development"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65922",
+        "room_desc": "Natural Language Processing"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65923",
+        "room_desc": "Network Security"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65924",
+        "room_desc": "Neural Networks and Deep Learn"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65925",
+        "room_desc": "Oper Sys Des&Implmtn"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65926",
+        "room_desc": "Operatating Sys Prog Lab"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65927",
+        "room_desc": "Operating Systems I"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65928",
+        "room_desc": "Operating Systems II"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65929",
+        "room_desc": "Operations I"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65930",
+        "room_desc": "Operations II"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65931",
+        "room_desc": "Parallel Computing"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65932",
+        "room_desc": "Pattern Recogn & Neural Netw"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65933",
+        "room_desc": "Programing Languages"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65934",
+        "room_desc": "Robotic Explorations"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65935",
+        "room_desc": "Scientific Computing"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65936",
+        "room_desc": "Seminar in Computer Science"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65937",
+        "room_desc": "Serious Game Development"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65938",
+        "room_desc": "Shared Memory Parallel Comp"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65939",
+        "room_desc": "Software Design"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65940",
+        "room_desc": "Software Engineering"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65941",
+        "room_desc": "Software Systems Design"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65942",
+        "room_desc": "Spec Topics Adv Web Dev"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65943",
+        "room_desc": "Special Topics-Computer Vision"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65944",
+        "room_desc": "Tech Curr Dev & Instruction"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65945",
+        "room_desc": "Tech Infsd Curr Dev"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65946",
+        "room_desc": "Technology Programng"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65947",
+        "room_desc": "Telecommunication Networks"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65948",
+        "room_desc": "Text Editing Systems"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65949",
+        "room_desc": "Theory of Computation"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65950",
+        "room_desc": "Thesis Research"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65951",
+        "room_desc": "Topics in System Simulation"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65952",
+        "room_desc": "Tpc Applic Progrmg"
+    },
+    {
+        "school": "NYT01",
+        "major": "CMSC",
+        "room_num": "65953",
+        "room_desc": "Web Database Applications"
+    }
+]

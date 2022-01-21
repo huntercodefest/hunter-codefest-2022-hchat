@@ -1,0 +1,17 @@
+[
+    {
+        "major": "MESG",
+        "room_num": "64885",
+        "desc": "For CLIP Placement"
+    },
+    {
+        "major": "MESG",
+        "room_num": "64886",
+        "desc": "Pending Pass/Reading"
+    },
+    {
+        "major": "MESG",
+        "room_num": "64887",
+        "desc": "Permit Out"
+    }
+]

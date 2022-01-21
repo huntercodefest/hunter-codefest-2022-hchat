@@ -1,0 +1,38 @@
+[
+    {
+        "school": "GRD01",
+        "major": "IRIS",
+        "room_num": "6390",
+        "room_desc": "Elementary Irish I"
+    },
+    {
+        "school": "GRD01",
+        "major": "IRIS",
+        "room_num": "6391",
+        "room_desc": "Elementary Irish II"
+    },
+    {
+        "school": "GRD01",
+        "major": "IRIS",
+        "room_num": "6392",
+        "room_desc": "Elementray Irish 2"
+    },
+    {
+        "school": "GRD01",
+        "major": "IRIS",
+        "room_num": "6393",
+        "room_desc": "Intermediate Irish Grammar"
+    },
+    {
+        "school": "GRD01",
+        "major": "IRIS",
+        "room_num": "6394",
+        "room_desc": "Spec Tpcs Irish Lang Liter"
+    },
+    {
+        "school": "GRD01",
+        "major": "IRIS",
+        "room_num": "6395",
+        "room_desc": "Tutorial in Irish Lang & Liter"
+    }
+]

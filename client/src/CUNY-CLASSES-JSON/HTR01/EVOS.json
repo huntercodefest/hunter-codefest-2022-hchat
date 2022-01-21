@@ -1,0 +1,567 @@
+[
+    {
+        "major": "EVOS",
+        "room_num": "51236",
+        "desc": "Advanced Indust Hygien Methods"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51237",
+        "desc": "Advanced Industrial Hygiene"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51238",
+        "desc": "Air Pollution Cntl"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51239",
+        "desc": "Air Resource Management"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51240",
+        "desc": "Air/Water Resourses"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51241",
+        "desc": "Analysis Chem Environ Problems"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51242",
+        "desc": "Appl Comp Env Prob"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51243",
+        "desc": "Appl Comput Environ Health"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51244",
+        "desc": "Asbest Ctl&Prtct Equ"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51245",
+        "desc": "Asbestos:Haz & Cntls"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51246",
+        "desc": "Biohzrds:Assmnt&Ctrl"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51247",
+        "desc": "Cmptrs:Pub Health Res"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51248",
+        "desc": "Const Ind Hlth & Saf"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51249",
+        "desc": "Construction Safety"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51250",
+        "desc": "Curr Env & Occupational Issue"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51251",
+        "desc": "Element Food Sanit"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51252",
+        "desc": "Emergny Rspns:H&S Pr"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51253",
+        "desc": "Env & Indust Hygiene Lab"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51254",
+        "desc": "Env & Occupational Epidemiol"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51255",
+        "desc": "Env Health Problem Urban"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51256",
+        "desc": "Env Investgn & Remed"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51257",
+        "desc": "Env Investgn & Remediation"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51258",
+        "desc": "Env Just & Comm Health"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51259",
+        "desc": "Env Public Health Problems"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51260",
+        "desc": "Environ & Occup Health Issues"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51261",
+        "desc": "Environ Control Inst Facil"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51262",
+        "desc": "Environ Criteria Standards"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51263",
+        "desc": "Environ Measure Lab"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51264",
+        "desc": "Environment Auditing"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51265",
+        "desc": "Environment Chem"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51266",
+        "desc": "Environmental Chemistry"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51267",
+        "desc": "Environmental Law"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51268",
+        "desc": "Environmental Occup Toxicology"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51269",
+        "desc": "Environmental Physiology"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51270",
+        "desc": "Environmental Risk Comm"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51271",
+        "desc": "Environmental Rsrch & Writing"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51272",
+        "desc": "Envrn Occ Hlth Law"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51273",
+        "desc": "Eohs Ind Hyg/Pln Vis"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51274",
+        "desc": "Eohs Internship"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51275",
+        "desc": "Ergonomics"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51276",
+        "desc": "Ergonomics/Safety"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51277",
+        "desc": "Ethc&Pfl Std Osh"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51278",
+        "desc": "Field Lab Research Eohs"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51279",
+        "desc": "Field Study Environ Problem"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51280",
+        "desc": "Fire Safety & Prev"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51281",
+        "desc": "Fire Safety Emergency Response"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51282",
+        "desc": "Food Safety Policy & Sci"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51283",
+        "desc": "Fund Vector Control"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51284",
+        "desc": "GIS & Public Health"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51285",
+        "desc": "Grndwater C & H"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51286",
+        "desc": "Groundwater Quality/Hydrology"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51287",
+        "desc": "Haz Wast Hlth Effect"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51288",
+        "desc": "Haz Wste Op/Emrg Rsp"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51289",
+        "desc": "Hazard Evaluation Instrument"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51290",
+        "desc": "Hazardous Waste Management"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51291",
+        "desc": "Health Education in Workplace"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51292",
+        "desc": "Hlthcare/Hlthsafty"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51293",
+        "desc": "Honors Eohs"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51294",
+        "desc": "Ih Aspects Hd Matls"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51295",
+        "desc": "Ih Exposure Assessm"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51296",
+        "desc": "Ind Hygien for Health Pro"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51297",
+        "desc": "Ind Process&Site Vis"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51298",
+        "desc": "Indep Study Eohs"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51299",
+        "desc": "Indep Study in Public Health"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51300",
+        "desc": "Indoor Air Pollution"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51301",
+        "desc": "Indoor Air Quality"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51302",
+        "desc": "Indus Vent & Indoor Air Qual"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51303",
+        "desc": "Indust Hygiene Lab"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51304",
+        "desc": "Indust Process & Plant Visits"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51305",
+        "desc": "Indust Safety and Safety Mgmt"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51306",
+        "desc": "Industrial Processes"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51307",
+        "desc": "Intro Environ Health Science"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51308",
+        "desc": "Intro Occp Safety & Health"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51309",
+        "desc": "Lead Abatemt & Ppe"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51310",
+        "desc": "Micro Environmental"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51311",
+        "desc": "Microbio Assess Control"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51312",
+        "desc": "Noise and Radiation"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51313",
+        "desc": "Occup Health Law"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51314",
+        "desc": "Osh Issues and Law"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51315",
+        "desc": "Physical  Hazd:Asses & Conrol"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51316",
+        "desc": "Planning: Community Health"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51317",
+        "desc": "Prin Water Qual Mgt"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51318",
+        "desc": "Principles Industrial Hygiene"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51319",
+        "desc": "Principles of Epidemology"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51320",
+        "desc": "Program Mgmt: Public Health"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51321",
+        "desc": "Radiation Biology"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51322",
+        "desc": "Radiologcl Field Ast"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51323",
+        "desc": "Radiological Health"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51324",
+        "desc": "Radiology Hazards"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51325",
+        "desc": "Reducing Disparities"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51326",
+        "desc": "Research Methods"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51327",
+        "desc": "Resmethcomhlthurbenv"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51328",
+        "desc": "Resp Prot & Chem Prot"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51329",
+        "desc": "Sem: NYC Envir Issue"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51330",
+        "desc": "Seminar Coll Teach"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51331",
+        "desc": "Senior Seminar Eohs"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51332",
+        "desc": "Solid Waste Management"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51333",
+        "desc": "Solid Waste Mngmnt"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51334",
+        "desc": "Supervised Fieldwork  (Ms)"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51335",
+        "desc": "Supervised Fieldwork (Mph)"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51336",
+        "desc": "Survey Research Method"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51337",
+        "desc": "Sustain51338: EVOS,\"System Analysis Envir Planning"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51339",
+        "desc": "Thesis Seminar Eohs"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51340",
+        "desc": "Topic: Environmental Chemistry"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51341",
+        "desc": "Topic: Water Resources"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51342",
+        "desc": "Topic:Intro to Osh"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51343",
+        "desc": "Topics in Eohs"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51344",
+        "desc": "Topics:Economic  Env Control"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51345",
+        "desc": "Topics:Noise Control"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51346",
+        "desc": "Tops:Instit Sanit"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51347",
+        "desc": "Urban Air and Water Pollution"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51348",
+        "desc": "Water Resources"
+    },
+    {
+        "major": "EVOS",
+        "room_num": "51349",
+        "desc": "Writing for Public Health"
+    }
+]

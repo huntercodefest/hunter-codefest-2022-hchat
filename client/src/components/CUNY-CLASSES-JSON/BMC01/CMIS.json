@@ -1,0 +1,260 @@
+[
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17491",
+        "room_desc": "Adv.Health Inf Comp"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17492",
+        "room_desc": "Advanced Internet Applications"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17493",
+        "room_desc": "Business Systems I"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17494",
+        "room_desc": "Cloud Computing"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17495",
+        "room_desc": "Computer Hardware"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17496",
+        "room_desc": "Computer Operations I"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17497",
+        "room_desc": "Computer Operations II/JCL"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17498",
+        "room_desc": "Computer Software"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17499",
+        "room_desc": "Database Driven Web"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17500",
+        "room_desc": "Database Systems I"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17501",
+        "room_desc": "Database Systems I (Honors)"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17502",
+        "room_desc": "Database Systems Il"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17503",
+        "room_desc": "Desktop Publishing Packages"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17504",
+        "room_desc": "Ethical Hacking and System Def"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17505",
+        "room_desc": "Healthcare Info Tech And Mgmt"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17506",
+        "room_desc": "Information Assurance"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17507",
+        "room_desc": "Intro Comp & Info Security"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17508",
+        "room_desc": "Intro Comp Med Rec"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17509",
+        "room_desc": "Intro Data Base App"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17510",
+        "room_desc": "Intro to Comp Apps"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17511",
+        "room_desc": "Intro to Health Info Systems"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17512",
+        "room_desc": "Intro to Health Info Tech"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17513",
+        "room_desc": "Intro to Operating Systems"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17514",
+        "room_desc": "Intro.Info System"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17515",
+        "room_desc": "Introduction Data Science"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17516",
+        "room_desc": "Introduction Digital Forensics"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17517",
+        "room_desc": "Introduction to the Internet"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17518",
+        "room_desc": "Mobile Device Programming"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17519",
+        "room_desc": "Network Security"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17520",
+        "room_desc": "Operating Systems Concepts"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17521",
+        "room_desc": "RPG Programming"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17522",
+        "room_desc": "System Analysis"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17523",
+        "room_desc": "Systems Analysis"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17524",
+        "room_desc": "Systems Implementation"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17525",
+        "room_desc": "Tele. Networks II"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17526",
+        "room_desc": "Telecommunication Networks I"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17527",
+        "room_desc": "Unix"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17528",
+        "room_desc": "Visual Basic"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17529",
+        "room_desc": "Web Programming I"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17530",
+        "room_desc": "Web Programming Il"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17531",
+        "room_desc": "Wireless Information Networks"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17532",
+        "room_desc": "Wireless Programming"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "17533",
+        "room_desc": "intro Spreadsheet Applications"
+    }
+]

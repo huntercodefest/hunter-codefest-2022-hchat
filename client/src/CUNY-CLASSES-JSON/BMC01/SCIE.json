@@ -1,0 +1,112 @@
+[
+    {
+        "major": "SCIE",
+        "room_num": "19069",
+        "desc": "Biology I"
+    },
+    {
+        "major": "SCIE",
+        "room_num": "19070",
+        "desc": "Chemistry I"
+    },
+    {
+        "major": "SCIE",
+        "room_num": "19071",
+        "desc": "Computer Methods in Science"
+    },
+    {
+        "major": "SCIE",
+        "room_num": "19072",
+        "desc": "Cputr Methds/Pascal"
+    },
+    {
+        "major": "SCIE",
+        "room_num": "19073",
+        "desc": "General Biology"
+    },
+    {
+        "major": "SCIE",
+        "room_num": "19074",
+        "desc": "General Chemistry"
+    },
+    {
+        "major": "SCIE",
+        "room_num": "19075",
+        "desc": "General Physics"
+    },
+    {
+        "major": "SCIE",
+        "room_num": "19076",
+        "desc": "General Science"
+    },
+    {
+        "major": "SCIE",
+        "room_num": "19077",
+        "desc": "Man and Environment"
+    },
+    {
+        "major": "SCIE",
+        "room_num": "19078",
+        "desc": "Microprocessors"
+    },
+    {
+        "major": "SCIE",
+        "room_num": "19079",
+        "desc": "Nutrition"
+    },
+    {
+        "major": "SCIE",
+        "room_num": "19080",
+        "desc": "Pathophysiology"
+    },
+    {
+        "major": "SCIE",
+        "room_num": "19081",
+        "desc": "Pharmacology"
+    },
+    {
+        "major": "SCIE",
+        "room_num": "19082",
+        "desc": "Physics I"
+    },
+    {
+        "major": "SCIE",
+        "room_num": "19083",
+        "desc": "Prin of Science I"
+    },
+    {
+        "major": "SCIE",
+        "room_num": "19084",
+        "desc": "SCI Directed Study"
+    },
+    {
+        "major": "SCIE",
+        "room_num": "19085",
+        "desc": "Sci Directed Study"
+    },
+    {
+        "major": "SCIE",
+        "room_num": "19086",
+        "desc": "Sci/Math Research"
+    },
+    {
+        "major": "SCIE",
+        "room_num": "19087",
+        "desc": "Science Directed Study"
+    },
+    {
+        "major": "SCIE",
+        "room_num": "19088",
+        "desc": "Scientific Directed Study"
+    },
+    {
+        "major": "SCIE",
+        "room_num": "19089",
+        "desc": "Scientific Instrumentation"
+    },
+    {
+        "major": "SCIE",
+        "room_num": "19090",
+        "desc": "The Science of Food"
+    }
+]

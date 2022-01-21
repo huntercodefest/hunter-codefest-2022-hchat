@@ -1,0 +1,116 @@
+[
+    {
+        "school": "BCC01",
+        "major": "EDUC",
+        "room_num": "69005",
+        "room_desc": "Child Study - Birth to Grade 6"
+    },
+    {
+        "school": "BCC01",
+        "major": "EDUC",
+        "room_num": "69006",
+        "room_desc": "Contempry Urbn Ed"
+    },
+    {
+        "school": "BCC01",
+        "major": "EDUC",
+        "room_num": "69007",
+        "room_desc": "Creative Exprience"
+    },
+    {
+        "school": "BCC01",
+        "major": "EDUC",
+        "room_num": "69008",
+        "room_desc": "Educ. Foundations of MS and HS"
+    },
+    {
+        "school": "BCC01",
+        "major": "EDUC",
+        "room_num": "69009",
+        "room_desc": "Field Work Seminar"
+    },
+    {
+        "school": "BCC01",
+        "major": "EDUC",
+        "room_num": "69010",
+        "room_desc": "Home & Center Based Relationsh"
+    },
+    {
+        "school": "BCC01",
+        "major": "EDUC",
+        "room_num": "69011",
+        "room_desc": "Human Relations"
+    },
+    {
+        "school": "BCC01",
+        "major": "EDUC",
+        "room_num": "69012",
+        "room_desc": "Intro to Learning Disabilities"
+    },
+    {
+        "school": "BCC01",
+        "major": "EDUC",
+        "room_num": "69013",
+        "room_desc": "Introduction to Special Needs"
+    },
+    {
+        "school": "BCC01",
+        "major": "EDUC",
+        "room_num": "69014",
+        "room_desc": "Language Acquisition & Literac"
+    },
+    {
+        "school": "BCC01",
+        "major": "EDUC",
+        "room_num": "69015",
+        "room_desc": "Lit. in a Bilingual/Dual Lang"
+    },
+    {
+        "school": "BCC01",
+        "major": "EDUC",
+        "room_num": "69016",
+        "room_desc": "Mult. Perspectives of MS & HS"
+    },
+    {
+        "school": "BCC01",
+        "major": "EDUC",
+        "room_num": "69017",
+        "room_desc": "Pre-School Seminar I"
+    },
+    {
+        "school": "BCC01",
+        "major": "EDUC",
+        "room_num": "69018",
+        "room_desc": "Pre-School Seminar II"
+    },
+    {
+        "school": "BCC01",
+        "major": "EDUC",
+        "room_num": "69019",
+        "room_desc": "Reading & Lang Arts"
+    },
+    {
+        "school": "BCC01",
+        "major": "EDUC",
+        "room_num": "69020",
+        "room_desc": "Student Mentoring"
+    },
+    {
+        "school": "BCC01",
+        "major": "EDUC",
+        "room_num": "69021",
+        "room_desc": "Teaching Reading -Birth - Gr 2"
+    },
+    {
+        "school": "BCC01",
+        "major": "EDUC",
+        "room_num": "69022",
+        "room_desc": "Teaching Reading 4-6"
+    },
+    {
+        "school": "BCC01",
+        "major": "EDUC",
+        "room_num": "69023",
+        "room_desc": "Working With Infants & Toddler"
+    }
+]

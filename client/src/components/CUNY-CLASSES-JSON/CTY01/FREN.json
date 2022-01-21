@@ -1,0 +1,560 @@
+[
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39401",
+        "room_desc": "17c Prose & Poetry"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39402",
+        "room_desc": "17th C Theater"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39403",
+        "room_desc": "18 Cent Novel"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39404",
+        "room_desc": "18th Century"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39405",
+        "room_desc": "19 Cent Lit"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39406",
+        "room_desc": "20c & 21c Text & The"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39407",
+        "room_desc": "20th C Drama"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39408",
+        "room_desc": "20th C Novel"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39409",
+        "room_desc": "Africa39410: FREN,\"Appchs Textual Anal"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39411",
+        "room_desc": "Basic 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39412",
+        "room_desc": "Bl Fren Poet & Thtr"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39413",
+        "room_desc": "Century Of Novel"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39414",
+        "room_desc": "Classical Theatre"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39415",
+        "room_desc": "Cndctng Bus In Fren"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39416",
+        "room_desc": "Commerical French"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39417",
+        "room_desc": "Cont French and Francoph cinem"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39418",
+        "room_desc": "Contemp Aspects"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39419",
+        "room_desc": "Contemporary Aspcts"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39420",
+        "room_desc": "Coop Ed"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39421",
+        "room_desc": "Experiential and Service Learn"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39422",
+        "room_desc": "Flaubert To Present"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39423",
+        "room_desc": "Focus on French Grammar"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39424",
+        "room_desc": "Focus on Grammar"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39425",
+        "room_desc": "Focus on Oral Expression"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39426",
+        "room_desc": "Focus on Reading"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39427",
+        "room_desc": "Focus on Written Expression"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39428",
+        "room_desc": "France Eur39429: FREN,\"France In The World: Mod Age"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39430",
+        "room_desc": "France in the World: Contempor"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39431",
+        "room_desc": "France in the World: Empire"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39432",
+        "room_desc": "France in the World: Monarchy"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39433",
+        "room_desc": "Fren Lit Of Revolt"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39434",
+        "room_desc": "French Cinema"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39435",
+        "room_desc": "French Cinema & Lit"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39436",
+        "room_desc": "French Cinema And Literature"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39437",
+        "room_desc": "French Civilization"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39438",
+        "room_desc": "French Novel"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39439",
+        "room_desc": "French Nvl Bfr 1850"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39440",
+        "room_desc": "French Poetry"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39441",
+        "room_desc": "French Theatre"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39442",
+        "room_desc": "French Thtr:Comedy"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39443",
+        "room_desc": "French and Francophone Cinema"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39444",
+        "room_desc": "Honors I"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39445",
+        "room_desc": "Honors II"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39446",
+        "room_desc": "Ind St Res"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39447",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39448",
+        "room_desc": "Intensive Intermediate French"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39449",
+        "room_desc": "Intermediate French"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39450",
+        "room_desc": "Intro French Lit"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39451",
+        "room_desc": "Introductory French I"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39452",
+        "room_desc": "Introductory French II"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39453",
+        "room_desc": "Jews In Paris"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39454",
+        "room_desc": "Jews Of France"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39455",
+        "room_desc": "Lang Of Busnss Wrld"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39456",
+        "room_desc": "Lit Of Francophonie"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39457",
+        "room_desc": "Lit Of Fren Canada"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39458",
+        "room_desc": "Lit Of The Caribbean"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39459",
+        "room_desc": "Lit Outside France"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39460",
+        "room_desc": "Lit of Contemporary France"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39461",
+        "room_desc": "Literary Analysis"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39462",
+        "room_desc": "Lyric Poetry 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39463",
+        "room_desc": "Maghreb & Mashreq in Translati"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39464",
+        "room_desc": "Mastrwks Fren Lit 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39465",
+        "room_desc": "Mastrwks Fren Lit 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39466",
+        "room_desc": "Modern Novel"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39467",
+        "room_desc": "Modern Poetry"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39468",
+        "room_desc": "Mstwks Fren Lit 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39469",
+        "room_desc": "Oral Expression"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39470",
+        "room_desc": "Paris:De L\u2019Expositon"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39471",
+        "room_desc": "Philosophers & Essayists"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39472",
+        "room_desc": "Practice In Writing"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39473",
+        "room_desc": "Practice Translatn"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39474",
+        "room_desc": "Practice in Writing French"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39475",
+        "room_desc": "Problems Of Usage"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39476",
+        "room_desc": "Problms In Phonetcs"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39477",
+        "room_desc": "Reading in French"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39478",
+        "room_desc": "Renaissance Lit"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39479",
+        "room_desc": "Rep France-Cinema"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39480",
+        "room_desc": "Review"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39481",
+        "room_desc": "Rise Of The Novel"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39482",
+        "room_desc": "Romanticism"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39483",
+        "room_desc": "Selected Topics"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39484",
+        "room_desc": "Semantics"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39485",
+        "room_desc": "Semantics & Modern"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39486",
+        "room_desc": "Spoken French"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39487",
+        "room_desc": "Studies In Translatn"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39488",
+        "room_desc": "Studies in Translation"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39489",
+        "room_desc": "The Enlightenment"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39490",
+        "room_desc": "The Fren Speak World"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39491",
+        "room_desc": "The Novel"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39492",
+        "room_desc": "Theatre"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39493",
+        "room_desc": "Theories and Histories of Lite"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39494",
+        "room_desc": "Thtr-Tragedy-Drama"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "39495",
+        "room_desc": "Translation 1"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "school": "CSI01",
+        "major": "FROR",
+        "room_num": "84869",
+        "room_desc": "New Stu Orien Req Wv"
+    },
+    {
+        "school": "CSI01",
+        "major": "FROR",
+        "room_num": "84870",
+        "room_desc": "New Stu Sem Waived"
+    },
+    {
+        "school": "CSI01",
+        "major": "FROR",
+        "room_num": "84871",
+        "room_desc": "New Stu Seminar Sub"
+    },
+    {
+        "school": "CSI01",
+        "major": "FROR",
+        "room_num": "84872",
+        "room_desc": "New Student Seminar"
+    }
+]

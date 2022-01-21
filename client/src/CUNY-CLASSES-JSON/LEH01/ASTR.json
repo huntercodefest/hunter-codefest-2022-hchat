@@ -1,0 +1,52 @@
+[
+    {
+        "major": "ASTR",
+        "room_num": "11119",
+        "desc": "Astronomy of Solar Systems"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "11120",
+        "desc": "Astronomy of Stellar Systems"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "11121",
+        "desc": "Astronomy of the Solar System"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "11122",
+        "desc": "Astrophysics"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "11123",
+        "desc": "General Astronomy I"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "11124",
+        "desc": "General Astronomy II"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "11125",
+        "desc": "Introduction to Astronomy"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "11126",
+        "desc": "Introduction to the Universe"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "11127",
+        "desc": "Solar Astronomy"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "11128",
+        "desc": "Stellar Astronomy"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "major": "CMSC",
+        "room_num": "64470",
+        "desc": "Computer Networking"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "64471",
+        "desc": "Computer Science"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "64472",
+        "desc": "Data Structures"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "64473",
+        "desc": "Discrete Mathematics"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "64474",
+        "desc": "Modern Programming"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "64475",
+        "desc": "Object Oriented Programming"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "64476",
+        "desc": "Web & Mobile App Development"
+    }
+]

@@ -1,0 +1,637 @@
+[
+    {
+        "major": "PHIL",
+        "room_num": "29538",
+        "desc": "Advanced Logic"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29539",
+        "desc": "Aesthetics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29540",
+        "desc": "Ancient Philo"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29541",
+        "desc": "Ancient Philosophy: Aristotle"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29542",
+        "desc": "Ancient Philosophy: Plato"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29543",
+        "desc": "Aristotle and Maimonides"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29544",
+        "desc": "Business Ethics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29545",
+        "desc": "Challenge of Future"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29546",
+        "desc": "Class & Trad Log"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29547",
+        "desc": "Contemp Issues in Philos Persp"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29548",
+        "desc": "Contemp Phil"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29549",
+        "desc": "Contemp Phil 1"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29550",
+        "desc": "Contemp Philosophy II"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29551",
+        "desc": "Contemporary Metaphysics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29552",
+        "desc": "Contemporary Philosophy 1"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29553",
+        "desc": "Descartes To Hume"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29554",
+        "desc": "Early Medieval Philo"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29555",
+        "desc": "Empiricism"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29556",
+        "desc": "Epistemology"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29557",
+        "desc": "Ethical Analyses"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29558",
+        "desc": "Ethical Systems"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29559",
+        "desc": "Ethics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29560",
+        "desc": "Exis & Jewish Tht"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29561",
+        "desc": "Exist & Jewish Phil"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29562",
+        "desc": "Existent & Mod Jew Phil"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29563",
+        "desc": "Existentialism"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29564",
+        "desc": "Film & Politics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29565",
+        "desc": "Film & Politics 2"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29566",
+        "desc": "Film29567: PHIL,\"Film/Phil/Pol"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29568",
+        "desc": "Freedom and Responsibility"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29569",
+        "desc": "Gender Benders"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29570",
+        "desc": "Heidegger\u2019s Nietzsch"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29571",
+        "desc": "Hist Anc Phil"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29572",
+        "desc": "Hist Medieval Phil"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29573",
+        "desc": "Hist Mod Phil 1"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29574",
+        "desc": "Hist Mod Phil 2"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29575",
+        "desc": "History of American Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29576",
+        "desc": "History of Ancient Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29577",
+        "desc": "History of Medieval Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29578",
+        "desc": "Honors Seminar"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29579",
+        "desc": "Ideas in Literature"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29580",
+        "desc": "Intro Philo Relig"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29581",
+        "desc": "Intro Philo Religion"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29582",
+        "desc": "Intro Philosophy of Religion"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29583",
+        "desc": "Intro to Eastern Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29584",
+        "desc": "Introduction to Aesthetics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29585",
+        "desc": "Introduction to Ethics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29586",
+        "desc": "Introduction to Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29587",
+        "desc": "Iss Phil Persp"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29588",
+        "desc": "Kant To Nietzsche"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29589",
+        "desc": "Kant to Nietzsche"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29590",
+        "desc": "Kant to Nietzsche II"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29591",
+        "desc": "Landmarks In Phil IV"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29592",
+        "desc": "Late Medieval Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29593",
+        "desc": "Law Ethics Med"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29594",
+        "desc": "Law29595: PHIL,\"Life Love & Death"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29596",
+        "desc": "Logic"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29597",
+        "desc": "Logic & Scientific Method"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29598",
+        "desc": "Logic and Language"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29599",
+        "desc": "Love And Plato"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29600",
+        "desc": "Major Philosophical Thinkers"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29601",
+        "desc": "Metaphysics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29602",
+        "desc": "Meth Empirical Sciences"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29603",
+        "desc": "Middle&Late 19 Century"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29604",
+        "desc": "Mod Hist Of Phil"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29605",
+        "desc": "Modern Logic"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29606",
+        "desc": "Modern Philosophy 1"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29607",
+        "desc": "Myth/Music/Cinema"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29608",
+        "desc": "Nietzsche"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29609",
+        "desc": "Oriental Phil"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29610",
+        "desc": "Phenomenology"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29611",
+        "desc": "Phil Of Hist"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29612",
+        "desc": "Phil Of Knowledge"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29613",
+        "desc": "Phil Of Soc Sci"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29614",
+        "desc": "Phil of Natural Sciences"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29615",
+        "desc": "Phil/Lit/Pol"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29616",
+        "desc": "Philo & Holocaust"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29617",
+        "desc": "Philo Chal Of Fut"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29618",
+        "desc": "Philo In Lit"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29619",
+        "desc": "Philo of Religion"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29620",
+        "desc": "Philosophical Analysis"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29621",
+        "desc": "Philosophy and Feminism"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29622",
+        "desc": "Philosophy and the Holocaust"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29623",
+        "desc": "Philosophy of History"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29624",
+        "desc": "Philosophy of Knowledge"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29625",
+        "desc": "Philosophy of Language"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29626",
+        "desc": "Philosophy of Law"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29627",
+        "desc": "Philosophy of Mathematics"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29628",
+        "desc": "Philosophy of Mind"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29629",
+        "desc": "Philosophy of Religion"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29630",
+        "desc": "Philosophy of Social Sciences"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29631",
+        "desc": "Philosophy of the Environment"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29632",
+        "desc": "Philosophy of the State"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29633",
+        "desc": "Plato"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29634",
+        "desc": "Plato and the Bible"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29635",
+        "desc": "Plato\u2019s Timaeus"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29636",
+        "desc": "Political Philo"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29637",
+        "desc": "Political Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29638",
+        "desc": "Politics In Educ"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29639",
+        "desc": "Post Modernism"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29640",
+        "desc": "Pragmatism"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29641",
+        "desc": "Probability and Induction"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29642",
+        "desc": "Problems in Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29643",
+        "desc": "Rationalism"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29644",
+        "desc": "Rdngs In Phil"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29645",
+        "desc": "Reading In Philo"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29646",
+        "desc": "Renaiss Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29647",
+        "desc": "Research"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29648",
+        "desc": "Research Paper"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29649",
+        "desc": "Sem Hist Phil"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29650",
+        "desc": "Seminar"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29651",
+        "desc": "Seminar in Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29652",
+        "desc": "Special Studies in Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29653",
+        "desc": "Spinoza & Mor Fre"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29654",
+        "desc": "Stds in Late Mod Phil: Kant"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29655",
+        "desc": "The Great Phils"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29656",
+        "desc": "The Judaic State"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29657",
+        "desc": "The Philosophy of Plato"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29658",
+        "desc": "Thesis Research"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29659",
+        "desc": "Tutorial: Special Problems"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29660",
+        "desc": "Tutorial:Special Problems"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29661",
+        "desc": "Vt: Adv Prob in Philo of Relig"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29662",
+        "desc": "Vt: Phil Perspective"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29663",
+        "desc": "Vt: Philo Perspect Hist of Sci"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29664",
+        "desc": "Vt: Read Cont Ethic Thry"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29665",
+        "desc": "Vt: Rec Continental Philosophy"
+    },
+    {
+        "major": "PHIL",
+        "room_num": "29666",
+        "desc": "Writing Workshop"
+    }
+]

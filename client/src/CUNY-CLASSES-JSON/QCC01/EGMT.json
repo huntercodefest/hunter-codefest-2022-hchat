@@ -1,0 +1,232 @@
+[
+    {
+        "major": "EGMT",
+        "room_num": "22826",
+        "desc": "Applied Mechanics"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22827",
+        "desc": "Architectural Design II"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22828",
+        "desc": "Autocad - Lab"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22829",
+        "desc": "Autodesk - Lab"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22830",
+        "desc": "CIM -Lab"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22831",
+        "desc": "Cad Management-Lab"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22832",
+        "desc": "Com App In Et Lab"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22833",
+        "desc": "Comp Aid Man Lab"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22834",
+        "desc": "Comp Appl In Engineering Tech"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22835",
+        "desc": "Comp Con Manuf  Lab"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22836",
+        "desc": "Comp Controlled Manufacturing"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22837",
+        "desc": "Comp Lab In Mt"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22838",
+        "desc": "Computer Aided Design I"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22839",
+        "desc": "Computer Aided Design II"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22840",
+        "desc": "Computer-Aided Manufacturing"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22841",
+        "desc": "Computer-Integrated Manufactur"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22842",
+        "desc": "Cooperative Edu/Design Project"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22843",
+        "desc": "Elec & Mech Lab"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22844",
+        "desc": "Elec-Mech Dr & Tec"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22845",
+        "desc": "Engineering Analysis"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22846",
+        "desc": "Fund Cnc Lab"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22847",
+        "desc": "Fund. of Comp Numerical Contrl"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22848",
+        "desc": "Fundamentals of HVAC Systems"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22849",
+        "desc": "Int Num Con Lab"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22850",
+        "desc": "Intro to Virtual Automation"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22851",
+        "desc": "Machine Design"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22852",
+        "desc": "Manufacturing Processes"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22853",
+        "desc": "Manufctrng Proc Lb"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22854",
+        "desc": "Measurement Techniques TS"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22855",
+        "desc": "Metallurgy and Materials"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22856",
+        "desc": "Metallurgy and Materials Lab"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22857",
+        "desc": "Microcomputer Programming"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22858",
+        "desc": "Parametric Comp-Aided Design"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22859",
+        "desc": "Parametric Computer Lab"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22860",
+        "desc": "Power Tech Lab"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22861",
+        "desc": "Principles of Automotive Tech"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22862",
+        "desc": "Principles of CAD Management"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22863",
+        "desc": "Strength of Materials"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22864",
+        "desc": "Strength of Materials Laborato"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22865",
+        "desc": "Survey & Layout Lb"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22866",
+        "desc": "Tech Geom & Autocad"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22867",
+        "desc": "Technical Graphics"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22868",
+        "desc": "Thermo-Fluid Sys - Lab"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22869",
+        "desc": "Thermo-Fluid Systems"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22870",
+        "desc": "Thermodynamics"
+    },
+    {
+        "major": "EGMT",
+        "room_num": "22871",
+        "desc": "Virtual Auto Lab"
+    }
+]

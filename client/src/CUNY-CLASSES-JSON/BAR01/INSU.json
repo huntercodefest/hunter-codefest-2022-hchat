@@ -1,0 +1,32 @@
+[
+    {
+        "major": "INSU",
+        "room_num": "60644",
+        "desc": "Fundamental of Insurance"
+    },
+    {
+        "major": "INSU",
+        "room_num": "60645",
+        "desc": "Independent Study Insurance I"
+    },
+    {
+        "major": "INSU",
+        "room_num": "60646",
+        "desc": "Life and Health Insurance"
+    },
+    {
+        "major": "INSU",
+        "room_num": "60647",
+        "desc": "Prop & Liability Ins"
+    },
+    {
+        "major": "INSU",
+        "room_num": "60648",
+        "desc": "Risk Management and Control"
+    },
+    {
+        "major": "INSU",
+        "room_num": "60649",
+        "desc": "Risk and Risk Management"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "school": "NCC01",
+        "major": "SOCI",
+        "room_num": "64300",
+        "room_desc": "Community Organizing"
+    },
+    {
+        "school": "NCC01",
+        "major": "SOCI",
+        "room_num": "64301",
+        "room_desc": "Crime & Justice Urban Society"
+    },
+    {
+        "school": "NCC01",
+        "major": "SOCI",
+        "room_num": "64302",
+        "room_desc": "Introduction Urban Community"
+    },
+    {
+        "school": "NCC01",
+        "major": "SOCI",
+        "room_num": "64303",
+        "room_desc": "Introduction to Sociology"
+    },
+    {
+        "school": "NCC01",
+        "major": "SOCI",
+        "room_num": "64304",
+        "room_desc": "Social Determinants of Health"
+    }
+]

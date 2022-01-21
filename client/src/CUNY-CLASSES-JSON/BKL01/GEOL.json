@@ -1,0 +1,592 @@
+[
+    {
+        "major": "GEOL",
+        "room_num": "73505",
+        "desc": "Adv Research Meth"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73506",
+        "desc": "Appl Engin Geol"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73507",
+        "desc": "Applied Sediment 1"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73508",
+        "desc": "Carbonate Sediment"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73509",
+        "desc": "Coal"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73510",
+        "desc": "Concepts in Regional Geography"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73511",
+        "desc": "Conservation Geol"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73512",
+        "desc": "Contaminant Hydrogeology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73513",
+        "desc": "Data: Quant Treatm"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73514",
+        "desc": "Earth Materials"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73515",
+        "desc": "Earth Sc:Planetology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73516",
+        "desc": "Earth Sci 1"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73517",
+        "desc": "Earth Sci 2"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73518",
+        "desc": "Earth Sci Of Nyc Env"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73519",
+        "desc": "Earth Sci:Planetol"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73520",
+        "desc": "Earth Science I"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73521",
+        "desc": "Earth Science II"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73522",
+        "desc": "Earth\u2019s Internal Processes"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73523",
+        "desc": "Earth\u2019s Surface Processes"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73524",
+        "desc": "Econ Geol/Energy Res"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73525",
+        "desc": "Env. Mineralogy"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73526",
+        "desc": "Field Geology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73527",
+        "desc": "Field Mapping"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73528",
+        "desc": "General Geology I"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73529",
+        "desc": "General Geology II"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73530",
+        "desc": "General Geophysics"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73531",
+        "desc": "General Stratigraphy"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73532",
+        "desc": "Geo Nyc Wth Fld Stdy"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73533",
+        "desc": "Geochem Sediments"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73534",
+        "desc": "Geochemistry"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73535",
+        "desc": "Geochemistry of Soils"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73536",
+        "desc": "Geol Global Art&Artf"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73537",
+        "desc": "Geology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73538",
+        "desc": "Geology of New York State"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73539",
+        "desc": "Geology of the National Parks"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73540",
+        "desc": "Geomorphic Process"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73541",
+        "desc": "Geomorphology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73542",
+        "desc": "Geophysics"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73543",
+        "desc": "Geostatistics"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73544",
+        "desc": "Geotectonics"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73545",
+        "desc": "Geothermal Energy"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73546",
+        "desc": "Global Biochem Chang"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73547",
+        "desc": "Global Catastrophes"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73548",
+        "desc": "Global Environmental Change"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73549",
+        "desc": "Grndwater Hydrogeo"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73550",
+        "desc": "Groundwater Hydrogeology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73551",
+        "desc": "High Temp Geochem"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73552",
+        "desc": "History of Geology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73553",
+        "desc": "Ign&Metamorph Petr"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73554",
+        "desc": "Igneous Petrology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73555",
+        "desc": "Independent Research I"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73556",
+        "desc": "Independent Research II"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73557",
+        "desc": "Independent Research III"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73558",
+        "desc": "Indust Mineralogy"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73559",
+        "desc": "Into Environmntl Sci"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73560",
+        "desc": "Intr Environmental"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73561",
+        "desc": "Intro Oceanography"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73562",
+        "desc": "Intro Petroleum Geol"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73563",
+        "desc": "Intro To Gis"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73564",
+        "desc": "Introduction to Earth Science"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73565",
+        "desc": "Introduction to Geochemistry"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73566",
+        "desc": "Introductory Physical Geology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73567",
+        "desc": "Invertebrate Paleontology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73568",
+        "desc": "Low Temperature Geochemistry"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73569",
+        "desc": "Map Interpretation"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73570",
+        "desc": "Marine Geochemistr"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73571",
+        "desc": "Marine Geology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73572",
+        "desc": "Mass Media"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73573",
+        "desc": "Medical Geology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73574",
+        "desc": "Metallic Ores"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73575",
+        "desc": "Metamor Petrology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73576",
+        "desc": "Meteorology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73577",
+        "desc": "Meth Envior Geochem"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73578",
+        "desc": "Mineral Explorat"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73579",
+        "desc": "Mineralogy"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73580",
+        "desc": "Natural History Nyc"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73581",
+        "desc": "Non-Metallic Ores"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73582",
+        "desc": "Ny Water Source/Cycl"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73583",
+        "desc": "Optical Mineralogy"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73584",
+        "desc": "Ore Microscopy"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73585",
+        "desc": "Paleoecology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73586",
+        "desc": "Paleontology of Invertebrates"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73587",
+        "desc": "Petroleum"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73588",
+        "desc": "Photogeology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73589",
+        "desc": "Physical Geochem"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73590",
+        "desc": "Pleistocene Geol"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73591",
+        "desc": "Principles of Geochemistry"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73592",
+        "desc": "Remote Sensing"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73593",
+        "desc": "Rock Mechanics"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73594",
+        "desc": "Sedim & Sedim Petrol"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73595",
+        "desc": "Sediment Petrology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73596",
+        "desc": "Sedimentary Geol"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73597",
+        "desc": "Sedimentology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73598",
+        "desc": "Seminar"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73599",
+        "desc": "Seminar I"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73600",
+        "desc": "Seminar II"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73601",
+        "desc": "Seminar III"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73602",
+        "desc": "Seminars in Geology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73603",
+        "desc": "Solid&Haz Waste Mgmt"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73604",
+        "desc": "Spec Topic Seminar"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73605",
+        "desc": "Special Topic"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73606",
+        "desc": "Special Topics in Geology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73607",
+        "desc": "Stat&Data Anl Geosci"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73608",
+        "desc": "Stratigraphy"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73609",
+        "desc": "Structural Geology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73610",
+        "desc": "Tchnq Geosptl Tchngy"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73611",
+        "desc": "Terrest Plan:Evol"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73612",
+        "desc": "The History of Life"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73613",
+        "desc": "Thesis Research"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73614",
+        "desc": "Time Exploration"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73615",
+        "desc": "Uranium"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73616",
+        "desc": "Urban Probs/Opport"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73617",
+        "desc": "Urban Water Dynamics"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73618",
+        "desc": "Well Hydraulics"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73619",
+        "desc": "World Geography"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73620",
+        "desc": "World Geol"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73621",
+        "desc": "World Stratigraphy"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "73622",
+        "desc": "Xray Diffract Anal"
+    }
+]

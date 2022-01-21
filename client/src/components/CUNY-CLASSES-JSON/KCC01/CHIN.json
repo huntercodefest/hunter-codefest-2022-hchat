@@ -1,0 +1,38 @@
+[
+    {
+        "school": "KCC01",
+        "major": "CHIN",
+        "room_num": "63005",
+        "room_desc": "Chinese Culture and Tradition"
+    },
+    {
+        "school": "KCC01",
+        "major": "CHIN",
+        "room_num": "63006",
+        "room_desc": "Elementary Chinese I"
+    },
+    {
+        "school": "KCC01",
+        "major": "CHIN",
+        "room_num": "63007",
+        "room_desc": "Elementary Chinese II"
+    },
+    {
+        "school": "KCC01",
+        "major": "CHIN",
+        "room_num": "63008",
+        "room_desc": "IS Elementary Chinese 2"
+    },
+    {
+        "school": "KCC01",
+        "major": "CHIN",
+        "room_num": "63009",
+        "room_desc": "Intro to Chinese Cult"
+    },
+    {
+        "school": "KCC01",
+        "major": "CHIN",
+        "room_num": "63010",
+        "room_desc": "Mandarin Chinese"
+    }
+]

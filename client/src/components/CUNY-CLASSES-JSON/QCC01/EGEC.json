@@ -1,0 +1,674 @@
+[
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22707",
+        "room_desc": "Adv C Prog - Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22708",
+        "room_desc": "Advanced C++"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22709",
+        "room_desc": "Advanced Network Security"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22710",
+        "room_desc": "Advanced Web & Multimedia Prog"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22711",
+        "room_desc": "Audio Elecronic Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22712",
+        "room_desc": "Cisco Ccna 3 Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22713",
+        "room_desc": "Cisco Ccna 4 Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22714",
+        "room_desc": "Cloud Technology Developing"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22715",
+        "room_desc": "Cloud Technology Operations"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22716",
+        "room_desc": "Co-op Ed Engi Tech"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22717",
+        "room_desc": "Comp & Electrical Device Appl"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22718",
+        "room_desc": "Comp App Tele Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22719",
+        "room_desc": "Comp App Telecomm"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22720",
+        "room_desc": "Comp Con Sys Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22721",
+        "room_desc": "Comp In Soc Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22722",
+        "room_desc": "Computer Applications"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22723",
+        "room_desc": "Computer Architecture"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22724",
+        "room_desc": "Computer Control Systems"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22725",
+        "room_desc": "Computer Network Security"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22726",
+        "room_desc": "Computer Project Laboratory"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22727",
+        "room_desc": "Computers In Modern Society"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22728",
+        "room_desc": "Computers in Society"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22729",
+        "room_desc": "Connectivity Fundamentals"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22730",
+        "room_desc": "Coop Ed Eng Tech"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22731",
+        "room_desc": "Coop Educ in Engineering Tech"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22732",
+        "room_desc": "Creating Smartphone Apps"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22733",
+        "room_desc": "Database Administration"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22734",
+        "room_desc": "Database Tech Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22735",
+        "room_desc": "Database Technology"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22736",
+        "room_desc": "Dig Comp Theo 1 Lb"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22737",
+        "room_desc": "Digit Comp Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22738",
+        "room_desc": "Digital Computer Theory I"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22739",
+        "room_desc": "Digital Electronics"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22740",
+        "room_desc": "Digital Marketing Summer Works"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22741",
+        "room_desc": "Elec Circ Ana 1 Lb"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22742",
+        "room_desc": "Elec Comm Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22743",
+        "room_desc": "Elec Contrl Sys Lb"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22744",
+        "room_desc": "Electric Circuit Analysis"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22745",
+        "room_desc": "Electrical Circuits"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22746",
+        "room_desc": "Electrical Controls Systems"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22747",
+        "room_desc": "Electrical Tech Fundamentals"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22748",
+        "room_desc": "Electronic Communications"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22749",
+        "room_desc": "Electronic Project Laboratory"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22750",
+        "room_desc": "Electronics & Auto for Home"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22751",
+        "room_desc": "Electronics I"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22752",
+        "room_desc": "Electronics II"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22753",
+        "room_desc": "Energy Green Society"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22754",
+        "room_desc": "Energy Production and Conserva"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22755",
+        "room_desc": "Ethical Hack & Penetratn Test"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22756",
+        "room_desc": "Fundamentals of Audio Electr"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22757",
+        "room_desc": "Green Society Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22758",
+        "room_desc": "Intr Assmbly Prgm"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22759",
+        "room_desc": "Intro C Prpgram Lb"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22760",
+        "room_desc": "Intro To C++"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22761",
+        "room_desc": "Intro To C++ Programming"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22762",
+        "room_desc": "Intro to Computer Programming"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22763",
+        "room_desc": "Intro to Microprocessors"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22764",
+        "room_desc": "Introduction to Electronics"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22765",
+        "room_desc": "Introduction to Robotics"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22766",
+        "room_desc": "Java Prog Tech Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22767",
+        "room_desc": "Java Programming Technology"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22768",
+        "room_desc": "Linux Operating System"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22769",
+        "room_desc": "Micro Prcs-Cptr Lb"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22770",
+        "room_desc": "Microprocessors & Microcomputr"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22771",
+        "room_desc": "Network Configuration I"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22772",
+        "room_desc": "Network Configuration II"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22773",
+        "room_desc": "Network Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22774",
+        "room_desc": "Networking Fundamentals I"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22775",
+        "room_desc": "Networking Fundamentals II"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22776",
+        "room_desc": "Object-Oriented Prog Java"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22777",
+        "room_desc": "Object-Oriented Programming"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22778",
+        "room_desc": "Op Sys & Envirn Lb"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22779",
+        "room_desc": "Operating Sys & Sys Deployment"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22780",
+        "room_desc": "PC Essentials I"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22781",
+        "room_desc": "PC Essentials II"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22782",
+        "room_desc": "Pc Essentials Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22783",
+        "room_desc": "Pc Tech Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22784",
+        "room_desc": "Personal Computer Technology22785: EGEC,\"Prin - Ele Tech Lb"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22786",
+        "room_desc": "Princ of Electrical Technology"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22787",
+        "room_desc": "Prog & Applications w/ Python"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22788",
+        "room_desc": "Programming Embedded Systems"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22789",
+        "room_desc": "Science & Tech in Modern Life"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22790",
+        "room_desc": "Security Policies and Procedur"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22791",
+        "room_desc": "Sin&Tra Cir Ana Lb"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22792",
+        "room_desc": "Sinusoidal & Transnt Analysis"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22793",
+        "room_desc": "Tech Com Lab 4"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22794",
+        "room_desc": "Technology and Society"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22795",
+        "room_desc": "Telcmmunicat Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22796",
+        "room_desc": "Tele Comm III Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22797",
+        "room_desc": "Tele Comm Ii Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22798",
+        "room_desc": "Tele Tech I Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22799",
+        "room_desc": "Tele Tech Ii Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22800",
+        "room_desc": "Telecom Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22801",
+        "room_desc": "Telecom Technology 1"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22802",
+        "room_desc": "Telecomm Technology 2"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22803",
+        "room_desc": "Telecomm Technology 3"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22804",
+        "room_desc": "Telecomm Technology 4"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22805",
+        "room_desc": "Telecommunications I"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22806",
+        "room_desc": "Telecommunications II"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22807",
+        "room_desc": "The Role of Energy in Society"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22808",
+        "room_desc": "The Science Of Energy And Powe"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22809",
+        "room_desc": "Tran Electromec Transducers"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22810",
+        "room_desc": "Unix Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22811",
+        "room_desc": "Web Client Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22812",
+        "room_desc": "Web Client Programming: JavaSc"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22813",
+        "room_desc": "Web Server Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22814",
+        "room_desc": "Web Tech Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22815",
+        "room_desc": "Web Tech:Xml Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22816",
+        "room_desc": "Web Technologies II"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22817",
+        "room_desc": "Web Technology I"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22818",
+        "room_desc": "Web Technology: XML"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "22819",
+        "room_desc": "Wireless Mobile Communications"
+    }
+]

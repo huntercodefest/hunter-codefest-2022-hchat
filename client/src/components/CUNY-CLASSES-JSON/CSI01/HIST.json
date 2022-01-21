@@ -1,0 +1,1202 @@
+[
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85017",
+        "room_desc": "20 Cent Europe Soc"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85018",
+        "room_desc": "20 Century China"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85019",
+        "room_desc": "20th Century Europe"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85020",
+        "room_desc": "42  Ooo"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85021",
+        "room_desc": "Africa Encounters Europe"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85022",
+        "room_desc": "Afro-Amer Hist I"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85023",
+        "room_desc": "Afro-Amer Hist II"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85024",
+        "room_desc": "Afro-Amer Origins"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85025",
+        "room_desc": "Afro-Amer Survey"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85026",
+        "room_desc": "Age of Revolutions: 1765-1820"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85027",
+        "room_desc": "Age of the French Revolution"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85028",
+        "room_desc": "Amer Rep 1788-1850"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85029",
+        "room_desc": "American Civiliztn"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85030",
+        "room_desc": "American Economic History"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85031",
+        "room_desc": "American Ideas"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85032",
+        "room_desc": "American Landscapes"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85033",
+        "room_desc": "Americn Revolution"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85034",
+        "room_desc": "Ancient Jewish Hst"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85035",
+        "room_desc": "Ancient Near East"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85036",
+        "room_desc": "Archive Internship"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85037",
+        "room_desc": "Asian American History"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85038",
+        "room_desc": "Asian Civilization"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85039",
+        "room_desc": "Asian Tigers since 1945"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85040",
+        "room_desc": "Black Thought African Diaspora"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85041",
+        "room_desc": "Blk Thgt Afrn Diaspo"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85042",
+        "room_desc": "Brit Hst/1700-1900"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85043",
+        "room_desc": "Brit Hst/Post 1900"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85044",
+        "room_desc": "Byzantine Thougt&Civ"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85045",
+        "room_desc": "Chinese Civilization"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85046",
+        "room_desc": "Classcl&Hellistc His"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85047",
+        "room_desc": "Colonialism & African Exper"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85048",
+        "room_desc": "Comparative Ancient Religion"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85049",
+        "room_desc": "Comparative Urban History"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85050",
+        "room_desc": "Contemporary African Issues"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85051",
+        "room_desc": "Early Mod Eur Hist"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85052",
+        "room_desc": "Early Modern England"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85053",
+        "room_desc": "Early Modern Europe"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85054",
+        "room_desc": "Economic Hist of Soviet Russia"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85055",
+        "room_desc": "Environmental History"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85056",
+        "room_desc": "Eur Disc Amerca 1492"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85057",
+        "room_desc": "Eur Hist From Ren"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85058",
+        "room_desc": "Europe Since 1815"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85059",
+        "room_desc": "Foundations of Modern Society"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85060",
+        "room_desc": "Freshman Seminar in History"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85061",
+        "room_desc": "Garvey And Dubois"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85062",
+        "room_desc": "Gender/Consciousness"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85063",
+        "room_desc": "Greece"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85064",
+        "room_desc": "Greek and Roman Mythology"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85065",
+        "room_desc": "HST Independent Study"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85066",
+        "room_desc": "Hist Of Nineteenth-Cent Europe"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85067",
+        "room_desc": "Hist Of The South"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85068",
+        "room_desc": "Hist Of Us Education"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85069",
+        "room_desc": "Hist Themes & Interp"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85070",
+        "room_desc": "Hist of The Balkans: 1453-Pres"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85071",
+        "room_desc": "Historical Method"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85072",
+        "room_desc": "Historicl Research"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85073",
+        "room_desc": "Histories of Sexuality iModWrl"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85074",
+        "room_desc": "Historiography"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85075",
+        "room_desc": "History Credit"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85076",
+        "room_desc": "History Elective Credit"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85077",
+        "room_desc": "History Grad Credit"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85078",
+        "room_desc": "History Graduate Credit"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85079",
+        "room_desc": "History Ind Study"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85080",
+        "room_desc": "History Independent Study"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85081",
+        "room_desc": "History Internship"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85082",
+        "room_desc": "History of Africa"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85083",
+        "room_desc": "History of American Women"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85084",
+        "room_desc": "History of Christianity"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85085",
+        "room_desc": "History of Italy"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85086",
+        "room_desc": "History of Modern India"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85087",
+        "room_desc": "History of Modern Russia"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85088",
+        "room_desc": "History of N.Y.C."
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85089",
+        "room_desc": "History of New York"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85090",
+        "room_desc": "History of Science"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85091",
+        "room_desc": "History of Staten Island"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85092",
+        "room_desc": "History of Work"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85093",
+        "room_desc": "History of the Caribbean"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85094",
+        "room_desc": "History of the U.S. City"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85095",
+        "room_desc": "Holocaust in European History"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85096",
+        "room_desc": "Hst Relgn Antquity"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85097",
+        "room_desc": "Imperial Russia"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85098",
+        "room_desc": "Imperialism"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85099",
+        "room_desc": "Individ/Society Ancient Greece"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85100",
+        "room_desc": "Intro Archiv Studies"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85101",
+        "room_desc": "Intro Archival Stdy"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85102",
+        "room_desc": "Intro Women\u2019S Hist"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85103",
+        "room_desc": "Introduction To Museum Studies"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85104",
+        "room_desc": "Islam: Religion and Culture"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85105",
+        "room_desc": "Italian American History"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85106",
+        "room_desc": "Japanese Civilization"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85107",
+        "room_desc": "Jewish History"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85108",
+        "room_desc": "Late Imperial China"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85109",
+        "room_desc": "Ma Portfolio Prep Seminar"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85110",
+        "room_desc": "Medieval Cities"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85111",
+        "room_desc": "Medieval England"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85112",
+        "room_desc": "Medieval Russia"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85113",
+        "room_desc": "Medieval Thought"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85114",
+        "room_desc": "Medievl Inherit I"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85115",
+        "room_desc": "Medievl Inherit II"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85116",
+        "room_desc": "Medv Blkns 1204-1481"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85117",
+        "room_desc": "Mod Latin America"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85118",
+        "room_desc": "Modern China"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85119",
+        "room_desc": "Modern English History"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85120",
+        "room_desc": "Modern Germany"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85121",
+        "room_desc": "Modern Japan"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85122",
+        "room_desc": "Modern World War"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85123",
+        "room_desc": "Movemnts/Indep Afrca"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85124",
+        "room_desc": "Museum Studies"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85125",
+        "room_desc": "Nazi Germany"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85126",
+        "room_desc": "New Approaches to History"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85127",
+        "room_desc": "Nineteenth-Century Europe"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85128",
+        "room_desc": "Ny City Hst & Prob"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85129",
+        "room_desc": "Oral Hst Mthds85130: HIST,\"Past and Present"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85131",
+        "room_desc": "Peoples and Cultures of Africa"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85132",
+        "room_desc": "Pirates in the Early Mod World"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85133",
+        "room_desc": "Preparation of Thesis Proposal"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85134",
+        "room_desc": "Problems Amer City"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85135",
+        "room_desc": "Progressive Era"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85136",
+        "room_desc": "Project Seminal"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85137",
+        "room_desc": "Psycho-History"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85138",
+        "room_desc": "Public Hst Practicum/Intern"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85139",
+        "room_desc": "Reacting to the Past"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85140",
+        "room_desc": "Religion in America"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85141",
+        "room_desc": "Renaisnce/Refrmatn"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85142",
+        "room_desc": "Resistance and Rev in Lat Amer"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85143",
+        "room_desc": "Revolutns Analysis"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85144",
+        "room_desc": "Roman Repub&Imp Hist"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85145",
+        "room_desc": "Russ Rev 1917-1991"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85146",
+        "room_desc": "Seminar in Public History"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85147",
+        "room_desc": "Semnar/Adv Hst Study"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85148",
+        "room_desc": "Soc&Pol Ideologies Mod World"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85149",
+        "room_desc": "Soc/Pol Mod Europe"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85150",
+        "room_desc": "Society and Culture in the US"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85151",
+        "room_desc": "Soviet Union&Russia"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85152",
+        "room_desc": "Spain and Its World85153: HIST,\"THE HIST OF 20th CENT EUROPE"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85154",
+        "room_desc": "The 1960s in Europe"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85155",
+        "room_desc": "The African Diaspora"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85156",
+        "room_desc": "The American Dream"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85157",
+        "room_desc": "The Atlantic World"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85158",
+        "room_desc": "The Classical Inheritance"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85159",
+        "room_desc": "The Cold War"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85160",
+        "room_desc": "The Hist of Amer Immigration"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85161",
+        "room_desc": "The Late Antique World"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85162",
+        "room_desc": "The Middle East and Europe"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85163",
+        "room_desc": "The Modern Middle East"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85164",
+        "room_desc": "The Recovery of Women\u2019s Past"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85165",
+        "room_desc": "The Roman World"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85166",
+        "room_desc": "The Silk Road"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85167",
+        "room_desc": "The Supreme Court"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85168",
+        "room_desc": "The World Since 1900"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85169",
+        "room_desc": "The World of Tokugawa Japan"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85170",
+        "room_desc": "The World of the 21st Century"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85171",
+        "room_desc": "Themes Am Women Hist"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85172",
+        "room_desc": "Themes in Byzantine History"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85173",
+        "room_desc": "Themes in U.S Hist: 1914-1945"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85174",
+        "room_desc": "Thesis Tutorial Seminar"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85175",
+        "room_desc": "Topics Ancient/Medieval Hist"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85176",
+        "room_desc": "Topics Latin American History"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85177",
+        "room_desc": "Topics Modern European History"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85178",
+        "room_desc": "Topics in Caribbean History"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85179",
+        "room_desc": "Topics in U.S. History to 1865"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85180",
+        "room_desc": "Topics in US Hist from 1865"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85181",
+        "room_desc": "Tp Anc Eur Medtrn Hs"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85182",
+        "room_desc": "Tp Erly Mod Eur Hst"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85183",
+        "room_desc": "Tp Med Eur&Medtrn Hs"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85184",
+        "room_desc": "Tpcs Eur Hist To Ren"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85185",
+        "room_desc": "Tpcs Hist East Asia"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85186",
+        "room_desc": "Tpcs Hist Mid East"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85187",
+        "room_desc": "Tpcs Hist Of Africa"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85188",
+        "room_desc": "Tpcs Hist South Asia"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85189",
+        "room_desc": "Tudor and Stuart History"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85190",
+        "room_desc": "U S  Hist Since 1945"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85191",
+        "room_desc": "U S Foreign Policy"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85192",
+        "room_desc": "U S His: 1607-1865"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85193",
+        "room_desc": "U.S. History Since 1865"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85194",
+        "room_desc": "U.S. History to 1865"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85195",
+        "room_desc": "U.S. History: 1900-1940"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85196",
+        "room_desc": "US History:1865-Present"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85197",
+        "room_desc": "US Hst:First Encounters to Pre"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85198",
+        "room_desc": "United States Economic History"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85199",
+        "room_desc": "United States\u2019 Origins"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85200",
+        "room_desc": "Urban America Blacks"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85201",
+        "room_desc": "Us Themes 1607-1788"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85202",
+        "room_desc": "Ushst Them 1877-1914"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85203",
+        "room_desc": "Vietnam At War&Peace"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85204",
+        "room_desc": "Vietnam and America: 1945-1975"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85205",
+        "room_desc": "War & Soc/Mod Amer"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85206",
+        "room_desc": "War and Society"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85207",
+        "room_desc": "West & World: Africa/Eur"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85208",
+        "room_desc": "West & Wrld:Crs Cult Encounter"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85209",
+        "room_desc": "West Civ To 1500"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85210",
+        "room_desc": "West Civilization since 1500"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85211",
+        "room_desc": "West Eurp 400-1000ce"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85212",
+        "room_desc": "White Men/Indians"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85213",
+        "room_desc": "Women Hst/Fem Theory"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85214",
+        "room_desc": "Women in Latin America"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85215",
+        "room_desc": "World Civilization I"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85216",
+        "room_desc": "World Civilization II"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85217",
+        "room_desc": "World War II"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "85218",
+        "room_desc": "Your Parents\u2019 America"
+    }
+]

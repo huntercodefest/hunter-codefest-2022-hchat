@@ -1,0 +1,212 @@
+[
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5472",
+        "room_desc": "Adv PLM & Trace Evidence"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5473",
+        "room_desc": "Adv Polarized Light Microscopy"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5474",
+        "room_desc": "Adv Topics Physical Evidence"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5475",
+        "room_desc": "Adv Tpcs Physical Evidence"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5476",
+        "room_desc": "Advanced Criminalistics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5477",
+        "room_desc": "Advanced Genetics"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5478",
+        "room_desc": "Analytical Toxicology"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5479",
+        "room_desc": "Archit Sec Oper Syst"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5480",
+        "room_desc": "Counterterr Technol/Techniq"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5481",
+        "room_desc": "Crime Scene Investigating"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5482",
+        "room_desc": "Crime Scene Reconstruct"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5483",
+        "room_desc": "Criminalistics"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5484",
+        "room_desc": "Electron Microscopy"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5485",
+        "room_desc": "Forensic Anthropol"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5486",
+        "room_desc": "Forensic Anthropology"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5487",
+        "room_desc": "Forensic Human Ident"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5488",
+        "room_desc": "Forensic Imaging"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5489",
+        "room_desc": "Forensic Medicine"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5490",
+        "room_desc": "Forensic Mgmt Digital Evid"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5491",
+        "room_desc": "Forensic Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5492",
+        "room_desc": "Investigatns/Envir Crime Scene"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5493",
+        "room_desc": "Investigtns/Environment"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5494",
+        "room_desc": "Math Stat Forensic Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5495",
+        "room_desc": "Math Stat Fos Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5496",
+        "room_desc": "Microspectrophotometry"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5497",
+        "room_desc": "Molecular Biology"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5498",
+        "room_desc": "Network Forensics"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5499",
+        "room_desc": "Physical Biological Evidence"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5500",
+        "room_desc": "Princ of Forensic Toxicology"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5501",
+        "room_desc": "Sci Evidence & Expert Testimny"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5502",
+        "room_desc": "Sci Fire Investig"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5503",
+        "room_desc": "Sci Firearm Examin"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5504",
+        "room_desc": "Sci Firearm Examination"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5505",
+        "room_desc": "Scien Fire Arms Inv"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "5506",
+        "room_desc": "Stat Law & Forensic Science"
+    }
+]

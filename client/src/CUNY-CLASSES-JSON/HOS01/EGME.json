@@ -1,0 +1,27 @@
+[
+    {
+        "major": "EGME",
+        "room_num": "64635",
+        "desc": "Computer Aided Drafting"
+    },
+    {
+        "major": "EGME",
+        "room_num": "64636",
+        "desc": "Computer Method In Engineering"
+    },
+    {
+        "major": "EGME",
+        "room_num": "64637",
+        "desc": "Engineering Mechanics I"
+    },
+    {
+        "major": "EGME",
+        "room_num": "64638",
+        "desc": "Engineering Mechanics II"
+    },
+    {
+        "major": "EGME",
+        "room_num": "64639",
+        "desc": "Mechanics of Materials"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "school": "QNS01",
+        "major": "EDCO",
+        "room_num": "25486",
+        "room_desc": "Coop Edu Placemt"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDCO",
+        "room_num": "25487",
+        "room_desc": "Coop Edub Placemt"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDCO",
+        "room_num": "25488",
+        "room_desc": "Coop Educ Placemt"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDCO",
+        "room_num": "25489",
+        "room_desc": "Fldwork & Amer Exp"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDCO",
+        "room_num": "25490",
+        "room_desc": "Ind In Organization"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDCO",
+        "room_num": "25491",
+        "room_desc": "Orientation to World of Work"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDCO",
+        "room_num": "25492",
+        "room_desc": "World Of Work"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDCO",
+        "room_num": "25493",
+        "room_desc": "Wrld Of Wrk-Intrnshp"
+    }
+]

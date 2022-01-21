@@ -1,0 +1,682 @@
+[
+    {
+        "major": "HEBR",
+        "room_num": "52334",
+        "desc": "Adv Biblibal Grammar"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52335",
+        "desc": "Adv Heb Gram & Conv"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52336",
+        "desc": "Advanced Hebrew"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52337",
+        "desc": "Anc Israelite Relig"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52338",
+        "desc": "Anc Nrestrn:Lt&Bible"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52339",
+        "desc": "Ancient Hebraic Folklore"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52340",
+        "desc": "Ancient Hebraic Law"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52341",
+        "desc": "Anct Israel Religion"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52342",
+        "desc": "Antisemitism-Heb Lit"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52343",
+        "desc": "Apprch to Main Prblm"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52344",
+        "desc": "Art of Bibl Narr-Eng"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52345",
+        "desc": "Art of Biblical Nart"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52346",
+        "desc": "Bib Lit:Hagiographa"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52347",
+        "desc": "Bib Motf:Heb Lt-Eng"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52348",
+        "desc": "Bib Them in Amer Clt"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52349",
+        "desc": "Bib Thms-Mod Heb Lit"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52350",
+        "desc": "Bibl Arch:Synagogues"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52351",
+        "desc": "Bibl His&Arch II -Eng"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52352",
+        "desc": "Biblcal Hebrew 2"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52353",
+        "desc": "Biblical Archaeology"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52354",
+        "desc": "Biblical Grammar"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52355",
+        "desc": "Biblical Hebrew"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52356",
+        "desc": "Biblical Hebrew 2"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52357",
+        "desc": "Biblical Hebrew I"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52358",
+        "desc": "Biblical Lit: Historical Books"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52359",
+        "desc": "Biblical Lit:Prophetic Books"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52360",
+        "desc": "Biblical Literat: Pentateuch"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52361",
+        "desc": "Clown Motif-Ydish Lt"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52362",
+        "desc": "Compos of The Bible"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52363",
+        "desc": "Contemp Hbr Lit-Eng"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52364",
+        "desc": "Contemp Hebr Poetry"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52365",
+        "desc": "Contemporary Hebrew Prose"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52366",
+        "desc": "Dead Sea Scrolls ENG"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52367",
+        "desc": "Dead Sea Scrolls-Eng"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52368",
+        "desc": "Demonic Elm-Ydish Lt"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52369",
+        "desc": "Elem Hebrew for Herit Speakers"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52370",
+        "desc": "Elem Ydsh 1&2 Intens"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52371",
+        "desc": "Elementary Biblical Hebrew 2"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52372",
+        "desc": "Elementary Biblical Hebrew I"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52373",
+        "desc": "Elementary Hebrew 1"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52374",
+        "desc": "Elementary Hebrew II"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52375",
+        "desc": "Elementary Yiddish I"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52376",
+        "desc": "Grt Hbr Esayists-Eng"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52377",
+        "desc": "Heb Grammr Comp Conv"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52378",
+        "desc": "Heb Ptry Bet 2 Wars"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52379",
+        "desc": "Heb&Jud Cul&Tht-Islm"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52380",
+        "desc": "Hebr Bible Early Jud"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52381",
+        "desc": "Hebr Conversation 1"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52382",
+        "desc": "Hebr Conversation 2"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52383",
+        "desc": "Hebr Sem:Yehoshua&Oz"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52384",
+        "desc": "Hebrew Conversation"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52385",
+        "desc": "Hebrew Grammar and Composition"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52386",
+        "desc": "Hebrew and Israeli Songs"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52387",
+        "desc": "Hebrew for Heritage Speakers 2"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52388",
+        "desc": "Hist of Mod Hebr Lit"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52389",
+        "desc": "Holocaust in Hebr Lt"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52390",
+        "desc": "Hon Sem Cntp Hb Novl"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52391",
+        "desc": "Hon Sem: Barash"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52392",
+        "desc": "Hon Sem: Hebr Novel"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52393",
+        "desc": "Hon Sem:Cntp Heb Lit"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52394",
+        "desc": "Hon Sem:Grt Heb Esay"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52395",
+        "desc": "Honors Project"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52396",
+        "desc": "Honors Sem:Hazaz"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52397",
+        "desc": "Honors Sem:Holocaust"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52398",
+        "desc": "Honors Seminar in Brener"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52399",
+        "desc": "Honors Seminar:Agnon"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52400",
+        "desc": "Honors Seminar:Berdichevsky"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52401",
+        "desc": "Hons Sem:Yehoshua&Oz"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52402",
+        "desc": "Hs: Hbr Lt-Kibutz Thm"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52403",
+        "desc": "Independent Studies"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52404",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52405",
+        "desc": "Int to Old Testament"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52406",
+        "desc": "Intensive Elementary Hebrew"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52407",
+        "desc": "Intensive Intermediate Hebrew"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52408",
+        "desc": "Intermediate Biblical Hebrew 1"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52409",
+        "desc": "Intermediate Biblical Hebrew 2"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52410",
+        "desc": "Intermediate Hebrew 2"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52411",
+        "desc": "Intermediate Hebrew I"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52412",
+        "desc": "Intro Jewish Texts"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52413",
+        "desc": "Introduction to Old Testament"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52414",
+        "desc": "Introduction to the Old Test"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52415",
+        "desc": "Israeli Cinema"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52416",
+        "desc": "Israeli Hebrew"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52417",
+        "desc": "Jew Myst & Sci Fict"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52418",
+        "desc": "Jewsh Texts/Writngs"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52419",
+        "desc": "Job52420: HEBR,\"Lgcy-Sholem Aleichem"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52421",
+        "desc": "Lit Lgcy-I.B.Singer"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52422",
+        "desc": "Mast An Hbr Lt:Trn"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52423",
+        "desc": "Mast Yid Lit in Tran"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52424",
+        "desc": "Mast of Yiddish Lit in Transl"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52425",
+        "desc": "Mediev Heb Phil Txts"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52426",
+        "desc": "Mediev Heb Travl Lit"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52427",
+        "desc": "Medieval Literature"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52428",
+        "desc": "Medvl Heb Travel Lit"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52429",
+        "desc": "Mod Heb Essay In Eng"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52430",
+        "desc": "Mod Heb Lit in Trans"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52431",
+        "desc": "Modern Hebrew Literature 2"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52432",
+        "desc": "Modern Hebrew Literature I"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52433",
+        "desc": "Modern Hebrew Press"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52434",
+        "desc": "Modern Israeli Culture"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52435",
+        "desc": "Mstpc Medv Hbr Lit"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52436",
+        "desc": "Old Testament Religion"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52437",
+        "desc": "Oral&Writ Presnt-Heb"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52438",
+        "desc": "Poetry Mod Heb Renaissance Prd"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52439",
+        "desc": "Poetry Mod Heb Rnsns"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52440",
+        "desc": "Rdg Md Hbr Lt:Tran"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52441",
+        "desc": "Read Mod Heb Lit-Tra"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52442",
+        "desc": "Readings in Hebrew Bible"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52443",
+        "desc": "Second Language Acquisition"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52444",
+        "desc": "Sel Stud Heb Lit-Tra"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52445",
+        "desc": "Sem Agnon-Love Story"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52446",
+        "desc": "Sem: A.B. Yehoshua"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52447",
+        "desc": "Sem:Agnon\u2019s Nrtv Art"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52448",
+        "desc": "Sem:Bib Thm-Md Hb Lt"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52449",
+        "desc": "Sem:Hebr Lit-Agnon"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52450",
+        "desc": "Sem:Hebr Short Story"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52451",
+        "desc": "Sem:Kibutz In Hbr Lt"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52452",
+        "desc": "Sem:Womn in Hbr Lit"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52453",
+        "desc": "Sem:Yehosh & Oz-Novl"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52454",
+        "desc": "Seminar in Amos Oz"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52455",
+        "desc": "Seminar:Yehoshua&Oz"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52456",
+        "desc": "Shtetl in Hbr Lt Eng"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52457",
+        "desc": "Stud in Hebrew Lit in Transl"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52458",
+        "desc": "Talmudic Law & Lore"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52459",
+        "desc": "The Hebrew Prophets"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52460",
+        "desc": "The Holocaust Theme"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52461",
+        "desc": "The Modern Hebrew Essay"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52462",
+        "desc": "The Modern Hebrew Novel"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52463",
+        "desc": "The Modern Hebrew Short Story"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52464",
+        "desc": "Tr Contmp Hbr Poetry"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52465",
+        "desc": "Women Profil Hebrew Literature"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52466",
+        "desc": "Women in Hebr Lit"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52467",
+        "desc": "Women in Mod Heb Lit"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52468",
+        "desc": "Women in Yiddish Lit"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52469",
+        "desc": "Womn in Bible-Eng"
+    },
+    {
+        "major": "HEBR",
+        "room_num": "52470",
+        "desc": "Womn in Heb Lit-Eng"
+    }
+]

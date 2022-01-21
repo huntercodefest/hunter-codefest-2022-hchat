@@ -1,0 +1,47 @@
+[
+    {
+        "major": "MDLT",
+        "room_num": "69327",
+        "desc": "Clinical Chemistry"
+    },
+    {
+        "major": "MDLT",
+        "room_num": "69328",
+        "desc": "Clinical Hematology"
+    },
+    {
+        "major": "MDLT",
+        "room_num": "69329",
+        "desc": "Clinical Internship"
+    },
+    {
+        "major": "MDLT",
+        "room_num": "69330",
+        "desc": "Diagnostic Mircobiology"
+    },
+    {
+        "major": "MDLT",
+        "room_num": "69331",
+        "desc": "Immunohematology"
+    },
+    {
+        "major": "MDLT",
+        "room_num": "69332",
+        "desc": "Immunology/Serology"
+    },
+    {
+        "major": "MDLT",
+        "room_num": "69333",
+        "desc": "Intro to Clinical Microbiology"
+    },
+    {
+        "major": "MDLT",
+        "room_num": "69334",
+        "desc": "Intro to M.L.T."
+    },
+    {
+        "major": "MDLT",
+        "room_num": "69335",
+        "desc": "Urinalysis and Body Fluids"
+    }
+]

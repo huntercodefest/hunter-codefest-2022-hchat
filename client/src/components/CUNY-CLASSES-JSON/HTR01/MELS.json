@@ -1,0 +1,398 @@
+[
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53961",
+        "room_desc": "Adv Microbiology"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53962",
+        "room_desc": "Cell and Tissue Culture"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53963",
+        "room_desc": "Clinical Biochemistry 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53964",
+        "room_desc": "Clinical Biochemistry I"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53965",
+        "room_desc": "Clinical Microbiology I"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53966",
+        "room_desc": "Clinical Microbiology II"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53967",
+        "room_desc": "Clinical Practicum I"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53968",
+        "room_desc": "Clinical Practicum II"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53969",
+        "room_desc": "Cncpt Disas Diag Str"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53970",
+        "room_desc": "Comp & Data Pro Med Lab"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53971",
+        "room_desc": "Computers in Medical Lab"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53972",
+        "room_desc": "Cyto Lab Mgmt & Ops"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53973",
+        "room_desc": "Cytopreparatory Techniques 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53974",
+        "room_desc": "Cytopreparatory Techniques 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53975",
+        "room_desc": "Cytopreparatory Techniques III"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53976",
+        "room_desc": "Emerging Lab Technol"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53977",
+        "room_desc": "Exfoliative Cytopathology 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53978",
+        "room_desc": "Exfoliative Cytopathology 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53979",
+        "room_desc": "Fdmntl Cncpt & Tech: Med Lab"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53980",
+        "room_desc": "Fdmntl Cncpt&Tech:Ml"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53981",
+        "room_desc": "Fine Needle Aspiration Cyto I"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53982",
+        "room_desc": "Fine Needle Aspiration Cyto II"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53983",
+        "room_desc": "Fundamentals of Pathology"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53984",
+        "room_desc": "Graduate Independent Study"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53985",
+        "room_desc": "Gynecologic Cytopathology"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53986",
+        "room_desc": "Hematology"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53987",
+        "room_desc": "Hematology Lab"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53988",
+        "room_desc": "Histology Laboratory"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53989",
+        "room_desc": "Hlth Profess Writing"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53990",
+        "room_desc": "Hlth Sci:Crit Thnkng"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53991",
+        "room_desc": "Honors"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53992",
+        "room_desc": "Human Histology"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53993",
+        "room_desc": "Human Physiology"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53994",
+        "room_desc": "Immunohematology"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53995",
+        "room_desc": "Immunology"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53996",
+        "room_desc": "Independent Study - MLS"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53997",
+        "room_desc": "Intro to Health Care"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53998",
+        "room_desc": "Intro:Hlth Care Syst"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "53999",
+        "room_desc": "Introduction to Cytopathology"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54000",
+        "room_desc": "Lab Analysis"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54001",
+        "room_desc": "Management Practicum"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54002",
+        "room_desc": "Meas Immun Prin&Prac"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54003",
+        "room_desc": "Microscopic Evaluation 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54004",
+        "room_desc": "Microscopic Evaluation II"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54005",
+        "room_desc": "Microscopic Evaluation III"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54006",
+        "room_desc": "Parasitology"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54007",
+        "room_desc": "Professional Practice"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54008",
+        "room_desc": "Research Methods 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54009",
+        "room_desc": "Research Methods 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54010",
+        "room_desc": "Research Methods 3"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54011",
+        "room_desc": "Risk Mgmt for the Biomed Lab"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54012",
+        "room_desc": "Senior Seminar"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54013",
+        "room_desc": "Senior Seminar 2 Mls"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54014",
+        "room_desc": "Sp Top:Medical Tech"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54015",
+        "room_desc": "Top: Biochemistry"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54016",
+        "room_desc": "Top: Cell Tissue Cul"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54017",
+        "room_desc": "Top:Chem Bio Blood"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54018",
+        "room_desc": "Top:Parasite Infec"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54019",
+        "room_desc": "Top:Transfusion Tech"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54020",
+        "room_desc": "Topics Biomed Sci"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54021",
+        "room_desc": "Topics: Applied Pharm"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54022",
+        "room_desc": "Topics: Biohazards & Emer Resp"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54023",
+        "room_desc": "Topics: Lab Analysis"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54024",
+        "room_desc": "Tpc:Clinical Chem"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54025",
+        "room_desc": "Viral Mech: Hum Disease"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "54026",
+        "room_desc": "Virology"
+    }
+]

@@ -1,0 +1,1682 @@
+[
+    {
+        "major": "ARTH",
+        "room_num": "569",
+        "desc": "16c Dutch/Flemish"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "570",
+        "desc": "18th Century Genre Painting"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "571",
+        "desc": "1930 To The Present"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "572",
+        "desc": "1940s Ny Paint/Sclp"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "573",
+        "desc": "19c American Paint"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "574",
+        "desc": "19c Degas/Impresont"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "575",
+        "desc": "19c Feminism & Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "576",
+        "desc": "19c French Hist Pnt"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "577",
+        "desc": "19c German Painting"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "578",
+        "desc": "19c Landscape/Portr"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "579",
+        "desc": "19c Romanticism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "580",
+        "desc": "19th Cent Amer Sculpture"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "581",
+        "desc": "19th Century Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "582",
+        "desc": "20 C Art Criticism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "583",
+        "desc": "20th Cent Realism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "584",
+        "desc": "20th Century Art I"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "585",
+        "desc": "2nd Empire Painting"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "586",
+        "desc": "Abstract Expressionism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "587",
+        "desc": "Abstract Expressism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "588",
+        "desc": "Academ Trad/Sculptr"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "589",
+        "desc": "Adv Computer Graphics"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "590",
+        "desc": "Advanced Sculpture"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "591",
+        "desc": "Aegean Imagery"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "592",
+        "desc": "Aesthetics Of Film"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "593",
+        "desc": "Aesthetics of Film"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "594",
+        "desc": "Aesthetics of Information"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "595",
+        "desc": "Aesthetics/History"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "596",
+        "desc": "Alternat A/Aft 1945"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "597",
+        "desc": "Amer Art Criticism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "598",
+        "desc": "Amer Art/The 1870\u2019S"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "599",
+        "desc": "Amer Art:The 1930\u2019S"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "600",
+        "desc": "Amer Fakes/Forgery"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "601",
+        "desc": "Amer Impressionism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "602",
+        "desc": "Amer Portriat Paint"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "603",
+        "desc": "Amer Postwar Landsc"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "604",
+        "desc": "Amer Ren 1876-1913"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "605",
+        "desc": "Amer Women Sculptor"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "606",
+        "desc": "Amer/Eurp Art 18/19"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "607",
+        "desc": "American Art 1930\u2019S"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "608",
+        "desc": "American Art 1950\u2019s"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "609",
+        "desc": "American Art I"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "610",
+        "desc": "American Impresnism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "611",
+        "desc": "American Neoclassic"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "612",
+        "desc": "Arch of Ital Renaissance"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "613",
+        "desc": "Archit Avant-Garde"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "614",
+        "desc": "Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "615",
+        "desc": "Art & Archit New Spain & Andes"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "616",
+        "desc": "Art 20C Authoritative Regimes"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "617",
+        "desc": "Art History Method Colloq"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "618",
+        "desc": "Art In Florence"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "619",
+        "desc": "Art Of East Asia:Paint&Calligr"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "620",
+        "desc": "Art in Amer: 1908-68"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "621",
+        "desc": "Art in the Time of Medici"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "622",
+        "desc": "Art of China & Islamic World"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "623",
+        "desc": "Art of the 1960\u2019s"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "624",
+        "desc": "Art625: ARTH,\"Art/Arch Africa/Pacific/Native"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "626",
+        "desc": "Avant Garde"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "627",
+        "desc": "Aztec Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "628",
+        "desc": "Baroque Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "629",
+        "desc": "Basic Drawing"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "630",
+        "desc": "British 1760-1800"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "631",
+        "desc": "Btwn The World Wars"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "632",
+        "desc": "Buddhist Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "633",
+        "desc": "Ceramics"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "634",
+        "desc": "Cezanne/Armory Show"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "635",
+        "desc": "Chinese & Japanese Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "636",
+        "desc": "Classical Greek"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "637",
+        "desc": "Color Photography"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "638",
+        "desc": "Contemp Art/Latin America"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "639",
+        "desc": "Cubism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "640",
+        "desc": "Cubism & Futurism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "641",
+        "desc": "Cubism/Consequences"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "642",
+        "desc": "Cubism/Fauvism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "643",
+        "desc": "Curator Asstship"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "644",
+        "desc": "Curatorial Studies"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "645",
+        "desc": "Cyborgs & Cultrl Id"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "646",
+        "desc": "David To Delacroix"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "647",
+        "desc": "Design I"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "648",
+        "desc": "Devel Altar Piece"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "649",
+        "desc": "Digital Photography"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "650",
+        "desc": "Dissertation Supervision"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "651",
+        "desc": "Dissertation Workshop"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "652",
+        "desc": "Dissertation Wrkshp"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "653",
+        "desc": "Drawing"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "654",
+        "desc": "Dutch Genre Paintng"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "655",
+        "desc": "Dutch Genre Pnts"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "656",
+        "desc": "Dutch Graphics 17 C"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "657",
+        "desc": "Early Modernist"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "658",
+        "desc": "Early Netherland Pntng"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "659",
+        "desc": "Early Netherlandish"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "660",
+        "desc": "Eugene Delacroix"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "661",
+        "desc": "Europ Painting"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "662",
+        "desc": "European Art Since 1900"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "663",
+        "desc": "Fauvism & Cubism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "664",
+        "desc": "Feminist/Womens Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "665",
+        "desc": "Gender/Medieval Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "666",
+        "desc": "Germ Modern/Nationl"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "667",
+        "desc": "German Expresionism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "668",
+        "desc": "German Photography"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "669",
+        "desc": "German Ptng/Grph"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "670",
+        "desc": "Giacometti"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "671",
+        "desc": "Giotto"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "672",
+        "desc": "Giulio Romano"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "673",
+        "desc": "Global Conceptualism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "674",
+        "desc": "Gothic Art And Arch"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "675",
+        "desc": "Gothic Medieval Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "676",
+        "desc": "Graduate Seminar"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "677",
+        "desc": "Graduate Special Topics"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "678",
+        "desc": "Greek Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "679",
+        "desc": "Greek Sculpture"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "680",
+        "desc": "Greek Vase Painting"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "681",
+        "desc": "Helenistc/Roman Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "682",
+        "desc": "Hist Of Photography"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "683",
+        "desc": "Hist Photography"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "684",
+        "desc": "Hist of Architect: Mod/Cntmp"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "685",
+        "desc": "History Of Cinema I"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "686",
+        "desc": "History of Criticism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "687",
+        "desc": "History of Photography"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "688",
+        "desc": "History of the Motion Picture"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "689",
+        "desc": "Impress/Post-Impress"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "690",
+        "desc": "Impression"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "691",
+        "desc": "Impressionism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "692",
+        "desc": "Ind Study:Col Photo"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "693",
+        "desc": "Independent Resch"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "694",
+        "desc": "Independent Research"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "695",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "696",
+        "desc": "Influn:Italy/Nethld"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "697",
+        "desc": "Intermediate Photography"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "698",
+        "desc": "Interrel 19c Am-Eur"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "699",
+        "desc": "Intro to Painting"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "700",
+        "desc": "Intro to Photography"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "701",
+        "desc": "Islamic Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "702",
+        "desc": "Issues Of Identity"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "703",
+        "desc": "Issues in 15 Century Painting"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "704",
+        "desc": "Ital Renaissance"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "705",
+        "desc": "Italy/Early Renaisn"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "706",
+        "desc": "Latin American Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "707",
+        "desc": "Latin American Photography"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "708",
+        "desc": "Le Corbusier"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "709",
+        "desc": "Love & Death in Italian Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "710",
+        "desc": "Major Artist & Develop"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "711",
+        "desc": "Manet"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "712",
+        "desc": "Manet To Motherwell"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "713",
+        "desc": "Mannerist/Baroque"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "714",
+        "desc": "Matisse"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "715",
+        "desc": "Medieval Art I"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "716",
+        "desc": "Medieval Art II"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "717",
+        "desc": "Medieval Art-Sem"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "718",
+        "desc": "Methods Of Research"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "719",
+        "desc": "Methods of Research"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "720",
+        "desc": "Mexican Mural Pntg"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "721",
+        "desc": "Mod Art/Iconograph"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "722",
+        "desc": "Mod Latin American Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "723",
+        "desc": "Modern Architecture"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "724",
+        "desc": "Modern Art 2"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "725",
+        "desc": "Modern Art 3"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "726",
+        "desc": "Modern Art I"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "727",
+        "desc": "Modern Art III"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "728",
+        "desc": "Modern Art Latin America"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "729",
+        "desc": "Modern Art/The 50\u2019S"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "730",
+        "desc": "Modern Mexican Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "731",
+        "desc": "Modern Mosque"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "732",
+        "desc": "Modernism 1918-1940"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "733",
+        "desc": "Modrn Thght/Lanscpe"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "734",
+        "desc": "Museum Apprentcship"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "735",
+        "desc": "Museum Training"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "736",
+        "desc": "Museum Training I"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "737",
+        "desc": "Myth & Legend: Greek Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "738",
+        "desc": "Neoclas & Rom-A Revl"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "739",
+        "desc": "No Europ Painting"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "740",
+        "desc": "Non Western Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "741",
+        "desc": "Northern Renas Pntg"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "742",
+        "desc": "Northrn Renais Ptng"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "743",
+        "desc": "Occidentalism: Islam"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "744",
+        "desc": "Oeuvre Catalogues"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "745",
+        "desc": "Orient Influ On Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "746",
+        "desc": "Orient Ink Painting"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "747",
+        "desc": "Oriental Influence"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "748",
+        "desc": "Oriental Influences"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "749",
+        "desc": "Orientalism/Islamic Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "750",
+        "desc": "Painting"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "751",
+        "desc": "Painting 2"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "752",
+        "desc": "Painting I"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "753",
+        "desc": "Photo/Post-Colonial DIs"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "754",
+        "desc": "Photo: Rev in Seeing"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "755",
+        "desc": "Photography"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "756",
+        "desc": "Photography & Archive"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "757",
+        "desc": "Photography & Human Condition"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "758",
+        "desc": "Photography 1"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "759",
+        "desc": "Photography 2"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "760",
+        "desc": "Photography I"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "761",
+        "desc": "Photography II"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "762",
+        "desc": "Photography Without A Darkroom"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "763",
+        "desc": "Photography/Pic/Mod"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "764",
+        "desc": "Photography: 20th Century"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "765",
+        "desc": "Picasso 20\u2019S & 30\u2019S"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "766",
+        "desc": "Pion Of Abstraction"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "767",
+        "desc": "Pompadour As Patron"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "768",
+        "desc": "Popular Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "769",
+        "desc": "Post Paint Abstract"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "770",
+        "desc": "Post War Italian Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "771",
+        "desc": "Post-Impressionism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "772",
+        "desc": "Pre-Columbian Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "773",
+        "desc": "Precolumbian Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "774",
+        "desc": "Primitive-Modern"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "775",
+        "desc": "Principles Of Photography"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "776",
+        "desc": "Prob 19/20c Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "777",
+        "desc": "Public Works Of Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "778",
+        "desc": "Race/Gend Amer Film"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "779",
+        "desc": "Relat Amer/Europ Painting"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "780",
+        "desc": "Renais Flor & Rome"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "781",
+        "desc": "Renaissance Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "782",
+        "desc": "Renaissance Art I"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "783",
+        "desc": "Renaissance Art II"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "784",
+        "desc": "Renaissance Sculpture"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "785",
+        "desc": "Research Mthds of Art History"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "786",
+        "desc": "Roman Architecture"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "787",
+        "desc": "Roman Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "788",
+        "desc": "Ruskin/Morris/Pater"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "789",
+        "desc": "ST Am Arch/Urbnsm/Design"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "790",
+        "desc": "ST: 19th Century Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "791",
+        "desc": "ST: Afr Pacif Precol Amer Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "792",
+        "desc": "ST: African Art/Architecture"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "793",
+        "desc": "ST: Am Art and Architecture"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "794",
+        "desc": "ST: Amer Architecture/Urbanism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "795",
+        "desc": "ST: American Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "796",
+        "desc": "ST: American Art/Architecture"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "797",
+        "desc": "ST: Arch/Urbnsm/Design"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "798",
+        "desc": "ST: Art & Architecture Pacific"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "799",
+        "desc": "ST: Art History"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "800",
+        "desc": "ST: Art&Architecture Pacific"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "801",
+        "desc": "ST: Art:Greece/Aegean/Etru/Rom"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "802",
+        "desc": "ST: Asian Art:China-Japn-Korea"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "803",
+        "desc": "ST: Baroque Art Arch to 1750"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "804",
+        "desc": "ST: Baroque Art/18th Cent Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "805",
+        "desc": "ST: Baroque Art/Architect"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "806",
+        "desc": "ST: Contemp Arch/Urbnsm/Design"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "807",
+        "desc": "ST: Contemporary Architecture"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "808",
+        "desc": "ST: Contemporary Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "809",
+        "desc": "ST: Eur Art & Arch810: ARTH,\"ST: Euro Art/Arch 1300-1750"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "811",
+        "desc": "ST: Hist of Amer Art Criticism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "812",
+        "desc": "ST: History of Criticism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "813",
+        "desc": "ST: History of Photography"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "814",
+        "desc": "ST: Islamic Art/Architecture"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "815",
+        "desc": "ST: Ital Ren Mannerist Art/Arc"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "816",
+        "desc": "ST: Late 18&19c Art/Architect"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "817",
+        "desc": "ST: Medieval Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "818",
+        "desc": "ST: Mod LA Art/Architecture"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "819",
+        "desc": "ST: Mod Latin Am Art Arch"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "820",
+        "desc": "ST: Modern Architecture"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "821",
+        "desc": "ST: Modern Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "822",
+        "desc": "ST: Modern Art & Architecture"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "823",
+        "desc": "ST: Modern Art Criticism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "824",
+        "desc": "ST: Nat NA Art/Architecture"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "825",
+        "desc": "ST: Native NA Art/Arch"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "826",
+        "desc": "ST: Nineteenth Century Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "827",
+        "desc": "ST: Nor Ren Art/Archeticture"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "828",
+        "desc": "ST: Northern Renaissance Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "829",
+        "desc": "ST: Pre-Columbian Art/Arch"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "830",
+        "desc": "ST: Theory and Criticism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "831",
+        "desc": "ST:18-19C Art/Architecture"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "832",
+        "desc": "ST:19th-Century Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "833",
+        "desc": "ST:Afr/Pacific/Precol Amer Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "834",
+        "desc": "ST:Am Arch/Urbnsm/Design"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "835",
+        "desc": "ST:Amer Arch and Urbanism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "836",
+        "desc": "ST:American Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "837",
+        "desc": "ST:Art/Arch Africa/Pac/Nat Am"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "838",
+        "desc": "ST:Asian Art:China/Japan/Korea"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "839",
+        "desc": "ST:Asian Art:China/Japn/Korea"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "840",
+        "desc": "ST:Baroque Art 18th Cent Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "841",
+        "desc": "ST:Baroque Art/18th Cent Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "842",
+        "desc": "ST:Contemp Arch/Urbnsm/Design"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "843",
+        "desc": "ST:Contemp Art & Architecture"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "844",
+        "desc": "ST:Contemp Art/Architecture"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "845",
+        "desc": "ST:Contemporary Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "846",
+        "desc": "ST:Eur Art and Arch847: ARTH,\"ST:Hist of Amer Art Criticism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "848",
+        "desc": "ST:Hist of Crit in Modern Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "849",
+        "desc": "ST:Hist of the Motion Picture"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "850",
+        "desc": "ST:Ital Ren/Man Art/Architect"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "851",
+        "desc": "ST:Ital Renais & Mannerist Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "852",
+        "desc": "ST:Medieval Art/Architecture"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "853",
+        "desc": "ST:Mod Arch/Urbnsm/Design"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "854",
+        "desc": "ST:Modern Architecture"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "855",
+        "desc": "ST:Modern Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "856",
+        "desc": "ST:Modern Art and Architecture"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "857",
+        "desc": "ST:Nrth Ren Art/Architecture"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "858",
+        "desc": "Saints & Pilgrims"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "859",
+        "desc": "Sculpt Eur & Americ"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "860",
+        "desc": "Sel Rdng Pol/Soc Th"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "861",
+        "desc": "Selected Topics in Art History"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "862",
+        "desc": "Sem in Islamic Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "863",
+        "desc": "Sem: Gothic Sculpture"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "864",
+        "desc": "Sem: Mannerist & Baroque"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "865",
+        "desc": "Sem: Obj of Devotion & Desire"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "866",
+        "desc": "Sem: Six/Sixties"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "867",
+        "desc": "Sem: Surrealism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "868",
+        "desc": "Sem:Prob Contemp Arch/Urbanism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "869",
+        "desc": "Sem:Survey Islamic Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "870",
+        "desc": "Seminar in Film Theory"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "871",
+        "desc": "Seminar: Botticelli"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "872",
+        "desc": "Seminar: Goya"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "873",
+        "desc": "Sp Tpcs/Gender"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "874",
+        "desc": "Spanish Art Golden Age"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "875",
+        "desc": "Spec Prob I: Hist Sound Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "876",
+        "desc": "Spec Tpcs: Islamic City"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "877",
+        "desc": "Special Topics"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "878",
+        "desc": "Special Topics: Modern Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "879",
+        "desc": "Studies in Asian Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "880",
+        "desc": "Studies in Modern Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "881",
+        "desc": "Studies in Renaissance Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "882",
+        "desc": "Supervised Activity"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "883",
+        "desc": "Supvd Activity"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "884",
+        "desc": "Symbolism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "885",
+        "desc": "Symbolist Movement"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "886",
+        "desc": "Teaching Workshop"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "887",
+        "desc": "The 1820\u2019S In Europ"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "888",
+        "desc": "The Art Market"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "889",
+        "desc": "The Reliquary Effect"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "890",
+        "desc": "Theories Of Cinema"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "891",
+        "desc": "Topics In Photgraph"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "892",
+        "desc": "Topics Medieval Art/Architect"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "893",
+        "desc": "Topics in Art History"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "894",
+        "desc": "Topics in Film Studies"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "895",
+        "desc": "Topics in Theory and Criticism"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "896",
+        "desc": "Topics: History of Prints"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "897",
+        "desc": "Tpcs In Baroque Art"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "898",
+        "desc": "Two-Dimensional Design"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "899",
+        "desc": "Us Modern 1900-1930"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "900",
+        "desc": "Van Gogh: Myth vs Real"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "901",
+        "desc": "Vangogh"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "902",
+        "desc": "Vermeer Seminar"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "903",
+        "desc": "Video for Artists"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "904",
+        "desc": "Weimar Cinema"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "905",
+        "desc": "Women & Salons"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "906",
+        "desc": "Women Art Renaiss & Baroque"
+    },
+    {
+        "major": "ARTH",
+        "room_num": "907",
+        "desc": "Women/Weimar Republ"
+    }
+]

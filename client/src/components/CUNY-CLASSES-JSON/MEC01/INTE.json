@@ -1,0 +1,656 @@
+[
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78906",
+        "room_desc": "Abnormal Psychology"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78907",
+        "room_desc": "Adolescent Socializa"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78908",
+        "room_desc": "African Intellectual"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78909",
+        "room_desc": "African World Cosmology"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78910",
+        "room_desc": "Audre Lorde"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78911",
+        "room_desc": "Black Women In Film"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78912",
+        "room_desc": "Blck Wmn Autobiogphy"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78913",
+        "room_desc": "Blck Wmn Globl Persp"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78914",
+        "room_desc": "Career Planning Sem"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78915",
+        "room_desc": "Carib Cul & Politics"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78916",
+        "room_desc": "Ce Ce Tent Howrs Rts"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78917",
+        "room_desc": "Ce Con Womens Civic"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78918",
+        "room_desc": "Ce Cons Contemp Soc"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78919",
+        "room_desc": "Ce Cons Ed Stud Rts"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78920",
+        "room_desc": "Ce Cons Fam Fin Dec"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78921",
+        "room_desc": "Ce Hlth Care Civic R"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78922",
+        "room_desc": "Cen Am & Carib Thght"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78923",
+        "room_desc": "City In History"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78924",
+        "room_desc": "Communication"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78925",
+        "room_desc": "Communication Proc II"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78926",
+        "room_desc": "Communications Proce"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78927",
+        "room_desc": "Community Action Res"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78928",
+        "room_desc": "Community Dynamics"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78929",
+        "room_desc": "Community Hlth/S.D."
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78930",
+        "room_desc": "Community Organizati"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78931",
+        "room_desc": "Contemporary Scholar"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78932",
+        "room_desc": "Critical Issues"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78933",
+        "room_desc": "Cult Lang In Africa"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78934",
+        "room_desc": "Cult Lang In Thought"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78935",
+        "room_desc": "Cuny Multi Repeat Ws"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78936",
+        "room_desc": "Educ As A Social Inv"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78937",
+        "room_desc": "Experiential Learn I"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78938",
+        "room_desc": "Experiments Lang Hlt"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78939",
+        "room_desc": "Femnst Pers Hiv/Aids"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78940",
+        "room_desc": "Field Wrk Intern"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78941",
+        "room_desc": "Fieldwork Internship"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78942",
+        "room_desc": "Freshman Engl I"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78943",
+        "room_desc": "Function Of City"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78944",
+        "room_desc": "Gender Relations"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78945",
+        "room_desc": "Gendered Lives & Lit"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78946",
+        "room_desc": "Glbl Lif/Prsnl Grwth"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78947",
+        "room_desc": "Globalization & S.D."
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78948",
+        "room_desc": "Govt Policy & Comm D"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78949",
+        "room_desc": "Great African Women"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78950",
+        "room_desc": "Hon Interdisciplinar"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78951",
+        "room_desc": "Honors Program Sem"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78952",
+        "room_desc": "Housing Legis. Fed."
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78953",
+        "room_desc": "Housing Legisred Sta"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78954",
+        "room_desc": "Housing Rehabilitati"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78955",
+        "room_desc": "Ics Internship"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78956",
+        "room_desc": "Ids Research Methods"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78957",
+        "room_desc": "In Search Of Wellnes"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78958",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78959",
+        "room_desc": "Inter. Casework"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78960",
+        "room_desc": "Intermediate Casewor"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78961",
+        "room_desc": "Internship"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78962",
+        "room_desc": "Intro Carib Studies"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78963",
+        "room_desc": "Intro Ids/Class Wrld"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78964",
+        "room_desc": "Intro To Casewrk/Gro"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78965",
+        "room_desc": "Intro To Housing Pol"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78966",
+        "room_desc": "Intro To Urban Plann"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78967",
+        "room_desc": "Intro. Urban Develop"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78968",
+        "room_desc": "Issues In Urban Tran"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78969",
+        "room_desc": "John Henrik Clarke"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78970",
+        "room_desc": "Junior Research Semi"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78971",
+        "room_desc": "Male/Female Dilemma"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78972",
+        "room_desc": "Man & Planet Earth"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78973",
+        "room_desc": "Mec/Civil Rights Mov"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78974",
+        "room_desc": "Migration Afri Diasp"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78975",
+        "room_desc": "Museum and World Cultures"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78976",
+        "room_desc": "Nature & Art"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78977",
+        "room_desc": "Oral &Video Herstory"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78978",
+        "room_desc": "Peace and Development"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78979",
+        "room_desc": "Pl Less Dev Nat"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78980",
+        "room_desc": "Police & The Penal S"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78981",
+        "room_desc": "Power78982: INTE,\"Public Bureaucrac"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78983",
+        "room_desc": "Science Philosophy"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78984",
+        "room_desc": "Senior Seminar"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78985",
+        "room_desc": "Senior Thesis"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78986",
+        "room_desc": "Soc Wel & Soc Pol"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78987",
+        "room_desc": "Soc. Of The Urban Ch"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78988",
+        "room_desc": "Social Science I"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78989",
+        "room_desc": "Social Science II"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78990",
+        "room_desc": "Spec. Programs Comm"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78991",
+        "room_desc": "Study Abroad"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78992",
+        "room_desc": "The School System"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78993",
+        "room_desc": "Theory Econ Dev."
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78994",
+        "room_desc": "Topics/World Studies"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78995",
+        "room_desc": "Un Global Relations"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78996",
+        "room_desc": "Urban Design Methods"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78997",
+        "room_desc": "Urban Planning"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78998",
+        "room_desc": "Urban Planning II"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "78999",
+        "room_desc": "Urban Renewal"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "79000",
+        "room_desc": "Urban Social & Polit"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "79001",
+        "room_desc": "Urban Transportation"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "79002",
+        "room_desc": "Values N Humanities"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "79003",
+        "room_desc": "Visions N Humanities"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "79004",
+        "room_desc": "Wom/Leaders/Civ Rts."
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "79005",
+        "room_desc": "Women & Immigration"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "79006",
+        "room_desc": "Women & Madness"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "79007",
+        "room_desc": "Women And Work"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "79008",
+        "room_desc": "Women Moviemaking"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "79009",
+        "room_desc": "Women and the Self"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "79010",
+        "room_desc": "Women79011: INTE,\"Women/Gender/Dvlpmnt"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "79012",
+        "room_desc": "Women\u2019S Human Rights"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "79013",
+        "room_desc": "Women\u2019S Pol. Movem\u2019T"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "79014",
+        "room_desc": "Women\u2019S Studies Res."
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "79015",
+        "room_desc": "Women\u2019S Worlds79016: INTE,\"World Gender Studies Practicum"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "79017",
+        "room_desc": "Writing Our Lives"
+    }
+]

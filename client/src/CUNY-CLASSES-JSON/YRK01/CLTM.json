@@ -1,0 +1,82 @@
+[
+    {
+        "major": "CLTM",
+        "room_num": "15556",
+        "desc": "Clinical Epidemology"
+    },
+    {
+        "major": "CLTM",
+        "room_num": "15557",
+        "desc": "Clinical Trial Data Management"
+    },
+    {
+        "major": "CLTM",
+        "room_num": "15558",
+        "desc": "Clinical Trial Implementation"
+    },
+    {
+        "major": "CLTM",
+        "room_num": "15559",
+        "desc": "Clinical Trial Mgmt Capstone"
+    },
+    {
+        "major": "CLTM",
+        "room_num": "15560",
+        "desc": "Clinical Trial Project Mgmt"
+    },
+    {
+        "major": "CLTM",
+        "room_num": "15561",
+        "desc": "Clinical Trial Quality"
+    },
+    {
+        "major": "CLTM",
+        "room_num": "15562",
+        "desc": "Drug Safety and Pharmacovigila"
+    },
+    {
+        "major": "CLTM",
+        "room_num": "15563",
+        "desc": "Ethical Consideration Clinical"
+    },
+    {
+        "major": "CLTM",
+        "room_num": "15564",
+        "desc": "Foundation Regulatory Affairs"
+    },
+    {
+        "major": "CLTM",
+        "room_num": "15565",
+        "desc": "Global Regulatory Affairs"
+    },
+    {
+        "major": "CLTM",
+        "room_num": "15566",
+        "desc": "Intro to Medical Writing"
+    },
+    {
+        "major": "CLTM",
+        "room_num": "15567",
+        "desc": "Introduction to Clinical Trial"
+    },
+    {
+        "major": "CLTM",
+        "room_num": "15568",
+        "desc": "Medical Writing"
+    },
+    {
+        "major": "CLTM",
+        "room_num": "15569",
+        "desc": "Medical Writing: Drugs"
+    },
+    {
+        "major": "CLTM",
+        "room_num": "15570",
+        "desc": "Medical Writing: Investigation"
+    },
+    {
+        "major": "CLTM",
+        "room_num": "15571",
+        "desc": "SAS Programming"
+    }
+]

@@ -1,0 +1,368 @@
+[
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14037",
+        "room_desc": "Cuny Permit- 4.5 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14038",
+        "room_desc": "Graduate Holding Section"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14039",
+        "room_desc": "Non Cuny Perm 3 Crs."
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14040",
+        "room_desc": "Non Cuny Permit 3crs"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14041",
+        "room_desc": "Non-CUNY Permit 3 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14042",
+        "room_desc": "Non-CUNY Permit 4 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14043",
+        "room_desc": "Non-Cuny Permit 6 Cr"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14044",
+        "room_desc": "Non-Cuny Permit 7 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14045",
+        "room_desc": "Non-Cuny Permit 8 Cr"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14046",
+        "room_desc": "Non-Cuny Permit 8.5 Cr"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14047",
+        "room_desc": "Non-Cuny Permit F/T"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14048",
+        "room_desc": "Non-Cuny Stabd 4 Cr."
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14049",
+        "room_desc": "On Permit 1 Credit"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14050",
+        "room_desc": "On Permit 1.5 Credit"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14051",
+        "room_desc": "On Permit 2 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14052",
+        "room_desc": "On Permit 2.5 Credit"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14053",
+        "room_desc": "On Permit 3 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14054",
+        "room_desc": "On Permit 3.5 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14055",
+        "room_desc": "On Permit 4 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14056",
+        "room_desc": "On Permit 4.5 Credit"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14057",
+        "room_desc": "On Permit 4.5 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14058",
+        "room_desc": "On Permit 6 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14059",
+        "room_desc": "On Permit For 0 Crs."
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14060",
+        "room_desc": "On Permit For 0.5 Cr"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14061",
+        "room_desc": "On Permit For 1 Credit"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14062",
+        "room_desc": "On Permit For 1.5 Cr"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14063",
+        "room_desc": "On Permit For 10 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14064",
+        "room_desc": "On Permit For 10.5 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14065",
+        "room_desc": "On Permit For 11 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14066",
+        "room_desc": "On Permit For 11.5 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14067",
+        "room_desc": "On Permit For 12 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14068",
+        "room_desc": "On Permit For 15 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14069",
+        "room_desc": "On Permit For 2 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14070",
+        "room_desc": "On Permit For 2.5 Cr"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14071",
+        "room_desc": "On Permit For 2.5 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14072",
+        "room_desc": "On Permit For 21 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14073",
+        "room_desc": "On Permit For 3 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14074",
+        "room_desc": "On Permit For 3.5 Cr"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14075",
+        "room_desc": "On Permit For 3.5 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14076",
+        "room_desc": "On Permit For 4 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14077",
+        "room_desc": "On Permit For 4.5 Cr"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14078",
+        "room_desc": "On Permit For 4.5 Credit"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14079",
+        "room_desc": "On Permit For 5 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14080",
+        "room_desc": "On Permit For 5.5 Cr"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14081",
+        "room_desc": "On Permit For 5.5 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14082",
+        "room_desc": "On Permit For 6 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14083",
+        "room_desc": "On Permit For 6.5 Cr"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14084",
+        "room_desc": "On Permit For 7 Cr"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14085",
+        "room_desc": "On Permit For 7 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14086",
+        "room_desc": "On Permit For 7.5 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14087",
+        "room_desc": "On Permit For 8 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14088",
+        "room_desc": "On Permit For 8.5 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14089",
+        "room_desc": "On Permit For 9 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14090",
+        "room_desc": "On Permit For 9 Credits."
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14091",
+        "room_desc": "On Permit For 9.5 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14092",
+        "room_desc": "On Permit for 4 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14093",
+        "room_desc": "On Permit for 6 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14094",
+        "room_desc": "On Permit for 7.5 Credits"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14095",
+        "room_desc": "Transfer Reduction"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14096",
+        "room_desc": "Undergrad Holdng Sec"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "14097",
+        "room_desc": "VI Grad Credits. By Department"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "major": "DATA",
+        "room_num": "63117",
+        "desc": "Adv Internet Appl"
+    },
+    {
+        "major": "DATA",
+        "room_num": "63118",
+        "desc": "Advanced Cobol Programming"
+    },
+    {
+        "major": "DATA",
+        "room_num": "63119",
+        "desc": "Data Processing"
+    },
+    {
+        "major": "DATA",
+        "room_num": "63120",
+        "desc": "Intro Data Process"
+    },
+    {
+        "major": "DATA",
+        "room_num": "63121",
+        "desc": "Micro-Computer Appli"
+    },
+    {
+        "major": "DATA",
+        "room_num": "63122",
+        "desc": "Rpg Programming"
+    }
+]

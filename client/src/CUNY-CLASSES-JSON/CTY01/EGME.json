@@ -1,0 +1,972 @@
+[
+    {
+        "major": "EGME",
+        "room_num": "37769",
+        "desc": "Accidental Injury Biomechanics"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37770",
+        "desc": "Ad Tp:Fluid Dynamics"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37771",
+        "desc": "Adv Concpts in Mech Vibrations"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37772",
+        "desc": "Adv Engr Thermodyn"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37773",
+        "desc": "Adv Stress Analysis"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37774",
+        "desc": "Adv. Computational Fluid Mecha"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37775",
+        "desc": "Advanced Analytic Dynamic"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37776",
+        "desc": "Advanced Fluid Mechanics"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37777",
+        "desc": "Advanced Heat Transfer"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37778",
+        "desc": "Advanced Mechatronics"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37779",
+        "desc": "Advanced Stress Analysis"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37780",
+        "desc": "Aero-Thermal-Fluids Laboratory"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37781",
+        "desc": "Aerodynamic Design"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37782",
+        "desc": "Aerostructures"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37783",
+        "desc": "Aircraft and Rocket Propulsion"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37784",
+        "desc": "Analysis Mechanisms"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37785",
+        "desc": "Appl Fluid Dynam"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37786",
+        "desc": "Applied Fluid Mech"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37787",
+        "desc": "Applied Plasticity"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37788",
+        "desc": "Applied Stress Analysis"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37789",
+        "desc": "Auto Safety Design"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37790",
+        "desc": "Biosolid Mechanics"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37791",
+        "desc": "Boundary Element Method"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37792",
+        "desc": "Boundary Val Prob"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37793",
+        "desc": "Boundary Value Problem"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37794",
+        "desc": "Boundry Elemnt Meth"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37795",
+        "desc": "Building Energy and Environmen"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37796",
+        "desc": "Cel-Tis Biomat Intr"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37797",
+        "desc": "Cell And Tissue Mech"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37798",
+        "desc": "Cell and Tis Mat Int"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37799",
+        "desc": "Cell and Tissue Mechanics"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37800",
+        "desc": "Cell and Tissue Transport"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37801",
+        "desc": "Cmptr Aid Dsgn/Anal"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37802",
+        "desc": "Cmptr Meth In Engrng"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37803",
+        "desc": "Comp-Mod Turb Flows"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37804",
+        "desc": "Composite Materials"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37805",
+        "desc": "Computational Fluid Mechanics"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37806",
+        "desc": "Computatnl Methods"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37807",
+        "desc": "Computer Aided Design"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37808",
+        "desc": "Computer Aided Manufacturing"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37809",
+        "desc": "Computer Aided Mechanism"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37810",
+        "desc": "Computer-Aided Design"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37811",
+        "desc": "Computer-Aided Drafting"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37812",
+        "desc": "Conduction Heat Transfer"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37813",
+        "desc": "Continuum Mechanics"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37814",
+        "desc": "Convection Heat Transfer"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37815",
+        "desc": "Ctrl-Stblz Arsp Veh"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37816",
+        "desc": "Dissertation Research"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37817",
+        "desc": "Dissertation Superv"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37818",
+        "desc": "Doctoral Diss Resrch"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37819",
+        "desc": "Dyn/Cntrls Aersp Veh"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37820",
+        "desc": "Dynam Of Machines"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37821",
+        "desc": "Dynamic of Machines"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37822",
+        "desc": "Dynmics & Cntrl Lab"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37823",
+        "desc": "Energy Conversion"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37824",
+        "desc": "Energy Systems Design"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37825",
+        "desc": "Engineering Decision Theory"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37826",
+        "desc": "Engineering Heat Transfer"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37827",
+        "desc": "Engineering Materials"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37828",
+        "desc": "Engr Decision Theor"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37829",
+        "desc": "Engr Experimentatn"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37830",
+        "desc": "Engr Mechanics 1"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37831",
+        "desc": "Engr Mechanics 2"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37832",
+        "desc": "Engr Stat Anal"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37833",
+        "desc": "Entrepreneurship"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37834",
+        "desc": "Environmental Control"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37835",
+        "desc": "Exp Meth in Fluid Mech & Comb"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37836",
+        "desc": "Expe Met In Flu Mech"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37837",
+        "desc": "Finite Element Methods"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37838",
+        "desc": "Fluid & Mass Trans"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37839",
+        "desc": "Fluid Dynamics 1"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37840",
+        "desc": "Fluid Dynamics 2"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37841",
+        "desc": "Fluid Dynamics II"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37842",
+        "desc": "Fluid Mechanics"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37843",
+        "desc": "Fluid Mechanics I"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37844",
+        "desc": "Fluid Mechanics II"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37845",
+        "desc": "Foundations of Fluid Mechanics"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37846",
+        "desc": "Fund and Appl of Microfluidics"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37847",
+        "desc": "Fundamental of Mechatronics"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37848",
+        "desc": "HVAC System Impact"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37849",
+        "desc": "Heat Transfer"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37850",
+        "desc": "Htng-Vent-Air Cond"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37851",
+        "desc": "Ibm Pc Instruction"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37852",
+        "desc": "Ind Orien Dsgn Proj"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37853",
+        "desc": "Industrial Ecology"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37854",
+        "desc": "Internal Combustion Engines"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37855",
+        "desc": "Intro Ops Rsrch"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37856",
+        "desc": "Intro To Chaos"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37857",
+        "desc": "Intro to Composite Materials"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37858",
+        "desc": "Intro to Finite Element Method"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37859",
+        "desc": "Introduction to Research"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37860",
+        "desc": "Kinemat Of Mach"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37861",
+        "desc": "Kinematic Synthetic Mechanic"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37862",
+        "desc": "Lubrication"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37863",
+        "desc": "Mach Stress Anal"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37864",
+        "desc": "Machine Design"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37865",
+        "desc": "Machinery Stress Analysis II"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37866",
+        "desc": "Manufacturing Process & Matrls"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37867",
+        "desc": "Mass Transfer"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37868",
+        "desc": "Masters Research"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37869",
+        "desc": "Materials Science"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37870",
+        "desc": "Mech Fdbk Cntrl Sys"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37871",
+        "desc": "Mech Vibrations"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37872",
+        "desc": "Mechanical Systems Design"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37873",
+        "desc": "Mechanical Vibratns"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37874",
+        "desc": "Mechanics and Physics of Solid"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37875",
+        "desc": "Mechanics of Materials"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37876",
+        "desc": "Mechanism Design"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37877",
+        "desc": "Mechatronics"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37878",
+        "desc": "Mechs Of Machines 1"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37879",
+        "desc": "Mechtrncs:Prin-Prac"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37880",
+        "desc": "Metallurgy 1"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37881",
+        "desc": "Meth Fl Mech & Comb"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37882",
+        "desc": "Mfg Proc & Matrls"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37883",
+        "desc": "Mgmt Engr Data Proc"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37884",
+        "desc": "Micro-Nano Tec: Mec37885: EGME,\"Microfab & Nanotech"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37886",
+        "desc": "Microprocessors"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37887",
+        "desc": "Multiphysics Simulation"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37888",
+        "desc": "Nano-Micromechanics"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37889",
+        "desc": "Non-Newt Fluid Mech"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37890",
+        "desc": "Nonlinear Dynamics and Chaos"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37891",
+        "desc": "Operations Research"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37892",
+        "desc": "Orbital Mechanics"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37893",
+        "desc": "Phys Prop Materials"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37894",
+        "desc": "Prod Dev-Mang-Mktng"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37895",
+        "desc": "Production Engr"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37896",
+        "desc": "Project"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37897",
+        "desc": "Project Management"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37898",
+        "desc": "Projects I"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37899",
+        "desc": "Projects and Reports"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37900",
+        "desc": "Radiation Heat Trans"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37901",
+        "desc": "Report"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37902",
+        "desc": "Res For The Doct Dis"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37903",
+        "desc": "Res For The Mas Thes"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37904",
+        "desc": "Res for Doctoral Dissertation"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37905",
+        "desc": "Resea Doctoral Disse"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37906",
+        "desc": "Resea Doctoral Dissertation"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37907",
+        "desc": "Research Doctor Dissertation"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37908",
+        "desc": "Review of Engr Fundamentals"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37909",
+        "desc": "Robotics Project"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37910",
+        "desc": "Robotics and Automation"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37911",
+        "desc": "Rotorcraft Aerodynamics"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37912",
+        "desc": "Rsrch for Doctor Dissertation"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37913",
+        "desc": "Seminars"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37914",
+        "desc": "Senior Design Project"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37915",
+        "desc": "Sol Enrgy Thrml Proc"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37916",
+        "desc": "Solar Energy"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37917",
+        "desc": "Sp Prj:Aerospce Engr"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37918",
+        "desc": "Sp Proj: Aerospace Engineering"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37919",
+        "desc": "Sp Tp Dig Sig Proc"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37920",
+        "desc": "Sp Tp: Aerospace Engr"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37921",
+        "desc": "Sp Tp:Aerospace Engr"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37922",
+        "desc": "Sp Tpcs Adv Materals"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37923",
+        "desc": "Spacecraft Systems/Design"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37924",
+        "desc": "Spc Topics In Aerospace Engr"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37925",
+        "desc": "Spcial Tpcs In Aerospace Engr"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37926",
+        "desc": "Spcl Topic: Aerospace Engr"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37927",
+        "desc": "Spec Top:Mech Engr"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37928",
+        "desc": "Specal Topcs Sensing"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37929",
+        "desc": "Special Projects"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37930",
+        "desc": "Special Projects:Aerospace Eng"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37931",
+        "desc": "Special Topics in Mechanical E"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37932",
+        "desc": "Statistic Thermodyna"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37933",
+        "desc": "Steam Gas Turbines"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37934",
+        "desc": "Steam and Gas Turbines"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37935",
+        "desc": "Struc Dynam-Aeroelas"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37936",
+        "desc": "Sus Enrgy Convrsn Systems"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37937",
+        "desc": "Sust Energy Conv Systems"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37938",
+        "desc": "System Dynamics and Control"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37939",
+        "desc": "Systems Analysis"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37940",
+        "desc": "Tch/Rsch Undergrads"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37941",
+        "desc": "Theory Of Exprmntat"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37942",
+        "desc": "Theory of Experimentation"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37943",
+        "desc": "Thermal Engineering Lab II"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37944",
+        "desc": "Thermal Engr Lab 1"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37945",
+        "desc": "Thermal Engr Lab 2"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37946",
+        "desc": "Therml Sys Anal-Dsgn"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37947",
+        "desc": "Therml Syst Designs"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37948",
+        "desc": "Thermodynamics 1"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37949",
+        "desc": "Thermodynamics II"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37950",
+        "desc": "Thermodynmcs For Ee"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37951",
+        "desc": "Thry Of Elasticity"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37952",
+        "desc": "Topics In Granular Dynamics"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37953",
+        "desc": "Topics: Mechani Engr"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37954",
+        "desc": "Tpcs In Adhsive Jng"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37955",
+        "desc": "Trajctries & Orbits"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37956",
+        "desc": "Turbomachinery Design"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37957",
+        "desc": "Turbulent Flows"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37958",
+        "desc": "Vehclr Power Systems"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37959",
+        "desc": "Vehicle Safety Design and Biom"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37960",
+        "desc": "Vibration"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37961",
+        "desc": "Wave Propagation in Solids"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37962",
+        "desc": "Wind Energy"
+    },
+    {
+        "major": "EGME",
+        "room_num": "37963",
+        "desc": "Wind Energy Fund And Applictns"
+    }
+]

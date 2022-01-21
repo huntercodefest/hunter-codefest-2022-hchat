@@ -1,0 +1,337 @@
+[
+    {
+        "major": "PHTH",
+        "room_num": "55311",
+        "desc": "Cardiac Rehab"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55312",
+        "desc": "Cardiac Rehabilitation"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55313",
+        "desc": "Clinical Affil. I"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55314",
+        "desc": "Clinical Anatomy"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55315",
+        "desc": "Clinical Decision Making"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55316",
+        "desc": "Clinical Ed II"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55317",
+        "desc": "Clinical Education 1"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55318",
+        "desc": "Clinical Education 3"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55319",
+        "desc": "Clinical Experience 3"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55320",
+        "desc": "Clinical Experience 4"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55321",
+        "desc": "Clinical Experience I"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55322",
+        "desc": "Clinical Experience II"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55323",
+        "desc": "Clinical Medicine"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55324",
+        "desc": "Clinical Medicine for PT"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55325",
+        "desc": "Clinical Orthopedic 2"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55326",
+        "desc": "Diff Diag & Inter Clin Ortho 1"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55327",
+        "desc": "Diff Dx & Interv in Clin Neur"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55328",
+        "desc": "Diff Dx & Intrv Clin Orth2 R&I"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55329",
+        "desc": "Diff Dx in Neuro Evaluation"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55330",
+        "desc": "Dir Research IV. Manu Prep"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55331",
+        "desc": "Dir Rsrch III: Present Tactics"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55332",
+        "desc": "Directed Research 2"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55333",
+        "desc": "Directed Research I"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55334",
+        "desc": "Electrodiagnosis"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55335",
+        "desc": "Ethic-Psychos Dimens"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55336",
+        "desc": "Foundations of Patient Care"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55337",
+        "desc": "Growth & Development"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55338",
+        "desc": "Health Promo Through Lifespan"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55339",
+        "desc": "Human Anatomy"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55340",
+        "desc": "Human Phys & Ex Phys"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55341",
+        "desc": "Human Physiology&Exercise"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55342",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55343",
+        "desc": "Integumentary Assessment"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55344",
+        "desc": "Intr to Func Tr & Pa"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55345",
+        "desc": "Intro: Clinical Education"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55346",
+        "desc": "Introduction: Neurological Pt"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55347",
+        "desc": "Joint Exam I"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55348",
+        "desc": "Kinesiology 1"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55349",
+        "desc": "Kinesiology 2"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55350",
+        "desc": "Low Kinesiology & Assnt"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55351",
+        "desc": "Medical Terminology"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55352",
+        "desc": "Musculoskeletal Exam III"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55353",
+        "desc": "Musculoskeletal Examination I"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55354",
+        "desc": "Musculosktl Exam & Interv 2"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55355",
+        "desc": "Neurological Interventions 2"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55356",
+        "desc": "Neurological Interventions I"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55357",
+        "desc": "Orthotics and Prosthetics"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55358",
+        "desc": "PT Prevention and Intervention"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55359",
+        "desc": "Pediatric Developmt & Assessmt"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55360",
+        "desc": "Pharmacology PT & Systm Review"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55361",
+        "desc": "Physical Modalities-Clinical"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55362",
+        "desc": "Physical Therapy in Acute Care"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55363",
+        "desc": "Physical Therapy in Geriatrics"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55364",
+        "desc": "Prop Neuro Facilitation"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55365",
+        "desc": "Psychosocial Aspects"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55366",
+        "desc": "Pt Health Promotion"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55367",
+        "desc": "Pt Prevntn& Interven"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55368",
+        "desc": "Pul Eval. & Interven"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55369",
+        "desc": "Pulmonary Physical Therapy"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55370",
+        "desc": "Research Design"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55371",
+        "desc": "Research Design and Methods"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55372",
+        "desc": "Research Seminar I"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55373",
+        "desc": "Sem: Organization & Mgmt"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55374",
+        "desc": "Struct & Funct of NS"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55375",
+        "desc": "Struct & Funct of Nervous Syst"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55376",
+        "desc": "Topics in Physical Therapy"
+    },
+    {
+        "major": "PHTH",
+        "room_num": "55377",
+        "desc": "Upper Extremity Kinesiology"
+    }
+]

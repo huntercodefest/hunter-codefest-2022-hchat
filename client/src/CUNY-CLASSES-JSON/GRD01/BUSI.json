@@ -1,0 +1,577 @@
+[
+    {
+        "major": "BUSI",
+        "room_num": "1475",
+        "desc": "Adv Stat Infer"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1476",
+        "desc": "Adv Stat Methods"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1477",
+        "desc": "Analysis Fluctuat"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1478",
+        "desc": "Behav Approach"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1479",
+        "desc": "Behav Sc Fdntn Ii"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1480",
+        "desc": "Behavior Scnc Model"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1481",
+        "desc": "Behavioral Sci Fndnts I"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1482",
+        "desc": "Behavioral Sci Foundation I"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1483",
+        "desc": "Behavioral Sci Foundation II"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1484",
+        "desc": "Bhvr Scence Fndtn I"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1485",
+        "desc": "Bus Ad Thesis Sem"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1486",
+        "desc": "Bus Adv Topics"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1487",
+        "desc": "Bus Concept Fndtn"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1488",
+        "desc": "Business Policy"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1489",
+        "desc": "Calculus"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1490",
+        "desc": "Calculus For Appls"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1491",
+        "desc": "Capital Markets"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1492",
+        "desc": "Cntmp Bus Resch"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1493",
+        "desc": "Cntmp Bus Rsch Sem"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1494",
+        "desc": "Comp Internat Mgmt & Organztns"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1495",
+        "desc": "Computer Tech"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1496",
+        "desc": "Conceptual Foundations of Bus"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1497",
+        "desc": "Corp Finan Thry"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1498",
+        "desc": "Corporate Finance"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1499",
+        "desc": "Current Topics in Business"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1500",
+        "desc": "Developing Managerial Skills"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1501",
+        "desc": "Dissertation Seminar"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1502",
+        "desc": "Dissertation Supervision"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1503",
+        "desc": "Dissrt Supervision"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1504",
+        "desc": "Doct Dissrt Sem"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1505",
+        "desc": "Econ O Metrics"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1506",
+        "desc": "Ecunometrics"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1507",
+        "desc": "Entrepreneur Strategy & Cases"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1508",
+        "desc": "Entrepreneurial Comm"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1509",
+        "desc": "Financial Statement"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1510",
+        "desc": "Global Competit U.S. Economy"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1511",
+        "desc": "Higher Educ Teaching Seminar"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1512",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1513",
+        "desc": "Internat Fin"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1514",
+        "desc": "International Comparative Mgmt"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1515",
+        "desc": "Internatl Business Analysis"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1516",
+        "desc": "Intnl Bus Strategy"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1517",
+        "desc": "Intro To Business"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1518",
+        "desc": "Intro to Operations Management"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1519",
+        "desc": "Macro Eco Thry I"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1520",
+        "desc": "Macro Econ Thry Ii"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1521",
+        "desc": "Management Audit"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1522",
+        "desc": "Management Information Systems"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1523",
+        "desc": "Management Science"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1524",
+        "desc": "Management of Human Resources"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1525",
+        "desc": "Management&Organization Thry"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1526",
+        "desc": "Managerial Acty"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1527",
+        "desc": "Managerial Control"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1528",
+        "desc": "Matrix Methods"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1529",
+        "desc": "Mgmnt: A Behavioral Approach"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1530",
+        "desc": "Mgmt & Organization"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1531",
+        "desc": "Mgmt Foundations"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1532",
+        "desc": "Mgmt Planning & Control Systms"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1533",
+        "desc": "Mgmt in a Changing Society"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1534",
+        "desc": "Mgt Foundations"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1535",
+        "desc": "Mgt Info Systems"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1536",
+        "desc": "Mgt Plan Cont Sys"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1537",
+        "desc": "Mgt Thought Dvlpmt"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1538",
+        "desc": "Mgt--A Behavorial"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1539",
+        "desc": "Mgt: Behav Approach"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1540",
+        "desc": "Micro Econ Thry I"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1541",
+        "desc": "Mktg Strategy"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1542",
+        "desc": "Negotiation"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1543",
+        "desc": "Operations Resch"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1544",
+        "desc": "Operatn Planning Sys/Control"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1545",
+        "desc": "Organ Des"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1546",
+        "desc": "Organizat Bhvr"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1547",
+        "desc": "Organizat Resch I"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1548",
+        "desc": "Organization Design/Behavior"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1549",
+        "desc": "Organization Theory"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1550",
+        "desc": "Organizational Development"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1551",
+        "desc": "Personality"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1552",
+        "desc": "Personnel Administr"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1553",
+        "desc": "Personnel Psych"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1554",
+        "desc": "Philosophy of Science"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1555",
+        "desc": "Policy Formulation"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1556",
+        "desc": "Policy Structure Ii"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1557",
+        "desc": "Production Mgt Ii"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1558",
+        "desc": "Public Finance I"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1559",
+        "desc": "Quant Mthds Fndtn"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1560",
+        "desc": "Quantit Methods"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1561",
+        "desc": "Resch In Bus"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1562",
+        "desc": "Resch Methodlgy in Organizatns"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1563",
+        "desc": "Research Methods I"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1564",
+        "desc": "Research Methods II"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1565",
+        "desc": "Research Seminar Ii"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1566",
+        "desc": "Resrch Mthd Organzn"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1567",
+        "desc": "Sem Contemp Business Research"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1568",
+        "desc": "Sem Human Resrce Mgmt/Lab Rel"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1569",
+        "desc": "Sem Managerial Control Systems"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1570",
+        "desc": "Sem Mgmt Information Systems"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1571",
+        "desc": "Sem Personnel/Lab Rel Problems"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1572",
+        "desc": "Sem Prod Mgmt Problems I & II"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1573",
+        "desc": "Sem in Hum Res Mgmt/Lab Rel"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1574",
+        "desc": "Sem in Policy and Strategy I"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1575",
+        "desc": "Sem in Policy and Strategy II"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1576",
+        "desc": "Sem: Organization Behavior I"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1577",
+        "desc": "Sem: Organizational Theory I"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1578",
+        "desc": "Sem: Organizational Theory II"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1579",
+        "desc": "Sem: Organizationl Behavior I"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1580",
+        "desc": "Sem: Organizationl Behavior II"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1581",
+        "desc": "Sem:Contempo Bus Rs"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1582",
+        "desc": "Social Gov Env Behv"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1583",
+        "desc": "Special Topics in Business"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1584",
+        "desc": "Stocas Cal/Fin Appl"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1585",
+        "desc": "Stochastic Proceses"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1586",
+        "desc": "Strategic Management I"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1587",
+        "desc": "Strategic Management II"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1588",
+        "desc": "Sustainable Business"
+    },
+    {
+        "major": "BUSI",
+        "room_num": "1589",
+        "desc": "Tech Innov & Design"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "school": "QCC01",
+        "major": "FREN",
+        "room_num": "22916",
+        "room_desc": "Elementary French I"
+    },
+    {
+        "school": "QCC01",
+        "major": "FREN",
+        "room_num": "22917",
+        "room_desc": "Elementary French II"
+    },
+    {
+        "school": "QCC01",
+        "major": "FREN",
+        "room_num": "22918",
+        "room_desc": "French & Francophone Cultures"
+    },
+    {
+        "school": "QCC01",
+        "major": "FREN",
+        "room_num": "22919",
+        "room_desc": "French Lit 19th Century"
+    },
+    {
+        "school": "QCC01",
+        "major": "FREN",
+        "room_num": "22920",
+        "room_desc": "French Literature Twentieth Ce"
+    },
+    {
+        "school": "QCC01",
+        "major": "FREN",
+        "room_num": "22921",
+        "room_desc": "French for Business & Prof"
+    },
+    {
+        "school": "QCC01",
+        "major": "FREN",
+        "room_num": "22922",
+        "room_desc": "Intermediate French I"
+    },
+    {
+        "school": "QCC01",
+        "major": "FREN",
+        "room_num": "22923",
+        "room_desc": "Intermediate French II"
+    }
+]
