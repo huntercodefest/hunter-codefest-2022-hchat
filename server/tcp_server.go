@@ -43,7 +43,7 @@ func processTCPConn(tcp_conn *net.Conn) (err error) {
 	}
 	// Validate username and room existence
 	log.Println("created new tcp user")
-	p_user, err := NewUser(tcp_conn, nil, username, ROOM_MAP)
+	p_user, err := NewUser(tcp_conn, nil, username, room_num)
 	if err != nil {
 		(*tcp_conn).Write([]byte(err.Error()))
 		return
@@ -53,6 +53,6 @@ func processTCPConn(tcp_conn *net.Conn) (err error) {
 		log.Println("created new room #" + fmt.Sprint(room_num))
 	}
 	//  seperate user into appropriate room
-	AddUserToRoom(p_user, ROOM_MAP[room_num])
+	AddUserToRoom(p_user, room_num)
 	return nil
 }

@@ -3,6 +3,7 @@ package main
 import (
 	"errors"
 	"fmt"
+	"log"
 	"net"
 	"strconv"
 	"strings"
@@ -25,6 +26,11 @@ func ReadWSMessage(p_ws_conn *websocket.Conn) ([]byte, error) {
 
 // function should run in gorutine on each new user to read its new messages
 func ReadConnOnLoop(p_user *User) (err error) {
+	if ((*p_user).readingOnLoop){
+		return
+	}
+	(*p_user).readingOnLoop = true
+	log.Println("starting read conn on loop")
 	// Send connection message
 	RespondWithString(p_user, "Succesfully connected to room\n")
 	// infinite read loop
@@ -39,13 +45,25 @@ func ReadConnOnLoop(p_user *User) (err error) {
 		if err != nil {
 			return err
 		}
+		fmt.Println(msgbuf)
 		room_num, username, message, err := ProcessInput(msgbuf)
+		fmt.Println(room_num)
 		if err != nil {
 			return err
 		}
-		fmt.Println("distribute message to room hit")
+		if username != (*p_user).username{
+			(*p_user).username = username
+		}
+		if room_num != (*p_user).room_num{
+			RemoveUserFromRoom(p_user, (*p_user).room_num)
+			fmt.Println("passed here")
+			(*p_user).room_num = room_num
+			AddUserToRoom(p_user, room_num)
+			fmt.Println("passed here")
+			log.Println("Moved user to room: " + fmt.Sprint(room_num))
+		}
+		log.Println("Received msg: " + string(msgbuf) + " from user: " + username)
 		DistributeMessageToRoom(ROOM_MAP[room_num], username+":"+message)
-		fmt.Println("passed distribute message to room")
 	}
 }
 
@@ -77,12 +95,14 @@ func ProcessInput(msgbuf []byte) (room_number int, username string, message stri
 	}
 	// if input does not contain #, _, :
 	if input[0] != '#' || !strings.ContainsRune(input, '_') || !strings.ContainsRune(input, ':') {
-		return 0, "", "", errors.New("wrong format, please consult github readme")
+		fmt.Println("wrong format")
+		return -1, "", "", errors.New("wrong format, please consult github readme")
 	}
 	inlen := len(input)
 	for i := 1; i < inlen; i++ {
 		if input[i] == '_' {
 			room_number, _ = strconv.Atoi(input[1:i])
+			fmt.Println(room_number)
 			for j := i; j < inlen; j++ {
 				if input[j] == ':' {
 					username = input[i+1 : j]

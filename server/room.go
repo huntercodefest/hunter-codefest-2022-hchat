@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"log"
+)
 
 // Global scope room map
 var ROOM_MAP map[int]*Room
@@ -20,16 +23,21 @@ func NewRoom(room_num int, conn_users []*User) *Room {
 
 // TODO
 // When adding user to room create new goroutine to read for new incoming messages and send response back if new message is found
-func AddUserToRoom(p_user *User, p_room *Room) (err error) {
-	fmt.Println("add user")
-	(*p_room).conn_users = append((*p_room).conn_users, p_user)
+func AddUserToRoom(p_user *User, room_num int) (err error) {
+	if _, ok := ROOM_MAP[room_num]; !ok {
+		ROOM_MAP[room_num] = NewRoom(room_num, make([]*User, 0))
+		log.Println("created a new room#" + fmt.Sprint(room_num))
+	}
+	ROOM_MAP[room_num].conn_users = append(ROOM_MAP[room_num].conn_users, p_user)
+	log.Println("added new user to room #" + fmt.Sprint(room_num))
 	go ReadConnOnLoop(p_user)
 	return
 }
 
 // Search through array of users in room pointer
-func RemoveUserFromRoom(p_user *User, p_room *Room) {
-	var user_index int
+func RemoveUserFromRoom(p_user *User, room_num int) {
+	user_index := -1
+	p_room := ROOM_MAP[room_num]
 	conn_users := (*p_room).conn_users
 	for index, element := range conn_users {
 		if *element == *p_user {
@@ -37,7 +45,11 @@ func RemoveUserFromRoom(p_user *User, p_room *Room) {
 			break
 		}
 	}
+	if user_index == -1 {
+		return
+	}
 	(*p_room).conn_users = append(conn_users[:user_index], conn_users[user_index+1:]...)
+	log.Println("removed user from #" + fmt.Sprint(room_num))
 	hasUsers := CheckRoomHasConnection(p_room)
 	if !hasUsers {
 		DelRoom((*p_room).room_num)
@@ -67,7 +79,7 @@ func DistributeMessageToRoom(p_room *Room, message string) {
 		err := RespondWithString(user, message)
 		// if response fails passes user into remove user function
 		if err != nil {
-			RemoveUserFromRoom(user, p_room)
+			RemoveUserFromRoom(user, (*p_room).room_num)
 		}
 	}
 }

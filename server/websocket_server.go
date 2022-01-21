@@ -57,18 +57,13 @@ func processWSConn(ws_conn *websocket.Conn) error {
 		return err
 	}
 	// Validate username and room existence
-	p_user, err := NewUser(nil, ws_conn, username, ROOM_MAP)
+	p_user, err := NewUser(nil, ws_conn, username, room_num)
 	if err != nil {
 		(*ws_conn).WriteMessage(websocket.TextMessage, []byte(err.Error()))
 		return err
 	}
-	if _, ok := ROOM_MAP[room_num]; !ok {
-		ROOM_MAP[room_num] = NewRoom(room_num, make([]*User, 0))
-		fmt.Println("created a new room at " + fmt.Sprint(room_num))
-	}
-	fmt.Println("hit add user")
-	AddUserToRoom(p_user, ROOM_MAP[room_num])
-	fmt.Println("passed add user")
+	AddUserToRoom(p_user, room_num)
+	log.Println("Added new user to room #" + fmt.Sprint(room_num))
 	//  seperate user into appropriate room
 	return nil
 

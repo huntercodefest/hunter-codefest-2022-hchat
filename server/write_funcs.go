@@ -1,6 +1,10 @@
 package main
 
-import "github.com/gorilla/websocket"
+import (
+	"log"
+
+	"github.com/gorilla/websocket"
+)
 
 // Suite of respond to client functions
 
@@ -18,6 +22,7 @@ func RespondToClient(p_user *User, msgbuf []byte) (err error) {
 }
 
 func RespondWithString(p_user *User, message string) (err error) {
+	log.Println("Sending msg: " + message + " to " + (*p_user).username)
 	return RespondToClient(p_user, []byte(message))
 }
 
