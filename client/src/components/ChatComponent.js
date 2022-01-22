@@ -86,6 +86,9 @@ class ChatComponent extends React.Component {
 		this.connectToServer();
 	}
 	componentDidUpdate(prevProps){
+		if (this.props.username !== prevProps.username){
+			this.attemptConnection()
+		}
 		if (this.props.room !== prevProps.room) {
 			this.setState({
 				...this.state,
@@ -94,7 +97,6 @@ class ChatComponent extends React.Component {
 		}
 	}
 	render() {
-		this.attemptConnection();
 		return (
 			<div>
 				<ChatRoom

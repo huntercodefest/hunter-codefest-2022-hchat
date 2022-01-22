@@ -40,6 +40,7 @@ class RoomsComponent extends React.Component {
 			...this.state,
 			searchList: this.state.searchList.PrevList,
 			displayList: this.state.searchList.PrevList.CurrList,
+			searchValue: "",
 		})
 	}
 	handleListChange(room) {

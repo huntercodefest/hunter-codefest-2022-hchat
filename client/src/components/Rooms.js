@@ -15,6 +15,7 @@ export function RoomList(CurrList, PrevList) {
 
 export const Schools = new RoomList(
 	[
+		new Room("_GLOB", null, "0", "Global Chatroom"),
 		new Room("BAR01", null, null, "Baruch College"),
 		new Room("BCC01", null, null, "Bronx Community College"),
 		new Room("BKL01", null, null, "Brooklyn College"),
