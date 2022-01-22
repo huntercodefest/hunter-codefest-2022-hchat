@@ -45,7 +45,6 @@ func ReadConnOnLoop(p_user *User) (err error) {
 		if err != nil {
 			return err
 		}
-		fmt.Println(msgbuf)
 		room_num, username, message, err := ProcessInput(msgbuf)
 		fmt.Println(room_num)
 		if err != nil {
@@ -62,7 +61,7 @@ func ReadConnOnLoop(p_user *User) (err error) {
 			fmt.Println("passed here")
 			log.Println("Moved user to room: " + fmt.Sprint(room_num))
 		}
-		log.Println("Received msg: " + string(msgbuf) + " from user: " + username)
+		log.Println("Received msg: " + message + " from user: " + username)
 		DistributeMessageToRoom(ROOM_MAP[room_num], username+":"+message)
 	}
 }
@@ -95,7 +94,6 @@ func ProcessInput(msgbuf []byte) (room_number int, username string, message stri
 	}
 	// if input does not contain #, _, :
 	if input[0] != '#' || !strings.ContainsRune(input, '_') || !strings.ContainsRune(input, ':') {
-		fmt.Println("wrong format")
 		return -1, "", "", errors.New("wrong format, please consult github readme")
 	}
 	inlen := len(input)
