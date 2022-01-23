@@ -2,6 +2,8 @@ import React from "react";
 import Message from "./Message";
 import ChatRoom from "./ChatRoom";
 import MessageInput from "./MessageInput";
+import classes from '../css/chat.module.css'
+
 class ChatComponent extends React.Component {
 	constructor(props) {
 		// connect to server here

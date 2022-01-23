@@ -2,6 +2,7 @@ import React from "react";
 import BackButton from "./BackButton";
 import SearchBar from "./SearchBar";
 import RoomsContainer from "./RoomsContainer";
+import classes from "../css/rooms.module.css"
 import { Room, RoomList, Schools } from "./Rooms"
 class RoomsComponent extends React.Component {
 	constructor(props) {
@@ -81,8 +82,9 @@ class RoomsComponent extends React.Component {
 	}
 	render() {
 		return (
-			<div>
-				<BackButton handleBackClick={this.handleBackClick} />
+			<div className={classes.RoomsComponent}>
+				<BackButton 
+				handleBackClick={this.handleBackClick} />
 				<SearchBar
 					searchList={this.state.searchList.CurrList}
 					value={this.state.searchValue}

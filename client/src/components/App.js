@@ -58,7 +58,7 @@ class App extends React.Component {
 	};
 	render() {
 		return (
-			<div>
+			<div className={classes.location}>
 				{this.state.askForNewUsername ? (
 					<UsernameComponent
 						handleUsernameChange={this.handleUsernameChange}

@@ -1,4 +1,5 @@
 import React from "react";
+import classes from "../css/rooms.module.css"
 
 class RoomsContainer extends React.Component {
 	constructor(props) {
@@ -8,6 +9,7 @@ class RoomsContainer extends React.Component {
 	process() {
 		this.jsx = this.props.displayList.map((room) => (
 			<button
+				className={classes.RoomButton}
 				key={room.room_desc}
 				onClick={() => {
 					this.props.handleRoomChange(room);
@@ -19,7 +21,7 @@ class RoomsContainer extends React.Component {
 	}
 	render() {
 		this.process();
-		return <div>{this.jsx}</div>;
+		return <div className={classes.RoomsContainer}>{this.jsx}</div>;
 	}
 }
 

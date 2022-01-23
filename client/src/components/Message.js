@@ -1,4 +1,5 @@
 import React from "react";
+import classes from "../css/chat.module.css";
 
 class Message extends React.Component {
 	constructor(props) {
@@ -6,6 +7,7 @@ class Message extends React.Component {
 		this.time = {
 			hours: props.time.getHours() % 12,
 			minutes: props.time.getMinutes(),
+			seconds: props.time.getSeconds(),
 		};
 		this.message = {
 			username: props.username,
@@ -15,11 +17,15 @@ class Message extends React.Component {
 	render() {
 		return (
 			<span>
-				<p>{this.props.username}</p>
-				<p>{this.props.message}</p>
-				<p>
-					{this.time.hours}:{this.time.minutes}
-				</p>
+				<span className={classes.username}>
+					{this.props.username}
+				</span>
+				<span className={classes.time}>
+					{this.time.hours}:{this.time.minutes}:{this.time.seconds}
+				</span>
+				<br/>
+				<span className={classes.message}>{this.props.message}</span>
+				<br/>
 			</span>
 		);
 	}
