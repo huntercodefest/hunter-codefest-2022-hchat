@@ -7,9 +7,8 @@ class ChatRoom extends React.Component {
 	render() {
 		return (
 			<div className={classes.chatModule}>
-				<p>Chatroom starts here</p>
-				<span>{this.props.room_desc}</span>
-				<div>{this.props.messages}</div>
+				<span className={classes.roomTitle}>{this.props.room_desc}</span>
+				<div className={classes.groupOfMessages}>{this.props.messages}</div>
 			</div>
 		);
 	}

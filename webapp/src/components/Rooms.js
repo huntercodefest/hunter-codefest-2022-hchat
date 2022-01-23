@@ -32,9 +32,9 @@ export const Schools = new RoomList(
 		new Room("LAW01", null, null, "CUNY School of Law"),
 		new Room("LEH01", null, null, "Lehman College"),
 		new Room("MEC01", null, null, "Macaulay Honors College"),
-		new Room("MED01", null, null, "Medgar Evans College"),
-		new Room("NCC01", null, null, "Guttman Community College"), //May be wrong
-		new Room("NYT01", null, null, "New York City College of Technology"), //May be wrong
+		new Room("MED01", null, null, "Medgar Evers College"), //Fixed typo
+		new Room("NCC01", null, null, "Guttman Community College"), //It is correct
+		new Room("NYT01", null, null, "New York City College of Technology"), //It is correct
 		new Room("QCC01", null, null, "Queensborough Community College"),
 		new Room("QNS01", null, null, "Queens College"),
 		new Room("SPS01", null, null, "CUNY School of Professional Studies"),

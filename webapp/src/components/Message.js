@@ -16,7 +16,7 @@ class Message extends React.Component {
 	}
 	render() {
 		return (
-			<span>
+			<span classesName={classes.message}>
 				<span className={classes.username}>
 					{this.props.username}
 				</span>
@@ -24,7 +24,7 @@ class Message extends React.Component {
 					{this.time.hours}:{this.time.minutes}:{this.time.seconds}
 				</span>
 				<br/>
-				<span className={classes.message}>{this.props.message}</span>
+				<span className={classes.userMessage}>{this.props.message}</span>
 				<br/>
 			</span>
 		);

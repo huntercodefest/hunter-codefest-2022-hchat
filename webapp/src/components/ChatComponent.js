@@ -109,6 +109,7 @@ class ChatComponent extends React.Component {
 					handleSubmit={this.handleSubmit}
 					handleChange={this.handleChange}
 					value={this.state.inputvalue}
+					room_desc={this.props.room.room_desc}
 				/>
 			</div>
 		);

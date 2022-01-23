@@ -71,12 +71,13 @@ class App extends React.Component {
 	render() {
 		return (
 			<div className={classes.app}>
-				{/* {this.state.askForNewUsername ? (
+				{/* Temporarily commented out for testing */}
+				{this.state.askForNewUsername ? (
 					<UsernameComponent
 						handleUsernameChange={this.handleUsernameChange}
 						room={this.state.room}
 					/>
-				) : null} */}
+				) : null}
 				<RoomsComponent
 					handleRoomChange={this.handleRoomChange}
 					listDesc={this.state.listDesc}

@@ -1,53 +1,87 @@
 .roomsComponent {
 	display: flex;
+	flex: 1;
 	flex-direction: column;
 	border-right: 1px solid black;
 	height: 100vh;
 	margin-top: 0;
 	margin-left: 0;
-	flex-basis: 300px;
-	/*max-width: 300px; */
-	overflow: auto;
-	background-color: black;
-    color: white;
+	max-width: 300px;
+	color: black;
+	flex-shrink: 0;
+	box-sizing: border-box;
 }
 
 .header {
+	flex-shrink: 1;
+	margin-right: 0;
 }
-.desc{
-    display: flex;
-    align-items: center;
+.search p {
+	margin: auto;
 }
-.searchBar {
-	flex-grow: 3;
-	min-width: 200px;
+.desc {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	background-color: #60c;
+	color: white;
 }
 
+.search {
+	display: flex;
+	align-items: center;
+}
+.searchBar {
+}
+
+.logo {
+	flex-shrink: 1;
+	margin: auto, 0px, auto, 1px;
+	width: 100%;
+	max-width: 40%;
+}
 .roomsContainer {
 	display: flex;
-	flex: 1;
 	justify-content: flex-start;
 	flex-direction: column;
+	overflow: auto;
+}
+
+.roomsContainer:first-child {
+	margin-top: 0px;
+}
+
+.roomsContainer:last-child {
+	margin-bottom: 3px;
 }
 
 .roomButton {
-	margin-top: 5px;
+	margin-top: 3px;
 	margin-left: 0;
-	background-color: #ac1db8;
-	color: white;
+	padding: 0;
+	margin-right: 0;
+	background-color: #eee;
+	color: black;
 	border: none;
+	border-radius: 2px;
 	cursor: pointer;
-	font-size: 14px;
+	font-size: 13px;
+	text-align: left;
 }
 
 .roomButton:hover,
 .roomButton:focus {
-	background-color: rgb(121, 27, 145);
+	background-color: #60c;
+	color: white;
+}
+
+.roomButton:active {
+	background-color: #90c;
 }
 
 .backButton {
 	width: 25px;
 	cursor: pointer;
-	filter: invert(100%) sepia(0%) saturate(6199%) hue-rotate(113deg)
-		brightness(131%) contrast(92%);
+	/* filter: invert(100%) sepia(0%) saturate(6199%) hue-rotate(113deg)
+		brightness(131%) contrast(92%); */
 }

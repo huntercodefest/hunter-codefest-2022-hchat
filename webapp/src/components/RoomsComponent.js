@@ -3,6 +3,7 @@ import BackButton from "./BackButton";
 import SearchBar from "./SearchBar";
 import RoomsContainer from "./RoomsContainer";
 import classes from "../css/rooms.module.css";
+import logo from "../hchatlogo.png";
 import { Room, RoomList, Schools } from "./Rooms";
 class RoomsComponent extends React.Component {
 	constructor(props) {
@@ -100,13 +101,19 @@ class RoomsComponent extends React.Component {
 					<span className={classes.desc}>
 						<BackButton handleBackClick={this.handleBackClick} />
 						<p>{this.props.listDesc}</p>
+						<SearchBar
+							searchList={this.state.searchList.CurrList}
+							value={this.state.searchValue}
+							handleSearchMod={this.handleSearchMod}
+						/>
 					</span>
-					<SearchBar
-						searchList={this.state.searchList.CurrList}
-						value={this.state.searchValue}
-						handleSearchMod={this.handleSearchMod}
-					/>
-					<p>Found {this.state.displayList.length} rooms</p>
+					<div className={classes.search}>
+						<img
+							src={logo}
+							className={classes.logo}
+							alt="hchatlogo"></img>
+						<p>Found {this.state.displayList.length} rooms</p>
+					</div>
 				</div>
 				<RoomsContainer
 					displayList={this.state.displayList}

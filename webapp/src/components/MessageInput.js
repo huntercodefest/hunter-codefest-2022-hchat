@@ -10,20 +10,20 @@ class MessageInput extends React.Component {
 	// Message form JSX
 	render() {
 		return (
-			<div className={classes.div}>
+			<div className={classes.chatOuterUI}>
 				<form
 					onSubmit={(event) => this.props.handleSubmit(event)}
 					id="sub_msg">
 					<input
 						className={classes.chatInput}
-						placeholder="Send a message..."
+						placeholder={`Send a message in ${this.props.room_desc}...`}
 						onChange={(event) => this.props.handleChange(event)}
 						value={this.props.value}
 					/>
-				</form>
 				<button form="sub_msg" className={classes.button}>
 					Send
 				</button>
+				</form>
 			</div>
 		);
 	}
