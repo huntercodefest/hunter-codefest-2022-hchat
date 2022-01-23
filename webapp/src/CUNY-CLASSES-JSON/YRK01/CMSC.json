@@ -1,0 +1,157 @@
+[
+    {
+        "major": "CMSC",
+        "room_num": "15572",
+        "desc": "Advanced Topics"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15573",
+        "desc": "Algorithm Design and Analysis"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15574",
+        "desc": "Algorithms and Data Structures"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15575",
+        "desc": "Artificial Intelligence"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15576",
+        "desc": "Assembly Language Programming"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15577",
+        "desc": "Automata&Computablty"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15578",
+        "desc": "Business Programming"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15579",
+        "desc": "Computer Architecture"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15580",
+        "desc": "Computer Graphics"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15581",
+        "desc": "Computer Science I"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15582",
+        "desc": "Computer Science II"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15583",
+        "desc": "Computer Science Lib Art Elec"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15584",
+        "desc": "Cryptography"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15585",
+        "desc": "Data Communications I"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15586",
+        "desc": "Data Communications II"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15587",
+        "desc": "Database Systems"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15588",
+        "desc": "Guided Study In CS"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15589",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15590",
+        "desc": "Independent Study in CS"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15591",
+        "desc": "Intro Computational Thinking"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15592",
+        "desc": "Intro Data Base Mngt"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15593",
+        "desc": "Network Computing"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15594",
+        "desc": "Object-Oriented Programming"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15595",
+        "desc": "Operating Systems"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15596",
+        "desc": "Princ Of Pgrm Langs"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15597",
+        "desc": "Software & Web Applications"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15598",
+        "desc": "Software Development"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15599",
+        "desc": "Software Engineering"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15600",
+        "desc": "Topic Computing/Info Syst Mgmt"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15601",
+        "desc": "Unix Operating System"
+    },
+    {
+        "major": "CMSC",
+        "room_num": "15602",
+        "desc": "Windows Programming"
+    }
+]

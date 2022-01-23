@@ -1,0 +1,38 @@
+[
+    {
+        "school": "NYT01",
+        "major": "EDMS",
+        "room_num": "66297",
+        "room_desc": "Math Spec Ed Tchrs"
+    },
+    {
+        "school": "NYT01",
+        "major": "EDMS",
+        "room_num": "66298",
+        "room_desc": "Sci Spec Ed Tchr Ado"
+    },
+    {
+        "school": "NYT01",
+        "major": "EDMS",
+        "room_num": "66299",
+        "room_desc": "Soc Stud for Spec Ed Teach"
+    },
+    {
+        "school": "NYT01",
+        "major": "EDMS",
+        "room_num": "66300",
+        "room_desc": "Tchg & Lrng Science Mid Sc"
+    },
+    {
+        "school": "NYT01",
+        "major": "EDMS",
+        "room_num": "66301",
+        "room_desc": "Tchg Soc Stdy Ms"
+    },
+    {
+        "school": "NYT01",
+        "major": "EDMS",
+        "room_num": "66302",
+        "room_desc": "Tchg&Lrng Mth Mid Sh"
+    }
+]

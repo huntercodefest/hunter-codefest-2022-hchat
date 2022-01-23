@@ -1,0 +1,302 @@
+[
+    {
+        "major": "CMIS",
+        "room_num": "1841",
+        "desc": "Adv Prog Techniq Using C"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1842",
+        "desc": "Analysis of Algorithms"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1843",
+        "desc": "Artifical Intelligence I"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1844",
+        "desc": "Artificial Intelligence II"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1845",
+        "desc": "Assem Lang Microcom"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1846",
+        "desc": "Assembly Lang Micro"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1847",
+        "desc": "Assembly Lang Proc Microcmptrs"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1848",
+        "desc": "C Prog & Intro Data Structures"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1849",
+        "desc": "C++ For Programmers"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1850",
+        "desc": "Communic Networks"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1851",
+        "desc": "Comp Graph:Software Syst Desgn"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1852",
+        "desc": "Compiler Construction"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1853",
+        "desc": "Compilers 2"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1854",
+        "desc": "Computer Architect"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1855",
+        "desc": "Computer Architecture"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1856",
+        "desc": "Computer Security"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1857",
+        "desc": "Cptr Tech & Prog"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1858",
+        "desc": "Data Structures"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1859",
+        "desc": "Database Mgmnt Systems II"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1860",
+        "desc": "Database Systems 2"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1861",
+        "desc": "Discrete Structures"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1862",
+        "desc": "Electronic Commerce"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1863",
+        "desc": "Expert Systems"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1864",
+        "desc": "Formal Lang & Automata Theory"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1865",
+        "desc": "Graph & Network Algorithms"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1866",
+        "desc": "I.T. in Financial Mkts"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1867",
+        "desc": "Info Org & Retrvl"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1868",
+        "desc": "Info Organiz & Retrieval"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1869",
+        "desc": "Info Systems For Managers I"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1870",
+        "desc": "Info Systems for Managers"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1871",
+        "desc": "Information Org and Retrieval"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1872",
+        "desc": "Information Systems Mgmt"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1873",
+        "desc": "Information Systems Research"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1874",
+        "desc": "Input/Output Media"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1875",
+        "desc": "Intro Comp Using C Prog Lang"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1876",
+        "desc": "Intro Computer Organiztion"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1877",
+        "desc": "Intro To C I S"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1878",
+        "desc": "Intro to Comput & Unsolvabilit"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1879",
+        "desc": "Intro to Computing Using C"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1880",
+        "desc": "Local Area Networks"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1881",
+        "desc": "Multimedia Computer Systems"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1882",
+        "desc": "Multimedia Presentations"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1883",
+        "desc": "Networks & Telecommunications"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1884",
+        "desc": "Networks and Telecommunication"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1885",
+        "desc": "Obj-Oriented Prog I"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1886",
+        "desc": "Object-Oriented Program I"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1887",
+        "desc": "Object-Oriented Program II"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1888",
+        "desc": "Object-Oriented Programming"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1889",
+        "desc": "Operating Systems I"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1890",
+        "desc": "Parallel Algorithm"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1891",
+        "desc": "Princ of Database Mgmnt Systms"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1892",
+        "desc": "Qual Rsrch Info Systems II"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1893",
+        "desc": "Quant Rsrch Info Systems I"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1894",
+        "desc": "Selected Topics: Info Systems"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1895",
+        "desc": "Spec Topcs in Inform Technolog"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1896",
+        "desc": "Survey Cptr Organiz"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1897",
+        "desc": "Systems Analysis & Design"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1898",
+        "desc": "Teleproc Systems"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1899",
+        "desc": "Theoretical Comp Science"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "1900",
+        "desc": "Visual Basic"
+    }
+]

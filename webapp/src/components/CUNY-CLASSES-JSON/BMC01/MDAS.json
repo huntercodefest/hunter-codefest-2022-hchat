@@ -1,0 +1,50 @@
+[
+    {
+        "school": "BMC01",
+        "major": "MDAS",
+        "room_num": "18473",
+        "room_desc": "EMC/Para Clin Int III"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDAS",
+        "room_num": "18474",
+        "room_desc": "EMC/Para Clinic Intrn I"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDAS",
+        "room_num": "18475",
+        "room_desc": "Emc/Par Clin Int II"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDAS",
+        "room_num": "18476",
+        "room_desc": "Emer Med Care/Par III"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDAS",
+        "room_num": "18477",
+        "room_desc": "Emer Med Care/Para II"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDAS",
+        "room_num": "18478",
+        "room_desc": "Emerg Med Care Par I"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDAS",
+        "room_num": "18479",
+        "room_desc": "Emerg Medical Care/Paramed IV"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDAS",
+        "room_num": "18480",
+        "room_desc": "Emergency Medical Care"
+    }
+]

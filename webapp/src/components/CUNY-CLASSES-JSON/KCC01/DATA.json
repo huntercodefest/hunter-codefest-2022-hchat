@@ -1,0 +1,38 @@
+[
+    {
+        "school": "KCC01",
+        "major": "DATA",
+        "room_num": "63117",
+        "room_desc": "Adv Internet Appl"
+    },
+    {
+        "school": "KCC01",
+        "major": "DATA",
+        "room_num": "63118",
+        "room_desc": "Advanced Cobol Programming"
+    },
+    {
+        "school": "KCC01",
+        "major": "DATA",
+        "room_num": "63119",
+        "room_desc": "Data Processing"
+    },
+    {
+        "school": "KCC01",
+        "major": "DATA",
+        "room_num": "63120",
+        "room_desc": "Intro Data Process"
+    },
+    {
+        "school": "KCC01",
+        "major": "DATA",
+        "room_num": "63121",
+        "room_desc": "Micro-Computer Appli"
+    },
+    {
+        "school": "KCC01",
+        "major": "DATA",
+        "room_num": "63122",
+        "room_desc": "Rpg Programming"
+    }
+]

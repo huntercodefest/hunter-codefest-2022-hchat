@@ -1,0 +1,410 @@
+[
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48384",
+        "room_desc": "Adv Couns Skills & Contemp Iss"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48385",
+        "room_desc": "Adv Stud Tch Soc Stud"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48386",
+        "room_desc": "Aids and Society"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48387",
+        "room_desc": "American Coll:Studies Services"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48388",
+        "room_desc": "Behavior Appls Counseling"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48389",
+        "room_desc": "Career Couns & Coll Readiness"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48390",
+        "room_desc": "Career Counseling"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48391",
+        "room_desc": "Career Counseling Transtn"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48392",
+        "room_desc": "Career Development"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48393",
+        "room_desc": "Career Plan-Job Search"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48394",
+        "room_desc": "Chem Depnd:Issues/Counseling"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48395",
+        "room_desc": "Counsel Skills/Intrv Tech (KC)"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48396",
+        "room_desc": "Counseling Foundations 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48397",
+        "room_desc": "Culminating Sem:School Counsel"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48398",
+        "room_desc": "Educ Evaluation"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48399",
+        "room_desc": "Elem School Science"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48400",
+        "room_desc": "Family Counseling"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48401",
+        "room_desc": "Fdtns2:Personality Theory"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48402",
+        "room_desc": "Fieldwork in Comm Counseling"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48403",
+        "room_desc": "Foundations 1: Fields of Cslng"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48404",
+        "room_desc": "Foundations School Counseling"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48405",
+        "room_desc": "Fundamentals Principals-Cnslng"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48406",
+        "room_desc": "Funds:Commun Cnslng"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48407",
+        "room_desc": "Group Counseling (KC)"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48408",
+        "room_desc": "Ind Study Research"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48409",
+        "room_desc": "Ind Study-Research"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48410",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48411",
+        "room_desc": "Individual Supervision (KC)"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48412",
+        "room_desc": "Interdiscipln Autism"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48413",
+        "room_desc": "Internship in Counseling I(KC)"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48414",
+        "room_desc": "Internship in Counseling II"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48415",
+        "room_desc": "Intev. Children/Adolescence"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48416",
+        "room_desc": "Life Stage Development"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48417",
+        "room_desc": "Measurement and Appraisal"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48418",
+        "room_desc": "Mental Health"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48419",
+        "room_desc": "Mental Hygiene"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48420",
+        "room_desc": "Mult-Cult Aspects Counseling"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48421",
+        "room_desc": "Practicum in Counseling (KC)"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48422",
+        "room_desc": "Principles of Interviewing"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48423",
+        "room_desc": "Problems Elementary Education"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48424",
+        "room_desc": "Proj Sem 1: Couns Ev"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48425",
+        "room_desc": "Proj Sem 2: Research"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48426",
+        "room_desc": "Psy Asp Disab Rehab/Spec Edu"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48427",
+        "room_desc": "Research Methods in Counseling"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48428",
+        "room_desc": "School/Commnty"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48429",
+        "room_desc": "Sem Couns 8:Ldrshp J"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48430",
+        "room_desc": "Sem-Couns 6: Org48431: COUN,\"Sem-Couns 7:Cnslng I"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48432",
+        "room_desc": "Sem2:Grp Cslng Techs"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48433",
+        "room_desc": "Sem3:Career Development"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48434",
+        "room_desc": "Sem4:Voc Applicatins"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48435",
+        "room_desc": "Sem5:Cslng Practicum"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48436",
+        "room_desc": "Sem: Independant Study"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48437",
+        "room_desc": "Seminar 1: Interviewing"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48438",
+        "room_desc": "Seminar in Chemical Dependency"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48439",
+        "room_desc": "Seminar in Counseling 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48440",
+        "room_desc": "Soc Sys1:Urban Cslng"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48441",
+        "room_desc": "Soc Systms2:Spec Gps"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48442",
+        "room_desc": "Spctp:Crisisinterven"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48443",
+        "room_desc": "Special Topics in Counseling"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48444",
+        "room_desc": "Strategies1:Learning"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48445",
+        "room_desc": "Strt Lrn Cnsl 2:Voc48446: COUN,\"Superv Training in Counseling"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48447",
+        "room_desc": "Tchng Rdng Secondary Schools"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48448",
+        "room_desc": "Theories of Counseling"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48449",
+        "room_desc": "Trans Schl to Adult Living Yth"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48450",
+        "room_desc": "Urban Counseling"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48451",
+        "room_desc": "Vocational Assess & Placement"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48452",
+        "room_desc": "Vocational Guidance"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "48453",
+        "room_desc": "Workshop Early Childhood"
+    }
+]

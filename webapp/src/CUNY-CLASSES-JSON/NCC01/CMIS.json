@@ -1,0 +1,57 @@
+[
+    {
+        "major": "CMIS",
+        "room_num": "64206",
+        "desc": "Database Management & Design"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "64207",
+        "desc": "Hardware & Software"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "64208",
+        "desc": "Info Tech Independent Project"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "64209",
+        "desc": "Internship in Information Tech"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "64210",
+        "desc": "Intro Management Info Systms"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "64211",
+        "desc": "Networking /Data Communication"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "64212",
+        "desc": "Programming I"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "64213",
+        "desc": "Programming II"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "64214",
+        "desc": "Special Topics in Info Tech"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "64215",
+        "desc": "Systems Analysis & Design"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "64216",
+        "desc": "Web Technologies & Multimedia"
+    }
+]

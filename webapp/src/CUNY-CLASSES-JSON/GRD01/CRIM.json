@@ -1,0 +1,877 @@
+[
+    {
+        "major": "CRIM",
+        "room_num": "3565",
+        "desc": "Adv Analyses Meth/Phys Evdnce"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3566",
+        "desc": "Adv Criminalistics III"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3567",
+        "desc": "Adv Forensic Instrumentation I"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3568",
+        "desc": "Adv Forensic Instrumentatn I"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3569",
+        "desc": "Adv Forensic Instrumentatn II"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3570",
+        "desc": "Adv Forensic Instrumntation II"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3571",
+        "desc": "Adv Topics Trace Evid Analysis"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3572",
+        "desc": "Advanced Correction"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3573",
+        "desc": "Advanced Corrections"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3574",
+        "desc": "Advanced Criminalistics I"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3575",
+        "desc": "Advanced Criminalistics II"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3576",
+        "desc": "Advanced Criminalistics III"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3577",
+        "desc": "Advanced Criminology"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3578",
+        "desc": "Advanced Penology"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3579",
+        "desc": "Appl Resch/Stat Crj"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3580",
+        "desc": "Capital Punishment"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3581",
+        "desc": "Cntmp Correction"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3582",
+        "desc": "Cntmpry Corrections"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3583",
+        "desc": "Comp Police Systems"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3584",
+        "desc": "Comparative Police Admin"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3585",
+        "desc": "Comparative Systems Crim Just"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3586",
+        "desc": "Comparative Systems of CRJ"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3587",
+        "desc": "Computer Security"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3588",
+        "desc": "Conceptual Found Criminal Law"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3589",
+        "desc": "Concpt Foundtns Crim Procedure"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3590",
+        "desc": "Constit Crim Proced"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3591",
+        "desc": "Constitution & Crim Justice"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3592",
+        "desc": "Contemp Sentencing"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3593",
+        "desc": "Contemporary Issues"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3594",
+        "desc": "Control Sexual Behv"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3595",
+        "desc": "Controvers Correctn"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3596",
+        "desc": "Courts and Criminal Justice"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3597",
+        "desc": "Crim Law/Polic Admn"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3598",
+        "desc": "Crim3599: CRIM,\"Crime & Drugs"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3600",
+        "desc": "Crime & Justice Theory"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3601",
+        "desc": "Crime Mapping"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3602",
+        "desc": "Crime Scene Investigation"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3603",
+        "desc": "Criminology and Public Policy"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3604",
+        "desc": "Crj/Time Seres Meth"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3605",
+        "desc": "Data Management"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3606",
+        "desc": "Death Penalty"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3607",
+        "desc": "Deviance Theory"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3608",
+        "desc": "Dissemination of Knowledge"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3609",
+        "desc": "Dissertation Supervision"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3610",
+        "desc": "Doct Dissrt Seminar"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3611",
+        "desc": "Drugs3612: CRIM,\"Drugs3613: CRIM,\"Economics Of Crime"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3614",
+        "desc": "Electron Microscopy"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3615",
+        "desc": "Ethnography & Criminal Justice"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3616",
+        "desc": "Ethnography/Criminology"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3617",
+        "desc": "Exp Test/Ethical Iss Foren Sci"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3618",
+        "desc": "Experimental & Socl Psy & CRJ"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3619",
+        "desc": "Fairness/Crimin Sys"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3620",
+        "desc": "Feminist Criminology"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3621",
+        "desc": "Forensic"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3622",
+        "desc": "Forensic Sci and Crim Just Sys"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3623",
+        "desc": "Forensic Sci in Crim Just Sys"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3624",
+        "desc": "Frnsic Exam/Firearms/Toolmrks"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3625",
+        "desc": "Gender & Violence"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3626",
+        "desc": "Genetics for Forensic Sci"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3627",
+        "desc": "Genetics/Forensic Sci - Lab"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3628",
+        "desc": "Hist Socio Of Crj"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3629",
+        "desc": "Hist of Police Administration"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3630",
+        "desc": "History Punishment"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3631",
+        "desc": "History of Criminal Justice"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3632",
+        "desc": "Homeland Security & Terrorism"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3633",
+        "desc": "Hostage Negotiation"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3634",
+        "desc": "Hypnos3635: CRIM,\"Impression & Pattern Evidence"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3636",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3637",
+        "desc": "Independent Study:Special Tpcs"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3638",
+        "desc": "Interned and Criminal Justice"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3639",
+        "desc": "Issues In Crj"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3640",
+        "desc": "Issues in Criminal Justice"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3641",
+        "desc": "Justice/Pub Policy"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3642",
+        "desc": "Juv Delinq/Justice/Corrections"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3643",
+        "desc": "Juv Delinquency/Dev"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3644",
+        "desc": "Juvenile Delinquency"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3645",
+        "desc": "Law And Evidence"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3646",
+        "desc": "Mngmt/Comput Applic"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3647",
+        "desc": "Molecular Biology I"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3648",
+        "desc": "Molecular Biology I - Lab"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3649",
+        "desc": "Molecular Biology II"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3650",
+        "desc": "Molecular Biology II - Lab"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3651",
+        "desc": "Operations Research"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3652",
+        "desc": "Organ Beh/Plcy Makng Crim Jus"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3653",
+        "desc": "Organ Crime Cntrl"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3654",
+        "desc": "Organized Crime"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3655",
+        "desc": "Organized/Whte Collar Crime"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3656",
+        "desc": "Person Assessmnt I"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3657",
+        "desc": "Persuasion/Violence"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3658",
+        "desc": "Phil/Ethical Prob Crim Justice"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3659",
+        "desc": "Phil/Ethical Problms Crim Just"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3660",
+        "desc": "Phil/Thrtcl Bases of Cont Corr"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3661",
+        "desc": "Philosphy of Law"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3662",
+        "desc": "Physiol/Crim Behav"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3663",
+        "desc": "Pol Analysis/Inspctn/Oversight"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3664",
+        "desc": "Pol Thry of Crim Justice"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3665",
+        "desc": "Pol/Econ Theories in CRJ"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3666",
+        "desc": "Police And The Law"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3667",
+        "desc": "Police Ethics"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3668",
+        "desc": "Police In Crim Just"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3669",
+        "desc": "Police Professionalism"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3670",
+        "desc": "Police in the Social Order"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3671",
+        "desc": "Policing"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3672",
+        "desc": "Policy Analysis Crim Just"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3673",
+        "desc": "Policy Eval In Crj"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3674",
+        "desc": "Prison Popul Trends"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3675",
+        "desc": "Prob in Contemp Corrections"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3676",
+        "desc": "Prob in Police Administr"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3677",
+        "desc": "Prob-Orient Policing"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3678",
+        "desc": "Problem Oriented Policing"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3679",
+        "desc": "Profiling"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3680",
+        "desc": "Proseminar in Criminal Justice"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3681",
+        "desc": "Psyc Aspct Alchlism"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3682",
+        "desc": "Psych Of Victimiztn"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3683",
+        "desc": "Psych/Crimin Justc"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3684",
+        "desc": "Psych/Hist Meanings"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3685",
+        "desc": "Psychology & Criminal Justice"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3686",
+        "desc": "Psychopathology and Crime"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3687",
+        "desc": "Psychopathy"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3688",
+        "desc": "Pub Policy/Crm Just"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3689",
+        "desc": "Punishment and Corrections"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3690",
+        "desc": "Quantative Methods in CRJ II"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3691",
+        "desc": "Race/Crime & Admin of Justice"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3692",
+        "desc": "Radical/Conflict Cr"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3693",
+        "desc": "Resch Mthds & Desgn"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3694",
+        "desc": "Resch Mthds in Intl Crim & Jus"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3695",
+        "desc": "Research Methods CRJ II"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3696",
+        "desc": "Researchable Topics"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3697",
+        "desc": "Resrch Meth Forensic Sci Proj"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3698",
+        "desc": "ST: Criminal Justice"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3699",
+        "desc": "ST: Criminal Justice Policy"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3700",
+        "desc": "ST: Criminology"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3701",
+        "desc": "ST: Criminology and Deviance"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3702",
+        "desc": "ST: Forensic Science"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3703",
+        "desc": "ST: Guided Research"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3704",
+        "desc": "ST: Innovation in CJ Systems"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3705",
+        "desc": "ST: Law and Philosophy"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3706",
+        "desc": "ST: Policing &  Police Systems"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3707",
+        "desc": "ST: Psychology"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3708",
+        "desc": "ST: Psychology & Crim Justice"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3709",
+        "desc": "ST: Pub Pol/Org Beh"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3710",
+        "desc": "Science3711: CRIM,\"Science3712: CRIM,\"Self/Contemp Crimol"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3713",
+        "desc": "Sem Program in Forensic Sci"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3714",
+        "desc": "Semi Prgrm in Forensic Sci"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3715",
+        "desc": "Semnr Forensic Sci"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3716",
+        "desc": "Sex Crimes"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3717",
+        "desc": "Soc Mvmnts Rev/Terr"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3718",
+        "desc": "Sociology of Delinquency"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3719",
+        "desc": "Spcl Tpcs/Admin Thy"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3720",
+        "desc": "Spcl Tpcs/Correctns"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3721",
+        "desc": "Srvy Research Meths CRJ I"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3722",
+        "desc": "Statistical Methods"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3723",
+        "desc": "Statistics Primer"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3724",
+        "desc": "Stats for Forensic Scientists"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3725",
+        "desc": "Supreme Court/Polic"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3726",
+        "desc": "Supremem Court"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3727",
+        "desc": "Survey  Quant Meth CRJ II"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3728",
+        "desc": "Survey in CJ Systems"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3729",
+        "desc": "Survey of Crim Just Proc I"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3730",
+        "desc": "Survey of Crim Just Proc II"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3731",
+        "desc": "Survey of Criminoligy II"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3732",
+        "desc": "Survey of Criminology I"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3733",
+        "desc": "Survey of Molecular Biology"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3734",
+        "desc": "Survey/Crj System"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3735",
+        "desc": "Terror & Apocalyptic Violence"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3736",
+        "desc": "Terrorism"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3737",
+        "desc": "Terrorism & Politics"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3738",
+        "desc": "The American Jury"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3739",
+        "desc": "Thry Deviance/Crime"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3740",
+        "desc": "Trace Evidence"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3741",
+        "desc": "Vice"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3742",
+        "desc": "Victim/Offend/Prisn"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3743",
+        "desc": "Victimology"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3744",
+        "desc": "White Collar Crime"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "3745",
+        "desc": "Women in Criminal Justice"
+    }
+]

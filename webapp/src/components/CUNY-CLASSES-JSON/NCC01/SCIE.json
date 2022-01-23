@@ -1,0 +1,14 @@
+[
+    {
+        "school": "NCC01",
+        "major": "SCIE",
+        "room_num": "64298",
+        "room_desc": "Science Elective Credit"
+    },
+    {
+        "school": "NCC01",
+        "major": "SCIE",
+        "room_num": "64299",
+        "room_desc": "Science and Society"
+    }
+]

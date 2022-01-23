@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    /* font goes here */
+}
+.app{
+    display: flex;
+    flex-direction: row;
+}
+
+.message{
+    display: block;
+}
+/* scrollbar css */
+
+/* width */
+::-webkit-scrollbar {
+    width: 20px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: red; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #b30000; 
+  }
+  

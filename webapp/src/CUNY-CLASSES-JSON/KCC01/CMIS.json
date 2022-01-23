@@ -1,0 +1,77 @@
+[
+    {
+        "major": "CMIS",
+        "room_num": "63015",
+        "desc": "Adv Netwrk Srv Admin"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "63016",
+        "desc": "Advanced Database Programming"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "63017",
+        "desc": "Applied Computer Architecture"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "63018",
+        "desc": "HTML Authoring and JavaScript"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "63019",
+        "desc": "Intro Web Page Dev"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "63020",
+        "desc": "Intro to Operating Systems"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "63021",
+        "desc": "Introduction to Database"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "63022",
+        "desc": "Is Appl Comp Archtct"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "63023",
+        "desc": "Is Intro Database"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "63024",
+        "desc": "Is Intro Op Systems"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "63025",
+        "desc": "Is-Html Author/Java"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "63026",
+        "desc": "Network Server Administration"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "63027",
+        "desc": "Novell I"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "63028",
+        "desc": "Novell II"
+    },
+    {
+        "major": "CMIS",
+        "room_num": "63029",
+        "desc": "Systems Analysis"
+    }
+]

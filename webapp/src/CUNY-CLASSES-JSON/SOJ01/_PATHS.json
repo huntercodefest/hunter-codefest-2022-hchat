@@ -1,0 +1,46 @@
+[
+    {
+        "name": "PSYC",
+        "path": "PSYC.json"
+    },
+    {
+        "name": "FILM",
+        "path": "FILM.json"
+    },
+    {
+        "name": "STAB",
+        "path": "STAB.json"
+    },
+    {
+        "name": "JOUR",
+        "path": "JOUR.json"
+    },
+    {
+        "name": "MESG",
+        "path": "MESG.json"
+    },
+    {
+        "name": "INTE",
+        "path": "INTE.json"
+    },
+    {
+        "name": "FREN",
+        "path": "FREN.json"
+    },
+    {
+        "name": "WMST",
+        "path": "WMST.json"
+    },
+    {
+        "name": "ARAB",
+        "path": "ARAB.json"
+    },
+    {
+        "name": "PUAF",
+        "path": "PUAF.json"
+    },
+    {
+        "name": "ANTH",
+        "path": "ANTH.json"
+    }
+]

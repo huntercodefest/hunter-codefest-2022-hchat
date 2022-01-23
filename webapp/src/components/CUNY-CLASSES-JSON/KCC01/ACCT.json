@@ -1,0 +1,116 @@
+[
+    {
+        "school": "LAW01",
+        "major": "PERM",
+        "room_num": "23669",
+        "room_desc": "Student On Permit"
+    },
+    {
+        "school": "KCC01",
+        "major": "ACCT",
+        "room_num": "62689",
+        "room_desc": "Advanced Federal Taxation"
+    },
+    {
+        "school": "KCC01",
+        "major": "ACCT",
+        "room_num": "62690",
+        "room_desc": "Cost Accounting"
+    },
+    {
+        "school": "KCC01",
+        "major": "ACCT",
+        "room_num": "62691",
+        "room_desc": "Cost/Manag Acctng"
+    },
+    {
+        "school": "KCC01",
+        "major": "ACCT",
+        "room_num": "62692",
+        "room_desc": "Federal Taxation"
+    },
+    {
+        "school": "KCC01",
+        "major": "ACCT",
+        "room_num": "62693",
+        "room_desc": "Field Exper Acctng"
+    },
+    {
+        "school": "KCC01",
+        "major": "ACCT",
+        "room_num": "62694",
+        "room_desc": "Financial Investigation"
+    },
+    {
+        "school": "KCC01",
+        "major": "ACCT",
+        "room_num": "62695",
+        "room_desc": "Fundamentals of Accounting"
+    },
+    {
+        "school": "KCC01",
+        "major": "ACCT",
+        "room_num": "62696",
+        "room_desc": "Fundamentals of Accounting II"
+    },
+    {
+        "school": "KCC01",
+        "major": "ACCT",
+        "room_num": "62697",
+        "room_desc": "IS Microcomputer Account Appli"
+    },
+    {
+        "school": "KCC01",
+        "major": "ACCT",
+        "room_num": "62698",
+        "room_desc": "Independent Study: Accounting"
+    },
+    {
+        "school": "KCC01",
+        "major": "ACCT",
+        "room_num": "62699",
+        "room_desc": "Intermediate Accounting I"
+    },
+    {
+        "school": "KCC01",
+        "major": "ACCT",
+        "room_num": "62700",
+        "room_desc": "Intermediate Accounting II"
+    },
+    {
+        "school": "KCC01",
+        "major": "ACCT",
+        "room_num": "62701",
+        "room_desc": "Is Adv Federal Tax"
+    },
+    {
+        "school": "KCC01",
+        "major": "ACCT",
+        "room_num": "62702",
+        "room_desc": "Microcomputer Account Applicat"
+    },
+    {
+        "school": "KCC01",
+        "major": "ACCT",
+        "room_num": "62703",
+        "room_desc": "New York Taxes"
+    },
+    {
+        "school": "KCC01",
+        "major": "ACCT",
+        "room_num": "62704",
+        "room_desc": "Principles of Auditing"
+    },
+    {
+        "school": "KCC01",
+        "major": "ACCT",
+        "room_num": "62705",
+        "room_desc": "Problems In Federal Taxation"
+    },
+    {
+        "school": "KCC01",
+        "major": "ACCT",
+        "room_num": "62706",
+        "room_desc": "Res In Fed Taxation"
+    }
+]

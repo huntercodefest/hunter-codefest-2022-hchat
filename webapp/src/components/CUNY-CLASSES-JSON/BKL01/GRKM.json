@@ -1,0 +1,26 @@
+[
+    {
+        "school": "BKL01",
+        "major": "GRKM",
+        "room_num": "73710",
+        "room_desc": "Basic Writing/Reading Heritage"
+    },
+    {
+        "school": "BKL01",
+        "major": "GRKM",
+        "room_num": "73711",
+        "room_desc": "Inter Writing/Reading Heritage"
+    },
+    {
+        "school": "BKL01",
+        "major": "GRKM",
+        "room_num": "73712",
+        "room_desc": "Peer Tutoring 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "GRKM",
+        "room_num": "73713",
+        "room_desc": "Peer Tutoring 11"
+    }
+]

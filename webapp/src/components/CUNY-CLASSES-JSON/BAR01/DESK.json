@@ -1,0 +1,50 @@
+[
+    {
+        "school": "BAR01",
+        "major": "DESK",
+        "room_num": "59723",
+        "room_desc": "College Skills I"
+    },
+    {
+        "school": "BAR01",
+        "major": "DESK",
+        "room_num": "59724",
+        "room_desc": "College Skills I ESL"
+    },
+    {
+        "school": "BAR01",
+        "major": "DESK",
+        "room_num": "59725",
+        "room_desc": "College Skills II"
+    },
+    {
+        "school": "BAR01",
+        "major": "DESK",
+        "room_num": "59726",
+        "room_desc": "Intnsv Workshop Writ"
+    },
+    {
+        "school": "BAR01",
+        "major": "DESK",
+        "room_num": "59727",
+        "room_desc": "Study Lab In Writing"
+    },
+    {
+        "school": "BAR01",
+        "major": "DESK",
+        "room_num": "59728",
+        "room_desc": "Study Lab Reading"
+    },
+    {
+        "school": "BAR01",
+        "major": "DESK",
+        "room_num": "59729",
+        "room_desc": "Study Lab in Music"
+    },
+    {
+        "school": "BAR01",
+        "major": "DESK",
+        "room_num": "59730",
+        "room_desc": "Study Lab in Psychology 1001"
+    }
+]

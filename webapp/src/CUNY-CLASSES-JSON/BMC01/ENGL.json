@@ -1,0 +1,537 @@
+[
+    {
+        "major": "ENGL",
+        "room_num": "17962",
+        "desc": "19th Cent Amer Lit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17963",
+        "desc": "Acting I"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17964",
+        "desc": "Acting Ii"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17965",
+        "desc": "Advanced Composition"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17966",
+        "desc": "Amer Lit: Reconstruction-Pres"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17967",
+        "desc": "American Lit: Colonial - Civil"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17968",
+        "desc": "American Novel"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17969",
+        "desc": "Asian American Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17970",
+        "desc": "Autobiography"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17971",
+        "desc": "British Lit: Medieval - 18 Cen"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17972",
+        "desc": "British Lit: Romantic - 20 Cen"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17973",
+        "desc": "CUNY Start Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17974",
+        "desc": "Children\u2019s Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17975",
+        "desc": "Children\u2019s Literature (Honors)"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17976",
+        "desc": "Class Greek Theatre"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17977",
+        "desc": "College Focus Reading & Writin"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17978",
+        "desc": "Comics and Graphic Narrative"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17979",
+        "desc": "Community Dramatics"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17980",
+        "desc": "Contemporary Urban Writers"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17981",
+        "desc": "Creative Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17982",
+        "desc": "Creative Writing Foundations"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17983",
+        "desc": "Creative Writing Workshop"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17984",
+        "desc": "Discussion and Debate"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17985",
+        "desc": "Drama & Comp"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17986",
+        "desc": "ENG Directed Study"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17987",
+        "desc": "Eng As 2nd Language"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17988",
+        "desc": "Eng As A 2nd Lang"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17989",
+        "desc": "Eng As A 2nd Lang 2"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17990",
+        "desc": "Eng Com & Intr To Lit (Honors)"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17991",
+        "desc": "Eng Comp & Intro to Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17992",
+        "desc": "Eng Comp I & II"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17993",
+        "desc": "Eng Comp Workshop"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17994",
+        "desc": "Eng Directed Study"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17995",
+        "desc": "English As 2nd Lang"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17996",
+        "desc": "English Comp I"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17997",
+        "desc": "English Comp II"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17998",
+        "desc": "English Composition"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "17999",
+        "desc": "English Directed Study"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18000",
+        "desc": "English I"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18001",
+        "desc": "English II"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18002",
+        "desc": "English Lit I"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18003",
+        "desc": "English Lit II"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18004",
+        "desc": "English Literature I"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18005",
+        "desc": "English Literature II"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18006",
+        "desc": "English as a Second Language"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18007",
+        "desc": "Environmental Lit. and Film"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18008",
+        "desc": "Fic Dra Poet & Comp"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18009",
+        "desc": "Fiction & Comp"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18010",
+        "desc": "Fiction Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18011",
+        "desc": "Fiction into Film"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18012",
+        "desc": "Film"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18013",
+        "desc": "Fund Of Speech"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18014",
+        "desc": "Fundamentals of Journalism"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18015",
+        "desc": "Int Writg Workshop"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18016",
+        "desc": "Intensive College Composition"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18017",
+        "desc": "Intensive English Composition"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18018",
+        "desc": "Intensive Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18019",
+        "desc": "Intensive Writing - Cd Wksp"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18020",
+        "desc": "Intensive Writing MR Tutorial"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18021",
+        "desc": "Intensive Writing Tutorial"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18022",
+        "desc": "Intensive Writing Workshop"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18023",
+        "desc": "Intensive Writing-CD Workshop"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18024",
+        "desc": "Intro To Comp & Lit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18025",
+        "desc": "Intro To Drama"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18026",
+        "desc": "Intro To Literary Studies"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18027",
+        "desc": "Intro to Literature (Honors)"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18028",
+        "desc": "Introduction to Drama"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18029",
+        "desc": "Introduction to Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18030",
+        "desc": "Introduction to Shakespeare"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18031",
+        "desc": "Italian American Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18032",
+        "desc": "Jewish Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18033",
+        "desc": "Journalism I"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18034",
+        "desc": "Journalism: Feature Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18035",
+        "desc": "Journalism: News Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18036",
+        "desc": "Latino/a Literature in U.S."
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18037",
+        "desc": "Middle Eastern Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18038",
+        "desc": "Mod American Dram"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18039",
+        "desc": "Mod American Drama"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18040",
+        "desc": "Modern American Drama"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18041",
+        "desc": "Modern European Novel"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18042",
+        "desc": "Modern Poetry"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18043",
+        "desc": "Native American/Indigenous Lit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18044",
+        "desc": "Oral Interpretation"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18045",
+        "desc": "Playwriting"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18046",
+        "desc": "Poetry Writing"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18047",
+        "desc": "Poetry and Composition"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18048",
+        "desc": "Postcolonial Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18049",
+        "desc": "Public Speaking"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18050",
+        "desc": "Queer Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18051",
+        "desc": "Science Fiction"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18052",
+        "desc": "Speech"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18053",
+        "desc": "Speech I"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18054",
+        "desc": "Speech Workshop"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18055",
+        "desc": "Survey of Judak Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18056",
+        "desc": "The American Novel"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18057",
+        "desc": "The Art of the Detective Story"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18058",
+        "desc": "The Short Story"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18059",
+        "desc": "Theater Of Confront"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18060",
+        "desc": "Theatre History"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18061",
+        "desc": "Theatre and Society"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18062",
+        "desc": "Topics in Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18063",
+        "desc": "Women Am & Eng Lit"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18064",
+        "desc": "Women in Literature"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18065",
+        "desc": "World Lit Antiquity to Modern"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18066",
+        "desc": "World Lit Early Modern to Pres"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18067",
+        "desc": "World Lit I"
+    },
+    {
+        "major": "ENGL",
+        "room_num": "18068",
+        "desc": "World Lit Ii"
+    }
+]

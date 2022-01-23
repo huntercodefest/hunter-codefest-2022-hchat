@@ -1,0 +1,592 @@
+[
+    {
+        "major": "PHYS",
+        "room_num": "29684",
+        "desc": "Advanced Quantum Theory"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29685",
+        "desc": "Analytical Dynamics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29686",
+        "desc": "Analytical Mechanics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29687",
+        "desc": "Appl of Machine Learning"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29688",
+        "desc": "Applied Electrodynamics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29689",
+        "desc": "Applied Quantum Mechanics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29690",
+        "desc": "Atomic Physics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29691",
+        "desc": "COLLEGE PHYSICS I"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29692",
+        "desc": "Clas Phys Lab"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29693",
+        "desc": "Classical Physics Laboratory I"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29694",
+        "desc": "College Physics II"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29695",
+        "desc": "Colloquium"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29696",
+        "desc": "Computational Methods in Phys"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29697",
+        "desc": "Conceptual  Physics  Lec"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29698",
+        "desc": "Conceptual Physics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29699",
+        "desc": "Conceptual Physics Laboratory"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29700",
+        "desc": "Condensed Matter Physics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29701",
+        "desc": "Continuum Mech"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29702",
+        "desc": "Coop Educ Placement"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29703",
+        "desc": "Cosmology"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29704",
+        "desc": "Cryophysics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29705",
+        "desc": "Electrical Circuits"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29706",
+        "desc": "Electromagnetic Theory"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29707",
+        "desc": "Electromagnetic Theory I"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29708",
+        "desc": "Electromagnetic Theory II"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29709",
+        "desc": "Electromagnetic Theory."
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29710",
+        "desc": "Electromagnetism"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29711",
+        "desc": "Electromagnetism I"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29712",
+        "desc": "Electromagnetism II"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29713",
+        "desc": "Evol Mod Phys"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29714",
+        "desc": "Fluid Dynamics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29715",
+        "desc": "Foundation Growth Techniques"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29716",
+        "desc": "Foundations of Physics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29717",
+        "desc": "Fundamentals Quantum Mechanics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29718",
+        "desc": "General Physics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29719",
+        "desc": "General Physics I"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29720",
+        "desc": "General Physics I Laboratory"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29721",
+        "desc": "General Physics II"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29722",
+        "desc": "General Physics II Laboratory"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29723",
+        "desc": "Graduate Physics Laboratory"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29724",
+        "desc": "Graduate Research"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29725",
+        "desc": "Heat"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29726",
+        "desc": "Int Methods Math Phys"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29727",
+        "desc": "Inter Methods Math Phys"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29728",
+        "desc": "Inter Methods Math Physics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29729",
+        "desc": "Internship"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29730",
+        "desc": "Internship I"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29731",
+        "desc": "Internship II"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29732",
+        "desc": "Intro Math Physics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29733",
+        "desc": "Intro Mgmt Sci & Engineer Proj"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29734",
+        "desc": "Intro Mod Phys For Eng"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29735",
+        "desc": "Intro Mod Physics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29736",
+        "desc": "Intro Nano & Microfabrication"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29737",
+        "desc": "Intro Phys Sci"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29738",
+        "desc": "Intro Physics of Musical Sound"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29739",
+        "desc": "Intro to Scientific Computing"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29740",
+        "desc": "Introduction to Cosmology"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29741",
+        "desc": "Introduction to Modern Physics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29742",
+        "desc": "Introduction to Relativity"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29743",
+        "desc": "Math Methods Physics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29744",
+        "desc": "Mech 2"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29745",
+        "desc": "Mechanics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29746",
+        "desc": "Mechanics 1"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29747",
+        "desc": "Methods Math Phys"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29748",
+        "desc": "Microwave Instrumentation Lab"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29749",
+        "desc": "Modern Aspects of Physics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29750",
+        "desc": "Modern Optics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29751",
+        "desc": "Modern Physics Laboratory"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29752",
+        "desc": "Nuclear Physics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29753",
+        "desc": "Nuclear&Elem Particle Phys"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29754",
+        "desc": "Optics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29755",
+        "desc": "Optoelectronics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29756",
+        "desc": "Particle Physics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29757",
+        "desc": "Photonics Laboratory"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29758",
+        "desc": "Photopgraphy"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29759",
+        "desc": "Phy For Comp Sci"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29760",
+        "desc": "Phy Of Musical Sound"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29761",
+        "desc": "Phys For Comp Sci"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29762",
+        "desc": "Phys Princ Telecomm"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29763",
+        "desc": "Physical Science"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29764",
+        "desc": "Physics and the Future"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29765",
+        "desc": "Physics for Computer Science 2"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29766",
+        "desc": "Physics for Computer Science I"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29767",
+        "desc": "Physics of Lasers"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29768",
+        "desc": "Physics of Music and Sound"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29769",
+        "desc": "Physics of Musical Sound"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29770",
+        "desc": "Physics of Semiconductors"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29771",
+        "desc": "Plasma Physics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29772",
+        "desc": "Princ Quantum Mechanics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29773",
+        "desc": "Princ of Physics II Lab"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29774",
+        "desc": "Principles of Physics I"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29775",
+        "desc": "Principles of Physics I Lab"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29776",
+        "desc": "Principles of Physics II"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29777",
+        "desc": "Principles of Telecommun"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29778",
+        "desc": "Quantum Mechanics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29779",
+        "desc": "Relativ/Gravitation"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29780",
+        "desc": "Research and Writing Sciences"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29781",
+        "desc": "Rsrch And Writing In Sci"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29782",
+        "desc": "Sci Non-Sci Stud"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29783",
+        "desc": "Sci of Fractals & Applications"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29784",
+        "desc": "Selected Topics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29785",
+        "desc": "Seminar"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29786",
+        "desc": "Senior Research Project I"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29787",
+        "desc": "Senior Research Project II"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29788",
+        "desc": "Sol State Elect"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29789",
+        "desc": "Solid State Electronics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29790",
+        "desc": "Solid State Physics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29791",
+        "desc": "Sound"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29792",
+        "desc": "Special Problems"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29793",
+        "desc": "Special Topics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29794",
+        "desc": "Statistical Mechanics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29795",
+        "desc": "Statistical Physics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29796",
+        "desc": "Theor Sld St Phys"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29797",
+        "desc": "Theory of Quantum Liquids"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29798",
+        "desc": "Thermodyn & Stat Mech"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29799",
+        "desc": "Thermodynamics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29800",
+        "desc": "Thesis"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "29801",
+        "desc": "X-ray Diffraction"
+    }
+]

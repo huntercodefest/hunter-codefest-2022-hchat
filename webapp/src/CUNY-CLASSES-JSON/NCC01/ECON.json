@@ -1,0 +1,27 @@
+[
+    {
+        "major": "ECON",
+        "room_num": "64220",
+        "desc": "Contemporary Economic Issues"
+    },
+    {
+        "major": "ECON",
+        "room_num": "64221",
+        "desc": "Economics of Social Issues"
+    },
+    {
+        "major": "ECON",
+        "room_num": "64222",
+        "desc": "Energy Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "64223",
+        "desc": "Macroeconomics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "64224",
+        "desc": "Microeconomics"
+    }
+]

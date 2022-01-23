@@ -1,0 +1,232 @@
+[
+    {
+        "major": "EDSE",
+        "room_num": "66308",
+        "desc": "Adv Mathematics"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66309",
+        "desc": "Adv Stds-For Lang"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66310",
+        "desc": "Adv Stud in Teaching Sec SS"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66311",
+        "desc": "Advanced English"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66312",
+        "desc": "Advanced Science"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66313",
+        "desc": "Art Teaching"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66314",
+        "desc": "Chall Idea in Sch Math Part I"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66315",
+        "desc": "Chall Ideas in Sch Mth Part II"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66316",
+        "desc": "Curriculum/Suprvis"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66317",
+        "desc": "Disc Lrng&Inter Inst"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66318",
+        "desc": "Integ Curricula/Learn Discov"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66319",
+        "desc": "Pdgy Sec Sch English"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66320",
+        "desc": "Pdgy Sec Sch For Lng"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66321",
+        "desc": "Pdgy Sec Sch Math"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66322",
+        "desc": "Pdgy Sec Sch Science"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66323",
+        "desc": "Pedagogy of Sec Sch English"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66324",
+        "desc": "Pedagogy of Sec Schl Soc Stdys"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66325",
+        "desc": "Pedagogy of Sec Schl in Sci"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66326",
+        "desc": "Pedgy Sec Sch Soc St"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66327",
+        "desc": "Psych Fndtns of Sec Edu"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66328",
+        "desc": "Psych and Social Fdtn of Edu"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66329",
+        "desc": "Reading in the Content Areas"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66330",
+        "desc": "Ref & Analysis Tchng Sec Edu"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66331",
+        "desc": "Sec Educ Elective"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66332",
+        "desc": "Sec Educ Ind Study"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66333",
+        "desc": "Sec Educ Internship"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66334",
+        "desc": "Sec Sch Cur Soc Std"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66335",
+        "desc": "Sec Sch Curr Eng"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66336",
+        "desc": "Sec Sch Curr Math"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66337",
+        "desc": "Sec Schl Curr English"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66338",
+        "desc": "Sec Schl Curr Science"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66339",
+        "desc": "Sec Schl Curr Soc St"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66340",
+        "desc": "Sec School Curriculum in Math"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66341",
+        "desc": "Second Schl Curric in For Lang"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66342",
+        "desc": "Secondary Education Internship"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66343",
+        "desc": "Soc Fndtns Sec Educ"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66344",
+        "desc": "Std Tchg/Sec Ed Para"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66345",
+        "desc": "Student Teaching"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66346",
+        "desc": "Studnt Tchg Adol Ed"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66347",
+        "desc": "Tch Aca Fldwk Sem"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66348",
+        "desc": "Tchg Prac I Adol Ed"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66349",
+        "desc": "Tchg Prac II Adol Ed"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66350",
+        "desc": "Teacher Acad Fldwk Seminar"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66351",
+        "desc": "Teaching/Learning"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66352",
+        "desc": "The Sec Schl Curriculum in Sci"
+    },
+    {
+        "major": "EDSE",
+        "room_num": "66353",
+        "desc": "Youth Culture Lit"
+    }
+]

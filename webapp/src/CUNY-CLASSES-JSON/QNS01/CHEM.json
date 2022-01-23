@@ -1,0 +1,462 @@
+[
+    {
+        "major": "CHEM",
+        "room_num": "24527",
+        "desc": "Adv Biochem"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24528",
+        "desc": "Adv Biochem Lec"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24529",
+        "desc": "Adv Inorg/Org Lab"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24530",
+        "desc": "Adv Phys & Biophys Chem Lab"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24531",
+        "desc": "Advanced Inorganic Chemistry"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24532",
+        "desc": "Advanced Organic Chemistry"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24533",
+        "desc": "Advanced Organic Chemistry I"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24534",
+        "desc": "Advanced Seminar"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24535",
+        "desc": "Basic Biochemistry"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24536",
+        "desc": "Basic Biochemistry Laboratory"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24537",
+        "desc": "Basic Chemistry"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24538",
+        "desc": "Basic Chemistry Laboratory"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24539",
+        "desc": "Basic Org & Biochem"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24540",
+        "desc": "Basic Org Chem Lab"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24541",
+        "desc": "Basic Organic Chemistry"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24542",
+        "desc": "Biochem Nutrition"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24543",
+        "desc": "Biochemistry"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24544",
+        "desc": "Biochemistry I"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24545",
+        "desc": "Biochemistry II"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24546",
+        "desc": "Biochemistry Laboratory"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24547",
+        "desc": "Chem Therm&Kinetics"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24548",
+        "desc": "Chem Thermodynamics"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24549",
+        "desc": "Chem in Mod Society Lab"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24550",
+        "desc": "Chemistry for Today"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24551",
+        "desc": "Chemistry in Modern Society"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24552",
+        "desc": "Cooperative Study"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24553",
+        "desc": "Dir Study-Adv Chem"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24554",
+        "desc": "Environ Analyt Chem"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24555",
+        "desc": "Environmental Chemistry"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24556",
+        "desc": "Gen Chem"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24557",
+        "desc": "General Chemistry"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24558",
+        "desc": "General Chemistry 1"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24559",
+        "desc": "General Chemistry I"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24560",
+        "desc": "General Chemistry II"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24561",
+        "desc": "General Physics"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24562",
+        "desc": "Inorganic Chemistry"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24563",
+        "desc": "Instrumental Analysis"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24564",
+        "desc": "Instrumental Methods"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24565",
+        "desc": "Instrumental Methods Lab"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24566",
+        "desc": "Intr Rsch Chem&Bioch"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24567",
+        "desc": "Intro Biochem"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24568",
+        "desc": "Intro Chem 1"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24569",
+        "desc": "Intro Chem 2"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24570",
+        "desc": "Intro Chem Tech"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24571",
+        "desc": "Intro Chemistry"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24572",
+        "desc": "Intro Chemistry 2"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24573",
+        "desc": "Intro Coll Chem"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24574",
+        "desc": "Intro To Coll Chem 1"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24575",
+        "desc": "Intro To Coll Chem 2"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24576",
+        "desc": "Introduc Chem"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24577",
+        "desc": "Introductory Quantum Chemistry"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24578",
+        "desc": "Lab Techinique Analy&Phys Chem"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24579",
+        "desc": "Lab Technique Org&Inorg Chem"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24580",
+        "desc": "Mod Concpt Gen Chem"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24581",
+        "desc": "Org Chem"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24582",
+        "desc": "Organic Chem II"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24583",
+        "desc": "Organic Chem Lab II"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24584",
+        "desc": "Organic Chemistry I"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24585",
+        "desc": "Organic Chemistry Laboratory I"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24586",
+        "desc": "Phys Chem"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24587",
+        "desc": "Phys Chem 1"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24588",
+        "desc": "Phys Chem 2 Lec"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24589",
+        "desc": "Phys Inorg Chem Lab"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24590",
+        "desc": "Phys Meth Struc Det"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24591",
+        "desc": "Phys Methods Of Struc Deter"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24592",
+        "desc": "Physical Biochemistry"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24593",
+        "desc": "Physical Chem 2"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24594",
+        "desc": "Physical Chemistry II"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24595",
+        "desc": "Physical Chemistry Laboratory"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24596",
+        "desc": "Physical Inorganic Laboratory"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24597",
+        "desc": "Pract In Chem Educ"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24598",
+        "desc": "Practicum In Chem Ed"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24599",
+        "desc": "Practicum In Chem Edu"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24600",
+        "desc": "Qual Organic Anal"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24601",
+        "desc": "Quant Analysis"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24602",
+        "desc": "Quant Chemistry & Spectroscopy"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24603",
+        "desc": "Quant&Qual Analysis"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24604",
+        "desc": "Research"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24605",
+        "desc": "Rsch Chem & Biochem"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24606",
+        "desc": "Selected Topics in Chemistry"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24607",
+        "desc": "Seminar"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24608",
+        "desc": "Senior Thesis"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24609",
+        "desc": "Spectro Methds of Stru Deter"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24610",
+        "desc": "Spectroscopy"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24611",
+        "desc": "Theoretical Chemistry"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24612",
+        "desc": "Thermo Bio Sys"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24613",
+        "desc": "Tutorial In Chem"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24614",
+        "desc": "Vt:Top Adv Phys Chem"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24615",
+        "desc": "Vt:Top Analyt Chem"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24616",
+        "desc": "Vt:Topics Inorg Chem"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24617",
+        "desc": "Vt:Topics Organ Chem"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "24618",
+        "desc": "Vt:Topics Phys Chem"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "major": "MDAS",
+        "room_num": "18473",
+        "desc": "EMC/Para Clin Int III"
+    },
+    {
+        "major": "MDAS",
+        "room_num": "18474",
+        "desc": "EMC/Para Clinic Intrn I"
+    },
+    {
+        "major": "MDAS",
+        "room_num": "18475",
+        "desc": "Emc/Par Clin Int II"
+    },
+    {
+        "major": "MDAS",
+        "room_num": "18476",
+        "desc": "Emer Med Care/Par III"
+    },
+    {
+        "major": "MDAS",
+        "room_num": "18477",
+        "desc": "Emer Med Care/Para II"
+    },
+    {
+        "major": "MDAS",
+        "room_num": "18478",
+        "desc": "Emerg Med Care Par I"
+    },
+    {
+        "major": "MDAS",
+        "room_num": "18479",
+        "desc": "Emerg Medical Care/Paramed IV"
+    },
+    {
+        "major": "MDAS",
+        "room_num": "18480",
+        "desc": "Emergency Medical Care"
+    }
+]

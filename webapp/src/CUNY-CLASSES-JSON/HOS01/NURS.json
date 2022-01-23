@@ -1,0 +1,62 @@
+[
+    {
+        "major": "NURS",
+        "room_num": "64905",
+        "desc": "Clinical Nursing II"
+    },
+    {
+        "major": "NURS",
+        "room_num": "64906",
+        "desc": "Fund Nursing Practice"
+    },
+    {
+        "major": "NURS",
+        "room_num": "64907",
+        "desc": "LPN Clinical Nursing I"
+    },
+    {
+        "major": "NURS",
+        "room_num": "64908",
+        "desc": "Maternal/Child"
+    },
+    {
+        "major": "NURS",
+        "room_num": "64909",
+        "desc": "Nur Care Childrearing Fam II"
+    },
+    {
+        "major": "NURS",
+        "room_num": "64910",
+        "desc": "Nur Care Mental Ill"
+    },
+    {
+        "major": "NURS",
+        "room_num": "64911",
+        "desc": "Nursing Care Chldbrng Fam I"
+    },
+    {
+        "major": "NURS",
+        "room_num": "64912",
+        "desc": "Nursing Care of the Adult I"
+    },
+    {
+        "major": "NURS",
+        "room_num": "64913",
+        "desc": "Nursing Care of the Adult II"
+    },
+    {
+        "major": "NURS",
+        "room_num": "64914",
+        "desc": "Nursing Trends and Issues"
+    },
+    {
+        "major": "NURS",
+        "room_num": "64915",
+        "desc": "Pharmacology"
+    },
+    {
+        "major": "NURS",
+        "room_num": "64916",
+        "desc": "Transition into Nursing"
+    }
+]

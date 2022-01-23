@@ -1,0 +1,402 @@
+[
+    {
+        "major": "EDUC",
+        "room_num": "49842",
+        "desc": "Adult Education"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49843",
+        "desc": "Adv Child Developmnt"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49844",
+        "desc": "Adv Ed Psych Bi-Ling"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49845",
+        "desc": "Adv Educ Psychology"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49846",
+        "desc": "Adv Hum Dev:Adol/Sec"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49847",
+        "desc": "Adv Soc Fdtns B-Ling"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49848",
+        "desc": "Adv Social Foundations"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49849",
+        "desc": "Aff & Cog Dev:0 To 3"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49850",
+        "desc": "Aff & Cog Dev:3 To 6"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49851",
+        "desc": "Anthropology & Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49852",
+        "desc": "Anthropology in Amer Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49853",
+        "desc": "Asian Immig & Amer Educ System"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49854",
+        "desc": "Asian Immig&American Educ Sys"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49855",
+        "desc": "Basic Statistics"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49856",
+        "desc": "Civil Rights Move U.S. & Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49857",
+        "desc": "Civil Rights Movmt U.S & Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49858",
+        "desc": "Community Resource Counseling"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49859",
+        "desc": "Comparative Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49860",
+        "desc": "Conpctns Gft/Tal"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49861",
+        "desc": "Creativity"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49862",
+        "desc": "Crisis Intervention"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49863",
+        "desc": "Dev Iss Children-Color"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49864",
+        "desc": "Doctoral Directed Readings"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49865",
+        "desc": "Ed Tech/Clssrm Tchr"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49866",
+        "desc": "Educ Evaluation"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49867",
+        "desc": "Educ Tests & Measurements"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49868",
+        "desc": "Educ of Minorities-U.S"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49869",
+        "desc": "Ed\u2019l Tests & Msrmnts"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49870",
+        "desc": "Eur Bckgrd Amer Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49871",
+        "desc": "Fdtns Res49872: EDUC,\"Female Sexuality"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49873",
+        "desc": "Fieldwork in Educ Fdtns"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49874",
+        "desc": "Fldwrk in Educ Fdtns"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49875",
+        "desc": "Gftd Wksp 1"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49876",
+        "desc": "Gftd Wksp 2"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49877",
+        "desc": "Grp Process-Ed Stngs"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49878",
+        "desc": "Hist of the Amer School"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49879",
+        "desc": "History of Education"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49880",
+        "desc": "Host School Seminars"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49881",
+        "desc": "Ind Stdy Gifted Ed"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49882",
+        "desc": "Indep Research"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49883",
+        "desc": "Independent Research"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49884",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49885",
+        "desc": "Intro to Urban Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49886",
+        "desc": "Lead Just49887: EDUC,\"Leader Scho Comm Res Sem"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49888",
+        "desc": "Leadership for Change"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49889",
+        "desc": "Migra Grps-Met Areas"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49890",
+        "desc": "Mntl & Educ Testing-Teachers"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49891",
+        "desc": "Philosophy of Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49892",
+        "desc": "Politics of Urb Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49893",
+        "desc": "Pract:Working with Adults"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49894",
+        "desc": "Psy Fdtns1:Elementry Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49895",
+        "desc": "Psy Fdtns1:Growth & Dev"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49896",
+        "desc": "Psy Fdtns2:Elem Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49897",
+        "desc": "Psy Foundations 2: Ed Psych"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49898",
+        "desc": "Psych Fdtns & Educ Organ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49899",
+        "desc": "Psychology of Aging"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49900",
+        "desc": "Pub Policy-Pub Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49901",
+        "desc": "Race49902: EDUC,\"School and Community"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49903",
+        "desc": "Sem Stdy Gft/Tal Chl"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49904",
+        "desc": "Sem: Educ Research"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49905",
+        "desc": "Sem:Beh Mod&Wgt Cont"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49906",
+        "desc": "Sem:Rights of Children"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49907",
+        "desc": "Sem:Spec Topics"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49908",
+        "desc": "Sex Roles-Family and School"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49909",
+        "desc": "Soc Fdtns:Elementry Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49910",
+        "desc": "Soc49911: EDUC,\"Soc/Emot Dev:Gft/Tal"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49912",
+        "desc": "Std Tch: Dance"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49913",
+        "desc": "Std. Tch.: Biology"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49914",
+        "desc": "Std. Tch.: Chemistry"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49915",
+        "desc": "Std. Tch.: Chinese"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49916",
+        "desc": "Std. Tch.: French"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49917",
+        "desc": "Std. Tch.: Math"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49918",
+        "desc": "Std. Tch.: Soc. Stud"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49919",
+        "desc": "Std. Tch.: Spanish"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49920",
+        "desc": "Student Teaching ENG Grds 7-12"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49921",
+        "desc": "Student Teaching: Physics"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49922",
+        "desc": "Teachers & The Law"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49923",
+        "desc": "Women in Higher Educ"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49924",
+        "desc": "Women in Higher Education"
+    },
+    {
+        "major": "EDUC",
+        "room_num": "49925",
+        "desc": "Writing Comp Ed Plan"
+    }
+]

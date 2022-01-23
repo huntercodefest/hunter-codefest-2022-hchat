@@ -1,0 +1,637 @@
+[
+    {
+        "major": "MUSI",
+        "room_num": "13824",
+        "desc": "2ndry Instrum Ensmb1"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13825",
+        "desc": "2ndry Instrum Ensmb2"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13826",
+        "desc": "Advanced Conducting"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13827",
+        "desc": "Advanced Ear Training"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13828",
+        "desc": "Advanced Musical Analysis"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13829",
+        "desc": "Advanced Musicianship"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13830",
+        "desc": "American Popular Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13831",
+        "desc": "Assess PS Instrumental Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13832",
+        "desc": "Brass I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13833",
+        "desc": "Brass II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13834",
+        "desc": "Career Development for Music P"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13835",
+        "desc": "Chamber Choir"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13836",
+        "desc": "Chamber Ensemble"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13837",
+        "desc": "Choral Literature"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13838",
+        "desc": "Chorus"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13839",
+        "desc": "College Choir"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13840",
+        "desc": "Composition"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13841",
+        "desc": "Composition I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13842",
+        "desc": "Composition II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13843",
+        "desc": "Concert Band"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13844",
+        "desc": "Conducting"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13845",
+        "desc": "Creating Music with Computers"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13846",
+        "desc": "Definng Mmnts Film Scoring His"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13847",
+        "desc": "Ensmbl Voice&Instrum"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13848",
+        "desc": "Entrepreneurship Music Indstry"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13849",
+        "desc": "Eval Assess Criteria/Tech/Mus"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13850",
+        "desc": "Folk and Traditional Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13851",
+        "desc": "Form and Analysis I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13852",
+        "desc": "Form and Analysis II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13853",
+        "desc": "Fugue I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13854",
+        "desc": "Fugue II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13855",
+        "desc": "Fundamentals of Film Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13856",
+        "desc": "Fundamentals of Music Theory"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13857",
+        "desc": "Group Piano 2"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13858",
+        "desc": "Group Piano 3"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13859",
+        "desc": "Group Piano I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13860",
+        "desc": "Guitar 2"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13861",
+        "desc": "Guitar Ensemble"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13862",
+        "desc": "Guitar I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13863",
+        "desc": "History of Jazz"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13864",
+        "desc": "Independent Studies in Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13865",
+        "desc": "Independent Study Music Theory"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13866",
+        "desc": "Independent Study:Mus History"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13867",
+        "desc": "Instruct Princ Instr or Voice"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13868",
+        "desc": "Instrumental Mus Edu"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13869",
+        "desc": "Instrumental Music Methods"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13870",
+        "desc": "Instrumntl Lab Ensmb"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13871",
+        "desc": "Interm Non-Western Concepts"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13872",
+        "desc": "Intro Struct Music 1"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13873",
+        "desc": "Intro Struct Music 2"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13874",
+        "desc": "Intro To Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13875",
+        "desc": "Intro to Music History & Cult"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13876",
+        "desc": "Introduction to Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13877",
+        "desc": "Introduction to Music Therapy"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13878",
+        "desc": "Italian Opera"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13879",
+        "desc": "Jazz Band"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13880",
+        "desc": "Jazz Lit&Evol -1950"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13881",
+        "desc": "Jazz: Literature and Evolution"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13882",
+        "desc": "Latin Band"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13883",
+        "desc": "Lit of Music: Chamber Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13884",
+        "desc": "Master Composers"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13885",
+        "desc": "Mus/Lit-Music Educat"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13886",
+        "desc": "Music Internship"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13887",
+        "desc": "Music Since 1945"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13888",
+        "desc": "Music and the Brain"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13889",
+        "desc": "Music of Baroque & Classical"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13890",
+        "desc": "Music of Middle Ages&Renaissan"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13891",
+        "desc": "Music of Romantic & Early Modn"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13892",
+        "desc": "MusicComputers&MultimediaPedag"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13893",
+        "desc": "Musicianship I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13894",
+        "desc": "Musicianship II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13895",
+        "desc": "Musicianship III"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13896",
+        "desc": "Musicianship IV"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13897",
+        "desc": "New Jazz Lit for Music Eductrs"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13898",
+        "desc": "New Wind Lit for Music Eductrs"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13899",
+        "desc": "Opera 1830-20th Cent"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13900",
+        "desc": "Opera: 1600 to 1830"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13901",
+        "desc": "Orchestra"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13902",
+        "desc": "Orchestral Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13903",
+        "desc": "Orchestration I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13904",
+        "desc": "Orchestration II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13905",
+        "desc": "Percuss Instrument Music Edu"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13906",
+        "desc": "Percuss Instrumental Music Edu"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13907",
+        "desc": "Percussion"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13908",
+        "desc": "Percussion Ensemble"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13909",
+        "desc": "Percussion Instru Music Edu"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13910",
+        "desc": "Perf Pract-Baroque to Present"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13911",
+        "desc": "Performance I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13912",
+        "desc": "Performance II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13913",
+        "desc": "Performance III"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13914",
+        "desc": "Performance IV Graduation Reci"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13915",
+        "desc": "Piano Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13916",
+        "desc": "Piano for Music Teachers"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13917",
+        "desc": "Practicum in Music Therapy"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13918",
+        "desc": "Public-Schl Ensemble Progrmng"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13919",
+        "desc": "Recording Tech. & Studio Prod."
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13920",
+        "desc": "Rhythmic Conpts of India&Ghana"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13921",
+        "desc": "Scoring for Media"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13922",
+        "desc": "Senior Project"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13923",
+        "desc": "Singing for the Stage"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13924",
+        "desc": "Spec Techniques in Piano/Tchrs"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13925",
+        "desc": "Spec-Topics-Mus Perf"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13926",
+        "desc": "Special Topics - Music History"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13927",
+        "desc": "Special Topics in Music Theory"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13928",
+        "desc": "Strings I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13929",
+        "desc": "Strings II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13930",
+        "desc": "The Art Song"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13931",
+        "desc": "The Chamber Choir"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13932",
+        "desc": "The College Choir"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13933",
+        "desc": "The Concerto"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13934",
+        "desc": "The Operas of Mozart"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13935",
+        "desc": "The Operas of Wagner"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13936",
+        "desc": "TheAmerican Musical Experience"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13937",
+        "desc": "Theory I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13938",
+        "desc": "Theory II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13939",
+        "desc": "Theory III"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13940",
+        "desc": "Theory IV"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13941",
+        "desc": "Topics in Ethnomusicology"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13942",
+        "desc": "Tops:Instru. Mus Ed"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13943",
+        "desc": "Tpcs:Inst.Music Educ"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13944",
+        "desc": "Twentieth-Century Opera"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13945",
+        "desc": "Vocal Pedagogy"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13946",
+        "desc": "Voice and Diction 1"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13947",
+        "desc": "Voice and Diction 2"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13948",
+        "desc": "Woodwinds I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13949",
+        "desc": "Woodwinds II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "13950",
+        "desc": "World Music"
+    }
+]

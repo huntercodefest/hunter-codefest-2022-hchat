@@ -1,0 +1,926 @@
+[
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69768",
+        "room_desc": "Accult & Cult Chnge"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69769",
+        "room_desc": "Africa South of the Sahara"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69770",
+        "room_desc": "American Urban Exp"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69771",
+        "room_desc": "American Urban Experience"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69772",
+        "room_desc": "Anth Advance Elect-Transfer"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69773",
+        "room_desc": "Anth Hlth & Disease"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69774",
+        "room_desc": "Anthr on Intercultural Comm"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69775",
+        "room_desc": "Anthro of Lang Sex & Gender"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69776",
+        "room_desc": "Anthropological Theory"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69777",
+        "room_desc": "Anthropology Abroad"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69778",
+        "room_desc": "Anthropology Health & Disease"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69779",
+        "room_desc": "Anthropology of Food"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69780",
+        "room_desc": "Anthropology of Law and Order"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69781",
+        "room_desc": "Anthropology of Media"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69782",
+        "room_desc": "Anthropology of Race"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69783",
+        "room_desc": "Anthropology of Religion"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69784",
+        "room_desc": "Anthropology of Sex"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69785",
+        "room_desc": "Anthropology of the Arts 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69786",
+        "room_desc": "Appro Archeol Theory"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69787",
+        "room_desc": "Approaches To Arch Theory"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69788",
+        "room_desc": "Arch Field School"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69789",
+        "room_desc": "Arch Method & Theory"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69790",
+        "room_desc": "Arch of Africa69791: ANTH,\"Archaeol Field"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69792",
+        "room_desc": "Archaeol Field Sch"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69793",
+        "room_desc": "Archaeol Field:Site Supervsion"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69794",
+        "room_desc": "Archaeol Site Superv"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69795",
+        "room_desc": "Archaeology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69796",
+        "room_desc": "Archaeology Laboratory"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69797",
+        "room_desc": "Archaeology in Biblical Lands"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69798",
+        "room_desc": "Before History"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69799",
+        "room_desc": "Buried Treasures"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69800",
+        "room_desc": "Case Studies in Anthropology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69801",
+        "room_desc": "Climate Justice & Caribbean"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69802",
+        "room_desc": "Colloq Psych Anth"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69803",
+        "room_desc": "Colloquium Psychological Anth"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69804",
+        "room_desc": "Compar Soc Systs"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69805",
+        "room_desc": "Cross-Cult Interac"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69806",
+        "room_desc": "Cult & Personality"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69807",
+        "room_desc": "Cult69808: ANTH,\"Cultural Lndscap His"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69809",
+        "room_desc": "Culture and Society"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69810",
+        "room_desc": "Cultures & Transformations"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69811",
+        "room_desc": "Digging the Past"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69812",
+        "room_desc": "Digital Methods In Anth"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69813",
+        "room_desc": "Discov In Archaeol"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69814",
+        "room_desc": "Economic Anthropology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69815",
+        "room_desc": "Endanger69816: ANTH,\"Ethno Theory & Meth"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69817",
+        "room_desc": "Ethnographic Field"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69818",
+        "room_desc": "Ethnographic Theory & Methods"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69819",
+        "room_desc": "Ethnography"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69820",
+        "room_desc": "Europe"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69821",
+        "room_desc": "Evoc Of Man"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69822",
+        "room_desc": "Factor Dev Behavior"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69823",
+        "room_desc": "Fieldwork in Anthropology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69824",
+        "room_desc": "Forensic Anthr:Dig"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69825",
+        "room_desc": "Forensic Anthropology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69826",
+        "room_desc": "Gen Next: Adol & Youth Culture"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69827",
+        "room_desc": "Gender69828: ANTH,\"Health and Globalization"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69829",
+        "room_desc": "Historical Linguistics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69830",
+        "room_desc": "Human Anatomy and Physiology 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69831",
+        "room_desc": "Human Anatomy and Physiology 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69832",
+        "room_desc": "Human Evolutionary Anatomy"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69833",
+        "room_desc": "Human Origins"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69834",
+        "room_desc": "Human Osteology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69835",
+        "room_desc": "Human Paleontology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69836",
+        "room_desc": "Human Variation"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69837",
+        "room_desc": "Independent Research I"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69838",
+        "room_desc": "Independent Research II"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69839",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69840",
+        "room_desc": "India:Globl Health Ethnography"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69841",
+        "room_desc": "Intersessn Archaeol Field Schl"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69842",
+        "room_desc": "Intr Cultr/Ling Anth"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69843",
+        "room_desc": "Intr Geographic Info Sys (GIS)"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69844",
+        "room_desc": "Intro"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69845",
+        "room_desc": "Intro Anthrop"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69846",
+        "room_desc": "Intro Arch/Phys Anth"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69847",
+        "room_desc": "Intro Archaeol"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69848",
+        "room_desc": "Intro Archaeology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69849",
+        "room_desc": "Intro Linguist 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69850",
+        "room_desc": "Intro Physcl Antho"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69851",
+        "room_desc": "Intro Physcl Anthro"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69852",
+        "room_desc": "Intro Social Welfare"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69853",
+        "room_desc": "Intro To Archeology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69854",
+        "room_desc": "Intro To Ling Anthr"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69855",
+        "room_desc": "Intro To Sociology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69856",
+        "room_desc": "Introduction"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69857",
+        "room_desc": "Introduction to Archaeology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69858",
+        "room_desc": "Introduction to Ethnography"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69859",
+        "room_desc": "Introduction to Zooarchaeology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69860",
+        "room_desc": "Juvenile Delinquency"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69861",
+        "room_desc": "Lang Loss:Culture Politcs&Self"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69862",
+        "room_desc": "Language & Media"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69863",
+        "room_desc": "Language and Culture"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69864",
+        "room_desc": "Latin America"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69865",
+        "room_desc": "Linguistic Anthr"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69866",
+        "room_desc": "Mid East & N. Africa"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69867",
+        "room_desc": "Middle E & N Africa"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69868",
+        "room_desc": "N American Indians"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69869",
+        "room_desc": "Near Eastern Archaeology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69870",
+        "room_desc": "New World Prehistor"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69871",
+        "room_desc": "North American Indians"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69872",
+        "room_desc": "Old World Archaeology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69873",
+        "room_desc": "Osteology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69874",
+        "room_desc": "Paleoanthropology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69875",
+        "room_desc": "People and Language"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69876",
+        "room_desc": "People69877: ANTH,\"Peoples Of India"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69878",
+        "room_desc": "Political Anthropology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69879",
+        "room_desc": "Preprofessional Internships"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69880",
+        "room_desc": "Priate Behav"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69881",
+        "room_desc": "Primate Behavior"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69882",
+        "room_desc": "Primate Evol: The Fossil Recrd"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69883",
+        "room_desc": "Primate Evolutn: Fossil Record"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69884",
+        "room_desc": "Primates"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69885",
+        "room_desc": "Primitive Folklore"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69886",
+        "room_desc": "Primote Behavior"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69887",
+        "room_desc": "Psychological Anthropology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69888",
+        "room_desc": "Reading Anthropologcal Studies"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69889",
+        "room_desc": "Reading In Anthr St"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69890",
+        "room_desc": "Res Lit Cult & Ling"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69891",
+        "room_desc": "Research Methods Anthropology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69892",
+        "room_desc": "Rsrch Cultural &Lingustic Anth"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69893",
+        "room_desc": "Scientific Revolutions"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69894",
+        "room_desc": "Selected Topic in Anthropology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69895",
+        "room_desc": "Sem Anthrop Theory"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69896",
+        "room_desc": "Seminar 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69897",
+        "room_desc": "Seminar 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69898",
+        "room_desc": "Seminar I"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69899",
+        "room_desc": "Seminar II"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69900",
+        "room_desc": "Seminar in Museum Techniques"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69901",
+        "room_desc": "Seminar in Zooarchaeology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69902",
+        "room_desc": "Senior Seminar in Anthropology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69903",
+        "room_desc": "Sexual Behavior"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69904",
+        "room_desc": "Sociolinguistics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69905",
+        "room_desc": "Special Topic"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69906",
+        "room_desc": "Special Topic:Mini"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69907",
+        "room_desc": "Special Topics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69908",
+        "room_desc": "Special Topics People &Culture"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69909",
+        "room_desc": "Special Topics in Anthropology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69910",
+        "room_desc": "Studies in Forensic Science"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69911",
+        "room_desc": "Summ Archaeological Field Schl"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69912",
+        "room_desc": "Summer Archaeol Field School"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69913",
+        "room_desc": "Summer Ethnographic Field Schl"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69914",
+        "room_desc": "Texting and Talking"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69915",
+        "room_desc": "The Family"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69916",
+        "room_desc": "The Middle East & North Africa"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69917",
+        "room_desc": "The Pacific"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69918",
+        "room_desc": "Theory & Mythology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69919",
+        "room_desc": "Urban & Transnational Anthr"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69920",
+        "room_desc": "Urban Anthropology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69921",
+        "room_desc": "Urban Archaeology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69922",
+        "room_desc": "Visual Anthropology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69923",
+        "room_desc": "Women Anth Perspec"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69924",
+        "room_desc": "Women:Anthropologcal Perspctve"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69925",
+        "room_desc": "World Prehistory"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "69926",
+        "room_desc": "Zooarchaeology"
+    }
+]

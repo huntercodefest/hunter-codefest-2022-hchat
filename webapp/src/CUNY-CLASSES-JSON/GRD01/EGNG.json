@@ -1,0 +1,1522 @@
+[
+    {
+        "major": "EGNG",
+        "room_num": "4689",
+        "desc": "Adaptive Digit Sigl"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4690",
+        "desc": "Adv Anlytc Dynamics"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4691",
+        "desc": "Adv Chem Thermodynm"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4692",
+        "desc": "Adv Comm Theory"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4693",
+        "desc": "Adv Graph Theory"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4694",
+        "desc": "Adv Hydraulics"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4695",
+        "desc": "Adv Mat Engr"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4696",
+        "desc": "Adv Material Mechan"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4697",
+        "desc": "Adv Operating Syst"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4698",
+        "desc": "Adv Reinforced Cond"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4699",
+        "desc": "Adv Soil Mechanic I"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4700",
+        "desc": "Adv Stress Analysis"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4701",
+        "desc": "Adv Structure Desgn"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4702",
+        "desc": "Advanced Kinetics"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4703",
+        "desc": "Advanced Numerical Analysis"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4704",
+        "desc": "Advanced Seminar"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4705",
+        "desc": "Advanced Topic"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4706",
+        "desc": "Air Pollution"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4707",
+        "desc": "Airport Dsgn & Plan"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4708",
+        "desc": "Algeb Code Thry"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4709",
+        "desc": "Appl Fluid Mechanic"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4710",
+        "desc": "Appl Part Differential Equatns"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4711",
+        "desc": "Applied Algebra"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4712",
+        "desc": "Applied Hydraulics"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4713",
+        "desc": "Applied Pattern Rec"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4714",
+        "desc": "Bas Lab Tech Analy"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4715",
+        "desc": "Behav of Inelast Bod & Struct"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4716",
+        "desc": "Biofluid Transfer"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4717",
+        "desc": "Biol Systm Env Enrg"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4718",
+        "desc": "Biomed:Signal Proc"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4719",
+        "desc": "Biomedical Engineering Seminar"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4720",
+        "desc": "Biosolid Mechanics"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4721",
+        "desc": "Boundry Element Mth"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4722",
+        "desc": "Catalyst Des React"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4723",
+        "desc": "Cell and Tissue Mechanics"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4724",
+        "desc": "Cell and Tissue Transport"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4725",
+        "desc": "Cell and Tissue-Mater Interact"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4726",
+        "desc": "Cell/Tiss Transport"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4727",
+        "desc": "Chem React Kinetics"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4728",
+        "desc": "Columbia/Device Fab"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4729",
+        "desc": "Combinatorial Cmptn"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4730",
+        "desc": "Commun Electronics"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4731",
+        "desc": "Communicat Electrnc"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4732",
+        "desc": "Communicat Engin Ii"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4733",
+        "desc": "Communicat Networks"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4734",
+        "desc": "Communicat Systems"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4735",
+        "desc": "Communicat Thry"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4736",
+        "desc": "Communications I"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4737",
+        "desc": "Comp Comm Systems"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4738",
+        "desc": "Complexity/Computat"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4739",
+        "desc": "Composite Materials"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4740",
+        "desc": "Computability"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4741",
+        "desc": "Computer Science"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4742",
+        "desc": "Computer Visions"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4743",
+        "desc": "Concrete Arch/Plate"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4744",
+        "desc": "Conduct Heat Transf"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4745",
+        "desc": "Continuum Mechanics"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4746",
+        "desc": "Control Theory"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4747",
+        "desc": "Control Theory I"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4748",
+        "desc": "Convect Heat Trans"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4749",
+        "desc": "Cptr Aid Desgn Alys"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4750",
+        "desc": "Cptr Aided Analysis"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4751",
+        "desc": "Cptr Comm Networks"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4752",
+        "desc": "Cptr Control System"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4753",
+        "desc": "Cptr Networking"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4754",
+        "desc": "Cptr Science"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4755",
+        "desc": "Data Anyl/Stat Infr"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4756",
+        "desc": "Data Base Systems"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4757",
+        "desc": "Data Communications"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4758",
+        "desc": "Data Network Design"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4759",
+        "desc": "Database Systems I"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4760",
+        "desc": "Design I"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4761",
+        "desc": "Digit Signal Proces"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4762",
+        "desc": "Digital Computers"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4763",
+        "desc": "Digital Cptr System"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4764",
+        "desc": "Digital Data Commun"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4765",
+        "desc": "Digital Signal Proc"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4766",
+        "desc": "Digital Speech Proc"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4767",
+        "desc": "Digital Sys Architc"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4768",
+        "desc": "Dirct Energy Conver"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4769",
+        "desc": "Dissertation Supervision"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4770",
+        "desc": "Dissrt Supervision"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4771",
+        "desc": "Distillation"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4772",
+        "desc": "Doct Dissrt Resch"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4773",
+        "desc": "Drct Energy Cnvrsn"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4774",
+        "desc": "Dsp Algorhythm"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4775",
+        "desc": "Elec Power Syst"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4776",
+        "desc": "Electro-Optics"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4777",
+        "desc": "Electrodynamics"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4778",
+        "desc": "Electromagnetics I"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4779",
+        "desc": "Electromagnetics Ii"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4780",
+        "desc": "Electron Circuits I"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4781",
+        "desc": "Electronic Circuits"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4782",
+        "desc": "Electronic Devices"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4783",
+        "desc": "Electronics I"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4784",
+        "desc": "Elem Power System"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4785",
+        "desc": "Energy & Pollution"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4786",
+        "desc": "Engergy Conversion"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4787",
+        "desc": "Engin Probabil Ii"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4788",
+        "desc": "Engineer Hydrology"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4789",
+        "desc": "Engineering & Business Law"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4790",
+        "desc": "Engineering Law"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4791",
+        "desc": "Engineering Math"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4792",
+        "desc": "Engineering Probability I"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4793",
+        "desc": "Engineering Systems Management"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4794",
+        "desc": "Engineering Systems Mgmt"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4795",
+        "desc": "Engr Decision Thory"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4796",
+        "desc": "Engr System Managmt"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4797",
+        "desc": "Envirn/Unit Process"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4798",
+        "desc": "Environ Engin Anlys"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4799",
+        "desc": "Environmental Engin"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4800",
+        "desc": "Exper Soil Mechancs"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4801",
+        "desc": "Feedback Control"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4802",
+        "desc": "Fiber Optics Comm"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4803",
+        "desc": "Finite Element Methods"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4804",
+        "desc": "Finite Element Mthds in Engin"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4805",
+        "desc": "Flexible/Rigid Pav"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4806",
+        "desc": "Flo Thru Porous Med"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4807",
+        "desc": "Fluid Dynamic Stability"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4808",
+        "desc": "Fluid Mech/Combustn"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4809",
+        "desc": "Fluid Mechanics"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4810",
+        "desc": "Fluid Particle Sysm"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4811",
+        "desc": "Fluid Technology"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4812",
+        "desc": "Fluidization Technl"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4813",
+        "desc": "Foundat of Fluid Mechanics II"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4814",
+        "desc": "Foundation Engineer"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4815",
+        "desc": "Foundatns of Fluid Mechanics I"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4816",
+        "desc": "Fourier Optics"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4817",
+        "desc": "Fracture Mechanics"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4818",
+        "desc": "Funct of a Complex Variable"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4819",
+        "desc": "GIS Programming"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4820",
+        "desc": "Graduate Project"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4821",
+        "desc": "Graph Theory"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4822",
+        "desc": "Heat Transfer"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4823",
+        "desc": "Heating4824: EGNG,\"High Speed Networks"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4825",
+        "desc": "Hydraulics"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4826",
+        "desc": "Hydrology/Contamint"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4827",
+        "desc": "Image/Proces Recogn"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4828",
+        "desc": "Imaging/Imag Proces"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4829",
+        "desc": "Indust Wastwat Tret"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4830",
+        "desc": "Info/Coding Thoery"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4831",
+        "desc": "Inform Thry/Coding"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4832",
+        "desc": "Integ Circuit Desgn"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4833",
+        "desc": "Integrated Circs Ii"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4834",
+        "desc": "Interfacial Phenom"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4835",
+        "desc": "Intro Neural Netwrk"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4836",
+        "desc": "Intro To Lasers"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4837",
+        "desc": "Intro To Transport"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4838",
+        "desc": "Intro to Engineering Analysis"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4839",
+        "desc": "Intro to GIS"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4840",
+        "desc": "Intro to Numerical Methods"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4841",
+        "desc": "Irreversible Thermodynamics"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4842",
+        "desc": "Kinemat Analysis"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4843",
+        "desc": "Kinematcs & Dynamcs"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4844",
+        "desc": "Knowledge Base Sysm"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4845",
+        "desc": "Linear Feedback Sys"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4846",
+        "desc": "Linear Sys Anlyis 3"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4847",
+        "desc": "Linear Systems"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4848",
+        "desc": "Linear Systems Ii"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4849",
+        "desc": "Local Area Network"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4850",
+        "desc": "Local Area Networks"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4851",
+        "desc": "Management Info Systems"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4852",
+        "desc": "Mass Transfer"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4853",
+        "desc": "Master Thesis Resch"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4854",
+        "desc": "Master\u2019S Thesis"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4855",
+        "desc": "Material Scien/Engr"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4856",
+        "desc": "Mathematicl Progrm"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4857",
+        "desc": "Mech Feedback Contl"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4858",
+        "desc": "Mechancl Vibrations"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4859",
+        "desc": "Mechanical Vibratns"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4860",
+        "desc": "Mechanics Of Mtrls"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4861",
+        "desc": "Mechatronics"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4862",
+        "desc": "Meth In Soil & Rock"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4863",
+        "desc": "Microcomputer Systm"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4864",
+        "desc": "Microcptrs/-Program"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4865",
+        "desc": "Microfluidic Dev in Biol"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4866",
+        "desc": "Microprocees/-Cptr"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4867",
+        "desc": "Microprocess Systm"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4868",
+        "desc": "Microprocessor Lab"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4869",
+        "desc": "Microprocessors"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4870",
+        "desc": "Microwave Amplifier"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4871",
+        "desc": "Microwave Electronc"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4872",
+        "desc": "Microwave Networks"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4873",
+        "desc": "Microwave Semicondt"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4874",
+        "desc": "Micwv Semind Dev Ii"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4875",
+        "desc": "Multidem Signal Pro"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4876",
+        "desc": "Multiphase Reactors"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4877",
+        "desc": "Nat Lang Process"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4878",
+        "desc": "Nat Lang Processing"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4879",
+        "desc": "Neural Networks"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4880",
+        "desc": "Nonlinear Optics"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4881",
+        "desc": "Operating Systemii"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4882",
+        "desc": "Operating Systems"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4883",
+        "desc": "Optic Remote Sensng"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4884",
+        "desc": "Optical Communicatn"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4885",
+        "desc": "Optical Fiber Comun"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4886",
+        "desc": "Paralell Cptr Arch"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4887",
+        "desc": "Pascal"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4888",
+        "desc": "Passenger Terminals"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4889",
+        "desc": "Pattern Recognition"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4890",
+        "desc": "Perturbation Techniques"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4891",
+        "desc": "Photonic Engineerng"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4892",
+        "desc": "Physical Distrb Sys"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4893",
+        "desc": "Physical Electroncs"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4894",
+        "desc": "Plates & Shells"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4895",
+        "desc": "Polymer Surfaces"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4896",
+        "desc": "Polymr Scienc Engin"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4897",
+        "desc": "Powder S & T"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4898",
+        "desc": "Power Systems"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4899",
+        "desc": "Pract/Transprtation"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4900",
+        "desc": "Prestress Concrete"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4901",
+        "desc": "Princ of Operations Research"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4902",
+        "desc": "Princip Signl Recov"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4903",
+        "desc": "Prob Environ Enginr"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4904",
+        "desc": "Prob/Stochastic Pro"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4905",
+        "desc": "Probabilistic Model"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4906",
+        "desc": "Probability Models"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4907",
+        "desc": "Proces Dynam/Contrl"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4908",
+        "desc": "Process Control"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4909",
+        "desc": "Process Dyn/Cont Ii"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4910",
+        "desc": "Prog For Engineers"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4911",
+        "desc": "Programming For Ee"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4912",
+        "desc": "Programming Langage"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4913",
+        "desc": "Programming Langug"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4914",
+        "desc": "Project"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4915",
+        "desc": "Project Management"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4916",
+        "desc": "Protocol Engineerng"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4917",
+        "desc": "Quantum Electronics"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4918",
+        "desc": "Quantum Optics"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4919",
+        "desc": "Radar Signal Pross"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4920",
+        "desc": "Rail System Design"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4921",
+        "desc": "Rail Systems Desgin"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4922",
+        "desc": "Random Processes in Engin Mech"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4923",
+        "desc": "Real Time Systems"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4924",
+        "desc": "Report"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4925",
+        "desc": "Rheology Het Fluids"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4926",
+        "desc": "Rheologybiol Tisue"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4927",
+        "desc": "Robotics"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4928",
+        "desc": "ST: Engineering"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4929",
+        "desc": "Satell Env Monitor"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4930",
+        "desc": "Selected Topics in Engineering"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4931",
+        "desc": "Separtion Operatn I"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4932",
+        "desc": "Sequential Machines"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4933",
+        "desc": "Signal Detection"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4934",
+        "desc": "Signal Digit Proc"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4935",
+        "desc": "Simulation"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4936",
+        "desc": "Social Issue Cptr S"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4937",
+        "desc": "Software Methodolgy"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4938",
+        "desc": "Solid Wast Coll/Dis"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4939",
+        "desc": "Solid Waste Mngment"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4940",
+        "desc": "Spread Spect Commun"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4941",
+        "desc": "Spread Spectrum"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4942",
+        "desc": "Stabil React System"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4943",
+        "desc": "Stat Mth Water Res"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4944",
+        "desc": "Stat Signal Process"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4945",
+        "desc": "Statistical Thermodynamics"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4946",
+        "desc": "Structural Dynamics"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4947",
+        "desc": "Symbolic-Algebraic"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4948",
+        "desc": "System Simulation"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4949",
+        "desc": "Systems Evaluation"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4950",
+        "desc": "Tch Pract Molec Biophys/Biomat"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4951",
+        "desc": "Theory of Elasticity"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4952",
+        "desc": "Thermal Dynamics I"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4953",
+        "desc": "Thermodynam For Ee"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4954",
+        "desc": "Thermodynamics"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4955",
+        "desc": "Thermodynamics I"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4956",
+        "desc": "Thermodynamics Ii"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4957",
+        "desc": "Thry Compilation"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4958",
+        "desc": "Thry Randm Function"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4959",
+        "desc": "Traffic Control"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4960",
+        "desc": "Traffic Engineering"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4961",
+        "desc": "Traffic Engr Studie"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4962",
+        "desc": "Traffic Flow"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4963",
+        "desc": "Trajectories/Orbits"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4964",
+        "desc": "Transform Mthds in Engineering"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4965",
+        "desc": "Transp/Eco Develop"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4966",
+        "desc": "Transp/Policy/Mngmt"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4967",
+        "desc": "Transport Economics"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4968",
+        "desc": "Transport Ii"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4969",
+        "desc": "Transport Phenom I"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4970",
+        "desc": "Transport Planning"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4971",
+        "desc": "Transport Regulaton"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4972",
+        "desc": "Transportation"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4973",
+        "desc": "Transportation/Envr"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4974",
+        "desc": "Transportaton Safty"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4975",
+        "desc": "Transportn Finance"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4976",
+        "desc": "Transporton  Safty"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4977",
+        "desc": "Tropical Metereolog"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4978",
+        "desc": "Turbulence Theory"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4979",
+        "desc": "Turbulent Flows"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4980",
+        "desc": "Unit Operations"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4981",
+        "desc": "Unit Operations I"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4982",
+        "desc": "Unit Operations Ii"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4983",
+        "desc": "Unit Ops Ii"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4984",
+        "desc": "Urban Public Transp"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4985",
+        "desc": "Urban Sys Transport"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4986",
+        "desc": "Viscous Flow Theory"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4987",
+        "desc": "Viscous Flow Thry 2"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4988",
+        "desc": "Vlsi Computations"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4989",
+        "desc": "Vlsi Design"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4990",
+        "desc": "Wastwater Treat Plt"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4991",
+        "desc": "Water Resources Mod"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4992",
+        "desc": "Wave Propag in Fluids & Solids"
+    },
+    {
+        "major": "EGNG",
+        "room_num": "4993",
+        "desc": "Wireless Communictn"
+    }
+]

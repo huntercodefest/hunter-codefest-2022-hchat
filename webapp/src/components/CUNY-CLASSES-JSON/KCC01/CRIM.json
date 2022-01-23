@@ -1,0 +1,20 @@
+[
+    {
+        "school": "KCC01",
+        "major": "CRIM",
+        "room_num": "63114",
+        "room_desc": "Corrections and Sentencing"
+    },
+    {
+        "school": "KCC01",
+        "major": "CRIM",
+        "room_num": "63115",
+        "room_desc": "Independent Study of Policing"
+    },
+    {
+        "school": "KCC01",
+        "major": "CRIM",
+        "room_num": "63116",
+        "room_desc": "Policing"
+    }
+]

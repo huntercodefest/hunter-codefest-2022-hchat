@@ -1,0 +1,482 @@
+[
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "76994",
+        "room_desc": "Admin Thry & Pract 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "76995",
+        "room_desc": "Admin Thry & Pract 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "76996",
+        "room_desc": "Advanced Internship I"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "76997",
+        "room_desc": "Advanced Internship II"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "76998",
+        "room_desc": "Appl Thry & Rsch Sem Schl Pysc"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "76999",
+        "room_desc": "Behav Assess/Interv"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77000",
+        "room_desc": "Career & Eductional Counseling"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77001",
+        "room_desc": "Career Wrkng Children & Youth"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77002",
+        "room_desc": "Cognitive & Acad Assessment 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77003",
+        "room_desc": "Cognitive &Academic Assessment"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77004",
+        "room_desc": "Coll Admis & Pst Secndry Couns"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77005",
+        "room_desc": "Collect Negot Public Edu"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77006",
+        "room_desc": "College Adm Post2nd Counseling"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77007",
+        "room_desc": "Colloquium in Educ Leadership"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77008",
+        "room_desc": "Consultation in the Schools"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77009",
+        "room_desc": "Counsel Leadrshp in Urban Schl"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77010",
+        "room_desc": "Counseling Theories"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77011",
+        "room_desc": "Counseling in Community Settin"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77012",
+        "room_desc": "Counslng Chldrn & Families"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77013",
+        "room_desc": "Crisis Intervn&Prevntion Rsch"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77014",
+        "room_desc": "Developmental Psychopathology"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77015",
+        "room_desc": "Ed & Psy Assessment"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77016",
+        "room_desc": "Education Law and Ethics"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77017",
+        "room_desc": "Financing Public Education"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77018",
+        "room_desc": "Foundation Prof School Counsel"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77019",
+        "room_desc": "Foundations of Play Therapy"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77020",
+        "room_desc": "Future Careers"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77021",
+        "room_desc": "Gr Dynamics Thy & Pr"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77022",
+        "room_desc": "Group Process School Culture"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77023",
+        "room_desc": "Human Development"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77024",
+        "room_desc": "Indep Study School Psych"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77025",
+        "room_desc": "Independent Study in Guidance"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77026",
+        "room_desc": "Individual Counseling Skills"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77027",
+        "room_desc": "Instruc Intervention in School"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77028",
+        "room_desc": "Integrat Assesmt/Report Wrting"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77029",
+        "room_desc": "Internship Ed Adm"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77030",
+        "room_desc": "Internship I"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77031",
+        "room_desc": "Internship II"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77032",
+        "room_desc": "Internship School Psychology 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77033",
+        "room_desc": "Intrn Ed Adm&Sup 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77034",
+        "room_desc": "Intrnshp Edu Admin & Suprvn I"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77035",
+        "room_desc": "Intrnshp in Schl Psychology I"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77036",
+        "room_desc": "Intro to Mindfulness in School"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77037",
+        "room_desc": "Intrviwing Disbld Chd & Youth"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77038",
+        "room_desc": "LGBTQ Youth in Educ Context"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77039",
+        "room_desc": "Literacy & Learning Difficlty"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77040",
+        "room_desc": "Mental Health Counseling"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77041",
+        "room_desc": "Mgmt & Fin Func Adm"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77042",
+        "room_desc": "Mult Couns/Consul Schools"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77043",
+        "room_desc": "Neuropsychology of Learning"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77044",
+        "room_desc": "Persnlty Thry & Res"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77045",
+        "room_desc": "Personnel Functions Ed Admin"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77046",
+        "room_desc": "Play Therapy Applications"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77047",
+        "room_desc": "Play Therapy Methods & Apprchs"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77048",
+        "room_desc": "Play Therapy Methods & Approch"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77049",
+        "room_desc": "Play Therapy Practce &Supervsn"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77050",
+        "room_desc": "Pract Supv St Tchr"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77051",
+        "room_desc": "Practices in Schools"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77052",
+        "room_desc": "Practicum"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77053",
+        "room_desc": "Practicum School Psychology I"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77054",
+        "room_desc": "Practicum School Psychology II"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77055",
+        "room_desc": "Practicum in School Psychology"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77056",
+        "room_desc": "Prblms Child Adolescent Dev I"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77057",
+        "room_desc": "Prbms & Pract School Psych"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77058",
+        "room_desc": "Psyc Assesment Diverse Stdnts"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77059",
+        "room_desc": "Pub Admin Of Educ"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77060",
+        "room_desc": "Research Seminar in School Psy"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77061",
+        "room_desc": "School Curriculum Development"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77062",
+        "room_desc": "School-Community Relations"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77063",
+        "room_desc": "Schools and Communities"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77064",
+        "room_desc": "Sem Ed Research"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77065",
+        "room_desc": "Sem Guid Prac 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77066",
+        "room_desc": "Sem Guid Prac 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77067",
+        "room_desc": "Semi Bilingual Schl Counsel"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77068",
+        "room_desc": "Soc&Adapt Behavioral Assessmnt"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77069",
+        "room_desc": "Supervision of Instruction"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77070",
+        "room_desc": "Theories of Human Development"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77071",
+        "room_desc": "Urb Trauma:Iss&Str"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77072",
+        "room_desc": "Urban School Counseling"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "77073",
+        "room_desc": "Wk With Fam In Schls"
+    }
+]

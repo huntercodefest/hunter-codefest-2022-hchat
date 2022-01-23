@@ -1,0 +1,37 @@
+[
+    {
+        "major": "POSC",
+        "room_num": "64954",
+        "desc": "American Government"
+    },
+    {
+        "major": "POSC",
+        "room_num": "64955",
+        "desc": "American Government (HONORS)"
+    },
+    {
+        "major": "POSC",
+        "room_num": "64956",
+        "desc": "Comparative Politics"
+    },
+    {
+        "major": "POSC",
+        "room_num": "64957",
+        "desc": "Introduction to Police Studies"
+    },
+    {
+        "major": "POSC",
+        "room_num": "64958",
+        "desc": "Pol Sys Latin Am (HONORS)"
+    },
+    {
+        "major": "POSC",
+        "room_num": "64959",
+        "desc": "Pol Sys Of Latin Am"
+    },
+    {
+        "major": "POSC",
+        "room_num": "64960",
+        "desc": "Police Organization"
+    }
+]

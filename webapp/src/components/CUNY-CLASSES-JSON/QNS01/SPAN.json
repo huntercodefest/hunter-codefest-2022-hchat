@@ -1,0 +1,842 @@
+[
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30641",
+        "room_desc": "1898 & Beginning 20th Century"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30642",
+        "room_desc": "18th&19th C Latin Am"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30643",
+        "room_desc": "20th C Sp Theatre"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30644",
+        "room_desc": "20th Century Span Drama & Film"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30645",
+        "room_desc": "Ad Comp Expl Text"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30646",
+        "room_desc": "Adv Gram Comp 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30647",
+        "room_desc": "Advanced Grammar and Phonology"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30648",
+        "room_desc": "Advanced Spanish Peer Tutoring"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30649",
+        "room_desc": "Art & Ideol In Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30650",
+        "room_desc": "Avant-Garde Mvmts Latn America"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30651",
+        "room_desc": "Cervantes 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30652",
+        "room_desc": "Cervantes 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30653",
+        "room_desc": "Cervantes-Quijote"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30654",
+        "room_desc": "Cinema & Literature Hisp World"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30655",
+        "room_desc": "Civ Lat Amer"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30656",
+        "room_desc": "Civiliz Lat Amer"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30657",
+        "room_desc": "Civiliza Of Spain"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30658",
+        "room_desc": "Class Span Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30659",
+        "room_desc": "Col Lit & Emer Criol Vcs Sp Am"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30660",
+        "room_desc": "Commer Tech Span"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30661",
+        "room_desc": "Composition"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30662",
+        "room_desc": "Con Sp-Am Fiction"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30663",
+        "room_desc": "Cont & Post-Mod Lit in Lat Am"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30664",
+        "room_desc": "Contem Span Lit 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30665",
+        "room_desc": "Creative Writing in Spanish"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30666",
+        "room_desc": "Cult & Civ Of Spain"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30667",
+        "room_desc": "Cult & Ident US Latino(a) Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30668",
+        "room_desc": "Cult & Ideol Mod Span Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30669",
+        "room_desc": "Cult & Lit Medi & Ren Iberia"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30670",
+        "room_desc": "Don Quijote"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30671",
+        "room_desc": "Don Quixote in Translation"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30672",
+        "room_desc": "Early Colonial Lit in Latin Am"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30673",
+        "room_desc": "Elem Span For Read"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30674",
+        "room_desc": "Elem Spanish"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30675",
+        "room_desc": "Elem Spanish 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30676",
+        "room_desc": "Elem Spanish 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30677",
+        "room_desc": "Elementary Spanish I"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30678",
+        "room_desc": "Elementary Spanish II"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30679",
+        "room_desc": "Found Hispanic Linguistics"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30680",
+        "room_desc": "Foundations Span Linguistics"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30681",
+        "room_desc": "From Avant-Garde to Postmodern"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30682",
+        "room_desc": "Fund of Speaking"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30683",
+        "room_desc": "Galdos & Clarin"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30684",
+        "room_desc": "Gender30685: SPAN,\"Gender30686: SPAN,\"Golden Age Drama"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30687",
+        "room_desc": "Golden Age Spanish Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30688",
+        "room_desc": "Grammar"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30689",
+        "room_desc": "Hisp Caribbean Lit & Culture"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30690",
+        "room_desc": "Hisp Cult & Civil"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30691",
+        "room_desc": "Hisp Film In Engl Translation"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30692",
+        "room_desc": "Hisp Lit & Culture In Us"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30693",
+        "room_desc": "Hisp Lit In Trans"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30694",
+        "room_desc": "Hisp Socio-linguist & Dialect"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30695",
+        "room_desc": "Hisp-Jewish Lit in Translat"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30696",
+        "room_desc": "Hispanic Cinema"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30697",
+        "room_desc": "Hispanic Civilization"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30698",
+        "room_desc": "Hispanic Literature Seminar"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30699",
+        "room_desc": "Hist Span Lang"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30700",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30701",
+        "room_desc": "Indigenous and Mestizo Voices"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30702",
+        "room_desc": "Intensive Elem Span"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30703",
+        "room_desc": "Inter Span Conv 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30704",
+        "room_desc": "Inter Spanish 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30705",
+        "room_desc": "Intermed Span"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30706",
+        "room_desc": "Intermediate Spanish I"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30707",
+        "room_desc": "Intermediate Spanish II"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30708",
+        "room_desc": "Internship"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30709",
+        "room_desc": "Intro Hisp Lit Studies"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30710",
+        "room_desc": "Intro Lit & Cult Thry"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30711",
+        "room_desc": "Introduction to Translation"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30712",
+        "room_desc": "Lang & Ling Seminar"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30713",
+        "room_desc": "Lang Wkshp Sp Herit St"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30714",
+        "room_desc": "Lat-Am Lit Into 21 C"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30715",
+        "room_desc": "Latin Amer Culture and Thought"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30716",
+        "room_desc": "Latin Amer Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30717",
+        "room_desc": "Latin-Amer Cinema"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30718",
+        "room_desc": "Latino Writers In U.S."
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30719",
+        "room_desc": "Lit Of Span Am 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30720",
+        "room_desc": "Lit Sp Amer 3"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30721",
+        "room_desc": "Lit Span Amer 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30722",
+        "room_desc": "Lit Span Amer 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30723",
+        "room_desc": "Lit Span-Amer 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30724",
+        "room_desc": "Lit Span-Amer 4"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30725",
+        "room_desc": "Lit of the Hisp Caribbean"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30726",
+        "room_desc": "Literature of the Franco Era"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30727",
+        "room_desc": "Lng Wkshp Non-Span Herit Stud"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30728",
+        "room_desc": "Mastrpiece Sp Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30729",
+        "room_desc": "Med Epic Lyr Poet"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30730",
+        "room_desc": "Medieval Spanish Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30731",
+        "room_desc": "Miguel de Cervantes"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30732",
+        "room_desc": "Mod Sp Sp-Am Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30733",
+        "room_desc": "Modernismo"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30734",
+        "room_desc": "Natives30735: SPAN,\"Novela Esp Sig XX"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30736",
+        "room_desc": "Pan-Hispanic Balladry"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30737",
+        "room_desc": "Peninular Span Cultre Thought"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30738",
+        "room_desc": "Phonetics-Diction"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30739",
+        "room_desc": "Problems Sp Lang"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30740",
+        "room_desc": "Puero Rican Lit 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30741",
+        "room_desc": "Rdg Clas Span Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30742",
+        "room_desc": "Rdg Span Lit Mod"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30743",
+        "room_desc": "Rdngs Lat Am Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30744",
+        "room_desc": "Read In Mod Span"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30745",
+        "room_desc": "Read L At Amer Li"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30746",
+        "room_desc": "Read Lat Amer Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30747",
+        "room_desc": "Realism & Naturalism"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30748",
+        "room_desc": "Research Seminar: Linguistics"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30749",
+        "room_desc": "Research Seminar: Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30750",
+        "room_desc": "Rsch Sem:Ling"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30751",
+        "room_desc": "Rsch Sem:Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30752",
+        "room_desc": "Seminar"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30753",
+        "room_desc": "Skills Translat"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30754",
+        "room_desc": "Sp Lit 17th C 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30755",
+        "room_desc": "Sp Lit 19C 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30756",
+        "room_desc": "Sp Lit Middl Ages"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30757",
+        "room_desc": "Sp Thought 16-17C"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30758",
+        "room_desc": "Span Amer Lit 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30759",
+        "room_desc": "Span For Herit Spkrs 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30760",
+        "room_desc": "Span For Herit Spkrs 3"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30761",
+        "room_desc": "Span Lit 16 Cent"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30762",
+        "room_desc": "Span Lit 18th/19th Centuries"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30763",
+        "room_desc": "Span Lit Since the Transition"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30764",
+        "room_desc": "Span for Heritage Spkrs I"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30765",
+        "room_desc": "Span-Amer Lit 3"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30766",
+        "room_desc": "Span-Amer Theatre"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30767",
+        "room_desc": "Spanish American Romanticism"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30768",
+        "room_desc": "Spanish Conversation"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30769",
+        "room_desc": "Spanish Lit Since 1964"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30770",
+        "room_desc": "Spanish Peer Tutoring"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30771",
+        "room_desc": "Spanish for the Professions"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30772",
+        "room_desc": "Special Problems"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30773",
+        "room_desc": "Stylistics and Composition"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30774",
+        "room_desc": "Surv Span Lit 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30775",
+        "room_desc": "Surv Span Lit 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30776",
+        "room_desc": "Surv Span-Am Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30777",
+        "room_desc": "Survey Span Lit II"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30778",
+        "room_desc": "Survey Span-Am Lit II"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30779",
+        "room_desc": "Survey Span-Amer Literature I"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30780",
+        "room_desc": "Survey of Spanish Literature I"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30781",
+        "room_desc": "The Cult Civilition Latin Amer"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30782",
+        "room_desc": "Theatre & Film-Latin American"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "30783",
+        "room_desc": "Vt:Medieval Span Lit"
+    }
+]

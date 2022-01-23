@@ -1,0 +1,500 @@
+[
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34955",
+        "room_desc": "Behavioral Medicine (Step 7)"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34956",
+        "room_desc": "Bio-Organic Chemistry"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34957",
+        "room_desc": "Chinese Medicine: Principles a"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34958",
+        "room_desc": "Cl Dec Mak-Evid Bsd"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34959",
+        "room_desc": "Clinical Anatomy"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34960",
+        "room_desc": "Cllncl Med Phrmcthptcs I"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34961",
+        "room_desc": "Cllncl Med Phrmcthptcs Ii"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34962",
+        "room_desc": "Drugs and Society"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34963",
+        "room_desc": "Evaluation in Healthcare Setti"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34964",
+        "room_desc": "Fundamentals of Epidemiology"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34965",
+        "room_desc": "Fundamentals of Organ Systems"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34966",
+        "room_desc": "General Syst Path I"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34967",
+        "room_desc": "General Syst Path Ii"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34968",
+        "room_desc": "Histology & Cell Biology"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34969",
+        "room_desc": "Histology and Cell Biology"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34970",
+        "room_desc": "Hlth Mgmt Sys for Epidemiology"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34971",
+        "room_desc": "Hlth-Med-Soc 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34972",
+        "room_desc": "Hlth-Med-Soc 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34973",
+        "room_desc": "Hlth-Med-Soc 3"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34974",
+        "room_desc": "Hms 4 Us Hlt Cre Sys"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34975",
+        "room_desc": "Hms 5 Fund Epidemiol"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34976",
+        "room_desc": "Hms 5 Us Hlt Cre Sys"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34977",
+        "room_desc": "Host Def34978: EDBM,\"Host Def-Inf-Pathog"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34979",
+        "room_desc": "Hst Dfns34980: EDBM,\"Hu Grs Anat-Emb-Hist"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34981",
+        "room_desc": "Human Gross Anatomy and Embryo"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34982",
+        "room_desc": "Human Gross Anatomy34983: EDBM,\"Independent Study"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34984",
+        "room_desc": "Int Drg Abuse Addctn"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34985",
+        "room_desc": "Intgrtd Med Lrning"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34986",
+        "room_desc": "Intro Clinical Med 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34987",
+        "room_desc": "Intro Clinical Med 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34988",
+        "room_desc": "Intro Clncl Med 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34989",
+        "room_desc": "Intro Clncl Med 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34990",
+        "room_desc": "Intro Phys Diagnosis"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34991",
+        "room_desc": "Intro Primary C2"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34992",
+        "room_desc": "Intro To Primary C1"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34993",
+        "room_desc": "Intro to Clinical Medicine 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34994",
+        "room_desc": "Intro to Population Health"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34995",
+        "room_desc": "Intro to Research"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34996",
+        "room_desc": "Introduction to Biomedical Eth"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34997",
+        "room_desc": "Introduction to Human Genetics"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34998",
+        "room_desc": "Introduction to Primary Care"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "34999",
+        "room_desc": "Leadership"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35000",
+        "room_desc": "Lngtdnl Ambltry Care Plcmnt"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35001",
+        "room_desc": "Medical Nutrition"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35002",
+        "room_desc": "Medical Pharmacology"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35003",
+        "room_desc": "Medical Pharmacology (Step 5)"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35004",
+        "room_desc": "Molecules To Cells 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35005",
+        "room_desc": "Molecules To Cells I"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35006",
+        "room_desc": "Molecules to Cells II"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35007",
+        "room_desc": "Narrative Medicine for Mentors"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35008",
+        "room_desc": "Neuro Psychiatry"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35009",
+        "room_desc": "Neuro-Psychiatry"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35010",
+        "room_desc": "Neuroscience"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35011",
+        "room_desc": "Neuroscience (Step 6)"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35012",
+        "room_desc": "Patient-Doctor 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35013",
+        "room_desc": "Patient-Doctor II"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35014",
+        "room_desc": "Patient-Doctor Seq 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35015",
+        "room_desc": "Patient-Doctor Seq 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35016",
+        "room_desc": "Physical Diagnosis"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35017",
+        "room_desc": "Physical Diagnosis I"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35018",
+        "room_desc": "Physical Diagnosis II"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35019",
+        "room_desc": "Pop Hlth & Comm Hlth Assessmnt"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35020",
+        "room_desc": "Prac Comm Hlth Asmnt"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35021",
+        "room_desc": "Practice of Medicine (POM) I"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35022",
+        "room_desc": "Practice of Medicine (POM) II"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35023",
+        "room_desc": "Practice of Medicine 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35024",
+        "room_desc": "Practice of Medicine 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35025",
+        "room_desc": "Practice of Medicine I"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35026",
+        "room_desc": "Prep for Gen Chem"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35027",
+        "room_desc": "Prin Gen Chemistry"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35028",
+        "room_desc": "Prin Pharmacology"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35029",
+        "room_desc": "Professional Foundations"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35030",
+        "room_desc": "Sociology of Health and Illnes"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35031",
+        "room_desc": "Step 4 Systemic Func"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35032",
+        "room_desc": "Step 6 Behaviorl Med"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35033",
+        "room_desc": "Systemic Functions I"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35034",
+        "room_desc": "Systemic Functions II"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35035",
+        "room_desc": "Systemic Pathology"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35036",
+        "room_desc": "Systemic Pathology 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35037",
+        "room_desc": "Systemic Pathology 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35038",
+        "room_desc": "Systemic Pharmacolgy"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35039",
+        "room_desc": "Transition Clerkship"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "35040",
+        "room_desc": "US Healthcare Systems & Policy"
+    }
+]

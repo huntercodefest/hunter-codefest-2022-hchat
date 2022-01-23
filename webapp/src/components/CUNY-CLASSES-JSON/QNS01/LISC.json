@@ -1,0 +1,488 @@
+[
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28652",
+        "room_desc": "Adlt Read Advis Svc"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28653",
+        "room_desc": "Advanced Tech Concepts"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28654",
+        "room_desc": "Advanced Technical Services"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28655",
+        "room_desc": "Archival Appraisal28656: LISC,\"Archival28657: LISC,\"Archives & Manuscripts"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28658",
+        "room_desc": "Art Libr & Visual Res Curator"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28659",
+        "room_desc": "Bibl Control:No-Print"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28660",
+        "room_desc": "Business Information Sources"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28661",
+        "room_desc": "Collection Develop"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28662",
+        "room_desc": "Collection Development"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28663",
+        "room_desc": "Comput Data Base Src"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28664",
+        "room_desc": "Design Visual Materl"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28665",
+        "room_desc": "Design&Constr Biblio Databases"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28666",
+        "room_desc": "Design&Production of Multimedi"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28667",
+        "room_desc": "Digital Humanities& Hum Resour"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28668",
+        "room_desc": "Digital Libraries"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28669",
+        "room_desc": "Digital Preservation"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28670",
+        "room_desc": "Digitization of Cult Materials"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28671",
+        "room_desc": "From Manuscripts to eBooks"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28672",
+        "room_desc": "Fund Lib/Inform Sci"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28673",
+        "room_desc": "Government Information Sources"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28674",
+        "room_desc": "Health Sciences Librarianship"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28675",
+        "room_desc": "Hist Child Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28676",
+        "room_desc": "Hist Lib Mod Wld"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28677",
+        "room_desc": "Human-Computer Interaction"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28678",
+        "room_desc": "In Srces Ser V A"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28679",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28680",
+        "room_desc": "Indexing/Abstracting"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28681",
+        "room_desc": "Inf Sourc/Serv Nonbk"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28682",
+        "room_desc": "Inf Source & Svce"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28683",
+        "room_desc": "Info Access Systems"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28684",
+        "room_desc": "Info Envir Cont Society"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28685",
+        "room_desc": "Info Lit Instructions for Adts"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28686",
+        "room_desc": "Info Serv:Soc Sci"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28687",
+        "room_desc": "Info Sources & Servc"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28688",
+        "room_desc": "Info Sources&Service: General"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28689",
+        "room_desc": "Info System Analysis & Design"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28690",
+        "room_desc": "Internship"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28691",
+        "room_desc": "Internship. Fieldwork"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28692",
+        "room_desc": "Intro to Archival Studies"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28693",
+        "room_desc": "Intro to Organization of Info"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28694",
+        "room_desc": "Introd To Libship"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28695",
+        "room_desc": "Issues in Org of Materials"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28696",
+        "room_desc": "Law Librarianship"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28697",
+        "room_desc": "Lib In Multicult Soc"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28698",
+        "room_desc": "Managing New Technologies"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28699",
+        "room_desc": "Mat28700: LISC,\"Materials for Young Adults"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28701",
+        "room_desc": "Metadata for Digital Resources"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28702",
+        "room_desc": "Myth&Folklore Child/Adolescent"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28703",
+        "room_desc": "Non Print Catal"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28704",
+        "room_desc": "Nonbook Materials"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28705",
+        "room_desc": "Online & Optical Sys"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28706",
+        "room_desc": "Online Research"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28707",
+        "room_desc": "Org & Mgmt: Public Libraries"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28708",
+        "room_desc": "Org & Mgt: Acad & Resrch Librs"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28709",
+        "room_desc": "Org&Mgt:Media Center"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28710",
+        "room_desc": "Org/Man Sp Lib/Info"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28711",
+        "room_desc": "Organization Of Mat"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28712",
+        "room_desc": "Organization and Management"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28713",
+        "room_desc": "Plan & Deliver Svc"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28714",
+        "room_desc": "Presvtn of Cult Hertg Materils"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28715",
+        "room_desc": "Pub Lib Serv For Chl"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28716",
+        "room_desc": "Public Lib Prog Plan"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28717",
+        "room_desc": "Public Library"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28718",
+        "room_desc": "Read Motivat Techniq Chld&Adol"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28719",
+        "room_desc": "Records Management"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28720",
+        "room_desc": "Ref & Bib Sci"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28721",
+        "room_desc": "Ref & Bibliog"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28722",
+        "room_desc": "Res & Bib Methods"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28723",
+        "room_desc": "Res in Library and Info Studie"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28724",
+        "room_desc": "Resources School Curriculum"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28725",
+        "room_desc": "Select Tech Apps In Info Mgmt"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28726",
+        "room_desc": "Sem Concepts/Issues"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28727",
+        "room_desc": "Serials Librarianship"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28728",
+        "room_desc": "Storytelling"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28729",
+        "room_desc": "Strategic and Competive Intell"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28730",
+        "room_desc": "Teaching Information Lit K-12"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28731",
+        "room_desc": "Tech Svc In Lib"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28732",
+        "room_desc": "The Technology of Information"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28733",
+        "room_desc": "VT: Seminar"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28734",
+        "room_desc": "VT:Seminar"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "28735",
+        "room_desc": "Web Programming"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "major": "ECON",
+        "room_num": "80610",
+        "desc": "Intro to the American Economy"
+    },
+    {
+        "major": "ECON",
+        "room_num": "80611",
+        "desc": "Macroeconomics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "80612",
+        "desc": "Microeconomics"
+    }
+]

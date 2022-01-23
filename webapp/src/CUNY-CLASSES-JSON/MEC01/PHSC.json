@@ -1,0 +1,67 @@
+[
+    {
+        "major": "PHSC",
+        "room_num": "79711",
+        "desc": "Geographic Info Sci"
+    },
+    {
+        "major": "PHSC",
+        "room_num": "79712",
+        "desc": "Hydrology"
+    },
+    {
+        "major": "PHSC",
+        "room_num": "79713",
+        "desc": "Independent Research I"
+    },
+    {
+        "major": "PHSC",
+        "room_num": "79714",
+        "desc": "Independent Research II"
+    },
+    {
+        "major": "PHSC",
+        "room_num": "79715",
+        "desc": "Independent Research III"
+    },
+    {
+        "major": "PHSC",
+        "room_num": "79716",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "PHSC",
+        "room_num": "79717",
+        "desc": "Intro To Physical Sc"
+    },
+    {
+        "major": "PHSC",
+        "room_num": "79718",
+        "desc": "Intro to Telecommunications"
+    },
+    {
+        "major": "PHSC",
+        "room_num": "79719",
+        "desc": "Meteorology"
+    },
+    {
+        "major": "PHSC",
+        "room_num": "79720",
+        "desc": "Ocean Science (Oceanography)"
+    },
+    {
+        "major": "PHSC",
+        "room_num": "79721",
+        "desc": "Res Met/Lab Instmnta"
+    },
+    {
+        "major": "PHSC",
+        "room_num": "79722",
+        "desc": "Spec Top Climate & Planets"
+    },
+    {
+        "major": "PHSC",
+        "room_num": "79723",
+        "desc": "Spec Top Telecom"
+    }
+]

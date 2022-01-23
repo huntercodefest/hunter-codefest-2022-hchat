@@ -1,0 +1,926 @@
+[
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11791",
+        "room_desc": "Adv Mthds Tchng Rdng Elem Schl"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11792",
+        "room_desc": "Adv Stdys Curriclm I & II"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11793",
+        "room_desc": "Adv Stu-Tch Intrnshp"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11794",
+        "room_desc": "Adv Stud Teaching Internship"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11795",
+        "room_desc": "Adv Tchng Music-Elem"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11796",
+        "room_desc": "Adv&Supv Early Child"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11797",
+        "room_desc": "Adv-Cmpar&Intrntl Ed"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11798",
+        "room_desc": "Advanced Study Curriculum I/II"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11799",
+        "room_desc": "Aesthetic Ed-Elementary School"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11800",
+        "room_desc": "Art In Elem School"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11801",
+        "room_desc": "Arts Curr Hispn Cult"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11802",
+        "room_desc": "Bil/Bicul Hispn Schs"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11803",
+        "room_desc": "Bilchld Litcydev-Ec"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11804",
+        "room_desc": "Blnglsm for Clssrm Tchrs B-6"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11805",
+        "room_desc": "Child Concepts of Sci & Music"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11806",
+        "room_desc": "Child Study&Dev Assessment 1-6"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11807",
+        "room_desc": "Child-HisPolSoccltCntxt B-Gr6"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11808",
+        "room_desc": "Chld Dev & Pgrm Design"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11809",
+        "room_desc": "Chld Literacy Dev-Ec"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11810",
+        "room_desc": "Chldconcept-Math&Art"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11811",
+        "room_desc": "Chldobserv&Devassess"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11812",
+        "room_desc": "Chldren11813: EDEC,\"Comparative Education"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11814",
+        "room_desc": "Coord Sci Instr Elem"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11815",
+        "room_desc": "Curr Dev Env Edu for Elm Sch"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11816",
+        "room_desc": "Curr Dev: Soc Sci-Elem School"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11817",
+        "room_desc": "Curr Plan & Mgmt Elem Edu"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11818",
+        "room_desc": "Dev In-Service Programs for EC"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11819",
+        "room_desc": "Dev Music Appreciation Early C"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11820",
+        "room_desc": "Dev Sci Concept Early Chldhd"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11821",
+        "room_desc": "Dev Yng Children\u2019s Concept Art"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11822",
+        "room_desc": "Diag-El Mat Lrn Difc"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11823",
+        "room_desc": "EC Edu Literacy & Social Stud"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11824",
+        "room_desc": "Early Childhood Program Trends"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11825",
+        "room_desc": "Ed Probs-Metro Areas"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11826",
+        "room_desc": "Ed Psy-Chld Stdy&Dev"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11827",
+        "room_desc": "Edu Psy Learning"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11828",
+        "room_desc": "Edu Tests & Msrmnts"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11829",
+        "room_desc": "Edu Wkshp Tchrs of Chldrn PR"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11830",
+        "room_desc": "Educational Evaluation"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11831",
+        "room_desc": "Elem Ed: Social Studies Adv"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11832",
+        "room_desc": "Ethics & Profes in Child Teach"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11833",
+        "room_desc": "Ethics/Prof.-Ec Tch"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11834",
+        "room_desc": "Fam11835: EDEC,\"Fam11836: EDEC,\"Fdns Erly Lang&Ltrcy Dev B-Gr2"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11837",
+        "room_desc": "Foundations of Education"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11838",
+        "room_desc": "Fund Curric Developm"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11839",
+        "room_desc": "His.Pol.Soc-Cultcntx"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11840",
+        "room_desc": "Int Tch Intern & Sem"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11841",
+        "room_desc": "Int. Intern/Semin Ii"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11842",
+        "room_desc": "Int.Tch Intern/Sem I"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11843",
+        "room_desc": "Int.Tch.Intern/Sem I"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11844",
+        "room_desc": "Intensive Tch Intern/Sem II"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11845",
+        "room_desc": "Intr Eductnl Reserch"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11846",
+        "room_desc": "Intro Teach Reading Elem Sch"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11847",
+        "room_desc": "Learn & Teach Math Chldhd I-VI"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11848",
+        "room_desc": "Learn & Teach S.S Bil-Bi-Cult"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11849",
+        "room_desc": "Learn&Teach Art Chldhd 1 to 6"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11850",
+        "room_desc": "Learn&Teach Music Chldhd 1-6"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11851",
+        "room_desc": "Learn&Teach Science Chldhd 1-6"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11852",
+        "room_desc": "Learn&Teach Soc Stu Chldhd 1-6"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11853",
+        "room_desc": "Lit & Soc Stds Erly Chldhd Edu"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11854",
+        "room_desc": "Lit Bil-Bicult Earl Child Sett"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11855",
+        "room_desc": "Lit In The Elem Schl"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11856",
+        "room_desc": "Literacy Dev Early Childhood"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11857",
+        "room_desc": "Lrng & Tchng Lit & Soc Stds"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11858",
+        "room_desc": "Lrng & Tchng Lit Chldhd Set II"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11859",
+        "room_desc": "Lrng& Tching Sci&Mus"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11860",
+        "room_desc": "Lrng&TchngChldhdSet:LitPrimGrd"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11861",
+        "room_desc": "Mainstrmg-Elem Class"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11862",
+        "room_desc": "Materials/Methods Math Educ"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11863",
+        "room_desc": "Math & Art Childhood Settings"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11864",
+        "room_desc": "Math & Art Early Chld Edu"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11865",
+        "room_desc": "Math Concept Form Early Chldhd"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11866",
+        "room_desc": "Mth&Matrl-Erly Chld1"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11867",
+        "room_desc": "Mths & Materials Erly Chld II"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11868",
+        "room_desc": "Multilingualism Clssrm Brth-6"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11869",
+        "room_desc": "Multilingualism ClssrmBrth-6th"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11870",
+        "room_desc": "Mus In The Elem Schl"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11871",
+        "room_desc": "Par/Tchr Chd Rltnshp"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11872",
+        "room_desc": "Parent11873: EDEC,\"Phys Ed in Elementary School"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11874",
+        "room_desc": "Plan Pre-Kin&Kin Prg"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11875",
+        "room_desc": "Pol & Prac Learners Disability"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11876",
+        "room_desc": "Pracm Rem Prg El Mat"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11877",
+        "room_desc": "Prgm & Envir Infant & Toddler"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11878",
+        "room_desc": "Prog Dsgn in Chldhd Set-Gr 1-6"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11879",
+        "room_desc": "Program Plan: Early Childhood"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11880",
+        "room_desc": "Project Seminar I"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11881",
+        "room_desc": "Project Seminar II"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11882",
+        "room_desc": "Psy Elem-Adv Edu Psy"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11883",
+        "room_desc": "Psy in Ed Group Dynamics"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11884",
+        "room_desc": "Psych of Dev & Learn in Elem"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11885",
+        "room_desc": "Quantitative Methods"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11886",
+        "room_desc": "School and Community"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11887",
+        "room_desc": "Sci Instruc Elem Adv"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11888",
+        "room_desc": "Science & Music - Ec"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11889",
+        "room_desc": "Sec Lan Lrng & Tchng Elem Schl"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11890",
+        "room_desc": "Semi Prbms of Elmntry Edu"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11891",
+        "room_desc": "Seminr Elem Teachg 1"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11892",
+        "room_desc": "Seminr Elem Teaching"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11893",
+        "room_desc": "Soc Stu Conc Dev-Ec"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11894",
+        "room_desc": "Socstu Concdevbil/Ec"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11895",
+        "room_desc": "Span Spkng Am Urbn Schl Sett"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11896",
+        "room_desc": "Spec Stds Early Childhood Edu"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11897",
+        "room_desc": "Spec Stdys-Elem Educ"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11898",
+        "room_desc": "Special Stds Elem Ed"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11899",
+        "room_desc": "Stdys Tch El Mat Adv"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11900",
+        "room_desc": "Student Teaching Seminar"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11901",
+        "room_desc": "Student Teaching/Intership Sem"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11902",
+        "room_desc": "Sup Stu Tch Bil Pk-2"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11903",
+        "room_desc": "Sup Stu Tch Pk-2"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11904",
+        "room_desc": "Superv & Coordin-Elem Sch Mat"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11905",
+        "room_desc": "Supp Lang&Erly Lit Dev Inf&Tod"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11906",
+        "room_desc": "SuppCogntvDev Infants&Toddlers"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11907",
+        "room_desc": "Supprt Excptnl Inf&Tod Learner"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11908",
+        "room_desc": "Supptng Soc Emotnl Dev Inf&Tod"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11909",
+        "room_desc": "Supv Student Teach Bil Setting"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11910",
+        "room_desc": "Supvd Stud Tchng Biling Clsrms"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11911",
+        "room_desc": "Supvd Student Teach Internship"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11912",
+        "room_desc": "Supvd Student Teach Intshp 1-6"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11913",
+        "room_desc": "Supvd Student Teaching 1 to 6"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11914",
+        "room_desc": "Supvd Student Teaching Pre-K-2"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11915",
+        "room_desc": "Tch Engl As 2nd Lang"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11916",
+        "room_desc": "Tch. Intern/Semin I"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11917",
+        "room_desc": "Tch. Intern/Semin IV"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11918",
+        "room_desc": "Tch. Intern/Semin Ii"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11919",
+        "room_desc": "Tch.Intern/Semin III"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11920",
+        "room_desc": "Tch.Intern/Semin Iii"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11921",
+        "room_desc": "Tch.Intern/Semin Iv"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11922",
+        "room_desc": "Tch.Intern/Semin V"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11923",
+        "room_desc": "Tchng Eng As 2nd Lan"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11924",
+        "room_desc": "Tchng Eng Sec Lang (PreK-6 Gr)"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11925",
+        "room_desc": "Tchng His & Soc Stds"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11926",
+        "room_desc": "Tchng Intrnshp & Semi I"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11927",
+        "room_desc": "Tchng Mat-Elem Schl"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11928",
+        "room_desc": "Tchng Rding-Mid Grds"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11929",
+        "room_desc": "Tchng Rdng-Prima Grd"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11930",
+        "room_desc": "Tchng Sci- Elem Sch"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11931",
+        "room_desc": "Tchng Sci- Elem Schl"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11932",
+        "room_desc": "Teach Internship/Seminar II"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11933",
+        "room_desc": "Teach Lit in Bilingual Set 1-6"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11934",
+        "room_desc": "Teacher as Researcher"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11935",
+        "room_desc": "Teacher as Researcher&Writer"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11936",
+        "room_desc": "Teaching ESL(Pre-K to Grade 6)"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11937",
+        "room_desc": "Teaching Intrnshp Seminar V"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11938",
+        "room_desc": "Teaching Lit&SS in Grade 1-6"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11939",
+        "room_desc": "Teaching Math in Elem School"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11940",
+        "room_desc": "Teaching Profess-Birth to Gr 6"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11941",
+        "room_desc": "Using Computer in Classroom"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11942",
+        "room_desc": "Wksp Tch Frgn Lang 1"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11943",
+        "room_desc": "Wksp Tch Frgn Lang 2"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11944",
+        "room_desc": "Wksp-Tchng As Proces"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11945",
+        "room_desc": "Workshop: Curriculum Materials"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11946",
+        "room_desc": "Workshops in Curriculum Design"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11947",
+        "room_desc": "Yng Chld & the Arts Birth-Gr 2"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "11948",
+        "room_desc": "Young Child & Music11949: EDFC,\"Child Development"
+    }
+]

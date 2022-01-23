@@ -1,0 +1,82 @@
+[
+    {
+        "major": "PHYS",
+        "room_num": "63893",
+        "desc": "Advanced General Physics I"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "63894",
+        "desc": "Advanced General Physics II"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "63895",
+        "desc": "General Physics I"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "63896",
+        "desc": "General Physics II"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "63897",
+        "desc": "IS Advanced Physics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "63898",
+        "desc": "IS Modern Physics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "63899",
+        "desc": "IS: Ideas of Modern Physics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "63900",
+        "desc": "Ideas of Modern Physics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "63901",
+        "desc": "Independent Study: Electronics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "63902",
+        "desc": "Independent Study: Physics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "63903",
+        "desc": "Independent Study: Physics Lab"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "63904",
+        "desc": "Preview of General Physics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "63905",
+        "desc": "Research I"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "63906",
+        "desc": "Research II"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "63907",
+        "desc": "Research III"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "63908",
+        "desc": "Research IV"
+    }
+]

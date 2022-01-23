@@ -1,0 +1,477 @@
+[
+    {
+        "major": "COHE",
+        "room_num": "48021",
+        "desc": "Addictions and Dependencies"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48022",
+        "desc": "Adolescent Health"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48023",
+        "desc": "Advance Topic-AIDS Education"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48024",
+        "desc": "Advoc for Urban Prof"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48025",
+        "desc": "Aging & Law"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48026",
+        "desc": "Aging48027: COHE,\"Alcoholism"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48028",
+        "desc": "Asthma Control Program"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48029",
+        "desc": "Biostatistics"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48030",
+        "desc": "Case Management"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48031",
+        "desc": "Clinical Aspect Sexuality"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48032",
+        "desc": "Cmptrs: Public Health Res"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48033",
+        "desc": "Community Health Assessment"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48034",
+        "desc": "Community Health Interventions"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48035",
+        "desc": "Community Health Workers"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48036",
+        "desc": "Community Mental Health Pro"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48037",
+        "desc": "Couns:Sexalty&Fam Pl"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48038",
+        "desc": "Counsel Family Planning"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48039",
+        "desc": "Dev Effectiveness AIDS Educa"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48040",
+        "desc": "Env Just & Comm Health"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48041",
+        "desc": "Epidem of Infections"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48042",
+        "desc": "Ethnicity & Disease"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48043",
+        "desc": "Family & Personal Development"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48044",
+        "desc": "Family & Sexual Violence"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48045",
+        "desc": "Family Planning"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48046",
+        "desc": "Field Work 1"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48047",
+        "desc": "Fieldwork"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48048",
+        "desc": "Food Safety Policy & Science"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48049",
+        "desc": "GIS & Public Health"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48050",
+        "desc": "Geriatric Health Care System"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48051",
+        "desc": "H.R. Mgmt Health Science Admin"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48052",
+        "desc": "Health Advisement in Community"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48053",
+        "desc": "Health Care: Global Eco"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48054",
+        "desc": "Health Education in Workplace"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48055",
+        "desc": "Health Health:Community & Fund"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48056",
+        "desc": "Health Program Funding"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48057",
+        "desc": "Health:Community Org & Develop"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48058",
+        "desc": "Housing and Health"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48059",
+        "desc": "Human Resources Management"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48060",
+        "desc": "Human Sexuality"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48061",
+        "desc": "Immigrant Health & Law"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48062",
+        "desc": "Immigration & Health"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48063",
+        "desc": "Independent Study 1"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48064",
+        "desc": "Independent Study 2"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48065",
+        "desc": "Institutional Research"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48066",
+        "desc": "Interdis Res in Ph"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48067",
+        "desc": "International Health"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48068",
+        "desc": "International Health Agency"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48069",
+        "desc": "Intro Health Serv Management"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48070",
+        "desc": "Intro Health Serv Mgt"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48071",
+        "desc": "Intro to Clinical Medicine"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48072",
+        "desc": "Introduction to Gerontology"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48073",
+        "desc": "Introduction to Public Health"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48074",
+        "desc": "Issues Sexuality & Rep Women"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48075",
+        "desc": "Maternal & Children Health"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48076",
+        "desc": "Multicultural App AIDS"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48077",
+        "desc": "Multidisc:S.Bx & Har"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48078",
+        "desc": "New Issues Int\u2019l Health"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48079",
+        "desc": "Nutrition & Chronic Disease"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48080",
+        "desc": "Patient Education"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48081",
+        "desc": "Planning:Community Health"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48082",
+        "desc": "Prin Public Health Nutrition"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48083",
+        "desc": "Prog Management: Public Health"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48084",
+        "desc": "Public Health & Media"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48085",
+        "desc": "Public Health Adv:Thy & Prc"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48086",
+        "desc": "Public Health Law"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48087",
+        "desc": "Public Health Research"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48088",
+        "desc": "Qual Methods in Public Health"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48089",
+        "desc": "Reducing Disparities"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48090",
+        "desc": "Reproductive Health"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48091",
+        "desc": "Res & Methods: Comm Health"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48092",
+        "desc": "Research & Evaluation"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48093",
+        "desc": "Sem Current Health Problems 1"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48094",
+        "desc": "Sem Current Health Problems 2"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48095",
+        "desc": "Sexuality through Life Span"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48096",
+        "desc": "Soc Mrktng4 Soc Chng"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48097",
+        "desc": "Soc/Beh Dimens Health"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48098",
+        "desc": "Substance Abuse Policy"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48099",
+        "desc": "Survey Research Method"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48100",
+        "desc": "Topic:Aging & Minorities"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48101",
+        "desc": "Topic:Harm Reduction"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48102",
+        "desc": "Topic:Hunger in America"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48103",
+        "desc": "Topic:Prison Health"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48104",
+        "desc": "Topic:Repro Health:Dip"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48105",
+        "desc": "Topics Ch Polit System"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48106",
+        "desc": "Topics in COMHE - TBA"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48107",
+        "desc": "Topics in Che: AIDS/HIV"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48108",
+        "desc": "Topics:Patient Education"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48109",
+        "desc": "Topics:Urban Health"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48110",
+        "desc": "Tops: Basic Financial Mgmt"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48111",
+        "desc": "Tp:New App Preg Prev"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48112",
+        "desc": "Training in Health Profession"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48113",
+        "desc": "Urban & Environmental Health"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48114",
+        "desc": "Urban Issues & Intl Health"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48115",
+        "desc": "Women48116: COHE,\"Women\u2019s Health"
+    },
+    {
+        "major": "COHE",
+        "room_num": "48117",
+        "desc": "Writing for Public Health"
+    }
+]

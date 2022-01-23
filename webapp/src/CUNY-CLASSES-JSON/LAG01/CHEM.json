@@ -1,0 +1,62 @@
+[
+    {
+        "major": "CHEM",
+        "room_num": "81442",
+        "desc": "Biological Chemistry"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "81443",
+        "desc": "Chemistry of Photography"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "81444",
+        "desc": "Foundations of Chemistry"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "81445",
+        "desc": "Fundamentals of Chemistry 1"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "81446",
+        "desc": "Fundamentals of Chemistry 2"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "81447",
+        "desc": "General Chemistry I"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "81448",
+        "desc": "General Chemistry II"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "81449",
+        "desc": "Introduction to Chemistry"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "81450",
+        "desc": "Organic Chemistry I"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "81451",
+        "desc": "Organic Chemistry II"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "81452",
+        "desc": "Scc 196"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "81453",
+        "desc": "Topics in Chemistry"
+    }
+]

@@ -1,0 +1,554 @@
+[
+    {
+        "name": "AMNH",
+        "path": "AMNH.json"
+    },
+    {
+        "name": "CHEM",
+        "path": "CHEM.json"
+    },
+    {
+        "name": "PSYC",
+        "path": "PSYC.json"
+    },
+    {
+        "name": "GEOG",
+        "path": "GEOG.json"
+    },
+    {
+        "name": "EDSP",
+        "path": "EDSP.json"
+    },
+    {
+        "name": "ENGL",
+        "path": "ENGL.json"
+    },
+    {
+        "name": "EGCH",
+        "path": "EGCH.json"
+    },
+    {
+        "name": "LACS",
+        "path": "LACS.json"
+    },
+    {
+        "name": "EDPS",
+        "path": "EDPS.json"
+    },
+    {
+        "name": "NUTR",
+        "path": "NUTR.json"
+    },
+    {
+        "name": "LBST",
+        "path": "LBST.json"
+    },
+    {
+        "name": "HIST",
+        "path": "HIST.json"
+    },
+    {
+        "name": "ARFI",
+        "path": "ARFI.json"
+    },
+    {
+        "name": "SOCI",
+        "path": "SOCI.json"
+    },
+    {
+        "name": "AMST",
+        "path": "AMST.json"
+    },
+    {
+        "name": "COHE",
+        "path": "COHE.json"
+    },
+    {
+        "name": "CRIM",
+        "path": "CRIM.json"
+    },
+    {
+        "name": "NURS",
+        "path": "NURS.json"
+    },
+    {
+        "name": "DRAM",
+        "path": "DRAM.json"
+    },
+    {
+        "name": "PERM",
+        "path": "PERM.json"
+    },
+    {
+        "name": "PHYS",
+        "path": "PHYS.json"
+    },
+    {
+        "name": "UBST",
+        "path": "UBST.json"
+    },
+    {
+        "name": "BIMS",
+        "path": "BIMS.json"
+    },
+    {
+        "name": "EASC",
+        "path": "EASC.json"
+    },
+    {
+        "name": "STDV",
+        "path": "STDV.json"
+    },
+    {
+        "name": "DIHU",
+        "path": "DIHU.json"
+    },
+    {
+        "name": "ROLA",
+        "path": "ROLA.json"
+    },
+    {
+        "name": "TAXA",
+        "path": "TAXA.json"
+    },
+    {
+        "name": "FILM",
+        "path": "FILM.json"
+    },
+    {
+        "name": "BEST",
+        "path": "BEST.json"
+    },
+    {
+        "name": "QUAN",
+        "path": "QUAN.json"
+    },
+    {
+        "name": "ECON",
+        "path": "ECON.json"
+    },
+    {
+        "name": "COMM",
+        "path": "COMM.json"
+    },
+    {
+        "name": "FORD",
+        "path": "FORD.json"
+    },
+    {
+        "name": "ENSL",
+        "path": "ENSL.json"
+    },
+    {
+        "name": "EDUC",
+        "path": "EDUC.json"
+    },
+    {
+        "name": "STAB",
+        "path": "STAB.json"
+    },
+    {
+        "name": "LATI",
+        "path": "LATI.json"
+    },
+    {
+        "name": "SEYS",
+        "path": "SEYS.json"
+    },
+    {
+        "name": "TVRD",
+        "path": "TVRD.json"
+    },
+    {
+        "name": "HIND",
+        "path": "HIND.json"
+    },
+    {
+        "name": "HEBR",
+        "path": "HEBR.json"
+    },
+    {
+        "name": "PHED",
+        "path": "PHED.json"
+    },
+    {
+        "name": "MARK",
+        "path": "MARK.json"
+    },
+    {
+        "name": "MEDI",
+        "path": "MEDI.json"
+    },
+    {
+        "name": "WGST",
+        "path": "WGST.json"
+    },
+    {
+        "name": "ARTH",
+        "path": "ARTH.json"
+    },
+    {
+        "name": "GEOL",
+        "path": "GEOL.json"
+    },
+    {
+        "name": "FOSC",
+        "path": "FOSC.json"
+    },
+    {
+        "name": "REOR",
+        "path": "REOR.json"
+    },
+    {
+        "name": "FOCR",
+        "path": "FOCR.json"
+    },
+    {
+        "name": "MESG",
+        "path": "MESG.json"
+    },
+    {
+        "name": "AMSL",
+        "path": "AMSL.json"
+    },
+    {
+        "name": "IRIS",
+        "path": "IRIS.json"
+    },
+    {
+        "name": "BIST",
+        "path": "BIST.json"
+    },
+    {
+        "name": "INTP",
+        "path": "INTP.json"
+    },
+    {
+        "name": "INTE",
+        "path": "INTE.json"
+    },
+    {
+        "name": "CINE",
+        "path": "CINE.json"
+    },
+    {
+        "name": "ITAL",
+        "path": "ITAL.json"
+    },
+    {
+        "name": "SCIE",
+        "path": "SCIE.json"
+    },
+    {
+        "name": "EDUB",
+        "path": "EDUB.json"
+    },
+    {
+        "name": "ARCH",
+        "path": "ARCH.json"
+    },
+    {
+        "name": "REST",
+        "path": "REST.json"
+    },
+    {
+        "name": "PUAD",
+        "path": "PUAD.json"
+    },
+    {
+        "name": "COUN",
+        "path": "COUN.json"
+    },
+    {
+        "name": "GERM",
+        "path": "GERM.json"
+    },
+    {
+        "name": "CTTH",
+        "path": "CTTH.json"
+    },
+    {
+        "name": "BIOM",
+        "path": "BIOM.json"
+    },
+    {
+        "name": "MEAS",
+        "path": "MEAS.json"
+    },
+    {
+        "name": "NEWS",
+        "path": "NEWS.json"
+    },
+    {
+        "name": "REES",
+        "path": "REES.json"
+    },
+    {
+        "name": "EGEL",
+        "path": "EGEL.json"
+    },
+    {
+        "name": "GREK",
+        "path": "GREK.json"
+    },
+    {
+        "name": "JUST",
+        "path": "JUST.json"
+    },
+    {
+        "name": "BUSI",
+        "path": "BUSI.json"
+    },
+    {
+        "name": "LIST",
+        "path": "LIST.json"
+    },
+    {
+        "name": "RUTG",
+        "path": "RUTG.json"
+    },
+    {
+        "name": "BLAC",
+        "path": "BLAC.json"
+    },
+    {
+        "name": "BIOL",
+        "path": "BIOL.json"
+    },
+    {
+        "name": "PHTH",
+        "path": "PHTH.json"
+    },
+    {
+        "name": "EGNG",
+        "path": "EGNG.json"
+    },
+    {
+        "name": "ASAM",
+        "path": "ASAM.json"
+    },
+    {
+        "name": "AUDI",
+        "path": "AUDI.json"
+    },
+    {
+        "name": "EGBI",
+        "path": "EGBI.json"
+    },
+    {
+        "name": "PRIN",
+        "path": "PRIN.json"
+    },
+    {
+        "name": "GRCR",
+        "path": "GRCR.json"
+    },
+    {
+        "name": "CONE",
+        "path": "CONE.json"
+    },
+    {
+        "name": "ACCT",
+        "path": "ACCT.json"
+    },
+    {
+        "name": "AFST",
+        "path": "AFST.json"
+    },
+    {
+        "name": "EGME",
+        "path": "EGME.json"
+    },
+    {
+        "name": "ECED",
+        "path": "ECED.json"
+    },
+    {
+        "name": "CHIN",
+        "path": "CHIN.json"
+    },
+    {
+        "name": "SPAN",
+        "path": "SPAN.json"
+    },
+    {
+        "name": "ECOL",
+        "path": "ECOL.json"
+    },
+    {
+        "name": "ADVE",
+        "path": "ADVE.json"
+    },
+    {
+        "name": "HESC",
+        "path": "HESC.json"
+    },
+    {
+        "name": "ARPE",
+        "path": "ARPE.json"
+    },
+    {
+        "name": "POSC",
+        "path": "POSC.json"
+    },
+    {
+        "name": "LAW",
+        "path": "LAW.json"
+    },
+    {
+        "name": "POLI",
+        "path": "POLI.json"
+    },
+    {
+        "name": "THEA",
+        "path": "THEA.json"
+    },
+    {
+        "name": "SPEE",
+        "path": "SPEE.json"
+    },
+    {
+        "name": "EGCI",
+        "path": "EGCI.json"
+    },
+    {
+        "name": "EDHE",
+        "path": "EDHE.json"
+    },
+    {
+        "name": "MUSI",
+        "path": "MUSI.json"
+    },
+    {
+        "name": "TEAC",
+        "path": "TEAC.json"
+    },
+    {
+        "name": "RUSS",
+        "path": "RUSS.json"
+    },
+    {
+        "name": "BICH",
+        "path": "BICH.json"
+    },
+    {
+        "name": "INMS",
+        "path": "INMS.json"
+    },
+    {
+        "name": "LANG",
+        "path": "LANG.json"
+    },
+    {
+        "name": "EDPH",
+        "path": "EDPH.json"
+    },
+    {
+        "name": "FREN",
+        "path": "FREN.json"
+    },
+    {
+        "name": "WEIU",
+        "path": "WEIU.json"
+    },
+    {
+        "name": "PHIL",
+        "path": "PHIL.json"
+    },
+    {
+        "name": "DAAN",
+        "path": "DAAN.json"
+    },
+    {
+        "name": "LISC",
+        "path": "LISC.json"
+    },
+    {
+        "name": "COLI",
+        "path": "COLI.json"
+    },
+    {
+        "name": "SWAH",
+        "path": "SWAH.json"
+    },
+    {
+        "name": "MATH",
+        "path": "MATH.json"
+    },
+    {
+        "name": "ARAB",
+        "path": "ARAB.json"
+    },
+    {
+        "name": "PORT",
+        "path": "PORT.json"
+    },
+    {
+        "name": "SUSB",
+        "path": "SUSB.json"
+    },
+    {
+        "name": "CMIS",
+        "path": "CMIS.json"
+    },
+    {
+        "name": "PUAF",
+        "path": "PUAF.json"
+    },
+    {
+        "name": "CMSC",
+        "path": "CMSC.json"
+    },
+    {
+        "name": "CLAS",
+        "path": "CLAS.json"
+    },
+    {
+        "name": "WOST",
+        "path": "WOST.json"
+    },
+    {
+        "name": "SOSC",
+        "path": "SOSC.json"
+    },
+    {
+        "name": "ENSC",
+        "path": "ENSC.json"
+    },
+    {
+        "name": "SOWE",
+        "path": "SOWE.json"
+    },
+    {
+        "name": "ANTH",
+        "path": "ANTH.json"
+    },
+    {
+        "name": "FINA",
+        "path": "FINA.json"
+    },
+    {
+        "name": "BARD",
+        "path": "BARD.json"
+    },
+    {
+        "name": "LING",
+        "path": "LING.json"
+    },
+    {
+        "name": "DANC",
+        "path": "DANC.json"
+    },
+    {
+        "name": "PUPB",
+        "path": "PUPB.json"
+    },
+    {
+        "name": "EDCP",
+        "path": "EDCP.json"
+    },
+    {
+        "name": "GEOT",
+        "path": "GEOT.json"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "school": "HOS01",
+        "major": "CMIS",
+        "room_num": "64455",
+        "room_desc": "Adv Micro Concepts"
+    },
+    {
+        "school": "HOS01",
+        "major": "CMIS",
+        "room_num": "64456",
+        "room_desc": "Advanced Networking Concepts"
+    },
+    {
+        "school": "HOS01",
+        "major": "CMIS",
+        "room_num": "64457",
+        "room_desc": "Basic Networking Concepts"
+    },
+    {
+        "school": "HOS01",
+        "major": "CMIS",
+        "room_num": "64458",
+        "room_desc": "C++ Programming"
+    },
+    {
+        "school": "HOS01",
+        "major": "CMIS",
+        "room_num": "64459",
+        "room_desc": "Database Management Systems"
+    },
+    {
+        "school": "HOS01",
+        "major": "CMIS",
+        "room_num": "64460",
+        "room_desc": "Fund Data Comm & Net"
+    },
+    {
+        "school": "HOS01",
+        "major": "CMIS",
+        "room_num": "64461",
+        "room_desc": "Help Desk Support"
+    },
+    {
+        "school": "HOS01",
+        "major": "CMIS",
+        "room_num": "64462",
+        "room_desc": "Internship"
+    },
+    {
+        "school": "HOS01",
+        "major": "CMIS",
+        "room_num": "64463",
+        "room_desc": "Intro To Info System"
+    },
+    {
+        "school": "HOS01",
+        "major": "CMIS",
+        "room_num": "64464",
+        "room_desc": "Network Operating Systems"
+    },
+    {
+        "school": "HOS01",
+        "major": "CMIS",
+        "room_num": "64465",
+        "room_desc": "Object Oriented Programming"
+    },
+    {
+        "school": "HOS01",
+        "major": "CMIS",
+        "room_num": "64466",
+        "room_desc": "Operating Systems"
+    },
+    {
+        "school": "HOS01",
+        "major": "CMIS",
+        "room_num": "64467",
+        "room_desc": "Programming Logic & Design"
+    },
+    {
+        "school": "HOS01",
+        "major": "CMIS",
+        "room_num": "64468",
+        "room_desc": "Sys Anal&Design (HONORS)"
+    },
+    {
+        "school": "HOS01",
+        "major": "CMIS",
+        "room_num": "64469",
+        "room_desc": "Systems Anaylsis & Design"
+    }
+]

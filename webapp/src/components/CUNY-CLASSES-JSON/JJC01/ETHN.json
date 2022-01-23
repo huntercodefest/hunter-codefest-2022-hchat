@@ -1,0 +1,50 @@
+[
+    {
+        "school": "JJC01",
+        "major": "ETHN",
+        "room_num": "20417",
+        "room_desc": "Honors Ethnic Stdies"
+    },
+    {
+        "school": "JJC01",
+        "major": "ETHN",
+        "room_num": "20418",
+        "room_desc": "Interdisc Eth"
+    },
+    {
+        "school": "JJC01",
+        "major": "ETHN",
+        "room_num": "20419",
+        "room_desc": "Latina/O In The U.S."
+    },
+    {
+        "school": "JJC01",
+        "major": "ETHN",
+        "room_num": "20420",
+        "room_desc": "Pol Superv Race&Cult"
+    },
+    {
+        "school": "JJC01",
+        "major": "ETHN",
+        "room_num": "20421",
+        "room_desc": "Race and Ethnicity in America"
+    },
+    {
+        "school": "JJC01",
+        "major": "ETHN",
+        "room_num": "20422",
+        "room_desc": "The Africanam Exp"
+    },
+    {
+        "school": "JJC01",
+        "major": "ETHN",
+        "room_num": "20423",
+        "room_desc": "Thematic Ethnic Stds"
+    },
+    {
+        "school": "JJC01",
+        "major": "ETHN",
+        "room_num": "20424",
+        "room_desc": "Thematic-Ethnic"
+    }
+]

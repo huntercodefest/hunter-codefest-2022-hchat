@@ -1,0 +1,548 @@
+[
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18817",
+        "room_desc": "Adv Med Transcript"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18818",
+        "room_desc": "Advanced Sec Sci"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18819",
+        "room_desc": "Biling Sten II Greg"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18820",
+        "room_desc": "Biling Sten Ii Pit"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18821",
+        "room_desc": "Biling Steno I Greg"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18822",
+        "room_desc": "Biling Steno I Pit"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18823",
+        "room_desc": "Biling Steno Ii Grg"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18824",
+        "room_desc": "Biling Steno Ii Pit"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18825",
+        "room_desc": "Bilingal Typing II"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18826",
+        "room_desc": "Bilingual Stenography II"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18827",
+        "room_desc": "Bilingual Typing I"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18828",
+        "room_desc": "Ed Prob Sch Sec Ii"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18829",
+        "room_desc": "Ed Prob Sch Sed I"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18830",
+        "room_desc": "Exec Typing I"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18831",
+        "room_desc": "Exec Typing II"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18832",
+        "room_desc": "Intro Sec Sci I"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18833",
+        "room_desc": "Intro Sec Sci Ii"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18834",
+        "room_desc": "Intro Transcr Gregg"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18835",
+        "room_desc": "Intro Transcr Pit"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18836",
+        "room_desc": "Keypunch Operator"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18837",
+        "room_desc": "Legal Sten 1a Gregg"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18838",
+        "room_desc": "Legal Sten 1a Pitmn"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18839",
+        "room_desc": "Legal Sten 1b Gregg"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18840",
+        "room_desc": "Legal Sten 1b Pitmn"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18841",
+        "room_desc": "Legal Steno I Pitmn"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18842",
+        "room_desc": "Legal Steno Pitt"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18843",
+        "room_desc": "Legal Stenography I Gregg"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18844",
+        "room_desc": "Legal Stenography II"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18845",
+        "room_desc": "Legal Stenoii Gregg"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18846",
+        "room_desc": "Legal Trans I Gregg"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18847",
+        "room_desc": "Legal Trans I Pit"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18848",
+        "room_desc": "Legal Trans IIgreg"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18849",
+        "room_desc": "Legal Trans Ii Pit"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18850",
+        "room_desc": "Legal Typing I"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18851",
+        "room_desc": "Legal Typing II"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18852",
+        "room_desc": "Legal Vocab Gregg"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18853",
+        "room_desc": "Legal Vocab I Pl"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18854",
+        "room_desc": "Legal Vocab Pitman"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18855",
+        "room_desc": "Legal Vocabulary Gregg II"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18856",
+        "room_desc": "Legl Steno Ii Gregg"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18857",
+        "room_desc": "Legl Steno Ii Pitmn"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18858",
+        "room_desc": "Legl Vocab Pitmn Ii"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18859",
+        "room_desc": "Med Office Pract I"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18860",
+        "room_desc": "Med Office Pract Ii"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18861",
+        "room_desc": "Med Transcription"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18862",
+        "room_desc": "Medical Typewriting"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18863",
+        "room_desc": "Off Prac & Mach Ii"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18864",
+        "room_desc": "Off Pract & Mach I"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18865",
+        "room_desc": "Off Pract & Mach Ii"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18866",
+        "room_desc": "Office Practice"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18867",
+        "room_desc": "Personal Typing"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18868",
+        "room_desc": "Pit Legal Stenography II"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18869",
+        "room_desc": "Pre-Transcript Greg"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18870",
+        "room_desc": "Pre-Transcript Pit"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18871",
+        "room_desc": "Prob School Sec I"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18872",
+        "room_desc": "Prob School Sec II"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18873",
+        "room_desc": "SEC Directed Study"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18874",
+        "room_desc": "School Rec & Acct"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18875",
+        "room_desc": "School Records and Accounts"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18876",
+        "room_desc": "Sec Correspondence"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18877",
+        "room_desc": "Sec Directed Study"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18878",
+        "room_desc": "Steno Ii Pittman"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18879",
+        "room_desc": "Steno Theory Gregg"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18880",
+        "room_desc": "Steno Theory Pitman"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18881",
+        "room_desc": "Stenography I"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18882",
+        "room_desc": "Stenography Ii"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18883",
+        "room_desc": "Touch Shorthand I"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18884",
+        "room_desc": "Touch Shorthand Ii"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18885",
+        "room_desc": "Transcpt IIIa Gregg"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18886",
+        "room_desc": "Transcpt IIIb Gregg"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18887",
+        "room_desc": "Transcpt Iiia Pitmn"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18888",
+        "room_desc": "Transcpt Iiib Pitmn"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18889",
+        "room_desc": "Transcript I Gregg"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18890",
+        "room_desc": "Transcript I Pit"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18891",
+        "room_desc": "Transcript II Gregg"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18892",
+        "room_desc": "Transcript II Pit"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18893",
+        "room_desc": "Transcription III"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18894",
+        "room_desc": "Transcription IV"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18895",
+        "room_desc": "Transcrpt III Gregg"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18896",
+        "room_desc": "Transcrpt IV Gregg"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18897",
+        "room_desc": "Transcrpt IVb Gregg"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18898",
+        "room_desc": "Transcrpt Iii Pitmn"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18899",
+        "room_desc": "Transcrpt Iv Pitman"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18900",
+        "room_desc": "Transcrpt Iva Pitmn"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18901",
+        "room_desc": "Transcrpt Ivb Pitmn"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18902",
+        "room_desc": "Typewriting I"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18903",
+        "room_desc": "Typewriting II"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18904",
+        "room_desc": "Typewriting Ii"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18905",
+        "room_desc": "Word Processing Concepts"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18906",
+        "room_desc": "Word Processing I"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFTC",
+        "room_num": "18907",
+        "room_desc": "Word Processing II"
+    }
+]

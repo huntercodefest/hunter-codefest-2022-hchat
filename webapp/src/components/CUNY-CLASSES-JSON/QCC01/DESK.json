@@ -1,0 +1,284 @@
+[
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22548",
+        "room_desc": "Accelerated Reading Workshop"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22549",
+        "room_desc": "Advanced Composition ESL"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22550",
+        "room_desc": "Basic Read Esl Prerq"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22551",
+        "room_desc": "Basic Reading Skills ESL"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22552",
+        "room_desc": "Be 111 Placement"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22553",
+        "room_desc": "Be 122 Co Placement"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22554",
+        "room_desc": "Be 201 Placement"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22555",
+        "room_desc": "Be Remedial Waiver"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22556",
+        "room_desc": "Begin Composition ESL Students"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22557",
+        "room_desc": "CUNY START WKSP- Read&Write"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22558",
+        "room_desc": "Clip"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22559",
+        "room_desc": "Col Read Esl Coreq"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22560",
+        "room_desc": "Coll Read Stud & Sklls ESL Stu"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22561",
+        "room_desc": "College Read Prereq"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22562",
+        "room_desc": "College Reading & Study Skills"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22563",
+        "room_desc": "Communications Workshop"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22564",
+        "room_desc": "Composition Workshop"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22565",
+        "room_desc": "CunyStart Writing Wrkshp"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22566",
+        "room_desc": "Cunystart Reading Workshop"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22567",
+        "room_desc": "Dept Writing Exempt BE 111"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22568",
+        "room_desc": "Dev Read Writ for Continuing"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22569",
+        "room_desc": "Dev Read Writ for Incoming"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22570",
+        "room_desc": "Develop Read Prereq"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22571",
+        "room_desc": "Development of Reading Skills"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22572",
+        "room_desc": "Develpmt of Composition Skills"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22573",
+        "room_desc": "ESL Reading Writing Wksp CLIP"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22574",
+        "room_desc": "ESL Workshop CLIP Advanced"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22575",
+        "room_desc": "ESL Workshop CLIP Beginner"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22576",
+        "room_desc": "ESL Workshop CLIP High Beginnr"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22577",
+        "room_desc": "ESL Workshop CLIP High Intermd"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22578",
+        "room_desc": "ESL Workshop CLIP Low Beginner"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22579",
+        "room_desc": "ESL Workshop CLIP Low Intermd"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22580",
+        "room_desc": "Immersion Read Repeats"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22581",
+        "room_desc": "Immersion Write Repeats"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22582",
+        "room_desc": "Intermediate Composition ESL"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22583",
+        "room_desc": "Read & Write For Advance Esl"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22584",
+        "room_desc": "Reading Early Exit Workshop"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22585",
+        "room_desc": "Reading Immersion Program"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22586",
+        "room_desc": "Reading Wkshop - Incoming Stud"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22587",
+        "room_desc": "Reading Workshop"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22588",
+        "room_desc": "Remedial Writing"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22589",
+        "room_desc": "USIP WKSP - Reading22590: DESK,\"USIP for BE 203/225"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22591",
+        "room_desc": "Usip For Be111/121 Students"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22592",
+        "room_desc": "Usip For Be205/226"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22593",
+        "room_desc": "Writing Early Exit Workshop"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22594",
+        "room_desc": "Writing Wkshop - Incoming Stud"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "22595",
+        "room_desc": "Writing Workshop - CATW"
+    }
+]

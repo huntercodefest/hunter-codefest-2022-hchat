@@ -1,0 +1,37 @@
+[
+    {
+        "major": "POLI",
+        "room_num": "29802",
+        "desc": "Elem Polish 2"
+    },
+    {
+        "major": "POLI",
+        "room_num": "29803",
+        "desc": "Exempt (Cuny Aa/As)"
+    },
+    {
+        "major": "POLI",
+        "room_num": "29804",
+        "desc": "Inter Polish"
+    },
+    {
+        "major": "POLI",
+        "room_num": "29805",
+        "desc": "Polish Lang Exempt"
+    },
+    {
+        "major": "POLI",
+        "room_num": "29806",
+        "desc": "Req Met Based On H.S"
+    },
+    {
+        "major": "POLI",
+        "room_num": "29807",
+        "desc": "Req Met By Prior Wrk"
+    },
+    {
+        "major": "POLI",
+        "room_num": "29808",
+        "desc": "Req Met By Prof Exam"
+    }
+]

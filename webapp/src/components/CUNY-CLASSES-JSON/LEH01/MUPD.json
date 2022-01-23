@@ -1,0 +1,578 @@
+[
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13726",
+        "room_desc": "200-Level Elective"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13727",
+        "room_desc": "400-Level Elective"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13728",
+        "room_desc": "Acting for the Camera"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13729",
+        "room_desc": "Advanced Audio Production"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13730",
+        "room_desc": "Advertising"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13731",
+        "room_desc": "Africa in Cinema"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13732",
+        "room_desc": "African American Media"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13733",
+        "room_desc": "African Americans in Cinema"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13734",
+        "room_desc": "Argumentation and Advocacy"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13735",
+        "room_desc": "Audio Production"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13736",
+        "room_desc": "Audiovisual Production"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13737",
+        "room_desc": "Broadcast & Production Wksp"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13738",
+        "room_desc": "Broadcast Journalism"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13739",
+        "room_desc": "Broadcast Programming"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13740",
+        "room_desc": "Broadcast Workshop"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13741",
+        "room_desc": "Cinema Esthetics and Criticism"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13742",
+        "room_desc": "Communcation-Busin & Industry"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13743",
+        "room_desc": "Communication Theory"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13744",
+        "room_desc": "Communication in Society"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13745",
+        "room_desc": "Contemporary Rhetorical Theory"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13746",
+        "room_desc": "Contemporary Speeches"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13747",
+        "room_desc": "Contmp Tpcs-Persuas"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13748",
+        "room_desc": "Corp.Media & Commun."
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13749",
+        "room_desc": "Debate Workshop"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13750",
+        "room_desc": "Decision Making"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13751",
+        "room_desc": "Digital Editing"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13752",
+        "room_desc": "Digital Photojournalism"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13753",
+        "room_desc": "Dynamics of Persuasion"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13754",
+        "room_desc": "Ethnic TV"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13755",
+        "room_desc": "Field Video Production"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13756",
+        "room_desc": "Film Directing"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13757",
+        "room_desc": "Film Production"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13758",
+        "room_desc": "Foundations of Broadcasting"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13759",
+        "room_desc": "Foundations of Media"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13760",
+        "room_desc": "Freedom of Speech"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13761",
+        "room_desc": "Fund.Massmedia Writ."
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13762",
+        "room_desc": "Funds of Oral Comm"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13763",
+        "room_desc": "Group Communication"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13764",
+        "room_desc": "Grt Spchs W.Civilztn"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13765",
+        "room_desc": "History Of Cinema 2"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13766",
+        "room_desc": "History of Cinema II"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13767",
+        "room_desc": "History of the Cinema I"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13768",
+        "room_desc": "History of the Cinema II"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13769",
+        "room_desc": "Ind Study Mass Comm"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13770",
+        "room_desc": "Ind Sty Communc Arts"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13771",
+        "room_desc": "Inside Lehman"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13772",
+        "room_desc": "Internship I"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13773",
+        "room_desc": "Internship II"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13774",
+        "room_desc": "Interper&Grp Commun"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13775",
+        "room_desc": "Interpersonal&Small Group Com"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13776",
+        "room_desc": "Intro to Multilingual Media"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13777",
+        "room_desc": "Introduction to French Cinema"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13778",
+        "room_desc": "Italian Cinema"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13779",
+        "room_desc": "Journalism in the Movies"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13780",
+        "room_desc": "Language and Communication"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13781",
+        "room_desc": "Latin-American Cinema"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13782",
+        "room_desc": "Latinos in Film"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13783",
+        "room_desc": "Literary Journalism"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13784",
+        "room_desc": "Mass Media and Public Policy"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13785",
+        "room_desc": "Media-Thght Prsuadrs"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13786",
+        "room_desc": "Multimedia Journal Elect Crd"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13787",
+        "room_desc": "Multimedia Performing Arts Pro"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13788",
+        "room_desc": "Multimedia Studies Elect Crd"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13789",
+        "room_desc": "New Media"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13790",
+        "room_desc": "Non-Linear Editing"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13791",
+        "room_desc": "Not Yet Evaluated"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13792",
+        "room_desc": "On-Camera Technique"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13793",
+        "room_desc": "Opinion Writing &Talking Heads"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13794",
+        "room_desc": "Oral Interp. Liter"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13795",
+        "room_desc": "Perception13796: MUPD,\"Persuasion"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13797",
+        "room_desc": "Philosophy and Film"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13798",
+        "room_desc": "Public Speaking"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13799",
+        "room_desc": "Resch Communctn Arts"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13800",
+        "room_desc": "Research Project in Multimedia"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13801",
+        "room_desc": "Resrch Mass Communic"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13802",
+        "room_desc": "Rhetorical Theory & Criticsm"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13803",
+        "room_desc": "Screenwriting"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13804",
+        "room_desc": "Semi in Comm Thry & Resrch"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13805",
+        "room_desc": "Spec Stdy Comm Arts"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13806",
+        "room_desc": "Spec Studies in Mass Communic"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13807",
+        "room_desc": "Spokn Eng As 2d Lang"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13808",
+        "room_desc": "Sports Reporting"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13809",
+        "room_desc": "TV Studio Production"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13810",
+        "room_desc": "Television Directing"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13811",
+        "room_desc": "Television Production"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13812",
+        "room_desc": "The African American Media"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13813",
+        "room_desc": "The Anthropology of Media"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13814",
+        "room_desc": "The Bronx Journal TV Workshop"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13815",
+        "room_desc": "The Bronx Journal Workshop"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13816",
+        "room_desc": "The Documentary"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13817",
+        "room_desc": "Voice Production"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13818",
+        "room_desc": "Voice and Articulation"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13819",
+        "room_desc": "Voice and Speech for the Actor"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13820",
+        "room_desc": "Voice-Over for Radio/TV"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13821",
+        "room_desc": "Women13822: MUPD,\"Women/Minorit/Media"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "13823",
+        "room_desc": "Writing for the Mass Media"
+    }
+]

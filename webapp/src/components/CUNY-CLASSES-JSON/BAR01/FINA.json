@@ -1,0 +1,566 @@
+[
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60286",
+        "room_desc": "Advanced Corporate Finance"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60287",
+        "room_desc": "Advanced Investment Analysis"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60288",
+        "room_desc": "Analysis Industrial Securities"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60289",
+        "room_desc": "Capital Mkts/Institu"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60290",
+        "room_desc": "Capitl Mrkt/Portfol"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60291",
+        "room_desc": "Class Found Risk Mgt"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60292",
+        "room_desc": "Corp Rest & Turnaround Managem"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60293",
+        "room_desc": "Corporate Fin Theory"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60294",
+        "room_desc": "Corporate Finance"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60295",
+        "room_desc": "Credit Risk II"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60296",
+        "room_desc": "Current Prob Invest"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60297",
+        "room_desc": "Debt Instruments and Markets"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60298",
+        "room_desc": "Debt Securities"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60299",
+        "room_desc": "Dummy Fin"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60300",
+        "room_desc": "E-Finance"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60301",
+        "room_desc": "Equity Markets"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60302",
+        "room_desc": "Equity Mkt:Trd & Str"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60303",
+        "room_desc": "Exec Ms In Finance"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60304",
+        "room_desc": "Fin 9770 Lecture"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60305",
+        "room_desc": "Fin 99001/2 Lecture"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60306",
+        "room_desc": "Fin Mgt Small Bus En"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60307",
+        "room_desc": "Fin Mkts/Intermediar"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60308",
+        "room_desc": "Fin&Stock Index Futr"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60309",
+        "room_desc": "Finance Honors III"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60310",
+        "room_desc": "Financial Decision Making"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60311",
+        "room_desc": "Futures Markets"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60312",
+        "room_desc": "Futures and Forward Markets"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60313",
+        "room_desc": "Futures and Forwards"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60314",
+        "room_desc": "Hon Avd Corp Fin"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60315",
+        "room_desc": "Hon Int\u2019L Fin Market"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60316",
+        "room_desc": "Hon Spec Top Finance"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60317",
+        "room_desc": "Honors - Principles of Finance"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60318",
+        "room_desc": "Honors Corporate Finance"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60319",
+        "room_desc": "Honors Course in Finance"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60320",
+        "room_desc": "Honors Course in Finance II"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60321",
+        "room_desc": "Honors-Investments & Analysis"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60322",
+        "room_desc": "Imp Corp Gov Reg Eth"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60323",
+        "room_desc": "Independent Study FIN I"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60324",
+        "room_desc": "Independent Study Finance II"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60325",
+        "room_desc": "Int Financial Mkts"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60326",
+        "room_desc": "Intenatl Fin Markets"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60327",
+        "room_desc": "Intermediate Corporate Finance"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60328",
+        "room_desc": "International Corp Finance"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60329",
+        "room_desc": "International Financial Market"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60330",
+        "room_desc": "Internship in Finance I"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60331",
+        "room_desc": "Internship in Finance II"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60332",
+        "room_desc": "Introduction to Microfinance"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60333",
+        "room_desc": "Introduction to Quantitative"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60334",
+        "room_desc": "Investment Analysis"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60335",
+        "room_desc": "Investment Theory & Applicat"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60336",
+        "room_desc": "Life and Health Institute"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60337",
+        "room_desc": "Mergers"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60338",
+        "room_desc": "Mergers and Acquisitions"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60339",
+        "room_desc": "Metal and Agricultural Futures"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60340",
+        "room_desc": "Mgt Of Fin  Inst"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60341",
+        "room_desc": "Mm Credit Risk I"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60342",
+        "room_desc": "Ms Finance"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60343",
+        "room_desc": "Municipal&State Secu"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60344",
+        "room_desc": "Options"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60345",
+        "room_desc": "Options Markets"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60346",
+        "room_desc": "Personal Finance"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60347",
+        "room_desc": "Principles of Finance"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60348",
+        "room_desc": "Principles of Financial Planni"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60349",
+        "room_desc": "Property and Liability"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60350",
+        "room_desc": "Quantitative Tools for Finance"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60351",
+        "room_desc": "Real Estate Finance"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60352",
+        "room_desc": "Res Meth For Inv Fin"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60353",
+        "room_desc": "Res Mthd For Thesis"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60354",
+        "room_desc": "Res Sem Corp Fin I"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60355",
+        "room_desc": "Res Sem Corp Fin II"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60356",
+        "room_desc": "Res Sem Fin Inst I"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60357",
+        "room_desc": "Res Sem Fin Inst II"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60358",
+        "room_desc": "Res Sem Intnl Fin I"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60359",
+        "room_desc": "Res Sem Intnl Fin II"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60360",
+        "room_desc": "Res Sem Investments"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60361",
+        "room_desc": "Risk Management I"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60362",
+        "room_desc": "Risk Management in Financial"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60363",
+        "room_desc": "Risk Mgt Fin Inst II"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60364",
+        "room_desc": "Risks In Investments"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60365",
+        "room_desc": "Risks In Oper And It"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60366",
+        "room_desc": "Sel Topics Corp Fin"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60367",
+        "room_desc": "Selected Topics in Investments"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60368",
+        "room_desc": "Sem Hca Finance Mgt"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60369",
+        "room_desc": "Seminar in Finance"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60370",
+        "room_desc": "Spec Top in Corporate Finance"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60371",
+        "room_desc": "Special Topics in Corp Finance"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60372",
+        "room_desc": "Special Topics in Finance"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60373",
+        "room_desc": "Special Topics in Investments"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60374",
+        "room_desc": "THE MEAS AND MGT OF MKT RISk I"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60375",
+        "room_desc": "Technical Analysis"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60376",
+        "room_desc": "The Meas & Mgt Of Mkt Risk II"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60377",
+        "room_desc": "Thesis (Thesis II)"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60378",
+        "room_desc": "Ventr Cptl & Entrp F"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "60379",
+        "room_desc": "Venture Capital"
+    }
+]

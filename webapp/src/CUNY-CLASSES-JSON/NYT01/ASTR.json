@@ -1,0 +1,102 @@
+[
+    {
+        "major": "ASTR",
+        "room_num": "65430",
+        "desc": "Astronomy"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "65431",
+        "desc": "Astronomy 100-Level Elective"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "65432",
+        "desc": "Astronomy 300-Level Elective"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "65433",
+        "desc": "Astronomy 400-Level Elective"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "65434",
+        "desc": "Astronomy Ind Study"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "65435",
+        "desc": "Astronomy Independent Study"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "65436",
+        "desc": "Astronomy Internship"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "65437",
+        "desc": "Galactic Laboratory"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "65438",
+        "desc": "General Astronomy"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "65439",
+        "desc": "Introduction to Astrophysics"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "65440",
+        "desc": "Life In The Univ Lab"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "65441",
+        "desc": "Life in the Universe"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "65442",
+        "desc": "Observational Astronomy"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "65443",
+        "desc": "Planetary Geology"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "65444",
+        "desc": "Planetary Laboratory"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "65445",
+        "desc": "Solar System Theories"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "65446",
+        "desc": "Space Science I"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "65447",
+        "desc": "Space Science II"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "65448",
+        "desc": "Survey of the Universe"
+    },
+    {
+        "major": "ASTR",
+        "room_num": "65449",
+        "desc": "Universe Theories"
+    }
+]

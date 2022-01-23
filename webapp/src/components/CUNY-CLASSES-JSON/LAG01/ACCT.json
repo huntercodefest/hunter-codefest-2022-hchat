@@ -1,0 +1,626 @@
+[
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81101",
+        "room_desc": "Accounting 1 Part 1"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81102",
+        "room_desc": "Accounting 1 Part 2"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81103",
+        "room_desc": "Accounting I Part I"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81104",
+        "room_desc": "Accounting I Part II"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81105",
+        "room_desc": "Accounts Receivable Financing"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81106",
+        "room_desc": "Acct Apl Micro"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81107",
+        "room_desc": "Acct Apl Microcomptr"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81108",
+        "room_desc": "Administrative Law"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81109",
+        "room_desc": "Advanced Tour Planning"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81110",
+        "room_desc": "Airline Res Computer"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81111",
+        "room_desc": "Airline Reserv 1"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81112",
+        "room_desc": "Bankruptcy Law"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81113",
+        "room_desc": "Basic Tour Planning"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81114",
+        "room_desc": "Basics of Advertising"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81115",
+        "room_desc": "Bus Internship"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81116",
+        "room_desc": "Business Communications"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81117",
+        "room_desc": "Business Law I"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81118",
+        "room_desc": "Business Law II"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81119",
+        "room_desc": "C-Print I"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81120",
+        "room_desc": "C-Print II"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81121",
+        "room_desc": "Civil Litigation"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81122",
+        "room_desc": "Comp Apps For Paras"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81123",
+        "room_desc": "Comp Med Info Mgmt"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81124",
+        "room_desc": "Computer Apps Para"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81125",
+        "room_desc": "Cost Accounting"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81126",
+        "room_desc": "Cost Accounting 2"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81127",
+        "room_desc": "Cost Accounting I"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81128",
+        "room_desc": "Cost Accounting II"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81129",
+        "room_desc": "Criminal Law and Procedure"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81130",
+        "room_desc": "Customer Service and Sales"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81131",
+        "room_desc": "Ed Prob Sch Sec 1"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81132",
+        "room_desc": "Ed Prob Sch Sec 2"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81133",
+        "room_desc": "Electronic Office Procedures"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81134",
+        "room_desc": "Entrepreneurial Financing"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81135",
+        "room_desc": "Essential Computer Skills"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81136",
+        "room_desc": "Family Law"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81137",
+        "room_desc": "Financial Statement Analysis"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81138",
+        "room_desc": "Global Marketing"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81139",
+        "room_desc": "Immigration Law"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81140",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81141",
+        "room_desc": "Individ Income Tax"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81142",
+        "room_desc": "Intermediate Accounting I"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81143",
+        "room_desc": "Intermediate Accounting II"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81144",
+        "room_desc": "Internal Auditing"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81145",
+        "room_desc": "International Finance"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81146",
+        "room_desc": "Intro Credit Mangt"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81147",
+        "room_desc": "Intro Para Legal"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81148",
+        "room_desc": "Intro Trvl.Tour.Hosp"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81149",
+        "room_desc": "Introduction To Business"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81150",
+        "room_desc": "Introduction to Business"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81151",
+        "room_desc": "Introduction to E-Business"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81152",
+        "room_desc": "Int\u2019L Trade Document"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81153",
+        "room_desc": "Keyboarding I"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81154",
+        "room_desc": "Keyboarding II"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81155",
+        "room_desc": "Keyboarding III"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81156",
+        "room_desc": "Law Of Busn Enterp"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81157",
+        "room_desc": "Law Office Mgt"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81158",
+        "room_desc": "Leg Dic&Trans II Mac"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81159",
+        "room_desc": "Leg Dic&Trans II Pit"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81160",
+        "room_desc": "Leg Dict&Trans I Gr"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81161",
+        "room_desc": "Leg Dict&Trans I Mac"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81162",
+        "room_desc": "Leg Dict&Trans I Pit"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81163",
+        "room_desc": "Leg Dict&Trans II Gr"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81164",
+        "room_desc": "Legal Office Tech I"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81165",
+        "room_desc": "Legal Office Tech II"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81166",
+        "room_desc": "Legal Research and Writing"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81167",
+        "room_desc": "Marketing on the Internet"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81168",
+        "room_desc": "New Busi Ventures"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81169",
+        "room_desc": "Office&Personnel Mgt"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81170",
+        "room_desc": "Org&Oper A Small Bus"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81171",
+        "room_desc": "Personnel Admin"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81172",
+        "room_desc": "Prin Account 1 Pt 1"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81173",
+        "room_desc": "Prin Account 1 Pt 2"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81174",
+        "room_desc": "Prin Accounting 1"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81175",
+        "room_desc": "Prin Accounting 2"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81176",
+        "room_desc": "Prin Of Insurance"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81177",
+        "room_desc": "Prin Of Int\u2019L Bus"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81178",
+        "room_desc": "Principles Of Accounting 3"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81179",
+        "room_desc": "Principles of Accounting I"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81180",
+        "room_desc": "Principles of Accounting II"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81181",
+        "room_desc": "Principles of Finance"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81182",
+        "room_desc": "Principles of Management"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81183",
+        "room_desc": "Principles of Marketing"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81184",
+        "room_desc": "Principles of Personal Selling"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81185",
+        "room_desc": "Principles of Real Estate"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81186",
+        "room_desc": "Real Estate Law for Paralegals"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81187",
+        "room_desc": "Sch Records&Accounts"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81188",
+        "room_desc": "Steno I Gregg"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81189",
+        "room_desc": "Steno I Machine"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81190",
+        "room_desc": "Steno II Gregg"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81191",
+        "room_desc": "Steno II Machine"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81192",
+        "room_desc": "Steno III ABC"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81193",
+        "room_desc": "Steno III Gregg"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81194",
+        "room_desc": "Steno III Machine"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81195",
+        "room_desc": "Steno III Pitman"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81196",
+        "room_desc": "Term Med Off Person"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81197",
+        "room_desc": "Trav @ Tour Ind /Stu"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81198",
+        "room_desc": "Trav Tour Hosp Law"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81199",
+        "room_desc": "Trav Tour Hosp Mktg"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81200",
+        "room_desc": "Trav Tr Hosp Tech Sy"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81201",
+        "room_desc": "Urb Sty-Profile Bus"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81202",
+        "room_desc": "Wills81203: ACCT,\"Word Processing I"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81204",
+        "room_desc": "Word Processing II"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "81205",
+        "room_desc": "Wrld Trvl & Tour Des"
+    }
+]

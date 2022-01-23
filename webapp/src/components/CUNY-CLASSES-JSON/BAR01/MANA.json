@@ -1,0 +1,986 @@
+[
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60968",
+        "room_desc": "An Entrepreneurial Pre-Launch"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60969",
+        "room_desc": "Analysis Of Entr Exp"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60970",
+        "room_desc": "Applic Of Mgt Sci"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60971",
+        "room_desc": "Applied of Management Science"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60972",
+        "room_desc": "Arbitration"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60973",
+        "room_desc": "Board60974: MANA,\"Bus and Society Relationships"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60975",
+        "room_desc": "Capstone Research Seminar"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60976",
+        "room_desc": "Coll Bargain Pub Sec"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60977",
+        "room_desc": "Collective Barg II"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60978",
+        "room_desc": "Collective Bargaing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60979",
+        "room_desc": "Collective Bargaining"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60980",
+        "room_desc": "Comp Indstrl Rel Sys"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60981",
+        "room_desc": "Conflict Management Procedures"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60982",
+        "room_desc": "Cont Mgt Problems"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60983",
+        "room_desc": "Creating Entre Commu"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60984",
+        "room_desc": "Creating Entrepreneurial Oppor"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60985",
+        "room_desc": "Des Adm Trng Prog"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60986",
+        "room_desc": "Designing for Innovation"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60987",
+        "room_desc": "Developing Managerial Skills"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60988",
+        "room_desc": "Developing an Entrepreneurial"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60989",
+        "room_desc": "Directed Studies Ilr"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60990",
+        "room_desc": "Dispute Resolution"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60991",
+        "room_desc": "Dynamic Systems Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60992",
+        "room_desc": "Dynamics of Competition"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60993",
+        "room_desc": "Empl Discrimtn & Law"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60994",
+        "room_desc": "Employee Development Training"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60995",
+        "room_desc": "Employee Devlop &Trn"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60996",
+        "room_desc": "Employment Law"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60997",
+        "room_desc": "En Managing Ventures"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60998",
+        "room_desc": "Ent/Small Bus Exper"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "60999",
+        "room_desc": "Entr & Small Busines"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61000",
+        "room_desc": "Entre Strat And Case"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61001",
+        "room_desc": "Entrep & Comm Dvlpmt"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61002",
+        "room_desc": "Entrepreneurial Communication"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61003",
+        "room_desc": "Entrepreneurial Entr"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61004",
+        "room_desc": "Entrepreneurial Experiences"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61005",
+        "room_desc": "Entrepreneurial Startups"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61006",
+        "room_desc": "Entrepreneurial Teams61007: MANA,\"Entrepreneurship Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61008",
+        "room_desc": "Entrepreneurship Seminar"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61009",
+        "room_desc": "Entrepreneurship and Social Bu"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61010",
+        "room_desc": "Entrepreneurship in the Wild"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61011",
+        "room_desc": "Envir Sust Behav In Organizati"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61012",
+        "room_desc": "Facilities Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61013",
+        "room_desc": "Facilities Mgt"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61014",
+        "room_desc": "Family Business Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61015",
+        "room_desc": "Family Enterprise Dynamics"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61016",
+        "room_desc": "Fundamentals of Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61017",
+        "room_desc": "Globa & The Multi Corporation"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61018",
+        "room_desc": "Govt Adj Of Labor Dp"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61019",
+        "room_desc": "HC Informatics and Quality"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61020",
+        "room_desc": "Hon Ent Mgt"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61021",
+        "room_desc": "Hon Fund Of Mgt"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61022",
+        "room_desc": "Hon Management I"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61023",
+        "room_desc": "Honors - Management Behavior"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61024",
+        "room_desc": "Honors - Management II"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61025",
+        "room_desc": "Honors-Spec Topic in Mgmnt"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61026",
+        "room_desc": "Human Resource Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61027",
+        "room_desc": "Human Resource Metrics"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61028",
+        "room_desc": "Ilr Blanket Credit"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61029",
+        "room_desc": "Independent Study MGT II"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61030",
+        "room_desc": "Independent Study Management I"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61031",
+        "room_desc": "Internatl Comp Mgt"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61032",
+        "room_desc": "Interpreneurshp: Mng"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61033",
+        "room_desc": "Intl Human Resource Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61034",
+        "room_desc": "Lab Rel And Col Barg"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61035",
+        "room_desc": "Labor Economics"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61036",
+        "room_desc": "Labor Relations"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61037",
+        "room_desc": "Labor Relations Law"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61038",
+        "room_desc": "Labor Union Adminis"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61039",
+        "room_desc": "Labor Union History"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61040",
+        "room_desc": "Leadership Dev & Entre Applica"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61041",
+        "room_desc": "Leadership Development"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61042",
+        "room_desc": "Leading Org Chn for ENV Sustai"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61043",
+        "room_desc": "Leadrshp&Managerial"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61044",
+        "room_desc": "MBA Leadership Certificate"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61045",
+        "room_desc": "Management Honors I"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61046",
+        "room_desc": "Management Information Systems"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61047",
+        "room_desc": "Management Internship"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61048",
+        "room_desc": "Management Systems"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61049",
+        "room_desc": "Management and Society"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61050",
+        "room_desc": "Management of Compensation"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61051",
+        "room_desc": "Management of Innovation"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61052",
+        "room_desc": "Managerial Policies"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61053",
+        "room_desc": "Managing People and Orgnztions"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61054",
+        "room_desc": "Managing a Business Analytics"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61055",
+        "room_desc": "Managing the Family Business"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61056",
+        "room_desc": "Managng CII in Startups & Crps"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61057",
+        "room_desc": "Materials Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61058",
+        "room_desc": "Materials Mgt"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61059",
+        "room_desc": "Mgl Careers&Inter Rl"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61060",
+        "room_desc": "Mgt & Org Theory"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61061",
+        "room_desc": "Mgt 9721 Lecture"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61062",
+        "room_desc": "Mgt A Behavioral App"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61063",
+        "room_desc": "Mgt Health Care Inst"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61064",
+        "room_desc": "Mgt Informat Syst I"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61065",
+        "room_desc": "Mgt Of Multinat Corp"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61066",
+        "room_desc": "Mgt Of Organ Product"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61067",
+        "room_desc": "Mgt:A Behavioral App"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61068",
+        "room_desc": "Multicultural Entrepreneurial"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61069",
+        "room_desc": "Negotiation"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61070",
+        "room_desc": "Negotiation Strategy"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61071",
+        "room_desc": "Networking for Enterepreneurs"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61072",
+        "room_desc": "New Venture Funding"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61073",
+        "room_desc": "New Venture Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61074",
+        "room_desc": "Operation Planning Systems"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61075",
+        "room_desc": "Operational Systems Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61076",
+        "room_desc": "Org Analysis In Health Care"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61077",
+        "room_desc": "Org Behav Micro Per"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61078",
+        "room_desc": "Organ Design & Behav"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61079",
+        "room_desc": "Organizational Change"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61080",
+        "room_desc": "Organizational Design"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61081",
+        "room_desc": "Organizational Development"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61082",
+        "room_desc": "Personnel Admin"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61083",
+        "room_desc": "Planning Dynamics I"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61084",
+        "room_desc": "Prob In Hum Res Mgt"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61085",
+        "room_desc": "Project Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61086",
+        "room_desc": "Quality Assurance"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61087",
+        "room_desc": "Quality Assurance Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61088",
+        "room_desc": "Quant Service Manage"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61089",
+        "room_desc": "Real Estate Entrepreneurship"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61090",
+        "room_desc": "Res Method For Sem"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61091",
+        "room_desc": "Res Mthd For Thesis"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61092",
+        "room_desc": "Research Method For Thesis"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61093",
+        "room_desc": "Research Methods"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61094",
+        "room_desc": "Research Seminar"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61095",
+        "room_desc": "Rsch & Dvl Entr Vent"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61096",
+        "room_desc": "Sem In Mgt Science"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61097",
+        "room_desc": "Sem Mgt Inform Sys"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61098",
+        "room_desc": "Seminar Hrm/Labor"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61099",
+        "room_desc": "Seminar In Labor Rel"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61100",
+        "room_desc": "Seminar In Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61101",
+        "room_desc": "Seminar Strategic Mg"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61102",
+        "room_desc": "Service Management Strategies"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61103",
+        "room_desc": "Service Operations I"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61104",
+        "room_desc": "Service Operations II"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61105",
+        "room_desc": "Social Entrepreneurship"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61106",
+        "room_desc": "Social Entreprenrshp"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61107",
+        "room_desc": "Sp Top Hum Rec Mgt"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61108",
+        "room_desc": "Spc Topics in Entrepreneurship"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61109",
+        "room_desc": "Spe Top In Org Beh And Hrm"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61110",
+        "room_desc": "Spe Topics-Human Resource Mgmt"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61111",
+        "room_desc": "Spec Topic Col Bar"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61112",
+        "room_desc": "Spec Topics in Entrepreneurshp"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61113",
+        "room_desc": "Special Topics In Entreprenrsp"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61114",
+        "room_desc": "Special Topics In Entreprenshp"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61115",
+        "room_desc": "Special Topics In Entreprnshp"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61116",
+        "room_desc": "Special Topics In Opr Mgt"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61117",
+        "room_desc": "Special Topics in Entrepreneur"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61118",
+        "room_desc": "Special Topics in HRM"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61119",
+        "room_desc": "Special Topics in Human Resour"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61120",
+        "room_desc": "Special Topics in Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61121",
+        "room_desc": "Special Topics in Operations M"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61122",
+        "room_desc": "Strategic Planning"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61123",
+        "room_desc": "Strategy Formulation"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61124",
+        "room_desc": "Strategy and Competitive Adv"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61125",
+        "room_desc": "Sust In Spply Chains"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61126",
+        "room_desc": "Tech Innov & Design"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61127",
+        "room_desc": "Technology Strategy"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61128",
+        "room_desc": "Technology and Innovation in E"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61129",
+        "room_desc": "The Art of Persuasion"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61130",
+        "room_desc": "The Management of Compensation"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61131",
+        "room_desc": "Thesis"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61132",
+        "room_desc": "Women - Entreprl Ldr"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "61133",
+        "room_desc": "Women and Entrepreneurship"
+    }
+]

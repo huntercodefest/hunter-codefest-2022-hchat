@@ -1,0 +1,554 @@
+[
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84037",
+        "room_desc": "Adv Early Chldhd Sci & Math Ed"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84038",
+        "room_desc": "Adv Math Elem Grad 1-2"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84039",
+        "room_desc": "Adv Math-Elemntary"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84040",
+        "room_desc": "Adv Sci Elem Grd1-2"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84041",
+        "room_desc": "Adv Science-Elem"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84042",
+        "room_desc": "Adv Soc Stdy Ed Elem Schl Tchr"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84043",
+        "room_desc": "Advanced Art"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84044",
+        "room_desc": "Advanced Study in Reading"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84045",
+        "room_desc": "Aesthetic Education"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84046",
+        "room_desc": "Affective Dev Child"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84047",
+        "room_desc": "Big Ideas of Science"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84048",
+        "room_desc": "Child Abuse and Neglect"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84049",
+        "room_desc": "Child Naive Thry & Misconc Sci"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84050",
+        "room_desc": "Childhood Educatn"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84051",
+        "room_desc": "Children\u2019s Literature"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84052",
+        "room_desc": "Cont Curr In Early Child Edu"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84053",
+        "room_desc": "Creat Arts Integrated Early Ch"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84054",
+        "room_desc": "Early Child Edu 100-Level Elec"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84055",
+        "room_desc": "Early Child Ind Sutdy"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84056",
+        "room_desc": "Early Child Independent Study"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84057",
+        "room_desc": "Early Child Internsh"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84058",
+        "room_desc": "Early Childhood Mathematics Ed"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84059",
+        "room_desc": "Educ Soc Foundatns"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84060",
+        "room_desc": "Effect Lit Instr Elem Schl Lvl"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84061",
+        "room_desc": "Elem Edu Indep Stdy"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84062",
+        "room_desc": "Elem Edu Intrnshp"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84063",
+        "room_desc": "Elem Educ Ind Stdy"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84064",
+        "room_desc": "Elem Educ Internship"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84065",
+        "room_desc": "Element Edu Indep Stdy"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84066",
+        "room_desc": "Elementary Education"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84067",
+        "room_desc": "Elementary Education Intern"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84068",
+        "room_desc": "Erly Chld Ind Stdy"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84069",
+        "room_desc": "Expressive Art"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84070",
+        "room_desc": "Fldwk Presch Classrm"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84071",
+        "room_desc": "Int Strgy Readers"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84072",
+        "room_desc": "Intr Keyboard Fr Tea"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84073",
+        "room_desc": "Intro Semi on Infnts & Toddler"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84074",
+        "room_desc": "Intro to Early Childhood Educ"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84075",
+        "room_desc": "Issues In Math Educa"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84076",
+        "room_desc": "Lang & Lit in the Early Child"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84077",
+        "room_desc": "Language84078: EDEM,\"Learn Strat for Elem Soc Stud"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84079",
+        "room_desc": "Lit Dev&Lang Elem Ed"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84080",
+        "room_desc": "Literacy Assessment"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84081",
+        "room_desc": "Literacy Coaching"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84082",
+        "room_desc": "Math Curr In Elem Sc"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84083",
+        "room_desc": "Math Lab Methods"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84084",
+        "room_desc": "Math Pedagogy Elem"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84085",
+        "room_desc": "Math/Sci/Mus Elem Ed"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84086",
+        "room_desc": "Mdrn Physics Fr Teac"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84087",
+        "room_desc": "Music & Movement"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84088",
+        "room_desc": "Music Lit In Chld Ed"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84089",
+        "room_desc": "Part I: Big Ideas of Science"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84090",
+        "room_desc": "Part I: Children\u2019s Naive Theo"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84091",
+        "room_desc": "Part I: Sci Exp Design Element"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84092",
+        "room_desc": "Part II: Big Ideas of Science"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84093",
+        "room_desc": "Part II: Nave Child Theories"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84094",
+        "room_desc": "Part II: Sci Exp Design Elemen"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84095",
+        "room_desc": "Patterns in Mathematics"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84096",
+        "room_desc": "Physics Elem Teachrs"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84097",
+        "room_desc": "Psy Found Early Chld"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84098",
+        "room_desc": "Psy Foundations"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84099",
+        "room_desc": "Reading & Writing in the Prim"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84100",
+        "room_desc": "Reading II"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84101",
+        "room_desc": "Reading In Lang Arts"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84102",
+        "room_desc": "Ref&Analy Ec Stu Tch"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84103",
+        "room_desc": "Ref&Analy Tchg Elem"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84104",
+        "room_desc": "Reflec&Analy Std Tch"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84105",
+        "room_desc": "Sci Curric- Elementary School"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84106",
+        "room_desc": "Science Exp Design Elementary"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84107",
+        "room_desc": "Soc Contexts of Early Child"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84108",
+        "room_desc": "Soc Stdys in Early Chldhd Edu"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84109",
+        "room_desc": "Soc Stud Curr & Peda"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84110",
+        "room_desc": "Soc. Found of Early Childhood"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84111",
+        "room_desc": "Soc/Art/Rdg & Lang Arts in Ed"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84112",
+        "room_desc": "Social Studies Issues Lit&Mus"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84113",
+        "room_desc": "Special Topics In Literacy"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84114",
+        "room_desc": "Stdnt Tchg Elem Ed"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84115",
+        "room_desc": "Stdnt Teachg/Elem Ed"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84116",
+        "room_desc": "Stud Teaching and Seminar II"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84117",
+        "room_desc": "Student Teaching"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84118",
+        "room_desc": "Student Teaching Elem Edu"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84119",
+        "room_desc": "Student Teaching and Seminar i"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84120",
+        "room_desc": "Tchg & Lrng Soc Stdy Ed"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84121",
+        "room_desc": "Tchg Prac II Elem Ed"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84122",
+        "room_desc": "Tchg Pract I Elem Ed"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84123",
+        "room_desc": "Tchg&Lrng Math El Ed"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84124",
+        "room_desc": "Tchg&Lrng Rdg Ele Ed"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84125",
+        "room_desc": "Tchg&Lrng Sci El Ed"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84126",
+        "room_desc": "Teach Sci As Ins in Early Chil"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84127",
+        "room_desc": "Thematic Content SS"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84128",
+        "room_desc": "Writing For Teachers"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "84129",
+        "room_desc": "Writing for Teachers"
+    }
+]

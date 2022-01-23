@@ -1,0 +1,47 @@
+[
+    {
+        "major": "BIOL",
+        "room_num": "64181",
+        "desc": "Biology II"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "64182",
+        "desc": "General Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "64183",
+        "desc": "Genetics"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "64184",
+        "desc": "Human Anatomy & Physiology I"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "64185",
+        "desc": "Human Anatomy & Physiology II"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "64186",
+        "desc": "Human Biology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "64187",
+        "desc": "Intro to Life & Envirment Sci"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "64188",
+        "desc": "Microbiology"
+    },
+    {
+        "major": "BIOL",
+        "room_num": "64189",
+        "desc": "Pathophysiology"
+    }
+]

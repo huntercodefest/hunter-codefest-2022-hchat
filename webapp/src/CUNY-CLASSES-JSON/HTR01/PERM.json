@@ -1,0 +1,72 @@
+[
+    {
+        "major": "PERM",
+        "room_num": "55103",
+        "desc": "Permit Course"
+    },
+    {
+        "major": "PERM",
+        "room_num": "55104",
+        "desc": "Permit Course - 0.50 Credits"
+    },
+    {
+        "major": "PERM",
+        "room_num": "55105",
+        "desc": "Permit Course - 1 Credit"
+    },
+    {
+        "major": "PERM",
+        "room_num": "55106",
+        "desc": "Permit Course - 10 Credits"
+    },
+    {
+        "major": "PERM",
+        "room_num": "55107",
+        "desc": "Permit Course - 12 Credits"
+    },
+    {
+        "major": "PERM",
+        "room_num": "55108",
+        "desc": "Permit Course - 2 Credits"
+    },
+    {
+        "major": "PERM",
+        "room_num": "55109",
+        "desc": "Permit Course - 3 Credits"
+    },
+    {
+        "major": "PERM",
+        "room_num": "55110",
+        "desc": "Permit Course - 4 Credits"
+    },
+    {
+        "major": "PERM",
+        "room_num": "55111",
+        "desc": "Permit Course - 5 Credits"
+    },
+    {
+        "major": "PERM",
+        "room_num": "55112",
+        "desc": "Permit Course - 6 Credits"
+    },
+    {
+        "major": "PERM",
+        "room_num": "55113",
+        "desc": "Permit Course - 7 Credits"
+    },
+    {
+        "major": "PERM",
+        "room_num": "55114",
+        "desc": "Permit Course - 8 Credits"
+    },
+    {
+        "major": "PERM",
+        "room_num": "55115",
+        "desc": "Permit Course-9 Credits"
+    },
+    {
+        "major": "PERM",
+        "room_num": "55116",
+        "desc": "Permit Course-IV Credits"
+    }
+]

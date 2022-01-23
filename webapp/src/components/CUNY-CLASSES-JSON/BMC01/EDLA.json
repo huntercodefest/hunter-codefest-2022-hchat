@@ -1,0 +1,44 @@
+[
+    {
+        "school": "BMC01",
+        "major": "EDLA",
+        "room_num": "17815",
+        "room_desc": "Applied Lib Service"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDLA",
+        "room_num": "17816",
+        "room_desc": "LTP Directed Study"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDLA",
+        "room_num": "17817",
+        "room_desc": "Lib & Lib Resources"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDLA",
+        "room_num": "17818",
+        "room_desc": "Ltp Directed Study"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDLA",
+        "room_num": "17819",
+        "room_desc": "Media Mat & Equip"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDLA",
+        "room_num": "17820",
+        "room_desc": "Pub Service In Lib"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDLA",
+        "room_num": "17821",
+        "room_desc": "Tech Proc In Lib"
+    }
+]

@@ -1,0 +1,380 @@
+[
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59165",
+        "room_desc": "Animal Behavior"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59166",
+        "room_desc": "BIO 2010L Lecture"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59167",
+        "room_desc": "BIO 3001 Lecture"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59168",
+        "room_desc": "BIO 3010L Lecture"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59169",
+        "room_desc": "BIO 3015 Lecture"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59170",
+        "room_desc": "BIO 4004 Lecture"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59171",
+        "room_desc": "Biological Applications of Phy"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59172",
+        "room_desc": "Biology Advanced Ele"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59173",
+        "room_desc": "Biology Honors I"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59174",
+        "room_desc": "Biology of Green Plants"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59175",
+        "room_desc": "Biology of Invertebrates"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59176",
+        "room_desc": "Biostatistics"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59177",
+        "room_desc": "Cell Biology"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59178",
+        "room_desc": "Comp Vert Anat Lect"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59179",
+        "room_desc": "Comparative Vertebrate Anatomy"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59180",
+        "room_desc": "Consv Bio & Sust Dev"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59181",
+        "room_desc": "Development Biology"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59182",
+        "room_desc": "Endocrinology"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59183",
+        "room_desc": "Environmental Modeling"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59184",
+        "room_desc": "Freshwater Ecology"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59185",
+        "room_desc": "Freshwater Ecology Lecture"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59186",
+        "room_desc": "Fund Of Bio - Gen59187: BIOL,\"Fund Of Bio: Human Bio Lab"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59188",
+        "room_desc": "Fund Of Bio: Human Bio Lect"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59189",
+        "room_desc": "Fund Of Living Systm"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59190",
+        "room_desc": "Fundamentals of Biology"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59191",
+        "room_desc": "Gen Bio Structure and Function"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59192",
+        "room_desc": "Gen Biol: Hered & Ev"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59193",
+        "room_desc": "Hon Consv Bio & Sus"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59194",
+        "room_desc": "Hon Independent Study BIO I"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59195",
+        "room_desc": "Honors"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59196",
+        "room_desc": "Honors - Microbiology"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59197",
+        "room_desc": "Honors Biology II"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59198",
+        "room_desc": "Honors Biology III"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59199",
+        "room_desc": "Honors Comp Vertebrate Anatomy"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59200",
+        "room_desc": "Honors Gen Bio Structure"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59201",
+        "room_desc": "Honors Living World"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59202",
+        "room_desc": "Honors Principles of Biology I"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59203",
+        "room_desc": "Human Physiology"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59204",
+        "room_desc": "Independent Study Biology I"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59205",
+        "room_desc": "Independent Study Biology II"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59206",
+        "room_desc": "Independent Study Biology III"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59207",
+        "room_desc": "Independent Study Biology IV"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59208",
+        "room_desc": "Independent Study Biology V"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59209",
+        "room_desc": "Intro Molecular Bio"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59210",
+        "room_desc": "Lect Gen Bio Struc"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59211",
+        "room_desc": "Lect Surv Living Wld"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59212",
+        "room_desc": "Microbiology"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59213",
+        "room_desc": "Mind59214: BIOL,\"Molecular and Cellular Biology"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59215",
+        "room_desc": "Organic Evolution"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59216",
+        "room_desc": "Plants in Action"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59217",
+        "room_desc": "Plants in Action Lecture"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59218",
+        "room_desc": "Population Biology"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59219",
+        "room_desc": "Principles of Biology I"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59220",
+        "room_desc": "Principles of Biology II"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59221",
+        "room_desc": "Principles of Evolution: Proce"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59222",
+        "room_desc": "Principles of Genetics"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59223",
+        "room_desc": "Reading Science"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59224",
+        "room_desc": "Special Problems"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59225",
+        "room_desc": "Survey of the Living World"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59226",
+        "room_desc": "Survey of the Living World Lec"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59227",
+        "room_desc": "The Biology of Cells"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59228",
+        "room_desc": "The Biology of Cells Lecture"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "59229",
+        "room_desc": "Vertebrate Histology"
+    }
+]

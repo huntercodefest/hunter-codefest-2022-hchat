@@ -1,0 +1,566 @@
+[
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75668",
+        "room_desc": "A History of Ideas in Physics"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75669",
+        "room_desc": "Advanced Lab 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75670",
+        "room_desc": "Advanced Laboratory I"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75671",
+        "room_desc": "Advanced Modern Physics"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75672",
+        "room_desc": "Advanced Study"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75673",
+        "room_desc": "Anal Mechanics"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75674",
+        "room_desc": "Analytical Dynamics"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75675",
+        "room_desc": "Analytical Mechanics"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75676",
+        "room_desc": "Applied Optics"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75677",
+        "room_desc": "Astronomical Lab"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75678",
+        "room_desc": "Astrophysics"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75679",
+        "room_desc": "Astrophysics and Cosmology"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75680",
+        "room_desc": "Atom &Quant Mech 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75681",
+        "room_desc": "Atom &Quant Mech 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75682",
+        "room_desc": "Atomic Physics"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75683",
+        "room_desc": "Calculus-Based Gen Phys  1"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75684",
+        "room_desc": "Calculus-Based General Phys 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75685",
+        "room_desc": "Condensed Matter Phy"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75686",
+        "room_desc": "Cosmology"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75687",
+        "room_desc": "Einstein Role In Modern Physic"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75688",
+        "room_desc": "Elect Measuremt Lab"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75689",
+        "room_desc": "Elective"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75690",
+        "room_desc": "Electr & Magnet"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75691",
+        "room_desc": "Electric Circuits"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75692",
+        "room_desc": "Electrical  Measurements Lab"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75693",
+        "room_desc": "Electromagnetic Theory"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75694",
+        "room_desc": "Electromagnetic Theory I"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75695",
+        "room_desc": "Electromagnetic Theory II"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75696",
+        "room_desc": "Electronics"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75697",
+        "room_desc": "Energy & Society"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75698",
+        "room_desc": "Energy Use and Climate Change"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75699",
+        "room_desc": "Forces & Motion"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75700",
+        "room_desc": "Gen Phys &Computer"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75701",
+        "room_desc": "Gen Physics & Computer"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75702",
+        "room_desc": "General 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75703",
+        "room_desc": "General 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75704",
+        "room_desc": "General 3"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75705",
+        "room_desc": "General Physics I"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75706",
+        "room_desc": "General Physics IA"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75707",
+        "room_desc": "General Physics IB"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75708",
+        "room_desc": "General Physics II"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75709",
+        "room_desc": "Graduate Physics Laboratory"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75710",
+        "room_desc": "His&Bio Stud Physics"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75711",
+        "room_desc": "Independent Research I"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75712",
+        "room_desc": "Independent Research II"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75713",
+        "room_desc": "Independent Study 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75714",
+        "room_desc": "Independent Study I"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75715",
+        "room_desc": "Independent Study II"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75716",
+        "room_desc": "Intr Theoret Phys"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75717",
+        "room_desc": "Intr To Meterorology"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75718",
+        "room_desc": "Intro Atom Physics"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75719",
+        "room_desc": "Introd Lab Rsrch"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75720",
+        "room_desc": "Introduction to Astronomy"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75721",
+        "room_desc": "Introduction to Modern Physics"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75722",
+        "room_desc": "Issues in Physics and Society"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75723",
+        "room_desc": "Laws That Govern Universe"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75724",
+        "room_desc": "Life In Universe"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75725",
+        "room_desc": "Math Methods in Physics II"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75726",
+        "room_desc": "Math Physics"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75727",
+        "room_desc": "Mathemat Methods 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75728",
+        "room_desc": "Mathemat Methods 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75729",
+        "room_desc": "Mechanics"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75730",
+        "room_desc": "Meteorology"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75731",
+        "room_desc": "Mod Topics Phy Sci"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75732",
+        "room_desc": "Modern Physics Laboratory"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75733",
+        "room_desc": "Nuclear Physics"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75734",
+        "room_desc": "Particle Physics"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75735",
+        "room_desc": "Phy 634"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75736",
+        "room_desc": "Phys:Laws That Govern Universe"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75737",
+        "room_desc": "Physical Science"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75738",
+        "room_desc": "Physics & Philos"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75739",
+        "room_desc": "Physics Jhs Tchr 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75740",
+        "room_desc": "Physics Jhs Tchr 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75741",
+        "room_desc": "Physics Jhs Tchr 3"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75742",
+        "room_desc": "Physics and Society"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75743",
+        "room_desc": "Physics in Medicine"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75744",
+        "room_desc": "Quantum Mechanic 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75745",
+        "room_desc": "Quantum Mechanics I"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75746",
+        "room_desc": "Quantum Mechanics II"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75747",
+        "room_desc": "Radioact & Nucl Phys"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75748",
+        "room_desc": "Search for Life in Universe"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75749",
+        "room_desc": "Seminar I"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75750",
+        "room_desc": "Seminar II"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75751",
+        "room_desc": "Senior Project"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75752",
+        "room_desc": "Solid-state Physics"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75753",
+        "room_desc": "Special Topics in Physics"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75754",
+        "room_desc": "Statistical Mechanics"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75755",
+        "room_desc": "Statistical Physics"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75756",
+        "room_desc": "Survey of the Universe"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75757",
+        "room_desc": "Tech Experiment Res"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75758",
+        "room_desc": "The Making of the Atomic Bomb"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75759",
+        "room_desc": "Thermodynmc & Stat Mechnc"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75760",
+        "room_desc": "Thesis Research"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "75761",
+        "room_desc": "Topic Nuclear Physic"
+    }
+]

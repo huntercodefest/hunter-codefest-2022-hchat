@@ -1,0 +1,32 @@
+[
+    {
+        "major": "EDHP",
+        "room_num": "63188",
+        "desc": "Cardio Fitness"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "63189",
+        "desc": "Concepts of Wellness"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "63190",
+        "desc": "Fitness Assmnt/Persc"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "63191",
+        "desc": "Fitness Assmnt/Presc"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "63192",
+        "desc": "Fitness/Assess/Presc"
+    },
+    {
+        "major": "EDHP",
+        "room_num": "63193",
+        "desc": "IS Fit Assess/Prescr"
+    }
+]

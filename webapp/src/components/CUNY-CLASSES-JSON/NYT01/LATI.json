@@ -1,0 +1,26 @@
+[
+    {
+        "school": "NYT01",
+        "major": "LATI",
+        "room_num": "67505",
+        "room_desc": "Basic Latin I"
+    },
+    {
+        "school": "NYT01",
+        "major": "LATI",
+        "room_num": "67506",
+        "room_desc": "Basic Latin II"
+    },
+    {
+        "school": "NYT01",
+        "major": "LATI",
+        "room_num": "67507",
+        "room_desc": "Continuing Latin I"
+    },
+    {
+        "school": "NYT01",
+        "major": "LATI",
+        "room_num": "67508",
+        "room_desc": "LAT Independent Study"
+    }
+]

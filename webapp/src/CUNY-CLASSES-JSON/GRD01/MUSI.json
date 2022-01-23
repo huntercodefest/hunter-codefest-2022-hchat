@@ -1,0 +1,902 @@
+[
+    {
+        "major": "MUSI",
+        "room_num": "7735",
+        "desc": "20C Performance Practice"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7736",
+        "desc": "20c Analysis"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7737",
+        "desc": "20c Mus:Revol/After"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7738",
+        "desc": "20th Cent Performance Practice"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7739",
+        "desc": "2nd Viennese School"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7740",
+        "desc": "Acoustics"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7741",
+        "desc": "Adc Studies in Music History"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7742",
+        "desc": "Adv Aolfege & Score Reading"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7743",
+        "desc": "Adv Conducting Seminar"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7744",
+        "desc": "Adv Jazz Comp and Arranging"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7745",
+        "desc": "Adv Music History 2"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7746",
+        "desc": "Adv Orchestration"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7747",
+        "desc": "Adv Seminars in Composition"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7748",
+        "desc": "Adv Solfege & Score Reading"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7749",
+        "desc": "Adv Stdy Thry 2"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7750",
+        "desc": "Adv Studies in Music History 2"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7751",
+        "desc": "Adv Studies in Music Theory"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7752",
+        "desc": "Advanced Jazz Composition"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7753",
+        "desc": "Advanced Orchestration"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7754",
+        "desc": "African Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7755",
+        "desc": "Analysis for Performers"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7756",
+        "desc": "Analysis in Performance"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7757",
+        "desc": "Analysis of 20th Century Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7758",
+        "desc": "Analysis of Popular Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7759",
+        "desc": "Analysis of Tonal Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7760",
+        "desc": "Anlys 20 Cent Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7761",
+        "desc": "Baroq Perfrm Pract"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7762",
+        "desc": "Baroque Ensemble"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7763",
+        "desc": "Beginning Keyboard Techniq"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7764",
+        "desc": "Beginning Piano"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7765",
+        "desc": "Bibliography"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7766",
+        "desc": "Bldng Electronic Mus Instrum"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7767",
+        "desc": "Class String Qartet"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7768",
+        "desc": "Collegium Musicum"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7769",
+        "desc": "Colloquium"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7770",
+        "desc": "Compos Tutorial"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7771",
+        "desc": "Composers\u2019 Forum"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7772",
+        "desc": "Composers\u2019 Seminar"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7773",
+        "desc": "Composer\u2019S Forum"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7774",
+        "desc": "Composrs Seminar"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7775",
+        "desc": "Computer Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7776",
+        "desc": "Computer Music 2"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7777",
+        "desc": "Computer Music I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7778",
+        "desc": "Computer Music II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7779",
+        "desc": "Computer Synth Electronic Mus"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7780",
+        "desc": "Concerto"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7781",
+        "desc": "Conducting"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7782",
+        "desc": "Contempo Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7783",
+        "desc": "Contemporary Music Ensemble"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7784",
+        "desc": "Counterpoint"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7785",
+        "desc": "DMA Topics"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7786",
+        "desc": "Debussy & Ravel"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7787",
+        "desc": "Dissertation Supervision"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7788",
+        "desc": "Early Romanticism"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7789",
+        "desc": "Electonic Music Studio I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7790",
+        "desc": "Electrn Mus Study I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7791",
+        "desc": "Electronic Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7792",
+        "desc": "Electronic Music 2"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7793",
+        "desc": "Electronic Music I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7794",
+        "desc": "Electronic Music Ii"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7795",
+        "desc": "Elementary Piano I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7796",
+        "desc": "Elementary Voice I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7797",
+        "desc": "Ensemble"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7798",
+        "desc": "Ethno: Transcription & Anlysis"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7799",
+        "desc": "Ethnomusicology II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7800",
+        "desc": "Form And Analysis"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7801",
+        "desc": "Franz Schubert"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7802",
+        "desc": "Fretted Instrument Workshop"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7803",
+        "desc": "Guitar Ensemble I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7804",
+        "desc": "Hist Of Opera/Probm"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7805",
+        "desc": "History Of Theory I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7806",
+        "desc": "History of Sound Art"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7807",
+        "desc": "Independent Resch"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7808",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7809",
+        "desc": "Intro To Music Rsrch"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7810",
+        "desc": "Introduction to Musicology"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7811",
+        "desc": "Jazz Ensemble"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7812",
+        "desc": "Jazz History"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7813",
+        "desc": "Jazz Improvisation"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7814",
+        "desc": "Jazz Theory"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7815",
+        "desc": "Jazz Vocal Wkshp Ensemble"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7816",
+        "desc": "Jazz/Adv Improvisat"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7817",
+        "desc": "Latin Band"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7818",
+        "desc": "Medieval Notation"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7819",
+        "desc": "Motet:Middle Ages-Cntr Rfrmtn"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7820",
+        "desc": "Mus Hist: Dvorak to Ellington"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7821",
+        "desc": "Mus Rsch-Persp&Lacn"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7822",
+        "desc": "Mus Systems/Speculative Thry"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7823",
+        "desc": "Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7824",
+        "desc": "Music Baroque Period"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7825",
+        "desc": "Music Iconography"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7826",
+        "desc": "Music Of Philosophy"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7827",
+        "desc": "Music Skills"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7828",
+        "desc": "Music Theory"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7829",
+        "desc": "Music Theory 3"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7830",
+        "desc": "Music Theory 4"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7831",
+        "desc": "Music Theory Fundamentals"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7832",
+        "desc": "Music Theory I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7833",
+        "desc": "Music Theory Iii"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7834",
+        "desc": "Music Thry I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7835",
+        "desc": "Music in the 1970\u2019s"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7836",
+        "desc": "New Music Laboratory"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7837",
+        "desc": "Notation Mediev Mus"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7838",
+        "desc": "Opera Production"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7839",
+        "desc": "Opera Workshop"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7840",
+        "desc": "Operas Of Mozart"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7841",
+        "desc": "Orfeo/Figaro/Fidelo"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7842",
+        "desc": "Organology"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7843",
+        "desc": "Paris: 1870-1930"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7844",
+        "desc": "Perf Practices: Art Song"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7845",
+        "desc": "Perf Sem:Baroque"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7846",
+        "desc": "Perf Workshop: Renaissance"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7847",
+        "desc": "Perf. Workshop: Middle Ages"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7848",
+        "desc": "Perform Workshop Conducting"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7849",
+        "desc": "Performance 3"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7850",
+        "desc": "Performance I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7851",
+        "desc": "Performance Ii"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7852",
+        "desc": "Performance Practices: 20C"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7853",
+        "desc": "Philosophies of Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7854",
+        "desc": "Piano"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7855",
+        "desc": "Priv Lessons Conductors"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7856",
+        "desc": "Pro-Seminar: Ethnomusicology"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7857",
+        "desc": "Pro-Seminar: Music History"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7858",
+        "desc": "Pro-Seminar: Theory Analysis"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7859",
+        "desc": "Pro-Seminar: Theory/Analysis"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7860",
+        "desc": "Prob Ethnomus Fld Wrk/Analy"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7861",
+        "desc": "Problems in Notation"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7862",
+        "desc": "Proposal Writ Ethnomusicology"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7863",
+        "desc": "Proseminar in Music History"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7864",
+        "desc": "Proseminar in Teaching Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7865",
+        "desc": "Proseminar: Bach"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7866",
+        "desc": "Queens Collge Choir"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7867",
+        "desc": "Queens Vocal Ensemb"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7868",
+        "desc": "Renaissance Notation"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7869",
+        "desc": "Repertoire Study"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7870",
+        "desc": "Resrch Technqs Ethnomusicology"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7871",
+        "desc": "Romant Perform Prac"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7872",
+        "desc": "ST: Composition"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7873",
+        "desc": "ST: Ethnomusicology"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7874",
+        "desc": "ST: Music History"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7875",
+        "desc": "ST: Theory Analysis"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7876",
+        "desc": "ST: Theory and Analysis"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7877",
+        "desc": "ST: Theory/Analysis"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7878",
+        "desc": "Schenkerian Anlysis"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7879",
+        "desc": "Scoring Film Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7880",
+        "desc": "Sem In Perf:Baroque"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7881",
+        "desc": "Sem in Classic Era:Chamber Mus"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7882",
+        "desc": "Sem: Baroque Perf"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7883",
+        "desc": "Sem: String Quartet"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7884",
+        "desc": "Sem:Medieval Stud."
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7885",
+        "desc": "Seminar in Composition I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7886",
+        "desc": "Seminar in Ethnomusicology"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7887",
+        "desc": "Seminar in Music Criticism"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7888",
+        "desc": "Seminar in Music History"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7889",
+        "desc": "Seminar: Ethnomusicology"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7890",
+        "desc": "Seminar: Theory"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7891",
+        "desc": "Seminars in Jazz History"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7892",
+        "desc": "Seminars: the Romantic Era"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7893",
+        "desc": "Sonata Form"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7894",
+        "desc": "Sonata Form/Stylcrt"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7895",
+        "desc": "Source Studies/Perf Practice"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7896",
+        "desc": "Spec Problm/Compositn Tutorial"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7897",
+        "desc": "Spec Tpcs: Theory"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7898",
+        "desc": "Special Problem"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7899",
+        "desc": "Structures I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7900",
+        "desc": "Structures Music 2"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7901",
+        "desc": "Structures Music I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7902",
+        "desc": "Structures of Music 2:  Form"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7903",
+        "desc": "Studies History Music Theory"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7904",
+        "desc": "Studio Tutorial"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7905",
+        "desc": "Style and Idea"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7906",
+        "desc": "The French Baroque"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7907",
+        "desc": "The Medieval Era"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7908",
+        "desc": "The Mus Of J.S.Bach"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7909",
+        "desc": "The Romantic Era"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7910",
+        "desc": "Trad Chin Drum/Chmb"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7911",
+        "desc": "Tutorial"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7912",
+        "desc": "Vocal Lit/Solo Voic"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7913",
+        "desc": "Vocal Pedagogy"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "7914",
+        "desc": "Wind Ensemble"
+    }
+]

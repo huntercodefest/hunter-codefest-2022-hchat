@@ -1,0 +1,404 @@
+[
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30784",
+        "room_desc": "ABA I: Basics of Reinforcement"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30785",
+        "room_desc": "ABA II: Adv Concepts & Strateg"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30786",
+        "room_desc": "ABA III: Behavior Assessment"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30787",
+        "room_desc": "Adv Curr/Meth Ear Ch"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30788",
+        "room_desc": "Adv Research in Special Educ"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30789",
+        "room_desc": "Adv Sem in Early Childhood"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30790",
+        "room_desc": "Adv Seminar Adolescent"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30791",
+        "room_desc": "Advanced Seminar in ABA"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30792",
+        "room_desc": "Advanced Seminar in Childhood"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30793",
+        "room_desc": "App Behave in Multicult Cntxts"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30794",
+        "room_desc": "Applied Behavior Analysis"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30795",
+        "room_desc": "Assessment for CLD Children"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30796",
+        "room_desc": "Assistive & Instructional Tech"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30797",
+        "room_desc": "Behav Assess Interve"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30798",
+        "room_desc": "Build Partnerships"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30799",
+        "room_desc": "Clinical Residency I"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30800",
+        "room_desc": "Clinical Residency II"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30801",
+        "room_desc": "Clinical Residency III"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30802",
+        "room_desc": "Coll w/Fam & School-Based Team"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30803",
+        "room_desc": "Collab & Co-Teaching Inclusive"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30804",
+        "room_desc": "Curr Dev :Early Chld"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30805",
+        "room_desc": "Curr Dev:Childhood"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30806",
+        "room_desc": "Curric & Instr for Adolescent"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30807",
+        "room_desc": "Curric & Instruc for Childhood"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30808",
+        "room_desc": "Curric Development"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30809",
+        "room_desc": "Curric&Instruc Early Childhood"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30810",
+        "room_desc": "ECSE & Bilingual Ed I (3-5)"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30811",
+        "room_desc": "ECSE &Bilingual Ed II (Age5-8)"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30812",
+        "room_desc": "Early Intervention (Birth-3)"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30813",
+        "room_desc": "Ethics & Professionalism ABA"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30814",
+        "room_desc": "Eval Ind W/ Disabil"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30815",
+        "room_desc": "Families and School-Based Team"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30816",
+        "room_desc": "Fnds Special & Bilingual Edu"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30817",
+        "room_desc": "Foundations Of Special Ed"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30818",
+        "room_desc": "Foundations of Special Edu"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30819",
+        "room_desc": "Indep Study Spec Ed"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30820",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30821",
+        "room_desc": "Intensive Practicum ABA I"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30822",
+        "room_desc": "Intensive Practicum ABA II"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30823",
+        "room_desc": "Intern Child Sp Educ"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30824",
+        "room_desc": "Intern Dis Early Chd"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30825",
+        "room_desc": "Intern Disab:Chlhood"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30826",
+        "room_desc": "Intern Early Chld Se"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30827",
+        "room_desc": "Intern:Bilng Spec Ed"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30828",
+        "room_desc": "Intern:Tchg Exc Indv"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30829",
+        "room_desc": "Internship Severe Disabilities"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30830",
+        "room_desc": "Intro Assessment Adolescent"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30831",
+        "room_desc": "Intro Assessment Early Child"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30832",
+        "room_desc": "Intro Assessment in Childhood"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30833",
+        "room_desc": "Lang & Lit: Chldhd Spcl Edu"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30834",
+        "room_desc": "Lang&Lit Dev Bilingual"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30835",
+        "room_desc": "Lang&Lit: Adolescent"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30836",
+        "room_desc": "Lang&Lit: Early Childhood"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30837",
+        "room_desc": "Oral Lang Dev Spec & Bilingual"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30838",
+        "room_desc": "Pract Early Intervention CLD"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30839",
+        "room_desc": "Pract Significant Disabilities"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30840",
+        "room_desc": "Research in Special Education"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30841",
+        "room_desc": "Sch Psy In Sch/Comm"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30842",
+        "room_desc": "Sem Res Special Educ"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30843",
+        "room_desc": "Supervised Internship"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30844",
+        "room_desc": "Tchg Emot Disb"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30845",
+        "room_desc": "Tchg Writ Exc Child"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30846",
+        "room_desc": "Teach Biling Spec Ed"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30847",
+        "room_desc": "Trends And Issues"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30848",
+        "room_desc": "Trends/Iss Early Ch"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30849",
+        "room_desc": "VT: Workshop Spec Ed"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "30850",
+        "room_desc": "Workshop in Special Education"
+    }
+]

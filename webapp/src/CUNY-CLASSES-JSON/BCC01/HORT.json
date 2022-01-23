@@ -1,0 +1,47 @@
+[
+    {
+        "major": "HORT",
+        "room_num": "69190",
+        "desc": "Arboriculture 1"
+    },
+    {
+        "major": "HORT",
+        "room_num": "69191",
+        "desc": "Arboriculture II"
+    },
+    {
+        "major": "HORT",
+        "room_num": "69192",
+        "desc": "Greenhouse Operation I"
+    },
+    {
+        "major": "HORT",
+        "room_num": "69193",
+        "desc": "Horticult Field Exp"
+    },
+    {
+        "major": "HORT",
+        "room_num": "69194",
+        "desc": "Nursery Operations I"
+    },
+    {
+        "major": "HORT",
+        "room_num": "69195",
+        "desc": "Perennials I"
+    },
+    {
+        "major": "HORT",
+        "room_num": "69196",
+        "desc": "Perennials II"
+    },
+    {
+        "major": "HORT",
+        "room_num": "69197",
+        "desc": "Turf And Ground Management II"
+    },
+    {
+        "major": "HORT",
+        "room_num": "69198",
+        "desc": "Turf and Ground Maintenance"
+    }
+]

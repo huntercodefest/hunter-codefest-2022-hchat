@@ -1,0 +1,32 @@
+[
+    {
+        "school": "BMC01",
+        "major": "ARAB",
+        "room_num": "17210",
+        "room_desc": "Arabic III"
+    },
+    {
+        "school": "BMC01",
+        "major": "ARAB",
+        "room_num": "17211",
+        "room_desc": "Arabic IV"
+    },
+    {
+        "school": "BMC01",
+        "major": "ARAB",
+        "room_num": "17212",
+        "room_desc": "Elem Arab for Speakers of Arab"
+    },
+    {
+        "school": "BMC01",
+        "major": "ARAB",
+        "room_num": "17213",
+        "room_desc": "Elementary Arabic I"
+    },
+    {
+        "school": "BMC01",
+        "major": "ARAB",
+        "room_num": "17214",
+        "room_desc": "Elementary Arabic II"
+    }
+]

@@ -1,0 +1,642 @@
+[
+    {
+        "major": "MUSI",
+        "room_num": "85674",
+        "desc": "20th Century Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85675",
+        "desc": "American Musical Theater"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85676",
+        "desc": "Arranging for Jazz Ensemble"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85677",
+        "desc": "Audio for Moving Images"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85678",
+        "desc": "Baroque Era Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85679",
+        "desc": "Beginners Piano I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85680",
+        "desc": "Beginners Piano II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85681",
+        "desc": "Brass"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85682",
+        "desc": "Chamber Mus Hist&Lit"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85683",
+        "desc": "Chorus I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85684",
+        "desc": "Chorus II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85685",
+        "desc": "Chorus III"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85686",
+        "desc": "Chorus IV"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85687",
+        "desc": "Classic Era Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85688",
+        "desc": "Classic Guitar I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85689",
+        "desc": "Classical Guitar II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85690",
+        "desc": "Collegium Music I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85691",
+        "desc": "Collegium Music II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85692",
+        "desc": "Composing in the Popular Idiom"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85693",
+        "desc": "Composition I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85694",
+        "desc": "Composition II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85695",
+        "desc": "Conducting"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85696",
+        "desc": "Counterpoint"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85697",
+        "desc": "Counterpoint II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85698",
+        "desc": "Eighth-Semester Pvt Lessons"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85699",
+        "desc": "Ensemble I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85700",
+        "desc": "Ensemble II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85701",
+        "desc": "Ensemble III"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85702",
+        "desc": "Ensemble IV"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85703",
+        "desc": "Fifth-Semester Private Lessons"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85704",
+        "desc": "First-Semester Private Lessons"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85705",
+        "desc": "Fourth Sem Prv Les"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85706",
+        "desc": "Guitar Ensemble I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85707",
+        "desc": "Guitar Ensemble II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85708",
+        "desc": "Guitar Ensemble III"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85709",
+        "desc": "Guitar Ensemble IV"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85710",
+        "desc": "Hist&Lit Of Opera"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85711",
+        "desc": "Improvisation"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85712",
+        "desc": "Innovators in Jazz"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85713",
+        "desc": "Instrumentation and Scoring"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85714",
+        "desc": "Inter Jazz/Rock II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85715",
+        "desc": "Introduction to Jazz History"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85716",
+        "desc": "Introduction to Music History"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85717",
+        "desc": "Introduction to Music Theory"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85718",
+        "desc": "Jazz Combo"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85719",
+        "desc": "Jazz Compositiion And Analysis"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85720",
+        "desc": "Jazz Ensemble I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85721",
+        "desc": "Jazz Ensemble II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85722",
+        "desc": "Jazz Ensemble III"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85723",
+        "desc": "Jazz Ensemble IV"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85724",
+        "desc": "Jazz Harmony"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85725",
+        "desc": "Jazz Performance Techniques"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85726",
+        "desc": "Jazz Repertoire Combo"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85727",
+        "desc": "Junior Project (Composition)"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85728",
+        "desc": "Junior Project (Performance)"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85729",
+        "desc": "Junior Project Research"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85730",
+        "desc": "Keyboard Musicianship I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85731",
+        "desc": "Keyboard Musicianship II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85732",
+        "desc": "Keyboard Musicianship III"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85733",
+        "desc": "Keyboard Musicianship IV"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85734",
+        "desc": "Literature and Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85735",
+        "desc": "Major Composer I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85736",
+        "desc": "Major Composer II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85737",
+        "desc": "Modal Counterpoint"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85738",
+        "desc": "Multi Track Mix Mast"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85739",
+        "desc": "Multitrack Recordg I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85740",
+        "desc": "Multitrack Recording"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85741",
+        "desc": "Multitrk Mix & Mstr"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85742",
+        "desc": "Music Credit"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85743",
+        "desc": "Music History I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85744",
+        "desc": "Music History II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85745",
+        "desc": "Music History III"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85746",
+        "desc": "Music History IV"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85747",
+        "desc": "Music Ind Study"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85748",
+        "desc": "Music Independent Study"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85749",
+        "desc": "Music Internship"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85750",
+        "desc": "Music Technology"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85751",
+        "desc": "Music Theory I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85752",
+        "desc": "Music Theory II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85753",
+        "desc": "Music in American Life"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85754",
+        "desc": "Musical Performance I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85755",
+        "desc": "Musical Performance II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85756",
+        "desc": "Musical Performance III"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85757",
+        "desc": "Musical Performance IV"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85758",
+        "desc": "Musicianship I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85759",
+        "desc": "Musicianship II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85760",
+        "desc": "Musicianship III"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85761",
+        "desc": "Musicianship IV"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85762",
+        "desc": "Orchestra Condctng"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85763",
+        "desc": "Orchestra I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85764",
+        "desc": "Orchestra II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85765",
+        "desc": "Orchestra III"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85766",
+        "desc": "Orchestra IV"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85767",
+        "desc": "Orchestration"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85768",
+        "desc": "Percussion"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85769",
+        "desc": "Perf W/Computer & Electronics"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85770",
+        "desc": "Performance Workshop I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85771",
+        "desc": "Performance Workshop II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85772",
+        "desc": "Performance Workshop III"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85773",
+        "desc": "Performance Workshop IV"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85774",
+        "desc": "Performance Workshop V"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85775",
+        "desc": "Performance Workshop VI"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85776",
+        "desc": "Performance Workshop VII"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85777",
+        "desc": "Performance Workshop VIII"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85778",
+        "desc": "Piano I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85779",
+        "desc": "Piano II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85780",
+        "desc": "Private Study I"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85781",
+        "desc": "Private Study II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85782",
+        "desc": "Private Study III"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85783",
+        "desc": "Private Study IV"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85784",
+        "desc": "Rock Harmony"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85785",
+        "desc": "Romantic Era Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85786",
+        "desc": "Rudiments of Music"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85787",
+        "desc": "Score Analysis"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85788",
+        "desc": "Secnd Sem Priv Les"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85789",
+        "desc": "Senior Project (Composition)"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85790",
+        "desc": "Senior Project (Performance)"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85791",
+        "desc": "Senior Project (Research)"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85792",
+        "desc": "Seventh Sem Prv Les"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85793",
+        "desc": "Sixth-Semester Private Lessons"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85794",
+        "desc": "Strings"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85795",
+        "desc": "Struct Analysis II"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85796",
+        "desc": "Symphony Hist&Lit"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85797",
+        "desc": "The Music of J.S. Bach"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85798",
+        "desc": "Third-Semester Private Lessons"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85799",
+        "desc": "Twentieth-Century Directions"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85800",
+        "desc": "Woodwinds"
+    },
+    {
+        "major": "MUSI",
+        "room_num": "85801",
+        "desc": "World Music"
+    }
+]

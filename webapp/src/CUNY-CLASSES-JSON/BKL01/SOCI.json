@@ -1,0 +1,822 @@
+[
+    {
+        "major": "SOCI",
+        "room_num": "76614",
+        "desc": "3rd Wrld Urbanizat"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76615",
+        "desc": "Advanced Criminology"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76616",
+        "desc": "Advanced Statistics"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76617",
+        "desc": "Aging in America"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76618",
+        "desc": "Amer Jewish Commun"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76619",
+        "desc": "Aspects Princ Life"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76620",
+        "desc": "Bl Crimnal Just Syst"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76621",
+        "desc": "Blacks in Amer Crim Just Syst"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76622",
+        "desc": "Bureaucracy&Organ"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76623",
+        "desc": "Classical Social Theory"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76624",
+        "desc": "Comm & Soc Organiz 1"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76625",
+        "desc": "Comm And Soc Organ 2"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76626",
+        "desc": "Community Organizat"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76627",
+        "desc": "Consumer Society & Culture"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76628",
+        "desc": "Consumer Socty& Cult"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76629",
+        "desc": "Contemp Soc Theory"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76630",
+        "desc": "Contemp Social Welfare Policy"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76631",
+        "desc": "Contemp Sociol Thry"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76632",
+        "desc": "Contemp Urb/Welf Pol"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76633",
+        "desc": "Contemporary American Society"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76634",
+        "desc": "Contemporary Social Theory"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76635",
+        "desc": "Corr And Rehab"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76636",
+        "desc": "Correc And Rehabil"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76637",
+        "desc": "Courtship & Marriage"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76638",
+        "desc": "Criminology"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76639",
+        "desc": "Cult Areas World"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76640",
+        "desc": "Cultur & Personality"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76641",
+        "desc": "Culture and Personalty"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76642",
+        "desc": "Data in Social &Behavioral Sci"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76643",
+        "desc": "Demography"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76644",
+        "desc": "Devel Soc Theory"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76645",
+        "desc": "Develop Sociol Theory"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76646",
+        "desc": "Deviance and Social Problems"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76647",
+        "desc": "Deviant Behavior"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76648",
+        "desc": "Dynam Of Modern&Glob"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76649",
+        "desc": "Environmental Sociology"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76650",
+        "desc": "Field Research"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76651",
+        "desc": "Gender and Society"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76652",
+        "desc": "Global Cities"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76653",
+        "desc": "Group Dynamics"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76654",
+        "desc": "Gulture Analysis"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76655",
+        "desc": "Hist Of Soc Welfare"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76656",
+        "desc": "History of Social Welfare"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76657",
+        "desc": "Hum Behvr&Soc Env 11"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76658",
+        "desc": "Immigrants in New York City"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76659",
+        "desc": "Indep Supervised Res I"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76660",
+        "desc": "Independent Reading"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76661",
+        "desc": "Internship-Applied"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76662",
+        "desc": "Internship-Applied Sociology"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76663",
+        "desc": "Intro Anthrop"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76664",
+        "desc": "Intro to Crime & Delinquency"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76665",
+        "desc": "Introduction to Sociology"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76666",
+        "desc": "Introductory Statistics"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76667",
+        "desc": "Juvenile Delinquency"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76668",
+        "desc": "Mapping Social Data"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76669",
+        "desc": "Mass Comm Mod Soc"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76670",
+        "desc": "Mass Comm in Modern Society"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76671",
+        "desc": "Mass Communication"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76672",
+        "desc": "Mass Communications & Media"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76673",
+        "desc": "Math Meth"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76674",
+        "desc": "Mental Hlth&Illnss"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76675",
+        "desc": "Minority Groups"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76676",
+        "desc": "Mod Family Probs"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76677",
+        "desc": "Negotiating Work &Family in US"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76678",
+        "desc": "Negro In Us"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76679",
+        "desc": "Ny Metropol Region"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76680",
+        "desc": "Organizationl Change"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76681",
+        "desc": "Political Sociology"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76682",
+        "desc": "Population and Society"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76683",
+        "desc": "Prac Of Soc Research"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76684",
+        "desc": "Princ Of Sociology"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76685",
+        "desc": "Pvt Rel/Mod Societ"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76686",
+        "desc": "Qual Meth Soc Res"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76687",
+        "desc": "Race and Ethnicity"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76688",
+        "desc": "Race76689: SOCI,\"Race76690: SOCI,\"Research Methods I"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76691",
+        "desc": "Research Methods II"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76692",
+        "desc": "Resrch Sem Socy Special Topics"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76693",
+        "desc": "Rsch For Social Wkrs"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76694",
+        "desc": "Rural Society"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76695",
+        "desc": "Selected Topics 2"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76696",
+        "desc": "Self & Society"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76697",
+        "desc": "Sem Comm & Soc Org"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76698",
+        "desc": "Sem Soc Theory"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76699",
+        "desc": "Sem: Urban Commun"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76700",
+        "desc": "Seminar In Sociology"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76701",
+        "desc": "Seminar in Sociology"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76702",
+        "desc": "Seminar:Soc Process"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76703",
+        "desc": "Senior Seminar"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76704",
+        "desc": "Soc 773"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76705",
+        "desc": "Soc Adjust In Family"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76706",
+        "desc": "Soc Factor Dev Behvr"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76707",
+        "desc": "Soc Of Aging"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76708",
+        "desc": "Soc Of Art&Lit"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76709",
+        "desc": "Soc Of Sex Roles"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76710",
+        "desc": "Soc Of Work In Usa"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76711",
+        "desc": "Soc Prob Mass Soc"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76712",
+        "desc": "Soc Probs Mass Socty"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76713",
+        "desc": "Soc Proc & Insti 2"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76714",
+        "desc": "Soc of Globalzatn &Sustainblty"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76715",
+        "desc": "Social Change"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76716",
+        "desc": "Social Class"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76717",
+        "desc": "Social Conflict"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76718",
+        "desc": "Social Interaction"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76719",
+        "desc": "Social Movements"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76720",
+        "desc": "Social Networks"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76721",
+        "desc": "Social Problems"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76722",
+        "desc": "Social Theory 1"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76723",
+        "desc": "Social Wk & Occup"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76724",
+        "desc": "Social Work Practice I"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76725",
+        "desc": "Sociol Of Knowledge"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76726",
+        "desc": "Sociol Of Religion"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76727",
+        "desc": "Sociol Statistics"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76728",
+        "desc": "Sociol Urban Comm"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76729",
+        "desc": "Sociolinguistics"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76730",
+        "desc": "Sociology Jews 1"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76731",
+        "desc": "Sociology Jews 2"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76732",
+        "desc": "Sociology Of Medic"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76733",
+        "desc": "Sociology Of Sex Roles"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76734",
+        "desc": "Sociology Science & Technology"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76735",
+        "desc": "Sociology of Children"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76736",
+        "desc": "Sociology of Education"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76737",
+        "desc": "Sociology of Gender"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76738",
+        "desc": "Sociology of Globalization"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76739",
+        "desc": "Sociology of Hip Hop"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76740",
+        "desc": "Sociology of Housing"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76741",
+        "desc": "Sociology of Immigration"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76742",
+        "desc": "Sociology of Labor and Capital"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76743",
+        "desc": "Sociology of Law"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76744",
+        "desc": "Sociology of Occupations"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76745",
+        "desc": "Sociology of Power"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76746",
+        "desc": "Sociology of Public Health"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76747",
+        "desc": "Sociology of Religion"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76748",
+        "desc": "Sociology of Science"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76749",
+        "desc": "Sociology of Socialization"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76750",
+        "desc": "Sociology of Sport"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76751",
+        "desc": "Sociology of Urban Communities"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76752",
+        "desc": "Sociology of Work and Labor"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76753",
+        "desc": "Sociology of Work in the U.S."
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76754",
+        "desc": "Sociology of the Environment"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76755",
+        "desc": "Socy Globalzation &Sustainblty"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76756",
+        "desc": "Special Topics"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76757",
+        "desc": "Speech Lab"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76758",
+        "desc": "Study Of Community"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76759",
+        "desc": "Supervised Res 1"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76760",
+        "desc": "Surpervised Res 11"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76761",
+        "desc": "Survey Research Methods"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76762",
+        "desc": "Tech Soc Action"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76763",
+        "desc": "The Community"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76764",
+        "desc": "The Family"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76765",
+        "desc": "The Inner City"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76766",
+        "desc": "The Modern Family"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76767",
+        "desc": "The Sociology of Aging"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76768",
+        "desc": "The Sociology of the Family"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76769",
+        "desc": "Thesis Preparation"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76770",
+        "desc": "Thesis Research"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76771",
+        "desc": "Thesis Seminar Course"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76772",
+        "desc": "Transgender Theories &Politics"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76773",
+        "desc": "U.S. Drug Policy"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76774",
+        "desc": "Urban Caribbean Diaspora"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76775",
+        "desc": "Urban Life and Culture"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76776",
+        "desc": "Urban Sociology"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76777",
+        "desc": "Urban Sustainability Theory"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76778",
+        "desc": "Visual Sociology"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "76779",
+        "desc": "Wk At Risk Populatns"
+    }
+]

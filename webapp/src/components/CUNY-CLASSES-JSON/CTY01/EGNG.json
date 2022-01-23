@@ -1,0 +1,596 @@
+[
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37964",
+        "room_desc": "Advanced Numerical Analysis"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37965",
+        "room_desc": "Analog Computation"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37966",
+        "room_desc": "Applied Algebra"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37967",
+        "room_desc": "Beh Inel Bdys/Struc"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37968",
+        "room_desc": "Bridge to C++"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37969",
+        "room_desc": "Building Model and Simulation"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37970",
+        "room_desc": "Cell & Tissue Mech"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37971",
+        "room_desc": "Cell & Tissue Trnsp"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37972",
+        "room_desc": "Cll Tss Mat In Trac"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37973",
+        "room_desc": "Comp-Aid Analysis Engineers"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37974",
+        "room_desc": "Comp. Tools For Ese"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37975",
+        "room_desc": "Complex Variables"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37976",
+        "room_desc": "Computation Methods for ESE"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37977",
+        "room_desc": "Continuum Mechanics"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37978",
+        "room_desc": "Data Reduc:Phys Sci"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37979",
+        "room_desc": "Data Science and Statistical"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37980",
+        "room_desc": "Data Science for Engineers"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37981",
+        "room_desc": "Dec Pln Tec: Eng Mgmt"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37982",
+        "room_desc": "Dec-Pln Techn Engr Mngmnt"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37983",
+        "room_desc": "Differential Equations"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37984",
+        "room_desc": "Digital Computation"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37985",
+        "room_desc": "Doctoral Dissertation"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37986",
+        "room_desc": "ESE Data Analysis"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37987",
+        "room_desc": "ESE Design 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37988",
+        "room_desc": "Earth Mat: Intr Ig Meta Petrol"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37989",
+        "room_desc": "Earth Sys Sci & Engr"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37990",
+        "room_desc": "Econ/Invest Analysis: Projects"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37991",
+        "room_desc": "Electrical Circuits"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37992",
+        "room_desc": "Energy and the Environment"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37993",
+        "room_desc": "Engineering Design I"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37994",
+        "room_desc": "Engineering Design II"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37995",
+        "room_desc": "Engineering Economics"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37996",
+        "room_desc": "Engineering Mngmnt"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37997",
+        "room_desc": "Engineering Quantitative Works"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37998",
+        "room_desc": "Engineering and Business Law"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "37999",
+        "room_desc": "Engineering: Eco/Investment"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38000",
+        "room_desc": "Engr Design Wkshp 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38001",
+        "room_desc": "Engr Prob Anal 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38002",
+        "room_desc": "Engr Probability 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38003",
+        "room_desc": "Engr Systems Mngmt"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38004",
+        "room_desc": "Env Mod Earth Syst"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38005",
+        "room_desc": "Envr Engr Design II"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38006",
+        "room_desc": "Final Project in ESEE"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38007",
+        "room_desc": "Finite Element Metho"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38008",
+        "room_desc": "Fluid Dynamic Stability"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38009",
+        "room_desc": "Found Fluid Mech 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38010",
+        "room_desc": "Found Fluid Mech II"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38011",
+        "room_desc": "Gis Programming"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38012",
+        "room_desc": "Hmodynam-Flow Msmnt"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38013",
+        "room_desc": "Impact Biomed Tech"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38014",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38015",
+        "room_desc": "Industrial Ecology"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38016",
+        "room_desc": "Intro To Engr Analysis"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38017",
+        "room_desc": "Intro To Numer Meth"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38018",
+        "room_desc": "Intro to Data Science Programm"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38019",
+        "room_desc": "Introduction to Geographic Inf"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38020",
+        "room_desc": "Irreversible Thermodynamics"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38021",
+        "room_desc": "Management"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38022",
+        "room_desc": "Management of Hazardous Wastes"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38023",
+        "room_desc": "Mass Transfer"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38024",
+        "room_desc": "Microfluidic Dv Biot"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38025",
+        "room_desc": "Mngmnt Concepts for Engineers"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38026",
+        "room_desc": "Nanomaterials"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38027",
+        "room_desc": "Nclr Pwr Plnt Safety"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38028",
+        "room_desc": "Nclr Rctr Therm Hydr"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38029",
+        "room_desc": "Nuc Pwr Plnt Dsgn Oper"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38030",
+        "room_desc": "Nuc Reac Dgn Op Sfty"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38031",
+        "room_desc": "Nuc React Phys & Eng"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38032",
+        "room_desc": "Nuc Reactr Phys/Engr"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38033",
+        "room_desc": "Nuclear Power Plant"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38034",
+        "room_desc": "Perturbation Techniques"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38035",
+        "room_desc": "Physiology Bmed Engr"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38036",
+        "room_desc": "Poroelasticity"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38037",
+        "room_desc": "Prof Sem & Topics In Earth Sys"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38038",
+        "room_desc": "Project Management"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38039",
+        "room_desc": "Random Processes"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38040",
+        "room_desc": "Reactor Physics & Engineering"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38041",
+        "room_desc": "Review Fndmntls of Engrng"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38042",
+        "room_desc": "Rmte Sns-Satell Img"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38043",
+        "room_desc": "Selected Topics in Engineering"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38044",
+        "room_desc": "Seminars"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38045",
+        "room_desc": "Sens W/Meteo Satelit"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38046",
+        "room_desc": "Spcl Tpcs: Earth Sys38047: EGNG,\"Stabil Structures"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38048",
+        "room_desc": "Statistical Thermodynamics"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38049",
+        "room_desc": "Structures Theory"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38050",
+        "room_desc": "Tch Strat For Mole Biop & Biom"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38051",
+        "room_desc": "Teaching Practicum for Molecul"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38052",
+        "room_desc": "Telecommunications Management"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38053",
+        "room_desc": "Theory Of Turbulnce"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38054",
+        "room_desc": "Theory of Elasticity"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38055",
+        "room_desc": "Thermal Hydraulics"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38056",
+        "room_desc": "Thermodynamics"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38057",
+        "room_desc": "Thy Elast Aniso Mat"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38058",
+        "room_desc": "Topics In Remote Sensing"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38059",
+        "room_desc": "Total Quality Manangement"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38060",
+        "room_desc": "Transport Phenom 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38061",
+        "room_desc": "Turbulent Flows"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38062",
+        "room_desc": "Wave Prop In Solids"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "38063",
+        "room_desc": "Weather & Climate"
+    }
+]

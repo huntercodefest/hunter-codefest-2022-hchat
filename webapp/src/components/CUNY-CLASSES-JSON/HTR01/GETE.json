@@ -1,0 +1,578 @@
+[
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52160",
+        "room_desc": "Adv Topics in GeoVisualization"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52161",
+        "room_desc": "Adv Tpcs in Geovisualization"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52162",
+        "room_desc": "Advanced Geoinformatics"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52163",
+        "room_desc": "Advanced Image Interpretation"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52164",
+        "room_desc": "Air Photo Interpret"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52165",
+        "room_desc": "Applied Statistics: Hydrology"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52166",
+        "room_desc": "Capstone: GIS"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52167",
+        "room_desc": "Computer Lit-Geosci"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52168",
+        "room_desc": "Computer Simulation"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52169",
+        "room_desc": "Concepts & Theories in GeoInfo"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52170",
+        "room_desc": "Crtog&Grphc Prsnt 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52171",
+        "room_desc": "Data Analysis & Visualization"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52172",
+        "room_desc": "Digital Earth"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52173",
+        "room_desc": "Digital Image Proces & LiDAR"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52174",
+        "room_desc": "Earth From Above"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52175",
+        "room_desc": "Envirnmntal Modeling"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52176",
+        "room_desc": "Environmental Data Science"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52177",
+        "room_desc": "Erdas Techniques"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52178",
+        "room_desc": "Field Techniques In Geography"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52179",
+        "room_desc": "Field Techniques in Geography"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52180",
+        "room_desc": "Field Topographic Surveying"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52181",
+        "room_desc": "Free And Open Source GIS"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52182",
+        "room_desc": "Free and Open Source GIS"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52183",
+        "room_desc": "Fund of GIS"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52184",
+        "room_desc": "GIS Analysis"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52185",
+        "room_desc": "GIS App: GIS in NYC"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52186",
+        "room_desc": "GIS App:Urban Educ"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52187",
+        "room_desc": "GIS Appl: Law Enforce"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52188",
+        "room_desc": "GIS Appl:Law Enforce"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52189",
+        "room_desc": "GIS Applic - Social"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52190",
+        "room_desc": "GIS Applic Trans"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52191",
+        "room_desc": "GIS Applic-Community"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52192",
+        "room_desc": "GIS Applic-Health"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52193",
+        "room_desc": "GIS Applic: Comm Dev"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52194",
+        "room_desc": "GIS Applic: Pop Geog"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52195",
+        "room_desc": "GIS Applic: Social"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52196",
+        "room_desc": "GIS Applic: Urban"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52197",
+        "room_desc": "GIS Applic:Edu Mat"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52198",
+        "room_desc": "GIS Applications"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52199",
+        "room_desc": "GIS Applications - Retailing"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52200",
+        "room_desc": "GIS Applications:Urban Educ"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52201",
+        "room_desc": "GeoComputation 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52202",
+        "room_desc": "GeoComputation 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52203",
+        "room_desc": "GeoInformatics Internship"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52204",
+        "room_desc": "GeoWeb Services"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52205",
+        "room_desc": "Geog Info Science 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52206",
+        "room_desc": "Geog Matl Design -Ss"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52207",
+        "room_desc": "Geog of Soils & Veg"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52208",
+        "room_desc": "Geospatial Databases"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52209",
+        "room_desc": "Gis Applic Trans"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52210",
+        "room_desc": "Gis Applic-Community"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52211",
+        "room_desc": "Gis Applic-Retailing"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52212",
+        "room_desc": "Gis Applic: Comm Dev"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52213",
+        "room_desc": "Gis Applic: Pop Geog"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52214",
+        "room_desc": "Gis Applic: Site Loc"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52215",
+        "room_desc": "Gis Applic:Edu Mat"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52216",
+        "room_desc": "Gis Applic:Site Loc"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52217",
+        "room_desc": "Gis Project Mgmt"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52218",
+        "room_desc": "Google Maps Mash-Up"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52219",
+        "room_desc": "Honors: GIS"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52220",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52221",
+        "room_desc": "Internship: GIS"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52222",
+        "room_desc": "Intr Quant Meth-Geog"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52223",
+        "room_desc": "Intro Geog Info Sys"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52224",
+        "room_desc": "Intro Geog Information Science"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52225",
+        "room_desc": "Intro to Mapping Sci"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52226",
+        "room_desc": "Intro: Carto Design & Geovis"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52227",
+        "room_desc": "Intro:Geographic Info Systems"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52228",
+        "room_desc": "Introduction to Remote Sensing"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52229",
+        "room_desc": "Location Based Services"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52230",
+        "room_desc": "Map Reading & Interp"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52231",
+        "room_desc": "Mapping Earth Surfac"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52232",
+        "room_desc": "Mapping Science"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52233",
+        "room_desc": "Open Source Gis"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52234",
+        "room_desc": "Quant Meth-Geog"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52235",
+        "room_desc": "Quantitative Methods in Geogph"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52236",
+        "room_desc": "Remote Sensing"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52237",
+        "room_desc": "Remote Sensing of Environment"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52238",
+        "room_desc": "Satellite Monitoring"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52239",
+        "room_desc": "Satellite Oceanog"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52240",
+        "room_desc": "Sem: Remote Sensing"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52241",
+        "room_desc": "Sem:Adv Gis Research"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52242",
+        "room_desc": "Seminar Cartographic Research"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52243",
+        "room_desc": "Seminar In Remote Sensing"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52244",
+        "room_desc": "Seminar in GeoInformatics"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52245",
+        "room_desc": "Seminar in Spatial Modeling"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52246",
+        "room_desc": "Seminar: Map Projctn"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52247",
+        "room_desc": "Sp Top Remote Sensin"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52248",
+        "room_desc": "Sp Top in Quant Meth"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52249",
+        "room_desc": "Sp Top: Quantitative Method"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52250",
+        "room_desc": "Sp Tp:Ground Truthng"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52251",
+        "room_desc": "Spatial Data Analysis"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52252",
+        "room_desc": "Spatial Data Anlysis"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52253",
+        "room_desc": "Spatial Statistics"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52254",
+        "room_desc": "Thesis Research GeoInformatics"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "52255",
+        "room_desc": "Urban Applications of GIS"
+    }
+]

@@ -1,0 +1,677 @@
+[
+    {
+        "major": "EASC",
+        "room_num": "3785",
+        "desc": "Adv Geolog Field Mapping"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3786",
+        "desc": "Adv Princ Phys Geol"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3787",
+        "desc": "Adv Princ of Historical Geol"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3788",
+        "desc": "Adv Princ of Physical Geology"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3789",
+        "desc": "Adv Quant Mthds Ear & Env Sci"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3790",
+        "desc": "Advanced Cartography"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3791",
+        "desc": "App Ign & Metam Petrol Reg Tec"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3792",
+        "desc": "Atomic Spectroscopy"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3793",
+        "desc": "Automated Cartography"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3794",
+        "desc": "Biospheres"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3795",
+        "desc": "Carbon & Evaporites: Petrology"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3796",
+        "desc": "Carbon & Evaporites: Sediment"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3797",
+        "desc": "Carbonate Sediment"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3798",
+        "desc": "Cenoz Ocean Rec as Pred Bas"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3799",
+        "desc": "Climate and Climate Change"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3800",
+        "desc": "Climate/Climate Change"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3801",
+        "desc": "Cmptr Prog/Geo Appl"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3802",
+        "desc": "Coastal Dynamics"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3803",
+        "desc": "Coastal and Estuarine Geology"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3804",
+        "desc": "Comp Appl in Earth & Envir Sci"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3805",
+        "desc": "Computer Simultn"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3806",
+        "desc": "Cosmochemistry"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3807",
+        "desc": "Current Issues in EES"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3808",
+        "desc": "Digital Image Processing"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3809",
+        "desc": "Digital Process Es"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3810",
+        "desc": "Dissertation Proposal Workshop"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3811",
+        "desc": "Dissertation Supervision"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3812",
+        "desc": "Earth & Env Sci Seminar"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3813",
+        "desc": "Earth System I"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3814",
+        "desc": "Earth System II"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3815",
+        "desc": "Earth\u2019s Internal Processes"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3816",
+        "desc": "Earth\u2019s Surface Processes"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3817",
+        "desc": "Economic Geography"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3818",
+        "desc": "Env Policy Dev Area"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3819",
+        "desc": "Envir Geol of the Coastal Zone"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3820",
+        "desc": "Envir Prob Urb & Metro Coasts"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3821",
+        "desc": "Envir Site Assessment"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3822",
+        "desc": "Environ Geochemist"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3823",
+        "desc": "Environ Remote Sensing"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3824",
+        "desc": "Environmental Conservation"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3825",
+        "desc": "Environmental Geochemistry"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3826",
+        "desc": "Environmental Geology"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3827",
+        "desc": "Environmental Science Seminar"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3828",
+        "desc": "Envrnmntl Geophyscs"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3829",
+        "desc": "Facies Analysis"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3830",
+        "desc": "Forensic Geology"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3831",
+        "desc": "Fund Atmospheric Science"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3832",
+        "desc": "Geobiochemistry of Soils"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3833",
+        "desc": "Geochemistry"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3834",
+        "desc": "Geographical Knldge in Action"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3835",
+        "desc": "Geol Applic of Remote Sensing"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3836",
+        "desc": "Geology Seminar"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3837",
+        "desc": "Geomorphology"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3838",
+        "desc": "Geophys Hydrodynamc"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3839",
+        "desc": "Geostatistics"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3840",
+        "desc": "Groundwater Hydrology"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3841",
+        "desc": "Hand-Specimen Petrography"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3842",
+        "desc": "High Temp Geochem"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3843",
+        "desc": "Human Geography"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3844",
+        "desc": "Hydrol Geochem Env"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3845",
+        "desc": "Hydrology"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3846",
+        "desc": "Igneous Petrology"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3847",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3848",
+        "desc": "Industrial Mineralogy"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3849",
+        "desc": "Instrumentation Envir Sci"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3850",
+        "desc": "Intro Environmental Modeling"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3851",
+        "desc": "Intro Geog Info Sys"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3852",
+        "desc": "Intro Workshop in Acad Resrcs"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3853",
+        "desc": "Intro to Geograph Info Systems"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3854",
+        "desc": "Introduction to Geophysics"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3855",
+        "desc": "Introduction to Mapping"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3856",
+        "desc": "Lat Amer Geog Sem"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3857",
+        "desc": "Latin Americanist Geography"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3858",
+        "desc": "Low Temperature Geochemistry"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3859",
+        "desc": "Metamorphic Petrology"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3860",
+        "desc": "Mineralogy"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3861",
+        "desc": "Mineralogy Of Clays"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3862",
+        "desc": "Multivariate Stat Anal in Geog"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3863",
+        "desc": "Paleoecology"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3864",
+        "desc": "Paleontol of the Invertebrates"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3865",
+        "desc": "Phase II Envir Site Assessmnts"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3866",
+        "desc": "Photogrm & Air Photo Interpret"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3867",
+        "desc": "Phys Sedimentlg-Lab"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3868",
+        "desc": "Physical Geochemistry"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3869",
+        "desc": "Population Geography"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3870",
+        "desc": "Principles of Geochemistry"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3871",
+        "desc": "Principles of Remote Sensing"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3872",
+        "desc": "Prob Grndwater Geol"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3873",
+        "desc": "Quant Mthds Earth & Envir Sci"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3874",
+        "desc": "Resch for the Doct Dissert"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3875",
+        "desc": "Resrch Opp/Environ Geo Sci"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3876",
+        "desc": "Rock Mechanics"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3877",
+        "desc": "ST: Earth & Envir Sciences"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3878",
+        "desc": "ST: Environmental Geology"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3879",
+        "desc": "ST: Geochemistry"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3880",
+        "desc": "ST: Hydrology"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3881",
+        "desc": "ST: Igneous & Metamor Petrolog"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3882",
+        "desc": "ST: Mineral Resources"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3883",
+        "desc": "ST: Mineralogy"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3884",
+        "desc": "ST: Paleoclimat & Paleoceanogr"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3885",
+        "desc": "ST: Paleont: Paleobiomechanics"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3886",
+        "desc": "ST: Paleontology"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3887",
+        "desc": "ST: Quantitative Geology"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3888",
+        "desc": "ST: Remote Sensing"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3889",
+        "desc": "ST: Sedimentology"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3890",
+        "desc": "ST: Stratigraphy"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3891",
+        "desc": "ST: Structural Geology"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3892",
+        "desc": "Sedimentary Petrology"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3893",
+        "desc": "Sedimentology"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3894",
+        "desc": "Sem in Cartographic Research"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3895",
+        "desc": "Sem in Geographic Inform Syst"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3896",
+        "desc": "Sem on Urban Coastal Mgmnt"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3897",
+        "desc": "Sem: Geographic Thght/Theory"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3898",
+        "desc": "Sem: Ore Deposit Models"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3899",
+        "desc": "Seminar"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3900",
+        "desc": "Seminar in Remote Sensing"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3901",
+        "desc": "Spatial Data Analy"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3902",
+        "desc": "Spec Tpcs in Environmental Sci"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3903",
+        "desc": "Special Topics: Tectonics"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3904",
+        "desc": "Stat In Earth & Env"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3905",
+        "desc": "Stratig Date/Correl"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3906",
+        "desc": "Stratigr Dating & Correlation"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3907",
+        "desc": "Stratigraphic Palynology"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3908",
+        "desc": "Stratigraphic Probm"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3909",
+        "desc": "Stratigraphy"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3910",
+        "desc": "Structural Geology"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3911",
+        "desc": "Techniq Geospatial Technol"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3912",
+        "desc": "Terrestrial Plants"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3913",
+        "desc": "The Hist and Philos of Geology"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3914",
+        "desc": "The Nature of Scientific Resch"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3915",
+        "desc": "Time3916: EASC,\"Topographic Field Mapping"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3917",
+        "desc": "Urban Application of GIS"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3918",
+        "desc": "Urban Geographic Theory"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3919",
+        "desc": "Urban/Metrop Coasts"
+    },
+    {
+        "major": "EASC",
+        "room_num": "3920",
+        "desc": "X-Ray Diffraction"
+    }
+]

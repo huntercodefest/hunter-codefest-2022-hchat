@@ -1,0 +1,37 @@
+[
+    {
+        "major": "TELE",
+        "room_num": "80129",
+        "desc": "Data Communications"
+    },
+    {
+        "major": "TELE",
+        "room_num": "80130",
+        "desc": "Digital Comm Systems"
+    },
+    {
+        "major": "TELE",
+        "room_num": "80131",
+        "desc": "Local/Wide Area Ntwk"
+    },
+    {
+        "major": "TELE",
+        "room_num": "80132",
+        "desc": "Network Design"
+    },
+    {
+        "major": "TELE",
+        "room_num": "80133",
+        "desc": "Network Programming"
+    },
+    {
+        "major": "TELE",
+        "room_num": "80134",
+        "desc": "Ntwk Eval & Optimztn"
+    },
+    {
+        "major": "TELE",
+        "room_num": "80135",
+        "desc": "Siglng & Trnsmn Thry"
+    }
+]

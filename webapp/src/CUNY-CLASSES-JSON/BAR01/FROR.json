@@ -1,0 +1,142 @@
+[
+    {
+        "major": "FROR",
+        "room_num": "60427",
+        "desc": "ASD 0018 + PSY 1001"
+    },
+    {
+        "major": "FROR",
+        "room_num": "60428",
+        "desc": "ASD 0081 + ENG 0102"
+    },
+    {
+        "major": "FROR",
+        "room_num": "60429",
+        "desc": "ASD 0083 + PSY 1001"
+    },
+    {
+        "major": "FROR",
+        "room_num": "60430",
+        "desc": "ASD 0085 + PSY 1001"
+    },
+    {
+        "major": "FROR",
+        "room_num": "60431",
+        "desc": "ENG 0112 + PSY 1001"
+    },
+    {
+        "major": "FROR",
+        "room_num": "60432",
+        "desc": "ENG 0112 + SPE 0008"
+    },
+    {
+        "major": "FROR",
+        "room_num": "60433",
+        "desc": "ENG 0132 + HIS 1004"
+    },
+    {
+        "major": "FROR",
+        "room_num": "60434",
+        "desc": "ENG 0132 + PSY 1001"
+    },
+    {
+        "major": "FROR",
+        "room_num": "60435",
+        "desc": "ENG 0132 + SOC 1005"
+    },
+    {
+        "major": "FROR",
+        "room_num": "60436",
+        "desc": "ENG 0150 + BUS 1000"
+    },
+    {
+        "major": "FROR",
+        "room_num": "60437",
+        "desc": "ENG 0150 + SOC 1005"
+    },
+    {
+        "major": "FROR",
+        "room_num": "60438",
+        "desc": "ENG 0152 + SOC/HIS"
+    },
+    {
+        "major": "FROR",
+        "room_num": "60439",
+        "desc": "ENG 2100 + BUS 1000"
+    },
+    {
+        "major": "FROR",
+        "room_num": "60440",
+        "desc": "ENG 2100 + HIS 1003"
+    },
+    {
+        "major": "FROR",
+        "room_num": "60441",
+        "desc": "ENG 2100 + SOC 1005"
+    },
+    {
+        "major": "FROR",
+        "room_num": "60442",
+        "desc": "ENG 2150 + BIO 1003"
+    },
+    {
+        "major": "FROR",
+        "room_num": "60443",
+        "desc": "Freshman Semin Excel"
+    },
+    {
+        "major": "FROR",
+        "room_num": "60444",
+        "desc": "Freshman Seminar"
+    },
+    {
+        "major": "FROR",
+        "room_num": "60445",
+        "desc": "Freshman Seminar Excel II"
+    },
+    {
+        "major": "FROR",
+        "room_num": "60446",
+        "desc": "Friday Academy"
+    },
+    {
+        "major": "FROR",
+        "room_num": "60447",
+        "desc": "HIS 1005 + POL 2321"
+    },
+    {
+        "major": "FROR",
+        "room_num": "60448",
+        "desc": "Honors - Freshman Seminar"
+    },
+    {
+        "major": "FROR",
+        "room_num": "60449",
+        "desc": "SEEK Freshman Seminar II"
+    },
+    {
+        "major": "FROR",
+        "room_num": "60450",
+        "desc": "SEEK Summer Seminar"
+    },
+    {
+        "major": "FROR",
+        "room_num": "60451",
+        "desc": "SPE 1010 + PSY 1001"
+    },
+    {
+        "major": "FROR",
+        "room_num": "60452",
+        "desc": "Seek Freshman Semin."
+    },
+    {
+        "major": "FROR",
+        "room_num": "60453",
+        "desc": "Seek Math Seminar"
+    },
+    {
+        "major": "FROR",
+        "room_num": "60454",
+        "desc": "Seek Special Seminar"
+    }
+]

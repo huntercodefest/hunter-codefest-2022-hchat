@@ -1,0 +1,242 @@
+[
+    {
+        "major": "GEOL",
+        "room_num": "12669",
+        "desc": "Advanced Oceanography"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12670",
+        "desc": "Advanced Sedimentology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12671",
+        "desc": "Data Acquisition&Integrat Mtds"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12672",
+        "desc": "Dynamic Earth"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12673",
+        "desc": "Dynamic Earth Laboratory"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12674",
+        "desc": "Earth Evolution"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12675",
+        "desc": "Earth Evolution Laboratory"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12676",
+        "desc": "Earth History"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12677",
+        "desc": "Earth History Laboratory"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12678",
+        "desc": "Earth Materials"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12679",
+        "desc": "Earth Materials and Resources"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12680",
+        "desc": "Earth Processes"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12681",
+        "desc": "Earth Processes Laboratory"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12682",
+        "desc": "Earth Science for Educators"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12683",
+        "desc": "Earth Sys Sci-Eductr"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12684",
+        "desc": "Envior.Impact Asses."
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12685",
+        "desc": "Environmental Biogeochemistry"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12686",
+        "desc": "Environmental Geology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12687",
+        "desc": "Environmental Hydrology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12688",
+        "desc": "Erth/Envir.Sci - Gis"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12689",
+        "desc": "Field Problems in Geology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12690",
+        "desc": "Fossils12691: GEOL,\"Geologic Field Methods"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12692",
+        "desc": "Geology in Art and Society"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12693",
+        "desc": "Global Plate Dynamics"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12694",
+        "desc": "Honors in Geology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12695",
+        "desc": "Independent Study in Geology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12696",
+        "desc": "Intro Geo Field Mapping Tech"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12697",
+        "desc": "Introductory Paleontology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12698",
+        "desc": "Micropaleontology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12699",
+        "desc": "Mineralogy"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12700",
+        "desc": "Nat Hzrds & Dis: Multidisc App"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12701",
+        "desc": "Natural Hazards &Disasters Lab"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12702",
+        "desc": "Oceanographic Resrch"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12703",
+        "desc": "Oceans"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12704",
+        "desc": "Optical Mineralogy"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12705",
+        "desc": "Petrology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12706",
+        "desc": "Plate Geotectonics"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12707",
+        "desc": "Principles of Geomorphology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12708",
+        "desc": "Processes of Global Change"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12709",
+        "desc": "Seminar"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12710",
+        "desc": "Stratigraphy and Sedimentology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12711",
+        "desc": "Structural Geology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12712",
+        "desc": "Top Region Geo & Map Technqs"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12713",
+        "desc": "Topics in Earth Science"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12714",
+        "desc": "Topics in Geology"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12715",
+        "desc": "Topics in Geology12716: GEOL,\"Weather and Climate"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12717",
+        "desc": "Weather and Climate Laboratory"
+    },
+    {
+        "major": "GEOL",
+        "room_num": "12718",
+        "desc": "X-ray Crystallography"
+    }
+]

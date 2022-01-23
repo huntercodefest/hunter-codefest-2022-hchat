@@ -1,0 +1,287 @@
+[
+    {
+        "major": "YOTH",
+        "room_num": "81100",
+        "desc": "Devised Plays Youth"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19274",
+        "desc": "Clerkship Intersession"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19275",
+        "desc": "Clerkship Orientation"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19276",
+        "desc": "Emergency Medicine Clerkship"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19277",
+        "desc": "End M3 Clerk Clin Skills Ast"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19278",
+        "desc": "Evidence-Based Medicine"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19279",
+        "desc": "Family Medicine Clerkship"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19280",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19281",
+        "desc": "Intensive Care Clerkship"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19282",
+        "desc": "Introduction to Internship"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19283",
+        "desc": "M2 Clinical Skills Assessment"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19284",
+        "desc": "M4 Anesthesiology Elective"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19285",
+        "desc": "M4 Dermatology Elective"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19286",
+        "desc": "M4 Emergency Medicine Elective"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19287",
+        "desc": "M4 Family Medicine Elective"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19288",
+        "desc": "M4 Independent Study Elective"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19289",
+        "desc": "M4 Internal Medicine Elective"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19290",
+        "desc": "M4 Medical Genetics Elective"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19291",
+        "desc": "M4 Neurology Elective"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19292",
+        "desc": "M4 Neurosurgery Elective"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19293",
+        "desc": "M4 Ob/Gyn Elective"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19294",
+        "desc": "M4 Ophthalmology Elective"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19295",
+        "desc": "M4 Orthopedic Surgery Elective"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19296",
+        "desc": "M4 Otolaryngology Elective"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19297",
+        "desc": "M4 Pathology Elective"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19298",
+        "desc": "M4 Pediatric Neurology Elect"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19299",
+        "desc": "M4 Pediatrics Elective"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19300",
+        "desc": "M4 Phys Med & Rehab Elect"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19301",
+        "desc": "M4 Population Health Elective"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19302",
+        "desc": "M4 Preventive Med Elect"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19303",
+        "desc": "M4 Psychiatry Elective"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19304",
+        "desc": "M4 Radiation Oncology Elective"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19305",
+        "desc": "M4 Radiology Elective"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19306",
+        "desc": "M4 Research Elective"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19307",
+        "desc": "M4 Surgery Elective"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19308",
+        "desc": "M4 Urology Elective"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19309",
+        "desc": "Medicine Clerkship"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19310",
+        "desc": "Neurology Clerkship"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19311",
+        "desc": "Ob/Gyn Clerkship"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19312",
+        "desc": "Organ Systems: Cardiovascular"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19313",
+        "desc": "Organ Systems: Endocrine"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19314",
+        "desc": "Organ Systems: Gastro & Liver"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19315",
+        "desc": "Organ Systems: Hemat / Onc"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19316",
+        "desc": "Organ Systems: Integrative"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19317",
+        "desc": "Organ Systems: Musculoskeletal"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19318",
+        "desc": "Organ Systems: Neuro & Psych I"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19319",
+        "desc": "Organ Systems: Pulmonary l"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19320",
+        "desc": "Organ Systems: Pulmonary ll"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19321",
+        "desc": "Organ Systems: Renal"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19322",
+        "desc": "Organ Systems: Reprod / Gen"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19323",
+        "desc": "Organ Systems:Neuro & Psych II"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19324",
+        "desc": "Pediatrics Clerkship"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19325",
+        "desc": "Practice of Medicine 3"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19326",
+        "desc": "Psychiatry Clerkship"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19327",
+        "desc": "Selec in Pop Hlth Res"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19328",
+        "desc": "Sub-Internship"
+    },
+    {
+        "major": "EDME",
+        "room_num": "19329",
+        "desc": "Surgery Clerkship"
+    }
+]

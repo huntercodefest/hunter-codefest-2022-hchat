@@ -1,0 +1,614 @@
+[
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14223",
+        "room_desc": "Adv Methods of Social Research"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14224",
+        "room_desc": "Advanced Topics Pol Sci"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14225",
+        "room_desc": "African Amer in the Pol System"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14226",
+        "room_desc": "Amer Political Systm"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14227",
+        "room_desc": "American Foreign Policy"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14228",
+        "room_desc": "American Political System"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14229",
+        "room_desc": "American Political Thought"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14230",
+        "room_desc": "Capitalism and Its Critics"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14231",
+        "room_desc": "Classic & Medieval Poli Philo"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14232",
+        "room_desc": "Classical Political Economy"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14233",
+        "room_desc": "Cmpartv&Glbal Persp-Gndr&Pltcs"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14234",
+        "room_desc": "Comparative EduPolicy&Politics"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14235",
+        "room_desc": "Comparative Labor Movements"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14236",
+        "room_desc": "Consti-Gov Struc/Pwr"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14237",
+        "room_desc": "Constit Law: Rights/Liberties"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14238",
+        "room_desc": "Constitutional Law"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14239",
+        "room_desc": "Contemp Compar Govrn"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14240",
+        "room_desc": "Contemp Polit Issues"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14241",
+        "room_desc": "Contemporary Political Issues"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14242",
+        "room_desc": "Contemporary Political Thought"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14243",
+        "room_desc": "Criminal Justice"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14244",
+        "room_desc": "Democracy and Its Critics"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14245",
+        "room_desc": "Freedom of Speech"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14246",
+        "room_desc": "Fundamentals of Human Rights"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14247",
+        "room_desc": "Gender and Politics"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14248",
+        "room_desc": "Global Environmental Politics"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14249",
+        "room_desc": "Global Justice"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14250",
+        "room_desc": "Global Political Economy"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14251",
+        "room_desc": "Globalization"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14252",
+        "room_desc": "Gov & Politics In Us"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14253",
+        "room_desc": "Great Political Thinkers"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14254",
+        "room_desc": "Honors Tutorial"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14255",
+        "room_desc": "Human Rights"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14256",
+        "room_desc": "Immigration and Citizenship"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14257",
+        "room_desc": "Integration of the Americas"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14258",
+        "room_desc": "International Law"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14259",
+        "room_desc": "International Politics"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14260",
+        "room_desc": "Internship in Human Rights&PS"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14261",
+        "room_desc": "Intl & Regional Organizations"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14262",
+        "room_desc": "Intrntnl Conflict&Conflict Res"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14263",
+        "room_desc": "Intro Thry Social & Commun"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14264",
+        "room_desc": "Intro to Comparative Politics"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14265",
+        "room_desc": "Jurisprudence"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14266",
+        "room_desc": "Latino Politics"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14267",
+        "room_desc": "Law in Action"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14268",
+        "room_desc": "Law of Diplomacy14269: POSC,\"Law14270: POSC,\"Legislative Politics"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14271",
+        "room_desc": "Major Asian Political Systems"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14272",
+        "room_desc": "Marxism"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14273",
+        "room_desc": "Methods of Social Research."
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14274",
+        "room_desc": "Model United Nations"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14275",
+        "room_desc": "Modern Political Philosophy"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14276",
+        "room_desc": "Nationalism&Challng"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14277",
+        "room_desc": "Non-Western Political Thought"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14278",
+        "room_desc": "Orgnzng Elctn Campgn"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14279",
+        "room_desc": "Pol Analysis & Interpretation"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14280",
+        "room_desc": "Pol Sys Cent Amer & Caribb"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14281",
+        "room_desc": "Pol Syst Latin Amer"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14282",
+        "room_desc": "Pol Systms-Mid East"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14283",
+        "room_desc": "Polit Amer Publc Edu"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14284",
+        "room_desc": "Political Demography"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14285",
+        "room_desc": "Political Economy of Developme"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14286",
+        "room_desc": "Political Issues in NYC"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14287",
+        "room_desc": "Political Parties"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14288",
+        "room_desc": "Political Power in America"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14289",
+        "room_desc": "Political Research Laboratory"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14290",
+        "room_desc": "Political Socialization"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14291",
+        "room_desc": "Political Systems in Africa"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14292",
+        "room_desc": "Political Systems in Europe"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14293",
+        "room_desc": "Politics & Culture"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14294",
+        "room_desc": "Politics Amer Povrty"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14295",
+        "room_desc": "Politics And Culture"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14296",
+        "room_desc": "Politics and Culture"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14297",
+        "room_desc": "Politics and human survival"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14298",
+        "room_desc": "Politics of American Pub Edu"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14299",
+        "room_desc": "Poltcl Mobilizations&Soc Mvmts"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14300",
+        "room_desc": "Poly Sci Senior Research Sem"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14301",
+        "room_desc": "Psychology and Politics"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14302",
+        "room_desc": "Public Administration"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14303",
+        "room_desc": "Public Opinion and Polling"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14304",
+        "room_desc": "Public Policy"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14305",
+        "room_desc": "Race & Class in American Pol"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14306",
+        "room_desc": "Russia Today"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14307",
+        "room_desc": "Science14308: POSC,\"Sem & Intrn Pgrm NYC Govt"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14309",
+        "room_desc": "Semin&Intrn Prog-Law"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14310",
+        "room_desc": "Sociological Analysis"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14311",
+        "room_desc": "Sociology of Politics"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14312",
+        "room_desc": "Spcl Prbms in Pol Sci"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14313",
+        "room_desc": "Spec Problems in Political Sci"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14314",
+        "room_desc": "Special Topics in Human Rights"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14315",
+        "room_desc": "State and Local Politics"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14316",
+        "room_desc": "Stbilty In Const Dem"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14317",
+        "room_desc": "The American Political System"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14318",
+        "room_desc": "The American Presidency"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14319",
+        "room_desc": "The Judiciary"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14320",
+        "room_desc": "The Politics of Health"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14321",
+        "room_desc": "The Russian Political System"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14322",
+        "room_desc": "Topics in Political Science"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14323",
+        "room_desc": "Urban Policy"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14324",
+        "room_desc": "Urban Politics and Government"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14325",
+        "room_desc": "Us In World Affairs"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14326",
+        "room_desc": "Western Political Thought"
+    },
+    {
+        "school": "LEH01",
+        "major": "POSC",
+        "room_num": "14327",
+        "room_desc": "Women and Politics"
+    }
+]

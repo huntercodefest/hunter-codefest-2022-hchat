@@ -1,0 +1,372 @@
+[
+    {
+        "major": "CHEM",
+        "room_num": "47679",
+        "desc": "Atomic Struc47680: CHEM,\"Biochemistry 1"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47681",
+        "desc": "Biochemistry 2"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47682",
+        "desc": "Biochemistry Lab"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47683",
+        "desc": "Biological Spectroscopy"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47684",
+        "desc": "Biophysical Chem Rec"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47685",
+        "desc": "Biophysical Chemistry"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47686",
+        "desc": "Biophysics Laboratory"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47687",
+        "desc": "Challenging Concepts in Chem 4"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47688",
+        "desc": "Chemical Genomics"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47689",
+        "desc": "Chemical Investigations"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47690",
+        "desc": "Chemical Principles"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47691",
+        "desc": "Computational Drug Discovery"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47692",
+        "desc": "Computers in Chemistry"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47693",
+        "desc": "Computers-Chemistry"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47694",
+        "desc": "Demonstrations47695: CHEM,\"Environmental Pollution"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47696",
+        "desc": "Ess of Organic Chemistry -Lab"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47697",
+        "desc": "Essen Organic Chemistry (Lec)"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47698",
+        "desc": "Essen of General Chem Recit"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47699",
+        "desc": "Essen-General Chemistry (Lec)"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47700",
+        "desc": "Essential of General Chem-Lab"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47701",
+        "desc": "Evolution Scientific Thought"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47702",
+        "desc": "Expl Sci-Based Case Studies"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47703",
+        "desc": "General Chemistry 1"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47704",
+        "desc": "General Chemistry 1 (Lab)"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47705",
+        "desc": "General Chemistry 2"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47706",
+        "desc": "General Chemistry 2 (Lab)"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47707",
+        "desc": "General Chemistry 2 Recitation"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47708",
+        "desc": "General Chemistry Lab"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47709",
+        "desc": "Inorganic Chemistry"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47710",
+        "desc": "Inorganic Chemistry Laboratory"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47711",
+        "desc": "Inquiries -  Nature of Matter"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47712",
+        "desc": "Instrumental Analysis"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47713",
+        "desc": "Intro Planning & Teaching Lab"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47714",
+        "desc": "Intro to Polymer Chemistry"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47715",
+        "desc": "Intro to Res-Honors"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47716",
+        "desc": "Introduction to Nanotechnology"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47717",
+        "desc": "Introduction to Radiochemistry"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47718",
+        "desc": "Introduction to Research"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47719",
+        "desc": "Introductory Chemistry"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47720",
+        "desc": "Medicinal Chemistry"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47721",
+        "desc": "Organic Chemistry 1 (Lec)"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47722",
+        "desc": "Organic Chemistry 2 (Lab)"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47723",
+        "desc": "Organic Chemistry 2 (Lec)"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47724",
+        "desc": "Organic Chemistry 2 (Lecture)"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47725",
+        "desc": "Organic Chemistry 2 (Rec)"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47726",
+        "desc": "Organic Chemistry I  (Lec)"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47727",
+        "desc": "Organic Chemistry I (Lab)"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47728",
+        "desc": "Organic Chemistry I (Rec)"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47729",
+        "desc": "Organic Chemistry Laboratory I"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47730",
+        "desc": "Organic Chemistry Lecture 3"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47731",
+        "desc": "Peer-Led Teaching in Chemistry"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47732",
+        "desc": "Phy Sci (Chem)"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47733",
+        "desc": "Physical Chem 3 (Lec)"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47734",
+        "desc": "Physical Chemistry 1-Lec"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47735",
+        "desc": "Physical Chemistry 2"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47736",
+        "desc": "Physical Chemistry 2 - F"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47737",
+        "desc": "Physical Chemistry Lab 1"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47738",
+        "desc": "Physical Chemistry Lab II"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47739",
+        "desc": "Preprofessional Science:Core 1"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47740",
+        "desc": "Preprofessional Science:Core 2"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47741",
+        "desc": "Preprofessional Science:Core 3"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47742",
+        "desc": "Preprofessional Science:Core 4"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47743",
+        "desc": "Quantitative Analysis"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47744",
+        "desc": "Research Doctoral Dissertation"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47745",
+        "desc": "Research-Doctoral Dissertation"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47746",
+        "desc": "Sci & Diplo in the 4th Ind Rev"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47747",
+        "desc": "Science and Society"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47748",
+        "desc": "Seminar"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47749",
+        "desc": "Sp Tpcs:Chemistry Ed"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47750",
+        "desc": "Special Topics: Chemistry Ed"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47751",
+        "desc": "Struct & Func of Nucleic Acids"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47752",
+        "desc": "Structural Biology"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47753",
+        "desc": "Thermodynamics & Solution Chem"
+    },
+    {
+        "major": "CHEM",
+        "room_num": "47754",
+        "desc": "Thesis Research"
+    }
+]

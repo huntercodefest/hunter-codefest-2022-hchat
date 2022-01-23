@@ -1,0 +1,50 @@
+[
+    {
+        "school": "GRD01",
+        "major": "HEBR",
+        "room_num": "5838",
+        "room_desc": "Elem Hebrew 1 & 2 Intensive"
+    },
+    {
+        "school": "GRD01",
+        "major": "HEBR",
+        "room_num": "5839",
+        "room_desc": "Elem Hebrew Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "HEBR",
+        "room_num": "5840",
+        "room_desc": "Elementary Hebrew I"
+    },
+    {
+        "school": "GRD01",
+        "major": "HEBR",
+        "room_num": "5841",
+        "room_desc": "Elementary Hebrew II"
+    },
+    {
+        "school": "GRD01",
+        "major": "HEBR",
+        "room_num": "5842",
+        "room_desc": "Intermed Hebrew I"
+    },
+    {
+        "school": "GRD01",
+        "major": "HEBR",
+        "room_num": "5843",
+        "room_desc": "Intermediate Hebrew II"
+    },
+    {
+        "school": "GRD01",
+        "major": "HEBR",
+        "room_num": "5844",
+        "room_desc": "Intro Hebrew I"
+    },
+    {
+        "school": "GRD01",
+        "major": "HEBR",
+        "room_num": "5845",
+        "room_desc": "Oral/Writen Present"
+    }
+]

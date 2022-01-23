@@ -1,0 +1,44 @@
+[
+    {
+        "school": "BCC01",
+        "major": "ACCT",
+        "room_num": "68720",
+        "room_desc": "Accounting Information Systems"
+    },
+    {
+        "school": "BCC01",
+        "major": "ACCT",
+        "room_num": "68721",
+        "room_desc": "Fundamental Accounting I"
+    },
+    {
+        "school": "BCC01",
+        "major": "ACCT",
+        "room_num": "68722",
+        "room_desc": "Fundamental Accounting II"
+    },
+    {
+        "school": "BCC01",
+        "major": "ACCT",
+        "room_num": "68723",
+        "room_desc": "Intermediate Accounting"
+    },
+    {
+        "school": "BCC01",
+        "major": "ACCT",
+        "room_num": "68724",
+        "room_desc": "Princ of Intermdte Accountg"
+    },
+    {
+        "school": "BCC01",
+        "major": "ACCT",
+        "room_num": "68725",
+        "room_desc": "Principles of Accounting I"
+    },
+    {
+        "school": "BCC01",
+        "major": "ACCT",
+        "room_num": "68726",
+        "room_desc": "Principles of Accounting II"
+    }
+]

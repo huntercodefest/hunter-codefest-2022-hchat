@@ -1,0 +1,26 @@
+[
+    {
+        "school": "KCC01",
+        "major": "CIEN",
+        "room_num": "63011",
+        "room_desc": "Civic Engagement Opt 1"
+    },
+    {
+        "school": "KCC01",
+        "major": "CIEN",
+        "room_num": "63012",
+        "room_desc": "Civic Engagement Opt 2"
+    },
+    {
+        "school": "KCC01",
+        "major": "CIEN",
+        "room_num": "63013",
+        "room_desc": "Civic Engagement Opt 3"
+    },
+    {
+        "school": "KCC01",
+        "major": "CIEN",
+        "room_num": "63014",
+        "room_desc": "Civic Engagement Service Corps"
+    }
+]

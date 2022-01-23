@@ -1,0 +1,20 @@
+[
+    {
+        "school": "SPS01",
+        "major": "ARFI",
+        "room_num": "80323",
+        "room_desc": "Arts & Civilization I"
+    },
+    {
+        "school": "SPS01",
+        "major": "ARFI",
+        "room_num": "80324",
+        "room_desc": "Arts & Civilization II"
+    },
+    {
+        "school": "SPS01",
+        "major": "ARFI",
+        "room_num": "80325",
+        "room_desc": "Modern Art in the City"
+    }
+]

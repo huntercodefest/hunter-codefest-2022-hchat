@@ -1,0 +1,258 @@
+[
+    {
+        "name": "RELI",
+        "path": "RELI.json"
+    },
+    {
+        "name": "CHEM",
+        "path": "CHEM.json"
+    },
+    {
+        "name": "PSYC",
+        "path": "PSYC.json"
+    },
+    {
+        "name": "ENGL",
+        "path": "ENGL.json"
+    },
+    {
+        "name": "CFRW",
+        "path": "CFRW.json"
+    },
+    {
+        "name": "IMME",
+        "path": "IMME.json"
+    },
+    {
+        "name": "CFMA",
+        "path": "CFMA.json"
+    },
+    {
+        "name": "HIST",
+        "path": "HIST.json"
+    },
+    {
+        "name": "SOCI",
+        "path": "SOCI.json"
+    },
+    {
+        "name": "CRIM",
+        "path": "CRIM.json"
+    },
+    {
+        "name": "NURS",
+        "path": "NURS.json"
+    },
+    {
+        "name": "PERM",
+        "path": "PERM.json"
+    },
+    {
+        "name": "PHYS",
+        "path": "PHYS.json"
+    },
+    {
+        "name": "UBST",
+        "path": "UBST.json"
+    },
+    {
+        "name": "CODI",
+        "path": "CODI.json"
+    },
+    {
+        "name": "ECON",
+        "path": "ECON.json"
+    },
+    {
+        "name": "EDUC",
+        "path": "EDUC.json"
+    },
+    {
+        "name": "STAB",
+        "path": "STAB.json"
+    },
+    {
+        "name": "COMA",
+        "path": "COMA.json"
+    },
+    {
+        "name": "HEBR",
+        "path": "HEBR.json"
+    },
+    {
+        "name": "CNOW",
+        "path": "CNOW.json"
+    },
+    {
+        "name": "MEDI",
+        "path": "MEDI.json"
+    },
+    {
+        "name": "ARTH",
+        "path": "ARTH.json"
+    },
+    {
+        "name": "BUTE",
+        "path": "BUTE.json"
+    },
+    {
+        "name": "GEOL",
+        "path": "GEOL.json"
+    },
+    {
+        "name": "MESG",
+        "path": "MESG.json"
+    },
+    {
+        "name": "INTE",
+        "path": "INTE.json"
+    },
+    {
+        "name": "ITAL",
+        "path": "ITAL.json"
+    },
+    {
+        "name": "ARCH",
+        "path": "ARCH.json"
+    },
+    {
+        "name": "ACIM",
+        "path": "ACIM.json"
+    },
+    {
+        "name": "GERM",
+        "path": "GERM.json"
+    },
+    {
+        "name": "TECH",
+        "path": "TECH.json"
+    },
+    {
+        "name": "EGEL",
+        "path": "EGEL.json"
+    },
+    {
+        "name": "ARTS",
+        "path": "ARTS.json"
+    },
+    {
+        "name": "BUSI",
+        "path": "BUSI.json"
+    },
+    {
+        "name": "BIOL",
+        "path": "BIOL.json"
+    },
+    {
+        "name": "STRT",
+        "path": "STRT.json"
+    },
+    {
+        "name": "DESK",
+        "path": "DESK.json"
+    },
+    {
+        "name": "CHIN",
+        "path": "CHIN.json"
+    },
+    {
+        "name": "SPAN",
+        "path": "SPAN.json"
+    },
+    {
+        "name": "POSC",
+        "path": "POSC.json"
+    },
+    {
+        "name": "THEA",
+        "path": "THEA.json"
+    },
+    {
+        "name": "STAF",
+        "path": "STAF.json"
+    },
+    {
+        "name": "EDHE",
+        "path": "EDHE.json"
+    },
+    {
+        "name": "MUSI",
+        "path": "MUSI.json"
+    },
+    {
+        "name": "ASAP",
+        "path": "ASAP.json"
+    },
+    {
+        "name": "LANG",
+        "path": "LANG.json"
+    },
+    {
+        "name": "EDPH",
+        "path": "EDPH.json"
+    },
+    {
+        "name": "FREN",
+        "path": "FREN.json"
+    },
+    {
+        "name": "PHIL",
+        "path": "PHIL.json"
+    },
+    {
+        "name": "LISC",
+        "path": "LISC.json"
+    },
+    {
+        "name": "MATH",
+        "path": "MATH.json"
+    },
+    {
+        "name": "ARAB",
+        "path": "ARAB.json"
+    },
+    {
+        "name": "SPEC",
+        "path": "SPEC.json"
+    },
+    {
+        "name": "ARTP",
+        "path": "ARTP.json"
+    },
+    {
+        "name": "CMIS",
+        "path": "CMIS.json"
+    },
+    {
+        "name": "CMSC",
+        "path": "CMSC.json"
+    },
+    {
+        "name": "SOSC",
+        "path": "SOSC.json"
+    },
+    {
+        "name": "EGEC",
+        "path": "EGEC.json"
+    },
+    {
+        "name": "ANTH",
+        "path": "ANTH.json"
+    },
+    {
+        "name": "MSTH",
+        "path": "MSTH.json"
+    },
+    {
+        "name": "DANC",
+        "path": "DANC.json"
+    },
+    {
+        "name": "EGMT",
+        "path": "EGMT.json"
+    },
+    {
+        "name": "ART",
+        "path": "ART.json"
+    }
+]

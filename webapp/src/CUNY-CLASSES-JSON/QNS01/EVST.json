@@ -1,0 +1,32 @@
+[
+    {
+        "major": "EVST",
+        "room_num": "26908",
+        "desc": "Environmental Management"
+    },
+    {
+        "major": "EVST",
+        "room_num": "26909",
+        "desc": "Spec Probs Enstd"
+    },
+    {
+        "major": "EVST",
+        "room_num": "26910",
+        "desc": "Spec Probs Environmental Std"
+    },
+    {
+        "major": "EVST",
+        "room_num": "26911",
+        "desc": "Vt: Spec Stud Environ Stds"
+    },
+    {
+        "major": "EVST",
+        "room_num": "26912",
+        "desc": "Vt: Spec Topics in Env Sudies"
+    },
+    {
+        "major": "EVST",
+        "room_num": "26913",
+        "desc": "Water Resources&Cons"
+    }
+]

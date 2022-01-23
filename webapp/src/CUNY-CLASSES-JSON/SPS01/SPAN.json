@@ -1,0 +1,27 @@
+[
+    {
+        "major": "SPAN",
+        "room_num": "81030",
+        "desc": "Beginning Spanish I"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "81031",
+        "desc": "Beginning Spanish II"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "81032",
+        "desc": "Spanish I"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "81033",
+        "desc": "Spanish II"
+    },
+    {
+        "major": "SPAN",
+        "room_num": "81034",
+        "desc": "Spanish for Health Professions"
+    }
+]

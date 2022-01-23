@@ -1,0 +1,32 @@
+[
+    {
+        "school": "BMC01",
+        "major": "ANMG",
+        "room_num": "17194",
+        "room_desc": "2D Animation Projects"
+    },
+    {
+        "school": "BMC01",
+        "major": "ANMG",
+        "room_num": "17195",
+        "room_desc": "3D Animation Projects"
+    },
+    {
+        "school": "BMC01",
+        "major": "ANMG",
+        "room_num": "17196",
+        "room_desc": "Introduction to 2D Animation"
+    },
+    {
+        "school": "BMC01",
+        "major": "ANMG",
+        "room_num": "17197",
+        "room_desc": "Introduction to 3D Animations"
+    },
+    {
+        "school": "BMC01",
+        "major": "ANMG",
+        "room_num": "17198",
+        "room_desc": "Introduction to Video Graphics"
+    }
+]

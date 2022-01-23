@@ -1,0 +1,572 @@
+[
+    {
+        "major": "UBST",
+        "room_num": "58521",
+        "desc": "20th Century Architecture"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58522",
+        "desc": "AA Civil Rghts & Law"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58523",
+        "desc": "AA Hist:Labor & Poltcs"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58524",
+        "desc": "Advanced Comm Organizing"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58525",
+        "desc": "Amer Wrking Class"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58526",
+        "desc": "Arts58527: UBST,\"Asian Amer Movement"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58528",
+        "desc": "Asians in the United States"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58529",
+        "desc": "Changing Face of NYC"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58530",
+        "desc": "Chinese in the United States"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58531",
+        "desc": "Cities in Dev Countries"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58532",
+        "desc": "City and the Arts"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58533",
+        "desc": "Com Arts and Com Dev"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58534",
+        "desc": "Comm Planning in NYC"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58535",
+        "desc": "Community Organization & Act"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58536",
+        "desc": "Comp Int\u2019l Planning"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58537",
+        "desc": "Comp Urban Politics"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58538",
+        "desc": "Comparative Urbanism"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58539",
+        "desc": "Comprtve Urb Germany"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58540",
+        "desc": "Cons Urb Reality TV"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58541",
+        "desc": "Cont Urb Issues"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58542",
+        "desc": "Contemporary Education Policy"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58543",
+        "desc": "Desgnng Placs:People"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58544",
+        "desc": "Design of the City:"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58545",
+        "desc": "Designing an Urban Utopia"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58546",
+        "desc": "Diversity and the City: Decons"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58547",
+        "desc": "Economy of N.Y.City"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58548",
+        "desc": "Educ Plan & Policies"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58549",
+        "desc": "Education58550: UBST,\"Encountering the Latin America"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58551",
+        "desc": "Examin Urban Utopias"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58552",
+        "desc": "Exploring Public Space."
+    },
+    {
+        "major": "UBST",
+        "room_num": "58553",
+        "desc": "Fieldwork: CUNY Internship"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58554",
+        "desc": "Fldwrk:Librty Mentor"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58555",
+        "desc": "GIS and Urban Policy"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58556",
+        "desc": "History Social Movement"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58557",
+        "desc": "Housing and the American City"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58558",
+        "desc": "Housing: NYC Neighborhoods"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58559",
+        "desc": "Hunter Poll-Analysis"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58560",
+        "desc": "Hunter Polls NYC"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58561",
+        "desc": "Immig58562: UBST,\"Immigration Policy"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58563",
+        "desc": "Inc Ineq & Pov in US & NYC"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58564",
+        "desc": "Inc Ineq Pov US&NYC-Pub Pol Pg"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58565",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58566",
+        "desc": "Inequal & Pov in U.S."
+    },
+    {
+        "major": "UBST",
+        "room_num": "58567",
+        "desc": "Internat Migration"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58568",
+        "desc": "International Policy Transfer"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58569",
+        "desc": "Internship"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58570",
+        "desc": "Internship58571: UBST,\"Intrnshp: Arts Cert Pgrm"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58572",
+        "desc": "Intro Communty Mapng"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58573",
+        "desc": "Intro Geographic Info Sys"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58574",
+        "desc": "Intro:Transport Plan"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58575",
+        "desc": "Introduction to Housing"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58576",
+        "desc": "Introduction to Urban Design"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58577",
+        "desc": "Introduction: Arts Management"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58578",
+        "desc": "Koreans in the U.S."
+    },
+    {
+        "major": "UBST",
+        "room_num": "58579",
+        "desc": "Lead Skills Urb Env"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58580",
+        "desc": "Making a Difference:"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58581",
+        "desc": "Mang Urb Phys Envirn"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58582",
+        "desc": "Modern Architecture 2"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58583",
+        "desc": "Mthd Urb Resrch/Plcy Analysis"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58584",
+        "desc": "NY Transport Policy & Planning"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58585",
+        "desc": "NYC Law & Politics"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58586",
+        "desc": "Neighborhd Oral Hist"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58587",
+        "desc": "Nonprofit Management"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58588",
+        "desc": "Nonproft58589: UBST,\"Planning for a Sustain Environ"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58590",
+        "desc": "Plans58591: UBST,\"Plng Fut:Prb58592: UBST,\"Plng for Sustainable Future"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58593",
+        "desc": "Plng for Urb Water Sust & Res"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58594",
+        "desc": "Poltcl Ecnmy:Congestion Pricng"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58595",
+        "desc": "Poverty and Inequality"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58596",
+        "desc": "Ppl & Neighborhood NYC"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58597",
+        "desc": "Pres Plng Wksp:Spain"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58598",
+        "desc": "Preserving NYC Neighborhoods"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58599",
+        "desc": "Public Pol Analysis & Methods"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58600",
+        "desc": "Public Policy in New York City"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58601",
+        "desc": "Punch Out & Bey :Labor NY"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58602",
+        "desc": "Quant Approach Analysis"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58603",
+        "desc": "Ques Nat & Urbn Dev"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58604",
+        "desc": "Ques Nature & Urb Dev"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58605",
+        "desc": "Rel & Public Policy"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58606",
+        "desc": "Research Practicum Educ Policy"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58607",
+        "desc": "Rptg:Lcl Pol & Invstgv"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58608",
+        "desc": "S. Asians in the US"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58609",
+        "desc": "Sel Top Urb Affairs"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58610",
+        "desc": "Sel Tp: New Orleans"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58611",
+        "desc": "Seminar on the City"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58612",
+        "desc": "Social Policy and  Planning"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58613",
+        "desc": "Sp Topics-Independent Research"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58614",
+        "desc": "Sp Tp Urban Heat Island"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58615",
+        "desc": "Space58616: UBST,\"Special Topics: Cities/Nature"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58617",
+        "desc": "Structure of Urban Region"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58618",
+        "desc": "Suburb:Ppl58619: UBST,\"Sustainablty & Environment"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58620",
+        "desc": "The City in Film"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58621",
+        "desc": "Trans NY: Sust Mob 21st Cent"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58622",
+        "desc": "Transporting NY in 21st cent"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58623",
+        "desc": "Urb Bdgt/Fiscal Pol"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58624",
+        "desc": "Urb Eco Syst58625: UBST,\"Urb Perspc Cic/Com"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58626",
+        "desc": "Urb Policy & NYC"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58627",
+        "desc": "Urb Soc & Eco Devpmt"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58628",
+        "desc": "Urban Fieldwork"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58629",
+        "desc": "Urban Futures"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58630",
+        "desc": "Urban Infrastructure World"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58631",
+        "desc": "Urban Life"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58632",
+        "desc": "Urban Plans & Pol"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58633",
+        "desc": "Urban Politics"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58634",
+        "desc": "Urban Regionalism"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58635",
+        "desc": "Urban Research Workshop"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58636",
+        "desc": "Urban Revitalization"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58637",
+        "desc": "Urban Std: Internship"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58638",
+        "desc": "Urban Std:Internship"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58639",
+        "desc": "Urban Studies Internship"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58640",
+        "desc": "Urban Water: Supply & Mgmt"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58641",
+        "desc": "Urbn Fieldwrk-Mentor"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58642",
+        "desc": "Urbn Food58643: UBST,\"Urbn Studies Studio"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58644",
+        "desc": "Wall St to Main St"
+    },
+    {
+        "major": "UBST",
+        "room_num": "58645",
+        "desc": "We Built this City"
+    }
+]

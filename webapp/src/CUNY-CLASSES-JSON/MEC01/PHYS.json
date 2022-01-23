@@ -1,0 +1,242 @@
+[
+    {
+        "major": "PHYS",
+        "room_num": "79724",
+        "desc": "Astronomy"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79725",
+        "desc": "Basic Physics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79726",
+        "desc": "Basic Physics I Lab"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79727",
+        "desc": "Calculus Physics II"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79728",
+        "desc": "Data Communication"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79729",
+        "desc": "Dynamics/Celestial"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79730",
+        "desc": "Electronics  Lab"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79731",
+        "desc": "General Phy I Lab"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79732",
+        "desc": "General Phy II Lab"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79733",
+        "desc": "General Physics I"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79734",
+        "desc": "General Physics II"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79735",
+        "desc": "Gravitation and Cosmology"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79736",
+        "desc": "Intermed Exp Phy"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79737",
+        "desc": "Intro Exper Phy Lab"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79738",
+        "desc": "Intro Quantum Mechan"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79739",
+        "desc": "Intro Space Sci Star"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79740",
+        "desc": "Intro Space Sci/Uni"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79741",
+        "desc": "Intro Space/Sci II"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79742",
+        "desc": "Intro To Phy I Lab"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79743",
+        "desc": "Intro To Phy II Lab"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79744",
+        "desc": "Intro To Physical Sc"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79745",
+        "desc": "Intro To Physics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79746",
+        "desc": "Intro To Telecommuni"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79747",
+        "desc": "Introduction to Astrophysics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79748",
+        "desc": "Introduction to Physics I"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79749",
+        "desc": "Introduction to Physics II"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79750",
+        "desc": "Modern Physics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79751",
+        "desc": "Phys Health"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79752",
+        "desc": "Physics for Health Professions"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79753",
+        "desc": "Sp Top In Space Sc I"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79754",
+        "desc": "Space Sci. I Lab"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79755",
+        "desc": "Space Science I"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79756",
+        "desc": "Space Science II"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79757",
+        "desc": "Space Science Lab II"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79758",
+        "desc": "Spec Top Sp Sci II"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79759",
+        "desc": "Spec Top Telecom"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79760",
+        "desc": "Statistical Physics"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79761",
+        "desc": "Ther Waves/Optics I"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79762",
+        "desc": "Univ Phy I Workshop"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79763",
+        "desc": "Univ Phy II Workshop"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79764",
+        "desc": "Univ Phy III Workshp"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79765",
+        "desc": "University Phy I Lab"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79766",
+        "desc": "University Phy II La"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79767",
+        "desc": "University Physic Ii"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79768",
+        "desc": "University Physics I"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79769",
+        "desc": "University Physics II"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79770",
+        "desc": "University Physics III"
+    },
+    {
+        "major": "PHYS",
+        "room_num": "79771",
+        "desc": "University Physics III Lab"
+    }
+]

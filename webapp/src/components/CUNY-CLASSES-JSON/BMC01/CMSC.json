@@ -1,0 +1,140 @@
+[
+    {
+        "school": "BMC01",
+        "major": "CMSC",
+        "room_num": "17534",
+        "room_desc": "Adv Programming Tech (Honors)"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMSC",
+        "room_num": "17535",
+        "room_desc": "Adv. Programming Techniques"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMSC",
+        "room_num": "17536",
+        "room_desc": "Assem Lang & Arc II"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMSC",
+        "room_num": "17537",
+        "room_desc": "Assembler Lang and Architect I"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMSC",
+        "room_num": "17538",
+        "room_desc": "Computer Graphics"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMSC",
+        "room_num": "17539",
+        "room_desc": "Computer Programming I"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMSC",
+        "room_num": "17540",
+        "room_desc": "Computer Programming II"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMSC",
+        "room_num": "17541",
+        "room_desc": "Data Structures"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMSC",
+        "room_num": "17542",
+        "room_desc": "Data Structures (Honors)"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMSC",
+        "room_num": "17543",
+        "room_desc": "Data Structures I"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMSC",
+        "room_num": "17544",
+        "room_desc": "Data Structures I (Honors)"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMSC",
+        "room_num": "17545",
+        "room_desc": "Data Structures II"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMSC",
+        "room_num": "17546",
+        "room_desc": "Data Structures II (Honors)"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMSC",
+        "room_num": "17547",
+        "room_desc": "Disc Struc & Applic Comp Sci"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMSC",
+        "room_num": "17548",
+        "room_desc": "DiscStruc&AppCompSci (Honors)"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMSC",
+        "room_num": "17549",
+        "room_desc": "Discrete Structures"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMSC",
+        "room_num": "17550",
+        "room_desc": "Fund. of Computer Systems"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMSC",
+        "room_num": "17551",
+        "room_desc": "Introduction to Data Analytics"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMSC",
+        "room_num": "17552",
+        "room_desc": "Introduction to Programming"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMSC",
+        "room_num": "17553",
+        "room_desc": "Math Fndtns of Comp Networking"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMSC",
+        "room_num": "17554",
+        "room_desc": "Principles In Info Tech & Comp"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMSC",
+        "room_num": "17555",
+        "room_desc": "Software Development"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMSC",
+        "room_num": "17556",
+        "room_desc": "Software Development (Honors)"
+    }
+]

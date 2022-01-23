@@ -1,0 +1,257 @@
+[
+    {
+        "major": "MESG",
+        "room_num": "18541",
+        "desc": "Applied Lib Service"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18542",
+        "desc": "CUNYstart Seminar"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18543",
+        "desc": "Enlight Rev & Roman"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18544",
+        "desc": "Int Directed Study"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18545",
+        "desc": "Intro To Lib Svce"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18546",
+        "desc": "New Media Mat & Org"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18547",
+        "desc": "On Permit"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18548",
+        "desc": "Permit Fr Baruch"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18549",
+        "desc": "Permit Fr Bronx"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18550",
+        "desc": "Permit Fr Brooklyn"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18551",
+        "desc": "Permit Fr City"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18552",
+        "desc": "Permit Fr Evers"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18553",
+        "desc": "Permit Fr Hostos"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18554",
+        "desc": "Permit Fr Hunter"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18555",
+        "desc": "Permit Fr John Jay"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18556",
+        "desc": "Permit Fr Kingsboro"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18557",
+        "desc": "Permit Fr Laguardia"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18558",
+        "desc": "Permit Fr Lehman"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18559",
+        "desc": "Permit Fr Non-Cuny"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18560",
+        "desc": "Permit Fr Nyccc"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18561",
+        "desc": "Permit Fr Qnsboro"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18562",
+        "desc": "Permit Fr Queens"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18563",
+        "desc": "Permit Fr Richmond"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18564",
+        "desc": "Permit Fr Staten Is"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18565",
+        "desc": "Permit Fr York"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18566",
+        "desc": "Permit From Cuny Ba"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18567",
+        "desc": "Permit To Baruch"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18568",
+        "desc": "Permit To Bronx"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18569",
+        "desc": "Permit To Brooklyn"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18570",
+        "desc": "Permit To City"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18571",
+        "desc": "Permit To Cuny Ba"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18572",
+        "desc": "Permit To Evers"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18573",
+        "desc": "Permit To Grad Ctr"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18574",
+        "desc": "Permit To Hostos"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18575",
+        "desc": "Permit To Hunter"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18576",
+        "desc": "Permit To John Jay"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18577",
+        "desc": "Permit To Kingsboro"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18578",
+        "desc": "Permit To Laguardia"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18579",
+        "desc": "Permit To Lehman"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18580",
+        "desc": "Permit To Nyccc"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18581",
+        "desc": "Permit To Qnsboro"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18582",
+        "desc": "Permit To Queens"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18583",
+        "desc": "Permit To Richmond"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18584",
+        "desc": "Permit To Staten Is"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18585",
+        "desc": "Permit To U Paris"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18586",
+        "desc": "Permit To York"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18587",
+        "desc": "Permit-Sch Prof Stu"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18588",
+        "desc": "Pub Service In Lib"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18589",
+        "desc": "Tap Credit Eval"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18590",
+        "desc": "Tech Proc In Lib"
+    },
+    {
+        "major": "MESG",
+        "room_num": "18591",
+        "desc": "The Great Cities"
+    }
+]

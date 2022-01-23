@@ -1,0 +1,284 @@
+[
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4642",
+        "room_desc": "Adv Concpts in Mech Vibrations"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4643",
+        "room_desc": "Adv Engineering Thermodynamics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4644",
+        "room_desc": "Adv Stress Analys in Mach Comp"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4645",
+        "room_desc": "Advanced Analytical Dynamics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4646",
+        "room_desc": "Aerodynamic Design"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4647",
+        "room_desc": "Applied Fluid Dynamics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4648",
+        "room_desc": "Applied Fluid Mechanics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4649",
+        "room_desc": "Applied Stress Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4650",
+        "room_desc": "Boundary Element Method"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4651",
+        "room_desc": "Composite Materials"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4652",
+        "room_desc": "Comput & Model of Turbul Flows"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4653",
+        "room_desc": "Computational Fluid Mechanics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4654",
+        "room_desc": "Computer Aided Manufacturing"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4655",
+        "room_desc": "Computer-Aided Design"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4656",
+        "room_desc": "Conduction Heat Transfer"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4657",
+        "room_desc": "Continuum Mechanics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4658",
+        "room_desc": "Convection Heat Transfer"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4659",
+        "room_desc": "Doctoral Dissertation Research"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4660",
+        "room_desc": "Engineering Mechanics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4661",
+        "room_desc": "Exp Mthds in Fluid Mech & Comb"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4662",
+        "room_desc": "Fluid Mechanics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4663",
+        "room_desc": "Foundat of Mechan Vibrations"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4664",
+        "room_desc": "Heating/Ventilation/Air Cond"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4665",
+        "room_desc": "Independent Studies"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4666",
+        "room_desc": "Indust Orient Design Proj"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4667",
+        "room_desc": "Industry Oriented Design Proj"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4668",
+        "room_desc": "Kinemat Analys of Mechanisms"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4669",
+        "room_desc": "Kinemat Synthes of Mechanisms"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4670",
+        "room_desc": "Lubrication"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4671",
+        "room_desc": "Mech & Physics of Material Beh"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4672",
+        "room_desc": "Mech of Materials"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4673",
+        "room_desc": "Mechan Feedback Control Syst"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4674",
+        "room_desc": "Mechanical Engineering Seminar"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4675",
+        "room_desc": "Mechanical Vibrations"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4676",
+        "room_desc": "Nano/Micromechanics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4677",
+        "room_desc": "Non-Newtonian Fluid Mechanics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4678",
+        "room_desc": "Nonlinear Dynamic and Chaos"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4679",
+        "room_desc": "Physl Properties of Materials"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4680",
+        "room_desc": "Project"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4681",
+        "room_desc": "Radiation Heat Transfer"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4682",
+        "room_desc": "Report"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4683",
+        "room_desc": "Research for Master\u2019s Thesis"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4684",
+        "room_desc": "Steam and Gas Turbines"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4685",
+        "room_desc": "Theory of Elasticity"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4686",
+        "room_desc": "Topics in Mechanical Enginring"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4687",
+        "room_desc": "Trajectories and Orbits"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "4688",
+        "room_desc": "Turbulent Flows"
+    }
+]

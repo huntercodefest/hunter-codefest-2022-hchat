@@ -1,0 +1,20 @@
+[
+    {
+        "school": "QCC01",
+        "major": "ACIM",
+        "room_num": "22171",
+        "room_desc": "Remedial Math"
+    },
+    {
+        "school": "QCC01",
+        "major": "ACIM",
+        "room_num": "22172",
+        "room_desc": "Remedial Reading"
+    },
+    {
+        "school": "QCC01",
+        "major": "ACIM",
+        "room_num": "22173",
+        "room_desc": "Remedial Writing"
+    }
+]

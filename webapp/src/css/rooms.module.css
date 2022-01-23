@@ -1,0 +1,53 @@
+.roomsComponent {
+	display: flex;
+	flex-direction: column;
+	border-right: 1px solid black;
+	height: 100vh;
+	margin-top: 0;
+	margin-left: 0;
+	flex-basis: 300px;
+	/*max-width: 300px; */
+	overflow: auto;
+	background-color: black;
+    color: white;
+}
+
+.header {
+}
+.desc{
+    display: flex;
+    align-items: center;
+}
+.searchBar {
+	flex-grow: 3;
+	min-width: 200px;
+}
+
+.roomsContainer {
+	display: flex;
+	flex: 1;
+	justify-content: flex-start;
+	flex-direction: column;
+}
+
+.roomButton {
+	margin-top: 5px;
+	margin-left: 0;
+	background-color: #ac1db8;
+	color: white;
+	border: none;
+	cursor: pointer;
+	font-size: 14px;
+}
+
+.roomButton:hover,
+.roomButton:focus {
+	background-color: rgb(121, 27, 145);
+}
+
+.backButton {
+	width: 25px;
+	cursor: pointer;
+	filter: invert(100%) sepia(0%) saturate(6199%) hue-rotate(113deg)
+		brightness(131%) contrast(92%);
+}

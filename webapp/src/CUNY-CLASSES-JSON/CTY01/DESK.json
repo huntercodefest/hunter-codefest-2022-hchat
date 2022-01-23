@@ -1,0 +1,32 @@
+[
+    {
+        "major": "DESK",
+        "room_num": "34432",
+        "desc": "Adv Read + Study"
+    },
+    {
+        "major": "DESK",
+        "room_num": "34433",
+        "desc": "Adv Read + Study 2"
+    },
+    {
+        "major": "DESK",
+        "room_num": "34434",
+        "desc": "Col Skill Sem/Lab"
+    },
+    {
+        "major": "DESK",
+        "room_num": "34435",
+        "desc": "Coll Skills Sem/Lab"
+    },
+    {
+        "major": "DESK",
+        "room_num": "34436",
+        "desc": "Ll Orientatn Lab/Sem"
+    },
+    {
+        "major": "DESK",
+        "room_num": "34437",
+        "desc": "Read + Study Skills"
+    }
+]

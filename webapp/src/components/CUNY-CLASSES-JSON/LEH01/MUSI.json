@@ -1,0 +1,764 @@
+[
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13824",
+        "room_desc": "2ndry Instrum Ensmb1"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13825",
+        "room_desc": "2ndry Instrum Ensmb2"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13826",
+        "room_desc": "Advanced Conducting"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13827",
+        "room_desc": "Advanced Ear Training"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13828",
+        "room_desc": "Advanced Musical Analysis"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13829",
+        "room_desc": "Advanced Musicianship"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13830",
+        "room_desc": "American Popular Music"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13831",
+        "room_desc": "Assess PS Instrumental Music"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13832",
+        "room_desc": "Brass I"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13833",
+        "room_desc": "Brass II"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13834",
+        "room_desc": "Career Development for Music P"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13835",
+        "room_desc": "Chamber Choir"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13836",
+        "room_desc": "Chamber Ensemble"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13837",
+        "room_desc": "Choral Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13838",
+        "room_desc": "Chorus"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13839",
+        "room_desc": "College Choir"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13840",
+        "room_desc": "Composition"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13841",
+        "room_desc": "Composition I"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13842",
+        "room_desc": "Composition II"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13843",
+        "room_desc": "Concert Band"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13844",
+        "room_desc": "Conducting"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13845",
+        "room_desc": "Creating Music with Computers"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13846",
+        "room_desc": "Definng Mmnts Film Scoring His"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13847",
+        "room_desc": "Ensmbl Voice&Instrum"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13848",
+        "room_desc": "Entrepreneurship Music Indstry"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13849",
+        "room_desc": "Eval Assess Criteria/Tech/Mus"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13850",
+        "room_desc": "Folk and Traditional Music"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13851",
+        "room_desc": "Form and Analysis I"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13852",
+        "room_desc": "Form and Analysis II"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13853",
+        "room_desc": "Fugue I"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13854",
+        "room_desc": "Fugue II"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13855",
+        "room_desc": "Fundamentals of Film Music"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13856",
+        "room_desc": "Fundamentals of Music Theory"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13857",
+        "room_desc": "Group Piano 2"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13858",
+        "room_desc": "Group Piano 3"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13859",
+        "room_desc": "Group Piano I"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13860",
+        "room_desc": "Guitar 2"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13861",
+        "room_desc": "Guitar Ensemble"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13862",
+        "room_desc": "Guitar I"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13863",
+        "room_desc": "History of Jazz"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13864",
+        "room_desc": "Independent Studies in Music"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13865",
+        "room_desc": "Independent Study Music Theory"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13866",
+        "room_desc": "Independent Study:Mus History"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13867",
+        "room_desc": "Instruct Princ Instr or Voice"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13868",
+        "room_desc": "Instrumental Mus Edu"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13869",
+        "room_desc": "Instrumental Music Methods"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13870",
+        "room_desc": "Instrumntl Lab Ensmb"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13871",
+        "room_desc": "Interm Non-Western Concepts"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13872",
+        "room_desc": "Intro Struct Music 1"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13873",
+        "room_desc": "Intro Struct Music 2"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13874",
+        "room_desc": "Intro To Music"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13875",
+        "room_desc": "Intro to Music History & Cult"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13876",
+        "room_desc": "Introduction to Music"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13877",
+        "room_desc": "Introduction to Music Therapy"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13878",
+        "room_desc": "Italian Opera"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13879",
+        "room_desc": "Jazz Band"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13880",
+        "room_desc": "Jazz Lit&Evol -1950"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13881",
+        "room_desc": "Jazz: Literature and Evolution"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13882",
+        "room_desc": "Latin Band"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13883",
+        "room_desc": "Lit of Music: Chamber Music"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13884",
+        "room_desc": "Master Composers"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13885",
+        "room_desc": "Mus/Lit-Music Educat"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13886",
+        "room_desc": "Music Internship"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13887",
+        "room_desc": "Music Since 1945"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13888",
+        "room_desc": "Music and the Brain"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13889",
+        "room_desc": "Music of Baroque & Classical"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13890",
+        "room_desc": "Music of Middle Ages&Renaissan"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13891",
+        "room_desc": "Music of Romantic & Early Modn"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13892",
+        "room_desc": "MusicComputers&MultimediaPedag"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13893",
+        "room_desc": "Musicianship I"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13894",
+        "room_desc": "Musicianship II"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13895",
+        "room_desc": "Musicianship III"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13896",
+        "room_desc": "Musicianship IV"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13897",
+        "room_desc": "New Jazz Lit for Music Eductrs"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13898",
+        "room_desc": "New Wind Lit for Music Eductrs"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13899",
+        "room_desc": "Opera 1830-20th Cent"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13900",
+        "room_desc": "Opera: 1600 to 1830"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13901",
+        "room_desc": "Orchestra"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13902",
+        "room_desc": "Orchestral Music"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13903",
+        "room_desc": "Orchestration I"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13904",
+        "room_desc": "Orchestration II"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13905",
+        "room_desc": "Percuss Instrument Music Edu"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13906",
+        "room_desc": "Percuss Instrumental Music Edu"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13907",
+        "room_desc": "Percussion"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13908",
+        "room_desc": "Percussion Ensemble"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13909",
+        "room_desc": "Percussion Instru Music Edu"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13910",
+        "room_desc": "Perf Pract-Baroque to Present"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13911",
+        "room_desc": "Performance I"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13912",
+        "room_desc": "Performance II"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13913",
+        "room_desc": "Performance III"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13914",
+        "room_desc": "Performance IV Graduation Reci"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13915",
+        "room_desc": "Piano Music"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13916",
+        "room_desc": "Piano for Music Teachers"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13917",
+        "room_desc": "Practicum in Music Therapy"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13918",
+        "room_desc": "Public-Schl Ensemble Progrmng"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13919",
+        "room_desc": "Recording Tech. & Studio Prod."
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13920",
+        "room_desc": "Rhythmic Conpts of India&Ghana"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13921",
+        "room_desc": "Scoring for Media"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13922",
+        "room_desc": "Senior Project"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13923",
+        "room_desc": "Singing for the Stage"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13924",
+        "room_desc": "Spec Techniques in Piano/Tchrs"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13925",
+        "room_desc": "Spec-Topics-Mus Perf"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13926",
+        "room_desc": "Special Topics - Music History"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13927",
+        "room_desc": "Special Topics in Music Theory"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13928",
+        "room_desc": "Strings I"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13929",
+        "room_desc": "Strings II"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13930",
+        "room_desc": "The Art Song"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13931",
+        "room_desc": "The Chamber Choir"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13932",
+        "room_desc": "The College Choir"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13933",
+        "room_desc": "The Concerto"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13934",
+        "room_desc": "The Operas of Mozart"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13935",
+        "room_desc": "The Operas of Wagner"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13936",
+        "room_desc": "TheAmerican Musical Experience"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13937",
+        "room_desc": "Theory I"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13938",
+        "room_desc": "Theory II"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13939",
+        "room_desc": "Theory III"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13940",
+        "room_desc": "Theory IV"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13941",
+        "room_desc": "Topics in Ethnomusicology"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13942",
+        "room_desc": "Tops:Instru. Mus Ed"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13943",
+        "room_desc": "Tpcs:Inst.Music Educ"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13944",
+        "room_desc": "Twentieth-Century Opera"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13945",
+        "room_desc": "Vocal Pedagogy"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13946",
+        "room_desc": "Voice and Diction 1"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13947",
+        "room_desc": "Voice and Diction 2"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13948",
+        "room_desc": "Woodwinds I"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13949",
+        "room_desc": "Woodwinds II"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "13950",
+        "room_desc": "World Music"
+    }
+]

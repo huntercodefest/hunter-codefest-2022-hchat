@@ -1,0 +1,32 @@
+[
+    {
+        "major": "ARAB",
+        "room_num": "62756",
+        "desc": "Elementary Arabic 1"
+    },
+    {
+        "major": "ARAB",
+        "room_num": "62757",
+        "desc": "Elementary Arabic 2"
+    },
+    {
+        "major": "ARAB",
+        "room_num": "62758",
+        "desc": "Elementary Arabic I"
+    },
+    {
+        "major": "ARAB",
+        "room_num": "62759",
+        "desc": "Elementary Arabic II"
+    },
+    {
+        "major": "ARAB",
+        "room_num": "62760",
+        "desc": "Intermediate Arabic I"
+    },
+    {
+        "major": "ARAB",
+        "room_num": "62761",
+        "desc": "Intermediate Arabic II"
+    }
+]

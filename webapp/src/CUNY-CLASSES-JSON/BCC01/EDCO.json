@@ -1,0 +1,32 @@
+[
+    {
+        "major": "EDCO",
+        "room_num": "68958",
+        "desc": "Apprenticeship I"
+    },
+    {
+        "major": "EDCO",
+        "room_num": "68959",
+        "desc": "Apprenticeship II"
+    },
+    {
+        "major": "EDCO",
+        "room_num": "68960",
+        "desc": "Apprenticeship III"
+    },
+    {
+        "major": "EDCO",
+        "room_num": "68961",
+        "desc": "Coop Work Experience III"
+    },
+    {
+        "major": "EDCO",
+        "room_num": "68962",
+        "desc": "Cooperative Work Experience"
+    },
+    {
+        "major": "EDCO",
+        "room_num": "68963",
+        "desc": "Cooperative Work Experience II"
+    }
+]

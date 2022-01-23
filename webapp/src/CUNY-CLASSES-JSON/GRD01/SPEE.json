@@ -1,0 +1,692 @@
+[
+    {
+        "major": "SPEE",
+        "room_num": "10322",
+        "desc": "Acoustic Immittance"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10323",
+        "desc": "Adv Anat Phy Sp Mec"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10324",
+        "desc": "Adv Anat/Physio/Neur Spch Mech"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10325",
+        "desc": "Adv Psycholinguists"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10326",
+        "desc": "Adv Speech Patholog"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10327",
+        "desc": "Advanced Audiology"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10328",
+        "desc": "Amp Sys Hear Impair"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10329",
+        "desc": "Anat & Phys Spch Mech"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10330",
+        "desc": "Anat Phys"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10331",
+        "desc": "Anat Phys Spch"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10332",
+        "desc": "Aphasia/Rel Disorders Speech"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10333",
+        "desc": "Articlatry Phonetics"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10334",
+        "desc": "Articulat & Phonolog Disorders"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10335",
+        "desc": "Articulation"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10336",
+        "desc": "Articulatory Phonology"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10337",
+        "desc": "Aud Evoked Potentls"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10338",
+        "desc": "Audiological Assess Young Chld"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10339",
+        "desc": "Audiology 1"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10340",
+        "desc": "Auditory Disorders in Children"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10341",
+        "desc": "Auditory Physiology/Modeling"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10342",
+        "desc": "Bhvr Mod Res Des"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10343",
+        "desc": "Bhvr Mod Spch Patho"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10344",
+        "desc": "Bilngl Eff/Spch Percpt/Prod"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10345",
+        "desc": "Biostatistics"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10346",
+        "desc": "Clin Prac Spch Path"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10347",
+        "desc": "Clin Pract Audiolog"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10348",
+        "desc": "Clin Pract Spch Lang Pathol"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10349",
+        "desc": "Clin Pract-Speech Pathology"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10350",
+        "desc": "Clinic Pract Spch-Lang Pathol"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10351",
+        "desc": "Clinic Pract Spch/Lang Pathol"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10352",
+        "desc": "Clinical Practicum"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10353",
+        "desc": "Clinical Practicum Audiology"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10354",
+        "desc": "Cochlear Implants"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10355",
+        "desc": "College Teaching"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10356",
+        "desc": "Comm Skills Hearng Handicapped"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10357",
+        "desc": "Communicat Acquistn"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10358",
+        "desc": "Community/Ind Progrm Audiology"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10359",
+        "desc": "Comunicat Acqust Ii"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10360",
+        "desc": "Cross-language Study of Aphasi"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10361",
+        "desc": "Diag Appr Spch/Lang Disorders"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10362",
+        "desc": "Diag Tech Spch Path"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10363",
+        "desc": "Diagnosis/Treatment Stuttering"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10364",
+        "desc": "Diagnostic Audiology"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10365",
+        "desc": "Diagnostic Practicm"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10366",
+        "desc": "Diagnostic Practicum"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10367",
+        "desc": "Disphagia"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10368",
+        "desc": "Dissertation Seminar"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10369",
+        "desc": "Dissertation Supervision"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10370",
+        "desc": "Doctoral Research"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10371",
+        "desc": "Eval Listen for Oral Communic"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10372",
+        "desc": "Evoked Potentials"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10373",
+        "desc": "Experimental Audiology"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10374",
+        "desc": "Funct Hemisph Assym"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10375",
+        "desc": "Hearing Aids"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10376",
+        "desc": "Hearing Science"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10377",
+        "desc": "Independent Study"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10378",
+        "desc": "Instrmnttn Rsrch Spch Hrng Sci"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10379",
+        "desc": "Instrum for Rsch Spch/Hrng Sci"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10380",
+        "desc": "Instrumentation"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10381",
+        "desc": "Intro Audiology"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10382",
+        "desc": "Intro Sp/L Path"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10383",
+        "desc": "Intro To Audiology"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10384",
+        "desc": "Intro to Audiology"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10385",
+        "desc": "Intro to Doctoral Research"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10386",
+        "desc": "Intro to Neurolinguistics"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10387",
+        "desc": "Lang Acquisition"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10388",
+        "desc": "Lang Lern Disord Ii"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10389",
+        "desc": "Language Disorders in Children"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10390",
+        "desc": "Language Disorders: Adults II"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10391",
+        "desc": "Language Science"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10392",
+        "desc": "Language/Dementia"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10393",
+        "desc": "Meth Analy/Edit Acoust Signals"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10394",
+        "desc": "Meth Of Measurement"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10395",
+        "desc": "Methodology Communicatn Resch"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10396",
+        "desc": "Neural Proc Spch/Lang/Hearing"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10397",
+        "desc": "Neuroanatomy"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10398",
+        "desc": "Neurobio/Lang/Spch"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10399",
+        "desc": "Neurobiolgy Child Lang Disordr"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10400",
+        "desc": "Neurolingistic of Bilingualism"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10401",
+        "desc": "Neuromotor Commun Disorders"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10402",
+        "desc": "Neurophysiology of Language"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10403",
+        "desc": "Neuroscience of Aphasia"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10404",
+        "desc": "Norm Deviant Lang"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10405",
+        "desc": "Phonetic Engl Lang"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10406",
+        "desc": "Phonetics Am Eng"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10407",
+        "desc": "Phono Development"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10408",
+        "desc": "Phonologicl Acquis & Disorders"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10409",
+        "desc": "Physiological Acoustics"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10410",
+        "desc": "Professional Issues Seminar"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10411",
+        "desc": "Psychological Acoustics"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10412",
+        "desc": "Psychophy Sensorneur Hrng Loss"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10413",
+        "desc": "Research Practicum"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10414",
+        "desc": "Resp Research Conduct (Ethics)"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10415",
+        "desc": "ST: Audiology"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10416",
+        "desc": "ST: Hearing Science"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10417",
+        "desc": "ST: Language Pathology"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10418",
+        "desc": "ST: Speech Science"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10419",
+        "desc": "ST: Typ/Atyp Phonol Acquisitn"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10420",
+        "desc": "ST: Voice Science"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10421",
+        "desc": "Sem Electrophysiological Mthd"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10422",
+        "desc": "Sem Language in Aging/Dementia"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10423",
+        "desc": "Sem Rsch Meth Lang Acquisitn"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10424",
+        "desc": "Seminar Child Lang Disorders"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10425",
+        "desc": "Seminar In Audiolog"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10426",
+        "desc": "Seminar in Autism"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10427",
+        "desc": "Seminar in Language Science"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10428",
+        "desc": "Seminar in Speech Perception"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10429",
+        "desc": "Seminar in Speech Production"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10430",
+        "desc": "Spch Lang Comm Syst"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10431",
+        "desc": "Spch Lang Prbm Mental Retarded"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10432",
+        "desc": "Spch Mechanisms"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10433",
+        "desc": "Spch Path: Func Disord"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10434",
+        "desc": "Spch Path: Organic Disord"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10435",
+        "desc": "Spch Prcp/tBlngl Lis/Hrng Loss"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10436",
+        "desc": "Spch/Lang Learn Dis"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10437",
+        "desc": "Spch/Lang Of Deaf"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10438",
+        "desc": "Special Problems"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10439",
+        "desc": "Speech Commmunication"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10440",
+        "desc": "Speech Disorders: Articulation"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10441",
+        "desc": "Speech Foundations"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10442",
+        "desc": "Speech Intl Busness"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10443",
+        "desc": "Speech Peceptin & Hearing Loss"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10444",
+        "desc": "Speech Perception"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10445",
+        "desc": "Speech Science"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10446",
+        "desc": "Spoken Americn Engl"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10447",
+        "desc": "Studies in Communic Disorders"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10448",
+        "desc": "Stuttering"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10449",
+        "desc": "Tech/Spch Communic"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10450",
+        "desc": "The Acoustic Change Complex"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10451",
+        "desc": "The Acquisition of Language"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10452",
+        "desc": "The Nature of Stuttering"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10453",
+        "desc": "The Psychology of Speech"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10454",
+        "desc": "Theories Of Hearing"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10455",
+        "desc": "This is a Lehman Course"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10456",
+        "desc": "Tv Public Address"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10457",
+        "desc": "Typical/Atypical Bilnual Devel"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10458",
+        "desc": "Voice And Diction"
+    },
+    {
+        "major": "SPEE",
+        "room_num": "10459",
+        "desc": "Voice Disorders"
+    }
+]

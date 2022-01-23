@@ -1,0 +1,32 @@
+[
+    {
+        "school": "HOS01",
+        "major": "EGNG",
+        "room_num": "64640",
+        "room_desc": "Computer-Aided Analysis Tools"
+    },
+    {
+        "school": "HOS01",
+        "major": "EGNG",
+        "room_num": "64641",
+        "room_desc": "Electrical Circuits"
+    },
+    {
+        "school": "HOS01",
+        "major": "EGNG",
+        "room_num": "64642",
+        "room_desc": "Engineering Design Workshop I"
+    },
+    {
+        "school": "HOS01",
+        "major": "EGNG",
+        "room_num": "64643",
+        "room_desc": "Engineering Economics"
+    },
+    {
+        "school": "HOS01",
+        "major": "EGNG",
+        "room_num": "64644",
+        "room_desc": "Intro Earth & Atmospheric Sci"
+    }
+]

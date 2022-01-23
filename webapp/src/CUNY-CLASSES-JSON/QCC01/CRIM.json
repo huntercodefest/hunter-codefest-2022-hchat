@@ -1,0 +1,37 @@
+[
+    {
+        "major": "CRIM",
+        "room_num": "22502",
+        "desc": "Corrections and Sentencing"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "22503",
+        "desc": "Crime & Justice in Urban Commu"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "22504",
+        "desc": "Criminal Law"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "22505",
+        "desc": "Criminology"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "22506",
+        "desc": "Intro Amer Criminal Justice"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "22507",
+        "desc": "Intro to Criminal Justice Res"
+    },
+    {
+        "major": "CRIM",
+        "room_num": "22508",
+        "desc": "Policing"
+    }
+]

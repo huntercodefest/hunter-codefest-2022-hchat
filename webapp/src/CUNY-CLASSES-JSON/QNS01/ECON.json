@@ -1,0 +1,907 @@
+[
+    {
+        "major": "ECON",
+        "room_num": "25290",
+        "desc": "Acc Pro Small Bus"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25291",
+        "desc": "Accounting for Risk Management"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25292",
+        "desc": "Acct 1 Elem Acct"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25293",
+        "desc": "Acct 4 Auditing"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25294",
+        "desc": "Adv Acc Problems"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25295",
+        "desc": "Adv Acct"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25296",
+        "desc": "Adv Econometrics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25297",
+        "desc": "Advanced Derivatives"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25298",
+        "desc": "Advanced Econometrics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25299",
+        "desc": "Amer Economic Hist"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25300",
+        "desc": "Amer Economic Hist since 1914"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25301",
+        "desc": "American Economy to 1914"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25302",
+        "desc": "Analysis of Invest&Market Risk"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25303",
+        "desc": "App Fin Dynamic Analysis Model"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25304",
+        "desc": "Applied Dynamic Fin Analysis"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25305",
+        "desc": "Applied Financial Analysis"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25306",
+        "desc": "Auditing"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25307",
+        "desc": "Blockchain and Money"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25308",
+        "desc": "Bus Cycles"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25309",
+        "desc": "Bus Organ & Corp Finance"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25310",
+        "desc": "Business Cycles"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25311",
+        "desc": "Comp Econ Systems"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25312",
+        "desc": "Comparative Econ & Fin Systems"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25313",
+        "desc": "Consum Econ & Pers Fin"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25314",
+        "desc": "Corporate Finance"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25315",
+        "desc": "Corporate Strategy& Macroecon"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25316",
+        "desc": "Cost Acct"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25317",
+        "desc": "Cycles/Stabilization"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25318",
+        "desc": "Data Sci via Machine Learning"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25319",
+        "desc": "Dev Of Amer Econ"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25320",
+        "desc": "Devel Amer Econ"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25321",
+        "desc": "Devel Econ Thought"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25322",
+        "desc": "Develop Econ Th"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25323",
+        "desc": "Dist Markt"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25324",
+        "desc": "Ec & Gov Con Am Bus"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25325",
+        "desc": "Eco & Min Gps"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25326",
+        "desc": "Eco Dist & Marketing"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25327",
+        "desc": "Eco Gov Con Bus"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25328",
+        "desc": "Eco Health"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25329",
+        "desc": "Eco Organiz Labor"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25330",
+        "desc": "Eco Pblms Lat Am"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25331",
+        "desc": "Econ & Society"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25332",
+        "desc": "Econ Class/Race/Sex"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25333",
+        "desc": "Econ Dist Mktng"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25334",
+        "desc": "Econ Labor Force"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25335",
+        "desc": "Econ Of Bus Organ"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25336",
+        "desc": "Econ Of Environment"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25337",
+        "desc": "Econ Princ/Problems"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25338",
+        "desc": "Econ Prob Lat America"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25339",
+        "desc": "Econ State/Local Fin"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25340",
+        "desc": "Econ Statistics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25341",
+        "desc": "Econ Statistics 1"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25342",
+        "desc": "Econ of Health & Income Prog"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25343",
+        "desc": "Econ25344: ECON,\"Econometrics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25345",
+        "desc": "Economic Development"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25346",
+        "desc": "Economic Development of China"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25347",
+        "desc": "Economic Geography"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25348",
+        "desc": "Economic Probs Lat America"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25349",
+        "desc": "Economics Of Africa"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25350",
+        "desc": "Economics Of Bus Org"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25351",
+        "desc": "Economics Writing Workshop"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25352",
+        "desc": "Economics and Society"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25353",
+        "desc": "Economics of Asia"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25354",
+        "desc": "Economics of Climate Change"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25355",
+        "desc": "Economics of Organized Labor"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25356",
+        "desc": "Economics of the Labor Force"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25357",
+        "desc": "Ecostatistics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25358",
+        "desc": "Elem Acct 1"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25359",
+        "desc": "Elem Acct 2"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25360",
+        "desc": "Engineering Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25361",
+        "desc": "Enterprise Risk Management"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25362",
+        "desc": "Eur Ec Community & Us"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25363",
+        "desc": "Eur Economic Hist"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25364",
+        "desc": "European Economics Since 1750"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25365",
+        "desc": "Evol Of Industry"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25366",
+        "desc": "Financial Econometrics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25367",
+        "desc": "Financial Markets"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25368",
+        "desc": "Financial Statement Analysis"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25369",
+        "desc": "Fixed Income Instruments"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25370",
+        "desc": "Globalization Now and Then"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25371",
+        "desc": "Govt Con Am Bus"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25372",
+        "desc": "Hist Bus/Fin 1850-Pres"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25373",
+        "desc": "Hist Econ Thought"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25374",
+        "desc": "Honors Seminar"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25375",
+        "desc": "Imp&Und 3 Wld Cnt"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25376",
+        "desc": "Income Determin"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25377",
+        "desc": "Industrial Organiz & Control"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25378",
+        "desc": "Industrial Organization"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25379",
+        "desc": "Inter Price Th"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25380",
+        "desc": "Interm Acct"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25381",
+        "desc": "Intermed Acct 1"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25382",
+        "desc": "Intermediate Fin"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25383",
+        "desc": "International Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25384",
+        "desc": "International Fin"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25385",
+        "desc": "International Finance"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25386",
+        "desc": "International Trade"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25387",
+        "desc": "Internship for Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25388",
+        "desc": "Intr Corp Fin & Money & Bank"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25389",
+        "desc": "Intrntl Econ"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25390",
+        "desc": "Intro Econ 1"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25391",
+        "desc": "Intro Economics 1"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25392",
+        "desc": "Intro Regional Sci"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25393",
+        "desc": "Intro To Economic"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25394",
+        "desc": "Intro To Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25395",
+        "desc": "Intro To Geography"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25396",
+        "desc": "Intro To Macroecon"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25397",
+        "desc": "Intro to Micro & Macro Econ"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25398",
+        "desc": "Intro to Operations Research"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25399",
+        "desc": "Introduction to Econometrics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25400",
+        "desc": "Introduction to Macroeconomics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25401",
+        "desc": "Introduction to Microeconomics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25402",
+        "desc": "Introductory Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25403",
+        "desc": "Int\u2019L Polit Econ"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25404",
+        "desc": "Int\u2019l Monetary Sys"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25405",
+        "desc": "Labor Econ"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25406",
+        "desc": "Labor Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25407",
+        "desc": "Macro Econ Anal"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25408",
+        "desc": "Macro Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25409",
+        "desc": "Macro-Economic Analysis"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25410",
+        "desc": "Macroecon"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25411",
+        "desc": "Macroeconomic Analysis /Math"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25412",
+        "desc": "Macroeconomics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25413",
+        "desc": "Marketing Policies"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25414",
+        "desc": "Mathematical Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25415",
+        "desc": "Meas Econ Variables"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25416",
+        "desc": "Microecon"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25417",
+        "desc": "Microeconomics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25418",
+        "desc": "Money & Banking"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25419",
+        "desc": "Money & Fin Mkts"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25420",
+        "desc": "Money and Banking"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25421",
+        "desc": "Money and Capital Markets"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25422",
+        "desc": "N Y Money Market"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25423",
+        "desc": "Pol Eco Europ Union"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25424",
+        "desc": "Polit Econ of Euro Union"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25425",
+        "desc": "Political Geography"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25426",
+        "desc": "Portfolio Management"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25427",
+        "desc": "Price Theory"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25428",
+        "desc": "Price Theory W Math"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25429",
+        "desc": "Price and Distribution Theory"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25430",
+        "desc": "Prin/Prac Real Estat"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25431",
+        "desc": "Prob Of Lat Am"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25432",
+        "desc": "Pub Fin/Fiscal Pol"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25433",
+        "desc": "Public Finance"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25434",
+        "desc": "Python for Financial Appl"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25435",
+        "desc": "Regl of American Business"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25436",
+        "desc": "Research Methods in Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25437",
+        "desc": "Risk Measurement"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25438",
+        "desc": "Risk Transf to Insurance Mkts"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25439",
+        "desc": "Risk Trnsfr to Financial Mrkts"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25440",
+        "desc": "Sem Adv Micro Thry"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25441",
+        "desc": "Sem Econ Research"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25442",
+        "desc": "Sem M.A. Thesis Rsch"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25443",
+        "desc": "Sem Urban Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25444",
+        "desc": "Special Problems"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25445",
+        "desc": "Special Topics In R"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25446",
+        "desc": "Stat Appl To Econ"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25447",
+        "desc": "Stat Applied Econ & Bus"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25448",
+        "desc": "Statistics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25449",
+        "desc": "Stats in Economics & Business"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25450",
+        "desc": "Surv Econ Prin & Pbl"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25451",
+        "desc": "Technology25452: ECON,\"The Economics of CryptoAssets"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25453",
+        "desc": "The Economy of Greece"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25454",
+        "desc": "The Eur Econ & US"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25455",
+        "desc": "The Global Economy"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25456",
+        "desc": "The Market Society"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25457",
+        "desc": "The Process Of Econ Devel"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25458",
+        "desc": "The Soviet Econ"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25459",
+        "desc": "Transform of Eco Syst"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25460",
+        "desc": "US & New Wrld Eco"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25461",
+        "desc": "Ub30.9-La Polecon"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25462",
+        "desc": "Underdeveloped Area"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25463",
+        "desc": "Urb Resource Dev."
+    },
+    {
+        "major": "ECON",
+        "room_num": "25464",
+        "desc": "Urban Econ"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25465",
+        "desc": "Urban Econ: Tools25466: ECON,\"Urban Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25467",
+        "desc": "Vt: Semi Select Studies Econ"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25468",
+        "desc": "Vt:Sem Sel Stud Econ"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25469",
+        "desc": "Vt:Seminar"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25470",
+        "desc": "Vt:Sp Prob Reg Sci"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25471",
+        "desc": "Women\u2019s Issues in Economics"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25472",
+        "desc": "World Resources"
+    },
+    {
+        "major": "ECON",
+        "room_num": "25473",
+        "desc": "Writing Tutorial"
+    }
+]

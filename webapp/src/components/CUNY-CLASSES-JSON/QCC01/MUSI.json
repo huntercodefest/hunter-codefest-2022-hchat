@@ -1,0 +1,962 @@
+[
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23105",
+        "room_desc": "Basic Keyboard Techniques"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23106",
+        "room_desc": "Class Instruction Percussion I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23107",
+        "room_desc": "Class Instruction Piano III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23108",
+        "room_desc": "Class Instruction in Guitar I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23109",
+        "room_desc": "Class Instruction in Guitar II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23110",
+        "room_desc": "Class Instruction in Piano II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23111",
+        "room_desc": "Class Instruction in Piano IV"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23112",
+        "room_desc": "Class Instruction in Voice I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23113",
+        "room_desc": "Class Instruction in Voice II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23114",
+        "room_desc": "Class InstructionPercussion II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23115",
+        "room_desc": "Co-op Edu Internshp Music Prod"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23116",
+        "room_desc": "Convocation I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23117",
+        "room_desc": "Convocation II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23118",
+        "room_desc": "Convocation III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23119",
+        "room_desc": "Convocation IV"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23120",
+        "room_desc": "Coop Edu MusTech/Intertship"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23121",
+        "room_desc": "Digital Audio Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23122",
+        "room_desc": "Digital Audio for New Media"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23123",
+        "room_desc": "Digital Music Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23124",
+        "room_desc": "Digital Music Sequencing"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23125",
+        "room_desc": "Digital Record Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23126",
+        "room_desc": "Digital Recording"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23127",
+        "room_desc": "Digital Sound Design"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23128",
+        "room_desc": "Digital Sound Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23129",
+        "room_desc": "Elm Sght-Rdr Ear"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23130",
+        "room_desc": "Fundamentals of Music"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23131",
+        "room_desc": "Fundamentals of Music II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23132",
+        "room_desc": "History of Western Music:18&19"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23133",
+        "room_desc": "Improvisation Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23134",
+        "room_desc": "Independent Record Production"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23135",
+        "room_desc": "Individual StdyFrench Horn III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23136",
+        "room_desc": "Individual Stu Double Bass III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23137",
+        "room_desc": "Individual Stud Double Bass II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23138",
+        "room_desc": "Individual Study  Clarinet II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23139",
+        "room_desc": "Individual Study Bassoon III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23140",
+        "room_desc": "Individual Study Clarinet IV"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23141",
+        "room_desc": "Individual Study Double Bass I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23142",
+        "room_desc": "Individual Study French Horn I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23143",
+        "room_desc": "Individual Study Guitar I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23144",
+        "room_desc": "Individual Study Guitar II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23145",
+        "room_desc": "Individual Study Guitar III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23146",
+        "room_desc": "Individual Study Guitar IV"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23147",
+        "room_desc": "Individual Study Percussion I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23148",
+        "room_desc": "Individual Study Percussion II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23149",
+        "room_desc": "Individual Study Percussion IV"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23150",
+        "room_desc": "Individual Study Piano I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23151",
+        "room_desc": "Individual Study Piano II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23152",
+        "room_desc": "Individual Study Piano III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23153",
+        "room_desc": "Individual Study Piano IV"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23154",
+        "room_desc": "Individual Study Saxophone I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23155",
+        "room_desc": "Individual Study Saxophone II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23156",
+        "room_desc": "Individual Study Saxophone III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23157",
+        "room_desc": "Individual Study Saxophone IV"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23158",
+        "room_desc": "Individual Study Trombone I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23159",
+        "room_desc": "Individual Study Trombone II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23160",
+        "room_desc": "Individual Study Trombone III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23161",
+        "room_desc": "Individual Study Trombone IV"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23162",
+        "room_desc": "Individual Study Trumpet I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23163",
+        "room_desc": "Individual Study Trumpet II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23164",
+        "room_desc": "Individual Study Trumpet III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23165",
+        "room_desc": "Individual Study Trumpet IV"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23166",
+        "room_desc": "Individual Study Tuba I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23167",
+        "room_desc": "Individual Study Tuba II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23168",
+        "room_desc": "Individual Study Tuba III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23169",
+        "room_desc": "Individual Study Tuba IV"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23170",
+        "room_desc": "Individual Study Voice I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23171",
+        "room_desc": "Individual Study Voice II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23172",
+        "room_desc": "Individual Study Voice III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23173",
+        "room_desc": "Individual Study Voice IV"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23174",
+        "room_desc": "Individual Study in Bassoon I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23175",
+        "room_desc": "Individual Study in Bassoon II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23176",
+        "room_desc": "Individual Study in Bassoon IV"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23177",
+        "room_desc": "Individual Study in Cello I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23178",
+        "room_desc": "Individual Study in Cello II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23179",
+        "room_desc": "Individual Study in Cello III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23180",
+        "room_desc": "Individual Study in Cello IV"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23181",
+        "room_desc": "Individual Study in Clarinet I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23182",
+        "room_desc": "Individual Study in Flute I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23183",
+        "room_desc": "Individual Study in Flute II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23184",
+        "room_desc": "Individual Study in Flute III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23185",
+        "room_desc": "Individual Study in Flute IV"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23186",
+        "room_desc": "Individual Study in Harp I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23187",
+        "room_desc": "Individual Study in Harp II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23188",
+        "room_desc": "Individual Study in Harp III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23189",
+        "room_desc": "Individual Study in Harp IV"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23190",
+        "room_desc": "Individual Study in Oboe I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23191",
+        "room_desc": "Individual Study in Oboe II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23192",
+        "room_desc": "Individual Study in Oboe III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23193",
+        "room_desc": "Individual Study in Oboe IV"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23194",
+        "room_desc": "Individual Study in Viola I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23195",
+        "room_desc": "Individual Study in Viola II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23196",
+        "room_desc": "Individual Study in Viola III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23197",
+        "room_desc": "Individual Study in Viola IV"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23198",
+        "room_desc": "Individual Study in Violin I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23199",
+        "room_desc": "Individual Study in Violin II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23200",
+        "room_desc": "Individual Study in Violin III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23201",
+        "room_desc": "Individual Study in Violin IV"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23202",
+        "room_desc": "Individual StudyDouble Bass IV"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23203",
+        "room_desc": "Individual StudyFrench Horn II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23204",
+        "room_desc": "Individual StudyFrench Horn IV"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23205",
+        "room_desc": "Individual StudyPercussion III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23206",
+        "room_desc": "Instrumental & Vocal Ensemble"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23207",
+        "room_desc": "Intr Rcrd Std Lb1"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23208",
+        "room_desc": "Intro Recording Studio & Midi"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23209",
+        "room_desc": "Intro to Recording Studio 1"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23210",
+        "room_desc": "Introduction to Music"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23211",
+        "room_desc": "Jazz Ensemble"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23212",
+        "room_desc": "Jazz Theory & Improvisation I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23213",
+        "room_desc": "Jazz Theory & Improvisation II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23214",
+        "room_desc": "Jazz: An Introduction"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23215",
+        "room_desc": "Microphones & Amplificatn Syst"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23216",
+        "room_desc": "Mus Ther Child Sp"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23217",
+        "room_desc": "Music Around the World"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23218",
+        "room_desc": "Music In America"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23219",
+        "room_desc": "Music Theory I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23220",
+        "room_desc": "Music Theory II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23221",
+        "room_desc": "Music Theory III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23222",
+        "room_desc": "Music Theory IV"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23223",
+        "room_desc": "Music Therapy for Adults"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23224",
+        "room_desc": "Music for Teachers of Children"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23225",
+        "room_desc": "Musicianship 11 Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23226",
+        "room_desc": "Musicianship I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23227",
+        "room_desc": "Musicianship I Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23228",
+        "room_desc": "Musicianship II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23229",
+        "room_desc": "Percussion Ensemble"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23230",
+        "room_desc": "Performance Forum Songwrtr I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23231",
+        "room_desc": "Performance Forum Songwrtr II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23232",
+        "room_desc": "Performance Forum Songwrtr III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23233",
+        "room_desc": "Performance Forum Songwrtr IV"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23234",
+        "room_desc": "Pop Choir"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23235",
+        "room_desc": "Queens Symphonic Band"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23236",
+        "room_desc": "Queensborough Chorus"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23237",
+        "room_desc": "Queensborough Orchestra"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23238",
+        "room_desc": "Rec Tech II:Studio Operation"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23239",
+        "room_desc": "Record Tech I: Studio Equipmt"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23240",
+        "room_desc": "Record Tech II: Studio Operatn"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23241",
+        "room_desc": "Record Tech:Studio"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23242",
+        "room_desc": "Recording Techniques"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23243",
+        "room_desc": "Recording Techniques I: Studio"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23244",
+        "room_desc": "Recording Techniques III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23245",
+        "room_desc": "Sight Reading & Ear Train II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23246",
+        "room_desc": "Sight Reading & Ear Train III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23247",
+        "room_desc": "Sight Reading & Ear Training I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23248",
+        "room_desc": "Sight Reading/Ear Training IV"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23249",
+        "room_desc": "Songwriters I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23250",
+        "room_desc": "Songwriters II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23251",
+        "room_desc": "Songwriters III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23252",
+        "room_desc": "Songwriters Iv"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23253",
+        "room_desc": "Special Topics in Music"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23254",
+        "room_desc": "Studio Equip Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23255",
+        "room_desc": "Studio Equipment Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23256",
+        "room_desc": "Studio Operation Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23257",
+        "room_desc": "Study in Chamber Music Per III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23258",
+        "room_desc": "Study in Chamber Music Perf II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23259",
+        "room_desc": "Study in Chamber Music Perfm I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23260",
+        "room_desc": "Study in Chamber Music Perm IV"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23261",
+        "room_desc": "Survey of Western Music"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23262",
+        "room_desc": "The Business of Music"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23263",
+        "room_desc": "Twentieth-Century Music"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "23264",
+        "room_desc": "Virtual Instruments"
+    }
+]

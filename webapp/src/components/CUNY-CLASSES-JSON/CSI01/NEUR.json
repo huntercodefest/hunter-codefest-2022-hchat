@@ -1,0 +1,92 @@
+[
+    {
+        "school": "CSI01",
+        "major": "NEUR",
+        "room_num": "85802",
+        "room_desc": "Behavioral Genetics"
+    },
+    {
+        "school": "CSI01",
+        "major": "NEUR",
+        "room_num": "85803",
+        "room_desc": "CELLULAR AND MOLECULAR NEUROSC"
+    },
+    {
+        "school": "CSI01",
+        "major": "NEUR",
+        "room_num": "85804",
+        "room_desc": "Developmental Neuroscience"
+    },
+    {
+        "school": "CSI01",
+        "major": "NEUR",
+        "room_num": "85805",
+        "room_desc": "Fdnts Cognitive Sci"
+    },
+    {
+        "school": "CSI01",
+        "major": "NEUR",
+        "room_num": "85806",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "CSI01",
+        "major": "NEUR",
+        "room_num": "85807",
+        "room_desc": "Journal Seminar I-IV"
+    },
+    {
+        "school": "CSI01",
+        "major": "NEUR",
+        "room_num": "85808",
+        "room_desc": "Learning"
+    },
+    {
+        "school": "CSI01",
+        "major": "NEUR",
+        "room_num": "85809",
+        "room_desc": "Master\u2019s Thesis I"
+    },
+    {
+        "school": "CSI01",
+        "major": "NEUR",
+        "room_num": "85810",
+        "room_desc": "Master\u2019s Thesis II"
+    },
+    {
+        "school": "CSI01",
+        "major": "NEUR",
+        "room_num": "85811",
+        "room_desc": "Nero-Science Independent Study"
+    },
+    {
+        "school": "CSI01",
+        "major": "NEUR",
+        "room_num": "85812",
+        "room_desc": "Neuro and Early Devel Brain"
+    },
+    {
+        "school": "CSI01",
+        "major": "NEUR",
+        "room_num": "85813",
+        "room_desc": "Neuro of Adult Brain Disorders"
+    },
+    {
+        "school": "CSI01",
+        "major": "NEUR",
+        "room_num": "85814",
+        "room_desc": "Neuroscience Credit"
+    },
+    {
+        "school": "CSI01",
+        "major": "NEUR",
+        "room_num": "85815",
+        "room_desc": "Research Methods"
+    },
+    {
+        "school": "CSI01",
+        "major": "NEUR",
+        "room_num": "85816",
+        "room_desc": "SYSTEMS AND NEUROSCIENCE"
+    }
+]

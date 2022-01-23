@@ -1,0 +1,392 @@
+[
+    {
+        "major": "MATH",
+        "room_num": "21068",
+        "desc": "Abstract Algebra"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21069",
+        "desc": "Advanced Calculus 2"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21070",
+        "desc": "Advanced Calculus I"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21071",
+        "desc": "Advanced Data Structures"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21072",
+        "desc": "Applied Differential Equations"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21073",
+        "desc": "Artificial Intelligence"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21074",
+        "desc": "Artificial Intllgnce"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21075",
+        "desc": "Calculus I"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21076",
+        "desc": "Calculus II"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21077",
+        "desc": "Calculus III"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21078",
+        "desc": "Calculus IV"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21079",
+        "desc": "College Algebra"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21080",
+        "desc": "College Math Prep Workshop"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21081",
+        "desc": "Comp Str Dec Mak"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21082",
+        "desc": "Computer Algorithms"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21083",
+        "desc": "Computer Architectre"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21084",
+        "desc": "Computer Architecture"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21085",
+        "desc": "Computer Networking"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21086",
+        "desc": "Computers Admin Dec-Mak"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21087",
+        "desc": "Data Analysis"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21088",
+        "desc": "Data Processing"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21089",
+        "desc": "Database Systems in CRJ"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21090",
+        "desc": "Discrete Structures"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21091",
+        "desc": "Elementary Algebra"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21092",
+        "desc": "Elementary Algebra Immersion"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21093",
+        "desc": "Elements of Mathematical Proof"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21094",
+        "desc": "Exempt Math Gen Ed"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21095",
+        "desc": "Fac Mentored Research Experien"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21096",
+        "desc": "Functions of Complex Variable"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21097",
+        "desc": "Game Theory"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21098",
+        "desc": "Graph Intrface Prog"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21099",
+        "desc": "Graphical Data"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21100",
+        "desc": "Independent Study 200-level"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21101",
+        "desc": "Independent Study 300-level"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21102",
+        "desc": "Independent Study 400-level"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21103",
+        "desc": "Int Basic Math Sk"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21104",
+        "desc": "Int Telecommunic"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21105",
+        "desc": "Intensive Math"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21106",
+        "desc": "Intern MIS"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21107",
+        "desc": "Intro Computer & Programming"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21108",
+        "desc": "Intro Computing"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21109",
+        "desc": "Intro Diff Equations"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21110",
+        "desc": "Intro Forensic Comp"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21111",
+        "desc": "Introduction to Data Analysis"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21112",
+        "desc": "Ja Stats Prep Wksp"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21113",
+        "desc": "Java Programming"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21114",
+        "desc": "Java Programming II"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21115",
+        "desc": "Liberal Arts Mathematics"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21116",
+        "desc": "Linear Algebra"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21117",
+        "desc": "Linear Programming"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21118",
+        "desc": "Mast Data Proc"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21119",
+        "desc": "Mathematical Cryptography"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21120",
+        "desc": "Modern Geometry"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21121",
+        "desc": "Modern Math Intensiv"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21122",
+        "desc": "Multivariate Analysis"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21123",
+        "desc": "Numerical Analysis"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21124",
+        "desc": "Object Oriented Computing"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21125",
+        "desc": "Op Anal Pub Sysms"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21126",
+        "desc": "Operating Systems"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21127",
+        "desc": "Operations Research Models I"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21128",
+        "desc": "Operations Research Models II"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21129",
+        "desc": "Paced Modern Mathematics"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21130",
+        "desc": "Pre-Calculus"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21131",
+        "desc": "Pre-Freshman Math"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21132",
+        "desc": "Probability"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21133",
+        "desc": "Probability & Math Stats 2"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21134",
+        "desc": "Probablty & Sta 1"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21135",
+        "desc": "Programming Languages"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21136",
+        "desc": "Quant Prob Crj"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21137",
+        "desc": "Regression Analysis"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21138",
+        "desc": "Sec Computer Data"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21139",
+        "desc": "Selected Topics"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21140",
+        "desc": "Selected Topics in Mathematics"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21141",
+        "desc": "Signal Processing"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21142",
+        "desc": "Social Science Mathematics"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21143",
+        "desc": "Softwr Off Mgmt"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21144",
+        "desc": "Surv Conc Opr Res"
+    },
+    {
+        "major": "MATH",
+        "room_num": "21145",
+        "desc": "Systems Analysis and Design"
+    }
+]

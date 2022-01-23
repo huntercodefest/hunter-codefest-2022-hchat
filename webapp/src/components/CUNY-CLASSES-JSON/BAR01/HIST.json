@@ -1,0 +1,746 @@
+[
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60511",
+        "room_desc": "A Survey of Asian History"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60512",
+        "room_desc": "African American History"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60513",
+        "room_desc": "Afro-Brazilian History"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60514",
+        "room_desc": "Amer Business Hist"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60515",
+        "room_desc": "Amer Conservatism"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60516",
+        "room_desc": "Amer Foreign Relatns"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60517",
+        "room_desc": "American History1945-Present"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60518",
+        "room_desc": "American Intellectual History"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60519",
+        "room_desc": "American Urban History"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60520",
+        "room_desc": "Ancient Greece"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60521",
+        "room_desc": "Ancient India"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60522",
+        "room_desc": "Asian American History"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60523",
+        "room_desc": "Capstone: Search His"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60524",
+        "room_desc": "Central America"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60525",
+        "room_desc": "China in Revolution"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60526",
+        "room_desc": "City & Subrb-20c Amr"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60527",
+        "room_desc": "Civil Of Caribbean"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60528",
+        "room_desc": "Classical Buddhism"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60529",
+        "room_desc": "Classical Chinese Philosophy"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60530",
+        "room_desc": "Col Amer: Set To Ind"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60531",
+        "room_desc": "Colloquium in History"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60532",
+        "room_desc": "Colonial Period Amer"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60533",
+        "room_desc": "Comparative Revolutions"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60534",
+        "room_desc": "Contemporary Islamic World"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60535",
+        "room_desc": "Cptlsm In The Midest"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60536",
+        "room_desc": "Emerge Mod America"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60537",
+        "room_desc": "Encountrs Global Anct Empires"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60538",
+        "room_desc": "Eur & World Aft 1945"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60539",
+        "room_desc": "Eur In Early 20 Cent"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60540",
+        "room_desc": "Eur Thought 19/20 C."
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60541",
+        "room_desc": "Eur Tht 17 & 18 Cent"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60542",
+        "room_desc": "Europe In 18th Cent"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60543",
+        "room_desc": "Europe in an Era of Revolution"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60544",
+        "room_desc": "Europe-Age Of Ren"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60545",
+        "room_desc": "Food History"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60546",
+        "room_desc": "From Silver to Cocaine: An Eco"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60547",
+        "room_desc": "Global His Since1500"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60548",
+        "room_desc": "Global His To 1500ce"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60549",
+        "room_desc": "HIS 3005 Lecture"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60550",
+        "room_desc": "Hands-On History"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60551",
+        "room_desc": "Heritage Chin Civil"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60552",
+        "room_desc": "His Of Amer Medicine"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60553",
+        "room_desc": "His Of Intl Communim"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60554",
+        "room_desc": "His Of People Of NYC"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60555",
+        "room_desc": "His Srch P-Mohammad"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60556",
+        "room_desc": "Hist Gen Ed Req Met"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60557",
+        "room_desc": "Hist Jewish People in America"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60558",
+        "room_desc": "Hist of Civ in Latin America"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60559",
+        "room_desc": "Hist of US-LA Relations"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60560",
+        "room_desc": "History - Honors I"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60561",
+        "room_desc": "History Internship"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60562",
+        "room_desc": "History of African Religions"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60563",
+        "room_desc": "History of Chinese Religion"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60564",
+        "room_desc": "History of Colonial LA"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60565",
+        "room_desc": "History of Modern Iraq"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60566",
+        "room_desc": "History of Modern LA"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60567",
+        "room_desc": "History of Modern Southeast As"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60568",
+        "room_desc": "History of the Cold War"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60569",
+        "room_desc": "Holocaust Literature"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60570",
+        "room_desc": "Hon Amer Intel His"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60571",
+        "room_desc": "Hon Euro Age Of Ren"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60572",
+        "room_desc": "Hon Modern Amer Hist"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60573",
+        "room_desc": "Hon Spec Topics-Global History"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60574",
+        "room_desc": "Hon The Rise Of Asia"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60575",
+        "room_desc": "Honors - American History"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60576",
+        "room_desc": "Honors - Civil War & Rec"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60577",
+        "room_desc": "Honors - Global History 1500"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60578",
+        "room_desc": "Honors - History Health Care"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60579",
+        "room_desc": "Honors - History II"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60580",
+        "room_desc": "Honors - History III"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60581",
+        "room_desc": "Honors - Russia and the Tsars"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60582",
+        "room_desc": "Honors Program"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60583",
+        "room_desc": "Honors Topics American History"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60584",
+        "room_desc": "Honors in Global History"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60585",
+        "room_desc": "Honors-American Urban History"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60586",
+        "room_desc": "Ind Study History"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60587",
+        "room_desc": "Independent Study History I"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60588",
+        "room_desc": "Independent Study History II"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60589",
+        "room_desc": "Independent Study History III"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60590",
+        "room_desc": "Independent Study History IV"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60591",
+        "room_desc": "Intro Religions Asia"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60592",
+        "room_desc": "Islamic Mideast/N.Af"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60593",
+        "room_desc": "Jesus - Historical & Critical"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60594",
+        "room_desc": "Mdn & Westn In Asia"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60595",
+        "room_desc": "Medieval Civilization"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60596",
+        "room_desc": "Mod Mideast&N.Africa"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60597",
+        "room_desc": "Modern American History"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60598",
+        "room_desc": "Modern Imperialism"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60599",
+        "room_desc": "Naval Battles and Society"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60600",
+        "room_desc": "Nineteenth Century Europe"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60601",
+        "room_desc": "Race60602: HIST,\"Religion & Pol in the U.S."
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60603",
+        "room_desc": "Rus Rev & Sov Regime"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60604",
+        "room_desc": "Russia Under the Tsars"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60605",
+        "room_desc": "Sci&Tech Americ Life"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60606",
+        "room_desc": "Social Welfare Policy"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60607",
+        "room_desc": "Special Topics in Global Histo"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60608",
+        "room_desc": "Survey of African History"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60609",
+        "room_desc": "The African Diaspora"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60610",
+        "room_desc": "The Ancient World: Rome"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60611",
+        "room_desc": "The Civil Rights Movement"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60612",
+        "room_desc": "The Civil War & Reconstruction"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60613",
+        "room_desc": "The Emergence of Modern Japan"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60614",
+        "room_desc": "The Grt Depression"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60615",
+        "room_desc": "The History and Archaeology of"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60616",
+        "room_desc": "The Holocaust and Film"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60617",
+        "room_desc": "The Holocaust in Hist & Mem"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60618",
+        "room_desc": "The Immigrant In Amer Hist"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60619",
+        "room_desc": "The Making of Modern India"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60620",
+        "room_desc": "The Rise of Asia World Affairs"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60621",
+        "room_desc": "The Sixties in America"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60622",
+        "room_desc": "The Third Republic in France"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60623",
+        "room_desc": "Themes in American History"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60624",
+        "room_desc": "Thrd Wrld In Mod Era"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60625",
+        "room_desc": "Top In Hist Of Glob"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60626",
+        "room_desc": "Top:Afr60627: HIST,\"Topics in American History"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60628",
+        "room_desc": "Topics in European History"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60629",
+        "room_desc": "Topics-American Stud"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60630",
+        "room_desc": "U.S. Economic History"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60631",
+        "room_desc": "U.S. Since WW I 1920-45"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60632",
+        "room_desc": "Vietnam at War"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60633",
+        "room_desc": "Wmn in Europe: Ancient-Mdrn"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60634",
+        "room_desc": "Women in African History"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60635",
+        "room_desc": "Women in America"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "60636",
+        "room_desc": "World War II: A Global History"
+    }
+]

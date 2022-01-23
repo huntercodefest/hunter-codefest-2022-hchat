@@ -1,0 +1,727 @@
+[
+    {
+        "major": "SOCI",
+        "room_num": "30470",
+        "desc": "App Soc Res Markt"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30471",
+        "desc": "Applied Sociology"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30472",
+        "desc": "Applied Statistical Analysis"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30473",
+        "desc": "Blacks in American Society"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30474",
+        "desc": "Blk Amer Society"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30475",
+        "desc": "Co-Op Ed Fld Plac"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30476",
+        "desc": "Collective Behavior"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30477",
+        "desc": "Comm & Culture"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30478",
+        "desc": "Comp Meth In Soc Sci"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30479",
+        "desc": "Complex Organizations"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30480",
+        "desc": "Crime & Delinquency"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30481",
+        "desc": "Crime and Juvenile Delinquency"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30482",
+        "desc": "Criminal Justice"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30483",
+        "desc": "Criminology"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30484",
+        "desc": "Criminology/Crm Just"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30485",
+        "desc": "Dev Countries/La Amr"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30486",
+        "desc": "Deviance"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30487",
+        "desc": "Deviance and Social Pathology"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30488",
+        "desc": "Drugs And Alcoh"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30489",
+        "desc": "Ethnic and Racial Relations"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30490",
+        "desc": "Ethnography"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30491",
+        "desc": "Family As Soc Inst"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30492",
+        "desc": "Field Work"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30493",
+        "desc": "Found Soc Theory"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30494",
+        "desc": "Friendship"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30495",
+        "desc": "Gen Intro To Soc"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30496",
+        "desc": "Globalization: Soc & Geo Pers"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30497",
+        "desc": "Group Beh"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30498",
+        "desc": "Honors-Indep Study"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30499",
+        "desc": "Human Sexuality"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30500",
+        "desc": "Industrial Sociology"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30501",
+        "desc": "Inter Behavior/Group Process"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30502",
+        "desc": "Intergroup Rel"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30503",
+        "desc": "Intergroup Relations"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30504",
+        "desc": "Intr To Soc Psych"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30505",
+        "desc": "Intro Delinq Crim"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30506",
+        "desc": "Intro Social Statistics"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30507",
+        "desc": "Intro Sociology"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30508",
+        "desc": "Intro Statistics"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30509",
+        "desc": "Intro To Soc"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30510",
+        "desc": "Intro To Soc Psy"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30511",
+        "desc": "Intro To Social Work Methods"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30512",
+        "desc": "Mass Comm & Pop Cul"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30513",
+        "desc": "Medical Sociology."
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30514",
+        "desc": "Modern Israel"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30515",
+        "desc": "Modern Israel: Soc Aspects"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30516",
+        "desc": "Organizatinl Soc"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30517",
+        "desc": "Organizations"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30518",
+        "desc": "Orthodox Jews in America"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30519",
+        "desc": "Plstn-Isrli Confl"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30520",
+        "desc": "Political Sociology"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30521",
+        "desc": "Population Problems"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30522",
+        "desc": "Post Human Society"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30523",
+        "desc": "Pract Acad Advise Soc Major"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30524",
+        "desc": "Prob In Mass Comm"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30525",
+        "desc": "Profess Writ & Com"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30526",
+        "desc": "Racial Cult Rel"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30527",
+        "desc": "Research Methods"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30528",
+        "desc": "S S Res Usng Comp"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30529",
+        "desc": "Sel Top: Demography"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30530",
+        "desc": "Selected Topics in Sociology"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30531",
+        "desc": "Senior Seminars"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30532",
+        "desc": "Sex & Gender in Comp Pers"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30533",
+        "desc": "Soc Asp Of Relign"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30534",
+        "desc": "Soc Aspects Religion"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30535",
+        "desc": "Soc Chge Latam/Carib"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30536",
+        "desc": "Soc Class Am Society"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30537",
+        "desc": "Soc Devel Countries"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30538",
+        "desc": "Soc Geography Contemp Cultures"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30539",
+        "desc": "Soc Human Sexulty"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30540",
+        "desc": "Soc Of Alc & Drugs"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30541",
+        "desc": "Soc Of Children"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30542",
+        "desc": "Soc Of Death & Dying"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30543",
+        "desc": "Soc Of Drugs"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30544",
+        "desc": "Soc Of Human Sexuality"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30545",
+        "desc": "Soc Of Law"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30546",
+        "desc": "Soc Of Sixties"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30547",
+        "desc": "Soc Research Meth"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30548",
+        "desc": "Soc Statistics 1"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30549",
+        "desc": "Soc Struct In Us"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30550",
+        "desc": "Soc Theory"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30551",
+        "desc": "Soc War & Peace"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30552",
+        "desc": "Soc Welf As Inst"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30553",
+        "desc": "Soc Women Africa"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30554",
+        "desc": "Soc Work Practicm"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30555",
+        "desc": "Soc of Amer Sport"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30556",
+        "desc": "Soc of Friendship"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30557",
+        "desc": "Soc of Org: Gov\u2019t &Non-Profits"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30558",
+        "desc": "Soc of Ply & Leis"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30559",
+        "desc": "Soc of Sex Roles"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30560",
+        "desc": "Social Change"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30561",
+        "desc": "Social Change in Africa"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30562",
+        "desc": "Social Chnge/Movemnt"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30563",
+        "desc": "Social Ecology"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30564",
+        "desc": "Social Pathology."
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30565",
+        "desc": "Social Problems"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30566",
+        "desc": "Social Psychology"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30567",
+        "desc": "Social Statistics"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30568",
+        "desc": "Social Stratification"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30569",
+        "desc": "Social Welfare"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30570",
+        "desc": "Sociological Analysis"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30571",
+        "desc": "Sociology"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30572",
+        "desc": "Sociology of American Life"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30573",
+        "desc": "Sociology of Asian Americans"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30574",
+        "desc": "Sociology of Cinema"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30575",
+        "desc": "Sociology of Death and Dying"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30576",
+        "desc": "Sociology of Drugs"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30577",
+        "desc": "Sociology of Education"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30578",
+        "desc": "Sociology of Friendship"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30579",
+        "desc": "Sociology of Gambling"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30580",
+        "desc": "Sociology of Health & Illness"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30581",
+        "desc": "Sociology of Human Sexuality"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30582",
+        "desc": "Sociology of Knowledge"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30583",
+        "desc": "Sociology of Law"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30584",
+        "desc": "Sociology of Medicine"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30585",
+        "desc": "Sociology of Politics"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30586",
+        "desc": "Sociology of Religion"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30587",
+        "desc": "Sociology of Women"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30588",
+        "desc": "Special Problems"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30589",
+        "desc": "Statistics"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30590",
+        "desc": "Studies In Pop Culture"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30591",
+        "desc": "Studies in Social Psychology."
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30592",
+        "desc": "Studies in Urban Sociology."
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30593",
+        "desc": "Survey Rsch Mthd"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30594",
+        "desc": "Survy Rsch Method"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30595",
+        "desc": "The American Jewish Community"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30596",
+        "desc": "The Black Family"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30597",
+        "desc": "The Family"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30598",
+        "desc": "The Modern Urban Community"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30599",
+        "desc": "The Research Process."
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30600",
+        "desc": "Ub16.9 Soc Welfin"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30601",
+        "desc": "Ub208 Soc Statis"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30602",
+        "desc": "Ub30.8 Soc Statis"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30603",
+        "desc": "Ub308 Intro Stat"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30604",
+        "desc": "Ub31.4 Soc Stat 1"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30605",
+        "desc": "Ub7.9 Immigration"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30606",
+        "desc": "VT: Soc Of Film"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30607",
+        "desc": "VT: Special Problems"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30608",
+        "desc": "Var Meth In Soc Sci"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30609",
+        "desc": "Vt:  Senior Seminar"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30610",
+        "desc": "Vt:Sociology Select Countries"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30611",
+        "desc": "Vt:Sp Topics Soc"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30612",
+        "desc": "Women and Work"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30613",
+        "desc": "Work30614: SOCI,\"Writing Workshop"
+    },
+    {
+        "major": "SOCI",
+        "room_num": "30615",
+        "desc": "Writing for Sociology"
+    }
+]

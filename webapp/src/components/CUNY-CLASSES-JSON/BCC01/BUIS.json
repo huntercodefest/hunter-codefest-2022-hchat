@@ -1,0 +1,26 @@
+[
+    {
+        "school": "BCC01",
+        "major": "BUIS",
+        "room_num": "68830",
+        "room_desc": "Client-Side Programming"
+    },
+    {
+        "school": "BCC01",
+        "major": "BUIS",
+        "room_num": "68831",
+        "room_desc": "Multimedia Theory"
+    },
+    {
+        "school": "BCC01",
+        "major": "BUIS",
+        "room_num": "68832",
+        "room_desc": "Server-Side Programming"
+    },
+    {
+        "school": "BCC01",
+        "major": "BUIS",
+        "room_num": "68833",
+        "room_desc": "Website Development"
+    }
+]
