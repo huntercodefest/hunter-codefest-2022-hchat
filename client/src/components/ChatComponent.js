@@ -100,7 +100,7 @@ class ChatComponent extends React.Component {
 	}
 	render() {
 		return (
-			<div>
+			<div className={classes.chatComponent}>
 				<ChatRoom
 					room_desc={this.props.room.room_desc}
 					messages={this.state.messages}

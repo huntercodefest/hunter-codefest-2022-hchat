@@ -1,26 +1,40 @@
 .RoomsComponent {
+	border-right: 1px solid black;
+	height: 100vh;
+	margin-top: 0;
+    margin-left: 0;
+	min-width: 300px;
+	max-width: 300px;
+    overflow: auto;
 }
 
 .SearchBar {
+    width: 100%;
 }
 
 .RoomsContainer {
-    display: flex;
-    flex: 1;
-    justify-content: flex-start;
-    flex-direction: column;
+	display: flex;
+	flex: 1;
+	justify-content: flex-start;
+	flex-direction: column;
 }
 
 .RoomButton {
 	margin: 5px;
-    background-color: #ac1db8;
-    color: white;
-    border: none;
-    cursor: pointer;
-    font-size: 14px;
+	margin-left: 0;
+	background-color: #ac1db8;
+	color: white;
+	border: none;
+	cursor: pointer;
+	font-size: 14px;
+}
+
+.RoomButton:hover,
+.RoomButton:focus {
+    background-color: rgb(121, 27, 145);
 }
 
 .BackButton {
-    display: inline;
+	display: inline-block;
 	flex-basis: 1rem;
 }

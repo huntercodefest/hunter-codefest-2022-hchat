@@ -1,14 +1,10 @@
-.msgInput {
-    width: 60%;
-    height: 20%;
-    border: 1px solid black;
-    color: black;
-    text-align: center;
-    margin: auto;
+* {
+    margin: 0;
+    /* font goes here */
 }
-
-.displaynone{
-    display: none;
+.app{
+    display: flex;
+    flex-direction: row;
 }
 
 .message{

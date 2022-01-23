@@ -28,9 +28,10 @@ class App extends React.Component {
 				askForNewUsername: false,
 				room: this.state.room,
 			});
-		}
-		else{
-			alert("Username must be between 3 and 20 characters long\nUsername can only contain letters, numbers, or underscores")
+		} else {
+			alert(
+				"Username must be between 3 and 20 characters long\nUsername can only contain letters, numbers, or underscores"
+			);
 		}
 	};
 	handleRoomChange = (room) => {
@@ -58,13 +59,13 @@ class App extends React.Component {
 	};
 	render() {
 		return (
-			<div className={classes.location}>
-				{this.state.askForNewUsername ? (
+			<div className={classes.app}>
+				{/* {this.state.askForNewUsername ? (
 					<UsernameComponent
 						handleUsernameChange={this.handleUsernameChange}
 						room={this.state.room}
 					/>
-				) : null}
+				) : null} */}
 				<RoomsComponent handleRoomChange={this.handleRoomChange} />
 				<ChatComponent
 					username={this.state.username}
