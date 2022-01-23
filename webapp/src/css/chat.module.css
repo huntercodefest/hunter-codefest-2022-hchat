@@ -59,7 +59,7 @@ div, span, p, h1, h2 {
 	display: flex;
 	width: 100%;
 	position: fixed;
-	weight: 700;
+	font-weight: 700;
 }
 
 .chatMessages {
@@ -115,6 +115,7 @@ div, span, p, h1, h2 {
 }
 
 .groupOfMessages{
+	padding: 20px 0 0 0;
 	height: 100%;
 	width: 100%;
 	flex-shrink: 1;
