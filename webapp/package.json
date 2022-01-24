@@ -7,6 +7,9 @@
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
     "cross-env": "^7.0.3",
+    "express": "^4.17.2",
+    "express-static": "^1.2.6",
+    "express-subdomain": "^1.0.5",
     "list-files": "^1.1.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -15,8 +18,9 @@
   },
   "main": "public/electron.js",
   "scripts": {
-    "start": "react-scripts start",
+    "start-client": "react-scripts start",
     "build": "react-scripts build",
+    "build_run": "npm run build && (cd appserver && node appserver.js)",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "dev": "concurrently -k \"cross-env BROWSER=none npm start\" \"npm:electron\"",
@@ -28,6 +32,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "/",
   "browserslist": {
     "production": [
       ">0.2%",
