@@ -2,7 +2,7 @@ import React from "react";
 import Message from "./Message";
 import ChatRoom from "./ChatRoom";
 import MessageInput from "./MessageInput";
-import classes from '../css/chat.module.css'
+import classes from "../css/chat.module.css";
 
 class ChatComponent extends React.Component {
 	constructor(props) {
@@ -87,15 +87,16 @@ class ChatComponent extends React.Component {
 		this.ws = new WebSocket("ws://hchat.org:8080/ws");
 		this.connectToServer();
 	}
-	componentDidUpdate(prevProps){
-		if (this.props.username !== prevProps.username){
-			this.attemptConnection()
+	componentDidUpdate(prevProps) {
+		if (this.props.username !== prevProps.username) {
+			this.attemptConnection();
 		}
 		if (this.props.room !== prevProps.room) {
 			this.setState({
 				...this.state,
 				messages: [],
-			});	
+			});
+			this.ws.send(this.processMessage(`${this.props.username} joined the room`));
 		}
 	}
 	render() {
