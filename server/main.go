@@ -6,7 +6,7 @@ import (
 )
 
 const (
-	HTTP_PORT = "8080"
+	HTTP_PORT = "5000"
 	TCP_PORT  = "5555"
 	MSG_LEN   = 1024
 )

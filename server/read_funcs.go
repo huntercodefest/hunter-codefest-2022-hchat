@@ -55,12 +55,11 @@ func ReadConnOnLoop(p_user *User) (err error) {
 		}
 		if room_num != (*p_user).room_num{
 			RemoveUserFromRoom(p_user, (*p_user).room_num)
-			fmt.Println("passed here")
 			(*p_user).room_num = room_num
 			AddUserToRoom(p_user, room_num)
-			fmt.Println("passed here")
 			log.Println("Moved user to room: " + fmt.Sprint(room_num))
 		}
+		log.Println("Received msg: " + string(msgbuf) + " from user: " + username)
 		log.Println("Received msg: " + message + " from user: " + username)
 		DistributeMessageToRoom(ROOM_MAP[room_num], username+":"+message)
 	}
