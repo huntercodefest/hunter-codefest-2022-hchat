@@ -16,16 +16,14 @@ class Message extends React.Component {
 	}
 	render() {
 		return (
-			<span classesName={classes.message}>
+			<span className={classes.message}>
 				<span className={classes.username}>
 					{this.props.username}
 				</span>
 				<span className={classes.time}>
 					{this.time.hours}:{this.time.minutes}:{this.time.seconds}
 				</span>
-				<br/>
 				<span className={classes.userMessage}>{this.props.message}</span>
-				<br/>
 			</span>
 		);
 	}
