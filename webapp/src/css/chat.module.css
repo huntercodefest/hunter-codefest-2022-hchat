@@ -2,10 +2,6 @@
 	box-sizing: border-box;
 }
 
-div, span, p, h1, h2 {
-	font-family: Roboto, Arial, Helvetica, sans-serif;
-}
-
 .chatComponent{
 	display: flex;
 	flex: 2;
@@ -74,7 +70,9 @@ div, span, p, h1, h2 {
 .username {
 	font-weight: 500;
 	font-size: 14px;
+	margin-top: 15px;
 	margin-right: 5px;
+	color: red;
 }
 
 .time {
@@ -83,10 +81,11 @@ div, span, p, h1, h2 {
 	font-style: italic;
 	color: #666;
 }
-
+.userMessage{
+	display: block;
+}
 .message {
 	margin: 15px auto 15px;
-	padding: 3px;
 }
 
 /* .stack7 {
