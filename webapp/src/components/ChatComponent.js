@@ -84,7 +84,7 @@ class ChatComponent extends React.Component {
 		if (this.ws !== null || this.props.username === "") {
 			return;
 		}
-		this.ws = new WebSocket("ws://chat.hchat.org:5000/ws");
+		this.ws = new WebSocket("ws://hchat.org:5000/ws");
 		this.connectToServer();
 	}
 	componentDidUpdate(prevProps) {
