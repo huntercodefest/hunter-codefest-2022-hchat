@@ -7,9 +7,10 @@ class RoomsContainer extends React.Component {
 	}
 	jsx = [];
 	process() {
-		this.jsx = this.props.displayList.map((room) => (
-			<button
-				className={classes.roomButton}
+		this.jsx = this.props.displayList.map((room) => {
+			const bold = room.room_num ? classes.bold : null;
+			return <button
+				className={`${classes.roomButton} ${bold}`}
 				key={room.room_desc}
 				onClick={() => {
 					this.props.handleRoomChange(room);
@@ -17,7 +18,7 @@ class RoomsContainer extends React.Component {
 				}}>
 				{room.room_desc}
 			</button>
-		));
+			});
 	}
 	render() {
 		this.process();

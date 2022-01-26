@@ -89,7 +89,7 @@ class RoomsComponent extends React.Component {
 			return;
 		}
 		this.setState({
-			...this.state,
+			searchValue: "",
 			searchList: roomList,
 			displayList: roomList.CurrList,
 		});
@@ -111,6 +111,7 @@ class RoomsComponent extends React.Component {
 						<img
 							src={logo}
 							className={classes.logo}
+							onClick={() => window.location.href = "http://hchat.org"}
 							alt="hchatlogo"></img>
 						<p>Found {this.state.displayList.length} rooms</p>
 					</div>
