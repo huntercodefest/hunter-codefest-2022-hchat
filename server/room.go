@@ -29,6 +29,7 @@ func AddUserToRoom(p_user *User, room_num int) (err error) {
 		log.Println("created a new room#" + fmt.Sprint(room_num))
 	}
 	ROOM_MAP[room_num].conn_users = append(ROOM_MAP[room_num].conn_users, p_user)
+	log.println(*(ROOM_MAP[room_num]).length)
 	log.Println("Added new user to room #" + fmt.Sprint(room_num))
 	go ReadConnOnLoop(p_user)
 	return
