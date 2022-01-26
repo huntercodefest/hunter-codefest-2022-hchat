@@ -48,6 +48,7 @@ class RoomsComponent extends React.Component {
 	handleListChange(room) {
 		// load in paths from school folder
 		const rel_path = `./CUNY-CLASSES-JSON/${room.school}`;
+		console.log(rel_path)
 		const paths = require(`${rel_path}/_PATHS.json`);
 		let roomList = null;
 		// if clicked on a school
