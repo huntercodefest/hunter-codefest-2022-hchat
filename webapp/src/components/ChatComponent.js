@@ -31,6 +31,7 @@ class ChatComponent extends React.Component {
 		};
 	}
 	sendToServer(msg) {
+		console.log(`Sending ${msg} to server`)
 		if (this.validateMessage(msg)) {
 			this.ws.send(this.processMessage(msg));
 		}

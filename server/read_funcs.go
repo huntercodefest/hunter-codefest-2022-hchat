@@ -32,7 +32,7 @@ func ReadConnOnLoop(p_user *User) (err error) {
 	(*p_user).readingOnLoop = true
 	log.Println("starting read conn on loop")
 	// Send connection message
-	RespondWithString(p_user, "Succesfully connected to room\n")
+	RespondWithString(p_user, "Connection to server successful\n")
 	// infinite read loop
 	tcp_check := ((*p_user).tcp_conn != nil)
 	for {
