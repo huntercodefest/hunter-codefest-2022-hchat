@@ -1,0 +1,44 @@
+[
+    {
+        "school": "HOS01",
+        "major": "SOCI",
+        "room_num": "65019",
+        "room_desc": "Criminology"
+    },
+    {
+        "school": "HOS01",
+        "major": "SOCI",
+        "room_num": "65020",
+        "room_desc": "Intro to Soc (HONORS)"
+    },
+    {
+        "school": "HOS01",
+        "major": "SOCI",
+        "room_num": "65021",
+        "room_desc": "Introduction to Sociology"
+    },
+    {
+        "school": "HOS01",
+        "major": "SOCI",
+        "room_num": "65022",
+        "room_desc": "Race And Ethnicity"
+    },
+    {
+        "school": "HOS01",
+        "major": "SOCI",
+        "room_num": "65023",
+        "room_desc": "Sociology"
+    },
+    {
+        "school": "HOS01",
+        "major": "SOCI",
+        "room_num": "65024",
+        "room_desc": "Sociology of Social Problems"
+    },
+    {
+        "school": "HOS01",
+        "major": "SOCI",
+        "room_num": "87774",
+        "room_desc": "SOCI"
+    }
+]

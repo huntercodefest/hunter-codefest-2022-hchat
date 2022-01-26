@@ -9,14 +9,21 @@ REL_PATH = 'src/components/CUNY-CLASSES-JSON/'
 dir = os.listdir(REL_PATH)
 
 def createJson(school, key, major, desc):
+<<<<<<< HEAD
     return {"school": school, "major": major, "room_num": key, "room_desc": desc}
 def createsmalljson(key, major, desc):
     return {"major": major, "room_num": str(key), "room_desc": desc}
+=======
+    return {"school": school, "major": major, "room_num": str(key), "room_desc": desc}
+>>>>>>> temp
 
     
 # then append to every directory
 for s in dir:
+<<<<<<< HEAD
     print(s)
+=======
+>>>>>>> temp
     school = s
     file = open(REL_PATH+s+"/"+school+".json", "w")
     # add new object to each one
@@ -25,14 +32,22 @@ for s in dir:
     room_num: count+1
     room_desc: school
     """
+<<<<<<< HEAD
     schoolJsonObj = createsmalljson(classNum+1, school, school)
+=======
+    schoolJsonObj = createJson(school, classNum+1, school, school)
+>>>>>>> temp
     classNum+=1
     json.dump(schoolJsonObj, file, indent=4)
     file.close()
     _PATHS = open(REL_PATH+school+"/"+"_PATHS.json", "r")
     data = json.load(_PATHS)
     _PATHS.close()
+<<<<<<< HEAD
     data.append({"name": school, "path": (school + ".json")})
+=======
+    data.append({"major": school, "path": (school + ".json")})
+>>>>>>> temp
     _PATHS.close()
     _PATHS_write = open(REL_PATH+school+"/"+"_PATHS.json", "w")
     json.dump(data, _PATHS_write, indent=4)
@@ -46,13 +61,20 @@ for s in dir:
     """
     list = os.listdir(REL_PATH+school)
     for f in list:
+<<<<<<< HEAD
         print("file is " + (REL_PATH+school+"/"+f))
+=======
+>>>>>>> temp
         major_file_read = open(REL_PATH+school+"/"+f, "r")
         major = f.strip(".json")
         if (major == "_PATHS" or major == school):
             major_file_read.close()
             continue
+<<<<<<< HEAD
         majorJsonObj = createsmalljson(classNum+1, major, major)
+=======
+        majorJsonObj = createJson(school, classNum+1, major, major)
+>>>>>>> temp
         classNum += 1
         majorJson = json.load(major_file_read)
         majorJson.append(majorJsonObj)

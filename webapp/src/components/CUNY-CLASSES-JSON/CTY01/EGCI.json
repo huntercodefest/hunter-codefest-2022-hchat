@@ -1,0 +1,1622 @@
+[
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37224",
+        "room_desc": "Adv Finite Elements"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37225",
+        "room_desc": "Adv Indetrm Struc 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37226",
+        "room_desc": "Adv Mcro-Scale Hydro"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37227",
+        "room_desc": "Adv Soil Mech 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37228",
+        "room_desc": "Adv Soil Mech 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37229",
+        "room_desc": "Adv Steel Design"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37230",
+        "room_desc": "Adv Struct Design"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37231",
+        "room_desc": "Adv Transprt Plning"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37232",
+        "room_desc": "Adv Trnsprtatn Plng"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37233",
+        "room_desc": "Advance Structural Design"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37234",
+        "room_desc": "Advanced Data Analysis"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37235",
+        "room_desc": "Advanced Finite Elements"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37236",
+        "room_desc": "Advanced Geomechanics"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37237",
+        "room_desc": "Advanced Hydraulics"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37238",
+        "room_desc": "Advanced Reinforced Concrete"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37239",
+        "room_desc": "Advanced Soil Mechanics"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37240",
+        "room_desc": "Advanced Strength of Materials"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37241",
+        "room_desc": "Advanced Structural Design"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37242",
+        "room_desc": "Advanced Traffic Engineering"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37243",
+        "room_desc": "Air Poll & Atmos Chm"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37244",
+        "room_desc": "Air Pollut Measuremt"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37245",
+        "room_desc": "Air Pollutant Measurement"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37246",
+        "room_desc": "Air Pollution"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37247",
+        "room_desc": "Air Pollution Management"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37248",
+        "room_desc": "Air Pollution and Control"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37249",
+        "room_desc": "Airport Design and Planning"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37250",
+        "room_desc": "Ambient Air Quality Modeling"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37251",
+        "room_desc": "Analysis-Design"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37252",
+        "room_desc": "Analytical Meth Ce"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37253",
+        "room_desc": "Analytical Techniques Transpor"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37254",
+        "room_desc": "Appld Hydrlcs Engr"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37255",
+        "room_desc": "Aquatic Systms Anal"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37256",
+        "room_desc": "Arches-Shells-Pltes"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37257",
+        "room_desc": "Asses-Rehab Struc"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37258",
+        "room_desc": "Bilogcl Trtmnt Proc"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37259",
+        "room_desc": "Bio Sys Envir Engr"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37260",
+        "room_desc": "Bio Sys Envrn Engring"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37261",
+        "room_desc": "Bridge Engineering"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37262",
+        "room_desc": "C E Data Analysis"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37263",
+        "room_desc": "C E Materials"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37264",
+        "room_desc": "C E Systems Anal"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37265",
+        "room_desc": "CE Decisn & Sys Analysis"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37266",
+        "room_desc": "Civil Engineering Management"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37267",
+        "room_desc": "Cmptr Aided Dsgn"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37268",
+        "room_desc": "Cnstrctn Failures"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37269",
+        "room_desc": "Cnstrctn Proj Mgmnt"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37270",
+        "room_desc": "Comp Methods Civil Engineer"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37271",
+        "room_desc": "Composites Mod Struc"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37272",
+        "room_desc": "Composites-Mod Stru"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37273",
+        "room_desc": "Computer Methods in Design"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37274",
+        "room_desc": "Con Asses-Rehab Strc"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37275",
+        "room_desc": "Concrete Sustainability"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37276",
+        "room_desc": "Const Plan Job Mgmt"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37277",
+        "room_desc": "Construction Engineering"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37278",
+        "room_desc": "Construction Project Mngment"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37279",
+        "room_desc": "Contracts & Specs"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37280",
+        "room_desc": "Contracts and Specifications"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37281",
+        "room_desc": "Curnt Prbl Env Engr"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37282",
+        "room_desc": "Curr Prblms Env Eng"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37283",
+        "room_desc": "Data Anal/Stat Inf"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37284",
+        "room_desc": "Design of Wood Structures"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37285",
+        "room_desc": "Dissertation Research"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37286",
+        "room_desc": "Dissertation Superv"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37287",
+        "room_desc": "Doctoral Dissertation Research"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37288",
+        "room_desc": "Dynam Of C E Syst"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37289",
+        "room_desc": "Earthquake Engineering"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37290",
+        "room_desc": "Earthquake Engrng"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37291",
+        "room_desc": "Econ Plan & Mgnt"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37292",
+        "room_desc": "Elasticy-Plasticity"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37293",
+        "room_desc": "Engineering Hydrology"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37294",
+        "room_desc": "Engineering Policy and Design"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37295",
+        "room_desc": "Engr Plan & Mgmt"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37296",
+        "room_desc": "Environ Engr Anal"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37297",
+        "room_desc": "Environment Engr"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37298",
+        "room_desc": "Environmental Engineering"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37299",
+        "room_desc": "Environmental Engineering I"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37300",
+        "room_desc": "Environmental Law"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37301",
+        "room_desc": "Environmental Water Resources"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37302",
+        "room_desc": "Environmentl Engr 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37303",
+        "room_desc": "Envrnmntl Engr Anal"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37304",
+        "room_desc": "Envrnmntl Engrng 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37305",
+        "room_desc": "Envrnmntl Impact Assessment"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37306",
+        "room_desc": "Exper Fluid Mech"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37307",
+        "room_desc": "Ferro Cement"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37308",
+        "room_desc": "Finit El Anal Struc"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37309",
+        "room_desc": "Finit El Meths Engr"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37310",
+        "room_desc": "Finite & Bndry Elem"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37311",
+        "room_desc": "Flex & Rigid Pavmnt"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37312",
+        "room_desc": "Flex and Rigid Pavements"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37313",
+        "room_desc": "Flexbl/Rigid Pvmnt"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37314",
+        "room_desc": "Flow Thru Porus Med"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37315",
+        "room_desc": "Fluid Mech 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37316",
+        "room_desc": "Fluid Mech Lab"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37317",
+        "room_desc": "Fluid Mechanics"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37318",
+        "room_desc": "Fluids Systems Dsgn"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37319",
+        "room_desc": "For-Hire Transportation"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37320",
+        "room_desc": "Foundation Engineering"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37321",
+        "room_desc": "Foundation Engr"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37322",
+        "room_desc": "Fracture Mechanics"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37323",
+        "room_desc": "Frp Comp In Str Engr"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37324",
+        "room_desc": "Geogrph Info Sys Ce"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37325",
+        "room_desc": "Geom Dsgn Of Facil"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37326",
+        "room_desc": "Geometric Design"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37327",
+        "room_desc": "Geometric Design of Facilities"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37328",
+        "room_desc": "Gis Trnspt Modeling"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37329",
+        "room_desc": "Gis Water Resources"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37330",
+        "room_desc": "Grndwtr Hydrol-Res"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37331",
+        "room_desc": "Grndwtr Poll & Hyd"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37332",
+        "room_desc": "Groundwater Hydrology&Contam"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37333",
+        "room_desc": "Hgh-Rse Bld Dsgn/Anl"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37334",
+        "room_desc": "Highway & Traf Engr"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37335",
+        "room_desc": "Highway & Trfc Engr"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37336",
+        "room_desc": "Highway Engineering"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37337",
+        "room_desc": "Highway-Airport Construction"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37338",
+        "room_desc": "Hwy & Airport Const"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37339",
+        "room_desc": "Hwy & Airport Constr"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37340",
+        "room_desc": "Hydraulic Engineering"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37341",
+        "room_desc": "Hydraulics"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37342",
+        "room_desc": "Hydraulics & Hydrology"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37343",
+        "room_desc": "Impcts Trnsport Sys"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37344",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37345",
+        "room_desc": "Indstl Wstwr Trmnt"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37346",
+        "room_desc": "Inlstc Bdys Strctrs"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37347",
+        "room_desc": "Interregional Trnsp"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37348",
+        "room_desc": "Intro Struc Mech"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37349",
+        "room_desc": "Introduction to CE"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37350",
+        "room_desc": "Introduction to Transportation"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37351",
+        "room_desc": "Its:Fundmntls-Applc"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37352",
+        "room_desc": "Its:Fundmntls/Appl"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37353",
+        "room_desc": "Lin-Non-Lin Analysis Str"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37354",
+        "room_desc": "Linear Analysis of Structures"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37355",
+        "room_desc": "Macro-Scale Hydrology"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37356",
+        "room_desc": "Master Thesis"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37357",
+        "room_desc": "Masters Research"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37358",
+        "room_desc": "Materials of Engineering Lab"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37359",
+        "room_desc": "Math Methods C E"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37360",
+        "room_desc": "Matrls Of Engr Lab"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37361",
+        "room_desc": "Mech Of Materials 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37362",
+        "room_desc": "Mech Of Matrls 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37363",
+        "room_desc": "Mechanics of Deformable Bodies"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37364",
+        "room_desc": "Mechanisms of Matrls II"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37365",
+        "room_desc": "Mth Wtr Res-Env Eng"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37366",
+        "room_desc": "Mth:Wtr Res-Env Eng"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37367",
+        "room_desc": "Multi-Modal Transport Technol"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37368",
+        "room_desc": "Nat Res Mon & Env As"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37369",
+        "room_desc": "Num Mth/Sim Fld Flow"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37370",
+        "room_desc": "Passenger Terminals"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37371",
+        "room_desc": "Pavement Management Systems"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37372",
+        "room_desc": "Physcl Distrib Syst"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37373",
+        "room_desc": "Physcl Dstrbtn Sys"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37374",
+        "room_desc": "Plant Design"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37375",
+        "room_desc": "Plas Anal Dsgn Stru"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37376",
+        "room_desc": "Plates and Shells"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37377",
+        "room_desc": "Port Dsgn & Plnng"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37378",
+        "room_desc": "Prestressed Concrete"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37379",
+        "room_desc": "Prestrssed Concrete"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37380",
+        "room_desc": "Principles of Biological Waste"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37381",
+        "room_desc": "Principles of Drinking Water T"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37382",
+        "room_desc": "Project"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37383",
+        "room_desc": "Rail Design System"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37384",
+        "room_desc": "Rail System Design"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37385",
+        "room_desc": "Rating Rehab Bridges"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37386",
+        "room_desc": "Regltry Issues Tran"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37387",
+        "room_desc": "Reinforc Concrete"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37388",
+        "room_desc": "Reinforced Concrete"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37389",
+        "room_desc": "Reinfrcd Concrete 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37390",
+        "room_desc": "Remote Sens Of Env"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37391",
+        "room_desc": "Report"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37392",
+        "room_desc": "Resea Doctoral Disse"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37393",
+        "room_desc": "Research Methods C E"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37394",
+        "room_desc": "Reserch Doctoral Dissertation"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37395",
+        "room_desc": "Review Civil Engineering Fund"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37396",
+        "room_desc": "Rmdatn Tec Haz Wastes & Sites"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37397",
+        "room_desc": "Rmt Sns Wtr-Env Eng"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37398",
+        "room_desc": "Rsrch Doctoral Disstn"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37399",
+        "room_desc": "Sanitary Engineering I"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37400",
+        "room_desc": "Sanitary Engr 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37401",
+        "room_desc": "Sel Topics Civ Engr"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37402",
+        "room_desc": "Seminars"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37403",
+        "room_desc": "Senior Design Project"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37404",
+        "room_desc": "Senior Dsgn Proj 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37405",
+        "room_desc": "Soil Dynamics"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37406",
+        "room_desc": "Soil Mech & Fdns II"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37407",
+        "room_desc": "Soil Mechanics"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37408",
+        "room_desc": "Soil Mechanics 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37409",
+        "room_desc": "Solid Waste Management"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37410",
+        "room_desc": "Solid Waste Reuse/Recycling"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37411",
+        "room_desc": "Special Topics"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37412",
+        "room_desc": "Srvyng Camp-Ex Cvge"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37413",
+        "room_desc": "Stability of Structures"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37414",
+        "room_desc": "Statics"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37415",
+        "room_desc": "Structr Reliability"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37416",
+        "room_desc": "Structural Anal 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37417",
+        "room_desc": "Structural Analysis"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37418",
+        "room_desc": "Structural Analysis 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37419",
+        "room_desc": "Structural Design"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37420",
+        "room_desc": "Structural Dynamics"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37421",
+        "room_desc": "Structural Reliability"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37422",
+        "room_desc": "Structural and Site Plans"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37423",
+        "room_desc": "Structures 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37424",
+        "room_desc": "Structures 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37425",
+        "room_desc": "Structures I"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37426",
+        "room_desc": "Surface Water Quality Modeling"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37427",
+        "room_desc": "Surveying 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37428",
+        "room_desc": "Surveying Camp"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37429",
+        "room_desc": "Surveying I"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37430",
+        "room_desc": "Sustainability Civil Engineer"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37431",
+        "room_desc": "Sustainability In Ce"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37432",
+        "room_desc": "Sustainable Concrete"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37433",
+        "room_desc": "Teaching Weather & C"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37434",
+        "room_desc": "Topic-Civil Engineering Design"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37435",
+        "room_desc": "Topics In Civil Engineering"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37436",
+        "room_desc": "Traff Safty & Ivhs"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37437",
+        "room_desc": "Traffic Capacity Analysis"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37438",
+        "room_desc": "Traffic Control"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37439",
+        "room_desc": "Traffic Engineering"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37440",
+        "room_desc": "Traffic Engineering Studies"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37441",
+        "room_desc": "Traffic Engineering Study"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37442",
+        "room_desc": "Traffic Flow Theory"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37443",
+        "room_desc": "Transit Planning"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37444",
+        "room_desc": "Transit Sys: Planning & Oper"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37445",
+        "room_desc": "Transit Systems: Planning and"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37446",
+        "room_desc": "Transp & Envirnment"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37447",
+        "room_desc": "Transp & Urban Syst"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37448",
+        "room_desc": "Transp Asset Management"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37449",
+        "room_desc": "Transp Freight Plng"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37450",
+        "room_desc": "Transport Network Analysis"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37451",
+        "room_desc": "Transportation Econ"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37452",
+        "room_desc": "Transportation Economics"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37453",
+        "room_desc": "Transportation Engineering"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37454",
+        "room_desc": "Transportation Engineering I"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37455",
+        "room_desc": "Transportation Finance"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37456",
+        "room_desc": "Transportation Planning"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37457",
+        "room_desc": "Transportation Pol"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37458",
+        "room_desc": "Transportation Policy"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37459",
+        "room_desc": "Transportation Policy and Sust"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37460",
+        "room_desc": "Transportation Porous Media"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37461",
+        "room_desc": "Transportation Safety"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37462",
+        "room_desc": "Transportation Supply"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37463",
+        "room_desc": "Transportation and Land Use"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37464",
+        "room_desc": "Transportatn Safety"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37465",
+        "room_desc": "Travel Demand Forecasting"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37466",
+        "room_desc": "Treatment Plant Design"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37467",
+        "room_desc": "Trffc Engrng Study"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37468",
+        "room_desc": "Trns Pol-Mngmnt Adm"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37469",
+        "room_desc": "Trnsp Project Eval"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37470",
+        "room_desc": "Trnsportatn Sys Engr"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37471",
+        "room_desc": "Trnspt Proj Evalutn"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37472",
+        "room_desc": "Trnsptn & Eco Devl"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37473",
+        "room_desc": "Trnsptn Engrng 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37474",
+        "room_desc": "Trvl Dmnd Forcstng"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37475",
+        "room_desc": "Urban Freight and City Logis"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37476",
+        "room_desc": "Urban Freight and City Logisti"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37477",
+        "room_desc": "Urban Public Transp"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37478",
+        "room_desc": "Urban Transportation"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37479",
+        "room_desc": "Urban Transportation Planning"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37480",
+        "room_desc": "Water Hydraulics"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37481",
+        "room_desc": "Water Poll Control"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37482",
+        "room_desc": "Water Quality Analysis"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37483",
+        "room_desc": "Water Res Of Hudson"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37484",
+        "room_desc": "Water Resources Modeling"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37485",
+        "room_desc": "Water Wastewater Trt"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37486",
+        "room_desc": "Water and Environmental Resour"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37487",
+        "room_desc": "Water and Wastewater Treatment"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37488",
+        "room_desc": "Watr Resourc Modlng"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37489",
+        "room_desc": "Wind Effects on Structures"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37490",
+        "room_desc": "Wswtr Trmnt Plt Des"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37491",
+        "room_desc": "Wtr Resources Mdlng"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "37492",
+        "room_desc": "Wtr Resources Systm"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "87990",
+        "room_desc": "EGCI"
+    }
+]

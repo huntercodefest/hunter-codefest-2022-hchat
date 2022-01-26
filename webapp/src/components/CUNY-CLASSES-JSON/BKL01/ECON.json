@@ -1,0 +1,1058 @@
+[
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71504",
+        "room_desc": "Accounting Seminar"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71505",
+        "room_desc": "Accounting Topics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71506",
+        "room_desc": "Acctg Reqs Of Sec"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71507",
+        "room_desc": "Adv Econ & Bus Stats"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71508",
+        "room_desc": "Adv Econometrics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71509",
+        "room_desc": "Adv Manager Acctg"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71510",
+        "room_desc": "Advanced Accountg 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71511",
+        "room_desc": "Advanced Econ &Busn Statistics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71512",
+        "room_desc": "Advanced Econometrics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71513",
+        "room_desc": "Amer Econ Devel"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71514",
+        "room_desc": "Amer Econ History"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71515",
+        "room_desc": "American Economic History"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71516",
+        "room_desc": "Analysis of Developed Areas"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71517",
+        "room_desc": "Auditing"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71518",
+        "room_desc": "Behavioral Finance & Economics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71519",
+        "room_desc": "Budgeting Systems"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71520",
+        "room_desc": "Bus Mgement Spts"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71521",
+        "room_desc": "Bus Mgmt Of Sports"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71522",
+        "room_desc": "Business Policy"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71523",
+        "room_desc": "Comparat Eco Systs"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71524",
+        "room_desc": "Comparative Economics Systems"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71525",
+        "room_desc": "Computerized Acctg"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71526",
+        "room_desc": "Contemporary Prob"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71527",
+        "room_desc": "Corp Financ Mgemnt"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71528",
+        "room_desc": "Corp.Concet &Pub Pol"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71529",
+        "room_desc": "Cost Accounting"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71530",
+        "room_desc": "Curr Prob Money Bnkg"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71531",
+        "room_desc": "Current Prob Intnl"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71532",
+        "room_desc": "Developed Areas"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71533",
+        "room_desc": "Eco Dev Latin Amer"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71534",
+        "room_desc": "Eco Of Consumption"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71535",
+        "room_desc": "Ecological Economics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71536",
+        "room_desc": "Econ Devel Theory"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71537",
+        "room_desc": "Econ Geogr Europe"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71538",
+        "room_desc": "Econ Geogr N Amer"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71539",
+        "room_desc": "Econometrics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71540",
+        "room_desc": "Econometrics 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71541",
+        "room_desc": "Economic Analysis"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71542",
+        "room_desc": "Economic Geography"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71543",
+        "room_desc": "Economic Institute"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71544",
+        "room_desc": "Economics Analysis"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71545",
+        "room_desc": "Economics of Discrimination"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71546",
+        "room_desc": "Economics of Environment"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71547",
+        "room_desc": "Economics of Urban Areas"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71548",
+        "room_desc": "Elementary Macroeconomics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71549",
+        "room_desc": "Elementary Microeconomics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71550",
+        "room_desc": "Enterpr Inc Determ"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71551",
+        "room_desc": "Environ &Natural Resource Econ"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71552",
+        "room_desc": "Environ Econ"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71553",
+        "room_desc": "Evol Of Mod Econ"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71554",
+        "room_desc": "Evolution of Modern Economy"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71555",
+        "room_desc": "Federal Taxation"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71556",
+        "room_desc": "Field Work 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71557",
+        "room_desc": "Fin Inst&Pricing"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71558",
+        "room_desc": "Financial Acctg 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71559",
+        "room_desc": "Financial Economics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71560",
+        "room_desc": "Financial Instrument & Pricing"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71561",
+        "room_desc": "Fundmental Method Math Econ II"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71562",
+        "room_desc": "Government Finance"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71563",
+        "room_desc": "Govt In Ind Rel"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71564",
+        "room_desc": "Health Economics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71565",
+        "room_desc": "Health Economics and Policy"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71566",
+        "room_desc": "Hum Res&Labor Mkts"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71567",
+        "room_desc": "Income Taxation"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71568",
+        "room_desc": "Ind Org&Control 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71569",
+        "room_desc": "Ind Res Ec Devel 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71570",
+        "room_desc": "Ind Res Eco Policy"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71571",
+        "room_desc": "Ind Res Gr &Thgt"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71572",
+        "room_desc": "Ind Res Hum Rsrc 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71573",
+        "room_desc": "Ind Res Hum Rsrc 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71574",
+        "room_desc": "Ind Res Macroeco 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71575",
+        "room_desc": "Ind Res Macroeco 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71576",
+        "room_desc": "Ind Res Math Econ"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71577",
+        "room_desc": "Ind Res Microeco"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71578",
+        "room_desc": "Ind Res Mon&Fin 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71579",
+        "room_desc": "Ind Res Mon&Fin 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71580",
+        "room_desc": "Ind Research Econ Develpment 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71581",
+        "room_desc": "Ind Research Human Resources 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71582",
+        "room_desc": "Ind Research Human Resources 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71583",
+        "room_desc": "Ind Research Macroeconomics II"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71584",
+        "room_desc": "Ind Research Mathematical Econ"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71585",
+        "room_desc": "Ind Research Money & Finance 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71586",
+        "room_desc": "Ind Research Money & Finance 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71587",
+        "room_desc": "Ind Rsrch Bus 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71588",
+        "room_desc": "Indep Research in Micro-econ"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71589",
+        "room_desc": "Indep Rsrch Macroeconomics I"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71590",
+        "room_desc": "Independent Reading"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71591",
+        "room_desc": "Industrial Organization"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71592",
+        "room_desc": "Intermediate Macroeconomics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71593",
+        "room_desc": "Intermediate Microeconomics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71594",
+        "room_desc": "International Prob"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71595",
+        "room_desc": "International Trade"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71596",
+        "room_desc": "International Trade Policy"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71597",
+        "room_desc": "Internationl Finance"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71598",
+        "room_desc": "Internatnal Macroecon &Finance"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71599",
+        "room_desc": "Internatnl Finance"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71600",
+        "room_desc": "Intro Eco & Bus Stat"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71601",
+        "room_desc": "Intro Econ & Busn Statistics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71602",
+        "room_desc": "Intro Polit Econ"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71603",
+        "room_desc": "Intro to Urban Sustainability"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71604",
+        "room_desc": "Invest Science"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71605",
+        "room_desc": "Investment Science"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71606",
+        "room_desc": "Labor Arbitration"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71607",
+        "room_desc": "Labor Economics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71608",
+        "room_desc": "Labor Legislation"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71609",
+        "room_desc": "Labor Org And Reltns"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71610",
+        "room_desc": "Labor Org Relation"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71611",
+        "room_desc": "Legal Envir Of Bus"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71612",
+        "room_desc": "Legal Problems 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71613",
+        "room_desc": "Location Theory"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71614",
+        "room_desc": "Macro Econ Anal"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71615",
+        "room_desc": "Macroeconomics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71616",
+        "room_desc": "Managerial Econ"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71617",
+        "room_desc": "Managerial Economics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71618",
+        "room_desc": "Marketing Mgmt"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71619",
+        "room_desc": "Marxian Eco Analys"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71620",
+        "room_desc": "Math Meth In Eco 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71621",
+        "room_desc": "Math Meth In Eco 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71622",
+        "room_desc": "Mathemat Econ 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71623",
+        "room_desc": "Mathematical Economics 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71624",
+        "room_desc": "Mgmt Techn Enterpr"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71625",
+        "room_desc": "Microeconomics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71626",
+        "room_desc": "Mon & Fiscal Policy"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71627",
+        "room_desc": "Monetary and Fiscal Policy"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71628",
+        "room_desc": "Money and Banking"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71629",
+        "room_desc": "Money and Capital Markets"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71630",
+        "room_desc": "Natl Income Analys"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71631",
+        "room_desc": "Nat\u2019L Income & Cycle"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71632",
+        "room_desc": "Oper Rsch &Decsn Sci"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71633",
+        "room_desc": "Operations Research"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71634",
+        "room_desc": "Organization Behav"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71635",
+        "room_desc": "Personnel Management"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71636",
+        "room_desc": "Princ Of Acctg 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71637",
+        "room_desc": "Principal In Acctg 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71638",
+        "room_desc": "Principal Of Acctg 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71639",
+        "room_desc": "Principles of Accounting I"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71640",
+        "room_desc": "Principles of Accounting II"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71641",
+        "room_desc": "Prof.Develop@Sucess"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71642",
+        "room_desc": "Profit Acctg Sys"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71643",
+        "room_desc": "Pub Contrl Ind Pract"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71644",
+        "room_desc": "Public Finance"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71645",
+        "room_desc": "Public Finance & Public Policy"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71646",
+        "room_desc": "Sem Business 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71647",
+        "room_desc": "Sem Business 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71648",
+        "room_desc": "Sem Ec Geog"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71649",
+        "room_desc": "Sem Econ Gr &Thgt"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71650",
+        "room_desc": "Sem Econ Policy"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71651",
+        "room_desc": "Sem Hum Resour"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71652",
+        "room_desc": "Sem In Eco Research"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71653",
+        "room_desc": "Sem Math Econ 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71654",
+        "room_desc": "Sem Microecon 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71655",
+        "room_desc": "Sem Microecon 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71656",
+        "room_desc": "Sem Money&Fin 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71657",
+        "room_desc": "Sem Money&Fin 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71658",
+        "room_desc": "Seminar Polit Econ"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71659",
+        "room_desc": "Seminar in Macroeconomics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71660",
+        "room_desc": "Soc Sec Unemply Indu"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71661",
+        "room_desc": "Soc Secur/Public"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71662",
+        "room_desc": "Social Security"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71663",
+        "room_desc": "Socialist Thought"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71664",
+        "room_desc": "Sociolinguistics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71665",
+        "room_desc": "Special Topics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71666",
+        "room_desc": "Teach Nmbr&Ala Gr5-9"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71667",
+        "room_desc": "Theory of Economic Growth"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71668",
+        "room_desc": "Thesis Research"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71669",
+        "room_desc": "Thesis Supervision"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71670",
+        "room_desc": "Trends Eco Thought"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71671",
+        "room_desc": "Underdevel Areas"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71672",
+        "room_desc": "Urban Economics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71673",
+        "room_desc": "Urban Land Econ"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71674",
+        "room_desc": "Urban Sustainability Theory"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71675",
+        "room_desc": "Welfare Economics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71676",
+        "room_desc": "Women & Contemporary Economy"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71677",
+        "room_desc": "Women Contemp Econmy"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "71678",
+        "room_desc": "Workplace Values and Happiness"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "86946",
+        "room_desc": "ECON"
+    }
+]

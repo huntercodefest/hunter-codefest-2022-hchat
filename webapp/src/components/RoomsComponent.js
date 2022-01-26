@@ -8,6 +8,7 @@ import { Room, RoomList, Schools } from "./Rooms";
 class RoomsComponent extends React.Component {
 	constructor(props) {
 		super(props);
+		this.schoollist = Schools.CurrList.map(school => school).map(school => school.school)
 		this.state = {
 			searchList: Schools,
 			searchValue: "",
@@ -56,17 +57,29 @@ class RoomsComponent extends React.Component {
 			// create new roomlist of school, major
 			roomList = new RoomList(
 				paths.map(
-					(path) =>
-						new Room(room.school, path.major, null, path.major)
+					(path) => {
+						let room_num = null
+						// If path major in the school major element of schoollist
+						if (this.schoollist.includes(path.major)) {
+							console.log("found school")
+							// read in json to get room num
+							const room = require(`${rel_path}/${path.major}.json`);
+							room_num = room.room_num
+						}
+						return new Room(room.school, path.major, room_num, path.major)
+					}
 				),
 				this.state.searchList,
-				room.room_desc
+				"major"
 			);
 		}
 		// if clicked on a major
 		else if (room.room_num === null) {
 			// return the path of the json file with school
+			console.log("entered this loop")
+			console.log(room)
 			const p = paths.filter((path) => path.major === room.major);
+			console.log(`${rel_path}/${p[0].path}`)
 			// return the json file of classes
 			const classes = require(`${rel_path}/${p[0].path}`);
 			// create new roomlist of school, major, room number, room desc
@@ -81,7 +94,7 @@ class RoomsComponent extends React.Component {
 						)
 				),
 				this.state.searchList,
-				room.room_desc
+				"classes"
 			);
 		}
 		// if clicked on a class
@@ -119,6 +132,7 @@ class RoomsComponent extends React.Component {
 				</div>
 				<RoomsContainer
 					displayList={this.state.displayList}
+					listDesc={this.state.searchList.listDesc}
 					handleRoomChange={this.props.handleRoomChange}
 					handleListChange={this.handleListChange}
 				/>

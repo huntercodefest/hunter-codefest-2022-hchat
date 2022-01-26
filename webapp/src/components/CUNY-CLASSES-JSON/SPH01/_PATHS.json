@@ -1,0 +1,42 @@
+[
+    {
+        "major": "FNPH",
+        "path": "FNPH.json"
+    },
+    {
+        "major": "PERM",
+        "path": "PERM.json"
+    },
+    {
+        "major": "HEPM",
+        "path": "HEPM.json"
+    },
+    {
+        "major": "MAOM",
+        "path": "MAOM.json"
+    },
+    {
+        "major": "EPID",
+        "path": "EPID.json"
+    },
+    {
+        "major": "BIOS",
+        "path": "BIOS.json"
+    },
+    {
+        "major": "EVOH",
+        "path": "EVOH.json"
+    },
+    {
+        "major": "EDPU",
+        "path": "EDPU.json"
+    },
+    {
+        "major": "CHSS",
+        "path": "CHSS.json"
+    },
+    {
+        "major": "SPH01",
+        "path": "SPH01.json"
+    }
+]

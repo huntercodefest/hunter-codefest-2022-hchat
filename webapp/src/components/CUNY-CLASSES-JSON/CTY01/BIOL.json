@@ -1,0 +1,1646 @@
+[
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33015",
+        "room_desc": "Adv Math Bio:Lab"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33016",
+        "room_desc": "Advanced Ecology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33017",
+        "room_desc": "Advanced Study"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33018",
+        "room_desc": "Advances: Endocrinology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33019",
+        "room_desc": "Analy Scientific Lit"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33020",
+        "room_desc": "Analy: Using Create"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33021",
+        "room_desc": "Animal Behavior"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33022",
+        "room_desc": "Animal Behavior 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33023",
+        "room_desc": "Animal Behavior I"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33024",
+        "room_desc": "Animal Behavior II"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33025",
+        "room_desc": "Animal Physiology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33026",
+        "room_desc": "Animal Physiology I"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33027",
+        "room_desc": "Animal Physiology II"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33028",
+        "room_desc": "Animal Physiology Laboratory"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33029",
+        "room_desc": "Anthropological Genomics"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33030",
+        "room_desc": "Basic Ecology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33031",
+        "room_desc": "Bio Of Organisms"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33032",
+        "room_desc": "Biodiversity and Extinctions"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33033",
+        "room_desc": "Bioethics"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33034",
+        "room_desc": "Biogeography"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33035",
+        "room_desc": "Biol Basis Animal Bhvr Lab"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33036",
+        "room_desc": "Biol Oceanography"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33037",
+        "room_desc": "Biological Electron Microscopy"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33038",
+        "room_desc": "Biological Foundations I"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33039",
+        "room_desc": "Biological Foundations II"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33040",
+        "room_desc": "Biological Musology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33041",
+        "room_desc": "Biological Oceanography"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33042",
+        "room_desc": "Biological Ocngrphy"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33043",
+        "room_desc": "Biological Sci 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33044",
+        "room_desc": "Biological Science I"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33045",
+        "room_desc": "Biology Oceanography"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33046",
+        "room_desc": "Biology of Birds"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33047",
+        "room_desc": "Biology of Fishes"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33048",
+        "room_desc": "Biology of Invertebrates"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33049",
+        "room_desc": "Biology of Learning and Memory"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33050",
+        "room_desc": "Biology: The Strategy of Life"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33051",
+        "room_desc": "Biomolecular Systems"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33052",
+        "room_desc": "Biostatistics I"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33053",
+        "room_desc": "Botany"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33054",
+        "room_desc": "Botany Lndscape Arch"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33055",
+        "room_desc": "Botany-Landscp Arch"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33056",
+        "room_desc": "Botany:Lndscape Arch"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33057",
+        "room_desc": "Brain Cls & Vis Perc"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33058",
+        "room_desc": "Brain Plasticity and Disease"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33059",
+        "room_desc": "Cancer Biology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33060",
+        "room_desc": "Cardio33061: BIOL,\"Cardio33062: BIOL,\"Cell Biology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33063",
+        "room_desc": "Cell Dev-Senescence"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33064",
+        "room_desc": "Cell Jr Clb/Biochem"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33065",
+        "room_desc": "Cell Microsurgery"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33066",
+        "room_desc": "Cell Physiology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33067",
+        "room_desc": "Cell and Molecular Biology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33068",
+        "room_desc": "Climate Change33069: BIOL,\"Co-op Ed"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33070",
+        "room_desc": "Co-op Education"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33071",
+        "room_desc": "Cog Neuro Approach"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33072",
+        "room_desc": "Col:Ecol-Evol-Behvr"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33073",
+        "room_desc": "Colloquium"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33074",
+        "room_desc": "Communicating Research and Sch"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33075",
+        "room_desc": "Community Ecology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33076",
+        "room_desc": "Comp Animl Phys:Lab"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33077",
+        "room_desc": "Comp Animl Phys:Lec"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33078",
+        "room_desc": "Comp Mamm Anat: Evol"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33079",
+        "room_desc": "Compar Verbrt Anat"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33080",
+        "room_desc": "Comparative Animal Physiology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33081",
+        "room_desc": "Confocal Microscopy"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33082",
+        "room_desc": "Conservation Biology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33083",
+        "room_desc": "Coop Ed"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33084",
+        "room_desc": "Current Topics in Microbiology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33085",
+        "room_desc": "Current topics in Microbiology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33086",
+        "room_desc": "Descriptive Embryology: Lab"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33087",
+        "room_desc": "Devel Neurobiology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33088",
+        "room_desc": "Development and Evolution"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33089",
+        "room_desc": "Developmental"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33090",
+        "room_desc": "Developmental Biology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33091",
+        "room_desc": "Developmental Biology: Lecture"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33092",
+        "room_desc": "Developmental Neurobiology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33093",
+        "room_desc": "Disease and History"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33094",
+        "room_desc": "Dscrptv Embryol:Lab"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33095",
+        "room_desc": "Dvlpmnt & Evolution"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33096",
+        "room_desc": "Ecology Disrupted: Sustainabil"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33097",
+        "room_desc": "Ecology Lab"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33098",
+        "room_desc": "Ecology Landscape Architects"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33099",
+        "room_desc": "Ecology Of Diseases"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33100",
+        "room_desc": "Ecology and Evolution"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33101",
+        "room_desc": "Ecology of Marine Plankton"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33102",
+        "room_desc": "Ecophysiology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33103",
+        "room_desc": "Eeb Seminar"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33104",
+        "room_desc": "Endocrinology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33105",
+        "room_desc": "Environmental Crisis"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33106",
+        "room_desc": "Environmntl Crisis"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33107",
+        "room_desc": "Envrnmntl Cnservatn"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33108",
+        "room_desc": "Envrnmntl Fld Stdys"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33109",
+        "room_desc": "Ethnobotany"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33110",
+        "room_desc": "Eukaryotic Genetics"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33111",
+        "room_desc": "Evolution"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33112",
+        "room_desc": "Expmntl Embrlgy:Lab"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33113",
+        "room_desc": "Field Botany"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33114",
+        "room_desc": "Field Methods in Oceanography"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33115",
+        "room_desc": "Field Zoology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33116",
+        "room_desc": "Fishes/Fishries Lec"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33117",
+        "room_desc": "Fnctnl Neuroanatomy"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33118",
+        "room_desc": "Fossil Record"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33119",
+        "room_desc": "Freshmen Honors Seminar"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33120",
+        "room_desc": "Gen Bacteriology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33121",
+        "room_desc": "General Bacteriology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33122",
+        "room_desc": "Genes Dev & Disease"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33123",
+        "room_desc": "Genetic and genome-wide analys"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33124",
+        "room_desc": "Genetics"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33125",
+        "room_desc": "Genetics of Prokaryotes"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33126",
+        "room_desc": "Genom & Bioinformat"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33127",
+        "room_desc": "Global Change Biology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33128",
+        "room_desc": "Gntcs/Molurl Bio Aut"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33129",
+        "room_desc": "Green Plants"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33130",
+        "room_desc": "Gut Microbiome"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33131",
+        "room_desc": "Hist Cytochem Technqs"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33132",
+        "room_desc": "Histo/Cytochem Tech"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33133",
+        "room_desc": "Honors I"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33134",
+        "room_desc": "Honors II"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33135",
+        "room_desc": "Honors III"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33136",
+        "room_desc": "Hum Anat/Physiol 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33137",
+        "room_desc": "Hum Func 3-Endocrin"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33138",
+        "room_desc": "Human Anatomy & Physiology I"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33139",
+        "room_desc": "Human Anatomy and Physiology I"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33140",
+        "room_desc": "Human Anatomy/Physiology 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33141",
+        "room_desc": "Human Biology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33142",
+        "room_desc": "Human Genetics and Genomics"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33143",
+        "room_desc": "Human Neurodegenerative Diseas"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33144",
+        "room_desc": "Humn Functn 1-Neuro"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33145",
+        "room_desc": "Immunology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33146",
+        "room_desc": "Ind Stud"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33147",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33148",
+        "room_desc": "Insect Ecology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33149",
+        "room_desc": "Intr Health Disparti"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33150",
+        "room_desc": "Intro Neuroscience"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33151",
+        "room_desc": "Intro Sci Thinking"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33152",
+        "room_desc": "Intro To Immunology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33153",
+        "room_desc": "Intro to Scientific Thinking"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33154",
+        "room_desc": "Introduction to Epigenetics"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33155",
+        "room_desc": "Introduction to Genetics"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33156",
+        "room_desc": "Introduction to Immunology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33157",
+        "room_desc": "Introduction to Neurobiology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33158",
+        "room_desc": "Introductory Biology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33159",
+        "room_desc": "Invertebrates"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33160",
+        "room_desc": "Iss In Conservation"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33161",
+        "room_desc": "Lab In Bio Tech"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33162",
+        "room_desc": "Lab In Bio Technology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33163",
+        "room_desc": "Lab. Molecular Bio I"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33164",
+        "room_desc": "Lab.Molecular Bio II"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33165",
+        "room_desc": "Lab:Biotechnology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33166",
+        "room_desc": "Laboratory In Biotechnology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33167",
+        "room_desc": "Laboratory in Animal Behavior"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33168",
+        "room_desc": "Laboratory in Biotechnology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33169",
+        "room_desc": "Laboratory in Neurobiology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33170",
+        "room_desc": "Laboratory/Neurobiology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33171",
+        "room_desc": "Lecture: Mathematical Biology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33172",
+        "room_desc": "Lit Anal In Neurosci"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33173",
+        "room_desc": "Mammalian Histology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33174",
+        "room_desc": "Mathematical Biology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33175",
+        "room_desc": "Mathmatical Bio:Lec"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33176",
+        "room_desc": "Mech-Trnspt-Imm Sys"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33177",
+        "room_desc": "Microbial Eco:Lab"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33178",
+        "room_desc": "Microbial Ecology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33179",
+        "room_desc": "Microbial Genetics"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33180",
+        "room_desc": "Microbial Gntcs:Lab"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33181",
+        "room_desc": "Microbiology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33182",
+        "room_desc": "Microbiology for Healthcare Pr"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33183",
+        "room_desc": "Modeling Biodiversity"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33184",
+        "room_desc": "Modules:Neuroscience"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33185",
+        "room_desc": "Mol Det Dev & Cancer"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33186",
+        "room_desc": "Mol Gen:Prokaryotes"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33187",
+        "room_desc": "Mole Bio Jrnl Clb:1"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33188",
+        "room_desc": "Molec Basis Dev: Lec"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33189",
+        "room_desc": "Moleclr Bio Of Gene"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33190",
+        "room_desc": "Molecular Biology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33191",
+        "room_desc": "Molecular Biology Jrnl Club 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33192",
+        "room_desc": "Molecular Development Neurobio"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33193",
+        "room_desc": "Molecular Evolution"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33194",
+        "room_desc": "Molecular Systematics"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33195",
+        "room_desc": "Movement & Muscle"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33196",
+        "room_desc": "Muscle & Movement"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33197",
+        "room_desc": "Nature and Nurture"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33198",
+        "room_desc": "Neurobiol-Bhvrl Bio"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33199",
+        "room_desc": "Neurogenetics"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33200",
+        "room_desc": "Neurogenetics and Behavior"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33201",
+        "room_desc": "Neuropharmacology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33202",
+        "room_desc": "Neurosci Motor Cntrl"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33203",
+        "room_desc": "Neuroscience 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33204",
+        "room_desc": "Neuroscience II"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33205",
+        "room_desc": "Neurosciences 1: Lecture"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33206",
+        "room_desc": "Organic Evolution"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33207",
+        "room_desc": "Organismic Bio-Lab"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33208",
+        "room_desc": "Organismic Biology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33209",
+        "room_desc": "Organismic Biology: Lecture"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33210",
+        "room_desc": "Origins of Molecular Biology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33211",
+        "room_desc": "Ornithology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33212",
+        "room_desc": "Parasitology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33213",
+        "room_desc": "Parasitology Lecture"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33214",
+        "room_desc": "Phys-Functional Anatomy I"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33215",
+        "room_desc": "Physio Funct Anat III"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33216",
+        "room_desc": "Physiological Ecology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33217",
+        "room_desc": "Physiological Ecology Lab"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33218",
+        "room_desc": "Physiological Ecology Lecture"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33219",
+        "room_desc": "Physiological Processes"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33220",
+        "room_desc": "Plant Animal Intertn"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33221",
+        "room_desc": "Plant Physiology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33222",
+        "room_desc": "Plant and Insect Interaction"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33223",
+        "room_desc": "Plant-Animal Interaction"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33224",
+        "room_desc": "Population Ecology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33225",
+        "room_desc": "Population Ecology:Lab"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33226",
+        "room_desc": "Population Genetics"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33227",
+        "room_desc": "Population and Community"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33228",
+        "room_desc": "Populatn & Communty"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33229",
+        "room_desc": "Prin Of Ecology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33230",
+        "room_desc": "Prin Of Genetics"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33231",
+        "room_desc": "Principles Of Ecology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33232",
+        "room_desc": "Principles of Ecology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33233",
+        "room_desc": "Principles of Systematics"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33234",
+        "room_desc": "Pub Pol & Hum Val 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33235",
+        "room_desc": "Quantitative Ecology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33236",
+        "room_desc": "Radiation Bio:Lab"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33237",
+        "room_desc": "Radiation Biology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33238",
+        "room_desc": "Radiation In Biology:Lec"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33239",
+        "room_desc": "Rot Cell-Mol-Dv Bio"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33240",
+        "room_desc": "Science of Sex and Gender"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33241",
+        "room_desc": "Scientific Communication"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33242",
+        "room_desc": "Scientific Writing"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33243",
+        "room_desc": "Selected Topics in Biology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33244",
+        "room_desc": "Sem In Gliophysiolgy"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33245",
+        "room_desc": "Sem In Neuroscience"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33246",
+        "room_desc": "Sem Populatn Gender"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33247",
+        "room_desc": "Sem: In Physiology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33248",
+        "room_desc": "Sem:Behavioral Ecol"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33249",
+        "room_desc": "Sem:Ecol Genetics"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33250",
+        "room_desc": "Sem:Molec Neurosci"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33251",
+        "room_desc": "Seminar Special Topics"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33252",
+        "room_desc": "Seminar in Ecology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33253",
+        "room_desc": "Seminar in Evolution"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33254",
+        "room_desc": "Seminar in Gliophysiolgy"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33255",
+        "room_desc": "Seminar in Zoogeography"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33256",
+        "room_desc": "Seminar:Eeb"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33257",
+        "room_desc": "Seminars on Selected Topics in"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33258",
+        "room_desc": "Sensory Perception"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33259",
+        "room_desc": "Signal Transduction"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33260",
+        "room_desc": "Signal transduction in develop"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33261",
+        "room_desc": "Sm: Sensrimtr Integr"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33262",
+        "room_desc": "Sm:Lrn-Nav-Plsticty"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33263",
+        "room_desc": "Social Animal Biology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33264",
+        "room_desc": "Sp Prb Dvlp Bio:Lec"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33265",
+        "room_desc": "Special Problems II"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33266",
+        "room_desc": "Special Topics"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33267",
+        "room_desc": "Stat Inference In Phylogeo"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33268",
+        "room_desc": "Survey of the Vertebrates"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33269",
+        "room_desc": "Survey-Anat/Physiol"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33270",
+        "room_desc": "Symbiosis"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33271",
+        "room_desc": "Systma & Evol:Lab"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33272",
+        "room_desc": "Systma & Evol:Lec"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33273",
+        "room_desc": "The Social Brain"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33274",
+        "room_desc": "The innate immune system"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33275",
+        "room_desc": "Thesis Research"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33276",
+        "room_desc": "Trends:Phys & Neuro"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33277",
+        "room_desc": "Tropical Eco & Conservation"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33278",
+        "room_desc": "Tutorial"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33279",
+        "room_desc": "UG Seminar in Global Change"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33280",
+        "room_desc": "Vertebrae Endocrinology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33281",
+        "room_desc": "Vertebrate Biology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33282",
+        "room_desc": "Vertebrates"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33283",
+        "room_desc": "Viral Pathogenesis and Epidemi"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33284",
+        "room_desc": "Virology"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33285",
+        "room_desc": "Womens Health"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33286",
+        "room_desc": "Zoo & Phylog Mammals: Lecture"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33287",
+        "room_desc": "Zoo/Phl Chrd-Brd:Lab"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33288",
+        "room_desc": "Zoo/Phl Chrd-Brd:Lec"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33289",
+        "room_desc": "Zoo/Phyl Mammls:Lab"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "33290",
+        "room_desc": "Zoology And Phylogen"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "87971",
+        "room_desc": "BIOL"
+    }
+]

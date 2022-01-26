@@ -1,0 +1,350 @@
+[
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21865",
+        "room_desc": "Analytical Mthds Protect Mgmt"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21866",
+        "room_desc": "Aut Fire Ext Syst"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21867",
+        "room_desc": "Bldg & Fire Codes"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21868",
+        "room_desc": "Business Cont Planng"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21869",
+        "room_desc": "Celeb Exec & Event Security"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21870",
+        "room_desc": "Cybercrime Investigations"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21871",
+        "room_desc": "Cyberfraud & Identity Theft"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21872",
+        "room_desc": "Cyberlaw and Cyberliberties"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21873",
+        "room_desc": "Cyberpredators"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21874",
+        "room_desc": "Cybervice"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21875",
+        "room_desc": "Emergency Planning"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21876",
+        "room_desc": "Energy Industry Security"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21877",
+        "room_desc": "Fac-Mentored Research Exp: SEC"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21878",
+        "room_desc": "Fac-Mentored Research in SEC"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21879",
+        "room_desc": "Hospital & Healthcare Security"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21880",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21881",
+        "room_desc": "Independent Study 200-level"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21882",
+        "room_desc": "Independent Study 300-level"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21883",
+        "room_desc": "Independent Study 400-level"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21884",
+        "room_desc": "Info Tech & Cybercrime"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21885",
+        "room_desc": "Intelligence and Counterintel"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21886",
+        "room_desc": "Internship"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21887",
+        "room_desc": "Intro To Emergency Management"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21888",
+        "room_desc": "Intro to Cybercrime"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21889",
+        "room_desc": "Intro to Homeland Security"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21890",
+        "room_desc": "Intro to Protection Mgmt Systm"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21891",
+        "room_desc": "Introduction to Security"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21892",
+        "room_desc": "Legal Re & Admin Issues Priv"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21893",
+        "room_desc": "Maritime Security and Safety"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21894",
+        "room_desc": "Methods of Security"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21895",
+        "room_desc": "Museum Security"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21896",
+        "room_desc": "Private Sec & Law"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21897",
+        "room_desc": "Private Security"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21898",
+        "room_desc": "Private Security and the Law"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21899",
+        "room_desc": "Privatization Private Security"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21900",
+        "room_desc": "Pvt Sec&Homeland Def"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21901",
+        "room_desc": "Pvt Security Trends"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21902",
+        "room_desc": "Retail and Commercial Security"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21903",
+        "room_desc": "Risk & Vulner Analy\t"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21904",
+        "room_desc": "Risk Analys & Loss Prevention"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21905",
+        "room_desc": "Risk/Threat/Infrastr"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21906",
+        "room_desc": "Safety & Sec in Higher Ed Inst"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21907",
+        "room_desc": "Safety And Sec In The Built En"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21908",
+        "room_desc": "Sec Computer Data"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21909",
+        "room_desc": "Secur Finan Institut"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21910",
+        "room_desc": "Security Investigations"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21911",
+        "room_desc": "Security Management"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21912",
+        "room_desc": "Security Management Internship"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21913",
+        "room_desc": "Security Manangement Thesis"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21914",
+        "room_desc": "Security Mgmt"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21915",
+        "room_desc": "Security Risk and Technology"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21916",
+        "room_desc": "Security Tr Cred"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21917",
+        "room_desc": "Selected Topics in Sec Mgmnt"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21918",
+        "room_desc": "Seminar in Security Problems"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21919",
+        "room_desc": "Special Topics"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21920",
+        "room_desc": "Tech of Security and Safety"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "21921",
+        "room_desc": "Terror21922: SECU,\"Theory & Design Security Syst"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "87115",
+        "room_desc": "SECU"
+    }
+]

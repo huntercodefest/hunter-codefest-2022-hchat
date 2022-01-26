@@ -1,0 +1,920 @@
+[
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61139",
+        "room_desc": "Adm Of Intnl Bus"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61140",
+        "room_desc": "Adv & Mkt Communicat"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61141",
+        "room_desc": "Adv/Mkt Communicatns"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61142",
+        "room_desc": "Advertising Account Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61143",
+        "room_desc": "Advertising Campaign"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61144",
+        "room_desc": "Advertising Competition II"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61145",
+        "room_desc": "Advertising Copy Techniques"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61146",
+        "room_desc": "Advertising Creative Strategy"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61147",
+        "room_desc": "Advertising Mgmt & Strategy"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61148",
+        "room_desc": "Advertising Research"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61149",
+        "room_desc": "Ana Model-Mkt Mgt"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61150",
+        "room_desc": "Applied Topics in Marketing Re"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61151",
+        "room_desc": "Branding"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61152",
+        "room_desc": "Bus Market Research"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61153",
+        "room_desc": "Business Buyer Behav"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61154",
+        "room_desc": "Business Buyer Behavior"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61155",
+        "room_desc": "Business Marketing Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61156",
+        "room_desc": "Channels Of Distrbtn"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61157",
+        "room_desc": "Channels of Distribution"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61158",
+        "room_desc": "Comm Skills Sell/Mkt"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61159",
+        "room_desc": "Communicating with Consumers"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61160",
+        "room_desc": "Comp Applcn Mkt Mngr"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61161",
+        "room_desc": "Comparative Marketing Systems"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61162",
+        "room_desc": "Compv Mktng Systems"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61163",
+        "room_desc": "Consumer Behavior"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61164",
+        "room_desc": "Cont Issues In Adver"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61165",
+        "room_desc": "Copywriting"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61166",
+        "room_desc": "Current Issues in Marketing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61167",
+        "room_desc": "Data-driven Marketing Strategy"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61168",
+        "room_desc": "Database Marketing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61169",
+        "room_desc": "Desgn Inv Dig Prod & Servcs"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61170",
+        "room_desc": "Digital Advertising"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61171",
+        "room_desc": "Digital Marketing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61172",
+        "room_desc": "Digital Marketing Strategy"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61173",
+        "room_desc": "Direct Marketing I"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61174",
+        "room_desc": "Direct Marketing II"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61175",
+        "room_desc": "Entertainment Marketing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61176",
+        "room_desc": "Expt Impt Doc & Fin"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61177",
+        "room_desc": "For Cr & Col Mgmt"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61178",
+        "room_desc": "Foreign Credit and Collection"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61179",
+        "room_desc": "Foreign Mark Analysi"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61180",
+        "room_desc": "Global Advertising & Marketing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61181",
+        "room_desc": "Green Marketing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61182",
+        "room_desc": "HONORS International Marketing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61183",
+        "room_desc": "HONORS Int\u2019l Supply Chain Mgt"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61184",
+        "room_desc": "Hon Intl Bus Prin"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61185",
+        "room_desc": "Honors -  Marketing  I"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61186",
+        "room_desc": "Honors - Marketing Foundations"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61187",
+        "room_desc": "Honors - Marketing Internship"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61188",
+        "room_desc": "Honors - Marketing Strategy"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61189",
+        "room_desc": "Honors International Marketing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61190",
+        "room_desc": "Honors Marketing II"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61191",
+        "room_desc": "Import Marketing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61192",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61193",
+        "room_desc": "Independent Study Marketing I"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61194",
+        "room_desc": "Independent Study Marketing II"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61195",
+        "room_desc": "Intern Supply Chain Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61196",
+        "room_desc": "International Logistics"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61197",
+        "room_desc": "International Marketing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61198",
+        "room_desc": "International Marketing Manag"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61199",
+        "room_desc": "International Trade Financing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61200",
+        "room_desc": "International Trade Operations"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61201",
+        "room_desc": "Internet & Entrepren"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61202",
+        "room_desc": "Internet Marketing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61203",
+        "room_desc": "Internl Commod Trad"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61204",
+        "room_desc": "Intl Business Princ"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61205",
+        "room_desc": "Intl Commodity Trade"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61206",
+        "room_desc": "Intl Marketing Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61207",
+        "room_desc": "Intl Mktg Train Prog"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61208",
+        "room_desc": "Intl Transportation"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61209",
+        "room_desc": "Intnl Transportation"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61210",
+        "room_desc": "Intrnt Mkt & Glb Bus"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61211",
+        "room_desc": "Management of Fashion"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61212",
+        "room_desc": "Managing Customer Experiences"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61213",
+        "room_desc": "Mark Web Analyt & Intelligence"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61214",
+        "room_desc": "Market Forecasting"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61215",
+        "room_desc": "Marketing Analytics"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61216",
+        "room_desc": "Marketing Channels"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61217",
+        "room_desc": "Marketing Foundations"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61218",
+        "room_desc": "Marketing Honors I"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61219",
+        "room_desc": "Marketing Honors III"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61220",
+        "room_desc": "Marketing Internship"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61221",
+        "room_desc": "Marketing Logistics System"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61222",
+        "room_desc": "Marketing Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61223",
+        "room_desc": "Marketing Research"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61224",
+        "room_desc": "Marketing Strategy"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61225",
+        "room_desc": "Marketing and Consulting Pract"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61226",
+        "room_desc": "Mcr Research Sem I"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61227",
+        "room_desc": "Mcr Research Sem II"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61228",
+        "room_desc": "Media Planning"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61229",
+        "room_desc": "Media Planning in the Digital"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61230",
+        "room_desc": "Mercant Cr & Coll Mg"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61231",
+        "room_desc": "Mgt Cust Relations"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61232",
+        "room_desc": "Mkt Research Semnr I"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61233",
+        "room_desc": "Mrktng Analytics with Big Data"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61234",
+        "room_desc": "New Prod Design/Dev"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61235",
+        "room_desc": "Pers & Customer Decs Making"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61236",
+        "room_desc": "Planng & Info Systms"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61237",
+        "room_desc": "Pricing Policy"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61238",
+        "room_desc": "Prod Planng & Devlpm"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61239",
+        "room_desc": "Project-Based Mkt Consulting"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61240",
+        "room_desc": "Public Relations"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61241",
+        "room_desc": "Publicity and Promotion"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61242",
+        "room_desc": "Qualitative Prob Mkt"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61243",
+        "room_desc": "Res Mthd For Thesis"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61244",
+        "room_desc": "Res Sem II MKT"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61245",
+        "room_desc": "Research Methods for Thesis"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61246",
+        "room_desc": "Research Sem I: Intl Marketing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61247",
+        "room_desc": "Research Seminar I"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61248",
+        "room_desc": "Research Seminar II"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61249",
+        "room_desc": "Ret Mgt Trng Prm II"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61250",
+        "room_desc": "Retail & Sevices Ent"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61251",
+        "room_desc": "Retail Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61252",
+        "room_desc": "Retail Mangemt"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61253",
+        "room_desc": "Retail Sales Prom Tc"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61254",
+        "room_desc": "Retailing I: Retail Marketing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61255",
+        "room_desc": "Retailng II: Retail Mgmt Merch"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61256",
+        "room_desc": "Rsrch Sem II Intl Mrktng"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61257",
+        "room_desc": "Sales Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61258",
+        "room_desc": "Sales Promotion"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61259",
+        "room_desc": "Search Engine Marketing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61260",
+        "room_desc": "Search Marketing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61261",
+        "room_desc": "Selected Prob In Mkt"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61262",
+        "room_desc": "Selected Topics in Marketing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61263",
+        "room_desc": "Selling and Sales Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61264",
+        "room_desc": "Services Marketing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61265",
+        "room_desc": "Sls Repres Amer Bus"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61266",
+        "room_desc": "Soc Media Market & New Venture"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61267",
+        "room_desc": "Social Media Analytics"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61268",
+        "room_desc": "Social Media Marketing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61269",
+        "room_desc": "Spc Topics in Digital Marketng"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61270",
+        "room_desc": "Spc Topics in Intl Mrktng"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61271",
+        "room_desc": "Spc Topics in Mrktng Anlytcs"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61272",
+        "room_desc": "Spec Top in Marketing Anlytcs"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61273",
+        "room_desc": "Spec Topic Marketing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61274",
+        "room_desc": "Spec Topics In MKT"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61275",
+        "room_desc": "Spec Topics in Adv & Mkt Comm"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61276",
+        "room_desc": "Spec Topics in Advertising"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61277",
+        "room_desc": "Spec Topics in Mktng Anlytcs"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61278",
+        "room_desc": "Spec Topics-Digital Marketing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61279",
+        "room_desc": "Special Top In MKT"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61280",
+        "room_desc": "Special Topics in Digital Mark"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61281",
+        "room_desc": "Special Topics in Intl Mrktng"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61282",
+        "room_desc": "Special Topics in Maketing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61283",
+        "room_desc": "Special Topics in Marketing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61284",
+        "room_desc": "Special Topics- Intl Marketing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61285",
+        "room_desc": "Sustainable Marketing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61286",
+        "room_desc": "T.V. Commercial Prod"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61287",
+        "room_desc": "Text Analytics for Marketing"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61288",
+        "room_desc": "Thesis"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61289",
+        "room_desc": "Transport&Container"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "61290",
+        "room_desc": "Web Analytics and Intelligence"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "86626",
+        "room_desc": "MARK"
+    }
+]

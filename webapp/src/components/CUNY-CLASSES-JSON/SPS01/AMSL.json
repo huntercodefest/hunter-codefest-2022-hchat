@@ -1,0 +1,20 @@
+[
+    {
+        "school": "SPS01",
+        "major": "AMSL",
+        "room_num": "80318",
+        "room_desc": "American Sign Language I"
+    },
+    {
+        "school": "SPS01",
+        "major": "AMSL",
+        "room_num": "80319",
+        "room_desc": "American Sign Language II"
+    },
+    {
+        "school": "SPS01",
+        "major": "AMSL",
+        "room_num": "87574",
+        "room_desc": "AMSL"
+    }
+]

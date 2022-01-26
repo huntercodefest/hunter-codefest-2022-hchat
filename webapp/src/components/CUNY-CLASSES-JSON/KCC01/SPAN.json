@@ -1,0 +1,242 @@
+[
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64001",
+        "room_desc": "Advanced Spanish Conversation"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64002",
+        "room_desc": "Cont Lat Am Sh Story"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64003",
+        "room_desc": "Cont Lat/Am Sh Story"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64004",
+        "room_desc": "Conv Spa Elementary"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64005",
+        "room_desc": "Conv Spafor Travel"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64006",
+        "room_desc": "Court Interpretation I"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64007",
+        "room_desc": "Court Interpretation II"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64008",
+        "room_desc": "Crt Interpretation III"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64009",
+        "room_desc": "Elementary Spanish I"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64010",
+        "room_desc": "Elementary Spanish II"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64011",
+        "room_desc": "Hist & Civilization of Spain"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64012",
+        "room_desc": "IS His/Civilization of Spain"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64013",
+        "room_desc": "IS Intermediate Spanish I"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64014",
+        "room_desc": "IS Peninsular Spanish Lit Trns"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64015",
+        "room_desc": "IS Read Spa/Amer Lit"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64016",
+        "room_desc": "IS Readings in Hispanic Lit"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64017",
+        "room_desc": "IS Spanish Syntax & Comp"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64018",
+        "room_desc": "Indep Stdy Grammar & Convers"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64019",
+        "room_desc": "Independent Study: Spanish"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64020",
+        "room_desc": "Intensive Review Span Grammar"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64021",
+        "room_desc": "Intermed Spanish Conversation"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64022",
+        "room_desc": "Intermediate Spanish I"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64023",
+        "room_desc": "Latin Amer & Carib Culture"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64024",
+        "room_desc": "Latin American Cinema"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64025",
+        "room_desc": "Peninsular Spanish Lit Transl"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64026",
+        "room_desc": "Puerto Rican Folklore"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64027",
+        "room_desc": "Reading in Spanish Literature"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64028",
+        "room_desc": "Readings in Hispanic Lit"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64029",
+        "room_desc": "Readings in Span-Amer Literat"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64030",
+        "room_desc": "Spa Am Culture/Art/Music"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64031",
+        "room_desc": "Spa Career Programs"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64032",
+        "room_desc": "Spa Cinema Bunuel"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64033",
+        "room_desc": "Spa Grammar & Conversation"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64034",
+        "room_desc": "Spanish Cinema"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64035",
+        "room_desc": "Spanish Syntax and Composition"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64036",
+        "room_desc": "Spanish for Teachers"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64037",
+        "room_desc": "Spanish for Teachers I"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64038",
+        "room_desc": "Spanish for Teachers II"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "64039",
+        "room_desc": "Spanish-American Literature"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "88523",
+        "room_desc": "SPAN"
+    }
+]

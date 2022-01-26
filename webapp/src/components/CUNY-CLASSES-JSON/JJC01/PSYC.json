@@ -1,0 +1,1094 @@
+[
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21503",
+        "room_desc": "Abnormal Psychology"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21504",
+        "room_desc": "Adv Chem Dep Counsel"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21505",
+        "room_desc": "Adv Research Method"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21506",
+        "room_desc": "Adv Sem Corr Psych"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21507",
+        "room_desc": "Adv Ugrd Rsrch Exper Psych"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21508",
+        "room_desc": "Advanced Research Methods"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21509",
+        "room_desc": "AdvancedIssuesVictimCounseling"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21510",
+        "room_desc": "Advncd Fornsic Assmt"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21511",
+        "room_desc": "Afr-Amer Forensc Psy"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21512",
+        "room_desc": "Agressive Adolescent"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21513",
+        "room_desc": "Alcoholism and Substance Abuse"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21514",
+        "room_desc": "Asses Clin Chem Dep"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21515",
+        "room_desc": "Assmnt & Csl Juv Ofn"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21516",
+        "room_desc": "Borderline Disorders"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21517",
+        "room_desc": "Brain and Behavior"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21518",
+        "room_desc": "Capital Punishment"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21519",
+        "room_desc": "Chem Dependency and Dys Fam"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21520",
+        "room_desc": "Chic/Lat/Mex For Psy"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21521",
+        "room_desc": "Chicano/Latino Psych"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21522",
+        "room_desc": "Child Abuse and Neglect"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21523",
+        "room_desc": "Child Development"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21524",
+        "room_desc": "Chldhood Psypath"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21525",
+        "room_desc": "Clinic Topcs For Psy"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21526",
+        "room_desc": "Clinical Crime Scene Analysis"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21527",
+        "room_desc": "Clinical Instruction"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21528",
+        "room_desc": "Clinical Interview"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21529",
+        "room_desc": "Clinical Psychology"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21530",
+        "room_desc": "Cognition & Emotions"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21531",
+        "room_desc": "Cognitive Psychology"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21532",
+        "room_desc": "Community and Gender Violence"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21533",
+        "room_desc": "Confsn & Intrgtn Psy"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21534",
+        "room_desc": "Cons Psychotherapy"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21535",
+        "room_desc": "Correctional Psychology"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21536",
+        "room_desc": "Counseling Psych"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21537",
+        "room_desc": "Counslng Rehab Offnd"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21538",
+        "room_desc": "Crim Psych Assessmnt"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21539",
+        "room_desc": "Crim Psych Assessmt"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21540",
+        "room_desc": "Criminal Behavior"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21541",
+        "room_desc": "Crisis Interven & Treatment"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21542",
+        "room_desc": "Cult Psych Healing"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21543",
+        "room_desc": "Cult21544: PSYC,\"Culture Psychological Healing"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21545",
+        "room_desc": "Culture and Personality"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21546",
+        "room_desc": "Culture21547: PSYC,\"Death Dying&Socty"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21548",
+        "room_desc": "Desc Stat Data Analy"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21549",
+        "room_desc": "Developmental Psychology"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21550",
+        "room_desc": "Dissociation and Trauma"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21551",
+        "room_desc": "Dissociation and trauma"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21552",
+        "room_desc": "Drug Use & Abuse"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21553",
+        "room_desc": "Effective Parenting"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21554",
+        "room_desc": "Empirical Crime Scene Analysis"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21555",
+        "room_desc": "Empirical Profiling Methods"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21556",
+        "room_desc": "Eth Chem Dep Coun"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21557",
+        "room_desc": "Ethic Iss For Psy"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21558",
+        "room_desc": "Eval & Treat of Sex Offenders"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21559",
+        "room_desc": "Eval & Trt of Sex Offenders"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21560",
+        "room_desc": "Exp Res In Law and Psychology"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21561",
+        "room_desc": "Expermental Psychology"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21562",
+        "room_desc": "Eyewitness Identification"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21563",
+        "room_desc": "Fac Mentored Research Experien"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21564",
+        "room_desc": "Fac-Mentored Research"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21565",
+        "room_desc": "Fam Conflct & Court"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21566",
+        "room_desc": "Family Violence and Disputes"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21567",
+        "room_desc": "Field Work in Psychology"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21568",
+        "room_desc": "Field work in Psychology"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21569",
+        "room_desc": "Fieldwork in Counseling I"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21570",
+        "room_desc": "Fieldwork in Counseling II"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21571",
+        "room_desc": "Fldwrk in Forens Psych"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21572",
+        "room_desc": "For Psy Dvrsty Issue"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21573",
+        "room_desc": "Forensic Soc&Exp Psy"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21574",
+        "room_desc": "Gender21575: PSYC,\"Gender21576: PSYC,\"Group Dyn Chem Dep"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21577",
+        "room_desc": "Group Dynamics"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21578",
+        "room_desc": "Group Dynamics & Grp Trtmnt"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21579",
+        "room_desc": "History Of Psycholog"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21580",
+        "room_desc": "History of Psychology"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21581",
+        "room_desc": "Human Growth and Development"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21582",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21583",
+        "room_desc": "Independent Study 200-level"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21584",
+        "room_desc": "Independent Study 400-level"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21585",
+        "room_desc": "Independent Study Level:300"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21586",
+        "room_desc": "Independent Study in Grad Psyc"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21587",
+        "room_desc": "Interdisc Psy"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21588",
+        "room_desc": "Interm Data Methods"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21589",
+        "room_desc": "Intermediate Stat"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21590",
+        "room_desc": "Intl & Cogntv Assmnt"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21591",
+        "room_desc": "Intro Forensic Couns"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21592",
+        "room_desc": "Intro Rsch Exp Psy"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21593",
+        "room_desc": "Intro To Assessment"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21594",
+        "room_desc": "Intro Ugrd Rsrch Exp Psych"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21595",
+        "room_desc": "Introduction to Psychology"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21596",
+        "room_desc": "Jury Decision Psych"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21597",
+        "room_desc": "Juvenile Interrogate"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21598",
+        "room_desc": "Key Concepts in Psychotherapy"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21599",
+        "room_desc": "Learning and Memory"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21600",
+        "room_desc": "Memory: Injustices"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21601",
+        "room_desc": "Mental Health Stigma"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21602",
+        "room_desc": "Mentoring Intrn 2"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21603",
+        "room_desc": "Mntl Hlth Issues in Policing"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21604",
+        "room_desc": "Multicultural Psychology"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21605",
+        "room_desc": "Objctv Prsnlty Assmt"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21606",
+        "room_desc": "Perception"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21607",
+        "room_desc": "Personality Disorder"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21608",
+        "room_desc": "Pharmacology"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21609",
+        "room_desc": "Positive Psychology"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21610",
+        "room_desc": "Prfiling Methodology"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21611",
+        "room_desc": "Projctv Prsnty Assmt"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21612",
+        "room_desc": "Prospectus Seminar"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21613",
+        "room_desc": "Psy Adol&Adol Off"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21614",
+        "room_desc": "Psy Afr Amer Expr"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21615",
+        "room_desc": "Psy Anly Crim Beh"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21616",
+        "room_desc": "Psy Crime Scene Anly"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21617",
+        "room_desc": "Psy Criml Behavor"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21618",
+        "room_desc": "Psy Of Jury Research"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21619",
+        "room_desc": "Psy Of Personalty"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21620",
+        "room_desc": "Psy Of Policework"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21621",
+        "room_desc": "Psych Eyewitness"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21622",
+        "room_desc": "Psych Major Crime"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21623",
+        "room_desc": "Psych Of Dreams"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21624",
+        "room_desc": "Psych Profile Offend"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21625",
+        "room_desc": "Psych Profile of Hom Offender"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21626",
+        "room_desc": "Psych and Law"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21627",
+        "room_desc": "Psychology Of Cults"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21628",
+        "room_desc": "Psychology Tr Cred"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21629",
+        "room_desc": "Psychology and Women"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21630",
+        "room_desc": "Psychology and policing"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21631",
+        "room_desc": "Psychology and the Law"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21632",
+        "room_desc": "Psychology of Adolescence"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21633",
+        "room_desc": "Psychology of Communication"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21634",
+        "room_desc": "Psychology of Dreams"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21635",
+        "room_desc": "Psychology of Gender"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21636",
+        "room_desc": "Psychology of Human Sexuality"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21637",
+        "room_desc": "Psychology of Jury Research"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21638",
+        "room_desc": "Psychology of Oppression"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21639",
+        "room_desc": "Psychology of Racial Justice"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21640",
+        "room_desc": "Psychology of Sports"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21641",
+        "room_desc": "Psychopath Assessmnt"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21642",
+        "room_desc": "Psychopathol & Lit."
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21643",
+        "room_desc": "Psychopathology"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21644",
+        "room_desc": "Psychopathology and Literature"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21645",
+        "room_desc": "Psychopathy"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21646",
+        "room_desc": "Psychopharmacology"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21647",
+        "room_desc": "Public Policy & Law"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21648",
+        "room_desc": "Research Design and Methods"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21649",
+        "room_desc": "Research Methods in Psychology"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21650",
+        "room_desc": "Selc Topics In Fmhc"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21651",
+        "room_desc": "Selected Topics in Psychology"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21652",
+        "room_desc": "Sem&Prctm Teach Psy"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21653",
+        "room_desc": "Seminar in Forensic Psychology"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21654",
+        "room_desc": "Sensation and Perception"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21655",
+        "room_desc": "Sex and Culture"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21656",
+        "room_desc": "Sexual Harassment"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21657",
+        "room_desc": "Soc Psych & The Crim Just Syst"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21658",
+        "room_desc": "Soc Sci Evid In Cour"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21659",
+        "room_desc": "Social Psy&Legal Sy"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21660",
+        "room_desc": "Social Psychology"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21661",
+        "room_desc": "Social Psychopathology"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21662",
+        "room_desc": "Stress Management"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21663",
+        "room_desc": "Supervised Research"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21664",
+        "room_desc": "Supervised Research Exp Psy"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21665",
+        "room_desc": "Terrorism"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21666",
+        "room_desc": "Test and Measures"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21667",
+        "room_desc": "The Psychology of Terrorism"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21668",
+        "room_desc": "The psychology of cults"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21669",
+        "room_desc": "Thematic Internship"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21670",
+        "room_desc": "Thematic-Psychol"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21671",
+        "room_desc": "Theories of Personality"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21672",
+        "room_desc": "Therap Intrv Alch"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21673",
+        "room_desc": "Transdiag Mindfulness Treatmt"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21674",
+        "room_desc": "Transfer Cognate 1"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21675",
+        "room_desc": "Transfer Cognate 2"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21676",
+        "room_desc": "Transfer Cognate 3"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21677",
+        "room_desc": "Transfer Cognate IV"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21678",
+        "room_desc": "Transfer Elective 4"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21679",
+        "room_desc": "Transfer Elective I"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21680",
+        "room_desc": "Transfer Elective II"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21681",
+        "room_desc": "Transfer Elective III"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21682",
+        "room_desc": "Understanding Addiction"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21683",
+        "room_desc": "VictimCounseling&Psychotherapy"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21684",
+        "room_desc": "Victimology"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21685",
+        "room_desc": "Violence and Aggression"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21686",
+        "room_desc": "Youth Fam & Crj"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "21687",
+        "room_desc": "Youth21688: PUAD,\"Administ Law Regula"
+    },
+    {
+        "school": "JJC01",
+        "major": "PSYC",
+        "room_num": "87039",
+        "room_desc": "PSYC"
+    }
+]

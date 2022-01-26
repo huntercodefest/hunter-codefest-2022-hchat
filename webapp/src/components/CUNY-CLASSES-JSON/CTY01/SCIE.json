@@ -1,0 +1,584 @@
+[
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43949",
+        "room_desc": "Aerospace Wkshp 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43950",
+        "room_desc": "Aerospace Wkshp 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43951",
+        "room_desc": "Aerospace Wkshp 3"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43952",
+        "room_desc": "Aviation In Clsrm 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43953",
+        "room_desc": "Aviation In Clsrm 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43954",
+        "room_desc": "Basic Ecology"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43955",
+        "room_desc": "Basic Physicl Sci 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43956",
+        "room_desc": "Bioinfo & Biomol Sys"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43957",
+        "room_desc": "Biomed Rsrch Sem 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43958",
+        "room_desc": "Biomed Rsrch Sem 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43959",
+        "room_desc": "Biomed Rsrch Sem 3"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43960",
+        "room_desc": "Bmed Rsrch Sem 4"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43961",
+        "room_desc": "Bmed Rsrch Sem 5"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43962",
+        "room_desc": "CCAPP Summer Program"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43963",
+        "room_desc": "Cmp Sklls Bioinformt"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43964",
+        "room_desc": "Communicating Research and Sch"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43965",
+        "room_desc": "Disease and History"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43966",
+        "room_desc": "Earth Planetary Sci"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43967",
+        "room_desc": "Ecology Trng Wkshp"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43968",
+        "room_desc": "Engnrng Principles"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43969",
+        "room_desc": "Engr Principles 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43970",
+        "room_desc": "Env Mon/Service Lrng"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43971",
+        "room_desc": "Environ Energctics"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43972",
+        "room_desc": "Estuary Watrshd Eco"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43973",
+        "room_desc": "Frontier Sci Seminar"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43974",
+        "room_desc": "Frontier Science Seminar"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43975",
+        "room_desc": "Fund Of Sci Research"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43976",
+        "room_desc": "Geology"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43977",
+        "room_desc": "Global Change"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43978",
+        "room_desc": "Health & Wellness"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43979",
+        "room_desc": "Ind St Res"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43980",
+        "room_desc": "Inquiry/Infrml Sci"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43981",
+        "room_desc": "Inqy Human Ecology"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43982",
+        "room_desc": "Integ Sci M S Tchrs"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43983",
+        "room_desc": "Integ Sci Ms Tch 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43984",
+        "room_desc": "Intro To Botany"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43985",
+        "room_desc": "Intro To Chemistry"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43986",
+        "room_desc": "Intro To Health Disp"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43987",
+        "room_desc": "Intro To Zoology"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43988",
+        "room_desc": "Journey to the Center of the C"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43989",
+        "room_desc": "Life Sc Mid Sc Tch 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43990",
+        "room_desc": "Life Sc Mid Sc Tch 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43991",
+        "room_desc": "Life Science-El/Mid"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43992",
+        "room_desc": "Man and Nature: Life (Honors)"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43993",
+        "room_desc": "Mathematical Methods in Physic"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43994",
+        "room_desc": "Matter43995: SCIE,\"Mattr/Man/Macrcsm 3"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43996",
+        "room_desc": "Mod Concepts Bio 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43997",
+        "room_desc": "Molecular Biology"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43998",
+        "room_desc": "Msrmnts Mdlg & Cmpg"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "43999",
+        "room_desc": "N Y C Geology"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44000",
+        "room_desc": "Natrl Sci For Tchrs"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44001",
+        "room_desc": "Nature Of Science"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44002",
+        "room_desc": "Phy Sci Mid Sc Tch 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44003",
+        "room_desc": "Phy Sci Mid Scl Tch"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44004",
+        "room_desc": "Phys Sci & Envirn 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44005",
+        "room_desc": "Phys Sci & Immedte"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44006",
+        "room_desc": "Phys Sci Immed Envr"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44007",
+        "room_desc": "Phys Sci Md Sc Tc 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44008",
+        "room_desc": "Physical Science 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44009",
+        "room_desc": "Pjysical Science 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44010",
+        "room_desc": "Prep For Sci Study"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44011",
+        "room_desc": "Prin Of Physical Sci"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44012",
+        "room_desc": "Princip Environ Sci"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44013",
+        "room_desc": "Principles of Env Sci"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44014",
+        "room_desc": "Principles of Life Science"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44015",
+        "room_desc": "Principles of Physical Science"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44016",
+        "room_desc": "Prtcls/Plnets/Peopl"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44017",
+        "room_desc": "Reproduction-Heredit"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44018",
+        "room_desc": "Research Preparation"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44019",
+        "room_desc": "Salt Marsh Ecology"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44020",
+        "room_desc": "Sci Ed Pub Undrst 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44021",
+        "room_desc": "Sci Ed Pub Undrst 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44022",
+        "room_desc": "Sci Educ Pub Und 3"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44023",
+        "room_desc": "Sci Energy Civliztn"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44024",
+        "room_desc": "Sci Epistemology"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44025",
+        "room_desc": "Sci Hmlnd Security"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44026",
+        "room_desc": "Sci Medic Instrumentation"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44027",
+        "room_desc": "Sci Tech & Society"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44028",
+        "room_desc": "Sci Tech For Chld 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44029",
+        "room_desc": "Sci Tech For Chld 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44030",
+        "room_desc": "Sci Tech For Chld 3"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44031",
+        "room_desc": "Sci Tech For Chld 4"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44032",
+        "room_desc": "Science 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44033",
+        "room_desc": "Science I"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44034",
+        "room_desc": "Scientst:Coll Clsrm"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44035",
+        "room_desc": "Space Sci & Aviatn"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44036",
+        "room_desc": "Space Sci Mid Sc Edu"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44037",
+        "room_desc": "Srv Lrning in Hlth & Wellness"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44038",
+        "room_desc": "Struct Bioinfo Bioeng"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44039",
+        "room_desc": "Tch & Lrn Life Sci"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44040",
+        "room_desc": "Tch Strat For Mol Biop & Biom"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44041",
+        "room_desc": "Teaching Practicum for Molecul"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44042",
+        "room_desc": "The Art Of Science"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44043",
+        "room_desc": "The Physical Universe"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44044",
+        "room_desc": "The Scientist"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "44045",
+        "room_desc": "Wellness & Fitness"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "87951",
+        "room_desc": "SCIE"
+    }
+]

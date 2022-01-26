@@ -1,0 +1,326 @@
+[
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79234",
+        "room_desc": "African Diaspora Music"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79235",
+        "room_desc": "African Drumming II-Intermed"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79236",
+        "room_desc": "African Music Tradition"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79237",
+        "room_desc": "African/Carib Drum"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79238",
+        "room_desc": "Afro-American Music"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79239",
+        "room_desc": "Basic Musicianship"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79240",
+        "room_desc": "Caribbean Music"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79241",
+        "room_desc": "Chamber Ensemble"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79242",
+        "room_desc": "College Band I"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79243",
+        "room_desc": "College Band II"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79244",
+        "room_desc": "College Band III"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79245",
+        "room_desc": "College Band IV"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79246",
+        "room_desc": "College Choir I"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79247",
+        "room_desc": "College Choir II"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79248",
+        "room_desc": "College Choir IV"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79249",
+        "room_desc": "Cultural Diversity in Music I"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79250",
+        "room_desc": "Digital Music For Dance"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79251",
+        "room_desc": "Ear Training I"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79252",
+        "room_desc": "Elementary Band Instruments"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79253",
+        "room_desc": "Ensemble"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79254",
+        "room_desc": "Ensemble I"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79255",
+        "room_desc": "Ensemble II"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79256",
+        "room_desc": "History and Literature of Jazz"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79257",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79258",
+        "room_desc": "Inter Piano II"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79259",
+        "room_desc": "Intermed Piano I"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79260",
+        "room_desc": "Intro To Music"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79261",
+        "room_desc": "Intro to Music Technology"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79262",
+        "room_desc": "Introduction to World Music"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79263",
+        "room_desc": "Jazz Ensemble"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79264",
+        "room_desc": "Jazz Workshop"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79265",
+        "room_desc": "Music For Teach Ii"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79266",
+        "room_desc": "Music History II"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79267",
+        "room_desc": "Music Literature"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79268",
+        "room_desc": "Music Material Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79269",
+        "room_desc": "Music Materials I"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79270",
+        "room_desc": "Music Materials II"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79271",
+        "room_desc": "Music Materials Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79272",
+        "room_desc": "Music Recording"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79273",
+        "room_desc": "Music Sequencing I"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79274",
+        "room_desc": "Music Sequencing II"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79275",
+        "room_desc": "Music Synthesis"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79276",
+        "room_desc": "Music Theater Workshop"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79277",
+        "room_desc": "Performance I"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79278",
+        "room_desc": "Piano I"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79279",
+        "room_desc": "Piano II"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79280",
+        "room_desc": "Rudiments of Music"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79281",
+        "room_desc": "Song Writing"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79282",
+        "room_desc": "Steel Pan Band I-Beginners"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79283",
+        "room_desc": "Steel Pan II"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79284",
+        "room_desc": "Survey World Music"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79285",
+        "room_desc": "Voice"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "79286",
+        "room_desc": "West Indian Music"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "88290",
+        "room_desc": "MUSI"
+    }
+]

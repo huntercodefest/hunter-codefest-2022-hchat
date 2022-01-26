@@ -1,0 +1,512 @@
+[
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28303",
+        "room_desc": "19 - 20 C Theatre"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28304",
+        "room_desc": "Ad Comp/Exp Texts"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28305",
+        "room_desc": "Adv Conversation"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28306",
+        "room_desc": "Adv Translation"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28307",
+        "room_desc": "Advanced Composition"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28308",
+        "room_desc": "Advanced Compositon"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28309",
+        "room_desc": "Advanced Conversation"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28310",
+        "room_desc": "Advanced Grammar"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28311",
+        "room_desc": "Advanced Phonetics"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28312",
+        "room_desc": "Ariosto and Tasso"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28313",
+        "room_desc": "Art Of Translation 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28314",
+        "room_desc": "Art Of Translation I"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28315",
+        "room_desc": "Art and Humanism of Manzoni"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28316",
+        "room_desc": "Baroque Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28317",
+        "room_desc": "Carducci28318: ITAL,\"Commercial and Technical Ital"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28319",
+        "room_desc": "Contemporary Italian Poetry"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28320",
+        "room_desc": "Dante Petr Boccac"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28321",
+        "room_desc": "Dante Purgatorio"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28322",
+        "room_desc": "Dantes Minor Works"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28323",
+        "room_desc": "Dante\u2019s Divina Commedia"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28324",
+        "room_desc": "Decameron/Novella"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28325",
+        "room_desc": "Early Italian Lyric & Petrarch"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28326",
+        "room_desc": "Elem Italian"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28327",
+        "room_desc": "Elementary Italian I"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28328",
+        "room_desc": "Elementary Italian II"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28329",
+        "room_desc": "Hist Ital Literary Criticism"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28330",
+        "room_desc": "History of Italian Language"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28331",
+        "room_desc": "History of Italian Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28332",
+        "room_desc": "Humanism and the Renaissance"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28333",
+        "room_desc": "Intens El Ital 1-2"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28334",
+        "room_desc": "Inter Ital Conv"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28335",
+        "room_desc": "Inter Italian"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28336",
+        "room_desc": "Intermediate Italian I"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28337",
+        "room_desc": "Intermediate Italian II"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28338",
+        "room_desc": "Intro to Italian Culture"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28339",
+        "room_desc": "It Lyr Thr Petrar"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28340",
+        "room_desc": "Ital Comedy Renaiss 18th Cent"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28341",
+        "room_desc": "Ital Literature Orig-Trecento"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28342",
+        "room_desc": "Ital Reading & Translation II"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28343",
+        "room_desc": "Ital Renaissan 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28344",
+        "room_desc": "Ital Renaissance"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28345",
+        "room_desc": "Ital Theat/19-20C"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28346",
+        "room_desc": "Italian Civilization"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28347",
+        "room_desc": "Italian Cultural Studies"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28348",
+        "room_desc": "Italian Culture and Thought"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28349",
+        "room_desc": "Italian Film and Media"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28350",
+        "room_desc": "Italian Lit in Translation"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28351",
+        "room_desc": "Italian Rdg & Translation I"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28352",
+        "room_desc": "Italian Stylistics"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28353",
+        "room_desc": "Italian through Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28354",
+        "room_desc": "Italian through the Visual Art"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28355",
+        "room_desc": "Leopardi and Foscolo"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28356",
+        "room_desc": "Lit Crit Since 1870"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28357",
+        "room_desc": "Machiav/Guicciardini"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28358",
+        "room_desc": "Mod Lit: Theater"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28359",
+        "room_desc": "Practicum/Capstone"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28360",
+        "room_desc": "Problems in Italian Language"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28361",
+        "room_desc": "Read Mod It Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28362",
+        "room_desc": "Renaissance Study 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28363",
+        "room_desc": "Sem Exis & Ital Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28364",
+        "room_desc": "Seminar"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28365",
+        "room_desc": "Seminar Method/Lit/Cult Topics"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28366",
+        "room_desc": "Skills Translat 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28367",
+        "room_desc": "Special Problems"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28368",
+        "room_desc": "Studies Italian Cinema & Media"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28369",
+        "room_desc": "Studies Italian Lit & Culture"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28370",
+        "room_desc": "Studies in Medieval Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28371",
+        "room_desc": "Textual Analysis"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28372",
+        "room_desc": "The Contemporary Italian Novel"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28373",
+        "room_desc": "The Italian Language"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28374",
+        "room_desc": "The Modern Italian Novel"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28375",
+        "room_desc": "The Pre-Risorgimento Period."
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28376",
+        "room_desc": "Theory Of Film"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28377",
+        "room_desc": "Translation 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28378",
+        "room_desc": "Translation II"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28379",
+        "room_desc": "VT:Special Problems"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28380",
+        "room_desc": "Vt: Ren Lit II: Poetry"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28381",
+        "room_desc": "Vt:Med Lit II:Poetry"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28382",
+        "room_desc": "Vt:Medvl Lit III:Prose"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28383",
+        "room_desc": "Vt:Mod Lit 1:Theatre"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28384",
+        "room_desc": "Vt:Mod Lit II:Poetry"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28385",
+        "room_desc": "Vt:Mod Lit III: Prose"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28386",
+        "room_desc": "Vt:Ren Lit 1:Theatre"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "28387",
+        "room_desc": "Vt:Ren Lit III:Prose"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "87469",
+        "room_desc": "ITAL"
+    }
+]

@@ -1,0 +1,410 @@
+[
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27412",
+        "room_desc": "19c:Multifaceted Soc"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27413",
+        "room_desc": "Adv Conv & Comp II"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27414",
+        "room_desc": "Adv Gram/Style II"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27415",
+        "room_desc": "Adv Rdgs Ger Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27416",
+        "room_desc": "Age Schiller/Goethe"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27417",
+        "room_desc": "Art27418: GERM,\"Art27419: GERM,\"Civ In Middle Ages"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27420",
+        "room_desc": "Civ/Germ Speak Lands"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27421",
+        "room_desc": "Conversation Level I"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27422",
+        "room_desc": "Cs381 Modgerm Flm"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27423",
+        "room_desc": "Early German Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27424",
+        "room_desc": "Elem German Read"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27425",
+        "room_desc": "Elem Grmn Rdng Purp"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27426",
+        "room_desc": "Elementary German"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27427",
+        "room_desc": "Elementary German I"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27428",
+        "room_desc": "Elementary German II"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27429",
+        "room_desc": "Enlight - Romantic"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27430",
+        "room_desc": "Enlit Storm Stres"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27431",
+        "room_desc": "Germ Bus & Ind"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27432",
+        "room_desc": "German - Bus & Indus"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27433",
+        "room_desc": "German Culture In NYC"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27434",
+        "room_desc": "German Cultures and Thought"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27435",
+        "room_desc": "German Enlightenment"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27436",
+        "room_desc": "German Film"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27437",
+        "room_desc": "German Film and Media"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27438",
+        "room_desc": "German Lit  in Translation"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27439",
+        "room_desc": "German Lit & Modernity"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27440",
+        "room_desc": "German Lit in Translatiion"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27441",
+        "room_desc": "German Media of Today"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27442",
+        "room_desc": "German Novels"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27443",
+        "room_desc": "German Poetry"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27444",
+        "room_desc": "German for the Arts"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27445",
+        "room_desc": "Goethe\u2019S Faust 1 & 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27446",
+        "room_desc": "Grmn Lit- Indstrl Age"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27447",
+        "room_desc": "Grmn Thtre Lsng Henr Mlr"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27448",
+        "room_desc": "Independent Studies"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27449",
+        "room_desc": "Int Drm Conv Rdg"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27450",
+        "room_desc": "Intensive German I-II"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27451",
+        "room_desc": "Intensive German III-IV"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27452",
+        "room_desc": "Inter Germ Conv"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27453",
+        "room_desc": "Inter Germ/Arts"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27454",
+        "room_desc": "Inter Germ/Sci"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27455",
+        "room_desc": "Intermediate German"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27456",
+        "room_desc": "Intermediate German I"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27457",
+        "room_desc": "Intermediate German II"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27458",
+        "room_desc": "Minorities in Germany"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27459",
+        "room_desc": "Modern Germany"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27460",
+        "room_desc": "Pltcs27461: GERM,\"Politics/Relig/German Soc II"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27462",
+        "room_desc": "Read German Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27463",
+        "room_desc": "Readings In Mod Germ Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27464",
+        "room_desc": "Realism"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27465",
+        "room_desc": "Ren/Reform/Baroque"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27466",
+        "room_desc": "Renaiss & Baroque"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27467",
+        "room_desc": "Romanticism"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27468",
+        "room_desc": "Scientific German"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27469",
+        "room_desc": "Sem German Civ"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27470",
+        "room_desc": "Sem Lit/Thought"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27471",
+        "room_desc": "Seminar"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27472",
+        "room_desc": "Seminar Faust"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27473",
+        "room_desc": "Seminar In Germ Civ"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27474",
+        "room_desc": "Struct Mod Grm"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27475",
+        "room_desc": "Survey of German Literature I"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27476",
+        "room_desc": "Survey of German Literature II"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27477",
+        "room_desc": "The 20th Century"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27478",
+        "room_desc": "The Age of Goethe"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27479",
+        "room_desc": "Thesis Research"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27480",
+        "room_desc": "Vt:Mod German Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "27481",
+        "room_desc": "Vt:Signific Authors"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "87474",
+        "room_desc": "GERM"
+    }
+]

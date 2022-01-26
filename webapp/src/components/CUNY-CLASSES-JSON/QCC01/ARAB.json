@@ -1,0 +1,26 @@
+[
+    {
+        "school": "QCC01",
+        "major": "ARAB",
+        "room_num": "22180",
+        "room_desc": "Elementary Arabic I"
+    },
+    {
+        "school": "QCC01",
+        "major": "ARAB",
+        "room_num": "22181",
+        "room_desc": "Elementary Arabic II"
+    },
+    {
+        "school": "QCC01",
+        "major": "ARAB",
+        "room_num": "22182",
+        "room_desc": "Intermediate Arabic I"
+    },
+    {
+        "school": "QCC01",
+        "major": "ARAB",
+        "room_num": "87894",
+        "room_desc": "ARAB"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "school": "CTY01",
+        "major": "ACCT",
+        "room_num": "31215",
+        "room_desc": "Principles 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "ACCT",
+        "room_num": "31216",
+        "room_desc": "Principles 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "ACCT",
+        "room_num": "31217",
+        "room_desc": "Survey Of Accouting"
+    },
+    {
+        "school": "CTY01",
+        "major": "ACCT",
+        "room_num": "87975",
+        "room_desc": "ACCT"
+    }
+]

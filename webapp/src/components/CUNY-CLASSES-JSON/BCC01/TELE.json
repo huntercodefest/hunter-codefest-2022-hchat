@@ -1,0 +1,56 @@
+[
+    {
+        "school": "BCC01",
+        "major": "TELE",
+        "room_num": "69521",
+        "room_desc": "Advanced Topics"
+    },
+    {
+        "school": "BCC01",
+        "major": "TELE",
+        "room_num": "69522",
+        "room_desc": "Data Communications"
+    },
+    {
+        "school": "BCC01",
+        "major": "TELE",
+        "room_num": "69523",
+        "room_desc": "Local Area Networks"
+    },
+    {
+        "school": "BCC01",
+        "major": "TELE",
+        "room_num": "69524",
+        "room_desc": "Telecommunications I"
+    },
+    {
+        "school": "BCC01",
+        "major": "TELE",
+        "room_num": "69525",
+        "room_desc": "Telecommunications II"
+    },
+    {
+        "school": "BCC01",
+        "major": "TELE",
+        "room_num": "69526",
+        "room_desc": "Telecommunications III"
+    },
+    {
+        "school": "BCC01",
+        "major": "TELE",
+        "room_num": "69527",
+        "room_desc": "Telecommunications IV"
+    },
+    {
+        "school": "BCC01",
+        "major": "TELE",
+        "room_num": "69528",
+        "room_desc": "Voice Communications"
+    },
+    {
+        "school": "BCC01",
+        "major": "TELE",
+        "room_num": "87336",
+        "room_desc": "TELE"
+    }
+]

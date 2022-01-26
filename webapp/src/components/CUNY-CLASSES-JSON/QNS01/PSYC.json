@@ -1,0 +1,1508 @@
+[
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30102",
+        "room_desc": "ABA: Measure & Applied Proj I"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30103",
+        "room_desc": "ABA: Measure&Applied Proj II"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30104",
+        "room_desc": "Ablation/Hist Techni"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30105",
+        "room_desc": "Abnormal Psych"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30106",
+        "room_desc": "Adv Behavioral Neuroscience"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30107",
+        "room_desc": "Adv Develop Psych"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30108",
+        "room_desc": "Adv Exp Psy: ABA"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30109",
+        "room_desc": "Adv Exp Psy: Cognition"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30110",
+        "room_desc": "Adv Exp Psy: Human Mem"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30111",
+        "room_desc": "Adv Exp Psy: Neurobio"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30112",
+        "room_desc": "Adv Exp Psy: Sens/Perc"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30113",
+        "room_desc": "Adv Exp Psy: Soc Pers"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30114",
+        "room_desc": "Adv Exp Psych: Clinical"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30115",
+        "room_desc": "Adv Exp Psych: Learning"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30116",
+        "room_desc": "Adv Exp Psychopa"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30117",
+        "room_desc": "Adv Exper Psych 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30118",
+        "room_desc": "Adv Exper Psych I"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30119",
+        "room_desc": "Adv Experimental"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30120",
+        "room_desc": "Adv Pract Acad Advsmt Pysch"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30121",
+        "room_desc": "Adv Social Psy"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30122",
+        "room_desc": "Advanced Practicum: Autism"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30123",
+        "room_desc": "Analytic Theory"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30124",
+        "room_desc": "Appl Beh Mod"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30125",
+        "room_desc": "Appl Of Beh Mod"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30126",
+        "room_desc": "Apps Bhvior Analys Animal Trng"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30127",
+        "room_desc": "Assess Intel Func"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30128",
+        "room_desc": "Assess Intell Func"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30129",
+        "room_desc": "Assessment Pers"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30130",
+        "room_desc": "Autism"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30131",
+        "room_desc": "Basic Neuroscience: Behavioral"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30132",
+        "room_desc": "Basic Neuroscience: Cognitive"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30133",
+        "room_desc": "Basic Neuroscience: Molecular"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30134",
+        "room_desc": "Basic Neuroscience: Systems Ne"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30135",
+        "room_desc": "Beh Int In Dev Disab"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30136",
+        "room_desc": "Beh Intervention Chl"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30137",
+        "room_desc": "Behave Sci & Bus"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30138",
+        "room_desc": "Behavior Analysis of Child Dev"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30139",
+        "room_desc": "Behavior Genetics"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30140",
+        "room_desc": "Behavior Intervention in Disab"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30141",
+        "room_desc": "Behavior Mod"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30142",
+        "room_desc": "Behavior Mod 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30143",
+        "room_desc": "Behavior Modific 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30144",
+        "room_desc": "Behavior Modific 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30145",
+        "room_desc": "Behavior Modifica"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30146",
+        "room_desc": "Behavioral Neuroscience"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30147",
+        "room_desc": "Bio Feedback"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30148",
+        "room_desc": "Brain & Mind"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30149",
+        "room_desc": "Categ&Concept Form"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30150",
+        "room_desc": "Categories&Concepts"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30151",
+        "room_desc": "Chem/Metab Technique"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30152",
+        "room_desc": "Clinical Psychopharmacology"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30153",
+        "room_desc": "Close Relationships"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30154",
+        "room_desc": "Cogn & Affective Aspect Behave"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30155",
+        "room_desc": "Cognition"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30156",
+        "room_desc": "Cognitive Develop"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30157",
+        "room_desc": "Cognitive Neuroscience"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30158",
+        "room_desc": "Cognitive Psychology"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30159",
+        "room_desc": "Colloquium"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30160",
+        "room_desc": "Comparative Psych"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30161",
+        "room_desc": "Comple Psy Therapy"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30162",
+        "room_desc": "Consumer Psychology"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30163",
+        "room_desc": "Cont Psychotherapy"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30164",
+        "room_desc": "Contemporary Psychotherapies"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30165",
+        "room_desc": "Cooperative Educ Placement"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30166",
+        "room_desc": "Death & Dying"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30167",
+        "room_desc": "Design of Psych Research"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30168",
+        "room_desc": "Dev Disab II: Funct Assessment"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30169",
+        "room_desc": "Dev Psy: Adolescence"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30170",
+        "room_desc": "Dev Psy: Adulthood & Aging"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30171",
+        "room_desc": "Dev Psy: Infant And Child"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30172",
+        "room_desc": "Develop Disabiltie"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30173",
+        "room_desc": "Develop Neuropsych"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30174",
+        "room_desc": "Develop Psych Aging"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30175",
+        "room_desc": "Developmental Disabilities"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30176",
+        "room_desc": "Developmental Disability I"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30177",
+        "room_desc": "Developmental Psychology I"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30178",
+        "room_desc": "Developmental Psychology II"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30179",
+        "room_desc": "Disorders Childhood & Adolesce"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30180",
+        "room_desc": "Eating Behavior"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30181",
+        "room_desc": "Ethical Issues in Psychology"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30182",
+        "room_desc": "Ethics"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30183",
+        "room_desc": "Evolutionary Psychology"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30184",
+        "room_desc": "Experimental Psychology"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30185",
+        "room_desc": "Externship Training"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30186",
+        "room_desc": "Field Work"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30187",
+        "room_desc": "Fieldwk:Asses Intell"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30188",
+        "room_desc": "Fieldwork Consumer Psychology"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30189",
+        "room_desc": "Fieldwork Personnel Psy"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30190",
+        "room_desc": "Fieldwork Personnel Psychology"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30191",
+        "room_desc": "Fieldwork Project in ABA"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30192",
+        "room_desc": "Fld Wk Externship"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30193",
+        "room_desc": "Fld Wk Seminar"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30194",
+        "room_desc": "Fldwk Consumer Psych"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30195",
+        "room_desc": "Fldwrk Consumer Psy"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30196",
+        "room_desc": "Fldwrk Ment Hlth Set"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30197",
+        "room_desc": "Fldwrk in Personnel Psychology"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30198",
+        "room_desc": "General Psychology"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30199",
+        "room_desc": "Gerontology"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30200",
+        "room_desc": "Handicapped Child"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30201",
+        "room_desc": "Health Psychology"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30202",
+        "room_desc": "Hist & Systems of Psychology"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30203",
+        "room_desc": "Hist Sys Of Psy"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30204",
+        "room_desc": "Hist/Syst Of Psych"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30205",
+        "room_desc": "History & Systems"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30206",
+        "room_desc": "History Of Psy"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30207",
+        "room_desc": "History of Psychology"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30208",
+        "room_desc": "Hormones & Behavior"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30209",
+        "room_desc": "Hormones and Behav"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30210",
+        "room_desc": "Human Memory"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30211",
+        "room_desc": "Human Motivation"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30212",
+        "room_desc": "Human Relations"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30213",
+        "room_desc": "Inform/Decision Processes"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30214",
+        "room_desc": "Innov Tch of Psy"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30215",
+        "room_desc": "Int Psyanal Theo"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30216",
+        "room_desc": "Intellectual Disabilities"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30217",
+        "room_desc": "Intro Behav Neuroscience"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30218",
+        "room_desc": "Intro Clinical Psych"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30219",
+        "room_desc": "Intro Indust & Organ Psych"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30220",
+        "room_desc": "Intro Lrn & Beh Analysis"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30221",
+        "room_desc": "Intro Prof Func"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30222",
+        "room_desc": "Intro Psy Nat Sci"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30223",
+        "room_desc": "Intro Psych Testing"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30224",
+        "room_desc": "Intro Psychoanal"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30225",
+        "room_desc": "Intro to Psychoanalytic Theory"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30226",
+        "room_desc": "Learning"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30227",
+        "room_desc": "Learning Lab"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30228",
+        "room_desc": "Life Management"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30229",
+        "room_desc": "Life-Span Dev Psych"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30230",
+        "room_desc": "Life-Span Develop"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30231",
+        "room_desc": "Lifespan Developmental Psych"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30232",
+        "room_desc": "Measurement of Abilities"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30233",
+        "room_desc": "Molecular Neuroscience"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30234",
+        "room_desc": "Motivation and Reinforcement"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30235",
+        "room_desc": "Neural Dev & Behav"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30236",
+        "room_desc": "Neuropsy Learning"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30237",
+        "room_desc": "Neuropsy Perception"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30238",
+        "room_desc": "Neurosci Methods II: Quantitat"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30239",
+        "room_desc": "Neurosci Mthd I: Stats & Rsrch"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30240",
+        "room_desc": "Neurosci:  Neuroanatomy"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30241",
+        "room_desc": "Neuroscience of Memory"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30242",
+        "room_desc": "Neuroscience: Neurophysiology"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30243",
+        "room_desc": "Organiz Performance Manangemen"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30244",
+        "room_desc": "Organizational Perform Managem"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30245",
+        "room_desc": "Perception&Cognition Developmt"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30246",
+        "room_desc": "Pers Ind Psych"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30247",
+        "room_desc": "Person Assess w/Std Obj Meas"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30248",
+        "room_desc": "Personal Adjust"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30249",
+        "room_desc": "Personality"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30250",
+        "room_desc": "Philo Approach"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30251",
+        "room_desc": "Physiol Psy 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30252",
+        "room_desc": "Physiological Psych"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30253",
+        "room_desc": "Pleasure & Pain"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30254",
+        "room_desc": "Pleasure and Pain"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30255",
+        "room_desc": "Prac Appld Behavior"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30256",
+        "room_desc": "Prac:Interview&Personality App"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30257",
+        "room_desc": "Pract Appl Behav Analys"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30258",
+        "room_desc": "Pract: Inter Child with Autism"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30259",
+        "room_desc": "Pract: Psych Academic Advismnt"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30260",
+        "room_desc": "Practicum in Psychopathology"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30261",
+        "room_desc": "Princ of Drug Action"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30262",
+        "room_desc": "Problems in Psychology"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30263",
+        "room_desc": "Proseminar"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30264",
+        "room_desc": "Psy Behav Devlpmt"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30265",
+        "room_desc": "Psy Disor Ch & Adol"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30266",
+        "room_desc": "Psy Individual Diff"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30267",
+        "room_desc": "Psy Motivation"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30268",
+        "room_desc": "Psy Of Pers"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30269",
+        "room_desc": "Psy Of Sex & Gender"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30270",
+        "room_desc": "Psy Personal Adj"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30271",
+        "room_desc": "Psy Social Behavior"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30272",
+        "room_desc": "Psy of Learn Dis"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30273",
+        "room_desc": "Psy of Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30274",
+        "room_desc": "Psy/Criminality"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30275",
+        "room_desc": "Psy/Disorder Chld"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30276",
+        "room_desc": "Psyanal Th Postfreud"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30277",
+        "room_desc": "Psyanal Thy Freud"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30278",
+        "room_desc": "Psych Measurement"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30279",
+        "room_desc": "Psych Pers Adjust"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30280",
+        "room_desc": "Psych Pers Adjustm"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30281",
+        "room_desc": "Psych Test & Meas"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30282",
+        "room_desc": "Psych of Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30283",
+        "room_desc": "Psych of Sex Role"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30284",
+        "room_desc": "Psychoanal Psy"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30285",
+        "room_desc": "Psychoanal Theo"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30286",
+        "room_desc": "Psychoanaly Th 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30287",
+        "room_desc": "Psychology of Aging"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30288",
+        "room_desc": "Psychology of Human Motivation"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30289",
+        "room_desc": "Psychology of Learning"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30290",
+        "room_desc": "Psychology of Perception"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30291",
+        "room_desc": "Psychology of Sex Roles"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30292",
+        "room_desc": "Psychometric Methods"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30293",
+        "room_desc": "Psychometrics"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30294",
+        "room_desc": "Psychopath & Crim"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30295",
+        "room_desc": "Psychopathology"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30296",
+        "room_desc": "Psychopathology II."
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30297",
+        "room_desc": "Psychopharmacology"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30298",
+        "room_desc": "Psychophysical Meth"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30299",
+        "room_desc": "Quantitative Methods in Psych"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30300",
+        "room_desc": "Record/Stim Techniq"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30301",
+        "room_desc": "Res In Instructn"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30302",
+        "room_desc": "Res and Instr"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30303",
+        "room_desc": "Research Design"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30304",
+        "room_desc": "Research Practicum"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30305",
+        "room_desc": "Self Awareness 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30306",
+        "room_desc": "Self Awareness Trn 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30307",
+        "room_desc": "Self-Aware Train 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30308",
+        "room_desc": "Self-Aware Train 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30309",
+        "room_desc": "Self-Awareness 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30310",
+        "room_desc": "Self-Awareness Training"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30311",
+        "room_desc": "Sensation and Perception"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30312",
+        "room_desc": "Sensory Psychology"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30313",
+        "room_desc": "Sensory and Motor Systems"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30314",
+        "room_desc": "Sex Roles and Psychopathology"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30315",
+        "room_desc": "Sex Roles/Mntl Hlth"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30316",
+        "room_desc": "Sexual Behav"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30317",
+        "room_desc": "Sexual Behavior"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30318",
+        "room_desc": "Social Behavior"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30319",
+        "room_desc": "Social Psych"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30320",
+        "room_desc": "Social Psychology."
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30321",
+        "room_desc": "Spec Topics:Autism"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30322",
+        "room_desc": "Special Problems"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30323",
+        "room_desc": "Special Problems - Research"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30324",
+        "room_desc": "Srvy Psychotherpy Counsel"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30325",
+        "room_desc": "Stat Tech Beh Psy"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30326",
+        "room_desc": "Stat Tech Beh Sci"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30327",
+        "room_desc": "Stat Techniques"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30328",
+        "room_desc": "Statistical Meth"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30329",
+        "room_desc": "Statistical Methods"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30330",
+        "room_desc": "Statistical Methods I"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30331",
+        "room_desc": "Statistical Methods II"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30332",
+        "room_desc": "Statistical Methods Laboratory"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30333",
+        "room_desc": "Stimulus Control of Behavior"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30334",
+        "room_desc": "Supervised Practicum in ABA"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30335",
+        "room_desc": "Survey Psychother"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30336",
+        "room_desc": "Survey Psychotherapy"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30337",
+        "room_desc": "Techniq Hmn Neuropsy"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30338",
+        "room_desc": "The Psychology of Personality"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30339",
+        "room_desc": "Theories of Association"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30340",
+        "room_desc": "Theory & Method in ABA I"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30341",
+        "room_desc": "Theory and Method in ABA II"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30342",
+        "room_desc": "Thesis Seminar"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30343",
+        "room_desc": "Thry Anal Psy Mea"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30344",
+        "room_desc": "Undergraduate Internship"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30345",
+        "room_desc": "VT: Adv Exp/Res Psych"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30346",
+        "room_desc": "VT: Problems in Psychology"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30347",
+        "room_desc": "VT: Sem in Select Topics Psych"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30348",
+        "room_desc": "VT: Seminar in Selected Topics"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30349",
+        "room_desc": "Vt: Adv Experimental Psych"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30350",
+        "room_desc": "Vt:Innov Teach Psych"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "30351",
+        "room_desc": "Women & Ment Hlth"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "87425",
+        "room_desc": "PSYC"
+    }
+]

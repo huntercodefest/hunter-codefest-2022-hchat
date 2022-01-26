@@ -1,0 +1,578 @@
+[
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47191",
+        "room_desc": "AA Literature: Debates & Disp"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47192",
+        "room_desc": "Adv Topics: Lit Asian"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47193",
+        "room_desc": "Adv Topics:Asian Amer Society"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47194",
+        "room_desc": "Amer Trad  Asian American Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47195",
+        "room_desc": "Anthropology of Asian Diaspora"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47196",
+        "room_desc": "Arab American Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47197",
+        "room_desc": "Arab Migration to US"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47198",
+        "room_desc": "Arb Amer:Img47199: ASAM,\"Asian - American Theater"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47200",
+        "room_desc": "Asian Amer Civil Rghts & Law"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47201",
+        "room_desc": "Asian Amer Comm & Mntl Hlth"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47202",
+        "room_desc": "Asian Amer Communi & Pub Pol"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47203",
+        "room_desc": "Asian Amer Eth Eco & Urban"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47204",
+        "room_desc": "Asian Amer History Labor/Polit"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47205",
+        "room_desc": "Asian Amer Lit & English Lang"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47206",
+        "room_desc": "Asian Amer Lit & Ethno Image"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47207",
+        "room_desc": "Asian Amer Literature  Culture"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47208",
+        "room_desc": "Asian Amer Make Amer"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47209",
+        "room_desc": "Asian Amer Mvmnt&Commnty Org"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47210",
+        "room_desc": "Asian Amer Studies Internship"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47211",
+        "room_desc": "Asian Amer Transracial Adopt"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47212",
+        "room_desc": "Asian Amer Woman:Performance"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47213",
+        "room_desc": "Asian Amer Women Narrative"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47214",
+        "room_desc": "Asian American & Education"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47215",
+        "room_desc": "Asian American Art"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47216",
+        "room_desc": "Asian American Experience"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47217",
+        "room_desc": "Asian American Family"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47218",
+        "room_desc": "Asian American Feminism"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47219",
+        "room_desc": "Asian American Lit: NY & LA"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47220",
+        "room_desc": "Asian American Literary Theory"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47221",
+        "room_desc": "Asian American Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47222",
+        "room_desc": "Asian American Memoir"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47223",
+        "room_desc": "Asian American Movement"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47224",
+        "room_desc": "Asian American Poetics"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47225",
+        "room_desc": "Asian American Queerness"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47226",
+        "room_desc": "Asian American Socl Prot Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47227",
+        "room_desc": "Asian American Studies"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47228",
+        "room_desc": "Asian American Women"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47229",
+        "room_desc": "Asian American Women Writers"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47230",
+        "room_desc": "Asian Diasporas"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47231",
+        "room_desc": "Asian Migration History"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47232",
+        "room_desc": "Asian Pacific American Media"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47233",
+        "room_desc": "Asian-Pac American Media"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47234",
+        "room_desc": "Asians in NYC"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47235",
+        "room_desc": "Asians in the United States"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47236",
+        "room_desc": "Asians:Latin Amer & Caribbean"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47237",
+        "room_desc": "Central Asian Literature/Film"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47238",
+        "room_desc": "China Since 1800"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47239",
+        "room_desc": "Chinese in the U.S."
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47240",
+        "room_desc": "Comm Asian Amer Studies"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47241",
+        "room_desc": "Community Organizing"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47242",
+        "room_desc": "Contempory Filipino-Amer Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47243",
+        "room_desc": "East Asia to 1600"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47244",
+        "room_desc": "Eng Lang:S. Asian Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47245",
+        "room_desc": "Ethnicity and American English"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47246",
+        "room_desc": "Filipino American Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47247",
+        "room_desc": "Filipino-American"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47248",
+        "room_desc": "Gender & Dev:Asia & Aamer"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47249",
+        "room_desc": "Gender - Asian Amer Lit & Film"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47250",
+        "room_desc": "Globalization47251: ASAM,\"Gnd Genre Asia American"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47252",
+        "room_desc": "Human Rights in China"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47253",
+        "room_desc": "Imagining Asia"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47254",
+        "room_desc": "Immigration & The Economy"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47255",
+        "room_desc": "Immigration Policy"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47256",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47257",
+        "room_desc": "International Migration"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47258",
+        "room_desc": "Intro:Writ About Asian Am Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47259",
+        "room_desc": "Japanese Internment"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47260",
+        "room_desc": "Japanese in the United States"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47261",
+        "room_desc": "Korean American Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47262",
+        "room_desc": "Korean Americans"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47263",
+        "room_desc": "LGBTQ Asian America"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47264",
+        "room_desc": "Language & Ethnicity"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47265",
+        "room_desc": "Mixed Race Asian America"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47266",
+        "room_desc": "Muslim Diasporas"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47267",
+        "room_desc": "Nation Self and Asian Identity"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47268",
+        "room_desc": "New Dir in Asian Amer Cinema"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47269",
+        "room_desc": "North American Chinese Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47270",
+        "room_desc": "Oral History47271: ASAM,\"Pacific Islander Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47272",
+        "room_desc": "Passport Readings"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47273",
+        "room_desc": "Politics & Asian Identity"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47274",
+        "room_desc": "Race & Ethnicity Pol NY"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47275",
+        "room_desc": "Researching Asian Amer Commun"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47276",
+        "room_desc": "Rising China\u2019s Challenge"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47277",
+        "room_desc": "South Asian Community in US"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47278",
+        "room_desc": "South Asian Migration History"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47279",
+        "room_desc": "South Asian Women\u2019s Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47280",
+        "room_desc": "South Asians in the US"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47281",
+        "room_desc": "Southeast Asians in America"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47282",
+        "room_desc": "Survey of Asian American Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47283",
+        "room_desc": "Topics: Asian American Society"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47284",
+        "room_desc": "Twi: Asian Media"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47285",
+        "room_desc": "Vietnam thru Literature & Film"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47286",
+        "room_desc": "Western Asian Amer Lit & Film"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47287",
+        "room_desc": "Women in Contempory China"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "47288",
+        "room_desc": "Women of East Asia"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "87704",
+        "room_desc": "ASAM"
+    }
+]

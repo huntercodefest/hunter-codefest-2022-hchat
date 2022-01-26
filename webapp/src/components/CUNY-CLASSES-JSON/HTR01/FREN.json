@@ -1,0 +1,812 @@
+[
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51518",
+        "room_desc": "17th Cent French Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51519",
+        "room_desc": "17th-Century French Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51520",
+        "room_desc": "18th Cen Art Pr:Mont-Cham"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51521",
+        "room_desc": "18th Century Novel & Theatre"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51522",
+        "room_desc": "18th Century: Special Topics"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51523",
+        "room_desc": "18th-Century French Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51524",
+        "room_desc": "19th C Fre Lit 1850-"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51525",
+        "room_desc": "19th Cen French Lit 1800-1850"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51526",
+        "room_desc": "19th Cen French Lit 1850-1900"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51527",
+        "room_desc": "19th Century French Theatre"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51528",
+        "room_desc": "19th Century: Special Topics"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51529",
+        "room_desc": "20th Cen French Lit 1900-1950"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51530",
+        "room_desc": "20th Century French Poetry"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51531",
+        "room_desc": "20th Century: Special Topics"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51532",
+        "room_desc": "Advanced French Conversation"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51533",
+        "room_desc": "Advanced French Grammar"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51534",
+        "room_desc": "Aspects of 20 Century"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51535",
+        "room_desc": "Aspects of 20th-Century"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51536",
+        "room_desc": "Balzac and Stendhal"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51537",
+        "room_desc": "Basic Course in French"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51538",
+        "room_desc": "Baudelaire-Symbolis"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51539",
+        "room_desc": "Champlain to Zack Attack Fr Am"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51540",
+        "room_desc": "Contem French Lit 1950-Present"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51541",
+        "room_desc": "Contemporary French Culture"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51542",
+        "room_desc": "Contemporary Novel"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51543",
+        "room_desc": "Contempory French Culture"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51544",
+        "room_desc": "Contempory French Lit 1950-Pr"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51545",
+        "room_desc": "Deplacement-Voyage"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51546",
+        "room_desc": "Descartes and Pascal"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51547",
+        "room_desc": "Diderot"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51548",
+        "room_desc": "Diderot&The Encyclop"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51549",
+        "room_desc": "Dream and Image"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51550",
+        "room_desc": "Early Fren Civ: Gothic to Rev"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51551",
+        "room_desc": "Elem Fren I Audio/Visual Methd"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51552",
+        "room_desc": "Elementary French 1 Audio Vis"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51553",
+        "room_desc": "Elementary French 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51554",
+        "room_desc": "Elementary French 2 Audio Vis"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51555",
+        "room_desc": "Elementary French I"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51556",
+        "room_desc": "Epistolary Novel"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51557",
+        "room_desc": "Era of Chateaubriand"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51558",
+        "room_desc": "Exile51559: FREN,\"Exile51560: FREN,\"Existentialist Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51561",
+        "room_desc": "Explication De Texte"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51562",
+        "room_desc": "Film and the French Novel"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51563",
+        "room_desc": "Flaubert51564: FREN,\"Fr Lit:Fr Wr Per Amr"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51565",
+        "room_desc": "Fren Conv & Cult Enric"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51566",
+        "room_desc": "French Cinema"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51567",
+        "room_desc": "French Conversation"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51568",
+        "room_desc": "French Cross Current Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51569",
+        "room_desc": "French Culture 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51570",
+        "room_desc": "French Culture I"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51571",
+        "room_desc": "French Fict:Romantci-Decadence"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51572",
+        "room_desc": "French Lit:Fr Writers Per Amer"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51573",
+        "room_desc": "French Literature and the Arts"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51574",
+        "room_desc": "French Moralists Class Period"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51575",
+        "room_desc": "French Moralists-Class Period"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51576",
+        "room_desc": "French Novel Transl 1990-Pres"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51577",
+        "room_desc": "French Novel in Translation"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51578",
+        "room_desc": "French Oral & Written Express"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51579",
+        "room_desc": "French Phonetics and Diction"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51580",
+        "room_desc": "French Poetry in Translation"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51581",
+        "room_desc": "French Theatre in Translation"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51582",
+        "room_desc": "French Tragedy of 17th Century"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51583",
+        "room_desc": "French Translation"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51584",
+        "room_desc": "French for Francophones"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51585",
+        "room_desc": "French for Reading & Research"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51586",
+        "room_desc": "Genre Studies 3"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51587",
+        "room_desc": "Genre Studies I: French Poetry"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51588",
+        "room_desc": "Gide and Proust"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51589",
+        "room_desc": "History of the French Language"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51590",
+        "room_desc": "Honors Course in French"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51591",
+        "room_desc": "Imaginary Libraries"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51592",
+        "room_desc": "In Service"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51593",
+        "room_desc": "Independant Study"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51594",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51595",
+        "room_desc": "Intelt Trnds in 19C"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51596",
+        "room_desc": "Intensive Elementary French"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51597",
+        "room_desc": "Intensive Intermediate French"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51598",
+        "room_desc": "Inter Fren Aud Vis"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51599",
+        "room_desc": "Inter Grammar & Composition"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51600",
+        "room_desc": "Interm Frech 1- Audio Visual"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51601",
+        "room_desc": "Interm French 2-Audio Visual"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51602",
+        "room_desc": "Intermediate French  2 (Lit)"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51603",
+        "room_desc": "Intermediate French I"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51604",
+        "room_desc": "Intermediate French II"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51605",
+        "room_desc": "Literary Cross-Currents"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51606",
+        "room_desc": "Lumieres Et Progres"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51607",
+        "room_desc": "Main Currents French Renaiss"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51608",
+        "room_desc": "Materialism: 18th Century"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51609",
+        "room_desc": "Med/Reinaaiss French Literat"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51610",
+        "room_desc": "Medieval French Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51611",
+        "room_desc": "Medieval French Literature 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51612",
+        "room_desc": "Methods of Research"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51613",
+        "room_desc": "Mod Fren Theatre Theory & Prac"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51614",
+        "room_desc": "Modern French Civilization"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51615",
+        "room_desc": "Modern French Theatre"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51616",
+        "room_desc": "Myth Dream Image"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51617",
+        "room_desc": "New Approaches-Modern Frn Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51618",
+        "room_desc": "Paris in NY"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51619",
+        "room_desc": "Persp on Women in French Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51620",
+        "room_desc": "Perspec on Literature & Arts"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51621",
+        "room_desc": "Proust: Rem of Th Ps1"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51622",
+        "room_desc": "Question De Culture"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51623",
+        "room_desc": "Rabelais and Montaigne"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51624",
+        "room_desc": "Rabelais-Montaigne"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51625",
+        "room_desc": "Realist Cinema"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51626",
+        "room_desc": "Realist Trd: French Cinema"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51627",
+        "room_desc": "Realist Trd:French Cinema"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51628",
+        "room_desc": "Renaissance Poetry"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51629",
+        "room_desc": "Romanticism and the Parnasse"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51630",
+        "room_desc": "Savoir et anx la Renaiss"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51631",
+        "room_desc": "Second Language Acquisition"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51632",
+        "room_desc": "Sel Masterpieces of French Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51633",
+        "room_desc": "Sem. in French Lit History"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51634",
+        "room_desc": "Seminar in French Literary His"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51635",
+        "room_desc": "Sp Tp:Dramatic Trans"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51636",
+        "room_desc": "Sp Tp:Enlghtmnt Thgh"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51637",
+        "room_desc": "Special Topics in French Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51638",
+        "room_desc": "Srv:Francophone Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51639",
+        "room_desc": "Studies 18C Fre Thtr"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51640",
+        "room_desc": "Studies in French Criticism"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51641",
+        "room_desc": "Survey French Literature 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51642",
+        "room_desc": "Survey of French Literature 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51643",
+        "room_desc": "Survey: Francophone Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51644",
+        "room_desc": "Symbolism to Surreal"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51645",
+        "room_desc": "Tales & Shortstories"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51646",
+        "room_desc": "The 17th Century"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51647",
+        "room_desc": "The Medieval Theatre"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51648",
+        "room_desc": "Theatre of Moliere"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51649",
+        "room_desc": "Theatre of Molire"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51650",
+        "room_desc": "Thesis Seminar"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51651",
+        "room_desc": "Truth and Lies"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51652",
+        "room_desc": "Voltaire and Rousseau"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51653",
+        "room_desc": "Wmn Autobiogph Voice"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "51654",
+        "room_desc": "Women Autobiogph Voice"
+    },
+    {
+        "school": "HTR01",
+        "major": "FREN",
+        "room_num": "87736",
+        "room_desc": "FREN"
+    }
+]

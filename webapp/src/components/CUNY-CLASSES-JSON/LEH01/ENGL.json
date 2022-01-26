@@ -1,0 +1,1262 @@
+[
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12290",
+        "room_desc": "17c Lit-Exclud Miltn"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12291",
+        "room_desc": "Advanced Fiction Writing I"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12292",
+        "room_desc": "Advanced Fiction Writing II"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12293",
+        "room_desc": "Advanced Playwriting Workshop"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12294",
+        "room_desc": "Advanced Poetry Writing I"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12295",
+        "room_desc": "Advanced Workshop Writing II"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12296",
+        "room_desc": "African Amer & Black Diasp Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12297",
+        "room_desc": "Afro-Latinx Literatures"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12298",
+        "room_desc": "American Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12299",
+        "room_desc": "American Minority Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12300",
+        "room_desc": "Arab-American Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12301",
+        "room_desc": "Arts Criticism:Writing Pop Cul"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12302",
+        "room_desc": "Asian & Asian-American Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12303",
+        "room_desc": "Biography Writing"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12304",
+        "room_desc": "British Literature from 1800"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12305",
+        "room_desc": "Business Writing"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12306",
+        "room_desc": "Caribbean Diasporic Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12307",
+        "room_desc": "Chaucer"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12308",
+        "room_desc": "Classics and Us"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12309",
+        "room_desc": "Cntemp Literary Thry"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12310",
+        "room_desc": "Collaboration&Writing Process"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12311",
+        "room_desc": "College Writing Exam"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12312",
+        "room_desc": "Contemp Urban Writrs"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12313",
+        "room_desc": "Contemporary Urban Writers"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12314",
+        "room_desc": "Creative Writing I"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12315",
+        "room_desc": "Creative Writing II"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12316",
+        "room_desc": "Crit Approaches to Child Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12317",
+        "room_desc": "Critical Apprchs Adol Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12318",
+        "room_desc": "Critical Race Theory"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12319",
+        "room_desc": "Design for Writers"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12320",
+        "room_desc": "Diverse Voices in American Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12321",
+        "room_desc": "Drama"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12322",
+        "room_desc": "Early American Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12323",
+        "room_desc": "Early Modern English Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12324",
+        "room_desc": "Early Women Writers"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12325",
+        "room_desc": "Eastern Traditions"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12326",
+        "room_desc": "Editing Essentials"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12327",
+        "room_desc": "Editing and Proofreading"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12328",
+        "room_desc": "Editing for Style and Flow"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12329",
+        "room_desc": "Eighteenth-Century British Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12330",
+        "room_desc": "Elizabethn&17c Liter"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12331",
+        "room_desc": "English Composition I"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12332",
+        "room_desc": "English Composition II"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12333",
+        "room_desc": "English Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12334",
+        "room_desc": "English Literature III"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12335",
+        "room_desc": "English Literature to 1800"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12336",
+        "room_desc": "Entrepreneurship for Writers"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12337",
+        "room_desc": "Epochal Authors"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12338",
+        "room_desc": "Evidence-Based Writing"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12339",
+        "room_desc": "Feature Writing"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12340",
+        "room_desc": "Fiction"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12341",
+        "room_desc": "Fiction Workshop"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12342",
+        "room_desc": "Fictions of Disability"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12343",
+        "room_desc": "Film Studies"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12344",
+        "room_desc": "Forms and Technique in Fiction"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12345",
+        "room_desc": "Forms and Techniques in Poetry"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12346",
+        "room_desc": "GRE Theory and Practice"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12347",
+        "room_desc": "Global Literatures"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12348",
+        "room_desc": "Grant and Proposal Writing"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12349",
+        "room_desc": "Grea Trad-Chau-Miltn"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12350",
+        "room_desc": "Health and Science Writing"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12351",
+        "room_desc": "History English Language"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12352",
+        "room_desc": "History of English Language"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12353",
+        "room_desc": "Honor Seminar--Spec Topics"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12354",
+        "room_desc": "Honors Colloquium"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12355",
+        "room_desc": "Honors English Composition I"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12356",
+        "room_desc": "Honors English Composition II"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12357",
+        "room_desc": "Honors Tutorial in Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12358",
+        "room_desc": "Honors Tutorial in Writing"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12359",
+        "room_desc": "Human Rights Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12360",
+        "room_desc": "Ideas In Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12361",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12362",
+        "room_desc": "Indigenous Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12363",
+        "room_desc": "Individual Tutorial in Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12364",
+        "room_desc": "Individual Tutorial in Writing"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12365",
+        "room_desc": "Instruction in Peer Tutoring"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12366",
+        "room_desc": "Intro to Creative Writing"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12367",
+        "room_desc": "Intro:Literary&Cultural Theory"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12368",
+        "room_desc": "Introduction of Prof Writing"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12369",
+        "room_desc": "Introduction to English Studie"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12370",
+        "room_desc": "Irish Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12371",
+        "room_desc": "LGBTQ+ Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12372",
+        "room_desc": "Latinx Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12373",
+        "room_desc": "Literacy and Community"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12374",
+        "room_desc": "Literary Bronx"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12375",
+        "room_desc": "Literary Craft - Prof. Writers"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12376",
+        "room_desc": "Literary Criticism"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12377",
+        "room_desc": "Literary Genres"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12378",
+        "room_desc": "Literature and Medicine"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12379",
+        "room_desc": "Literature12380: ENGL,\"Literatures of Immigration"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12381",
+        "room_desc": "Marketing and PR Writing"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12382",
+        "room_desc": "Master Class in Poetry"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12383",
+        "room_desc": "Master Comprehensve"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12384",
+        "room_desc": "Master\u2019s Research"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12385",
+        "room_desc": "Mediev Lang & Liter"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12386",
+        "room_desc": "Medieval Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12387",
+        "room_desc": "Memoir Writing"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12388",
+        "room_desc": "Milton"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12389",
+        "room_desc": "Modern British&Anglophone Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12390",
+        "room_desc": "Modernism"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12391",
+        "room_desc": "Nineteenth-Century British Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12392",
+        "room_desc": "Old Eng&Medivl Liter"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12393",
+        "room_desc": "Poetry"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12394",
+        "room_desc": "Poetry Workshop"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12395",
+        "room_desc": "Popular Fiction"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12396",
+        "room_desc": "Prctm-Tchg Col Wrtng"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12397",
+        "room_desc": "Prin Effectv Wrtng 2"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12398",
+        "room_desc": "Prin Effectv Wrtng I"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12399",
+        "room_desc": "Principles of Creative Writing"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12400",
+        "room_desc": "Principles-ProfessionalWriting"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12401",
+        "room_desc": "Professional Presentations"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12402",
+        "room_desc": "Prose Fiction"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12403",
+        "room_desc": "Publishing Landscape"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12404",
+        "room_desc": "Readings-Composition&Rhetoric"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12405",
+        "room_desc": "Report Writing"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12406",
+        "room_desc": "Res-Composition Stds"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12407",
+        "room_desc": "Research and Revision Tutorial"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12408",
+        "room_desc": "Research12409: ENGL,\"Restor & 18 Cent Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12410",
+        "room_desc": "Restoratn&18th C Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12411",
+        "room_desc": "Romantic Victorn Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12412",
+        "room_desc": "Sem in Writing:Practice&Theory"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12413",
+        "room_desc": "Seminar Professional Writing"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12414",
+        "room_desc": "Seminar in Creative Writing"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12415",
+        "room_desc": "Seminar in Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12416",
+        "room_desc": "Seminar in Writing Studies"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12417",
+        "room_desc": "Seminar in Writing: Practice"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12418",
+        "room_desc": "Seminar in Writing: Theory"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12419",
+        "room_desc": "Senior Seminar"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12420",
+        "room_desc": "Seventeenth-Century Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12421",
+        "room_desc": "Shakespeare"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12422",
+        "room_desc": "Shakespeare Now"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12423",
+        "room_desc": "Shakespeare in Context"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12424",
+        "room_desc": "Shakespeare-Selected Plays"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12425",
+        "room_desc": "Sixteenth-Century Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12426",
+        "room_desc": "Sp Stds Lan Lit&Writ"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12427",
+        "room_desc": "Spcl Topics:Writing & Rhetoric"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12428",
+        "room_desc": "Spec Topics Lit & Film Studies"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12429",
+        "room_desc": "Spec Tops-Composition Rhetoric"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12430",
+        "room_desc": "Special Topics in Lit II"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12431",
+        "room_desc": "Special Topics in Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12432",
+        "room_desc": "Special Topics in Literature I"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12433",
+        "room_desc": "Special Topics- Lit & Lang"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12434",
+        "room_desc": "Stds Mediev Engl Lang & Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12435",
+        "room_desc": "Stds Postcolonial Lit & Theory"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12436",
+        "room_desc": "Stds in 18th C English Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12437",
+        "room_desc": "Storytelling for Prof Writers"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12438",
+        "room_desc": "Structure Modern Eng"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12439",
+        "room_desc": "Structure of Modern English"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12440",
+        "room_desc": "Stud 17th Century English Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12441",
+        "room_desc": "Studies  20th Century Eng Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12442",
+        "room_desc": "Studies 19th Century Amer Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12443",
+        "room_desc": "Studies American Lit to 1800"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12444",
+        "room_desc": "Studies Comtemporary English"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12445",
+        "room_desc": "Studies In Modernism"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12446",
+        "room_desc": "Studies Multicultural Amer Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12447",
+        "room_desc": "Studies Old English Lang&Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12448",
+        "room_desc": "Studies in  Race & Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12449",
+        "room_desc": "Studies in American Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12450",
+        "room_desc": "Studies in Chaucer"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12451",
+        "room_desc": "Studies in Drama"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12452",
+        "room_desc": "Studies in Fiction"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12453",
+        "room_desc": "Studies in Gender & Sexuality"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12454",
+        "room_desc": "Studies in Linguistics"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12455",
+        "room_desc": "Studies in Literature and Film"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12456",
+        "room_desc": "Studies in Poetry"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12457",
+        "room_desc": "Studies in Romanticism"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12458",
+        "room_desc": "Studies in Shakespeare"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12459",
+        "room_desc": "Studies in the Novel"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12460",
+        "room_desc": "Studies in the Renaissance"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12461",
+        "room_desc": "Studies-Contempr Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12462",
+        "room_desc": "Studies19th Century Eng Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12463",
+        "room_desc": "Technical Writing"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12464",
+        "room_desc": "Technology of the Book"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12465",
+        "room_desc": "The Bible as Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12466",
+        "room_desc": "The Black Radical Tradition"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12467",
+        "room_desc": "The Contemporary Essay"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12468",
+        "room_desc": "The Experience of Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12469",
+        "room_desc": "The Romantic Era"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12470",
+        "room_desc": "Theoreticl Approaches Lit&Cult"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12471",
+        "room_desc": "Thesis Research"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12472",
+        "room_desc": "Topics in Creative Writing"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12473",
+        "room_desc": "Topics in Gender and Sexuality"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12474",
+        "room_desc": "Topics in Global Literatures"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12475",
+        "room_desc": "Topics in Latinx Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12476",
+        "room_desc": "Topics in Popular Fiction"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12477",
+        "room_desc": "Topics in Professional Writing"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12478",
+        "room_desc": "Topics in the Novel"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12479",
+        "room_desc": "Tpcs:Afrcn Amer&Blck Diasp Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12480",
+        "room_desc": "Twentieth-Century American Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12481",
+        "room_desc": "Unsettling English Studies"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12482",
+        "room_desc": "Urban Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12483",
+        "room_desc": "Western Traditions--Drama"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12484",
+        "room_desc": "Western Traditions--Narrative"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12485",
+        "room_desc": "Women In Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12486",
+        "room_desc": "Women Writers in English"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12487",
+        "room_desc": "Women in Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12488",
+        "room_desc": "Workshop in CreativeNonfiction"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12489",
+        "room_desc": "Workshop in Fiction"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12490",
+        "room_desc": "Workshop in Playwriting"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12491",
+        "room_desc": "Workshop in Poetry"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12492",
+        "room_desc": "Workshop in Screenwriting"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12493",
+        "room_desc": "Writing &Rhetoric Digital Age"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12494",
+        "room_desc": "Writing Essentials"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12495",
+        "room_desc": "Writing and Learning"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12496",
+        "room_desc": "Writing and Social Issues"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12497",
+        "room_desc": "Writing for New Media"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12498",
+        "room_desc": "Writing for the Professions"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12499",
+        "room_desc": "Writing-Prest Awards/Grad Schl"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "12500",
+        "room_desc": "introduction Critical Theory"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "88135",
+        "room_desc": "ENGL"
+    }
+]

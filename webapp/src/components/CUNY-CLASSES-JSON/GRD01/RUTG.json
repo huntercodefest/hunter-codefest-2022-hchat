@@ -1,0 +1,326 @@
+[
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9805",
+        "room_desc": "Adv Multivariate Methods"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9806",
+        "room_desc": "Adv Tpc: Epistemology"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9807",
+        "room_desc": "Adv Tpcs: Philosophy of Mind"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9808",
+        "room_desc": "Adv Tpcs: Represent Thry"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9809",
+        "room_desc": "Advanced Mycology"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9810",
+        "room_desc": "Advanced Research Methods"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9811",
+        "room_desc": "Advanced Statistics"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9812",
+        "room_desc": "Amer Poetry in the Anthropocen"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9813",
+        "room_desc": "Anthropology of Gender"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9814",
+        "room_desc": "App Econometrics Micro"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9815",
+        "room_desc": "Arts of Central Africa"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9816",
+        "room_desc": "Arts of West Africa"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9817",
+        "room_desc": "Axiomatic Set Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9818",
+        "room_desc": "Cognitive Sociology"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9819",
+        "room_desc": "Colloq: Lat Amer History"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9820",
+        "room_desc": "Combinatorics"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9821",
+        "room_desc": "Compar & Hist Methods"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9822",
+        "room_desc": "Consortium Course: Rutgers"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9823",
+        "room_desc": "Creativity In Language"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9824",
+        "room_desc": "Crime Patterns"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9825",
+        "room_desc": "Critical Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9826",
+        "room_desc": "Curr Issues in Crim Justice"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9827",
+        "room_desc": "Early Amer Liter & Culture"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9828",
+        "room_desc": "Environ Crime Prevention"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9829",
+        "room_desc": "Field Ecology"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9830",
+        "room_desc": "Glbl Mblty/Ineqaul/Soc Change"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9831",
+        "room_desc": "Issues Criminal Justice"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9832",
+        "room_desc": "Issues in Criminal Justice"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9833",
+        "room_desc": "Issues in Policing"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9834",
+        "room_desc": "Language as Social Action"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9835",
+        "room_desc": "Mammalian Physiology"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9836",
+        "room_desc": "Mathematical Logic"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9837",
+        "room_desc": "Media & Culture"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9838",
+        "room_desc": "Phonetics"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9839",
+        "room_desc": "Physical Oceanography"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9840",
+        "room_desc": "Problem Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9841",
+        "room_desc": "Problems in 20th Cent Amer Art"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9842",
+        "room_desc": "Qualitative Research Methods"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9843",
+        "room_desc": "Resch Design & Mthds/Cultural"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9844",
+        "room_desc": "Sem: Cultural Studies in Asiaq"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9845",
+        "room_desc": "Seminar in Syntax"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9846",
+        "room_desc": "Sexuality & The Sacred"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9847",
+        "room_desc": "Socialism: Hist Soc of Utopias"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9848",
+        "room_desc": "Sociology of Religion"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9849",
+        "room_desc": "Stat Methods in Educ"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9850",
+        "room_desc": "The Global 18th Century"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9851",
+        "room_desc": "The Works of Slavoj Zizek"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9852",
+        "room_desc": "Tpcs: Bilingual Lang Devel"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9853",
+        "room_desc": "Tpcs: Communictn Processes I"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9854",
+        "room_desc": "Tpcs: Forcing & Applications"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9855",
+        "room_desc": "Women/Gender History"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9856",
+        "room_desc": "World Ethnogr/Afr Studies"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "9857",
+        "room_desc": "X-Ray Crystallography"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "88405",
+        "room_desc": "RUTG"
+    }
+]

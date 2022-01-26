@@ -53,13 +53,13 @@
 	overflow: auto;
 }
 
-.roomsContainer:first-child {
+/* .roomsContainer:first-child {
 	margin-top: 0px;
 }
 
 .roomsContainer:last-child {
 	margin-bottom: 3px;
-}
+} */
 
 .roomButton {
 	margin-top: 3px;
@@ -73,6 +73,11 @@
 	cursor: pointer;
 	font-size: 11px;
 	text-align: left;
+	order: 999;
+}
+
+.displayorder {
+	order: 1;
 }
 
 .roomButton:hover,

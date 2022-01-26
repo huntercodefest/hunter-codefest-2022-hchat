@@ -1,0 +1,32 @@
+[
+    {
+        "school": "SOJ01",
+        "major": "MESG",
+        "room_num": "80305",
+        "room_desc": "Brooklyn College"
+    },
+    {
+        "school": "SOJ01",
+        "major": "MESG",
+        "room_num": "80306",
+        "room_desc": "City College"
+    },
+    {
+        "school": "SOJ01",
+        "major": "MESG",
+        "room_num": "80307",
+        "room_desc": "Hunter College"
+    },
+    {
+        "school": "SOJ01",
+        "major": "MESG",
+        "room_num": "80308",
+        "room_desc": "Maintenance of Matriculation"
+    },
+    {
+        "school": "SOJ01",
+        "major": "MESG",
+        "room_num": "87134",
+        "room_desc": "MESG"
+    }
+]

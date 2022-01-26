@@ -1,0 +1,920 @@
+[
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51360",
+        "room_desc": "20th Century Novel & Cinema"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51361",
+        "room_desc": "Advance Directing Workshop"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51362",
+        "room_desc": "Advance Film Seminar"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51363",
+        "room_desc": "Advanced Film Seminar"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51364",
+        "room_desc": "Advanced Film Theory"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51365",
+        "room_desc": "Advanced Seminar"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51366",
+        "room_desc": "Aest51367: FILM,\"Aesthetics Camera Movement"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51368",
+        "room_desc": "Aesthetics Film Sound"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51369",
+        "room_desc": "Africa Politics thru Afri Film"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51370",
+        "room_desc": "African American Cinema"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51371",
+        "room_desc": "Amer in American Film & Video"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51372",
+        "room_desc": "Arab Cinema in Trans"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51373",
+        "room_desc": "Asian American. Media"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51374",
+        "room_desc": "Avant-Garde Cinema"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51375",
+        "room_desc": "Blacks & Film 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51376",
+        "room_desc": "Cinema & Literature of China"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51377",
+        "room_desc": "Cinematic Space"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51378",
+        "room_desc": "Cinematography 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51379",
+        "room_desc": "Cinematography II"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51380",
+        "room_desc": "Close Film Analysis"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51381",
+        "room_desc": "Contemporary Film Theory"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51382",
+        "room_desc": "Devel Short Film"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51383",
+        "room_desc": "Doc Video: S. Africa"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51384",
+        "room_desc": "Documentary"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51385",
+        "room_desc": "Dsgn Cnts Th/Film/TV"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51386",
+        "room_desc": "East European Cinema"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51387",
+        "room_desc": "Economics in Narrative Film"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51388",
+        "room_desc": "Editing I"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51389",
+        "room_desc": "Editing II"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51390",
+        "room_desc": "Entertainment Journal"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51391",
+        "room_desc": "Experimental Film and Video"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51392",
+        "room_desc": "Experimental Production"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51393",
+        "room_desc": "Female Gaze over the City"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51394",
+        "room_desc": "Film & French Novel"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51395",
+        "room_desc": "Film & Video Product Seminar"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51396",
+        "room_desc": "Film & Video Production"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51397",
+        "room_desc": "Film & Video Workshop"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51398",
+        "room_desc": "Film Animation"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51399",
+        "room_desc": "Film Genre: Forces Nature Film"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51400",
+        "room_desc": "Film Genre:Horror Film"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51401",
+        "room_desc": "Film History 2: Since 1945"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51402",
+        "room_desc": "Film History I: 1895-1945"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51403",
+        "room_desc": "Film Production 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51404",
+        "room_desc": "Film Production I"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51405",
+        "room_desc": "Film Tech & Aesthetic Theory"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51406",
+        "room_desc": "Film and Video Production"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51407",
+        "room_desc": "Fund of Film Making"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51408",
+        "room_desc": "Histories of Cinema"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51409",
+        "room_desc": "History of Cinematography"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51410",
+        "room_desc": "Honors Project"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51411",
+        "room_desc": "Hunter Project"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51412",
+        "room_desc": "Hybrid Film: Fiction & Docu"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51413",
+        "room_desc": "Images of Resistance"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51414",
+        "room_desc": "Independent Research"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51415",
+        "room_desc": "Internatl  Polish Film & Media"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51416",
+        "room_desc": "Internship"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51417",
+        "room_desc": "Introduction to Cinema"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51418",
+        "room_desc": "Israeli Cinema"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51419",
+        "room_desc": "LGBT Film & Media"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51420",
+        "room_desc": "Latin American Women Directors"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51421",
+        "room_desc": "Light Theatre Film & Video"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51422",
+        "room_desc": "Location Sound"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51423",
+        "room_desc": "Mast:German Literature & Film"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51424",
+        "room_desc": "Media & Film Digital Age 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51425",
+        "room_desc": "Media & Film Digital Age II"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51426",
+        "room_desc": "Movies in American Culture"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51427",
+        "room_desc": "Multicult Perspectives Musical"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51428",
+        "room_desc": "Multicult Perspectives cinema"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51429",
+        "room_desc": "Multicult Perspectives:Musical"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51430",
+        "room_desc": "Music Video"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51431",
+        "room_desc": "Myths and Images in the Media"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51432",
+        "room_desc": "Narrative Editing"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51433",
+        "room_desc": "Narrative Strategies"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51434",
+        "room_desc": "National Cinema"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51435",
+        "room_desc": "National Cinema France"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51436",
+        "room_desc": "National Cinema Italy"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51437",
+        "room_desc": "National Cinema: Japan"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51438",
+        "room_desc": "National Cinema:Asian"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51439",
+        "room_desc": "National Cinema:French New"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51440",
+        "room_desc": "Nonfiction Film and Video"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51441",
+        "room_desc": "Polish Cinema"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51442",
+        "room_desc": "Polish Film Document"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51443",
+        "room_desc": "Polish Film Post 1945"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51444",
+        "room_desc": "Problems in Film Research"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51445",
+        "room_desc": "Producing the Film"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51446",
+        "room_desc": "Psychoanalysis & Cinema"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51447",
+        "room_desc": "Race Gender & Movies"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51448",
+        "room_desc": "Represent of Race in US Media"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51449",
+        "room_desc": "Russian Cinema and Society"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51450",
+        "room_desc": "Russian Film & Society"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51451",
+        "room_desc": "S.Top:Film Screening"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51452",
+        "room_desc": "Screen Acting II"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51453",
+        "room_desc": "Screen Directing"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51454",
+        "room_desc": "Screen Directing 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51455",
+        "room_desc": "Screen Directing I"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51456",
+        "room_desc": "Screen Writing 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51457",
+        "room_desc": "Screen Writing 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51458",
+        "room_desc": "Screenplay Analysis"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51459",
+        "room_desc": "Screenwriting I"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51460",
+        "room_desc": "Screenwriting-Adaptation"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51461",
+        "room_desc": "Selected Director: Fritz Lang"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51462",
+        "room_desc": "Selected Directors"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51463",
+        "room_desc": "Sem: Adv St Ger Cinema"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51464",
+        "room_desc": "Sem: Film Directing"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51465",
+        "room_desc": "Sem: Non Theatrical"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51466",
+        "room_desc": "Shakespeare and Film"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51467",
+        "room_desc": "Shakespeare on Film"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51468",
+        "room_desc": "Sound Design"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51469",
+        "room_desc": "Sound for Film & Video I"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51470",
+        "room_desc": "Sound: Film & Video2"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51471",
+        "room_desc": "Soviet Cinema"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51472",
+        "room_desc": "Sp Am Wm Lt & Cine"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51473",
+        "room_desc": "Sp Top: Alcestis"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51474",
+        "room_desc": "Sp Top: Animation"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51475",
+        "room_desc": "Sp Top: Asian Film"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51476",
+        "room_desc": "Sp Top: Documentary"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51477",
+        "room_desc": "Sp Tp: American Film Video"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51478",
+        "room_desc": "Sp Tp:Direct Cinema"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51479",
+        "room_desc": "Sp. Top. Cinem. Spac"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51480",
+        "room_desc": "Sp. Tp:Prod. Sht Flm"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51481",
+        "room_desc": "Spec Topics:The 60\u2019s"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51482",
+        "room_desc": "Spec Topics:The 80\u2019s"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51483",
+        "room_desc": "Special Topic: Cinematic Space"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51484",
+        "room_desc": "Special Topic: Screen Acting"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51485",
+        "room_desc": "Special Topic:Italian Cinema"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51486",
+        "room_desc": "Special Topics"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51487",
+        "room_desc": "Special Topics Asian Film"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51488",
+        "room_desc": "Studies in Film"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51489",
+        "room_desc": "Studies of Director Cassavetes"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51490",
+        "room_desc": "Studies of Selected Directors"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51491",
+        "room_desc": "Studies:Selected Directors"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51492",
+        "room_desc": "Styles: Film Acting"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51493",
+        "room_desc": "Survey Int. Cinema"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51494",
+        "room_desc": "TV Writing: Limited Run Series"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51495",
+        "room_desc": "Tech & Aesthetic Theory"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51496",
+        "room_desc": "Techniques of Cinematography"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51497",
+        "room_desc": "The Animated Film"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51498",
+        "room_desc": "The Holocaust"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51499",
+        "room_desc": "Theatricality & Presentation"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51500",
+        "room_desc": "Theory of Film Acting"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51501",
+        "room_desc": "Topics Film History"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51502",
+        "room_desc": "Topics in Film Hist: The 70s"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51503",
+        "room_desc": "Topics in Film History"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51504",
+        "room_desc": "Topics in Film History: 1930\u2019s"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51505",
+        "room_desc": "Topics in Genre Studies"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51506",
+        "room_desc": "Topics:Women 1940\u2019s"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51507",
+        "room_desc": "Woman\u2019s Film:1940s"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51508",
+        "room_desc": "Women and Film"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51509",
+        "room_desc": "Writing for TV - Comedy"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51510",
+        "room_desc": "Writing for TV: Tween Pilot"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51511",
+        "room_desc": "Writing the Short Scrpt"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "51512",
+        "room_desc": "Writing:Young Audiences"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "87649",
+        "room_desc": "FILM"
+    }
+]

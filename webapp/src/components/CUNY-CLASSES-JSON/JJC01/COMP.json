@@ -1,0 +1,236 @@
+[
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19823",
+        "room_desc": "Adv Topics in Computer Sci"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19824",
+        "room_desc": "Advanced Data Structures"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19825",
+        "room_desc": "Artificial Intelligence"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19826",
+        "room_desc": "Capstone CyberSecurity II"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19827",
+        "room_desc": "Capstone Exp in CyberSec I"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19828",
+        "room_desc": "Comp: Stra Dec-Mak"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19829",
+        "room_desc": "Computer Algorithms"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19830",
+        "room_desc": "Computer Architecture"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19831",
+        "room_desc": "Computer Literacy"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19832",
+        "room_desc": "Computer Networking"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19833",
+        "room_desc": "Computer Security & Forensics"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19834",
+        "room_desc": "Cryptography & Cryptanalysis"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19835",
+        "room_desc": "Data Processing"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19836",
+        "room_desc": "Database Systems In Crj"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19837",
+        "room_desc": "Databases and Data Mining"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19838",
+        "room_desc": "Fac Mentored Research Experien"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19839",
+        "room_desc": "Graph Intrface Prog"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19840",
+        "room_desc": "Independent Study 200-level"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19841",
+        "room_desc": "Independent Study 300-level"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19842",
+        "room_desc": "Independent Study 400-level"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19843",
+        "room_desc": "Int Telecommunic"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19844",
+        "room_desc": "Internship In Mgmt Info Sys"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19845",
+        "room_desc": "Intro Comput & Prog"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19846",
+        "room_desc": "Linux System Admin & Security"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19847",
+        "room_desc": "Machine Learning"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19848",
+        "room_desc": "Nature of Computers"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19849",
+        "room_desc": "Network Security and Forensics"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19850",
+        "room_desc": "Object-Oriented Programming"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19851",
+        "room_desc": "Operating Systems"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19852",
+        "room_desc": "Programming Languages"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19853",
+        "room_desc": "Quantum Computing"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19854",
+        "room_desc": "Sec Computer Data"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19855",
+        "room_desc": "Software Off Mgmt"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19856",
+        "room_desc": "Suppl. Workshop: Computing"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19857",
+        "room_desc": "Suppl. Workshop: Cryptography"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19858",
+        "room_desc": "Suppl. Workshop: Networking"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19859",
+        "room_desc": "System Analysis and Design"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "19860",
+        "room_desc": "Topics in Computer Science"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "87127",
+        "room_desc": "COMP"
+    }
+]

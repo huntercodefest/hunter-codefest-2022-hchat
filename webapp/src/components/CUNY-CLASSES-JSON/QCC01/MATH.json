@@ -1,0 +1,314 @@
+[
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23022",
+        "room_desc": "Algebra & Trig"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23023",
+        "room_desc": "Analytic Geometry & Calc I"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23024",
+        "room_desc": "Analytic Geometry & Calc II"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23025",
+        "room_desc": "Anl Geom & Calc III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23026",
+        "room_desc": "Bas Math Skills"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23027",
+        "room_desc": "Bas Mth Skl Lb"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23028",
+        "room_desc": "Basic Math"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23029",
+        "room_desc": "Basic Math Skills Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23030",
+        "room_desc": "Calculus for Business"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23031",
+        "room_desc": "Calculus for Tech & Bus Studnt"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23032",
+        "room_desc": "Cmptr Asst Stat Lb"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23033",
+        "room_desc": "Col Algebra & Trig for Technic"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23034",
+        "room_desc": "Col Algebra For Tech & Bus"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23035",
+        "room_desc": "College Algebra"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23036",
+        "room_desc": "Coop Ed Ma & Cs"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23037",
+        "room_desc": "Coop Edu Math & Com Sci"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23038",
+        "room_desc": "Dept Math Exemp MA 119"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23039",
+        "room_desc": "Dept Math Exemp MA 121"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23040",
+        "room_desc": "Differential Equations"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23041",
+        "room_desc": "Elem Algbra B Lb"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23042",
+        "room_desc": "Elementary Algebra"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23043",
+        "room_desc": "Elementary Trigonometry"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23044",
+        "room_desc": "Indepn Stdy Math"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23045",
+        "room_desc": "Inter Math"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23046",
+        "room_desc": "Internship in Math Teaching"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23047",
+        "room_desc": "Intro Statistics - Coreq"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23048",
+        "room_desc": "Introduction to Discrete Math"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23049",
+        "room_desc": "Introductory Statistics"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23050",
+        "room_desc": "Linear Algebra"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23051",
+        "room_desc": "MA 10 Express-Workshop Format"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23052",
+        "room_desc": "MA 10 Workshop"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23053",
+        "room_desc": "MA 71 CUNY Start"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23054",
+        "room_desc": "MA10 CUNY Start"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23055",
+        "room_desc": "MA10 USIP Online Workshop"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23056",
+        "room_desc": "MA5 Express Workshop"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23057",
+        "room_desc": "Ma 10 Cuny Intervention Wksh"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23058",
+        "room_desc": "Math In Contemporary Society"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23059",
+        "room_desc": "Math Module"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23060",
+        "room_desc": "Math in Contemporary Society"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23061",
+        "room_desc": "Mathematics for Liberal Arts"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23062",
+        "room_desc": "Number Systems"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23063",
+        "room_desc": "Pre-Cal & El of Cal for Bus St"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23064",
+        "room_desc": "Pre-Calculus Mathematics"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23065",
+        "room_desc": "Probability and Statistics"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23066",
+        "room_desc": "Quantitative Reasoning"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23067",
+        "room_desc": "Remedial Math Waiver"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23068",
+        "room_desc": "Statistics"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23069",
+        "room_desc": "Statistics with Basic Algebra"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23070",
+        "room_desc": "Tech Math II:Verizon"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23071",
+        "room_desc": "Topics In Math"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "23072",
+        "room_desc": "Undergraduate Research in Math"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "87893",
+        "room_desc": "MATH"
+    }
+]

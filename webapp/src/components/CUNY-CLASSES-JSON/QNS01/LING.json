@@ -1,0 +1,788 @@
+[
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28518",
+        "room_desc": "2nd Lang Acq & Tchg"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28519",
+        "room_desc": "Adult Lit Pract/Thry"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28520",
+        "room_desc": "Adv Gram"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28521",
+        "room_desc": "Adv Phonology"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28522",
+        "room_desc": "Advanced Audiology I"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28523",
+        "room_desc": "Advanced Audiology II"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28524",
+        "room_desc": "Advanced English Syntax"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28525",
+        "room_desc": "Advanced Phono"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28526",
+        "room_desc": "Advanced Psycholinguistics"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28527",
+        "room_desc": "Alt & Aug Com Sys Per Sev Com"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28528",
+        "room_desc": "Analyzing Language"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28529",
+        "room_desc": "Anat&Physiol Spch/Lang"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28530",
+        "room_desc": "Assessment in TESOL"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28531",
+        "room_desc": "Audio Assess Of Yuth"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28532",
+        "room_desc": "Audiology I"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28533",
+        "room_desc": "Audiology II"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28534",
+        "room_desc": "Auditory Disorders in Children"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28535",
+        "room_desc": "Bilingualism"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28536",
+        "room_desc": "Cert & Profess Wrkshp in TESOL"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28537",
+        "room_desc": "Clin Pract In Audio"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28538",
+        "room_desc": "Communication&Aud Impairment"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28539",
+        "room_desc": "Diagnostic Methods"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28540",
+        "room_desc": "Dial & Socioling"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28541",
+        "room_desc": "Dialect & Socling"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28542",
+        "room_desc": "Disorders of Language"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28543",
+        "room_desc": "Disorders of Speech"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28544",
+        "room_desc": "Dysphagia"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28545",
+        "room_desc": "Error Anal & Cor"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28546",
+        "room_desc": "Error Analysis"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28547",
+        "room_desc": "Eval & Measure TESOL"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28548",
+        "room_desc": "Field Methods&Endangered Lang"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28549",
+        "room_desc": "Fund of Psycholinguistics"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28550",
+        "room_desc": "Gen Linguistics"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28551",
+        "room_desc": "Gen Phonetics"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28552",
+        "room_desc": "Hearing Aids"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28553",
+        "room_desc": "Hearing Science"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28554",
+        "room_desc": "Historical Linguistics"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28555",
+        "room_desc": "Intro Educ Multilingual Learn"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28556",
+        "room_desc": "Intro Esl"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28557",
+        "room_desc": "Intro Ling Theory"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28558",
+        "room_desc": "Intro Teach Esl"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28559",
+        "room_desc": "Intro To 2nd Lang"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28560",
+        "room_desc": "Intro To ESL"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28561",
+        "room_desc": "Intro To Lang"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28562",
+        "room_desc": "Intro to Commun Disorders"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28563",
+        "room_desc": "Introduction to Language"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28564",
+        "room_desc": "Introduction to Linguistics"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28565",
+        "room_desc": "Introduction to Morphology"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28566",
+        "room_desc": "Issues in Linguistic Research"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28567",
+        "room_desc": "Lang & Comm Sch-Aged Child"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28568",
+        "room_desc": "Lang & Lrn Disord of Chld II"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28569",
+        "room_desc": "Lang & Soc"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28570",
+        "room_desc": "Lang Disord:Adults II"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28571",
+        "room_desc": "Lang Disorders:Adolesc/Adult I"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28572",
+        "room_desc": "Lang&Cross-Cult Com"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28573",
+        "room_desc": "Lang28574: LING,\"Language Acquisition"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28575",
+        "room_desc": "Language and Mind"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28576",
+        "room_desc": "Language and Social Diversity"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28577",
+        "room_desc": "Language and Social Identity"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28578",
+        "room_desc": "Language in Context"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28579",
+        "room_desc": "Language28580: LING,\"Languages of the World"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28581",
+        "room_desc": "Lin Comm Writing Workshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28582",
+        "room_desc": "Linguistic Phonetics"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28583",
+        "room_desc": "Lit & Lang In Multi Pop"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28584",
+        "room_desc": "Meth & Mat Esl"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28585",
+        "room_desc": "Meth & Mat In Tesol"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28586",
+        "room_desc": "Meth & Mat Tesol"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28587",
+        "room_desc": "Methods & Materials TESOL"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28588",
+        "room_desc": "Multilingualism In U.S."
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28589",
+        "room_desc": "Multiple Literacies in TESOL"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28590",
+        "room_desc": "Neuromotor Disorders"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28591",
+        "room_desc": "Org Spe-Lang Path/Au"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28592",
+        "room_desc": "Phonetics"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28593",
+        "room_desc": "Phonology"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28594",
+        "room_desc": "Physiological Acoustics"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28595",
+        "room_desc": "Pract Spe-Lang Path"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28596",
+        "room_desc": "Practicum"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28597",
+        "room_desc": "Practicum in Adult Lit & Rdg"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28598",
+        "room_desc": "Practicum in Adult TESOL"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28599",
+        "room_desc": "Pre-Sch L/L Disorder"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28600",
+        "room_desc": "Psychological Acoustics"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28601",
+        "room_desc": "Quant Methods In Comm Sci&Dis"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28602",
+        "room_desc": "Rd Prt Ad Lit Cre"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28603",
+        "room_desc": "Rd Prt Ad Lit Eng"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28604",
+        "room_desc": "Read/Write Basic Ed"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28605",
+        "room_desc": "Research Design & Methods"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28606",
+        "room_desc": "Research Methodology"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28607",
+        "room_desc": "Sec Lang Acq & Tchg"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28608",
+        "room_desc": "Sec Lang Acquis/Tchng"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28609",
+        "room_desc": "Sec Lang Acquisition/Teaching"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28610",
+        "room_desc": "Sem: Research Appl Linguistics"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28611",
+        "room_desc": "Semantics and Pragmatics"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28612",
+        "room_desc": "Seminar in Research in TESOL"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28613",
+        "room_desc": "Soc & Bilingualism"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28614",
+        "room_desc": "Sociolinguistics"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28615",
+        "room_desc": "Spe Disord:Artc/Phon"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28616",
+        "room_desc": "Spe28617: LING,\"Special Problems"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28618",
+        "room_desc": "Speech Disorders: Stuttering"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28619",
+        "room_desc": "Speech Disorders: Voice."
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28620",
+        "room_desc": "Speech Science"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28621",
+        "room_desc": "St Tchg Int Tesol 11"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28622",
+        "room_desc": "St Tchg Intern-Tesol"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28623",
+        "room_desc": "Std Tchg Int-Tesol II"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28624",
+        "room_desc": "Std Tchg Intern TESOL-I"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28625",
+        "room_desc": "Stdies Comm Disorder"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28626",
+        "room_desc": "Stdnt Tchng Intrn Tesol 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28627",
+        "room_desc": "Stdnt Tchng Intrn Tesol II"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28628",
+        "room_desc": "Struc Amer Eng"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28629",
+        "room_desc": "Struc Of Amer Eng"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28630",
+        "room_desc": "Struct Amer Eng I"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28631",
+        "room_desc": "Struct Engl Sent II"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28632",
+        "room_desc": "Structure English"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28633",
+        "room_desc": "Student Teaching Intern -TESOL"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28634",
+        "room_desc": "Syn Str Of Eng"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28635",
+        "room_desc": "Syntactic Anlysis"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28636",
+        "room_desc": "Syntax II"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28637",
+        "room_desc": "TESOL Thru Content"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28638",
+        "room_desc": "TESOL: 4 Lang Skills"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28639",
+        "room_desc": "TESOL: Listen28640: LING,\"Teach ENG Sent Struct I"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28641",
+        "room_desc": "Teaching Eng Sound Structure"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28642",
+        "room_desc": "Tesol Methods/Materials"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28643",
+        "room_desc": "Tesol Thru Content"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28644",
+        "room_desc": "The Acquisition of Language"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28645",
+        "room_desc": "The Psychology of Speech"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28646",
+        "room_desc": "The Sound Structure of English"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28647",
+        "room_desc": "Tutorial"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28648",
+        "room_desc": "Understanding English Grammar"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28649",
+        "room_desc": "Voices of New York"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28650",
+        "room_desc": "Writing Systems"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "28651",
+        "room_desc": "Writing Tutorial"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "87534",
+        "room_desc": "LING"
+    }
+]

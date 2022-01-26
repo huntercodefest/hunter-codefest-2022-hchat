@@ -1,0 +1,326 @@
+[
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86035",
+        "room_desc": "Advanced Physics Laboratory"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86036",
+        "room_desc": "Applied Quant Physic"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86037",
+        "room_desc": "Applied Quantum Physics"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86038",
+        "room_desc": "Astrophysics"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86039",
+        "room_desc": "Basic Measurements Laboratory"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86040",
+        "room_desc": "College Physics II"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86041",
+        "room_desc": "College Physics II Laboratory"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86042",
+        "room_desc": "Computational Physics"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86043",
+        "room_desc": "Dynamics"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86044",
+        "room_desc": "Elec Prop Materials"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86045",
+        "room_desc": "Engineering Mechanics"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86046",
+        "room_desc": "Fluid Mechanics"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86047",
+        "room_desc": "Galileo to Newton and Beyond"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86048",
+        "room_desc": "General Physics I"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86049",
+        "room_desc": "General Physics I Laboratory"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86050",
+        "room_desc": "General Physics II"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86051",
+        "room_desc": "General Physics II Laboratory"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86052",
+        "room_desc": "History of Modern Physics"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86053",
+        "room_desc": "Intr Computational Physics Lab"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86054",
+        "room_desc": "Introduction to Nanotechnology"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86055",
+        "room_desc": "Introduction to Physics"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86056",
+        "room_desc": "Matter and Antimatter"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86057",
+        "room_desc": "Matter/Antimatter"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86058",
+        "room_desc": "Maxwell to Einstein and Beyond"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86059",
+        "room_desc": "Mech Prop Materials"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86060",
+        "room_desc": "Modern Physics"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86061",
+        "room_desc": "Nature of Physical Processes"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86062",
+        "room_desc": "Nuclear Physics"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86063",
+        "room_desc": "Optics"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86064",
+        "room_desc": "Physics 1"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86065",
+        "room_desc": "Physics Credit"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86066",
+        "room_desc": "Physics For Tchers"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86067",
+        "room_desc": "Physics Grad Credit"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86068",
+        "room_desc": "Physics Graduate Credit"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86069",
+        "room_desc": "Physics I"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86070",
+        "room_desc": "Physics II"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86071",
+        "room_desc": "Physics Ind Study"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86072",
+        "room_desc": "Physics Internship"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86073",
+        "room_desc": "Physics Laboratory"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86074",
+        "room_desc": "Physics Phenomena"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86075",
+        "room_desc": "Physics for Elementary Teacher"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86076",
+        "room_desc": "Physics for Engineers"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86077",
+        "room_desc": "Physics for Everyone"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86078",
+        "room_desc": "Properties of Materials"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86079",
+        "room_desc": "Quantum Mechanics"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86080",
+        "room_desc": "Relativity"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86081",
+        "room_desc": "Sound and Light"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86082",
+        "room_desc": "The Scientific Revolution"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86083",
+        "room_desc": "Theory Electromagnetic Radiat"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86084",
+        "room_desc": "Thermodynamics & Stat Phy"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86085",
+        "room_desc": "Transport Processes"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86086",
+        "room_desc": "Waves and Modern Physics"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "86087",
+        "room_desc": "Waves/Optics/Mod Phy"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "88040",
+        "room_desc": "PHYS"
+    }
+]

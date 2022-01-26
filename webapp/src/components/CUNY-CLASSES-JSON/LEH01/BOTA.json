@@ -1,0 +1,68 @@
+[
+    {
+        "school": "LEH01",
+        "major": "BOTA",
+        "room_num": "11279",
+        "room_desc": "Basic Botany"
+    },
+    {
+        "school": "LEH01",
+        "major": "BOTA",
+        "room_num": "11280",
+        "room_desc": "Ecology"
+    },
+    {
+        "school": "LEH01",
+        "major": "BOTA",
+        "room_num": "11281",
+        "room_desc": "Evolutionary Biology"
+    },
+    {
+        "school": "LEH01",
+        "major": "BOTA",
+        "room_num": "11282",
+        "room_desc": "Field Botany"
+    },
+    {
+        "school": "LEH01",
+        "major": "BOTA",
+        "room_num": "11283",
+        "room_desc": "General Genetics"
+    },
+    {
+        "school": "LEH01",
+        "major": "BOTA",
+        "room_num": "11284",
+        "room_desc": "Morphology of Flowering Plants"
+    },
+    {
+        "school": "LEH01",
+        "major": "BOTA",
+        "room_num": "11285",
+        "room_desc": "Paleobotany"
+    },
+    {
+        "school": "LEH01",
+        "major": "BOTA",
+        "room_num": "11286",
+        "room_desc": "Physiology of Plants"
+    },
+    {
+        "school": "LEH01",
+        "major": "BOTA",
+        "room_num": "11287",
+        "room_desc": "Plant Form and Function"
+    },
+    {
+        "school": "LEH01",
+        "major": "BOTA",
+        "room_num": "11288",
+        "room_desc": "Systematic Botany"
+    },
+    {
+        "school": "LEH01",
+        "major": "BOTA",
+        "room_num": "88207",
+        "room_desc": "BOTA"
+    }
+]

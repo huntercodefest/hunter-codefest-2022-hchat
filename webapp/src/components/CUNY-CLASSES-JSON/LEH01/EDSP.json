@@ -1,0 +1,578 @@
+[
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12192",
+        "room_desc": "Adoles W/Dev Learn Problems"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12193",
+        "room_desc": "Adolescent with Disabilities"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12194",
+        "room_desc": "Advanced Psych-Ed Assessment"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12195",
+        "room_desc": "Assess Spc Lrn Dis"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12196",
+        "room_desc": "Assessment G/T K-12"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12197",
+        "room_desc": "Aud Vis Instruct Clsrm Tchr"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12198",
+        "room_desc": "Behave Assmnt12199: EDSP,\"Behavior of Diverse Children"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12200",
+        "room_desc": "Behv Apprch-Chld Emo"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12201",
+        "room_desc": "Bio-Med Of Handicapp"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12202",
+        "room_desc": "Bst Prac Tchng Cult & Ling Div"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12203",
+        "room_desc": "Chd Stud W/Disab"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12204",
+        "room_desc": "Child With Spec Need"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12205",
+        "room_desc": "Comp Analysis Eng/Spa 1"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12206",
+        "room_desc": "Compar Analysis Eng/Span I&II"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12207",
+        "room_desc": "Culminating Master\u2019s Project"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12208",
+        "room_desc": "Cur Plang-Lrng Disab"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12209",
+        "room_desc": "Curr & Instruct for Div Child"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12210",
+        "room_desc": "Curr & Mthdlogy Mentally Retrd"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12211",
+        "room_desc": "Curr Instr Adol W/Disabil"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12212",
+        "room_desc": "Curr Instr Pract Child W/Dis"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12213",
+        "room_desc": "Curr Instr Yng Spnds"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12214",
+        "room_desc": "Curric & Meths Spec Education"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12215",
+        "room_desc": "Dia Std-Pre-Sch Chld"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12216",
+        "room_desc": "Diagnosis Lrn Disord"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12217",
+        "room_desc": "Diagnstc Stdy-Infnts"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12218",
+        "room_desc": "Dynam Wkng With Grps"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12219",
+        "room_desc": "Education and Mass Media"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12220",
+        "room_desc": "Education of the Gifted"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12221",
+        "room_desc": "Emotionlly Handicppd"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12222",
+        "room_desc": "Family Development"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12223",
+        "room_desc": "Fldwk-Spec Ed Ser 2"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12224",
+        "room_desc": "Fldwk-Spec Edu Ser 1"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12225",
+        "room_desc": "Func Lit Skls-Mn Rtd"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12226",
+        "room_desc": "Fund Clssrm Grp Dynm"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12227",
+        "room_desc": "G&Tk-1212228: EDSP,\"Handc Indv-Voc Envir"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12229",
+        "room_desc": "Honors Course-Resrch"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12230",
+        "room_desc": "Indep Stdy in Spec Edu"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12231",
+        "room_desc": "Independent Study 1"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12232",
+        "room_desc": "Independent Study 2"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12233",
+        "room_desc": "Inst Prct Adol Stud Mod/SevDis"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12234",
+        "room_desc": "Intro Special Educat"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12235",
+        "room_desc": "Intrsens Dev Thr Mov"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12236",
+        "room_desc": "Lrning Disorders: Develop View"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12237",
+        "room_desc": "Mental Hygiene"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12238",
+        "room_desc": "Microcomput Spec Edu"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12239",
+        "room_desc": "Mntaly Rtrd&Mult-Hnd"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12240",
+        "room_desc": "Nat Nds Gift/Tal Std"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12241",
+        "room_desc": "Nature&Needs-Handicp"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12242",
+        "room_desc": "Pgrm Plning Special Edu"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12243",
+        "room_desc": "Plnng Curc-Emot Hndc"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12244",
+        "room_desc": "Prac Assmt Ad W/Dis"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12245",
+        "room_desc": "Prac Assmt Ch Dis"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12246",
+        "room_desc": "Prac Beh Mgmt Ad Dis"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12247",
+        "room_desc": "Prac Cur Inst Adol w/Disab."
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12248",
+        "room_desc": "Prac Cur Inst Ch Dis"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12249",
+        "room_desc": "Prac Teach Severe Disabilities"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12250",
+        "room_desc": "Prac-Assess Lrng Dis"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12251",
+        "room_desc": "Prac-Remed Lrn Disab"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12252",
+        "room_desc": "Pracm-Tch Emot Hndcp"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12253",
+        "room_desc": "Pracm-Tch Retarded"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12254",
+        "room_desc": "Pract Infant &Todlr-Spc Needs"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12255",
+        "room_desc": "Pract in Asses Child Spc Needs"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12256",
+        "room_desc": "Pract-Rem of Spec Disabilities"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12257",
+        "room_desc": "Practicum in Behavioral Assess"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12258",
+        "room_desc": "PrctmInstPrcAdolStudMod/SevDis"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12259",
+        "room_desc": "Pre-Sch Chd-Spc Need"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12260",
+        "room_desc": "Prin&Prac Ed Guidanc"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12261",
+        "room_desc": "Project Seminar I"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12262",
+        "room_desc": "Project Seminar II"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12263",
+        "room_desc": "Psycho-edu Eva Chlrn Lrn Prblm"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12264",
+        "room_desc": "Read/Write Connect."
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12265",
+        "room_desc": "Reading & Writing Connections"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12266",
+        "room_desc": "Research in Special Education"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12267",
+        "room_desc": "Seminar-Current Issu"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12268",
+        "room_desc": "Specl Child-Adaptatn"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12269",
+        "room_desc": "Stdt Teach of Diverse Learners"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12270",
+        "room_desc": "Stdy Early Specl Edu"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12271",
+        "room_desc": "Stdy Learng Disabled"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12272",
+        "room_desc": "Student Teaching Seminar"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12273",
+        "room_desc": "Super Stud Teach Speech&Hear"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12274",
+        "room_desc": "Tch Sev Dis Lifespan"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12275",
+        "room_desc": "Teach Emotionly Hand"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12276",
+        "room_desc": "Teach Indiv w Multip Handicaps"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12277",
+        "room_desc": "Teach Stu W/Severe Disabilit"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12278",
+        "room_desc": "Tech Resrch-Tch&Lrng"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12279",
+        "room_desc": "The Mass Media in Education"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12280",
+        "room_desc": "The Slow Learner"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12281",
+        "room_desc": "Trnsdiscp Appr & Prsn Handicap"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12282",
+        "room_desc": "Undst Indiv W/ Disab"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12283",
+        "room_desc": "Vis Art Children w/ Learn Dis"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12284",
+        "room_desc": "Voca Guid 2ndry&Elem"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12285",
+        "room_desc": "Wkshp Instruct Mater & Equpmnt"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12286",
+        "room_desc": "Workshop-Curr Materials Devel"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12287",
+        "room_desc": "Workshops in Curriculum Design"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "12288",
+        "room_desc": "Writ/Read Contnt Are"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "88133",
+        "room_desc": "EDSP"
+    }
+]

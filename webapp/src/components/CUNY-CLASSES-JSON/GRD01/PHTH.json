@@ -1,0 +1,332 @@
+[
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8462",
+        "room_desc": "Biofeedback/Intrvntn in Phys T"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8463",
+        "room_desc": "Cardiac Rehabilitation"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8464",
+        "room_desc": "Clin Ed: Education Theories"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8465",
+        "room_desc": "Clinical Affiliation I"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8466",
+        "room_desc": "Clinical Affiliation II"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8467",
+        "room_desc": "Clinical Affiliation III"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8468",
+        "room_desc": "Clinical Affiliation IV"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8469",
+        "room_desc": "Clinical Anatomy"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8470",
+        "room_desc": "Clinical Anatomy - Lab"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8471",
+        "room_desc": "Clinical Anatomy - Lecture"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8472",
+        "room_desc": "Clinical Decision Making"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8473",
+        "room_desc": "Clinical Medicine for PT"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8474",
+        "room_desc": "Colloq in Physical Therapy"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8475",
+        "room_desc": "Colloquium Elective P T"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8476",
+        "room_desc": "Diff Dgnsis/Intrvntn Clin Neur"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8477",
+        "room_desc": "Diff Dgnsis/Intrvntn Clin Orth"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8478",
+        "room_desc": "Diff Diag/Intrvntn Clin Orthpd"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8479",
+        "room_desc": "Diff Diagnosis & Neuro Eval"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8480",
+        "room_desc": "Directed Research IV"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8481",
+        "room_desc": "Directed Research V"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8482",
+        "room_desc": "Electroneuromyography/Mot Anls"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8483",
+        "room_desc": "Foundations Patient Care - Lab"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8484",
+        "room_desc": "Foundations Patient Care - Lec"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8485",
+        "room_desc": "Hlth Promo Through Lifespan"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8486",
+        "room_desc": "Hum Phys & Exercise Phys"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8487",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8488",
+        "room_desc": "Integumentary Sys:Assmnt/Intvn"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8489",
+        "room_desc": "Intro Muscloskeletal Exam"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8490",
+        "room_desc": "Intro PT Practice & Ethics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8491",
+        "room_desc": "Intro to Neurological PT"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8492",
+        "room_desc": "Lower Extremity Kines/Assesmnt"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8493",
+        "room_desc": "Medical Terminology"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8494",
+        "room_desc": "Muscoskel Exam/Intrvntn II"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8495",
+        "room_desc": "Musculoskel Exam/Intvrnt III"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8496",
+        "room_desc": "Musculoskeletal Examination I"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8497",
+        "room_desc": "Neurological Interventions I"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8498",
+        "room_desc": "Neurological Interventions II"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8499",
+        "room_desc": "Orthotics & Prosthetics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8500",
+        "room_desc": "PT & Prevention Intervention"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8501",
+        "room_desc": "Pediatric Developmnt/Assessmnt"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8502",
+        "room_desc": "Pharmacology & Systems Review"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8503",
+        "room_desc": "Physical Modalities"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8504",
+        "room_desc": "Proprioceptive Neuro Fcltation"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8505",
+        "room_desc": "Psychosocial Aspects Clin Prac"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8506",
+        "room_desc": "Pulmonary Eval/Interventions"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8507",
+        "room_desc": "Reasearch Seminar II"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8508",
+        "room_desc": "Research Design"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8509",
+        "room_desc": "Research Seminar I"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8510",
+        "room_desc": "Research Seminar III"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8511",
+        "room_desc": "Sem Dept Org & Management"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8512",
+        "room_desc": "Structure/Funct of Nerv System"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8513",
+        "room_desc": "Topics in Physical Therapy"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8514",
+        "room_desc": "Upper Ext Kines/Assmnt - Lab"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "8515",
+        "room_desc": "Upper Ext Kines/Assmnt - Lec"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "88408",
+        "room_desc": "PHTH"
+    }
+]

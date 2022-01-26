@@ -1,0 +1,38 @@
+[
+    {
+        "school": "YRK01",
+        "major": "HEAL",
+        "room_num": "16101",
+        "room_desc": "Basic Concepts"
+    },
+    {
+        "school": "YRK01",
+        "major": "HEAL",
+        "room_num": "16102",
+        "room_desc": "Health Prof Gen Core NLA Elec"
+    },
+    {
+        "school": "YRK01",
+        "major": "HEAL",
+        "room_num": "16103",
+        "room_desc": "Hlth Prof Gen Core Elec"
+    },
+    {
+        "school": "YRK01",
+        "major": "HEAL",
+        "room_num": "16104",
+        "room_desc": "Principles of Epidemiology"
+    },
+    {
+        "school": "YRK01",
+        "major": "HEAL",
+        "room_num": "16105",
+        "room_desc": "Public Health"
+    },
+    {
+        "school": "YRK01",
+        "major": "HEAL",
+        "room_num": "87388",
+        "room_desc": "HEAL"
+    }
+]

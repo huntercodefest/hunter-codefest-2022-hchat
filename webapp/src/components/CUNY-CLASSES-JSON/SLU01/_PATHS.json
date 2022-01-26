@@ -1,0 +1,26 @@
+[
+    {
+        "major": "LBST",
+        "path": "LBST.json"
+    },
+    {
+        "major": "UBST",
+        "path": "UBST.json"
+    },
+    {
+        "major": "MESG",
+        "path": "MESG.json"
+    },
+    {
+        "major": "PUAD",
+        "path": "PUAD.json"
+    },
+    {
+        "major": "NYWU",
+        "path": "NYWU.json"
+    },
+    {
+        "major": "SLU01",
+        "path": "SLU01.json"
+    }
+]

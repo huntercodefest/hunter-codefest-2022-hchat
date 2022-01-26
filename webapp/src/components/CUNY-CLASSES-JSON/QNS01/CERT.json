@@ -1,0 +1,26 @@
+[
+    {
+        "school": "QNS01",
+        "major": "CERT",
+        "room_num": "24524",
+        "room_desc": "Cert Full Time"
+    },
+    {
+        "school": "QNS01",
+        "major": "CERT",
+        "room_num": "24525",
+        "room_desc": "Certified Full Time"
+    },
+    {
+        "school": "QNS01",
+        "major": "CERT",
+        "room_num": "24526",
+        "room_desc": "Crs"
+    },
+    {
+        "school": "QNS01",
+        "major": "CERT",
+        "room_num": "87472",
+        "room_desc": "CERT"
+    }
+]

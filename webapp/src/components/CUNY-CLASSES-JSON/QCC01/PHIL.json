@@ -1,0 +1,56 @@
+[
+    {
+        "school": "QCC01",
+        "major": "PHIL",
+        "room_num": "23281",
+        "room_desc": "American Philosophy"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHIL",
+        "room_num": "23282",
+        "room_desc": "Asian Philosophies"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHIL",
+        "room_num": "23283",
+        "room_desc": "Computers & Ethics"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHIL",
+        "room_num": "23284",
+        "room_desc": "Ethics: Theories of Good Life"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHIL",
+        "room_num": "23285",
+        "room_desc": "Introduction to Philosophy"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHIL",
+        "room_num": "23286",
+        "room_desc": "Medical Ethics"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHIL",
+        "room_num": "23287",
+        "room_desc": "Philosophy of Religion"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHIL",
+        "room_num": "23288",
+        "room_desc": "Public Health Ethics"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHIL",
+        "room_num": "87891",
+        "room_desc": "PHIL"
+    }
+]

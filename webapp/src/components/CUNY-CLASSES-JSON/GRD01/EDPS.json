@@ -1,0 +1,842 @@
+[
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4129",
+        "room_desc": "Adv Development Sem"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4130",
+        "room_desc": "Adv Pract/Schl Psyc"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4131",
+        "room_desc": "Adv Practicum in School Psy I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4132",
+        "room_desc": "Adv Practicum in School Psy II"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4133",
+        "room_desc": "Adv Sem Tech Learning Developm"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4134",
+        "room_desc": "Adv Sem: Educ Policy Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4135",
+        "room_desc": "Anthro & Education"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4136",
+        "room_desc": "App Res Sem Prob Solv in Math"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4137",
+        "room_desc": "Appl Bayes Dec Thry Edu & Psyc"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4138",
+        "room_desc": "Aquifr-Param/Grd Wt"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4139",
+        "room_desc": "Artific Intelligenc"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4140",
+        "room_desc": "Bayesian Inference"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4141",
+        "room_desc": "Biol Basis Of Behvr"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4142",
+        "room_desc": "Biological Bassis of Behavior"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4143",
+        "room_desc": "Categorical Data Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4144",
+        "room_desc": "Childhood Anxiety"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4145",
+        "room_desc": "Clastc Depositn Env"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4146",
+        "room_desc": "Cog-Dev Resch/Educ"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4147",
+        "room_desc": "Cogn Dev & Learn Proc in Educ"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4148",
+        "room_desc": "Cogn Struc Proc & Dev of Under"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4149",
+        "room_desc": "Cognit Social Motiv"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4150",
+        "room_desc": "Comm in Cognitive Devlpmnt"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4151",
+        "room_desc": "Counselng In School"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4152",
+        "room_desc": "Cptr Based Info Sy For Instrct"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4153",
+        "room_desc": "Cptr Sci & Thry/Meth For Educ"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4154",
+        "room_desc": "Cul Dif in Soc Cog Proc & Acad"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4155",
+        "room_desc": "Cul Diff Soc Cog Pr"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4156",
+        "room_desc": "Cultur Intell Devel"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4157",
+        "room_desc": "Current Issues in School Psych"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4158",
+        "room_desc": "Dev Psychopat Amng Sch-Bas Pop"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4159",
+        "room_desc": "Dev Psychopath Schl"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4160",
+        "room_desc": "Dev Psychopath Semr"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4161",
+        "room_desc": "Dev of Numer Concpts in Childr"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4162",
+        "room_desc": "Devel Math Concepts"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4163",
+        "room_desc": "Developmental Resch"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4164",
+        "room_desc": "Develpmntl Models"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4165",
+        "room_desc": "Dissertation Supervision"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4166",
+        "room_desc": "Dissrt Supervision"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4167",
+        "room_desc": "Doct Dissrt Resch"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4168",
+        "room_desc": "Doct Dissrt Seminar"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4169",
+        "room_desc": "Dvlpmt Resch+Thry"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4170",
+        "room_desc": "Dynamic Meteorology"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4171",
+        "room_desc": "Ed Psyc Resch Mth"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4172",
+        "room_desc": "Ed Psychology 2"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4173",
+        "room_desc": "Educ Prob in Inner City School"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4174",
+        "room_desc": "Educ Psych:Contemporary Issues"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4175",
+        "room_desc": "Educational Resch"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4176",
+        "room_desc": "Ethic & Prof Iss in School Psy"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4177",
+        "room_desc": "Evaluation Research"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4178",
+        "room_desc": "Exceptional Childrn"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4179",
+        "room_desc": "Gender & Education"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4180",
+        "room_desc": "Graduate Hydrology"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4181",
+        "room_desc": "Health Ed/Beh Chang"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4182",
+        "room_desc": "Heinz Werner Lectur"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4183",
+        "room_desc": "Hierarchical Linear Models"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4184",
+        "room_desc": "Hlth Education & Behav Change"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4185",
+        "room_desc": "Hydrology"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4186",
+        "room_desc": "Igneous Petrol"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4187",
+        "room_desc": "Independent Educ Psych Resch"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4188",
+        "room_desc": "Indiv Diff & Instruction"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4189",
+        "room_desc": "Inst Pract II-Coll Tch Exper"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4190",
+        "room_desc": "Instruc Practic I-School Exper"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4191",
+        "room_desc": "Instructional Issues: Indiv&Cu"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4192",
+        "room_desc": "Instructional Tech"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4193",
+        "room_desc": "Instrumentl Techs"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4194",
+        "room_desc": "Interact/Cognit Dev"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4195",
+        "room_desc": "Internship in School Psych"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4196",
+        "room_desc": "Intro Math Psych"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4197",
+        "room_desc": "Introduction to Psychometrics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4198",
+        "room_desc": "Lang & Comm Dev: Resch & Educ"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4199",
+        "room_desc": "Learning Disability"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4200",
+        "room_desc": "Math Fndtn Soc&Behav Scientist"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4201",
+        "room_desc": "Measurement"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4202",
+        "room_desc": "Messy Data Sets"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4203",
+        "room_desc": "Meta-Cog/Cog Pr L/I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4204",
+        "room_desc": "Metacog/Cognit Proc Lrn & Inst"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4205",
+        "room_desc": "Method Iss in Develop Research"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4206",
+        "room_desc": "Miss Data/Stat Anly"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4207",
+        "room_desc": "Multilev Linear Mod"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4208",
+        "room_desc": "Multivarate Anlysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4209",
+        "room_desc": "Multivariate Anlyis"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4210",
+        "room_desc": "Multivariate Stat"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4211",
+        "room_desc": "Non-Parametric Statistics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4212",
+        "room_desc": "Oceanography"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4213",
+        "room_desc": "Pat Ana4214: EDPS,\"Pers Assmnt Schools"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4215",
+        "room_desc": "Phys Oceanograph I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4216",
+        "room_desc": "Piagetian Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4217",
+        "room_desc": "Pract I School Expr"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4218",
+        "room_desc": "Proc Learn/Instruct"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4219",
+        "room_desc": "Psychometric Method"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4220",
+        "room_desc": "Psymet Eval/Rate Sc"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4221",
+        "room_desc": "Quantitatv Meth Sem"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4222",
+        "room_desc": "Radar/Space Technol"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4223",
+        "room_desc": "Represent In Learng"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4224",
+        "room_desc": "Res Thries & Iss Compr & Comp"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4225",
+        "room_desc": "Resch Mthds in Educ Psych I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4226",
+        "room_desc": "Resch on Learn & Instr in Math"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4227",
+        "room_desc": "Resrch on the Teaching of Math"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4228",
+        "room_desc": "Rock Mechanics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4229",
+        "room_desc": "School Psychology"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4230",
+        "room_desc": "School Psychology Ind Study I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4231",
+        "room_desc": "School Psychology Ind Study II"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4232",
+        "room_desc": "Self-Reg of Acad Learn & Motiv"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4233",
+        "room_desc": "Self-Regul Learning"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4234",
+        "room_desc": "Sem & Lab in Soc Cognitive Dev"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4235",
+        "room_desc": "Sem Info Tech"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4236",
+        "room_desc": "Sem in Educ Thry & Pract I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4237",
+        "room_desc": "Sem in Motiv & Soc Psych in Ed"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4238",
+        "room_desc": "Sem in School Learn Research"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4239",
+        "room_desc": "Seminars in Special Topics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4240",
+        "room_desc": "Social Learning"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4241",
+        "room_desc": "Social Psy/Educat"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4242",
+        "room_desc": "Socializ of School Age Child"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4243",
+        "room_desc": "Socio-Mot/Cult Factrs Dev Ed"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4244",
+        "room_desc": "Stat & Comp Programming I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4245",
+        "room_desc": "Stat & Comp Programming II"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4246",
+        "room_desc": "Stat Anlysis with Missing Data"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4247",
+        "room_desc": "Stat Consulting Sem"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4248",
+        "room_desc": "Stat Resrch Design Cnsltng Sem"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4249",
+        "room_desc": "Stat Theories of Ment Testing"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4250",
+        "room_desc": "Stat/Meterol-Oceang"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4251",
+        "room_desc": "Supervised Research"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4252",
+        "room_desc": "Synoptic Meteorolgy"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4253",
+        "room_desc": "Syst Thry in Sch & Fam Funct"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4254",
+        "room_desc": "Technology Learning and Develo"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4255",
+        "room_desc": "The General Linear Model"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4256",
+        "room_desc": "Theories and Issues in Reading"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4257",
+        "room_desc": "Theries & Principles Soc Psy"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4258",
+        "room_desc": "Thries & Instr Iss Learn Disab"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4259",
+        "room_desc": "Thries & Iss in Hum Dev in Edu"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4260",
+        "room_desc": "Thries & Mthds Coun in the Sch"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4261",
+        "room_desc": "Thries & Mthds Pers Assess Sch"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4262",
+        "room_desc": "Thry & App Beh Tech in Edu Set"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4263",
+        "room_desc": "Thry & Res on Literacy: Adults"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4264",
+        "room_desc": "Thry Rsrch Rd Dis"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4265",
+        "room_desc": "Thry/Res Ear Lit:Pre-Sch & Ear"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4266",
+        "room_desc": "Thry/Res Lit Sch Set:Grad 3-12"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4267",
+        "room_desc": "Thry/Rsrch Reading Disability"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "4268",
+        "room_desc": "Topc/Instructon Psy"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "88337",
+        "room_desc": "EDPS"
+    }
+]

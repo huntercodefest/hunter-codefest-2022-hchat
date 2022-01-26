@@ -1,0 +1,38 @@
+[
+    {
+        "school": "SPS01",
+        "major": "TRAN",
+        "room_num": "81051",
+        "room_desc": "Comp Apps in Transportation"
+    },
+    {
+        "school": "SPS01",
+        "major": "TRAN",
+        "room_num": "81052",
+        "room_desc": "Dev Mass Transit NYC"
+    },
+    {
+        "school": "SPS01",
+        "major": "TRAN",
+        "room_num": "81053",
+        "room_desc": "Financial Plan81054: TRAN,\"Ops Mgmnt in Pub Transport"
+    },
+    {
+        "school": "SPS01",
+        "major": "TRAN",
+        "room_num": "81055",
+        "room_desc": "Org Behav - Pub Transportation"
+    },
+    {
+        "school": "SPS01",
+        "major": "TRAN",
+        "room_num": "81056",
+        "room_desc": "Worker Health and Safety"
+    },
+    {
+        "school": "SPS01",
+        "major": "TRAN",
+        "room_num": "87588",
+        "room_desc": "TRAN"
+    }
+]

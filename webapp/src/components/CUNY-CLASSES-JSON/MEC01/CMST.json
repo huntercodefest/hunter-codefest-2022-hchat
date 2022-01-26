@@ -1,0 +1,38 @@
+[
+    {
+        "school": "MEC01",
+        "major": "CMST",
+        "room_num": "78287",
+        "room_desc": "Assembler Lang Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMST",
+        "room_num": "78288",
+        "room_desc": "Fortran Program Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMST",
+        "room_num": "78289",
+        "room_desc": "Microcomputers Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMST",
+        "room_num": "78290",
+        "room_desc": "Pascal Prog Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMST",
+        "room_num": "78291",
+        "room_desc": "Pl/I Programming Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMST",
+        "room_num": "88280",
+        "room_desc": "CMST"
+    }
+]

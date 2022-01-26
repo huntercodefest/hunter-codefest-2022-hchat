@@ -1,0 +1,26 @@
+[
+    {
+        "school": "NCC01",
+        "major": "ACCT",
+        "room_num": "64171",
+        "room_desc": "Intro to Managerial Accounting"
+    },
+    {
+        "school": "NCC01",
+        "major": "ACCT",
+        "room_num": "64172",
+        "room_desc": "Principles of Accounting I"
+    },
+    {
+        "school": "NCC01",
+        "major": "ACCT",
+        "room_num": "64173",
+        "room_desc": "Principles of Accounting II"
+    },
+    {
+        "school": "NCC01",
+        "major": "ACCT",
+        "room_num": "86912",
+        "room_desc": "ACCT"
+    }
+]

@@ -1,0 +1,560 @@
+[
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68210",
+        "room_desc": "56  Ooo"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68211",
+        "room_desc": "Administrative Law"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68212",
+        "room_desc": "Adv Indust Society"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68213",
+        "room_desc": "African Politics"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68214",
+        "room_desc": "Amer Govt-Politics"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68215",
+        "room_desc": "Amer Political & Legal Thought"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68216",
+        "room_desc": "Amer Welfare State"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68217",
+        "room_desc": "American Constitutional Law"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68218",
+        "room_desc": "American Govt&Polit"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68219",
+        "room_desc": "CUNY Intrn-Ny Govpol"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68220",
+        "room_desc": "CUNY World Affairs Internship"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68221",
+        "room_desc": "Capstone Sem in Pol Science"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68222",
+        "room_desc": "China: Pol/For Relat"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68223",
+        "room_desc": "City Hall and Albany"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68224",
+        "room_desc": "City Politics"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68225",
+        "room_desc": "Civil Rights and Liberties"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68226",
+        "room_desc": "Communsm Rise & Fall"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68227",
+        "room_desc": "Comparative Foreign Policy"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68228",
+        "room_desc": "Comparative Government"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68229",
+        "room_desc": "Comparative Human Rights"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68230",
+        "room_desc": "Congressional Politics"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68231",
+        "room_desc": "Conservatism"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68232",
+        "room_desc": "Criminal Courts & Def Rights"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68233",
+        "room_desc": "Criminal Law and Procedure"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68234",
+        "room_desc": "Cuny Intrn-Ny Govpol"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68235",
+        "room_desc": "Current Amer Foreign Policy"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68236",
+        "room_desc": "Democracy and Democratization"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68237",
+        "room_desc": "Early Political Theory"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68238",
+        "room_desc": "Early Western Political Theory"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68239",
+        "room_desc": "East Asian Politics"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68240",
+        "room_desc": "Energy/Environment"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68241",
+        "room_desc": "Europ Govt&Society"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68242",
+        "room_desc": "Foreign Eco Policy"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68243",
+        "room_desc": "From Ussr To The Cis"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68244",
+        "room_desc": "History of Legal Thought"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68245",
+        "room_desc": "Inequality & Welfare"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68246",
+        "room_desc": "International Law"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68247",
+        "room_desc": "International Organizations"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68248",
+        "room_desc": "International Politics"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68249",
+        "room_desc": "International Security"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68250",
+        "room_desc": "Internl Pol Economy"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68251",
+        "room_desc": "Intl Neg & Conflict"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68252",
+        "room_desc": "Intrnshps in NYS Govt"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68253",
+        "room_desc": "Intro To Pol Sci"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68254",
+        "room_desc": "Latin American Politics"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68255",
+        "room_desc": "Law and Economics"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68256",
+        "room_desc": "Law68257: POSC,\"Legal Philosophy"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68258",
+        "room_desc": "Marx and Marxism"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68259",
+        "room_desc": "Middle East"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68260",
+        "room_desc": "Mod World Ideology"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68261",
+        "room_desc": "Modern Western Pol Theory"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68262",
+        "room_desc": "NYC Government II"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68263",
+        "room_desc": "Nazism and The Holocaust"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68264",
+        "room_desc": "New York City Government I"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68265",
+        "room_desc": "Nys Gov Internship"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68266",
+        "room_desc": "Peace and Co-existence"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68267",
+        "room_desc": "Pol Grad Credit"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68268",
+        "room_desc": "Pol Of New Germany"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68269",
+        "room_desc": "Pol Sci/Eco/Philo Sen Seminar"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68270",
+        "room_desc": "Pol/Dev Countries"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68271",
+        "room_desc": "Pol/Eco War-Peace"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68272",
+        "room_desc": "Political Analysis"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68273",
+        "room_desc": "Political Economics"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68274",
+        "room_desc": "Political Geography"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68275",
+        "room_desc": "Political Parties"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68276",
+        "room_desc": "Political Sociology"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68277",
+        "room_desc": "Politics Ind Study"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68278",
+        "room_desc": "Politics Independent Study"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68279",
+        "room_desc": "Politics Internship"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68280",
+        "room_desc": "Politics and the Novel"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68281",
+        "room_desc": "Politics68282: POSC,\"Psychology and Politics"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68283",
+        "room_desc": "Public Administration."
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68284",
+        "room_desc": "Public Policy Analysis"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68285",
+        "room_desc": "Race68286: POSC,\"Recent Pol Theory"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68287",
+        "room_desc": "Recent Western Pol Theory"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68288",
+        "room_desc": "Rev And Revolutionaries"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68289",
+        "room_desc": "Seminar In Politics"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68290",
+        "room_desc": "State and Society"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68291",
+        "room_desc": "Storming Washingtn"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68292",
+        "room_desc": "Terrorism"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68293",
+        "room_desc": "The American Legal System"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68294",
+        "room_desc": "The American Political System"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68295",
+        "room_desc": "The American Presidency"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68296",
+        "room_desc": "The Art & Sci Of Pol Resrch"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68297",
+        "room_desc": "The Israel-Palestine Conflict"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68298",
+        "room_desc": "The Judicial Process"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68299",
+        "room_desc": "The Judiciary in Politics"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68300",
+        "room_desc": "The Politics of Evil"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68301",
+        "room_desc": "The Russian Revolution"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68302",
+        "room_desc": "United States Constitution"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68303",
+        "room_desc": "Uniting Eur: Pol Econ Europ Un"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "68304",
+        "room_desc": "West Euro Pol"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "87210",
+        "room_desc": "POSC"
+    }
+]

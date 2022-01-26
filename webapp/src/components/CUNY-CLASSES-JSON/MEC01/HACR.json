@@ -1,0 +1,26 @@
+[
+    {
+        "school": "MEC01",
+        "major": "HACR",
+        "room_num": "78805",
+        "room_desc": "Haitian Course Interp Intrnshp"
+    },
+    {
+        "school": "MEC01",
+        "major": "HACR",
+        "room_num": "78806",
+        "room_desc": "Haitian Creole Native Spkrs I"
+    },
+    {
+        "school": "MEC01",
+        "major": "HACR",
+        "room_num": "78807",
+        "room_desc": "Haitian Creole Native Spks II"
+    },
+    {
+        "school": "MEC01",
+        "major": "HACR",
+        "room_num": "88288",
+        "room_desc": "HACR"
+    }
+]

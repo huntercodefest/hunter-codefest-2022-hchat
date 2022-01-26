@@ -1,0 +1,356 @@
+[
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79863",
+        "room_desc": "Admin of Global Institutions"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79864",
+        "room_desc": "Administrative Law"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79865",
+        "room_desc": "BLACKS IN GOVERNMENT"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79866",
+        "room_desc": "Case Studies in Emergency Prep"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79867",
+        "room_desc": "Case Study/Pub Pol"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79868",
+        "room_desc": "Community Policing"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79869",
+        "room_desc": "Comparative Public Admin"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79870",
+        "room_desc": "Const. Law/Civil Lib"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79871",
+        "room_desc": "Crim. Justice Proc"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79872",
+        "room_desc": "Crime/Punish/Urb/Am"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79873",
+        "room_desc": "Decision Making Gov Capstone"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79874",
+        "room_desc": "Designing Local Programs"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79875",
+        "room_desc": "Dev & Imp Of Pub Pro"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79876",
+        "room_desc": "Diagnosis Assess Eva"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79877",
+        "room_desc": "Education Policy"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79878",
+        "room_desc": "Ethical Issues in Government"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79879",
+        "room_desc": "Fiscal Administration"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79880",
+        "room_desc": "Gis Application"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79881",
+        "room_desc": "Global Public Policy"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79882",
+        "room_desc": "Government and Business"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79883",
+        "room_desc": "Govt Comm Systems"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79884",
+        "room_desc": "Govt Communic"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79885",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79886",
+        "room_desc": "Intergovernmental Relations"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79887",
+        "room_desc": "Internship I"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79888",
+        "room_desc": "Intro Non-Profit Admin"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79889",
+        "room_desc": "Intro Pub Svc & Adm"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79890",
+        "room_desc": "Intro/Discharge Plng"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79891",
+        "room_desc": "Introduction to Criminal Law"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79892",
+        "room_desc": "Judicial/Court Sys"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79893",
+        "room_desc": "Mgmt Info Syst"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79894",
+        "room_desc": "Municipal and Regional Admin"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79895",
+        "room_desc": "NYS and Local Government"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79896",
+        "room_desc": "Org Resp Urban Envr"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79897",
+        "room_desc": "Org Theory Pub Sect"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79898",
+        "room_desc": "Orient To Pa"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79899",
+        "room_desc": "Pa & Globalization"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79900",
+        "room_desc": "Pa/Globalization"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79901",
+        "room_desc": "Parole and Probation"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79902",
+        "room_desc": "Philntropy Fund Devmt"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79903",
+        "room_desc": "Pl. & Mgmt Prob. Of"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79904",
+        "room_desc": "Plng79905: PUAD,\"Pocy Mkng Public Int"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79906",
+        "room_desc": "Policy Mkng Pub Int"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79907",
+        "room_desc": "Pub Pers Admin"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79908",
+        "room_desc": "Pub. Agen. As A Wrkp"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79909",
+        "room_desc": "Public Admin Intern"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79910",
+        "room_desc": "Public Bureaucracy & Disaster"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79911",
+        "room_desc": "Public Personnel"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79912",
+        "room_desc": "Public Policy and Caseload Man"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79913",
+        "room_desc": "Public Program Evaluation"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79914",
+        "room_desc": "Res. Meth For P.A."
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79915",
+        "room_desc": "Sem & Pract In Urb P"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79916",
+        "room_desc": "Sem. In An. & Ev. Of"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79917",
+        "room_desc": "Social Policy Aged"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79918",
+        "room_desc": "Struc. & Ope. Of Gov"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79919",
+        "room_desc": "Un & Int\u2019L Administr"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79920",
+        "room_desc": "Use Of Data In Ppa&E"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "79921",
+        "room_desc": "War On Drugs: Eco79922: PUAD,\"e-Government"
+    },
+    {
+        "school": "MEC01",
+        "major": "PUAD",
+        "room_num": "88271",
+        "room_desc": "PUAD"
+    }
+]

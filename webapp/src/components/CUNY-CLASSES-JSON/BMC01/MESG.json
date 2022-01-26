@@ -1,0 +1,314 @@
+[
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18541",
+        "room_desc": "Applied Lib Service"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18542",
+        "room_desc": "CUNYstart Seminar"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18543",
+        "room_desc": "Enlight Rev & Roman"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18544",
+        "room_desc": "Int Directed Study"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18545",
+        "room_desc": "Intro To Lib Svce"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18546",
+        "room_desc": "New Media Mat & Org"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18547",
+        "room_desc": "On Permit"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18548",
+        "room_desc": "Permit Fr Baruch"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18549",
+        "room_desc": "Permit Fr Bronx"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18550",
+        "room_desc": "Permit Fr Brooklyn"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18551",
+        "room_desc": "Permit Fr City"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18552",
+        "room_desc": "Permit Fr Evers"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18553",
+        "room_desc": "Permit Fr Hostos"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18554",
+        "room_desc": "Permit Fr Hunter"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18555",
+        "room_desc": "Permit Fr John Jay"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18556",
+        "room_desc": "Permit Fr Kingsboro"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18557",
+        "room_desc": "Permit Fr Laguardia"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18558",
+        "room_desc": "Permit Fr Lehman"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18559",
+        "room_desc": "Permit Fr Non-Cuny"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18560",
+        "room_desc": "Permit Fr Nyccc"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18561",
+        "room_desc": "Permit Fr Qnsboro"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18562",
+        "room_desc": "Permit Fr Queens"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18563",
+        "room_desc": "Permit Fr Richmond"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18564",
+        "room_desc": "Permit Fr Staten Is"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18565",
+        "room_desc": "Permit Fr York"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18566",
+        "room_desc": "Permit From Cuny Ba"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18567",
+        "room_desc": "Permit To Baruch"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18568",
+        "room_desc": "Permit To Bronx"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18569",
+        "room_desc": "Permit To Brooklyn"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18570",
+        "room_desc": "Permit To City"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18571",
+        "room_desc": "Permit To Cuny Ba"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18572",
+        "room_desc": "Permit To Evers"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18573",
+        "room_desc": "Permit To Grad Ctr"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18574",
+        "room_desc": "Permit To Hostos"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18575",
+        "room_desc": "Permit To Hunter"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18576",
+        "room_desc": "Permit To John Jay"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18577",
+        "room_desc": "Permit To Kingsboro"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18578",
+        "room_desc": "Permit To Laguardia"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18579",
+        "room_desc": "Permit To Lehman"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18580",
+        "room_desc": "Permit To Nyccc"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18581",
+        "room_desc": "Permit To Qnsboro"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18582",
+        "room_desc": "Permit To Queens"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18583",
+        "room_desc": "Permit To Richmond"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18584",
+        "room_desc": "Permit To Staten Is"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18585",
+        "room_desc": "Permit To U Paris"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18586",
+        "room_desc": "Permit To York"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18587",
+        "room_desc": "Permit-Sch Prof Stu"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18588",
+        "room_desc": "Pub Service In Lib"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18589",
+        "room_desc": "Tap Credit Eval"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18590",
+        "room_desc": "Tech Proc In Lib"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "18591",
+        "room_desc": "The Great Cities"
+    },
+    {
+        "school": "BMC01",
+        "major": "MESG",
+        "room_num": "86821",
+        "room_desc": "MESG"
+    }
+]

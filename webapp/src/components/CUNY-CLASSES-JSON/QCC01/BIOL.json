@@ -1,0 +1,452 @@
+[
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22254",
+        "room_desc": "Anat& Physio 1 Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22255",
+        "room_desc": "Anat& Physio 2 Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22256",
+        "room_desc": "Anatomy and Physiology I"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22257",
+        "room_desc": "Anatomy and Physiology II"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22258",
+        "room_desc": "Applied Biostatistics"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22259",
+        "room_desc": "Asst Med Off Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22260",
+        "room_desc": "Asst Medical Office: Clin Proc"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22261",
+        "room_desc": "Asst Medical Office: Med Proc"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22262",
+        "room_desc": "Bio Research Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22263",
+        "room_desc": "Bioinformatics/Comptationl Bio"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22264",
+        "room_desc": "Biology Seminar"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22265",
+        "room_desc": "Biotech Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22266",
+        "room_desc": "Biotechnology"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22267",
+        "room_desc": "Cell Biology"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22268",
+        "room_desc": "Clinical Chem Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22269",
+        "room_desc": "Coop Ed in Health Professions"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22270",
+        "room_desc": "Current Environmental Issues"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22271",
+        "room_desc": "Ecology"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22272",
+        "room_desc": "Ekg Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22273",
+        "room_desc": "Electrocardiogram Technology"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22274",
+        "room_desc": "Envirn Hea Sci Lb"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22275",
+        "room_desc": "Environmental Health Science"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22276",
+        "room_desc": "Environmental Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22277",
+        "room_desc": "Environmental Science"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22278",
+        "room_desc": "Evolution and Man"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22279",
+        "room_desc": "Field Exp in Medical Assisting"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22280",
+        "room_desc": "Fld Exp Med Ass"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22281",
+        "room_desc": "Foundations of Biology"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22282",
+        "room_desc": "Foundations of Biology: Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22283",
+        "room_desc": "Fundamentals of Life Science"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22284",
+        "room_desc": "Gen Biology 1 Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22285",
+        "room_desc": "Gen Biology 2 Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22286",
+        "room_desc": "General Biology I"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22287",
+        "room_desc": "General Biology II"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22288",
+        "room_desc": "General Epidemiology"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22289",
+        "room_desc": "General Micro Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22290",
+        "room_desc": "General Microbiology"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22291",
+        "room_desc": "Health Sciences Internship"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22292",
+        "room_desc": "Hematlgy  Urin Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22293",
+        "room_desc": "Hematology and Urinalysis"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22294",
+        "room_desc": "Human Anatomy"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22295",
+        "room_desc": "Human Phsyolgy Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22296",
+        "room_desc": "Human Physiology"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22297",
+        "room_desc": "Humn Anat Lb"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22298",
+        "room_desc": "Immune Sys in Heath & Disease"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22299",
+        "room_desc": "Intro Bio For Science Majors"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22300",
+        "room_desc": "Intro to Biological Research"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22301",
+        "room_desc": "Introduction to Human Biology"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22302",
+        "room_desc": "Introduction to Public Health"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22303",
+        "room_desc": "Kinesiology"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22304",
+        "room_desc": "Kinesiology Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22305",
+        "room_desc": "Laboratory: Plants and People"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22306",
+        "room_desc": "Medical Terminology"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22307",
+        "room_desc": "Microbiology"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22308",
+        "room_desc": "Microbiology Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22309",
+        "room_desc": "Myology"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22310",
+        "room_desc": "Myology Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22311",
+        "room_desc": "Neurophysiology"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22312",
+        "room_desc": "Org & Delivery of Health Care"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22313",
+        "room_desc": "Pathophysiology"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22314",
+        "room_desc": "Patient Care Coordination"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22315",
+        "room_desc": "Pharmacology"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22316",
+        "room_desc": "Phlebotomy Practice"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22317",
+        "room_desc": "Phlebotomy Tch Lb"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22318",
+        "room_desc": "Phlebotomy Technology"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22319",
+        "room_desc": "Plants and People"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22320",
+        "room_desc": "Prin Of Bio. Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22321",
+        "room_desc": "Principles Of Genetics"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22322",
+        "room_desc": "Principles of Biology"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22323",
+        "room_desc": "Principles of Endocrinology"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22324",
+        "room_desc": "Prof Physician Asst"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22325",
+        "room_desc": "Public Hea Sci Lb"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22326",
+        "room_desc": "Public Health Biology"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "22327",
+        "room_desc": "Research Laboratory Internship"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "87877",
+        "room_desc": "BIOL"
+    }
+]

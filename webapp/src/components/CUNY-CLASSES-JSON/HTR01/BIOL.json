@@ -1,0 +1,20 @@
+[
+    {
+        "school": "HTR01",
+        "major": "BIOL",
+        "room_num": "47309",
+        "room_desc": "Gen Bio 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "BIOL",
+        "room_num": "47310",
+        "room_desc": "Gen Bio 3"
+    },
+    {
+        "school": "HTR01",
+        "major": "BIOL",
+        "room_num": "87702",
+        "room_desc": "BIOL"
+    }
+]

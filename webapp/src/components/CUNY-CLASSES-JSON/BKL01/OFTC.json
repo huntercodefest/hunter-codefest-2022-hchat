@@ -1,0 +1,50 @@
+[
+    {
+        "school": "BKL01",
+        "major": "OFTC",
+        "room_num": "75506",
+        "room_desc": "Gregg Adv"
+    },
+    {
+        "school": "BKL01",
+        "major": "OFTC",
+        "room_num": "75507",
+        "room_desc": "Gregg Elem"
+    },
+    {
+        "school": "BKL01",
+        "major": "OFTC",
+        "room_num": "75508",
+        "room_desc": "Intro Office Mgmt"
+    },
+    {
+        "school": "BKL01",
+        "major": "OFTC",
+        "room_num": "75509",
+        "room_desc": "Schl Records & Accts"
+    },
+    {
+        "school": "BKL01",
+        "major": "OFTC",
+        "room_num": "75510",
+        "room_desc": "School Clerk 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "OFTC",
+        "room_num": "75511",
+        "room_desc": "School Clerk 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "OFTC",
+        "room_num": "75512",
+        "room_desc": "Secret Civ Svc"
+    },
+    {
+        "school": "BKL01",
+        "major": "OFTC",
+        "room_num": "86990",
+        "room_desc": "OFTC"
+    }
+]

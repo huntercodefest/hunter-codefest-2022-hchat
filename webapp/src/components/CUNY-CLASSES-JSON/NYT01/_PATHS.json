@@ -1,0 +1,426 @@
+[
+    {
+        "major": "CHEM",
+        "path": "CHEM.json"
+    },
+    {
+        "major": "PSYC",
+        "path": "PSYC.json"
+    },
+    {
+        "major": "GEOG",
+        "path": "GEOG.json"
+    },
+    {
+        "major": "EDSP",
+        "path": "EDSP.json"
+    },
+    {
+        "major": "ENGL",
+        "path": "ENGL.json"
+    },
+    {
+        "major": "LACS",
+        "path": "LACS.json"
+    },
+    {
+        "major": "FOBL",
+        "path": "FOBL.json"
+    },
+    {
+        "major": "ELTE",
+        "path": "ELTE.json"
+    },
+    {
+        "major": "HIST",
+        "path": "HIST.json"
+    },
+    {
+        "major": "SOCI",
+        "path": "SOCI.json"
+    },
+    {
+        "major": "AMST",
+        "path": "AMST.json"
+    },
+    {
+        "major": "NEUR",
+        "path": "NEUR.json"
+    },
+    {
+        "major": "BUDA",
+        "path": "BUDA.json"
+    },
+    {
+        "major": "NURS",
+        "path": "NURS.json"
+    },
+    {
+        "major": "PERM",
+        "path": "PERM.json"
+    },
+    {
+        "major": "ASTR",
+        "path": "ASTR.json"
+    },
+    {
+        "major": "PHYS",
+        "path": "PHYS.json"
+    },
+    {
+        "major": "SILC",
+        "path": "SILC.json"
+    },
+    {
+        "major": "UBST",
+        "path": "UBST.json"
+    },
+    {
+        "major": "STDV",
+        "path": "STDV.json"
+    },
+    {
+        "major": "COCC",
+        "path": "COCC.json"
+    },
+    {
+        "major": "ECON",
+        "path": "ECON.json"
+    },
+    {
+        "major": "COMM",
+        "path": "COMM.json"
+    },
+    {
+        "major": "COBL",
+        "path": "COBL.json"
+    },
+    {
+        "major": "EDUC",
+        "path": "EDUC.json"
+    },
+    {
+        "major": "STAB",
+        "path": "STAB.json"
+    },
+    {
+        "major": "LATI",
+        "path": "LATI.json"
+    },
+    {
+        "major": "SEEK",
+        "path": "SEEK.json"
+    },
+    {
+        "major": "EAST",
+        "path": "EAST.json"
+    },
+    {
+        "major": "LIBT",
+        "path": "LIBT.json"
+    },
+    {
+        "major": "FROR",
+        "path": "FROR.json"
+    },
+    {
+        "major": "MAOM",
+        "path": "MAOM.json"
+    },
+    {
+        "major": "MELS",
+        "path": "MELS.json"
+    },
+    {
+        "major": "MARK",
+        "path": "MARK.json"
+    },
+    {
+        "major": "FOLA",
+        "path": "FOLA.json"
+    },
+    {
+        "major": "SOWO",
+        "path": "SOWO.json"
+    },
+    {
+        "major": "ARDR",
+        "path": "ARDR.json"
+    },
+    {
+        "major": "CIST",
+        "path": "CIST.json"
+    },
+    {
+        "major": "PHOT",
+        "path": "PHOT.json"
+    },
+    {
+        "major": "EDEC",
+        "path": "EDEC.json"
+    },
+    {
+        "major": "GEOL",
+        "path": "GEOL.json"
+    },
+    {
+        "major": "BESC",
+        "path": "BESC.json"
+    },
+    {
+        "major": "MESG",
+        "path": "MESG.json"
+    },
+    {
+        "major": "AMSL",
+        "path": "AMSL.json"
+    },
+    {
+        "major": "INTE",
+        "path": "INTE.json"
+    },
+    {
+        "major": "ITAL",
+        "path": "ITAL.json"
+    },
+    {
+        "major": "SCIE",
+        "path": "SCIE.json"
+    },
+    {
+        "major": "CERT",
+        "path": "CERT.json"
+    },
+    {
+        "major": "EDET",
+        "path": "EDET.json"
+    },
+    {
+        "major": "COUN",
+        "path": "COUN.json"
+    },
+    {
+        "major": "GERM",
+        "path": "GERM.json"
+    },
+    {
+        "major": "EDSU",
+        "path": "EDSU.json"
+    },
+    {
+        "major": "EGSC",
+        "path": "EGSC.json"
+    },
+    {
+        "major": "AUSD",
+        "path": "AUSD.json"
+    },
+    {
+        "major": "HUMA",
+        "path": "HUMA.json"
+    },
+    {
+        "major": "EGEL",
+        "path": "EGEL.json"
+    },
+    {
+        "major": "BUSI",
+        "path": "BUSI.json"
+    },
+    {
+        "major": "LIST",
+        "path": "LIST.json"
+    },
+    {
+        "major": "BIOL",
+        "path": "BIOL.json"
+    },
+    {
+        "major": "PHTH",
+        "path": "PHTH.json"
+    },
+    {
+        "major": "INSI",
+        "path": "INSI.json"
+    },
+    {
+        "major": "ACCT",
+        "path": "ACCT.json"
+    },
+    {
+        "major": "AFST",
+        "path": "AFST.json"
+    },
+    {
+        "major": "CHIN",
+        "path": "CHIN.json"
+    },
+    {
+        "major": "SPAN",
+        "path": "SPAN.json"
+    },
+    {
+        "major": "KORE",
+        "path": "KORE.json"
+    },
+    {
+        "major": "MDTC",
+        "path": "MDTC.json"
+    },
+    {
+        "major": "ARPE",
+        "path": "ARPE.json"
+    },
+    {
+        "major": "POSC",
+        "path": "POSC.json"
+    },
+    {
+        "major": "CUBA",
+        "path": "CUBA.json"
+    },
+    {
+        "major": "EDEM",
+        "path": "EDEM.json"
+    },
+    {
+        "major": "EDOC",
+        "path": "EDOC.json"
+    },
+    {
+        "major": "ELEC",
+        "path": "ELEC.json"
+    },
+    {
+        "major": "EDHE",
+        "path": "EDHE.json"
+    },
+    {
+        "major": "MUSI",
+        "path": "MUSI.json"
+    },
+    {
+        "major": "RUSS",
+        "path": "RUSS.json"
+    },
+    {
+        "major": "CIMS",
+        "path": "CIMS.json"
+    },
+    {
+        "major": "LANG",
+        "path": "LANG.json"
+    },
+    {
+        "major": "EDPH",
+        "path": "EDPH.json"
+    },
+    {
+        "major": "FREN",
+        "path": "FREN.json"
+    },
+    {
+        "major": "INST",
+        "path": "INST.json"
+    },
+    {
+        "major": "EDMS",
+        "path": "EDMS.json"
+    },
+    {
+        "major": "PHIL",
+        "path": "PHIL.json"
+    },
+    {
+        "major": "EGET",
+        "path": "EGET.json"
+    },
+    {
+        "major": "MATH",
+        "path": "MATH.json"
+    },
+    {
+        "major": "ARAB",
+        "path": "ARAB.json"
+    },
+    {
+        "major": "EDSE",
+        "path": "EDSE.json"
+    },
+    {
+        "major": "HONS",
+        "path": "HONS.json"
+    },
+    {
+        "major": "CMSC",
+        "path": "CMSC.json"
+    },
+    {
+        "major": "WOST",
+        "path": "WOST.json"
+    },
+    {
+        "major": "SOSC",
+        "path": "SOSC.json"
+    },
+    {
+        "major": "ENSC",
+        "path": "ENSC.json"
+    },
+    {
+        "major": "AFAS",
+        "path": "AFAS.json"
+    },
+    {
+        "major": "ANTH",
+        "path": "ANTH.json"
+    },
+    {
+        "major": "FINA",
+        "path": "FINA.json"
+    },
+    {
+        "major": "RORE",
+        "path": "RORE.json"
+    },
+    {
+        "major": "LING",
+        "path": "LING.json"
+    },
+    {
+        "major": "MANA",
+        "path": "MANA.json"
+    },
+    {
+        "major": "EDGC",
+        "path": "EDGC.json"
+    },
+    {
+        "major": "EVSC",
+        "path": "EVSC.json"
+    },
+    {
+        "major": "LAST",
+        "path": "LAST.json"
+    },
+    {
+        "major": "DANC",
+        "path": "DANC.json"
+    },
+    {
+        "major": "GWSS",
+        "path": "GWSS.json"
+    },
+    {
+        "major": "CORE",
+        "path": "CORE.json"
+    },
+    {
+        "major": "ART",
+        "path": "ART.json"
+    },
+    {
+        "major": "NYT01",
+        "path": "NYT01.json"
+    }
+]

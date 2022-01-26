@@ -1,0 +1,524 @@
+[
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54622",
+        "room_desc": "Advanced Jazz Workshop"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54623",
+        "room_desc": "Art Song"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54624",
+        "room_desc": "Art of Transcription"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54625",
+        "room_desc": "Chamber Choir"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54626",
+        "room_desc": "Chamber Music Workshop"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54627",
+        "room_desc": "Chamber Music Wrkshp"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54628",
+        "room_desc": "Chamber Singers"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54629",
+        "room_desc": "Chmbr Music Workshop"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54630",
+        "room_desc": "Collaborative Piano"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54631",
+        "room_desc": "College Choir"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54632",
+        "room_desc": "Collegium Musicum"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54633",
+        "room_desc": "Conducting 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54634",
+        "room_desc": "Conducting 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54635",
+        "room_desc": "Creating Opera:Workshop"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54636",
+        "room_desc": "Dance Band"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54637",
+        "room_desc": "Diction for Singers"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54638",
+        "room_desc": "Duke Ellington"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54639",
+        "room_desc": "Early Music Consort"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54640",
+        "room_desc": "Early Music Consort II"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54641",
+        "room_desc": "Elementary Guitar I"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54642",
+        "room_desc": "Elementary Guitar II"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54643",
+        "room_desc": "Elementary Piano 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54644",
+        "room_desc": "Elementary Piano 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54645",
+        "room_desc": "Elementary Voice 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54646",
+        "room_desc": "Elementary Voice 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54647",
+        "room_desc": "Ensemble Middle East"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54648",
+        "room_desc": "Evol & Dev of Big Band Jazz"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54649",
+        "room_desc": "Exprmts in Interdisc Perf"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54650",
+        "room_desc": "Fundamentals-Theory"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54651",
+        "room_desc": "Gospel Chorus"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54652",
+        "room_desc": "Hunter Chamber Singers"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54653",
+        "room_desc": "Hunter String Ensemble"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54654",
+        "room_desc": "Hunter Symphony"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54655",
+        "room_desc": "Hunter Wind Ensemble"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54656",
+        "room_desc": "Improv & Comp Classical Pianst"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54657",
+        "room_desc": "Ind-2nd Instr/Voice"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54658",
+        "room_desc": "Indiv-Instr or Voice"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54659",
+        "room_desc": "Individual Instruct or Voice"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54660",
+        "room_desc": "Instr Music Methods"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54661",
+        "room_desc": "Intr Notation Softwr"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54662",
+        "room_desc": "Intrm Keybrd Stud 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54663",
+        "room_desc": "Intro to Dalcroze"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54664",
+        "room_desc": "Jazz Band"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54665",
+        "room_desc": "Jazz Ensemble"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54666",
+        "room_desc": "Jazz Theory & Impro"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54667",
+        "room_desc": "Jazz Vocal Workshop Ensemble"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54668",
+        "room_desc": "Jazz Workshop"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54669",
+        "room_desc": "Jazz and Popular Music Combos"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54670",
+        "room_desc": "Latin Amer Mus: Perf & Repert"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54671",
+        "room_desc": "Major-Instr or Voice"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54672",
+        "room_desc": "Music Technology & Performance"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54673",
+        "room_desc": "Music Theater Wkshp 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54674",
+        "room_desc": "Music Theater Workshop"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54675",
+        "room_desc": "Music Theater Workshop 3"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54676",
+        "room_desc": "Opera Characterization"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54677",
+        "room_desc": "Opera Music Theater Workshop"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54678",
+        "room_desc": "Opera Performance"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54679",
+        "room_desc": "Opera Production"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54680",
+        "room_desc": "Opera Scenes"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54681",
+        "room_desc": "Oratorio: Arias and Ensembles"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54682",
+        "room_desc": "Perfmnc Cl for Piano"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54683",
+        "room_desc": "Performance  Cl for Piano"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54684",
+        "room_desc": "Performance Class for Pianists"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54685",
+        "room_desc": "Piano 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54686",
+        "room_desc": "Piano 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54687",
+        "room_desc": "Popular Music Combo"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54688",
+        "room_desc": "Roots and Rhythms Latin Jazz"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54689",
+        "room_desc": "Sght Sing&Ear Trn 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54690",
+        "room_desc": "Sp Tp: Ensemble Middle East 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54691",
+        "room_desc": "Spc Tps: Art of A Cappella II"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54692",
+        "room_desc": "Spec Std:Recital"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54693",
+        "room_desc": "Spec Stud Music Perf"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54694",
+        "room_desc": "Spec Stud Music Performance"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54695",
+        "room_desc": "Special Studies Music Perform"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54696",
+        "room_desc": "The Art of A Cappella"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54697",
+        "room_desc": "The Art of Cabaret"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54698",
+        "room_desc": "The College Choir"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54699",
+        "room_desc": "The Hunter Symphony"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54700",
+        "room_desc": "The Music of Charlie Parker"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54701",
+        "room_desc": "The Music of Jelly Roll Martin"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54702",
+        "room_desc": "Vocal Lit Perf Class"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54703",
+        "room_desc": "Vocal Lit Performance II"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54704",
+        "room_desc": "Vocal Lit-Solo Voice"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54705",
+        "room_desc": "Vocal Ornm Classical Singers"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54706",
+        "room_desc": "Voice 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "54707",
+        "room_desc": "Voice I"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "87644",
+        "room_desc": "MUSP"
+    }
+]

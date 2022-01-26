@@ -1,0 +1,314 @@
+[
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11686",
+        "room_desc": "200-300 Level Elective"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11687",
+        "room_desc": "Acad Perspectiv World of Work"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11688",
+        "room_desc": "Advanced Auditing"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11689",
+        "room_desc": "Advncd Acctng Theory"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11690",
+        "room_desc": "Analysis Fin Statements"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11691",
+        "room_desc": "Cmputr Info Sys Mgmt"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11692",
+        "room_desc": "Computer-Based Accounting"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11693",
+        "room_desc": "Consumer Economics"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11694",
+        "room_desc": "Cost Accounting II"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11695",
+        "room_desc": "Develpm Econ Thought"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11696",
+        "room_desc": "Eco History Dev Countries"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11697",
+        "room_desc": "Econ Development Latin America"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11698",
+        "room_desc": "Econometrics"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11699",
+        "room_desc": "Economic Analysis"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11700",
+        "room_desc": "Economic Eval of Hlth Programs"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11701",
+        "room_desc": "Economic Statistics"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11702",
+        "room_desc": "Economics Seminar"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11703",
+        "room_desc": "Economics of Aging"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11704",
+        "room_desc": "Economics of Inequality"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11705",
+        "room_desc": "Economics of Marketing"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11706",
+        "room_desc": "Fundaments-Economics"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11707",
+        "room_desc": "Graduate Seminar"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11708",
+        "room_desc": "Health Economics"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11709",
+        "room_desc": "His Amer Econmc Devlpmnt"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11710",
+        "room_desc": "History of Economic Thought."
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11711",
+        "room_desc": "Honors Project in Economics"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11712",
+        "room_desc": "Indep Study in Econ or Acct"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11713",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11714",
+        "room_desc": "Industrial Organization& Reg"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11715",
+        "room_desc": "Int Mathematical Eco"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11716",
+        "room_desc": "Intermediate Accounting I"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11717",
+        "room_desc": "Intermediate Macroeconomics"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11718",
+        "room_desc": "Intermediate Microeconomics"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11719",
+        "room_desc": "International Economics"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11720",
+        "room_desc": "Internship in Economics"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11721",
+        "room_desc": "Intro To Coop Educ"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11722",
+        "room_desc": "Introduction of Macroeconomics"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11723",
+        "room_desc": "Introduction to Microeconomics"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11724",
+        "room_desc": "Jumpstart Your Career:BravenAc"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11725",
+        "room_desc": "Labor Economics"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11726",
+        "room_desc": "Law and Economics"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11727",
+        "room_desc": "Macroeconomics"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11728",
+        "room_desc": "Managerial Economics"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11729",
+        "room_desc": "Managerial Finance"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11730",
+        "room_desc": "Microeconomics"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11731",
+        "room_desc": "Money and Banking"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11732",
+        "room_desc": "Public Economics"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11733",
+        "room_desc": "Quantitative Analysis"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11734",
+        "room_desc": "Society11735: ECON,\"Sociology of Eco Development"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11736",
+        "room_desc": "Socl Process-Wrk Env"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "11737",
+        "room_desc": "Urban Economics"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "88149",
+        "room_desc": "ECON"
+    }
+]

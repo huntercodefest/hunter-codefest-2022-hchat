@@ -1,0 +1,38 @@
+[
+    {
+        "school": "SPS01",
+        "major": "SOSC",
+        "room_num": "81025",
+        "room_desc": "Cultural Diversity I"
+    },
+    {
+        "school": "SPS01",
+        "major": "SOSC",
+        "room_num": "81026",
+        "room_desc": "Cultural Diversity II"
+    },
+    {
+        "school": "SPS01",
+        "major": "SOSC",
+        "room_num": "81027",
+        "room_desc": "Glob & Chg Workplace"
+    },
+    {
+        "school": "SPS01",
+        "major": "SOSC",
+        "room_num": "81028",
+        "room_desc": "Internship"
+    },
+    {
+        "school": "SPS01",
+        "major": "SOSC",
+        "room_num": "81029",
+        "room_desc": "Sociology of Work and Family"
+    },
+    {
+        "school": "SPS01",
+        "major": "SOSC",
+        "room_num": "87609",
+        "room_desc": "SOSC"
+    }
+]

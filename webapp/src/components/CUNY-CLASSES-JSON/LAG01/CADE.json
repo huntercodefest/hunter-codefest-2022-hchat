@@ -1,0 +1,20 @@
+[
+    {
+        "school": "LAG01",
+        "major": "CADE",
+        "room_num": "81438",
+        "room_desc": "Career Development Seminar"
+    },
+    {
+        "school": "LAG01",
+        "major": "CADE",
+        "room_num": "81439",
+        "room_desc": "Freshman Seminar"
+    },
+    {
+        "school": "LAG01",
+        "major": "CADE",
+        "room_num": "86717",
+        "room_desc": "CADE"
+    }
+]

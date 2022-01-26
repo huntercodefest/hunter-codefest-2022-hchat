@@ -1,0 +1,626 @@
+[
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74650",
+        "room_desc": "Activ For Mentally Retarded"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74651",
+        "room_desc": "Activ/Recre Disabled"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74652",
+        "room_desc": "Adm of Intrschl Intrcoll Sport"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74653",
+        "room_desc": "Adv Biomech.Exer Sci"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74654",
+        "room_desc": "Adv Biomechanc of Ortho Injury"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74655",
+        "room_desc": "Adv Biomechn of Sports Perform"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74656",
+        "room_desc": "Adv Prin Phy Act Strg Res Trng"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74657",
+        "room_desc": "Adv:Cardio/Pulm Training"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74658",
+        "room_desc": "Advance Physiology of Exercise"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74659",
+        "room_desc": "Aerobic Training"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74660",
+        "room_desc": "Anatomy &Physiology for PhysEd"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74661",
+        "room_desc": "Applied Anatomy & Kinesiology"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74662",
+        "room_desc": "Applied Musculoskeletal Anatom"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74663",
+        "room_desc": "Ballroom Dance"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74664",
+        "room_desc": "Basketball"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74665",
+        "room_desc": "Biomechanics"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74666",
+        "room_desc": "Budget&Finance In Sports Rec"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74667",
+        "room_desc": "Bus Mgmnt Comm Club Sprt & Rec"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74668",
+        "room_desc": "Cardiopulmonary Rehabilitation"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74669",
+        "room_desc": "Dig Tech Kinesiology"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74670",
+        "room_desc": "Dir Res Kinesiology"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74671",
+        "room_desc": "Directed Research"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74672",
+        "room_desc": "Diversity and Inclusion in PE"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74673",
+        "room_desc": "Electrocardiography"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74674",
+        "room_desc": "Emergency Care"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74675",
+        "room_desc": "Emergency Care Practicum"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74676",
+        "room_desc": "Evaluation In Phys Ed"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74677",
+        "room_desc": "Exercise Prescription Spec Pop"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74678",
+        "room_desc": "Exercise Psyc &Behavior Change"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74679",
+        "room_desc": "Exercise Testing &Prescription"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74680",
+        "room_desc": "Exercise and Fitness Theory"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74681",
+        "room_desc": "Field Experience I"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74682",
+        "room_desc": "Field Experience II"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74683",
+        "room_desc": "First Aid and Safety"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74684",
+        "room_desc": "Fit Assessment/Ex Rx"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74685",
+        "room_desc": "Fitness & Conditioning"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74686",
+        "room_desc": "Fitness Program Management"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74687",
+        "room_desc": "Fitns Assessmt & Exc Prescript"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74688",
+        "room_desc": "Fld Exp Thera Rec & Phy Actvty"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74689",
+        "room_desc": "Fund Phys Condit"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74690",
+        "room_desc": "Fundamental Skills: Fencing"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74691",
+        "room_desc": "Fundamental Skills: Golf"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74692",
+        "room_desc": "Fundamental Skills: Soccer"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74693",
+        "room_desc": "Fundamental Skills: Softball"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74694",
+        "room_desc": "Fundamental Skills: Tennis"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74695",
+        "room_desc": "Fundamental Skills: Volleyball"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74696",
+        "room_desc": "Fundmentl Skill:Men Basketball"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74697",
+        "room_desc": "Global Sport: Olmpc/Prlympc"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74698",
+        "room_desc": "Groups &Psyc Construct: Sports"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74699",
+        "room_desc": "Human Anatomy"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74700",
+        "room_desc": "Human Anatomy & Physiology II"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74701",
+        "room_desc": "Human Anatomy and Physiology 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74702",
+        "room_desc": "Human Physiology"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74703",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74704",
+        "room_desc": "Independent Study in Dance"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74705",
+        "room_desc": "Int &Multdisc Tch&Learn PhysEd"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74706",
+        "room_desc": "Internship"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74707",
+        "room_desc": "Internship in Exercise Science"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74708",
+        "room_desc": "Intership Disabled"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74709",
+        "room_desc": "Intro Modern Dance I"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74710",
+        "room_desc": "Intro Therapeutic Recreation"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74711",
+        "room_desc": "Intro To Therapeutic Rec"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74712",
+        "room_desc": "Introduction to Kinesiology"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74713",
+        "room_desc": "Leadership in Emergency Care"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74714",
+        "room_desc": "Lifeguarding"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74715",
+        "room_desc": "Modern Dance II"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74716",
+        "room_desc": "Motor Development and Analysis"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74717",
+        "room_desc": "Motor Development and Learning"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74718",
+        "room_desc": "Motor Learning & Hum Perf"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74719",
+        "room_desc": "Motor Learning & Human Perform"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74720",
+        "room_desc": "Movement Perspect"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74721",
+        "room_desc": "Nutrition and Exercise"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74722",
+        "room_desc": "Orientation Phys Ed Exrcs Sci"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74723",
+        "room_desc": "PE for the Disturbed &Disabled"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74724",
+        "room_desc": "Personal Fitness"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74725",
+        "room_desc": "Physiology of Exercise"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74726",
+        "room_desc": "Pilates"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74727",
+        "room_desc": "Practicum Exercise Sci & Rehab"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74728",
+        "room_desc": "Practm Theraptc Rec & Phy Actv"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74729",
+        "room_desc": "Presentng Research In Ees"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74730",
+        "room_desc": "Racquetball"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74731",
+        "room_desc": "Research &Design in Kinesology"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74732",
+        "room_desc": "Research Seminar In Phys Educ"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74733",
+        "room_desc": "Risk Mgmt &Legal Issues:Sports"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74734",
+        "room_desc": "Self-Defense"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74735",
+        "room_desc": "Sem Ethical Issue Physcal Actv"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74736",
+        "room_desc": "Soccer"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74737",
+        "room_desc": "Sociology of Sport"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74738",
+        "room_desc": "Sport And Exercise Psychology"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74739",
+        "room_desc": "Sport Faclties & Event Mangmnt"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74740",
+        "room_desc": "Sport Marketing"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74741",
+        "room_desc": "Sport Media and Communications"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74742",
+        "room_desc": "Swimming"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74743",
+        "room_desc": "Technology In Kinesiology"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74744",
+        "room_desc": "Technology in Kinesiology"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74745",
+        "room_desc": "Tennis"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74746",
+        "room_desc": "Theory of Exercise and Fitness"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74747",
+        "room_desc": "Therapeutic Rec & Mental Hlth"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74748",
+        "room_desc": "Therapeutic Rec & Phy Disabil"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74749",
+        "room_desc": "Thesis Research"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74750",
+        "room_desc": "Volleyball"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74751",
+        "room_desc": "Weight/Resist Train"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "74752",
+        "room_desc": "Yoga"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "87003",
+        "room_desc": "KINS"
+    }
+]

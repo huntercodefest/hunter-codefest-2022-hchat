@@ -1,0 +1,26 @@
+[
+    {
+        "school": "SPS01",
+        "major": "ECON",
+        "room_num": "80610",
+        "room_desc": "Intro to the American Economy"
+    },
+    {
+        "school": "SPS01",
+        "major": "ECON",
+        "room_num": "80611",
+        "room_desc": "Macroeconomics"
+    },
+    {
+        "school": "SPS01",
+        "major": "ECON",
+        "room_num": "80612",
+        "room_desc": "Microeconomics"
+    },
+    {
+        "school": "SPS01",
+        "major": "ECON",
+        "room_num": "87564",
+        "room_desc": "ECON"
+    }
+]

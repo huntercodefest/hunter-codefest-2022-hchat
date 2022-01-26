@@ -1,0 +1,38 @@
+[
+    {
+        "school": "QCC01",
+        "major": "ECON",
+        "room_num": "22596",
+        "room_desc": "Contemporary Economic Issues"
+    },
+    {
+        "school": "QCC01",
+        "major": "ECON",
+        "room_num": "22597",
+        "room_desc": "International Economics"
+    },
+    {
+        "school": "QCC01",
+        "major": "ECON",
+        "room_num": "22598",
+        "room_desc": "Introduction to Macroeconomics"
+    },
+    {
+        "school": "QCC01",
+        "major": "ECON",
+        "room_num": "22599",
+        "room_desc": "Introduction to Microeconomics"
+    },
+    {
+        "school": "QCC01",
+        "major": "ECON",
+        "room_num": "22600",
+        "room_desc": "Labor and Management"
+    },
+    {
+        "school": "QCC01",
+        "major": "ECON",
+        "room_num": "87857",
+        "room_desc": "ECON"
+    }
+]

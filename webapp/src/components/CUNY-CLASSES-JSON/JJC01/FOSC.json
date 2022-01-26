@@ -1,0 +1,422 @@
+[
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20485",
+        "room_desc": "Adv Instrmntl Anal1"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20486",
+        "room_desc": "Adv Instrmntl Anal2"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20487",
+        "room_desc": "Adv Molecular Bio 1"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20488",
+        "room_desc": "Adv Molecular Bio 2"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20489",
+        "room_desc": "Adv Plm & Trace Evid"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20490",
+        "room_desc": "Adv Polarized Light"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20491",
+        "room_desc": "Adv Topics Phys Evid"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20492",
+        "room_desc": "Advanced Criminalistics I"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20493",
+        "room_desc": "Advanced Criminalistics II"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20494",
+        "room_desc": "Advanced Genetics"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20495",
+        "room_desc": "Analytical Toxicology"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20496",
+        "room_desc": "Bio Statistics"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20497",
+        "room_desc": "Case Analysis in Forens Tox"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20498",
+        "room_desc": "Concepts of Forensic Science"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20499",
+        "room_desc": "Crime Scene Investig Foren Sci"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20500",
+        "room_desc": "Crime Scene Reconstruction"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20501",
+        "room_desc": "Crime-Scene Investig"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20502",
+        "room_desc": "Ct Techno & Techniqs"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20503",
+        "room_desc": "Current Trends Foren Path Ento"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20504",
+        "room_desc": "Current Trends Forensic Path"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20505",
+        "room_desc": "Data Analysis-Forens Scientist"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20506",
+        "room_desc": "Fac Mentored Research Experien"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20507",
+        "room_desc": "Fac-Mentored Research in FOS"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20508",
+        "room_desc": "Field Work in Forensic Science"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20509",
+        "room_desc": "Forensic Analy Chem"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20510",
+        "room_desc": "Forensic DNA Technology"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20511",
+        "room_desc": "Forensic Electron Microscopy"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20512",
+        "room_desc": "Forensic Examination"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20513",
+        "room_desc": "Forensic Human Identification"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20514",
+        "room_desc": "Forensic Imaging"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20515",
+        "room_desc": "Forensic Medicine"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20516",
+        "room_desc": "Forensic Pharmacology"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20517",
+        "room_desc": "Forensic Sci Capstone"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20518",
+        "room_desc": "Forensic Science Internship"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20519",
+        "room_desc": "Forensic Science Laboratory"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20520",
+        "room_desc": "Forensic Tox 2"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20521",
+        "room_desc": "Forensic Toxicology I"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20522",
+        "room_desc": "Fos Ant: Osteo & Gen"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20523",
+        "room_desc": "Fos Ant:Osteo & Gen"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20524",
+        "room_desc": "Human Genetics"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20525",
+        "room_desc": "Id Organic Molecules"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20526",
+        "room_desc": "Impression Evidence"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20527",
+        "room_desc": "Ind & Env Toxicol"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20528",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20529",
+        "room_desc": "Investgtns/Enviromnt"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20530",
+        "room_desc": "Lab Research"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20531",
+        "room_desc": "Math Stat Fos Anlsys"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20532",
+        "room_desc": "Math Stats Forensic Analysis"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20533",
+        "room_desc": "Microscopy20534: FOSC,\"Microspctrophotomtry"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20535",
+        "room_desc": "Molecular Biology"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20536",
+        "room_desc": "Organic Comp Structr"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20537",
+        "room_desc": "Physical Bio Evidenc"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20538",
+        "room_desc": "Prin Forensic Toxico"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20539",
+        "room_desc": "Probs Physcl Evdnc"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20540",
+        "room_desc": "Prospectus Seminar"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20541",
+        "room_desc": "Research Internship"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20542",
+        "room_desc": "Sci Evid & Ethics"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20543",
+        "room_desc": "Sci Evid & Exprt Tes"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20544",
+        "room_desc": "Sci Fire Investig"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20545",
+        "room_desc": "Sci. Firearm Examin."
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20546",
+        "room_desc": "Selected Topics in FOS w/ Lab"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20547",
+        "room_desc": "Selected Topics in For Sci"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20548",
+        "room_desc": "Seminar in Special Topics"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20549",
+        "room_desc": "Stat Law&Forensc Sci"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20550",
+        "room_desc": "Survey Criminalstcs"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20551",
+        "room_desc": "Survy Criminalist M"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20552",
+        "room_desc": "Thesis Prospectus I"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20553",
+        "room_desc": "Thesis Prospectus II"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "20554",
+        "room_desc": "Thesis Prospectus III"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "87072",
+        "room_desc": "FOSC"
+    }
+]

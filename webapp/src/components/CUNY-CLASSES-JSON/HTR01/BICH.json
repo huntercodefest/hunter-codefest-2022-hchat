@@ -1,0 +1,62 @@
+[
+    {
+        "school": "HTR01",
+        "major": "BICH",
+        "room_num": "47300",
+        "room_desc": "Adv Biochemistry Lec"
+    },
+    {
+        "school": "HTR01",
+        "major": "BICH",
+        "room_num": "47301",
+        "room_desc": "Adv Lab Tech Research in BioCh"
+    },
+    {
+        "school": "HTR01",
+        "major": "BICH",
+        "room_num": "47302",
+        "room_desc": "Adv Lab Tech Rsrch in BioChem"
+    },
+    {
+        "school": "HTR01",
+        "major": "BICH",
+        "room_num": "47303",
+        "room_desc": "Advanced Biochem 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "BICH",
+        "room_num": "47304",
+        "room_desc": "Advanced Biochem 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "BICH",
+        "room_num": "47305",
+        "room_desc": "Basic Laboratory"
+    },
+    {
+        "school": "HTR01",
+        "major": "BICH",
+        "room_num": "47306",
+        "room_desc": "Bioorganic Chemistry"
+    },
+    {
+        "school": "HTR01",
+        "major": "BICH",
+        "room_num": "47307",
+        "room_desc": "Seminars in Biochemistry"
+    },
+    {
+        "school": "HTR01",
+        "major": "BICH",
+        "room_num": "47308",
+        "room_desc": "Thesis Research"
+    },
+    {
+        "school": "HTR01",
+        "major": "BICH",
+        "room_num": "87733",
+        "room_desc": "BICH"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "school": "SPS01",
+        "major": "CHIN",
+        "room_num": "80401",
+        "room_desc": "Beginning Chinese I"
+    },
+    {
+        "school": "SPS01",
+        "major": "CHIN",
+        "room_num": "80402",
+        "room_desc": "Beginning Chinese II"
+    },
+    {
+        "school": "SPS01",
+        "major": "CHIN",
+        "room_num": "87591",
+        "room_desc": "CHIN"
+    }
+]

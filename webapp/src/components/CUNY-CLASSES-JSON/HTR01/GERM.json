@@ -1,0 +1,632 @@
+[
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52053",
+        "room_desc": "Adv Germ Comp & Conv"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52054",
+        "room_desc": "Adv German Conv&Comp"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52055",
+        "room_desc": "Adv German Grammar"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52056",
+        "room_desc": "Adv German Lang Stud"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52057",
+        "room_desc": "Adv Germn through Transl"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52058",
+        "room_desc": "Adv Std Grmn Lang 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52059",
+        "room_desc": "Advance German Grammar"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52060",
+        "room_desc": "Advanced Business German"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52061",
+        "room_desc": "Advanced German Reading"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52062",
+        "room_desc": "Advcd Germn Lang Thru Trans"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52063",
+        "room_desc": "Austr Lit Viena 1900"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52064",
+        "room_desc": "Bas Ger for Grad Stu"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52065",
+        "room_desc": "Bertolt Brecht"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52066",
+        "room_desc": "Business German"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52067",
+        "room_desc": "Contemp Minority Voices Germn"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52068",
+        "room_desc": "East German Lit (1945-1990)"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52069",
+        "room_desc": "Elem German Workshop"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52070",
+        "room_desc": "Elem Germn Rdng Purp"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52071",
+        "room_desc": "Elementary German I"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52072",
+        "room_desc": "Elementary German II"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52073",
+        "room_desc": "End E.Germ:Lit52074: GERM,\"Erich Kaestner"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52075",
+        "room_desc": "Faust: Mar52076: GERM,\"Faust:Mar52077: GERM,\"Franz Kafka"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52078",
+        "room_desc": "Franz Kafka\u2019s Works"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52079",
+        "room_desc": "Georg Buchner"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52080",
+        "room_desc": "Ger Drama Nat to Pre"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52081",
+        "room_desc": "Ger Drma Nat to Pres"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52082",
+        "room_desc": "Ger Mstpcs Lit & Film"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52083",
+        "room_desc": "Germ Child & Adolesc Literat"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52084",
+        "room_desc": "Germ Lit-Orig-Goethe"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52085",
+        "room_desc": "Germ Lit:1930s-1940s"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52086",
+        "room_desc": "German Civilization"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52087",
+        "room_desc": "German Crime Fiction"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52088",
+        "room_desc": "German Fairy Tales"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52089",
+        "room_desc": "German Grammar for Upper-Level"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52090",
+        "room_desc": "German Literary Seminar"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52091",
+        "room_desc": "German Literature 1945 - 1995"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52092",
+        "room_desc": "German Lyric Poetry"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52093",
+        "room_desc": "German Press of Today"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52094",
+        "room_desc": "German Thought and Culture"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52095",
+        "room_desc": "German in Action"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52096",
+        "room_desc": "German through Lieder"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52097",
+        "room_desc": "German: Art Hist Arch"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52098",
+        "room_desc": "Germany in the Twenties"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52099",
+        "room_desc": "Germn Dr Goethe-Nat"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52100",
+        "room_desc": "Germn Gramr Uppr Lev"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52101",
+        "room_desc": "Germn Jws Lov Lit Fl"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52102",
+        "room_desc": "Germn Lit 30\u2019s &40\u2019s"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52103",
+        "room_desc": "Germn Press of Today"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52104",
+        "room_desc": "Germn:Art Hist Arch"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52105",
+        "room_desc": "Gm-Jew Liebesgechichten:Lt&Flm"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52106",
+        "room_desc": "Goethes Faust"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52107",
+        "room_desc": "Goethe\u2019s Faust"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52108",
+        "room_desc": "Goethe\u2019s Faust Trans"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52109",
+        "room_desc": "Gottefried: Tristan"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52110",
+        "room_desc": "Grmn Comcs &Grph Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52111",
+        "room_desc": "Grmn Drma Ntrlsm to Present"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52112",
+        "room_desc": "Heinrich Von Kleist"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52113",
+        "room_desc": "Herman Hesse"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52114",
+        "room_desc": "Hermann Hesse"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52115",
+        "room_desc": "Hesse:Magister Ludi"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52116",
+        "room_desc": "Honors Project"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52117",
+        "room_desc": "Horspiel"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52118",
+        "room_desc": "Horspiel-Gn Radio Pl"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52119",
+        "room_desc": "Horspiel:Radio Plays"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52120",
+        "room_desc": "In Service"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52121",
+        "room_desc": "Indep Study"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52122",
+        "room_desc": "Independent Study in German"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52123",
+        "room_desc": "Indiv Proj-Germ Stud"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52124",
+        "room_desc": "Indv & Soc Mod Grmn Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52125",
+        "room_desc": "Intensive Elementary German"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52126",
+        "room_desc": "Intensive German 2 and 3"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52127",
+        "room_desc": "Intensive Intermediate German"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52128",
+        "room_desc": "Inter Germn Rdng Pur"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52129",
+        "room_desc": "Intermediate German 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52130",
+        "room_desc": "Intermediate German I"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52131",
+        "room_desc": "Intermediate German Workshop 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52132",
+        "room_desc": "Intermediate German Workshop I"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52133",
+        "room_desc": "Internship"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52134",
+        "room_desc": "Intro:Business Grmn"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52135",
+        "room_desc": "Jugendliteratur"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52136",
+        "room_desc": "Lit: Weimar Republic"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52137",
+        "room_desc": "Literature of Weimar Republic"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52138",
+        "room_desc": "Man family gender role"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52139",
+        "room_desc": "Mann: Magic Mountain"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52140",
+        "room_desc": "Mast:Germn Lit&Film"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52141",
+        "room_desc": "Mod Grmn Drama Trans"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52142",
+        "room_desc": "Mod Grmn Prose Trans"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52143",
+        "room_desc": "Modern Swiss Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52144",
+        "room_desc": "Mstpc Ger Lit-Tran"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52145",
+        "room_desc": "Mstrpc Md Germn Drma"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52146",
+        "room_desc": "Post-Fem German Lit & Film"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52147",
+        "room_desc": "Postcol & Germn Thgt"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52148",
+        "room_desc": "Rdngs Class Grmn Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52149",
+        "room_desc": "Second Language Acquisition"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52150",
+        "room_desc": "Sem:Germn Narrative"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52151",
+        "room_desc": "Semnr: Germn Poetry"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52152",
+        "room_desc": "Std-Germn Lit & Lang"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52153",
+        "room_desc": "Superior Lev Discour"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52154",
+        "room_desc": "The German Novel"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52155",
+        "room_desc": "The German Short Story & Novel"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52156",
+        "room_desc": "Tvdrama:Germn In\u201990s"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52157",
+        "room_desc": "Uplevlgermanthrtrans"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52158",
+        "room_desc": "Vienna 1900"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "52159",
+        "room_desc": "Women in German Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "GERM",
+        "room_num": "87688",
+        "room_desc": "GERM"
+    }
+]

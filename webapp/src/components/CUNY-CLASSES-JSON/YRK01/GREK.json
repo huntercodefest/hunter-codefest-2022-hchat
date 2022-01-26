@@ -1,0 +1,20 @@
+[
+    {
+        "school": "YRK01",
+        "major": "GREK",
+        "room_num": "16099",
+        "room_desc": "Elementary Greek I"
+    },
+    {
+        "school": "YRK01",
+        "major": "GREK",
+        "room_num": "16100",
+        "room_desc": "Elementary Greek II"
+    },
+    {
+        "school": "YRK01",
+        "major": "GREK",
+        "room_num": "87385",
+        "room_desc": "GREK"
+    }
+]

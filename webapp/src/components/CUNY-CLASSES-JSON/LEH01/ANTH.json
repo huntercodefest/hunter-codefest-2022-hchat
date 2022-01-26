@@ -1,0 +1,554 @@
+[
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10867",
+        "room_desc": "Advanced Ethnology"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10868",
+        "room_desc": "Advanced Sem Anthropology"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10869",
+        "room_desc": "African Archaeology"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10870",
+        "room_desc": "Anc Peoples&Culture"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10871",
+        "room_desc": "Ancient Peoples & Culture"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10872",
+        "room_desc": "Ancient Peoples and Cultures"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10873",
+        "room_desc": "Anlyzg Ant Data Quan"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10874",
+        "room_desc": "Anth Theory & Method I"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10875",
+        "room_desc": "Anth Theory & Method II"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10876",
+        "room_desc": "Anthro Of Pol & Law"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10877",
+        "room_desc": "Anthro Prspctvs: Women & Men"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10878",
+        "room_desc": "Anthro of Complex Societies"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10879",
+        "room_desc": "Anthropological Linguistics"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10880",
+        "room_desc": "Anthropology & the Museum"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10881",
+        "room_desc": "Anthropology and Education"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10882",
+        "room_desc": "Anthropology and Human Rights"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10883",
+        "room_desc": "Anthropology of Cities"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10884",
+        "room_desc": "Archaeolgy South-Wstrn N Amer"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10885",
+        "room_desc": "Archaeology of Asia"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10886",
+        "room_desc": "Archaeology of the Near East"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10887",
+        "room_desc": "Comp Stdy Pr Culture"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10888",
+        "room_desc": "Cultural Anthropology"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10889",
+        "room_desc": "Culture Change"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10890",
+        "room_desc": "Dyn of Cult Chng Glob Context"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10891",
+        "room_desc": "Early Civ-S Am&Carib"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10892",
+        "room_desc": "Early Civ: Mexico/Central Amer"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10893",
+        "room_desc": "Early Soc&Cul N Amer"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10894",
+        "room_desc": "Ecol& Politcs-Hunger"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10895",
+        "room_desc": "Economic Anthropology"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10896",
+        "room_desc": "Emergnce Anc Civlztn"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10897",
+        "room_desc": "Ethno India/Pak/Afgn"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10898",
+        "room_desc": "Ethnology of Selected Areas"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10899",
+        "room_desc": "Evolution of the Primates"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10900",
+        "room_desc": "Excavation of Lehman Site"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10901",
+        "room_desc": "Excavatn Lehman Site"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10902",
+        "room_desc": "Field & Lab Research in Archae"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10903",
+        "room_desc": "Fld Tech-Anth Lingui"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10904",
+        "room_desc": "Folklore and Oral Traditions"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10905",
+        "room_desc": "Forensic Anthropology"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10906",
+        "room_desc": "Human Evolutionary Biology"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10907",
+        "room_desc": "Human Genetics"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10908",
+        "room_desc": "Human Origins"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10909",
+        "room_desc": "Human Osteology"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10910",
+        "room_desc": "Human Variation"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10911",
+        "room_desc": "Humans and the Environment"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10912",
+        "room_desc": "Images of Culture"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10913",
+        "room_desc": "Indep Res-Anthropol"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10914",
+        "room_desc": "Inequalty Cross-Cult Perspect"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10915",
+        "room_desc": "Intrnshp Humn Rights & Peace"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10916",
+        "room_desc": "Intro To Cult Anthro"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10917",
+        "room_desc": "Intro to Human Evolution"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10918",
+        "room_desc": "Introd to Human Variation"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10919",
+        "room_desc": "Kinship & Social Org"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10920",
+        "room_desc": "Language and Culture"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10921",
+        "room_desc": "Language10922: ANTH,\"Medical Anthropology"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10923",
+        "room_desc": "Method & Theory Archaeology"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10924",
+        "room_desc": "Mind and Culture"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10925",
+        "room_desc": "Music and Culture"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10926",
+        "room_desc": "North American Indian Art"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10927",
+        "room_desc": "Peoples And Cultures"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10928",
+        "room_desc": "Prehis&Cntmp Subsist"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10929",
+        "room_desc": "Primate Behavior and Ecology"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10930",
+        "room_desc": "Principles of Anthropology"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10931",
+        "room_desc": "Race&Ethn-Lat Am&Car"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10932",
+        "room_desc": "Religion: Anthro Perspective"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10933",
+        "room_desc": "Scty&Cult - Mideast"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10934",
+        "room_desc": "Scty&Cult - Se Asia"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10935",
+        "room_desc": "Scty&Cult Of E Asia"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10936",
+        "room_desc": "Sel Stds in Soc & Cults-India"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10937",
+        "room_desc": "Select Stds Soc & Cultures"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10938",
+        "room_desc": "Sem Sel Prb Phys Ant"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10939",
+        "room_desc": "Sem Sel Prob Cul Ant"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10940",
+        "room_desc": "Sem-Slct Prob Archlg"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10941",
+        "room_desc": "Seminar in Field Methods"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10942",
+        "room_desc": "Society & Culture - Latin Amer"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10943",
+        "room_desc": "Society & Culture of Oceania"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10944",
+        "room_desc": "Society and Culture in Europe"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10945",
+        "room_desc": "Socty&Culture-Africa"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10946",
+        "room_desc": "Spe Top: Humn Rts & Peace Stds"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10947",
+        "room_desc": "Survey of Forensic Science"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10948",
+        "room_desc": "The Anthropology of Growth"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10949",
+        "room_desc": "The Anthropology of Literacy"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10950",
+        "room_desc": "The Anthropology of Media"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10951",
+        "room_desc": "The Archaeology of Europe"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10952",
+        "room_desc": "The Italian-American Community"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10953",
+        "room_desc": "Topics in Anthropology"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10954",
+        "room_desc": "Uncovering Culture-Early NYC"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10955",
+        "room_desc": "Women & Men: Anthro Persp"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10956",
+        "room_desc": "Women In Latin Amer"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10957",
+        "room_desc": "Women in Latin America"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "10958",
+        "room_desc": "Women&Men:Anth Persp"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "88229",
+        "room_desc": "ANTH"
+    }
+]

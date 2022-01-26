@@ -1,0 +1,848 @@
+[
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48118",
+        "room_desc": "19 & 20 Cent Ital Women Writrs"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48119",
+        "room_desc": "20th Century Global Poets"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48120",
+        "room_desc": "Adultery 19th Century Fiction"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48121",
+        "room_desc": "Adultery in the Novel"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48122",
+        "room_desc": "Ancient Comedy Translation"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48123",
+        "room_desc": "Arab Novel in Translation"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48124",
+        "room_desc": "Architecture Lit:Set as Symbol"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48125",
+        "room_desc": "Aspects of Tragedy"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48126",
+        "room_desc": "Autobiogrphy Modern Era"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48127",
+        "room_desc": "Bilingual Writers"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48128",
+        "room_desc": "Britain & American Modernism"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48129",
+        "room_desc": "Britain & Eur Novel 1875-1925"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48130",
+        "room_desc": "Chekhov:Plays and Stories"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48131",
+        "room_desc": "Chekovian Tradition"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48132",
+        "room_desc": "Classical Epic:Homer & Vergil"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48133",
+        "room_desc": "Classicl & Medv British & Amer"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48134",
+        "room_desc": "Comedy"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48135",
+        "room_desc": "Comp Lit - Prose Fiction"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48136",
+        "room_desc": "Comp Lit Studies:Prose Fiction"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48137",
+        "room_desc": "Comp Literature Prose Fiction"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48138",
+        "room_desc": "Comp Studies in Prose Fiction"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48139",
+        "room_desc": "Comp Studies-Myth & Folklore"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48140",
+        "room_desc": "Comp Studies:Lit Movements"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48141",
+        "room_desc": "Comp Studies:Literary Movemnts"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48142",
+        "room_desc": "Comp Sudies: Myth & Folklore"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48143",
+        "room_desc": "Comparative Literature Drama"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48144",
+        "room_desc": "Comparative Studies in Drama"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48145",
+        "room_desc": "Compartive Studies in Drama"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48146",
+        "room_desc": "Contemp African Women Writers"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48147",
+        "room_desc": "Contemporary 20 Century Poets"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48148",
+        "room_desc": "Diasporic Voice Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48149",
+        "room_desc": "Don Juan in Western Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48150",
+        "room_desc": "Don Quixote"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48151",
+        "room_desc": "Dramatic Transformations"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48152",
+        "room_desc": "Dream and Image"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48153",
+        "room_desc": "East European Cinema"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48154",
+        "room_desc": "Ethical Imagination"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48155",
+        "room_desc": "European Tradition Russ Satire"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48156",
+        "room_desc": "Evolution:Narrative"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48157",
+        "room_desc": "Exile & The Writer"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48158",
+        "room_desc": "Existentialist Novel"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48159",
+        "room_desc": "Experimental Women Novelists"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48160",
+        "room_desc": "Female Gaze over the City"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48161",
+        "room_desc": "Feminism and Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48162",
+        "room_desc": "Film & French Novel"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48163",
+        "room_desc": "Folklore and Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48164",
+        "room_desc": "Folklore in Translation"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48165",
+        "room_desc": "Folklore: Myths & Translation"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48166",
+        "room_desc": "Food and Italian Identity"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48167",
+        "room_desc": "Genius:Modern Theatre"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48168",
+        "room_desc": "German Jewish Love Lit Film"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48169",
+        "room_desc": "German Literature-30\u2019s & 40\u2019s"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48170",
+        "room_desc": "German Thought and Culture"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48171",
+        "room_desc": "Greek Tragedy"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48172",
+        "room_desc": "Greek and Roman Tragedy"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48173",
+        "room_desc": "Honors Project"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48174",
+        "room_desc": "Hysteria"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48175",
+        "room_desc": "Ideology and Art"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48176",
+        "room_desc": "Intro to Literary Theory"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48177",
+        "room_desc": "Introduction:Cultural Studies"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48178",
+        "room_desc": "Ital Amer Wmn Wtr & Art"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48179",
+        "room_desc": "Italan Baroque (Eng)"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48180",
+        "room_desc": "Italian Women Writers"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48181",
+        "room_desc": "Jungian Approach to Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48182",
+        "room_desc": "King Arthur & His Court"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48183",
+        "room_desc": "Lit & Culture Muslim Spain"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48184",
+        "room_desc": "Literary & Cultural Theory"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48185",
+        "room_desc": "Literary Appro: Children Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48186",
+        "room_desc": "Literary Approaches:Adoles Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48187",
+        "room_desc": "Literary Aspects of Folklore"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48188",
+        "room_desc": "Literary Movements"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48189",
+        "room_desc": "Literature & Catastrophe"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48190",
+        "room_desc": "Literature & Fascism"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48191",
+        "room_desc": "Literature & Technology"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48192",
+        "room_desc": "Literature of Islamic World"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48193",
+        "room_desc": "Literatures from Islamic World"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48194",
+        "room_desc": "Major Themes-Comp Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48195",
+        "room_desc": "Marxist Cultural Theory"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48196",
+        "room_desc": "Medieval Literature 1100-1500"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48197",
+        "room_desc": "Men & Women:Medieval Literatur"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48198",
+        "room_desc": "Mickiewicz Russian & Western"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48199",
+        "room_desc": "Modern Literature in Exile"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48200",
+        "room_desc": "Modern Palestinian Culture"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48201",
+        "room_desc": "Modernism"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48202",
+        "room_desc": "Modernism & The Great War"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48203",
+        "room_desc": "Myth & Folklore"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48204",
+        "room_desc": "Nabokov Between Two Cultures"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48205",
+        "room_desc": "Narrat Adultery XIX Cent Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48206",
+        "room_desc": "Narrative Theory"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48207",
+        "room_desc": "Novels:Death:Rebirth"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48208",
+        "room_desc": "Nvl & Nat Since WW2"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48209",
+        "room_desc": "Perspec On Lit&The Arts"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48210",
+        "room_desc": "Perspectives- Lit & The Arts"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48211",
+        "room_desc": "Perspectives-Lit & The Arts"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48212",
+        "room_desc": "Petrarchist Tradition Europe"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48213",
+        "room_desc": "Play and Illusion"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48214",
+        "room_desc": "Poetics of Space"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48215",
+        "room_desc": "Post-Colonial Lit in English"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48216",
+        "room_desc": "Revolution Terror Art"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48217",
+        "room_desc": "Roman Satire"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48218",
+        "room_desc": "Russ Sci Fiction in Film & Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48219",
+        "room_desc": "Russian Folklore"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48220",
+        "room_desc": "Russian Urban Novel"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48221",
+        "room_desc": "Samuel Beckett"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48222",
+        "room_desc": "Sel Stds in Compl"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48223",
+        "room_desc": "Select Studies in COMPL"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48224",
+        "room_desc": "Select Studies in Compar Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48225",
+        "room_desc": "Select Top in Comparative Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48226",
+        "room_desc": "Select Top:Women 20th Cent Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48227",
+        "room_desc": "Select Topics  Comparitlve Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48228",
+        "room_desc": "Select Topics Comp Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48229",
+        "room_desc": "Select Topics Comparative Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48230",
+        "room_desc": "Selected Topic :Comparatve Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48231",
+        "room_desc": "Sem:Approaches-Comparative Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48232",
+        "room_desc": "Shakespeare\u2019s Italy"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48233",
+        "room_desc": "Sl Tp:Play&Illusion"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48234",
+        "room_desc": "Studies in Novela"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48235",
+        "room_desc": "The Baltic Transit (English)"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48236",
+        "room_desc": "The Case of India"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48237",
+        "room_desc": "The Epic Tradition"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48238",
+        "room_desc": "The Fantastic in Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48239",
+        "room_desc": "The Neapolitan Novels"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48240",
+        "room_desc": "The Novel & The Modern"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48241",
+        "room_desc": "The Novella"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48242",
+        "room_desc": "The Partition Narrative"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48243",
+        "room_desc": "The Satirical Novel"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48244",
+        "room_desc": "Theatre of the Absurd"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48245",
+        "room_desc": "Top: Decadence Period"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48246",
+        "room_desc": "Topic: Modern Polish Prose"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48247",
+        "room_desc": "Topics in Caribbean Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48248",
+        "room_desc": "Trans:Rus Folklore"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48249",
+        "room_desc": "Translating Cult: Theo & Pract"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48250",
+        "room_desc": "Vampires in Lore & Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48251",
+        "room_desc": "Women - Tibetan & Western Myth"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48252",
+        "room_desc": "Women in French Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48253",
+        "room_desc": "Women in the City"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48254",
+        "room_desc": "Women on Women"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48255",
+        "room_desc": "World\u2019s Fairy Tales"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48256",
+        "room_desc": "World\u2019s Literature: Drama"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "48257",
+        "room_desc": "Writ Behnd Bars Gulag Cult Leg"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "87740",
+        "room_desc": "COLI"
+    }
+]
