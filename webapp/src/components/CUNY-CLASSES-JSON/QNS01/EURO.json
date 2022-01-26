@@ -58,5 +58,11 @@
         "major": "EURO",
         "room_num": "26886",
         "room_desc": "Writing European Lit & Culture"
+    },
+    {
+        "school": "QNS01",
+        "major": "EURO",
+        "room_num": "87504",
+        "room_desc": "EURO"
     }
 ]

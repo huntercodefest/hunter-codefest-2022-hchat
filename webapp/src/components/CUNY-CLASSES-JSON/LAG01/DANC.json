@@ -22,5 +22,11 @@
         "major": "DANC",
         "room_num": "81640",
         "room_desc": "Theatrical Dance II"
+    },
+    {
+        "school": "LAG01",
+        "major": "DANC",
+        "room_num": "86780",
+        "room_desc": "DANC"
     }
 ]

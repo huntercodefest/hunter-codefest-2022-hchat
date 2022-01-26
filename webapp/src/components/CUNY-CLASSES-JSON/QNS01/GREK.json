@@ -82,5 +82,11 @@
         "major": "GREK",
         "room_num": "27495",
         "room_desc": "Writing About Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "GREK",
+        "room_num": "87478",
+        "room_desc": "GREK"
     }
 ]

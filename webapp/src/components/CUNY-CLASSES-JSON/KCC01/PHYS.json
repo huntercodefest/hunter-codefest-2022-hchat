@@ -94,5 +94,11 @@
         "major": "PHYS",
         "room_num": "63908",
         "room_desc": "Research IV"
+    },
+    {
+        "school": "KCC01",
+        "major": "PHYS",
+        "room_num": "88485",
+        "room_desc": "PHYS"
     }
 ]

@@ -136,5 +136,11 @@
         "major": "FREN",
         "room_num": "84868",
         "room_desc": "Intro to Francophone Studies"
+    },
+    {
+        "school": "CSI01",
+        "major": "FREN",
+        "room_num": "88103",
+        "room_desc": "FREN"
     }
 ]

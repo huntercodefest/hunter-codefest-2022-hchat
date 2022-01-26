@@ -46,5 +46,11 @@
         "major": "STPE",
         "room_num": "30893",
         "room_desc": "Pract Counseling"
+    },
+    {
+        "school": "QNS01",
+        "major": "STPE",
+        "room_num": "87479",
+        "room_desc": "STPE"
     }
 ]

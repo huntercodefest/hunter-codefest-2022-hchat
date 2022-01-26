@@ -178,5 +178,11 @@
         "major": "LITT",
         "room_num": "60967",
         "room_desc": "Wmn & Fam in Bible & Anc Lit"
+    },
+    {
+        "school": "BAR01",
+        "major": "LITT",
+        "room_num": "86633",
+        "room_desc": "LITT"
     }
 ]

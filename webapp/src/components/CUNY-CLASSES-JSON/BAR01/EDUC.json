@@ -976,5 +976,11 @@
         "major": "EDUC",
         "room_num": "60022",
         "room_desc": "Using Logo In Class"
+    },
+    {
+        "school": "BAR01",
+        "major": "EDUC",
+        "room_num": "86619",
+        "room_desc": "EDUC"
     }
 ]

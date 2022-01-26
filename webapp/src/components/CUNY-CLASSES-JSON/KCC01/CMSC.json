@@ -40,5 +40,11 @@
         "major": "CMSC",
         "room_num": "63058",
         "room_desc": "Is Comp/Assmbly Lang"
+    },
+    {
+        "school": "KCC01",
+        "major": "CMSC",
+        "room_num": "88541",
+        "room_desc": "CMSC"
     }
 ]

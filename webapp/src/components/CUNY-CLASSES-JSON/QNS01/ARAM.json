@@ -16,5 +16,11 @@
         "major": "ARAM",
         "room_num": "23933",
         "room_desc": "Structure/Augmentation Talmud"
+    },
+    {
+        "school": "QNS01",
+        "major": "ARAM",
+        "room_num": "87505",
+        "room_desc": "ARAM"
     }
 ]

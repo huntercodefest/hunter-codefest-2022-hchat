@@ -172,5 +172,11 @@
         "major": "ARFP",
         "room_num": "59062",
         "room_desc": "Touring & Presentation of Arts"
+    },
+    {
+        "school": "BAR01",
+        "major": "ARFP",
+        "room_num": "86621",
+        "room_desc": "ARFP"
     }
 ]

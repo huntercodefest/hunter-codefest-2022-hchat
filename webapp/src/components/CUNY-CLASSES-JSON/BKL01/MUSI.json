@@ -1840,5 +1840,11 @@
         "major": "MUSI",
         "room_num": "75505",
         "room_desc": "XIX Cent Stdy Ear Training III"
+    },
+    {
+        "school": "BKL01",
+        "major": "MUSI",
+        "room_num": "86998",
+        "room_desc": "MUSI"
     }
 ]

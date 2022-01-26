@@ -880,5 +880,11 @@
         "major": "THEF",
         "room_num": "58234",
         "room_desc": "Women Hist Amer Thea"
+    },
+    {
+        "school": "HTR01",
+        "major": "THEF",
+        "room_num": "87642",
+        "room_desc": "THEF"
     }
 ]

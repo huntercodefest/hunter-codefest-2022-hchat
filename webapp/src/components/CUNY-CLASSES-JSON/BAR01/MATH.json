@@ -1222,5 +1222,11 @@
         "major": "MATH",
         "room_num": "61495",
         "room_desc": "Volatility Filtering & Estm"
+    },
+    {
+        "school": "BAR01",
+        "major": "MATH",
+        "room_num": "86671",
+        "room_desc": "MATH"
     }
 ]

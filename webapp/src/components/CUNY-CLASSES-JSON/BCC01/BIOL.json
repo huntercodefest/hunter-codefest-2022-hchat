@@ -142,5 +142,11 @@
         "major": "BIOL",
         "room_num": "68821",
         "room_desc": "Zoology"
+    },
+    {
+        "school": "BCC01",
+        "major": "BIOL",
+        "room_num": "87304",
+        "room_desc": "BIOL"
     }
 ]

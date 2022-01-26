@@ -124,5 +124,11 @@
         "major": "EDUC",
         "room_num": "81791",
         "room_desc": "Seminar I Child & Bil. Ed"
+    },
+    {
+        "school": "LAG01",
+        "major": "EDUC",
+        "room_num": "86710",
+        "room_desc": "EDUC"
     }
 ]

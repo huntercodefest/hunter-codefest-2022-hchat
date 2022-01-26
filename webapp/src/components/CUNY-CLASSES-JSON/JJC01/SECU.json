@@ -340,5 +340,11 @@
         "major": "SECU",
         "room_num": "21921",
         "room_desc": "Terror21922: SECU,\"Theory & Design Security Syst"
+    },
+    {
+        "school": "JJC01",
+        "major": "SECU",
+        "room_num": "87115",
+        "room_desc": "SECU"
     }
 ]

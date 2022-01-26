@@ -70,5 +70,11 @@
         "major": "INSI",
         "room_num": "67375",
         "room_desc": "Proj in Info Syst and Inform"
+    },
+    {
+        "school": "NYT01",
+        "major": "INSI",
+        "room_num": "87202",
+        "room_desc": "INSI"
     }
 ]

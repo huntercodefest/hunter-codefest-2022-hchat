@@ -124,5 +124,11 @@
         "major": "EDHE",
         "room_num": "64578",
         "room_desc": "Substance Use and Abuse"
+    },
+    {
+        "school": "HOS01",
+        "major": "EDHE",
+        "room_num": "87820",
+        "room_desc": "EDHE"
     }
 ]

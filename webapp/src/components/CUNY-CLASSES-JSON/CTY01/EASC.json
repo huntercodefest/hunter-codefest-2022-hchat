@@ -1174,5 +1174,11 @@
         "major": "EASC",
         "room_num": "34639",
         "room_desc": "X-Ray Diffr Analysis"
+    },
+    {
+        "school": "CTY01",
+        "major": "EASC",
+        "room_num": "87926",
+        "room_desc": "EASC"
     }
 ]

@@ -52,5 +52,11 @@
         "major": "PAST",
         "room_num": "64940",
         "room_desc": "Legal Writing"
+    },
+    {
+        "school": "HOS01",
+        "major": "PAST",
+        "room_num": "87781",
+        "room_desc": "PAST"
     }
 ]

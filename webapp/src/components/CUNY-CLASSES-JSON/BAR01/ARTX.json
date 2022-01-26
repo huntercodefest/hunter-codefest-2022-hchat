@@ -4,5 +4,11 @@
         "major": "ARTX",
         "room_num": "59138",
         "room_desc": "Arts Administr Intrn"
+    },
+    {
+        "school": "BAR01",
+        "major": "ARTX",
+        "room_num": "86641",
+        "room_desc": "ARTX"
     }
 ]

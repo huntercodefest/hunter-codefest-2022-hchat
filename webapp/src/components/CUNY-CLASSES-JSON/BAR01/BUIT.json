@@ -148,5 +148,11 @@
         "major": "BUIT",
         "room_num": "59351",
         "room_desc": "Tech59352: BUIT,\"Thesis"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUIT",
+        "room_num": "86667",
+        "room_desc": "BUIT"
     }
 ]

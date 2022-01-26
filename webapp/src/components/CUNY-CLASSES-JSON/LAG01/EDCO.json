@@ -406,5 +406,11 @@
         "major": "EDCO",
         "room_num": "81748",
         "room_desc": "Word Processing 2"
+    },
+    {
+        "school": "LAG01",
+        "major": "EDCO",
+        "room_num": "86704",
+        "room_desc": "EDCO"
     }
 ]

@@ -418,5 +418,11 @@
         "major": "HESC",
         "room_num": "12986",
         "room_desc": "Women and Health"
+    },
+    {
+        "school": "LEH01",
+        "major": "HESC",
+        "room_num": "88197",
+        "room_desc": "HESC"
     }
 ]

@@ -4,5 +4,11 @@
         "major": "PERM",
         "room_num": "64291",
         "room_desc": "CUNY Permit"
+    },
+    {
+        "school": "NCC01",
+        "major": "PERM",
+        "room_num": "86899",
+        "room_desc": "PERM"
     }
 ]

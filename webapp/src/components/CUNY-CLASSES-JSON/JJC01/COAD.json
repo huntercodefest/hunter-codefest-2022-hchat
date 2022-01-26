@@ -226,5 +226,11 @@
         "major": "COAD",
         "room_num": "19783",
         "room_desc": "Violence In Prisons"
+    },
+    {
+        "school": "JJC01",
+        "major": "COAD",
+        "room_num": "87082",
+        "room_desc": "COAD"
     }
 ]

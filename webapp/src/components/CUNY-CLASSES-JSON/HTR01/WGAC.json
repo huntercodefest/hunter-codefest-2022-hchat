@@ -52,5 +52,11 @@
         "major": "WGAC",
         "room_num": "58665",
         "room_desc": "Writings from Detention"
+    },
+    {
+        "school": "HTR01",
+        "major": "WGAC",
+        "room_num": "87686",
+        "room_desc": "WGAC"
     }
 ]

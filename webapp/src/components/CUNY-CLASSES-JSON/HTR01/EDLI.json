@@ -106,5 +106,11 @@
         "major": "EDLI",
         "room_num": "49657",
         "room_desc": "Theory/Process:Teaching Writin"
+    },
+    {
+        "school": "HTR01",
+        "major": "EDLI",
+        "room_num": "87657",
+        "room_desc": "EDLI"
     }
 ]

@@ -10,5 +10,11 @@
         "major": "AMSL",
         "room_num": "19541",
         "room_desc": "Intro Amer Sign Lang II"
+    },
+    {
+        "school": "JJC01",
+        "major": "AMSL",
+        "room_num": "87074",
+        "room_desc": "AMSL"
     }
 ]

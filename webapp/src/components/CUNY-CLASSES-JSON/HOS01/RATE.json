@@ -142,5 +142,11 @@
         "major": "RATE",
         "room_num": "65014",
         "room_desc": "Senior Seminar"
+    },
+    {
+        "school": "HOS01",
+        "major": "RATE",
+        "room_num": "87770",
+        "room_desc": "RATE"
     }
 ]

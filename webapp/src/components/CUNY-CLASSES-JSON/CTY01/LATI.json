@@ -166,5 +166,11 @@
         "major": "LATI",
         "room_num": "41702",
         "room_desc": "Virgil"
+    },
+    {
+        "school": "CTY01",
+        "major": "LATI",
+        "room_num": "87934",
+        "room_desc": "LATI"
     }
 ]

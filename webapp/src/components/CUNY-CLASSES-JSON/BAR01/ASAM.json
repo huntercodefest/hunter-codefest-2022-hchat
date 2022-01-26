@@ -148,5 +148,11 @@
         "major": "ASAM",
         "room_num": "59164",
         "room_desc": "Vietnam at War"
+    },
+    {
+        "school": "BAR01",
+        "major": "ASAM",
+        "room_num": "86644",
+        "room_desc": "ASAM"
     }
 ]

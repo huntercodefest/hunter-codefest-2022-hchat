@@ -598,5 +598,11 @@
         "major": "LACS",
         "room_num": "13466",
         "room_desc": "Women in Latin America"
+    },
+    {
+        "school": "LEH01",
+        "major": "LACS",
+        "room_num": "88138",
+        "room_desc": "LACS"
     }
 ]

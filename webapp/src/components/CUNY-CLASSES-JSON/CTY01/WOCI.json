@@ -58,5 +58,11 @@
         "major": "WOCI",
         "room_num": "45229",
         "room_desc": "World Civilizations"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOCI",
+        "room_num": "87947",
+        "room_desc": "WOCI"
     }
 ]

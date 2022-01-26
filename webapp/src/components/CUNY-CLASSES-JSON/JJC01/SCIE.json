@@ -94,5 +94,11 @@
         "major": "SCIE",
         "room_num": "21864",
         "room_desc": "Toxin or Not"
+    },
+    {
+        "school": "JJC01",
+        "major": "SCIE",
+        "room_num": "87077",
+        "room_desc": "SCIE"
     }
 ]

@@ -34,5 +34,11 @@
         "major": "EDEE",
         "room_num": "35594",
         "room_desc": "Weather Prediction"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDEE",
+        "room_num": "87988",
+        "room_desc": "EDEE"
     }
 ]

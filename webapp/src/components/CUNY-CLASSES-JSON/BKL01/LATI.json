@@ -232,5 +232,11 @@
         "major": "LATI",
         "room_num": "74805",
         "room_desc": "Vulgar and Medieval Latin"
+    },
+    {
+        "school": "BKL01",
+        "major": "LATI",
+        "room_num": "86952",
+        "room_desc": "LATI"
     }
 ]

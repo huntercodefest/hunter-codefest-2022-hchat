@@ -412,5 +412,11 @@
         "major": "MUSI",
         "room_num": "16453",
         "room_desc": "Studies in Mus Performance IV"
+    },
+    {
+        "school": "YRK01",
+        "major": "MUSI",
+        "room_num": "87406",
+        "room_desc": "MUSI"
     }
 ]

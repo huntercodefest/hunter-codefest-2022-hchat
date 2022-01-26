@@ -100,5 +100,11 @@
         "major": "ITAL",
         "room_num": "18289",
         "room_desc": "The Modern Italian Short Story"
+    },
+    {
+        "school": "BMC01",
+        "major": "ITAL",
+        "room_num": "86824",
+        "room_desc": "ITAL"
     }
 ]

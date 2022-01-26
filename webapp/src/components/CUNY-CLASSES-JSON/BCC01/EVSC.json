@@ -58,5 +58,11 @@
         "major": "EVSC",
         "room_num": "69115",
         "room_desc": "Water Chemistry and Polution"
+    },
+    {
+        "school": "BCC01",
+        "major": "EVSC",
+        "room_num": "87340",
+        "room_desc": "EVSC"
     }
 ]

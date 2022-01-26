@@ -316,5 +316,11 @@
         "major": "PHYS",
         "room_num": "86087",
         "room_desc": "Waves/Optics/Mod Phy"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHYS",
+        "room_num": "88040",
+        "room_desc": "PHYS"
     }
 ]

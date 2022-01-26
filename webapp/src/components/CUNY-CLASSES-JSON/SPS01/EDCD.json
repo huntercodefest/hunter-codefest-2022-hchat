@@ -22,5 +22,11 @@
         "major": "EDCD",
         "room_num": "80616",
         "room_desc": "Prog80617: EDEC,\"Assessment as an Administrator"
+    },
+    {
+        "school": "SPS01",
+        "major": "EDCD",
+        "room_num": "87577",
+        "room_desc": "EDCD"
     }
 ]

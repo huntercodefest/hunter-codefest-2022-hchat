@@ -28,5 +28,11 @@
         "major": "ECON",
         "room_num": "63144",
         "room_desc": "Principles of Financial Mngmt"
+    },
+    {
+        "school": "KCC01",
+        "major": "ECON",
+        "room_num": "88492",
+        "room_desc": "ECON"
     }
 ]

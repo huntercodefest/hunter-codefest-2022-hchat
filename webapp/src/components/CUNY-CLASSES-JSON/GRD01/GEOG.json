@@ -130,5 +130,11 @@
         "major": "GEOG",
         "room_num": "5650",
         "room_desc": "Workshop in GIS Resesarch"
+    },
+    {
+        "school": "GRD01",
+        "major": "GEOG",
+        "room_num": "88332",
+        "room_desc": "GEOG"
     }
 ]

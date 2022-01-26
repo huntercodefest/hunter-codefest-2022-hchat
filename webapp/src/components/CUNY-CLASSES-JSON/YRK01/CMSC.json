@@ -184,5 +184,11 @@
         "major": "CMSC",
         "room_num": "15602",
         "room_desc": "Windows Programming"
+    },
+    {
+        "school": "YRK01",
+        "major": "CMSC",
+        "room_num": "87417",
+        "room_desc": "CMSC"
     }
 ]

@@ -550,5 +550,11 @@
         "major": "POSC",
         "room_num": "68304",
         "room_desc": "West Euro Pol"
+    },
+    {
+        "school": "NYT01",
+        "major": "POSC",
+        "room_num": "87210",
+        "room_desc": "POSC"
     }
 ]

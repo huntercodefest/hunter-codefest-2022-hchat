@@ -568,5 +568,11 @@
         "major": "EGCI",
         "room_num": "4533",
         "room_desc": "Water/Wastewater Treatment"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "88431",
+        "room_desc": "EGCI"
     }
 ]

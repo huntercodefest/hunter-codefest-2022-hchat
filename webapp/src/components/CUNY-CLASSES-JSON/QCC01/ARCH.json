@@ -64,5 +64,11 @@
         "major": "ARCH",
         "room_num": "22193",
         "room_desc": "Visualization II"
+    },
+    {
+        "school": "QCC01",
+        "major": "ARCH",
+        "room_num": "87870",
+        "room_desc": "ARCH"
     }
 ]

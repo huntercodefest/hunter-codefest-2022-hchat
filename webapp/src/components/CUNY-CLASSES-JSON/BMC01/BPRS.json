@@ -64,5 +64,11 @@
         "major": "BPRS",
         "room_num": "17416",
         "room_desc": "Urban Com Hlth Prob"
+    },
+    {
+        "school": "BMC01",
+        "major": "BPRS",
+        "room_num": "86873",
+        "room_desc": "BPRS"
     }
 ]

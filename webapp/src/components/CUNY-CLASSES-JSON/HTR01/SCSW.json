@@ -1486,5 +1486,11 @@
         "major": "SCSW",
         "room_num": "57299",
         "room_desc": "Wrk Vets & Mltry Mem"
+    },
+    {
+        "school": "HTR01",
+        "major": "SCSW",
+        "room_num": "87622",
+        "room_desc": "SCSW"
     }
 ]

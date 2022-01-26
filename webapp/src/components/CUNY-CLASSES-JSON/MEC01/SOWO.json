@@ -202,5 +202,11 @@
         "major": "SOWO",
         "room_num": "80069",
         "room_desc": "Theories/Human Behavior"
+    },
+    {
+        "school": "MEC01",
+        "major": "SOWO",
+        "room_num": "88264",
+        "room_desc": "SOWO"
     }
 ]

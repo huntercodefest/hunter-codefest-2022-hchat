@@ -592,5 +592,11 @@
         "major": "EGNG",
         "room_num": "38063",
         "room_desc": "Weather & Climate"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGNG",
+        "room_num": "87972",
+        "room_desc": "EGNG"
     }
 ]

@@ -10,5 +10,11 @@
         "major": "READ",
         "room_num": "30353",
         "room_desc": "Independent Study"
+    },
+    {
+        "school": "QNS01",
+        "major": "READ",
+        "room_num": "87535",
+        "room_desc": "READ"
     }
 ]

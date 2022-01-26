@@ -76,5 +76,11 @@
         "major": "ENSL",
         "room_num": "26876",
         "room_desc": "Read In Sciences"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENSL",
+        "room_num": "87446",
+        "room_desc": "ENSL"
     }
 ]

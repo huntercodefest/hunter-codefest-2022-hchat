@@ -196,5 +196,11 @@
         "major": "DANC",
         "room_num": "83956",
         "room_desc": "Square Dance"
+    },
+    {
+        "school": "CSI01",
+        "major": "DANC",
+        "room_num": "88125",
+        "room_desc": "DANC"
     }
 ]

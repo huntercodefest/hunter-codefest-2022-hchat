@@ -46,5 +46,11 @@
         "major": "HUSE",
         "room_num": "18270",
         "room_desc": "Soc Wel Prog & Pol"
+    },
+    {
+        "school": "BMC01",
+        "major": "HUSE",
+        "room_num": "86830",
+        "room_desc": "HUSE"
     }
 ]

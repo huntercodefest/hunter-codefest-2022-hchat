@@ -10,5 +10,11 @@
         "major": "ARPE",
         "room_num": "65353",
         "room_desc": "Instrumental Ensemb"
+    },
+    {
+        "school": "NYT01",
+        "major": "ARPE",
+        "room_num": "87209",
+        "room_desc": "ARPE"
     }
 ]

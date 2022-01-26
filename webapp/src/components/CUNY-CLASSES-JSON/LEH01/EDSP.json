@@ -568,5 +568,11 @@
         "major": "EDSP",
         "room_num": "12288",
         "room_desc": "Writ/Read Contnt Are"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDSP",
+        "room_num": "88133",
+        "room_desc": "EDSP"
     }
 ]

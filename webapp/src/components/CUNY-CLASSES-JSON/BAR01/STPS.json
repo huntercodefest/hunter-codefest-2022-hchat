@@ -10,5 +10,11 @@
         "major": "STPS",
         "room_num": "62613",
         "room_desc": "Sem Theory Peer Coun"
+    },
+    {
+        "school": "BAR01",
+        "major": "STPS",
+        "room_num": "86613",
+        "room_desc": "STPS"
     }
 ]

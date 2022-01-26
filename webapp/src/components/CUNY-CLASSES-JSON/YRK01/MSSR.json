@@ -22,5 +22,11 @@
         "major": "MSSR",
         "room_num": "16384",
         "room_desc": "Therap Exercise & Evaluation"
+    },
+    {
+        "school": "YRK01",
+        "major": "MSSR",
+        "room_num": "87377",
+        "room_desc": "MSSR"
     }
 ]

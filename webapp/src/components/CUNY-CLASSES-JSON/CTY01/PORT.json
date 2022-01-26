@@ -82,5 +82,11 @@
         "major": "PORT",
         "room_num": "43056",
         "room_desc": "The Cultures and Literatures o"
+    },
+    {
+        "school": "CTY01",
+        "major": "PORT",
+        "room_num": "88009",
+        "room_desc": "PORT"
     }
 ]

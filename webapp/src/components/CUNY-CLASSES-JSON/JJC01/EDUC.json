@@ -124,5 +124,11 @@
         "major": "EDUC",
         "room_num": "20320",
         "room_desc": "Theories Learning"
+    },
+    {
+        "school": "JJC01",
+        "major": "EDUC",
+        "room_num": "87058",
+        "room_desc": "EDUC"
     }
 ]

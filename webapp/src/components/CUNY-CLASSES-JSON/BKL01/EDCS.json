@@ -130,5 +130,11 @@
         "major": "EDCS",
         "room_num": "71985",
         "room_desc": "The Home and the World"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDCS",
+        "room_num": "87020",
+        "room_desc": "EDCS"
     }
 ]

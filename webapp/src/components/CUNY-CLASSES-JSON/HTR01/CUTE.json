@@ -2542,5 +2542,11 @@
         "major": "CUTE",
         "room_num": "48902",
         "room_desc": "Young Adult Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "CUTE",
+        "room_num": "87721",
+        "room_desc": "CUTE"
     }
 ]

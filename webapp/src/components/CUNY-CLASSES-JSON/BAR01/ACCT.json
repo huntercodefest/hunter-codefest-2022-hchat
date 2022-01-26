@@ -502,5 +502,11 @@
         "major": "ACCT",
         "room_num": "58961",
         "room_desc": "Topics in Internal Auditing"
+    },
+    {
+        "school": "BAR01",
+        "major": "ACCT",
+        "room_num": "86645",
+        "room_desc": "ACCT"
     }
 ]

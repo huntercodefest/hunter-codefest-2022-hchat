@@ -106,5 +106,11 @@
         "major": "YOST",
         "room_num": "81099",
         "room_desc": "Youth Studies Research Methods"
+    },
+    {
+        "school": "SPS01",
+        "major": "YOST",
+        "room_num": "87581",
+        "room_desc": "YOST"
     }
 ]

@@ -10,5 +10,11 @@
         "major": "MAOM",
         "room_num": "28742",
         "room_desc": "Maintenance Matric"
+    },
+    {
+        "school": "QNS01",
+        "major": "MAOM",
+        "room_num": "87456",
+        "room_desc": "MAOM"
     }
 ]

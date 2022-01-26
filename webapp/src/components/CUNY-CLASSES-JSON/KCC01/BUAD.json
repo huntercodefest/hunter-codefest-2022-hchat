@@ -136,5 +136,11 @@
         "major": "BUAD",
         "room_num": "62955",
         "room_desc": "Spreadsheet App/Bus"
+    },
+    {
+        "school": "KCC01",
+        "major": "BUAD",
+        "room_num": "88535",
+        "room_desc": "BUAD"
     }
 ]

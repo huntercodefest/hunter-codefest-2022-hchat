@@ -88,5 +88,11 @@
         "major": "FROR",
         "room_num": "81930",
         "room_desc": "Urban Government"
+    },
+    {
+        "school": "LAG01",
+        "major": "FROR",
+        "room_num": "86716",
+        "room_desc": "FROR"
     }
 ]

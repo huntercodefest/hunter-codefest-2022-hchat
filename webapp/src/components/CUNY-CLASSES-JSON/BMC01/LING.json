@@ -100,5 +100,11 @@
         "major": "LING",
         "room_num": "18385",
         "room_desc": "World/Global Englishes Reading"
+    },
+    {
+        "school": "BMC01",
+        "major": "LING",
+        "room_num": "86881",
+        "room_desc": "LING"
     }
 ]

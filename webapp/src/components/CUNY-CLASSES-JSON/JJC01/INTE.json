@@ -280,5 +280,11 @@
         "major": "INTE",
         "room_num": "20830",
         "room_desc": "Why Gender Matters?"
+    },
+    {
+        "school": "JJC01",
+        "major": "INTE",
+        "room_num": "87075",
+        "room_desc": "INTE"
     }
 ]

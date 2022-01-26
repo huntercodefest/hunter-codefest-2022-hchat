@@ -964,5 +964,11 @@
         "major": "MATH",
         "room_num": "28903",
         "room_desc": "Writing Workshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "MATH",
+        "room_num": "87519",
+        "room_desc": "MATH"
     }
 ]

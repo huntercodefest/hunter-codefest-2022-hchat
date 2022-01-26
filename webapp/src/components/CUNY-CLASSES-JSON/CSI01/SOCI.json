@@ -388,5 +388,11 @@
         "major": "SOCI",
         "room_num": "86408",
         "room_desc": "Women and Work"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOCI",
+        "room_num": "88033",
+        "room_desc": "SOCI"
     }
 ]

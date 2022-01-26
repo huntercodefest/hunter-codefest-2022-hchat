@@ -172,5 +172,11 @@
         "major": "MESG",
         "room_num": "28932",
         "room_desc": "Written Exam Passed"
+    },
+    {
+        "school": "QNS01",
+        "major": "MESG",
+        "room_num": "87465",
+        "room_desc": "MESG"
     }
 ]

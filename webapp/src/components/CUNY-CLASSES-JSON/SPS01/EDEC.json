@@ -100,5 +100,11 @@
         "major": "EDEC",
         "room_num": "80634",
         "room_desc": "Tech & Communication In ECE"
+    },
+    {
+        "school": "SPS01",
+        "major": "EDEC",
+        "room_num": "87572",
+        "room_desc": "EDEC"
     }
 ]

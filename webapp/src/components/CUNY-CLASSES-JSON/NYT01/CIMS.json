@@ -136,5 +136,11 @@
         "major": "CIMS",
         "room_num": "65764",
         "room_desc": "Thesis Research"
+    },
+    {
+        "school": "NYT01",
+        "major": "CIMS",
+        "room_num": "87218",
+        "room_desc": "CIMS"
     }
 ]

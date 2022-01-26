@@ -46,5 +46,11 @@
         "major": "LAW",
         "room_num": "64845",
         "room_desc": "Pub Employ Ben Law"
+    },
+    {
+        "school": "HOS01",
+        "major": "LAW",
+        "room_num": "87816",
+        "room_desc": "LAW"
     }
 ]

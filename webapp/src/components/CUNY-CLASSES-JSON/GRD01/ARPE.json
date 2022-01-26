@@ -4,5 +4,11 @@
         "major": "ARPE",
         "room_num": "568",
         "room_desc": "Exper Perf Ensemble & Composit"
+    },
+    {
+        "school": "GRD01",
+        "major": "ARPE",
+        "room_num": "88425",
+        "room_desc": "ARPE"
     }
 ]

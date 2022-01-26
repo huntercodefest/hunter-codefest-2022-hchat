@@ -334,5 +334,11 @@
         "major": "FREN",
         "room_num": "12627",
         "room_desc": "XVIII Cent Frnch Lit: Age Enli"
+    },
+    {
+        "school": "LEH01",
+        "major": "FREN",
+        "room_num": "88210",
+        "room_desc": "FREN"
     }
 ]

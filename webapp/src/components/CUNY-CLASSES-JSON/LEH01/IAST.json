@@ -28,5 +28,11 @@
         "major": "IAST",
         "room_num": "13216",
         "room_desc": "Tpcs Ital-Amer Stdys"
+    },
+    {
+        "school": "LEH01",
+        "major": "IAST",
+        "room_num": "88162",
+        "room_desc": "IAST"
     }
 ]

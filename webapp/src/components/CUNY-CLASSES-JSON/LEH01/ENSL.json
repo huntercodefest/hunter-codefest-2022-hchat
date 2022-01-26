@@ -10,5 +10,11 @@
         "major": "ENSL",
         "room_num": "12502",
         "room_desc": "Eng As 2nd Lang.-Adv"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENSL",
+        "room_num": "88150",
+        "room_desc": "ENSL"
     }
 ]

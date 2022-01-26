@@ -124,5 +124,11 @@
         "major": "GEOT",
         "room_num": "5691",
         "room_desc": "Spatial Data Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "GEOT",
+        "room_num": "88466",
+        "room_desc": "GEOT"
     }
 ]

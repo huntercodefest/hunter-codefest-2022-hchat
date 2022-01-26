@@ -46,5 +46,11 @@
         "major": "SEEK",
         "room_num": "21930",
         "room_desc": "Seek Freshman Colloquium"
+    },
+    {
+        "school": "JJC01",
+        "major": "SEEK",
+        "room_num": "87063",
+        "room_desc": "SEEK"
     }
 ]

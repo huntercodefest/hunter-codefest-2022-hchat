@@ -64,5 +64,11 @@
         "major": "HIST",
         "room_num": "80723",
         "room_desc": "World Hist 1900-Present"
+    },
+    {
+        "school": "SPS01",
+        "major": "HIST",
+        "room_num": "87550",
+        "room_desc": "HIST"
     }
 ]

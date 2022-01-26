@@ -1252,5 +1252,11 @@
         "major": "ENGL",
         "room_num": "12500",
         "room_desc": "introduction Critical Theory"
+    },
+    {
+        "school": "LEH01",
+        "major": "ENGL",
+        "room_num": "88135",
+        "room_desc": "ENGL"
     }
 ]

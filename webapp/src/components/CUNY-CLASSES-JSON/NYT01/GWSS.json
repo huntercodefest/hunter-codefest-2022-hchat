@@ -292,5 +292,11 @@
         "major": "GWSS",
         "room_num": "67138",
         "room_desc": "Women\u2019s Written Expression"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "87244",
+        "room_desc": "GWSS"
     }
 ]

@@ -40,5 +40,11 @@
         "major": "EDMH",
         "room_num": "49672",
         "room_desc": "Prog Development & Evaluation"
+    },
+    {
+        "school": "HTR01",
+        "major": "EDMH",
+        "room_num": "87739",
+        "room_desc": "EDMH"
     }
 ]

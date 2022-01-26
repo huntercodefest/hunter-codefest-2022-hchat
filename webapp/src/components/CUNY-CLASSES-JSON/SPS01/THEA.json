@@ -88,5 +88,11 @@
         "major": "THEA",
         "room_num": "81050",
         "room_desc": "Theatre of the Oppressed"
+    },
+    {
+        "school": "SPS01",
+        "major": "THEA",
+        "room_num": "87595",
+        "room_desc": "THEA"
     }
 ]

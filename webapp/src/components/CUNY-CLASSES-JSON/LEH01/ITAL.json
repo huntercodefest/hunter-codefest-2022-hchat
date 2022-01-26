@@ -310,5 +310,11 @@
         "major": "ITAL",
         "room_num": "13328",
         "room_desc": "Tutorial"
+    },
+    {
+        "school": "LEH01",
+        "major": "ITAL",
+        "room_num": "88178",
+        "room_desc": "ITAL"
     }
 ]

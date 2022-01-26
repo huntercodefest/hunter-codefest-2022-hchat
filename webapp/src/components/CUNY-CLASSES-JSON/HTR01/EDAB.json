@@ -100,5 +100,11 @@
         "major": "EDAB",
         "room_num": "49253",
         "room_desc": "Thesis II (KC)"
+    },
+    {
+        "school": "HTR01",
+        "major": "EDAB",
+        "room_num": "87716",
+        "room_desc": "EDAB"
     }
 ]

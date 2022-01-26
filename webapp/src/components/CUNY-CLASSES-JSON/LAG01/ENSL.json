@@ -106,5 +106,11 @@
         "major": "ENSL",
         "room_num": "81896",
         "room_desc": "Reading and Discussion"
+    },
+    {
+        "school": "LAG01",
+        "major": "ENSL",
+        "room_num": "86709",
+        "room_desc": "ENSL"
     }
 ]

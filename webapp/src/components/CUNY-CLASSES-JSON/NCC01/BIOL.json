@@ -52,5 +52,11 @@
         "major": "BIOL",
         "room_num": "64189",
         "room_desc": "Pathophysiology"
+    },
+    {
+        "school": "NCC01",
+        "major": "BIOL",
+        "room_num": "86909",
+        "room_desc": "BIOL"
     }
 ]

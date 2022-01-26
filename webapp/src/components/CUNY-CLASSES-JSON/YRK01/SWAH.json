@@ -10,5 +10,11 @@
         "major": "SWAH",
         "room_num": "17022",
         "room_desc": "Elementary Swahili II"
+    },
+    {
+        "school": "YRK01",
+        "major": "SWAH",
+        "room_num": "87414",
+        "room_desc": "SWAH"
     }
 ]

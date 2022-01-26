@@ -34,5 +34,11 @@
         "major": "GEOG",
         "room_num": "27256",
         "room_desc": "World Resources"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOG",
+        "room_num": "87426",
+        "room_desc": "GEOG"
     }
 ]

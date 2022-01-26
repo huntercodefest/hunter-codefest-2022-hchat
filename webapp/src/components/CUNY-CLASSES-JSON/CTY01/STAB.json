@@ -40,5 +40,11 @@
         "major": "STAB",
         "room_num": "44818",
         "room_desc": "Study Abroad/Non CUNY FA"
+    },
+    {
+        "school": "CTY01",
+        "major": "STAB",
+        "room_num": "87932",
+        "room_desc": "STAB"
     }
 ]

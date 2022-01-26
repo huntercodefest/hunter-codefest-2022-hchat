@@ -166,5 +166,11 @@
         "major": "PRST",
         "room_num": "18993",
         "room_desc": "The P.R. Family"
+    },
+    {
+        "school": "BMC01",
+        "major": "PRST",
+        "room_num": "86842",
+        "room_desc": "PRST"
     }
 ]

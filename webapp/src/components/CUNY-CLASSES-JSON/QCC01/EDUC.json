@@ -58,5 +58,11 @@
         "major": "EDUC",
         "room_num": "22706",
         "room_desc": "Special Education"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDUC",
+        "room_num": "87858",
+        "room_desc": "EDUC"
     }
 ]

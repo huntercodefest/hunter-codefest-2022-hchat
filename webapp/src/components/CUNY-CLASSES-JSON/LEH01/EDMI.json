@@ -844,5 +844,11 @@
         "major": "EDMI",
         "room_num": "12158",
         "room_desc": "Wksp-Currc Mtrls Dev"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDMI",
+        "room_num": "88201",
+        "room_desc": "EDMI"
     }
 ]

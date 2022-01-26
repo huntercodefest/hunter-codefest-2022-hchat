@@ -166,5 +166,11 @@
         "major": "FINA",
         "room_num": "66960",
         "room_desc": "Personal Financial Management"
+    },
+    {
+        "school": "NYT01",
+        "major": "FINA",
+        "room_num": "87236",
+        "room_desc": "FINA"
     }
 ]

@@ -64,5 +64,11 @@
         "major": "ENSL",
         "room_num": "73134",
         "room_desc": "Writing: High Intermed Level"
+    },
+    {
+        "school": "BKL01",
+        "major": "ENSL",
+        "room_num": "86948",
+        "room_desc": "ENSL"
     }
 ]

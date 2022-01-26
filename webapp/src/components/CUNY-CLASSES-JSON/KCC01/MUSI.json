@@ -202,5 +202,11 @@
         "major": "MUSI",
         "room_num": "63728",
         "room_desc": "Rudiments of Theory"
+    },
+    {
+        "school": "KCC01",
+        "major": "MUSI",
+        "room_num": "88532",
+        "room_desc": "MUSI"
     }
 ]

@@ -34,5 +34,11 @@
         "major": "EVSC",
         "room_num": "64238",
         "room_desc": "Urban Sustainability"
+    },
+    {
+        "school": "NCC01",
+        "major": "EVSC",
+        "room_num": "86924",
+        "room_desc": "EVSC"
     }
 ]

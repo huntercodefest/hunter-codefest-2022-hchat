@@ -196,5 +196,11 @@
         "major": "EDRE",
         "room_num": "12191",
         "room_desc": "Teaching Lang Arts Adv Course"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDRE",
+        "room_num": "88206",
+        "room_desc": "EDRE"
     }
 ]

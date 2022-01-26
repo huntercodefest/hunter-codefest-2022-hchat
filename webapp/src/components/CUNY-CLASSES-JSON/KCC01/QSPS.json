@@ -22,5 +22,11 @@
         "major": "QSPS",
         "room_num": "63969",
         "room_desc": "Quantitative Skills Phy Sci IV"
+    },
+    {
+        "school": "KCC01",
+        "major": "QSPS",
+        "room_num": "88473",
+        "room_desc": "QSPS"
     }
 ]

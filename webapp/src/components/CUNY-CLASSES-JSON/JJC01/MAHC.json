@@ -22,5 +22,11 @@
         "major": "MAHC",
         "room_num": "21066",
         "room_desc": "Sci & Tech In Nyc"
+    },
+    {
+        "school": "JJC01",
+        "major": "MAHC",
+        "room_num": "87040",
+        "room_desc": "MAHC"
     }
 ]

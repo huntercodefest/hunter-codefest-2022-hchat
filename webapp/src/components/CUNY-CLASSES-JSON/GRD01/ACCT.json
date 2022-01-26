@@ -184,5 +184,11 @@
         "major": "ACCT",
         "room_num": "228",
         "room_desc": "Spec Topics in Accounting"
+    },
+    {
+        "school": "GRD01",
+        "major": "ACCT",
+        "room_num": "88416",
+        "room_desc": "ACCT"
     }
 ]

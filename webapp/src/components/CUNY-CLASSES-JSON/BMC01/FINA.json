@@ -124,5 +124,11 @@
         "major": "FINA",
         "room_num": "18106",
         "room_desc": "Money and Banking"
+    },
+    {
+        "school": "BMC01",
+        "major": "FINA",
+        "room_num": "86879",
+        "room_desc": "FINA"
     }
 ]

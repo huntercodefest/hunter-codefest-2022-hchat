@@ -154,5 +154,11 @@
         "major": "HUMA",
         "room_num": "78904",
         "room_desc": "Writing Workshop"
+    },
+    {
+        "school": "MEC01",
+        "major": "HUMA",
+        "room_num": "88273",
+        "room_desc": "HUMA"
     }
 ]

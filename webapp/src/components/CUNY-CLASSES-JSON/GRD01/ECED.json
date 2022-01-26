@@ -28,5 +28,11 @@
         "major": "ECED",
         "room_num": "3925",
         "room_desc": "Multi-Cultural Education"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECED",
+        "room_num": "88419",
+        "room_desc": "ECED"
     }
 ]

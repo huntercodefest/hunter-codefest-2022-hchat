@@ -52,5 +52,11 @@
         "major": "UKRA",
         "room_num": "58654",
         "room_desc": "Ukrainian Culture 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "UKRA",
+        "room_num": "87651",
+        "room_desc": "UKRA"
     }
 ]

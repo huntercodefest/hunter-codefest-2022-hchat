@@ -466,5 +466,11 @@
         "major": "RUSS",
         "room_num": "76539",
         "room_desc": "Wrtg Resch & Resorce"
+    },
+    {
+        "school": "BKL01",
+        "major": "RUSS",
+        "room_num": "86999",
+        "room_desc": "RUSS"
     }
 ]

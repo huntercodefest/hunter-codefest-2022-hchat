@@ -22,5 +22,11 @@
         "major": "SLAV",
         "room_num": "30469",
         "room_desc": "Vt:Slav/East Eur Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "SLAV",
+        "room_num": "87434",
+        "room_desc": "SLAV"
     }
 ]

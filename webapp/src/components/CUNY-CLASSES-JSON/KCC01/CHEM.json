@@ -100,5 +100,11 @@
         "major": "CHEM",
         "room_num": "63004",
         "room_desc": "Research IV"
+    },
+    {
+        "school": "KCC01",
+        "major": "CHEM",
+        "room_num": "88469",
+        "room_desc": "CHEM"
     }
 ]

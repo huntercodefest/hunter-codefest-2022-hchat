@@ -22,5 +22,11 @@
         "major": "MESG",
         "room_num": "80308",
         "room_desc": "Maintenance of Matriculation"
+    },
+    {
+        "school": "SOJ01",
+        "major": "MESG",
+        "room_num": "87134",
+        "room_desc": "MESG"
     }
 ]

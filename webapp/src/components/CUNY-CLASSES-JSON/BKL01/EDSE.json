@@ -754,5 +754,11 @@
         "major": "EDSE",
         "room_num": "72144",
         "room_desc": "Wksp S Ed:Int/Dis"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDSE",
+        "room_num": "87011",
+        "room_desc": "EDSE"
     }
 ]

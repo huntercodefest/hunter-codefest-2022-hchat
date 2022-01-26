@@ -4,5 +4,11 @@
         "major": "CMLT",
         "room_num": "78246",
         "room_desc": "Computer Literacy"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMLT",
+        "room_num": "88258",
+        "room_desc": "CMLT"
     }
 ]

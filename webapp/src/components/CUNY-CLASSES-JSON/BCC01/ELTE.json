@@ -88,5 +88,11 @@
         "major": "ELTE",
         "room_num": "69041",
         "room_desc": "Laser & Fiber Optics"
+    },
+    {
+        "school": "BCC01",
+        "major": "ELTE",
+        "room_num": "87253",
+        "room_desc": "ELTE"
     }
 ]

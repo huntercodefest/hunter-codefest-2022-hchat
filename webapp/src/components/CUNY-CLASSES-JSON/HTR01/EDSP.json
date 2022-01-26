@@ -760,5 +760,11 @@
         "major": "EDSP",
         "room_num": "49840",
         "room_desc": "Writ Stdnts w/LD Methds 3 (KC)"
+    },
+    {
+        "school": "HTR01",
+        "major": "EDSP",
+        "room_num": "87626",
+        "room_desc": "EDSP"
     }
 ]

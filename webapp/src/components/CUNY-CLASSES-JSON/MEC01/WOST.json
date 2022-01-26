@@ -100,5 +100,11 @@
         "major": "WOST",
         "room_num": "80155",
         "room_desc": "Women\u2019S Worlds"
+    },
+    {
+        "school": "MEC01",
+        "major": "WOST",
+        "room_num": "88306",
+        "room_desc": "WOST"
     }
 ]

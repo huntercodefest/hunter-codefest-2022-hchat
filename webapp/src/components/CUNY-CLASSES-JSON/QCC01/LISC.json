@@ -4,5 +4,11 @@
         "major": "LISC",
         "room_num": "23021",
         "room_desc": "Fund Of Information"
+    },
+    {
+        "school": "QCC01",
+        "major": "LISC",
+        "room_num": "87892",
+        "room_desc": "LISC"
     }
 ]

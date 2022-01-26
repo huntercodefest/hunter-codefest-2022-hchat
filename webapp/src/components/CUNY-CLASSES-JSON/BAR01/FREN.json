@@ -280,5 +280,11 @@
         "major": "FREN",
         "room_num": "60426",
         "room_desc": "Women Writers in France"
+    },
+    {
+        "school": "BAR01",
+        "major": "FREN",
+        "room_num": "86665",
+        "room_desc": "FREN"
     }
 ]

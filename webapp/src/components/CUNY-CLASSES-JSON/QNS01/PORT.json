@@ -94,5 +94,11 @@
         "major": "PORT",
         "room_num": "29824",
         "room_desc": "Vt:Port Civilization"
+    },
+    {
+        "school": "QNS01",
+        "major": "PORT",
+        "room_num": "87524",
+        "room_desc": "PORT"
     }
 ]

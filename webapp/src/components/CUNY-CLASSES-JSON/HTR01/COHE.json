@@ -568,5 +568,11 @@
         "major": "COHE",
         "room_num": "48117",
         "room_desc": "Writing for Public Health"
+    },
+    {
+        "school": "HTR01",
+        "major": "COHE",
+        "room_num": "87639",
+        "room_desc": "COHE"
     }
 ]

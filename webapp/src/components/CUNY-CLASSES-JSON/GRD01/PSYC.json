@@ -2980,5 +2980,11 @@
         "major": "PSYC",
         "room_num": "9572",
         "room_desc": "Women Resch Group"
+    },
+    {
+        "school": "GRD01",
+        "major": "PSYC",
+        "room_num": "88331",
+        "room_desc": "PSYC"
     }
 ]

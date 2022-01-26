@@ -694,5 +694,11 @@
         "major": "MATH",
         "room_num": "53960",
         "room_desc": "Vector Analysis"
+    },
+    {
+        "school": "HTR01",
+        "major": "MATH",
+        "room_num": "87741",
+        "room_desc": "MATH"
     }
 ]

@@ -556,5 +556,11 @@
         "major": "FREN",
         "room_num": "39495",
         "room_desc": "Translation 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "FREN",
+        "room_num": "87997",
+        "room_desc": "FREN"
     }
 ]

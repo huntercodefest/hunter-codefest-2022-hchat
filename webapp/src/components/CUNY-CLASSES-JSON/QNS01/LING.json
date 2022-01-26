@@ -778,5 +778,11 @@
         "major": "LING",
         "room_num": "28651",
         "room_desc": "Writing Tutorial"
+    },
+    {
+        "school": "QNS01",
+        "major": "LING",
+        "room_num": "87534",
+        "room_desc": "LING"
     }
 ]

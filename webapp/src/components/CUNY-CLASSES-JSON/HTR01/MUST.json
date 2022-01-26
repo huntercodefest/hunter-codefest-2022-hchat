@@ -274,5 +274,11 @@
         "major": "MUST",
         "room_num": "54753",
         "room_desc": "Undrstndng Snd Synth"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUST",
+        "room_num": "87749",
+        "room_desc": "MUST"
     }
 ]

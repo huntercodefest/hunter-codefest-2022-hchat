@@ -70,5 +70,11 @@
         "major": "SOCI",
         "room_num": "23394",
         "room_desc": "Urban Sociology"
+    },
+    {
+        "school": "QCC01",
+        "major": "SOCI",
+        "room_num": "87850",
+        "room_desc": "SOCI"
     }
 ]

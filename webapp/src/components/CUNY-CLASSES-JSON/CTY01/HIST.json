@@ -5632,5 +5632,11 @@
         "major": "HIST",
         "room_num": "40694",
         "room_desc": "XX Cent U.S. Soc Just Mvmnt"
+    },
+    {
+        "school": "CTY01",
+        "major": "HIST",
+        "room_num": "87918",
+        "room_desc": "HIST"
     }
 ]

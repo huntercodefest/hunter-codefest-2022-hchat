@@ -16,5 +16,11 @@
         "major": "JAPN",
         "room_num": "64809",
         "room_desc": "Japanese Elective"
+    },
+    {
+        "school": "HOS01",
+        "major": "JAPN",
+        "room_num": "87786",
+        "room_desc": "JAPN"
     }
 ]

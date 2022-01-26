@@ -148,5 +148,11 @@
         "major": "SOSC",
         "room_num": "30640",
         "room_desc": "Var Meth In Soc Sci"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOSC",
+        "room_num": "87530",
+        "room_desc": "SOSC"
     }
 ]

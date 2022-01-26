@@ -838,5 +838,11 @@
         "major": "SPAN",
         "room_num": "30783",
         "room_desc": "Vt:Medieval Span Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPAN",
+        "room_num": "87495",
+        "room_desc": "SPAN"
     }
 ]

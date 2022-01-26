@@ -46,5 +46,11 @@
         "major": "FREN",
         "room_num": "22923",
         "room_desc": "Intermediate French II"
+    },
+    {
+        "school": "QCC01",
+        "major": "FREN",
+        "room_num": "87890",
+        "room_desc": "FREN"
     }
 ]

@@ -196,5 +196,11 @@
         "major": "COUN",
         "room_num": "19895",
         "room_desc": "Vocatnl Dev Hum Serv"
+    },
+    {
+        "school": "JJC01",
+        "major": "COUN",
+        "room_num": "87080",
+        "room_desc": "COUN"
     }
 ]

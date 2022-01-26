@@ -22,5 +22,11 @@
         "major": "BUAD",
         "room_num": "33581",
         "room_desc": "Retail Merchandising"
+    },
+    {
+        "school": "CTY01",
+        "major": "BUAD",
+        "room_num": "87998",
+        "room_desc": "BUAD"
     }
 ]

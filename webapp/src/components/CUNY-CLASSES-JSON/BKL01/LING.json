@@ -94,5 +94,11 @@
         "major": "LING",
         "room_num": "74821",
         "room_desc": "Syntax"
+    },
+    {
+        "school": "BKL01",
+        "major": "LING",
+        "room_num": "87022",
+        "room_desc": "LING"
     }
 ]

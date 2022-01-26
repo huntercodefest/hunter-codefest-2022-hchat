@@ -16,5 +16,11 @@
         "major": "MDCN",
         "room_num": "41890",
         "room_desc": "Translational Research Design"
+    },
+    {
+        "school": "CTY01",
+        "major": "MDCN",
+        "room_num": "87942",
+        "room_desc": "MDCN"
     }
 ]

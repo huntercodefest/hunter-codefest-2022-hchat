@@ -10,5 +10,11 @@
         "major": "STAT",
         "room_num": "22134",
         "room_desc": "Stat-Prin/Methods"
+    },
+    {
+        "school": "JJC01",
+        "major": "STAT",
+        "room_num": "87105",
+        "room_desc": "STAT"
     }
 ]

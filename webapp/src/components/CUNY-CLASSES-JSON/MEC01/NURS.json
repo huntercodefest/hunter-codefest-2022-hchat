@@ -1480,5 +1480,11 @@
         "major": "NURS",
         "room_num": "79642",
         "room_desc": "Transition to Nursing Practice"
+    },
+    {
+        "school": "MEC01",
+        "major": "NURS",
+        "room_num": "88246",
+        "room_desc": "NURS"
     }
 ]

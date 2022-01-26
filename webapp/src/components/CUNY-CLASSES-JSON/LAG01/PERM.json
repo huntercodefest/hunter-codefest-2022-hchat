@@ -106,5 +106,11 @@
         "major": "PERM",
         "room_num": "82588",
         "room_desc": "Permit 9"
+    },
+    {
+        "school": "LAG01",
+        "major": "PERM",
+        "room_num": "86700",
+        "room_desc": "PERM"
     }
 ]

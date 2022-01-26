@@ -70,5 +70,11 @@
         "major": "JWST",
         "room_num": "60793",
         "room_desc": "The Holocaust in Hist & Mem"
+    },
+    {
+        "school": "BAR01",
+        "major": "JWST",
+        "room_num": "86639",
+        "room_desc": "JWST"
     }
 ]

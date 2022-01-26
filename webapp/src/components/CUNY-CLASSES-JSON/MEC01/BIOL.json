@@ -508,5 +508,11 @@
         "major": "BIOL",
         "room_num": "78104",
         "room_desc": "Topics In Immunol"
+    },
+    {
+        "school": "MEC01",
+        "major": "BIOL",
+        "room_num": "88275",
+        "room_desc": "BIOL"
     }
 ]

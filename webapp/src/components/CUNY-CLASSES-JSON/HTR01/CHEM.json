@@ -442,5 +442,11 @@
         "major": "CHEM",
         "room_num": "47754",
         "room_desc": "Thesis Research"
+    },
+    {
+        "school": "HTR01",
+        "major": "CHEM",
+        "room_num": "87623",
+        "room_desc": "CHEM"
     }
 ]

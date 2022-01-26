@@ -244,5 +244,11 @@
         "major": "OCTH",
         "room_num": "16538",
         "room_desc": "Use of Orthotics in OT"
+    },
+    {
+        "school": "YRK01",
+        "major": "OCTH",
+        "room_num": "87391",
+        "room_desc": "OCTH"
     }
 ]

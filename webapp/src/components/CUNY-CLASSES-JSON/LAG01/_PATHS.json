@@ -374,5 +374,9 @@
     {
         "major": "ART",
         "path": "ART.json"
+    },
+    {
+        "major": "LAG01",
+        "path": "LAG01.json"
     }
 ]

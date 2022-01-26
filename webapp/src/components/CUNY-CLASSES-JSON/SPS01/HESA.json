@@ -10,5 +10,11 @@
         "major": "HESA",
         "room_num": "80712",
         "room_desc": "Hlth Svc Admin Capstone"
+    },
+    {
+        "school": "SPS01",
+        "major": "HESA",
+        "room_num": "87569",
+        "room_desc": "HESA"
     }
 ]

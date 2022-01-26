@@ -82,5 +82,11 @@
         "major": "LBST",
         "room_num": "18353",
         "room_desc": "The World Of Work"
+    },
+    {
+        "school": "BMC01",
+        "major": "LBST",
+        "room_num": "86789",
+        "room_desc": "LBST"
     }
 ]

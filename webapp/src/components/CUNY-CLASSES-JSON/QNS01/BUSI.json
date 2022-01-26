@@ -178,5 +178,11 @@
         "major": "BUSI",
         "room_num": "24523",
         "room_desc": "Vt: Intl Bus & Fin"
+    },
+    {
+        "school": "QNS01",
+        "major": "BUSI",
+        "room_num": "87482",
+        "room_desc": "BUSI"
     }
 ]

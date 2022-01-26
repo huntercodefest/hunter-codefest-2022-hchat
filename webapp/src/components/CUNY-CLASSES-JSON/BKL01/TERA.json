@@ -616,5 +616,11 @@
         "major": "TERA",
         "room_num": "77420",
         "room_desc": "Writing:Drama"
+    },
+    {
+        "school": "BKL01",
+        "major": "TERA",
+        "room_num": "86943",
+        "room_desc": "TERA"
     }
 ]

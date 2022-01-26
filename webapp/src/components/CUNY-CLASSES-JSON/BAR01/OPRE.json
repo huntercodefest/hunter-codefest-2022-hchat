@@ -172,5 +172,11 @@
         "major": "OPRE",
         "room_num": "61642",
         "room_desc": "Thesis (Thesis II)"
+    },
+    {
+        "school": "BAR01",
+        "major": "OPRE",
+        "room_num": "86679",
+        "room_desc": "OPRE"
     }
 ]

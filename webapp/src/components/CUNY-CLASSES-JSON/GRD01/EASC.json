@@ -808,5 +808,11 @@
         "major": "EASC",
         "room_num": "3920",
         "room_desc": "X-Ray Diffraction"
+    },
+    {
+        "school": "GRD01",
+        "major": "EASC",
+        "room_num": "88352",
+        "room_desc": "EASC"
     }
 ]

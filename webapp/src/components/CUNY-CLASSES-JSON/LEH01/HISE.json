@@ -238,5 +238,11 @@
         "major": "HISE",
         "room_num": "13048",
         "room_desc": "XX Century Britain"
+    },
+    {
+        "school": "LEH01",
+        "major": "HISE",
+        "room_num": "88220",
+        "room_desc": "HISE"
     }
 ]

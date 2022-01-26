@@ -64,5 +64,11 @@
         "major": "EDHE",
         "room_num": "84174",
         "room_desc": "Human Sexuality"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDHE",
+        "room_num": "88097",
+        "room_desc": "EDHE"
     }
 ]

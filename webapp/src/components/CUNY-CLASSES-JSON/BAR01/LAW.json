@@ -430,5 +430,11 @@
         "major": "LAW",
         "room_num": "60923",
         "room_desc": "Women60924: LISC,\"Advanced Topics in Information"
+    },
+    {
+        "school": "BAR01",
+        "major": "LAW",
+        "room_num": "86652",
+        "room_desc": "LAW"
     }
 ]

@@ -58,5 +58,11 @@
         "major": "IBAP",
         "room_num": "13227",
         "room_desc": "Prior Lrnng Assssmnt:Port Dev"
+    },
+    {
+        "school": "LEH01",
+        "major": "IBAP",
+        "room_num": "88171",
+        "room_desc": "IBAP"
     }
 ]

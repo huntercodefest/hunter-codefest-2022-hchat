@@ -526,5 +526,11 @@
         "major": "SOCI",
         "room_num": "22020",
         "room_desc": "Youth22021: SOEI,\"Intro Business & Entreprenshp"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "87046",
+        "room_desc": "SOCI"
     }
 ]

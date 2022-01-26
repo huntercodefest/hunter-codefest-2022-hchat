@@ -70,5 +70,11 @@
         "major": "NURS",
         "room_num": "64916",
         "room_desc": "Transition into Nursing"
+    },
+    {
+        "school": "HOS01",
+        "major": "NURS",
+        "room_num": "87777",
+        "room_desc": "NURS"
     }
 ]

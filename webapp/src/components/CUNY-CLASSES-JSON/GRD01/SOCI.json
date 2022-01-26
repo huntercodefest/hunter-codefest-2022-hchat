@@ -1564,5 +1564,11 @@
         "major": "SOCI",
         "room_num": "10133",
         "room_desc": "Yoruba 14"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOCI",
+        "room_num": "88342",
+        "room_desc": "SOCI"
     }
 ]

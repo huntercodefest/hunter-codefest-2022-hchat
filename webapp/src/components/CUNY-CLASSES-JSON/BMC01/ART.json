@@ -496,5 +496,11 @@
         "major": "ART",
         "room_num": "17308",
         "room_desc": "Visual Comm & Design"
+    },
+    {
+        "school": "BMC01",
+        "major": "ART",
+        "room_num": "86889",
+        "room_desc": "ART"
     }
 ]

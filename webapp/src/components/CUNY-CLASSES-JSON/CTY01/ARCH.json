@@ -3094,5 +3094,11 @@
         "major": "ARCH",
         "room_num": "32078",
         "room_desc": "World Cities"
+    },
+    {
+        "school": "CTY01",
+        "major": "ARCH",
+        "room_num": "87954",
+        "room_desc": "ARCH"
     }
 ]

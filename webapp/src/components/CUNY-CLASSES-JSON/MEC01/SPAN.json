@@ -196,5 +196,11 @@
         "major": "SPAN",
         "room_num": "80102",
         "room_desc": "Spanish-American Short fiction"
+    },
+    {
+        "school": "MEC01",
+        "major": "SPAN",
+        "room_num": "88282",
+        "room_desc": "SPAN"
     }
 ]

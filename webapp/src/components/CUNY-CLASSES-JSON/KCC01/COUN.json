@@ -82,5 +82,11 @@
         "major": "COUN",
         "room_num": "63113",
         "room_desc": "Sac Field Intrnshp B"
+    },
+    {
+        "school": "KCC01",
+        "major": "COUN",
+        "room_num": "88510",
+        "room_desc": "COUN"
     }
 ]

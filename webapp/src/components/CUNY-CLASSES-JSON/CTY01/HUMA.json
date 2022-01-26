@@ -76,5 +76,11 @@
         "major": "HUMA",
         "room_num": "40711",
         "room_desc": "The Arts"
+    },
+    {
+        "school": "CTY01",
+        "major": "HUMA",
+        "room_num": "87963",
+        "room_desc": "HUMA"
     }
 ]

@@ -154,5 +154,11 @@
         "major": "FREN",
         "room_num": "18134",
         "room_desc": "Survey of French Literature II"
+    },
+    {
+        "school": "BMC01",
+        "major": "FREN",
+        "room_num": "86865",
+        "room_desc": "FREN"
     }
 ]

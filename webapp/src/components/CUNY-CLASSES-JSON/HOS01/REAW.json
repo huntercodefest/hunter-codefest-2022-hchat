@@ -4,5 +4,11 @@
         "major": "REAW",
         "room_num": "65015",
         "room_desc": "Reading Workshop"
+    },
+    {
+        "school": "HOS01",
+        "major": "REAW",
+        "room_num": "87826",
+        "room_desc": "REAW"
     }
 ]

@@ -22,5 +22,11 @@
         "major": "POLI",
         "room_num": "8745",
         "room_desc": "Intermediate Polish I"
+    },
+    {
+        "school": "GRD01",
+        "major": "POLI",
+        "room_num": "88428",
+        "room_desc": "POLI"
     }
 ]

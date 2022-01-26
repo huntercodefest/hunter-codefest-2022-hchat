@@ -292,5 +292,11 @@
         "major": "POLI",
         "room_num": "55533",
         "room_desc": "War & Occupation"
+    },
+    {
+        "school": "HTR01",
+        "major": "POLI",
+        "room_num": "87719",
+        "room_desc": "POLI"
     }
 ]

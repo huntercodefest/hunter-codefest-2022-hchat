@@ -52,5 +52,11 @@
         "major": "MEDI",
         "room_num": "23081",
         "room_desc": "Writing for the Screen"
+    },
+    {
+        "school": "QCC01",
+        "major": "MEDI",
+        "room_num": "87863",
+        "room_desc": "MEDI"
     }
 ]

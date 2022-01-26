@@ -982,5 +982,11 @@
         "major": "MANA",
         "room_num": "61133",
         "room_desc": "Women and Entrepreneurship"
+    },
+    {
+        "school": "BAR01",
+        "major": "MANA",
+        "room_num": "86682",
+        "room_desc": "MANA"
     }
 ]

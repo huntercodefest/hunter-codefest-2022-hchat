@@ -130,5 +130,11 @@
         "major": "SPEV",
         "room_num": "14837",
         "room_desc": "Voice/Articulation of Amer Eng"
+    },
+    {
+        "school": "LEH01",
+        "major": "SPEV",
+        "room_num": "88179",
+        "room_desc": "SPEV"
     }
 ]

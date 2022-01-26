@@ -106,5 +106,11 @@
         "major": "GNST",
         "room_num": "20597",
         "room_desc": "Topics In Gender Studies"
+    },
+    {
+        "school": "JJC01",
+        "major": "GNST",
+        "room_num": "87071",
+        "room_desc": "GNST"
     }
 ]

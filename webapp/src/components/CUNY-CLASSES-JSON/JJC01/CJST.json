@@ -28,5 +28,11 @@
         "major": "CJST",
         "room_num": "19718",
         "room_desc": "Research Methods CJ Mgmt"
+    },
+    {
+        "school": "JJC01",
+        "major": "CJST",
+        "room_num": "87067",
+        "room_desc": "CJST"
     }
 ]

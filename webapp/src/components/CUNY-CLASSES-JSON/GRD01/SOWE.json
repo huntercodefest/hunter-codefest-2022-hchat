@@ -262,5 +262,11 @@
         "major": "SOWE",
         "room_num": "10178",
         "room_desc": "Women & Social Welfare Policy"
+    },
+    {
+        "school": "GRD01",
+        "major": "SOWE",
+        "room_num": "88458",
+        "room_desc": "SOWE"
     }
 ]

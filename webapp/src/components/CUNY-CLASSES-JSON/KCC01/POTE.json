@@ -52,5 +52,11 @@
         "major": "POTE",
         "room_num": "63950",
         "room_desc": "Sci Sleep & Circadian Rhythms"
+    },
+    {
+        "school": "KCC01",
+        "major": "POTE",
+        "room_num": "88518",
+        "room_desc": "POTE"
     }
 ]

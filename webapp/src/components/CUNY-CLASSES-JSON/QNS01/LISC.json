@@ -484,5 +484,11 @@
         "major": "LISC",
         "room_num": "28735",
         "room_desc": "Web Programming"
+    },
+    {
+        "school": "QNS01",
+        "major": "LISC",
+        "room_num": "87516",
+        "room_desc": "LISC"
     }
 ]

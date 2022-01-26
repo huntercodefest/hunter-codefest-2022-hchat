@@ -4,5 +4,11 @@
         "major": "KORE",
         "room_num": "67433",
         "room_desc": "Kor Ooo"
+    },
+    {
+        "school": "NYT01",
+        "major": "KORE",
+        "room_num": "87207",
+        "room_desc": "KORE"
     }
 ]

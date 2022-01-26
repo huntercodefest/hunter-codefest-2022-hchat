@@ -142,5 +142,11 @@
         "major": "THEA",
         "room_num": "19248",
         "room_desc": "Women in American Theater"
+    },
+    {
+        "school": "BMC01",
+        "major": "THEA",
+        "room_num": "86854",
+        "room_desc": "THEA"
     }
 ]

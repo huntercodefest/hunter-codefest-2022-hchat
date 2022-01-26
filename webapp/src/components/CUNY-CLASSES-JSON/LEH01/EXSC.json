@@ -208,5 +208,11 @@
         "major": "EXSC",
         "room_num": "12547",
         "room_desc": "Topics Exercise Sci"
+    },
+    {
+        "school": "LEH01",
+        "major": "EXSC",
+        "room_num": "88188",
+        "room_desc": "EXSC"
     }
 ]

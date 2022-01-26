@@ -28,5 +28,11 @@
         "major": "ACCT",
         "room_num": "80316",
         "room_desc": "Intro to Financial Mgmnt"
+    },
+    {
+        "school": "SPS01",
+        "major": "ACCT",
+        "room_num": "87589",
+        "room_desc": "ACCT"
     }
 ]

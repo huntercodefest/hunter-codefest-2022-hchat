@@ -76,5 +76,11 @@
         "major": "GEOG",
         "room_num": "78804",
         "room_desc": "Urban Geography"
+    },
+    {
+        "school": "MEC01",
+        "major": "GEOG",
+        "room_num": "88242",
+        "room_desc": "GEOG"
     }
 ]

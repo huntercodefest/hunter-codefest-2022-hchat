@@ -652,5 +652,11 @@
         "major": "MATH",
         "room_num": "67742",
         "room_desc": "Topology"
+    },
+    {
+        "school": "NYT01",
+        "major": "MATH",
+        "room_num": "87226",
+        "room_desc": "MATH"
     }
 ]

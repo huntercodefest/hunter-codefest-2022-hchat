@@ -88,5 +88,11 @@
         "major": "MEHE",
         "room_num": "63689",
         "room_desc": "Suprvsd Instr Exp in MH II"
+    },
+    {
+        "school": "KCC01",
+        "major": "MEHE",
+        "room_num": "88547",
+        "room_desc": "MEHE"
     }
 ]

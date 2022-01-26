@@ -4,5 +4,11 @@
         "major": "FROR",
         "room_num": "63482",
         "room_desc": "Education & Career Planning"
+    },
+    {
+        "school": "KCC01",
+        "major": "FROR",
+        "room_num": "88499",
+        "room_desc": "FROR"
     }
 ]

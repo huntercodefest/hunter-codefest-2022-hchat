@@ -610,5 +610,11 @@
         "major": "ART",
         "room_num": "11069",
         "room_desc": "Watercolor"
+    },
+    {
+        "school": "LEH01",
+        "major": "ART",
+        "room_num": "88236",
+        "room_desc": "ART"
     }
 ]

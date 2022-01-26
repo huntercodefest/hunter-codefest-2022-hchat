@@ -88,5 +88,11 @@
         "major": "HURE",
         "room_num": "80738",
         "room_desc": "Special Topics"
+    },
+    {
+        "school": "SPS01",
+        "major": "HURE",
+        "room_num": "87585",
+        "room_desc": "HURE"
     }
 ]

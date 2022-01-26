@@ -178,5 +178,11 @@
         "major": "MEDI",
         "room_num": "79210",
         "room_desc": "Workshop in Media Writing I"
+    },
+    {
+        "school": "MEC01",
+        "major": "MEDI",
+        "room_num": "88262",
+        "room_desc": "MEDI"
     }
 ]

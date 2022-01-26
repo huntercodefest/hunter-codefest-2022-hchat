@@ -4,5 +4,11 @@
         "major": "PUAF",
         "room_num": "80310",
         "room_desc": "Maternal & Child Health"
+    },
+    {
+        "school": "SOJ01",
+        "major": "PUAF",
+        "room_num": "87139",
+        "room_desc": "PUAF"
     }
 ]

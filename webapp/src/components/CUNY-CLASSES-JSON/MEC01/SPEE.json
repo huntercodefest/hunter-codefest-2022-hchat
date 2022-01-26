@@ -106,5 +106,11 @@
         "major": "SPEE",
         "room_num": "80120",
         "room_desc": "Voice and Diction"
+    },
+    {
+        "school": "MEC01",
+        "major": "SPEE",
+        "room_num": "88286",
+        "room_desc": "SPEE"
     }
 ]

@@ -28,5 +28,11 @@
         "major": "FOLA",
         "room_num": "66967",
         "room_desc": "Foreign Language Exempt 114"
+    },
+    {
+        "school": "NYT01",
+        "major": "FOLA",
+        "room_num": "87176",
+        "room_desc": "FOLA"
     }
 ]

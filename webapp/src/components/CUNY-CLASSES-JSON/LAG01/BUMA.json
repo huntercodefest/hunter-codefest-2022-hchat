@@ -40,5 +40,11 @@
         "major": "BUMA",
         "room_num": "81395",
         "room_desc": "Salesmanship"
+    },
+    {
+        "school": "LAG01",
+        "major": "BUMA",
+        "room_num": "86736",
+        "room_desc": "BUMA"
     }
 ]

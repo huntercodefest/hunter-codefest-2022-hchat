@@ -40,5 +40,11 @@
         "major": "ART",
         "room_num": "46524",
         "room_desc": "Sophocles"
+    },
+    {
+        "school": "HTR01",
+        "major": "ART",
+        "room_num": "87762",
+        "room_desc": "ART"
     }
 ]

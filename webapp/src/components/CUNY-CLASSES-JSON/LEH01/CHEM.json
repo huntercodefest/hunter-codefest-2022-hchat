@@ -334,5 +334,11 @@
         "major": "CHEM",
         "room_num": "11423",
         "room_desc": "Topcs-Mod Orgnc Chem"
+    },
+    {
+        "school": "LEH01",
+        "major": "CHEM",
+        "room_num": "88130",
+        "room_desc": "CHEM"
     }
 ]

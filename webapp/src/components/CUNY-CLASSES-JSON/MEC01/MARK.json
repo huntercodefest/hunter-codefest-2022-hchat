@@ -118,5 +118,11 @@
         "major": "MARK",
         "room_num": "79085",
         "room_desc": "Salesmanship"
+    },
+    {
+        "school": "MEC01",
+        "major": "MARK",
+        "room_num": "88260",
+        "room_desc": "MARK"
     }
 ]

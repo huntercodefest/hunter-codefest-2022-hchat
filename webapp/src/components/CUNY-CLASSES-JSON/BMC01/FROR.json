@@ -46,5 +46,11 @@
         "major": "FROR",
         "room_num": "18142",
         "room_desc": "Out in Two Program Seminar"
+    },
+    {
+        "school": "BMC01",
+        "major": "FROR",
+        "room_num": "86814",
+        "room_desc": "FROR"
     }
 ]

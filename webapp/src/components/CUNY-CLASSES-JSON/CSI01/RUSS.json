@@ -4,5 +4,11 @@
         "major": "RUSS",
         "room_num": "86301",
         "room_desc": "Russian 100-Level Elective"
+    },
+    {
+        "school": "CSI01",
+        "major": "RUSS",
+        "room_num": "88099",
+        "room_desc": "RUSS"
     }
 ]

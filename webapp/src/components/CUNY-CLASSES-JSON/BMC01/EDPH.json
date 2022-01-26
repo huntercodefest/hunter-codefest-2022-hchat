@@ -424,5 +424,11 @@
         "major": "EDPH",
         "room_num": "17902",
         "room_desc": "Yoga"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDPH",
+        "room_num": "86864",
+        "room_desc": "EDPH"
     }
 ]

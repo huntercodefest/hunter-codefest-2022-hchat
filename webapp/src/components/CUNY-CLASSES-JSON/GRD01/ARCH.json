@@ -118,5 +118,11 @@
         "major": "ARCH",
         "room_num": "566",
         "room_desc": "Words & Buildings"
+    },
+    {
+        "school": "GRD01",
+        "major": "ARCH",
+        "room_num": "88390",
+        "room_desc": "ARCH"
     }
 ]

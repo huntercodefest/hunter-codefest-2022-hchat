@@ -448,5 +448,11 @@
         "major": "ECON",
         "room_num": "66157",
         "room_desc": "Women and the Economy"
+    },
+    {
+        "school": "NYT01",
+        "major": "ECON",
+        "room_num": "87163",
+        "room_desc": "ECON"
     }
 ]

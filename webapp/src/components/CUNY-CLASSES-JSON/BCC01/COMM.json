@@ -94,5 +94,11 @@
         "major": "COMM",
         "room_num": "68918",
         "room_desc": "Voice & Diction"
+    },
+    {
+        "school": "BCC01",
+        "major": "COMM",
+        "room_num": "87271",
+        "room_desc": "COMM"
     }
 ]

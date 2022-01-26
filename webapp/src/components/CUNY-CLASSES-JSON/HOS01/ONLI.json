@@ -4,5 +4,11 @@
         "major": "ONLI",
         "room_num": "64931",
         "room_desc": "Student Online Learn Readiness"
+    },
+    {
+        "school": "HOS01",
+        "major": "ONLI",
+        "room_num": "87779",
+        "room_desc": "ONLI"
     }
 ]

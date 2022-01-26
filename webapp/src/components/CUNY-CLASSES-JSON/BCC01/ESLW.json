@@ -22,5 +22,11 @@
         "major": "ESLW",
         "room_num": "69105",
         "room_desc": "Esl Workshop 03"
+    },
+    {
+        "school": "BCC01",
+        "major": "ESLW",
+        "room_num": "87283",
+        "room_desc": "ESLW"
     }
 ]

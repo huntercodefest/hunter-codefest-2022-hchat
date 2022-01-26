@@ -160,5 +160,11 @@
         "major": "RELI",
         "room_num": "76461",
         "room_desc": "Tower of Babel"
+    },
+    {
+        "school": "BKL01",
+        "major": "RELI",
+        "room_num": "86927",
+        "room_desc": "RELI"
     }
 ]

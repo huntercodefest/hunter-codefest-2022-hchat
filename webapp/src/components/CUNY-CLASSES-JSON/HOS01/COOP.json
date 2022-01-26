@@ -16,5 +16,11 @@
         "major": "COOP",
         "room_num": "64483",
         "room_desc": "Work Experience II"
+    },
+    {
+        "school": "HOS01",
+        "major": "COOP",
+        "room_num": "87805",
+        "room_desc": "COOP"
     }
 ]

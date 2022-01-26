@@ -314,5 +314,9 @@
     {
         "major": "YODE",
         "path": "YODE.json"
+    },
+    {
+        "major": "YRK01",
+        "path": "YRK01.json"
     }
 ]

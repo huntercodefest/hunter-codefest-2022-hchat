@@ -118,5 +118,11 @@
         "major": "ENGL",
         "room_num": "80664",
         "room_desc": "Written Communication"
+    },
+    {
+        "school": "SPS01",
+        "major": "ENGL",
+        "room_num": "87548",
+        "room_desc": "ENGL"
     }
 ]

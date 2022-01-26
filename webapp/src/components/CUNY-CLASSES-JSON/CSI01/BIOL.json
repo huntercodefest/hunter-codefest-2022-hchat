@@ -868,5 +868,11 @@
         "major": "BIOL",
         "room_num": "83478",
         "room_desc": "Vertebrate Zoology"
+    },
+    {
+        "school": "CSI01",
+        "major": "BIOL",
+        "room_num": "88082",
+        "room_desc": "BIOL"
     }
 ]

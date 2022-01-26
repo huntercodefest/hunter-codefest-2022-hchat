@@ -1714,5 +1714,11 @@
         "major": "EDCH",
         "room_num": "35333",
         "room_desc": "Wrkng Prnts Stdnts Dsblty"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDCH",
+        "room_num": "88003",
+        "room_desc": "EDCH"
     }
 ]

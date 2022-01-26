@@ -52,5 +52,11 @@
         "major": "PORT",
         "room_num": "21282",
         "room_desc": "Intermediate Portuguese I"
+    },
+    {
+        "school": "JJC01",
+        "major": "PORT",
+        "room_num": "87116",
+        "room_desc": "PORT"
     }
 ]

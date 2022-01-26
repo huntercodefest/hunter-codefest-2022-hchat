@@ -1162,5 +1162,11 @@
         "major": "EGME",
         "room_num": "37963",
         "room_desc": "Wind Energy Fund And Applictns"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGME",
+        "room_num": "87977",
+        "room_desc": "EGME"
     }
 ]

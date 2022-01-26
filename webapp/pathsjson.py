@@ -1,7 +1,7 @@
 import json
 import os
 
-rel = "CUNY-CLASSES-JSON"
+rel = "src/components/CUNY-CLASSES-JSON"
 root_dir = os.listdir(rel)
 
 def createJson(name, path):

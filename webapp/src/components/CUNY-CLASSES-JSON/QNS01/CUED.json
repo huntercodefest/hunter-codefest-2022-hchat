@@ -256,5 +256,11 @@
         "major": "CUED",
         "room_num": "25015",
         "room_desc": "Theories of Human Development"
+    },
+    {
+        "school": "QNS01",
+        "major": "CUED",
+        "room_num": "87462",
+        "room_desc": "CUED"
     }
 ]

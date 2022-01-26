@@ -566,5 +566,9 @@
     {
         "major": "ART",
         "path": "ART.json"
+    },
+    {
+        "major": "HTR01",
+        "path": "HTR01.json"
     }
 ]

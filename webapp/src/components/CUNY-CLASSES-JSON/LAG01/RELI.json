@@ -202,5 +202,11 @@
         "major": "RELI",
         "room_num": "82715",
         "room_desc": "Vatea           Grnt"
+    },
+    {
+        "school": "LAG01",
+        "major": "RELI",
+        "room_num": "86690",
+        "room_desc": "RELI"
     }
 ]

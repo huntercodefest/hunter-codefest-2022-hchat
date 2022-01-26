@@ -574,5 +574,11 @@
         "major": "GETE",
         "room_num": "52255",
         "room_desc": "Urban Applications of GIS"
+    },
+    {
+        "school": "HTR01",
+        "major": "GETE",
+        "room_num": "87631",
+        "room_desc": "GETE"
     }
 ]

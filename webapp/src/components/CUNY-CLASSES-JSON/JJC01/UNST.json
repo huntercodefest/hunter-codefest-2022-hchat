@@ -112,5 +112,11 @@
         "major": "UNST",
         "room_num": "22168",
         "room_desc": "Undergraduate Research II"
+    },
+    {
+        "school": "JJC01",
+        "major": "UNST",
+        "room_num": "87091",
+        "room_desc": "UNST"
     }
 ]

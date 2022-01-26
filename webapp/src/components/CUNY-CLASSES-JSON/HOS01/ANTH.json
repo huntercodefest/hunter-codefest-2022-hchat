@@ -4,5 +4,11 @@
         "major": "ANTH",
         "room_num": "64329",
         "room_desc": "Introduction to Anthropology"
+    },
+    {
+        "school": "HOS01",
+        "major": "ANTH",
+        "room_num": "87836",
+        "room_desc": "ANTH"
     }
 ]

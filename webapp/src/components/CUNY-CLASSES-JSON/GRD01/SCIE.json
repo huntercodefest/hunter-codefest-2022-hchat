@@ -16,5 +16,11 @@
         "major": "SCIE",
         "room_num": "9860",
         "room_desc": "Teach Strat For Molec Biophysc"
+    },
+    {
+        "school": "GRD01",
+        "major": "SCIE",
+        "room_num": "88388",
+        "room_desc": "SCIE"
     }
 ]

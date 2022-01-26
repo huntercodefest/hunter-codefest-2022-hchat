@@ -118,5 +118,11 @@
         "major": "PSYC",
         "room_num": "19013",
         "room_desc": "Social Psychology (Honors)"
+    },
+    {
+        "school": "BMC01",
+        "major": "PSYC",
+        "room_num": "86785",
+        "room_desc": "PSYC"
     }
 ]

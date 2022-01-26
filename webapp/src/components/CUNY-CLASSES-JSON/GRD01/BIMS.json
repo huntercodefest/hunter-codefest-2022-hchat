@@ -880,5 +880,11 @@
         "major": "BIMS",
         "room_num": "1172",
         "room_desc": "Tutorial:Virology"
+    },
+    {
+        "school": "GRD01",
+        "major": "BIMS",
+        "room_num": "88351",
+        "room_desc": "BIMS"
     }
 ]

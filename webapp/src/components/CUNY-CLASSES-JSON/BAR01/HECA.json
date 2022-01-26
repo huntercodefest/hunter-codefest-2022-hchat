@@ -100,5 +100,11 @@
         "major": "HECA",
         "room_num": "60510",
         "room_desc": "Strategic Planning"
+    },
+    {
+        "school": "BAR01",
+        "major": "HECA",
+        "room_num": "86685",
+        "room_desc": "HECA"
     }
 ]

@@ -22,5 +22,11 @@
         "major": "HESC",
         "room_num": "63504",
         "room_desc": "Human Sexuality"
+    },
+    {
+        "school": "KCC01",
+        "major": "HESC",
+        "room_num": "88524",
+        "room_desc": "HESC"
     }
 ]

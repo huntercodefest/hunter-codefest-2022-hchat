@@ -184,5 +184,11 @@
         "major": "NUFS",
         "room_num": "54784",
         "room_desc": "The Human Organism"
+    },
+    {
+        "school": "HTR01",
+        "major": "NUFS",
+        "room_num": "87634",
+        "room_desc": "NUFS"
     }
 ]

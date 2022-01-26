@@ -376,5 +376,11 @@
         "major": "BIOL",
         "room_num": "59229",
         "room_desc": "Vertebrate Histology"
+    },
+    {
+        "school": "BAR01",
+        "major": "BIOL",
+        "room_num": "86643",
+        "room_desc": "BIOL"
     }
 ]

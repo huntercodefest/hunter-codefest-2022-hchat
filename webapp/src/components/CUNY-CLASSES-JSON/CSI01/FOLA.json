@@ -28,5 +28,11 @@
         "major": "FOLA",
         "room_num": "84845",
         "room_desc": "Foreign Language Exempt 114"
+    },
+    {
+        "school": "CSI01",
+        "major": "FOLA",
+        "room_num": "88058",
+        "room_desc": "FOLA"
     }
 ]

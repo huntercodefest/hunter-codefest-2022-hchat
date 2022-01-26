@@ -340,5 +340,11 @@
         "major": "PUAF",
         "room_num": "43936",
         "room_desc": "Women And Politics"
+    },
+    {
+        "school": "CTY01",
+        "major": "PUAF",
+        "room_num": "88012",
+        "room_desc": "PUAF"
     }
 ]

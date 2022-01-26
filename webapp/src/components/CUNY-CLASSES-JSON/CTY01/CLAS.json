@@ -172,5 +172,11 @@
         "major": "CLAS",
         "room_num": "33775",
         "room_desc": "Women in Antiquity"
+    },
+    {
+        "school": "CTY01",
+        "major": "CLAS",
+        "room_num": "88015",
+        "room_desc": "CLAS"
     }
 ]

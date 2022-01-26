@@ -10,5 +10,9 @@
     {
         "major": "EDME",
         "path": "EDME.json"
+    },
+    {
+        "major": "MED01",
+        "path": "MED01.json"
     }
 ]

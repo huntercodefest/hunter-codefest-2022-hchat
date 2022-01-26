@@ -138,5 +138,9 @@
     {
         "major": "ART",
         "path": "ART.json"
+    },
+    {
+        "major": "NCC01",
+        "path": "NCC01.json"
     }
 ]

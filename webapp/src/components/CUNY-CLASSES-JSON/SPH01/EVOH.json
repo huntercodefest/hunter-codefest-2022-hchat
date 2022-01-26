@@ -202,5 +202,11 @@
         "major": "EVOH",
         "room_num": "152",
         "room_desc": "Workshop GISc Res Pub Health"
+    },
+    {
+        "school": "SPH01",
+        "major": "EVOH",
+        "room_num": "88325",
+        "room_desc": "EVOH"
     }
 ]

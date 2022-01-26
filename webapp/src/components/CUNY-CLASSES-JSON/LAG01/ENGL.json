@@ -514,5 +514,11 @@
         "major": "ENGL",
         "room_num": "81878",
         "room_desc": "Writing Thru Lit"
+    },
+    {
+        "school": "LAG01",
+        "major": "ENGL",
+        "room_num": "86693",
+        "room_desc": "ENGL"
     }
 ]

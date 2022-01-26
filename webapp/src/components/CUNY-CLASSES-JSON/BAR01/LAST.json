@@ -268,5 +268,11 @@
         "major": "LAST",
         "room_num": "60846",
         "room_desc": "Urban Economic Structure"
+    },
+    {
+        "school": "BAR01",
+        "major": "LAST",
+        "room_num": "86686",
+        "room_desc": "LAST"
     }
 ]

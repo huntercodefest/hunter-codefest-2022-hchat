@@ -10,5 +10,11 @@
         "major": "HUSE",
         "room_num": "74307",
         "room_desc": "Religion Survey"
+    },
+    {
+        "school": "BKL01",
+        "major": "HUSE",
+        "room_num": "86972",
+        "room_desc": "HUSE"
     }
 ]

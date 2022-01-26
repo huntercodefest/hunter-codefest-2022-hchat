@@ -226,5 +226,11 @@
         "major": "COMP",
         "room_num": "19860",
         "room_desc": "Topics in Computer Science"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMP",
+        "room_num": "87127",
+        "room_desc": "COMP"
     }
 ]

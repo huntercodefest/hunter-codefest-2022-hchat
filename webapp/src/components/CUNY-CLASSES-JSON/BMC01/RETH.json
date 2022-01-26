@@ -70,5 +70,11 @@
         "major": "RETH",
         "room_num": "19068",
         "room_desc": "Rtt Summer Cln Prac"
+    },
+    {
+        "school": "BMC01",
+        "major": "RETH",
+        "room_num": "86858",
+        "room_desc": "RETH"
     }
 ]

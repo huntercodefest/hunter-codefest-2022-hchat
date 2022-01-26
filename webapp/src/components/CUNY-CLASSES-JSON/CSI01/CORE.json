@@ -4,5 +4,11 @@
         "major": "CORE",
         "room_num": "83920",
         "room_desc": "US Issues Ideas Inst"
+    },
+    {
+        "school": "CSI01",
+        "major": "CORE",
+        "room_num": "88127",
+        "room_desc": "CORE"
     }
 ]

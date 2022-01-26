@@ -88,5 +88,11 @@
         "major": "CMIS",
         "room_num": "64469",
         "room_desc": "Systems Anaylsis & Design"
+    },
+    {
+        "school": "HOS01",
+        "major": "CMIS",
+        "room_num": "87831",
+        "room_desc": "CMIS"
     }
 ]

@@ -46,5 +46,11 @@
         "major": "STDV",
         "room_num": "64085",
         "room_desc": "Student Development ASAP"
+    },
+    {
+        "school": "KCC01",
+        "major": "STDV",
+        "room_num": "88488",
+        "room_desc": "STDV"
     }
 ]

@@ -286,5 +286,11 @@
         "major": "GERM",
         "room_num": "12817",
         "room_desc": "Tutorial in German"
+    },
+    {
+        "school": "LEH01",
+        "major": "GERM",
+        "room_num": "88180",
+        "room_desc": "GERM"
     }
 ]

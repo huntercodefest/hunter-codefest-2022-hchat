@@ -76,5 +76,11 @@
         "major": "MDCN",
         "room_num": "69326",
         "room_desc": "Senior NMT Seminar"
+    },
+    {
+        "school": "BCC01",
+        "major": "MDCN",
+        "room_num": "87284",
+        "room_desc": "MDCN"
     }
 ]

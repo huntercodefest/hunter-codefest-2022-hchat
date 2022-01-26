@@ -190,5 +190,11 @@
         "major": "UBST",
         "room_num": "15155",
         "room_desc": "Writing 1: Language15156: UBST,\"Writing 2: The Nature of the C"
+    },
+    {
+        "school": "SLU01",
+        "major": "UBST",
+        "room_num": "87616",
+        "room_desc": "UBST"
     }
 ]

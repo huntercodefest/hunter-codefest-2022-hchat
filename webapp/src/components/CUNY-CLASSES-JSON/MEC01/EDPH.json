@@ -160,5 +160,11 @@
         "major": "EDPH",
         "room_num": "78432",
         "room_desc": "Tennis For Beg"
+    },
+    {
+        "school": "MEC01",
+        "major": "EDPH",
+        "room_num": "88293",
+        "room_desc": "EDPH"
     }
 ]

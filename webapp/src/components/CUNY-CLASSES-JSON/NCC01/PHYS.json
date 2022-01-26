@@ -4,5 +4,11 @@
         "major": "PHYS",
         "room_num": "64294",
         "room_desc": "Physics of Renewable Energy"
+    },
+    {
+        "school": "NCC01",
+        "major": "PHYS",
+        "room_num": "86900",
+        "room_desc": "PHYS"
     }
 ]

@@ -10,5 +10,11 @@
         "major": "FROR",
         "room_num": "16063",
         "room_desc": "Transfer Student Seminar"
+    },
+    {
+        "school": "YRK01",
+        "major": "FROR",
+        "room_num": "87368",
+        "room_desc": "FROR"
     }
 ]

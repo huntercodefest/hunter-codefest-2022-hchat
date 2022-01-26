@@ -70,5 +70,11 @@
         "major": "MEDI",
         "room_num": "6951",
         "room_desc": "Tools & Techniques"
+    },
+    {
+        "school": "GRD01",
+        "major": "MEDI",
+        "room_num": "88373",
+        "room_desc": "MEDI"
     }
 ]

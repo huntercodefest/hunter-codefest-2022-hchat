@@ -142,5 +142,11 @@
         "major": "RUSS",
         "room_num": "21848",
         "room_desc": "Utopian Lit"
+    },
+    {
+        "school": "JJC01",
+        "major": "RUSS",
+        "room_num": "87107",
+        "room_desc": "RUSS"
     }
 ]

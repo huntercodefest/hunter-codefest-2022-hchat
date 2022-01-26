@@ -58,5 +58,11 @@
         "major": "METC",
         "room_num": "69354",
         "room_desc": "Media and Digital Internship"
+    },
+    {
+        "school": "BCC01",
+        "major": "METC",
+        "room_num": "87281",
+        "room_desc": "METC"
     }
 ]

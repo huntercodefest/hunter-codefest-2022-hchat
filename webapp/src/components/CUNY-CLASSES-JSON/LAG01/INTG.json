@@ -10,5 +10,11 @@
         "major": "INTG",
         "room_num": "82052",
         "room_desc": "Intent to Graduate"
+    },
+    {
+        "school": "LAG01",
+        "major": "INTG",
+        "room_num": "86751",
+        "room_desc": "INTG"
     }
 ]

@@ -232,5 +232,11 @@
         "major": "HEIM",
         "room_num": "80709",
         "room_desc": "U.S. Healthcare Delivery"
+    },
+    {
+        "school": "SPS01",
+        "major": "HEIM",
+        "room_num": "87567",
+        "room_desc": "HEIM"
     }
 ]

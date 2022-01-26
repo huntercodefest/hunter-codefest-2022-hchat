@@ -106,5 +106,11 @@
         "major": "VETE",
         "room_num": "82954",
         "room_desc": "Veterinary Radiography"
+    },
+    {
+        "school": "LAG01",
+        "major": "VETE",
+        "room_num": "86765",
+        "room_desc": "VETE"
     }
 ]

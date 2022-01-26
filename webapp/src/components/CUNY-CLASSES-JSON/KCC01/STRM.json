@@ -10,5 +10,11 @@
         "major": "STRM",
         "room_num": "64087",
         "room_desc": "Math Start"
+    },
+    {
+        "school": "KCC01",
+        "major": "STRM",
+        "room_num": "88525",
+        "room_desc": "STRM"
     }
 ]

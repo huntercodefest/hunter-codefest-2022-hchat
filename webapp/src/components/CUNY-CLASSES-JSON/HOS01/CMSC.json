@@ -40,5 +40,11 @@
         "major": "CMSC",
         "room_num": "64476",
         "room_desc": "Web & Mobile App Development"
+    },
+    {
+        "school": "HOS01",
+        "major": "CMSC",
+        "room_num": "87832",
+        "room_desc": "CMSC"
     }
 ]

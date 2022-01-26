@@ -136,5 +136,11 @@
         "major": "SPAN",
         "room_num": "69518",
         "room_desc": "Writing Skills"
+    },
+    {
+        "school": "BCC01",
+        "major": "SPAN",
+        "room_num": "87312",
+        "room_desc": "SPAN"
     }
 ]

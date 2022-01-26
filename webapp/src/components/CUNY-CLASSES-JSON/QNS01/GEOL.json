@@ -904,5 +904,11 @@
         "major": "GEOL",
         "room_num": "27410",
         "room_desc": "Weather27411: GEOL,\"X-ray Diffraction Analysis"
+    },
+    {
+        "school": "QNS01",
+        "major": "GEOL",
+        "room_num": "87463",
+        "room_desc": "GEOL"
     }
 ]

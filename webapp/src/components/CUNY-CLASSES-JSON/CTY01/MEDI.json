@@ -1546,5 +1546,11 @@
         "major": "MEDI",
         "room_num": "42156",
         "room_desc": "Y&R 24 HR Hackathon"
+    },
+    {
+        "school": "CTY01",
+        "major": "MEDI",
+        "room_num": "87941",
+        "room_desc": "MEDI"
     }
 ]

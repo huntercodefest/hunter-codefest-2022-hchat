@@ -34,5 +34,11 @@
         "major": "DISB",
         "room_num": "11685",
         "room_desc": "Special Tops in Disability Stu"
+    },
+    {
+        "school": "LEH01",
+        "major": "DISB",
+        "room_num": "88213",
+        "room_desc": "DISB"
     }
 ]

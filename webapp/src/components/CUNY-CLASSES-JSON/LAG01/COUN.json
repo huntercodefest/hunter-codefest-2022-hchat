@@ -160,5 +160,11 @@
         "major": "COUN",
         "room_num": "81636",
         "room_desc": "New Student Seminar/STEM"
+    },
+    {
+        "school": "LAG01",
+        "major": "COUN",
+        "room_num": "86730",
+        "room_desc": "COUN"
     }
 ]

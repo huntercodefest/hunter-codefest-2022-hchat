@@ -1522,5 +1522,11 @@
         "major": "PSYC",
         "room_num": "76430",
         "room_desc": "Wkplce Comm In Organizatns"
+    },
+    {
+        "school": "BKL01",
+        "major": "PSYC",
+        "room_num": "86929",
+        "room_desc": "PSYC"
     }
 ]

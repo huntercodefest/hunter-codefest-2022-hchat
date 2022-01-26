@@ -10,5 +10,11 @@
         "major": "ARPE",
         "room_num": "62782",
         "room_desc": "Indep Study: Performing Arts"
+    },
+    {
+        "school": "KCC01",
+        "major": "ARPE",
+        "room_num": "88526",
+        "room_desc": "ARPE"
     }
 ]

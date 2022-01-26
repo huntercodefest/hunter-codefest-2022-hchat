@@ -28,5 +28,11 @@
         "major": "CMST",
         "room_num": "78291",
         "room_desc": "Pl/I Programming Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMST",
+        "room_num": "88280",
+        "room_desc": "CMST"
     }
 ]

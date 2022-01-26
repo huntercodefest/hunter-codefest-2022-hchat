@@ -94,5 +94,11 @@
         "major": "LIST",
         "room_num": "85436",
         "room_desc": "West/Nonwest Worlds"
+    },
+    {
+        "school": "CSI01",
+        "major": "LIST",
+        "room_num": "88081",
+        "room_desc": "LIST"
     }
 ]

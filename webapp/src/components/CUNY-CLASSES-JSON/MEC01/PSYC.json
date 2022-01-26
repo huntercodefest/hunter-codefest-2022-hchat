@@ -334,5 +334,11 @@
         "major": "PSYC",
         "room_num": "79862",
         "room_desc": "Theory Of Personalit"
+    },
+    {
+        "school": "MEC01",
+        "major": "PSYC",
+        "room_num": "88241",
+        "room_desc": "PSYC"
     }
 ]

@@ -16,5 +16,11 @@
         "major": "GEOG",
         "room_num": "69164",
         "room_desc": "World Regional Geography"
+    },
+    {
+        "school": "BCC01",
+        "major": "GEOG",
+        "room_num": "87250",
+        "room_desc": "GEOG"
     }
 ]

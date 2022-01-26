@@ -64,5 +64,11 @@
         "major": "SOCI",
         "room_num": "82749",
         "room_desc": "Women in Society"
+    },
+    {
+        "school": "LAG01",
+        "major": "SOCI",
+        "room_num": "86698",
+        "room_desc": "SOCI"
     }
 ]

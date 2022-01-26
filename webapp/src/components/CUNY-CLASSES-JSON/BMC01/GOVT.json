@@ -88,5 +88,11 @@
         "major": "GOVT",
         "room_num": "18172",
         "room_desc": "Seminar Labor Relations"
+    },
+    {
+        "school": "BMC01",
+        "major": "GOVT",
+        "room_num": "86816",
+        "room_desc": "GOVT"
     }
 ]

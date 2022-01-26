@@ -4,5 +4,11 @@
         "major": "MESG",
         "room_num": "23082",
         "room_desc": "Non-Transferable"
+    },
+    {
+        "school": "QCC01",
+        "major": "MESG",
+        "room_num": "87867",
+        "room_desc": "MESG"
     }
 ]

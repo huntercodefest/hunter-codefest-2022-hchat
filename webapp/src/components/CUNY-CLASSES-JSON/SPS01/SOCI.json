@@ -238,5 +238,11 @@
         "major": "SOCI",
         "room_num": "81024",
         "room_desc": "Urban Sociology"
+    },
+    {
+        "school": "SPS01",
+        "major": "SOCI",
+        "room_num": "87552",
+        "room_desc": "SOCI"
     }
 ]

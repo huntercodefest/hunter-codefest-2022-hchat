@@ -52,5 +52,11 @@
         "major": "LAW",
         "room_num": "6478",
         "room_desc": "Thematic Studies-Law"
+    },
+    {
+        "school": "GRD01",
+        "major": "LAW",
+        "room_num": "88427",
+        "room_desc": "LAW"
     }
 ]

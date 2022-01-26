@@ -16,5 +16,11 @@
         "major": "LIBT",
         "room_num": "67511",
         "room_desc": "Information Access"
+    },
+    {
+        "school": "NYT01",
+        "major": "LIBT",
+        "room_num": "87171",
+        "room_desc": "LIBT"
     }
 ]

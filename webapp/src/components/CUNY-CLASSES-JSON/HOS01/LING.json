@@ -28,5 +28,11 @@
         "major": "LING",
         "room_num": "64850",
         "room_desc": "Language and Power"
+    },
+    {
+        "school": "HOS01",
+        "major": "LING",
+        "room_num": "87838",
+        "room_desc": "LING"
     }
 ]

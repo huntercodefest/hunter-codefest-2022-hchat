@@ -430,5 +430,11 @@
         "major": "MATH",
         "room_num": "18472",
         "room_desc": "Statistics"
+    },
+    {
+        "school": "BMC01",
+        "major": "MATH",
+        "room_num": "86868",
+        "room_desc": "MATH"
     }
 ]

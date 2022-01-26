@@ -184,5 +184,11 @@
         "major": "PRMA",
         "room_num": "21502",
         "room_desc": "Theory & Design Security Syst"
+    },
+    {
+        "school": "JJC01",
+        "major": "PRMA",
+        "room_num": "87043",
+        "room_desc": "PRMA"
     }
 ]

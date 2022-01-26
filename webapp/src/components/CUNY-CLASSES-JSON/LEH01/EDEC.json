@@ -922,5 +922,11 @@
         "major": "EDEC",
         "room_num": "11948",
         "room_desc": "Young Child & Music11949: EDFC,\"Child Development"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDEC",
+        "room_num": "88169",
+        "room_desc": "EDEC"
     }
 ]

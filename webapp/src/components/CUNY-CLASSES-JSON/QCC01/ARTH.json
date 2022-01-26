@@ -88,5 +88,11 @@
         "major": "ARTH",
         "room_num": "22209",
         "room_desc": "Modern Art"
+    },
+    {
+        "school": "QCC01",
+        "major": "ARTH",
+        "room_num": "87864",
+        "room_desc": "ARTH"
     }
 ]

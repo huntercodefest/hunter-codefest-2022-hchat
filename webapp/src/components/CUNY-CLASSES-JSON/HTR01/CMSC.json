@@ -1048,5 +1048,11 @@
         "major": "CMSC",
         "room_num": "48019",
         "room_desc": "VR48020: CMSC,\"iOS Development"
+    },
+    {
+        "school": "HTR01",
+        "major": "CMSC",
+        "room_num": "87748",
+        "room_desc": "CMSC"
     }
 ]

@@ -310,5 +310,11 @@
         "major": "NURS",
         "room_num": "63780",
         "room_desc": "Vir Cert Home Enterp"
+    },
+    {
+        "school": "KCC01",
+        "major": "NURS",
+        "room_num": "88480",
+        "room_desc": "NURS"
     }
 ]

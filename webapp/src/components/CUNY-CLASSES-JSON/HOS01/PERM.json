@@ -10,5 +10,11 @@
         "major": "PERM",
         "room_num": "64942",
         "room_desc": "Permit Out Variable"
+    },
+    {
+        "school": "HOS01",
+        "major": "PERM",
+        "room_num": "87778",
+        "room_desc": "PERM"
     }
 ]

@@ -46,5 +46,11 @@
         "major": "EDCO",
         "room_num": "25493",
         "room_desc": "Wrld Of Wrk-Intrnshp"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDCO",
+        "room_num": "87440",
+        "room_desc": "EDCO"
     }
 ]

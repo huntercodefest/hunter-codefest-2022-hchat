@@ -118,5 +118,11 @@
         "major": "EVSC",
         "room_num": "78746",
         "room_desc": "Waste Management"
+    },
+    {
+        "school": "MEC01",
+        "major": "EVSC",
+        "room_num": "88314",
+        "room_desc": "EVSC"
     }
 ]

@@ -358,5 +358,11 @@
         "major": "ACCT",
         "room_num": "69595",
         "room_desc": "Thesis Research"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "86986",
+        "room_desc": "ACCT"
     }
 ]

@@ -280,5 +280,11 @@
         "major": "EGME",
         "room_num": "4688",
         "room_desc": "Turbulent Flows"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGME",
+        "room_num": "88418",
+        "room_desc": "EGME"
     }
 ]

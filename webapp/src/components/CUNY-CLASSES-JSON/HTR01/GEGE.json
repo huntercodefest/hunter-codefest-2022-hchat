@@ -436,5 +436,11 @@
         "major": "GEGE",
         "room_num": "51730",
         "room_desc": "Weather and Climate"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEGE",
+        "room_num": "87759",
+        "room_desc": "GEGE"
     }
 ]

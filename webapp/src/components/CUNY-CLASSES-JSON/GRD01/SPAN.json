@@ -856,5 +856,11 @@
         "major": "SPAN",
         "room_num": "10321",
         "room_desc": "Translatn For Stage"
+    },
+    {
+        "school": "GRD01",
+        "major": "SPAN",
+        "room_num": "88421",
+        "room_desc": "SPAN"
     }
 ]

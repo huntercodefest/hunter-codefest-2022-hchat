@@ -388,5 +388,11 @@
         "major": "ART",
         "room_num": "81344",
         "room_desc": "Three Dimensional Design"
+    },
+    {
+        "school": "LAG01",
+        "major": "ART",
+        "room_num": "86782",
+        "room_desc": "ART"
     }
 ]

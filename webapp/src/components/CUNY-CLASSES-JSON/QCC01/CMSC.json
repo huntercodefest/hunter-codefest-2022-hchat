@@ -70,5 +70,11 @@
         "major": "CMSC",
         "room_num": "22471",
         "room_desc": "Spreadsheet Program w MS Excel"
+    },
+    {
+        "school": "QCC01",
+        "major": "CMSC",
+        "room_num": "87898",
+        "room_desc": "CMSC"
     }
 ]

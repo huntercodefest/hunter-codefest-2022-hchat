@@ -214,5 +214,11 @@
         "major": "ACCT",
         "room_num": "65112",
         "room_desc": "Tax Strt&Bus Dec"
+    },
+    {
+        "school": "NYT01",
+        "major": "ACCT",
+        "room_num": "87203",
+        "room_desc": "ACCT"
     }
 ]

@@ -58,5 +58,11 @@
         "major": "EGSC",
         "room_num": "17960",
         "room_desc": "Thermodynamics I"
+    },
+    {
+        "school": "BMC01",
+        "major": "EGSC",
+        "room_num": "86831",
+        "room_desc": "EGSC"
     }
 ]

@@ -28,5 +28,11 @@
         "major": "LISC",
         "room_num": "82118",
         "room_desc": "Lib Research Ind Stu"
+    },
+    {
+        "school": "LAG01",
+        "major": "LISC",
+        "room_num": "86767",
+        "room_desc": "LISC"
     }
 ]

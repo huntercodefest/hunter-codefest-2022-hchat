@@ -100,5 +100,11 @@
         "major": "PHOT",
         "room_num": "29683",
         "room_desc": "VT: Documentary and Narrative"
+    },
+    {
+        "school": "QNS01",
+        "major": "PHOT",
+        "room_num": "87461",
+        "room_desc": "PHOT"
     }
 ]

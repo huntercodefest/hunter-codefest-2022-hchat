@@ -16,5 +16,11 @@
         "major": "SCAS",
         "room_num": "57042",
         "room_desc": "Seminar Civic Undrst"
+    },
+    {
+        "school": "HTR01",
+        "major": "SCAS",
+        "room_num": "87677",
+        "room_desc": "SCAS"
     }
 ]

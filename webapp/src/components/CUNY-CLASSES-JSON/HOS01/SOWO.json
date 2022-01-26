@@ -10,5 +10,11 @@
         "major": "SOWO",
         "room_num": "65027",
         "room_desc": "Social Work Practice"
+    },
+    {
+        "school": "HOS01",
+        "major": "SOWO",
+        "room_num": "87794",
+        "room_desc": "SOWO"
     }
 ]

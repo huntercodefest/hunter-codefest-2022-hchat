@@ -88,5 +88,11 @@
         "major": "SOSC",
         "room_num": "57566",
         "room_desc": "Wall St for Liberal Arts Mjrs"
+    },
+    {
+        "school": "HTR01",
+        "major": "SOSC",
+        "room_num": "87754",
+        "room_desc": "SOSC"
     }
 ]

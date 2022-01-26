@@ -1930,5 +1930,11 @@
         "major": "ART",
         "room_num": "70306",
         "room_desc": "Writing and Practice"
+    },
+    {
+        "school": "BKL01",
+        "major": "ART",
+        "room_num": "87027",
+        "room_desc": "ART"
     }
 ]

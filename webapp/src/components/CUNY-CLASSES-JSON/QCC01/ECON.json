@@ -28,5 +28,11 @@
         "major": "ECON",
         "room_num": "22600",
         "room_desc": "Labor and Management"
+    },
+    {
+        "school": "QCC01",
+        "major": "ECON",
+        "room_num": "87857",
+        "room_desc": "ECON"
     }
 ]

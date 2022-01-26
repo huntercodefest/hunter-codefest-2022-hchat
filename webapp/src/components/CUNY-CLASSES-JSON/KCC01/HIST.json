@@ -274,5 +274,11 @@
         "major": "HIST",
         "room_num": "63550",
         "room_desc": "Women in American History"
+    },
+    {
+        "school": "KCC01",
+        "major": "HIST",
+        "room_num": "88476",
+        "room_desc": "HIST"
     }
 ]

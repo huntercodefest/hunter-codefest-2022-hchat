@@ -454,5 +454,11 @@
         "major": "STAT",
         "room_num": "62611",
         "room_desc": "Time Ser: Forecast & Stat Mod"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAT",
+        "room_num": "86659",
+        "room_desc": "STAT"
     }
 ]

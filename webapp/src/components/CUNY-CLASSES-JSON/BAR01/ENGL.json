@@ -1252,5 +1252,11 @@
         "major": "ENGL",
         "room_num": "60236",
         "room_desc": "Written Eng Intl Bus"
+    },
+    {
+        "school": "BAR01",
+        "major": "ENGL",
+        "room_num": "86603",
+        "room_desc": "ENGL"
     }
 ]

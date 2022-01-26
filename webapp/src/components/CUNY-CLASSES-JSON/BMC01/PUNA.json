@@ -22,5 +22,11 @@
         "major": "PUNA",
         "room_num": "19030",
         "room_desc": "Res Meth NonProf & Pub Adm"
+    },
+    {
+        "school": "BMC01",
+        "major": "PUNA",
+        "room_num": "86802",
+        "room_desc": "PUNA"
     }
 ]

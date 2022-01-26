@@ -46,5 +46,11 @@
         "major": "PORT",
         "room_num": "55541",
         "room_desc": "Portuguese Grammar & Comp"
+    },
+    {
+        "school": "HTR01",
+        "major": "PORT",
+        "room_num": "87744",
+        "room_desc": "PORT"
     }
 ]

@@ -352,5 +352,11 @@
         "major": "PSYC",
         "room_num": "14402",
         "room_desc": "Theories-Devlp Psych"
+    },
+    {
+        "school": "LEH01",
+        "major": "PSYC",
+        "room_num": "88131",
+        "room_desc": "PSYC"
     }
 ]

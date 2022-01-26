@@ -1276,5 +1276,11 @@
         "major": "PUAF",
         "room_num": "62303",
         "room_desc": "Work-Life Communication"
+    },
+    {
+        "school": "BAR01",
+        "major": "PUAF",
+        "room_num": "86675",
+        "room_desc": "PUAF"
     }
 ]

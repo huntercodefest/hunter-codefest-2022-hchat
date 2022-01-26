@@ -52,5 +52,11 @@
         "major": "EGSC",
         "room_num": "38072",
         "room_desc": "Visual Analytics"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGSC",
+        "room_num": "87961",
+        "room_desc": "EGSC"
     }
 ]

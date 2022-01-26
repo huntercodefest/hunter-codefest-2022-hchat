@@ -286,5 +286,11 @@
         "major": "LAST",
         "room_num": "20895",
         "room_desc": "U.S. Latinx Identity XXI Cent"
+    },
+    {
+        "school": "JJC01",
+        "major": "LAST",
+        "room_num": "87126",
+        "room_desc": "LAST"
     }
 ]

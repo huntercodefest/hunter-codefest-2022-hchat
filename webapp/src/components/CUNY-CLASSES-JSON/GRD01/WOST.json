@@ -112,5 +112,11 @@
         "major": "WOST",
         "room_num": "10739",
         "room_desc": "Writing Ethnography"
+    },
+    {
+        "school": "GRD01",
+        "major": "WOST",
+        "room_num": "88455",
+        "room_desc": "WOST"
     }
 ]

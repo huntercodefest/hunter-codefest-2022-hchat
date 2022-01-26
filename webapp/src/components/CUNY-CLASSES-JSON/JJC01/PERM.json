@@ -154,5 +154,11 @@
         "major": "PERM",
         "room_num": "21210",
         "room_desc": "Non-Cuny Permit"
+    },
+    {
+        "school": "JJC01",
+        "major": "PERM",
+        "room_num": "87051",
+        "room_desc": "PERM"
     }
 ]

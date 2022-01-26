@@ -322,5 +322,11 @@
         "major": "CHEM",
         "room_num": "78197",
         "room_desc": "Spectrometric Id/Org"
+    },
+    {
+        "school": "MEC01",
+        "major": "CHEM",
+        "room_num": "88240",
+        "room_desc": "CHEM"
     }
 ]

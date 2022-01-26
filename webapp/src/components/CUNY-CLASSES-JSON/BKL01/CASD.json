@@ -640,5 +640,11 @@
         "major": "CASD",
         "room_num": "70722",
         "room_desc": "Workshop"
+    },
+    {
+        "school": "BKL01",
+        "major": "CASD",
+        "room_num": "86976",
+        "room_desc": "CASD"
     }
 ]

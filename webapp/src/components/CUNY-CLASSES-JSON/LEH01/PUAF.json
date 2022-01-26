@@ -256,5 +256,11 @@
         "major": "PUAF",
         "room_num": "14446",
         "room_desc": "Workshop in GISc Research for"
+    },
+    {
+        "school": "LEH01",
+        "major": "PUAF",
+        "room_num": "88223",
+        "room_desc": "PUAF"
     }
 ]

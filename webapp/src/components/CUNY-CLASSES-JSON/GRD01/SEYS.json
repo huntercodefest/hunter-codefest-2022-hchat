@@ -40,5 +40,11 @@
         "major": "SEYS",
         "room_num": "9867",
         "room_desc": "Wkshp Curric Mat Dev/Spec Area"
+    },
+    {
+        "school": "GRD01",
+        "major": "SEYS",
+        "room_num": "88367",
+        "room_desc": "SEYS"
     }
 ]

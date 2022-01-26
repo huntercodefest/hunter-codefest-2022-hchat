@@ -16,5 +16,11 @@
         "major": "WKST",
         "room_num": "62686",
         "room_desc": "Introduction to Workplace II"
+    },
+    {
+        "school": "BAR01",
+        "major": "WKST",
+        "room_num": "86607",
+        "room_desc": "WKST"
     }
 ]

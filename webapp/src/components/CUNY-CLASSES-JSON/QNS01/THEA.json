@@ -22,5 +22,11 @@
         "major": "THEA",
         "room_num": "30898",
         "room_desc": "Modern Jazz Wkshp"
+    },
+    {
+        "school": "QNS01",
+        "major": "THEA",
+        "room_num": "87501",
+        "room_desc": "THEA"
     }
 ]

@@ -868,5 +868,11 @@
         "major": "FREN",
         "room_num": "73504",
         "room_desc": "Wrtg Resch & Resorce"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "87004",
+        "room_desc": "FREN"
     }
 ]

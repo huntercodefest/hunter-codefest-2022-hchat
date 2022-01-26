@@ -436,5 +436,11 @@
         "major": "STAT",
         "room_num": "57865",
         "room_desc": "Tps: Stat Inference"
+    },
+    {
+        "school": "HTR01",
+        "major": "STAT",
+        "room_num": "87730",
+        "room_desc": "STAT"
     }
 ]

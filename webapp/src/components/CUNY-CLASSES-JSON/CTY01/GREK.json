@@ -106,5 +106,11 @@
         "major": "GREK",
         "room_num": "39702",
         "room_desc": "Tragedy"
+    },
+    {
+        "school": "CTY01",
+        "major": "GREK",
+        "room_num": "87968",
+        "room_desc": "GREK"
     }
 ]

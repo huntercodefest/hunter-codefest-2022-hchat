@@ -58,5 +58,11 @@
         "major": "MANA",
         "room_num": "80816",
         "room_desc": "Principles of Supervision"
+    },
+    {
+        "school": "SPS01",
+        "major": "MANA",
+        "room_num": "87612",
+        "room_desc": "MANA"
     }
 ]

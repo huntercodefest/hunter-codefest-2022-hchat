@@ -34,5 +34,11 @@
         "major": "CAST",
         "room_num": "70730",
         "room_desc": "Urban Caribbean Diaspora"
+    },
+    {
+        "school": "BKL01",
+        "major": "CAST",
+        "room_num": "86931",
+        "room_desc": "CAST"
     }
 ]

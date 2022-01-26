@@ -1690,5 +1690,11 @@
         "major": "ANTC",
         "room_num": "45744",
         "room_desc": "Zooarchaelogy"
+    },
+    {
+        "school": "HTR01",
+        "major": "ANTC",
+        "room_num": "87694",
+        "room_desc": "ANTC"
     }
 ]

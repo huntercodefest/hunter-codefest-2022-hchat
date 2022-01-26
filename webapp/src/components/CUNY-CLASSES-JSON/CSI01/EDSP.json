@@ -340,5 +340,11 @@
         "major": "EDSP",
         "room_num": "84290",
         "room_desc": "Trans: Car & Voc Edu Spec Edu"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDSP",
+        "room_num": "88027",
+        "room_desc": "EDSP"
     }
 ]

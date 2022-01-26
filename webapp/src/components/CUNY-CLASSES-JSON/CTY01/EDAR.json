@@ -214,5 +214,11 @@
         "major": "EDAR",
         "room_num": "34943",
         "room_desc": "Water Color34944: EDAR,\"Zines for Educators"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDAR",
+        "room_num": "88019",
+        "room_desc": "EDAR"
     }
 ]

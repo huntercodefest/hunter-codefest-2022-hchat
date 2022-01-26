@@ -514,5 +514,11 @@
         "major": "SOCI",
         "room_num": "14627",
         "room_desc": "Youth in Modern Society"
+    },
+    {
+        "school": "LEH01",
+        "major": "SOCI",
+        "room_num": "88140",
+        "room_desc": "SOCI"
     }
 ]

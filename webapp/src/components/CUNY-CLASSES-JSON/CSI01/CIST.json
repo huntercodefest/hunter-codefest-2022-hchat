@@ -298,5 +298,11 @@
         "major": "CIST",
         "room_num": "83694",
         "room_desc": "Women and Film"
+    },
+    {
+        "school": "CSI01",
+        "major": "CIST",
+        "room_num": "88061",
+        "room_desc": "CIST"
     }
 ]

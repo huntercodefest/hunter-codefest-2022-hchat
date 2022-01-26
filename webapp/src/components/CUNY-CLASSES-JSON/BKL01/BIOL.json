@@ -760,5 +760,11 @@
         "major": "BIOL",
         "room_num": "70437",
         "room_desc": "Zoology: Organismic Biology II"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "86985",
+        "room_desc": "BIOL"
     }
 ]

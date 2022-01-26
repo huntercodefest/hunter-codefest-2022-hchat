@@ -268,5 +268,11 @@
         "major": "BUSI",
         "room_num": "65657",
         "room_desc": "The Business of Healthcare"
+    },
+    {
+        "school": "NYT01",
+        "major": "BUSI",
+        "room_num": "87198",
+        "room_desc": "BUSI"
     }
 ]

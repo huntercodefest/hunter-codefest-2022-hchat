@@ -22,5 +22,11 @@
         "major": "CHIN",
         "room_num": "78201",
         "room_desc": "Chinese (Mandarin) Beginner II"
+    },
+    {
+        "school": "MEC01",
+        "major": "CHIN",
+        "room_num": "88279",
+        "room_desc": "CHIN"
     }
 ]

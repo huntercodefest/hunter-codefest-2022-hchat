@@ -178,5 +178,11 @@
         "major": "EPID",
         "room_num": "118",
         "room_desc": "Topics in Epidemiology"
+    },
+    {
+        "school": "SPH01",
+        "major": "EPID",
+        "room_num": "88323",
+        "room_desc": "EPID"
     }
 ]

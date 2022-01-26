@@ -16,5 +16,11 @@
         "major": "EDAR",
         "room_num": "49256",
         "room_desc": "Std Tch Vsl Arts PreK-12 (KC)"
+    },
+    {
+        "school": "HTR01",
+        "major": "EDAR",
+        "room_num": "87756",
+        "room_desc": "EDAR"
     }
 ]

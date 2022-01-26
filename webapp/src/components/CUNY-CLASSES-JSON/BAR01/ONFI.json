@@ -4,5 +4,11 @@
         "major": "ONFI",
         "room_num": "61596",
         "room_desc": "On File For Grad"
+    },
+    {
+        "school": "BAR01",
+        "major": "ONFI",
+        "room_num": "86650",
+        "room_desc": "ONFI"
     }
 ]

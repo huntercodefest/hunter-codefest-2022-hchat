@@ -34,5 +34,11 @@
         "major": "MATP",
         "room_num": "69305",
         "room_desc": "Math 06 Placement Ex"
+    },
+    {
+        "school": "BCC01",
+        "major": "MATP",
+        "room_num": "87310",
+        "room_desc": "MATP"
     }
 ]

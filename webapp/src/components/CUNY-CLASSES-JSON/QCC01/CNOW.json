@@ -148,5 +148,11 @@
         "major": "CNOW",
         "room_num": "22496",
         "room_desc": "Wellness Management"
+    },
+    {
+        "school": "QCC01",
+        "major": "CNOW",
+        "room_num": "87862",
+        "room_desc": "CNOW"
     }
 ]

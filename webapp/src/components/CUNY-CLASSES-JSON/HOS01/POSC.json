@@ -40,5 +40,11 @@
         "major": "POSC",
         "room_num": "64960",
         "room_desc": "Police Organization"
+    },
+    {
+        "school": "HOS01",
+        "major": "POSC",
+        "room_num": "87815",
+        "room_desc": "POSC"
     }
 ]

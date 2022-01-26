@@ -10,5 +10,11 @@
         "major": "EGET",
         "room_num": "66508",
         "room_desc": "Basic Technical Skills"
+    },
+    {
+        "school": "NYT01",
+        "major": "EGET",
+        "room_num": "87225",
+        "room_desc": "EGET"
     }
 ]

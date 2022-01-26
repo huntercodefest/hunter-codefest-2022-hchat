@@ -598,5 +598,11 @@
         "major": "CMLT",
         "room_num": "33886",
         "room_desc": "Wrd Proc Applctns"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "87937",
+        "room_desc": "CMLT"
     }
 ]

@@ -922,5 +922,11 @@
         "major": "ANTH",
         "room_num": "69926",
         "room_desc": "Zooarchaeology"
+    },
+    {
+        "school": "BKL01",
+        "major": "ANTH",
+        "room_num": "87018",
+        "room_desc": "ANTH"
     }
 ]

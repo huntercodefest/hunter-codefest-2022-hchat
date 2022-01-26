@@ -34,5 +34,11 @@
         "major": "NURS",
         "room_num": "18806",
         "room_desc": "Pro Issue Contmp Nursing Pract"
+    },
+    {
+        "school": "BMC01",
+        "major": "NURS",
+        "room_num": "86795",
+        "room_desc": "NURS"
     }
 ]

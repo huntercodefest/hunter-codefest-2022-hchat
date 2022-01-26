@@ -16,5 +16,11 @@
         "major": "COMM",
         "room_num": "64219",
         "room_desc": "Speech Communication"
+    },
+    {
+        "school": "NCC01",
+        "major": "COMM",
+        "room_num": "86903",
+        "room_desc": "COMM"
     }
 ]

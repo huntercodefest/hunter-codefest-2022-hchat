@@ -118,5 +118,11 @@
         "major": "SOWO",
         "room_num": "57586",
         "room_desc": "Social Work Research"
+    },
+    {
+        "school": "HTR01",
+        "major": "SOWO",
+        "room_num": "87674",
+        "room_desc": "SOWO"
     }
 ]

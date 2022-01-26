@@ -64,5 +64,11 @@
         "major": "EMSA",
         "room_num": "20331",
         "room_desc": "Topics Emergency Serv Admin"
+    },
+    {
+        "school": "JJC01",
+        "major": "EMSA",
+        "room_num": "87085",
+        "room_desc": "EMSA"
     }
 ]

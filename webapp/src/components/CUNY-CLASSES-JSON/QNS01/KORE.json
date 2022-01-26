@@ -70,5 +70,11 @@
         "major": "KORE",
         "room_num": "28437",
         "room_desc": "Readings in Korean"
+    },
+    {
+        "school": "QNS01",
+        "major": "KORE",
+        "room_num": "87496",
+        "room_desc": "KORE"
     }
 ]

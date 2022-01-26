@@ -400,5 +400,11 @@
         "major": "EDEC",
         "room_num": "49366",
         "room_desc": "YL: Field Exp in ECSE (KC)"
+    },
+    {
+        "school": "HTR01",
+        "major": "EDEC",
+        "room_num": "87676",
+        "room_desc": "EDEC"
     }
 ]

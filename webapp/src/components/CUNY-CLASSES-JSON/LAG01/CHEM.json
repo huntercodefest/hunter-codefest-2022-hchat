@@ -70,5 +70,11 @@
         "major": "CHEM",
         "room_num": "81453",
         "room_desc": "Topics in Chemistry"
+    },
+    {
+        "school": "LAG01",
+        "major": "CHEM",
+        "room_num": "86691",
+        "room_desc": "CHEM"
     }
 ]

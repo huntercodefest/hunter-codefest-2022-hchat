@@ -112,5 +112,11 @@
         "major": "SOSC",
         "room_num": "44447",
         "room_desc": "Vocation44448: SOSC,\"Washington DC Internship & PD"
+    },
+    {
+        "school": "CTY01",
+        "major": "SOSC",
+        "room_num": "88017",
+        "room_desc": "SOSC"
     }
 ]

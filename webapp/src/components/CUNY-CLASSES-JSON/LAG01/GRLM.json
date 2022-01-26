@@ -10,5 +10,11 @@
         "major": "GRLM",
         "room_num": "81933",
         "room_desc": "Modern Greek Lit"
+    },
+    {
+        "school": "LAG01",
+        "major": "GRLM",
+        "room_num": "86731",
+        "room_desc": "GRLM"
     }
 ]

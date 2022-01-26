@@ -76,5 +76,11 @@
         "major": "JOUR",
         "room_num": "28421",
         "room_desc": "Visual Storytelling"
+    },
+    {
+        "school": "QNS01",
+        "major": "JOUR",
+        "room_num": "87458",
+        "room_desc": "JOUR"
     }
 ]

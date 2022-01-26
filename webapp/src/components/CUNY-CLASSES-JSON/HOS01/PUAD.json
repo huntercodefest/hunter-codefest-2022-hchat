@@ -88,5 +88,11 @@
         "major": "PUAD",
         "room_num": "64990",
         "room_desc": "Women in Management"
+    },
+    {
+        "school": "HOS01",
+        "major": "PUAD",
+        "room_num": "87799",
+        "room_desc": "PUAD"
     }
 ]

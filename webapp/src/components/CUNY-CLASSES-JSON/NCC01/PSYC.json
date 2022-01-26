@@ -16,5 +16,11 @@
         "major": "PSYC",
         "room_num": "64297",
         "room_desc": "Social Psychology"
+    },
+    {
+        "school": "NCC01",
+        "major": "PSYC",
+        "room_num": "86892",
+        "room_desc": "PSYC"
     }
 ]

@@ -4,5 +4,11 @@
         "major": "CERT",
         "room_num": "70731",
         "room_desc": "Certf\u2019D Full Time"
+    },
+    {
+        "school": "BKL01",
+        "major": "CERT",
+        "room_num": "86969",
+        "room_desc": "CERT"
     }
 ]

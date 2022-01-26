@@ -766,5 +766,11 @@
         "major": "INTE",
         "room_num": "74442",
         "room_desc": "Workshop"
+    },
+    {
+        "school": "BKL01",
+        "major": "INTE",
+        "room_num": "86965",
+        "room_desc": "INTE"
     }
 ]

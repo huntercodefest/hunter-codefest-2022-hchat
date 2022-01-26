@@ -16,5 +16,11 @@
         "major": "HUMA",
         "room_num": "67363",
         "room_desc": "Ind Stdy-Lat Amer"
+    },
+    {
+        "school": "NYT01",
+        "major": "HUMA",
+        "room_num": "87196",
+        "room_desc": "HUMA"
     }
 ]

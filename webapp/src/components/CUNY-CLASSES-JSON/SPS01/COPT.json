@@ -4,5 +4,11 @@
         "major": "COPT",
         "room_num": "80449",
         "room_desc": "College Option"
+    },
+    {
+        "school": "SPS01",
+        "major": "COPT",
+        "room_num": "87587",
+        "room_desc": "COPT"
     }
 ]

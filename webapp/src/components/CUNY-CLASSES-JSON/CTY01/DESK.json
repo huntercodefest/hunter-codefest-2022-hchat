@@ -34,5 +34,11 @@
         "major": "DESK",
         "room_num": "34437",
         "room_desc": "Read + Study Skills"
+    },
+    {
+        "school": "CTY01",
+        "major": "DESK",
+        "room_num": "87976",
+        "room_desc": "DESK"
     }
 ]

@@ -418,5 +418,11 @@
         "major": "PHTH",
         "room_num": "68156",
         "room_desc": "Upper Extmty Kinisio"
+    },
+    {
+        "school": "NYT01",
+        "major": "PHTH",
+        "room_num": "87201",
+        "room_desc": "PHTH"
     }
 ]

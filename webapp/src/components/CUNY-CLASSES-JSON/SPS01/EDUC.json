@@ -58,5 +58,11 @@
         "major": "EDUC",
         "room_num": "80644",
         "room_desc": "Understanding How Adults Learn"
+    },
+    {
+        "school": "SPS01",
+        "major": "EDUC",
+        "room_num": "87566",
+        "room_desc": "EDUC"
     }
 ]

@@ -70,5 +70,11 @@
         "major": "FNPH",
         "room_num": "164",
         "room_desc": "Topics in Public Health Nutr"
+    },
+    {
+        "school": "SPH01",
+        "major": "FNPH",
+        "room_num": "88319",
+        "room_desc": "FNPH"
     }
 ]

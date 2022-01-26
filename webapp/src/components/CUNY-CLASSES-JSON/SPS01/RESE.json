@@ -64,5 +64,11 @@
         "major": "RESE",
         "room_num": "80981",
         "room_desc": "Spon Res Mgmt & Oversight"
+    },
+    {
+        "school": "SPS01",
+        "major": "RESE",
+        "room_num": "87608",
+        "room_desc": "RESE"
     }
 ]

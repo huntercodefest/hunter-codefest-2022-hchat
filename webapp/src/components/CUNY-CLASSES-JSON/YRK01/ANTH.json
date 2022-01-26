@@ -280,5 +280,11 @@
         "major": "ANTH",
         "room_num": "15235",
         "room_desc": "Urban Anthropology"
+    },
+    {
+        "school": "YRK01",
+        "major": "ANTH",
+        "room_num": "87418",
+        "room_desc": "ANTH"
     }
 ]

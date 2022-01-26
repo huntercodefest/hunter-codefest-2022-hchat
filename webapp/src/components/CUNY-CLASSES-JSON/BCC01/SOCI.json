@@ -58,5 +58,11 @@
         "major": "SOCI",
         "room_num": "69495",
         "room_desc": "Urban Sociology"
+    },
+    {
+        "school": "BCC01",
+        "major": "SOCI",
+        "room_num": "87257",
+        "room_desc": "SOCI"
     }
 ]

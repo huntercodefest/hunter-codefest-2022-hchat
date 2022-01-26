@@ -298,5 +298,11 @@
         "major": "EVSC",
         "room_num": "84810",
         "room_desc": "Transportation Systems"
+    },
+    {
+        "school": "CSI01",
+        "major": "EVSC",
+        "room_num": "88123",
+        "room_desc": "EVSC"
     }
 ]

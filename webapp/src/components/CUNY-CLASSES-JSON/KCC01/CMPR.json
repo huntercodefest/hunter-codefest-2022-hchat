@@ -130,5 +130,11 @@
         "major": "CMPR",
         "room_num": "63051",
         "room_desc": "Visual Basic II"
+    },
+    {
+        "school": "KCC01",
+        "major": "CMPR",
+        "room_num": "88482",
+        "room_desc": "CMPR"
     }
 ]

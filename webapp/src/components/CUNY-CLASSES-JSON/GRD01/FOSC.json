@@ -208,5 +208,11 @@
         "major": "FOSC",
         "room_num": "5506",
         "room_desc": "Stat Law & Forensic Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "FOSC",
+        "room_num": "88377",
+        "room_desc": "FOSC"
     }
 ]

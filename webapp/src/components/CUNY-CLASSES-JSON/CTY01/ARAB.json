@@ -154,5 +154,11 @@
         "major": "ARAB",
         "room_num": "31502",
         "room_desc": "Special Topics"
+    },
+    {
+        "school": "CTY01",
+        "major": "ARAB",
+        "room_num": "88007",
+        "room_desc": "ARAB"
     }
 ]

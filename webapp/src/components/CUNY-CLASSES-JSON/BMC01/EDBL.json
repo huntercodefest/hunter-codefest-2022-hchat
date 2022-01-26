@@ -4,5 +4,11 @@
         "major": "EDBL",
         "room_num": "17727",
         "room_desc": "Bilingual Edu In Urban School"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDBL",
+        "room_num": "86832",
+        "room_desc": "EDBL"
     }
 ]

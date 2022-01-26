@@ -22,5 +22,11 @@
         "major": "ELEC",
         "room_num": "49929",
         "room_desc": "Rce:Psy/Mnt Hlth Nur"
+    },
+    {
+        "school": "HTR01",
+        "major": "ELEC",
+        "room_num": "87725",
+        "room_desc": "ELEC"
     }
 ]

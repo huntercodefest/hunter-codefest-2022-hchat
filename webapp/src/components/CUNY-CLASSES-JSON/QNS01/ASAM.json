@@ -22,5 +22,11 @@
         "major": "ASAM",
         "room_num": "24256",
         "room_desc": "Making of Asian/American Hist"
+    },
+    {
+        "school": "QNS01",
+        "major": "ASAM",
+        "room_num": "87487",
+        "room_desc": "ASAM"
     }
 ]

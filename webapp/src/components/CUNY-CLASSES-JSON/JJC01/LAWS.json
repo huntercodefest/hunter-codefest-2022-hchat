@@ -76,5 +76,11 @@
         "major": "LAWS",
         "room_num": "20952",
         "room_desc": "Selected Topics in Law and Soc"
+    },
+    {
+        "school": "JJC01",
+        "major": "LAWS",
+        "room_num": "87060",
+        "room_desc": "LAWS"
     }
 ]

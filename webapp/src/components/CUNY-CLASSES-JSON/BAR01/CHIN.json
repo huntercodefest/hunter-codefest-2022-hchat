@@ -106,5 +106,11 @@
         "major": "CHIN",
         "room_num": "59406",
         "room_desc": "Upper Intermediate Chinese"
+    },
+    {
+        "school": "BAR01",
+        "major": "CHIN",
+        "room_num": "86647",
+        "room_desc": "CHIN"
     }
 ]

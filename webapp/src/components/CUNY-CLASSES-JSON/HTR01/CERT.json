@@ -10,5 +10,11 @@
         "major": "CERT",
         "room_num": "47678",
         "room_desc": "Certified Full/Time"
+    },
+    {
+        "school": "HTR01",
+        "major": "CERT",
+        "room_num": "87685",
+        "room_desc": "CERT"
     }
 ]

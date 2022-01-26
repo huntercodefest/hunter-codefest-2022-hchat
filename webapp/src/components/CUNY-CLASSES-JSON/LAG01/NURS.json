@@ -148,5 +148,11 @@
         "major": "NURS",
         "room_num": "82458",
         "room_desc": "Trends in Nursing"
+    },
+    {
+        "school": "LAG01",
+        "major": "NURS",
+        "room_num": "86699",
+        "room_desc": "NURS"
     }
 ]

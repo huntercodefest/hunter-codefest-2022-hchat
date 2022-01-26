@@ -28,5 +28,11 @@
         "major": "BPRS",
         "room_num": "47545",
         "room_desc": "Underdevelopment Third World"
+    },
+    {
+        "school": "HTR01",
+        "major": "BPRS",
+        "room_num": "87747",
+        "room_desc": "BPRS"
     }
 ]

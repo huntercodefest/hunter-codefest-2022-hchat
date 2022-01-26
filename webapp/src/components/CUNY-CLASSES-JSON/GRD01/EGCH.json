@@ -352,5 +352,11 @@
         "major": "EGCH",
         "room_num": "4438",
         "room_desc": "Unit Operations 2"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCH",
+        "room_num": "88335",
+        "room_desc": "EGCH"
     }
 ]

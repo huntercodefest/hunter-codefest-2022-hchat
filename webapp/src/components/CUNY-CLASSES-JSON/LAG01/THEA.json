@@ -94,5 +94,11 @@
         "major": "THEA",
         "room_num": "82893",
         "room_desc": "Voice and Movement"
+    },
+    {
+        "school": "LAG01",
+        "major": "THEA",
+        "room_num": "86750",
+        "room_desc": "THEA"
     }
 ]

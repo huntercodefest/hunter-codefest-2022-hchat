@@ -496,5 +496,11 @@
         "major": "EDPH",
         "room_num": "63278",
         "room_desc": "Yoga and Meditation"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDPH",
+        "room_num": "88533",
+        "room_desc": "EDPH"
     }
 ]

@@ -358,5 +358,11 @@
         "major": "CMIS",
         "room_num": "1900",
         "room_desc": "Visual Basic"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMIS",
+        "room_num": "88451",
+        "room_desc": "CMIS"
     }
 ]

@@ -2194,5 +2194,11 @@
         "major": "ENGL",
         "room_num": "73123",
         "room_desc": "XIX Cent Amer Lit I"
+    },
+    {
+        "school": "BKL01",
+        "major": "ENGL",
+        "room_num": "86930",
+        "room_desc": "ENGL"
     }
 ]

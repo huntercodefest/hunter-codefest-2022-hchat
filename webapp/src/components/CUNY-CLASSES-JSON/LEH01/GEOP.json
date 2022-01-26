@@ -298,5 +298,11 @@
         "major": "GEOP",
         "room_num": "12769",
         "room_desc": "Wkshp in G.I. Sci Rsrch"
+    },
+    {
+        "school": "LEH01",
+        "major": "GEOP",
+        "room_num": "88195",
+        "room_desc": "GEOP"
     }
 ]

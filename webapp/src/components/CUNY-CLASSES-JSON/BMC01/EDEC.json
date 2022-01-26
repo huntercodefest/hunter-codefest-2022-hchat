@@ -88,5 +88,11 @@
         "major": "EDEC",
         "room_num": "17773",
         "room_desc": "Toddler Care and Curriculum"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDEC",
+        "room_num": "86819",
+        "room_desc": "EDEC"
     }
 ]

@@ -214,5 +214,11 @@
         "major": "AFST",
         "room_num": "17191",
         "room_desc": "The Roles Of Women"
+    },
+    {
+        "school": "BMC01",
+        "major": "AFST",
+        "room_num": "86847",
+        "room_desc": "AFST"
     }
 ]

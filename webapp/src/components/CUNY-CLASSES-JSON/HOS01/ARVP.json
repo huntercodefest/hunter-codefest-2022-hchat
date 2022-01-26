@@ -208,5 +208,11 @@
         "major": "ARVP",
         "room_num": "64364",
         "room_desc": "Voice and Diction"
+    },
+    {
+        "school": "HOS01",
+        "major": "ARVP",
+        "room_num": "87773",
+        "room_desc": "ARVP"
     }
 ]

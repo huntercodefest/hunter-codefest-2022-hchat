@@ -52,5 +52,11 @@
         "major": "FREN",
         "room_num": "64761",
         "room_desc": "Intermediate French II"
+    },
+    {
+        "school": "HOS01",
+        "major": "FREN",
+        "room_num": "87827",
+        "room_desc": "FREN"
     }
 ]

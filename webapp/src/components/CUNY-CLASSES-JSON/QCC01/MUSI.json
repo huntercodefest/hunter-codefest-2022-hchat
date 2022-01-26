@@ -958,5 +958,11 @@
         "major": "MUSI",
         "room_num": "23264",
         "room_desc": "Virtual Instruments"
+    },
+    {
+        "school": "QCC01",
+        "major": "MUSI",
+        "room_num": "87886",
+        "room_desc": "MUSI"
     }
 ]

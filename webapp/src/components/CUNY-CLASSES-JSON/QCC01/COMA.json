@@ -16,5 +16,11 @@
         "major": "COMA",
         "room_num": "22501",
         "room_desc": "Foundations and Structures"
+    },
+    {
+        "school": "QCC01",
+        "major": "COMA",
+        "room_num": "87860",
+        "room_desc": "COMA"
     }
 ]

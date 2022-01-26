@@ -310,5 +310,11 @@
         "major": "AUDI",
         "room_num": "961",
         "room_desc": "Vestibular/Tinnitus Eval/Mgmt"
+    },
+    {
+        "school": "GRD01",
+        "major": "AUDI",
+        "room_num": "88411",
+        "room_desc": "AUDI"
     }
 ]

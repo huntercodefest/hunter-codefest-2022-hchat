@@ -52,5 +52,11 @@
         "major": "SEEK",
         "room_num": "76613",
         "room_desc": "SEEK Writing Workshop"
+    },
+    {
+        "school": "BKL01",
+        "major": "SEEK",
+        "room_num": "86953",
+        "room_desc": "SEEK"
     }
 ]

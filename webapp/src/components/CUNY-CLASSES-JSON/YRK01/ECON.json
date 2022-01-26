@@ -142,5 +142,11 @@
         "major": "ECON",
         "room_num": "15703",
         "room_desc": "Urban Economics"
+    },
+    {
+        "school": "YRK01",
+        "major": "ECON",
+        "room_num": "87359",
+        "room_desc": "ECON"
     }
 ]

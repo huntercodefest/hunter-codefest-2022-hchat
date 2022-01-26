@@ -424,5 +424,11 @@
         "major": "PUAD",
         "room_num": "62081",
         "room_desc": "Urban/Rural Fellow"
+    },
+    {
+        "school": "BAR01",
+        "major": "PUAD",
+        "room_num": "86636",
+        "room_desc": "PUAD"
     }
 ]

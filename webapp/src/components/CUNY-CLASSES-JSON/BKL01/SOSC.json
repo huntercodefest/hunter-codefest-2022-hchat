@@ -22,5 +22,11 @@
         "major": "SOSC",
         "room_num": "76783",
         "room_desc": "Soc Sci Investigat"
+    },
+    {
+        "school": "BKL01",
+        "major": "SOSC",
+        "room_num": "87017",
+        "room_desc": "SOSC"
     }
 ]

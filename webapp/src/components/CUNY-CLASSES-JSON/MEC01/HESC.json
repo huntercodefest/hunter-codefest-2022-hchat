@@ -184,5 +184,11 @@
         "major": "HESC",
         "room_num": "78843",
         "room_desc": "The Dev Chld Bl/Hisp"
+    },
+    {
+        "school": "MEC01",
+        "major": "HESC",
+        "room_num": "88283",
+        "room_desc": "HESC"
     }
 ]

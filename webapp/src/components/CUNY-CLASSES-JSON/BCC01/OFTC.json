@@ -52,5 +52,11 @@
         "major": "OFTC",
         "room_num": "69418",
         "room_desc": "Word Processing Applications"
+    },
+    {
+        "school": "BCC01",
+        "major": "OFTC",
+        "room_num": "87311",
+        "room_desc": "OFTC"
     }
 ]

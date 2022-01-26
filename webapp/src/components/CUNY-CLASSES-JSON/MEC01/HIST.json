@@ -208,5 +208,11 @@
         "major": "HIST",
         "room_num": "78878",
         "room_desc": "World Civilizations II"
+    },
+    {
+        "school": "MEC01",
+        "major": "HIST",
+        "room_num": "88244",
+        "room_desc": "HIST"
     }
 ]

@@ -160,5 +160,11 @@
         "major": "MECO",
         "room_num": "13724",
         "room_desc": "Topics in Media Communications"
+    },
+    {
+        "school": "LEH01",
+        "major": "MECO",
+        "room_num": "88185",
+        "room_desc": "MECO"
     }
 ]

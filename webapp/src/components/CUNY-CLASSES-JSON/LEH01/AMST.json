@@ -40,5 +40,11 @@
         "major": "AMST",
         "room_num": "10844",
         "room_desc": "Spec Tops in Amer Studies"
+    },
+    {
+        "school": "LEH01",
+        "major": "AMST",
+        "room_num": "88141",
+        "room_desc": "AMST"
     }
 ]

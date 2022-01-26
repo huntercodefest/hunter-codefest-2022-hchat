@@ -76,5 +76,11 @@
         "major": "CMGI",
         "room_num": "11447",
         "room_desc": "Topics in Computer Imaging"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMGI",
+        "room_num": "88137",
+        "room_desc": "CMGI"
     }
 ]

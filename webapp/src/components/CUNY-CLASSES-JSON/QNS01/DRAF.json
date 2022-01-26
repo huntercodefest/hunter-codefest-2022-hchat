@@ -22,5 +22,11 @@
         "major": "DRAF",
         "room_num": "25155",
         "room_desc": "Engineering Drawing"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAF",
+        "room_num": "87522",
+        "room_desc": "DRAF"
     }
 ]

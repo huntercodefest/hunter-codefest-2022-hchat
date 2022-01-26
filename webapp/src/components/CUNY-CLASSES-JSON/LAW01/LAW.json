@@ -1186,5 +1186,11 @@
         "major": "LAW",
         "room_num": "23668",
         "room_desc": "Workers\u2019 Rights Clinic Seminar"
+    },
+    {
+        "school": "LAW01",
+        "major": "LAW",
+        "room_num": "87030",
+        "room_desc": "LAW"
     }
 ]

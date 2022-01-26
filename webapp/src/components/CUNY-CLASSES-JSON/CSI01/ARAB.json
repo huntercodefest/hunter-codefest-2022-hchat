@@ -70,5 +70,11 @@
         "major": "ARAB",
         "room_num": "83165",
         "room_desc": "Continuing Arabic II"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARAB",
+        "room_num": "88109",
+        "room_desc": "ARAB"
     }
 ]

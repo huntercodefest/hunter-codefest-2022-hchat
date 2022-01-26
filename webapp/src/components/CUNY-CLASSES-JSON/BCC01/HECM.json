@@ -16,5 +16,11 @@
         "major": "HECM",
         "room_num": "69168",
         "room_desc": "Hospital Management"
+    },
+    {
+        "school": "BCC01",
+        "major": "HECM",
+        "room_num": "87324",
+        "room_desc": "HECM"
     }
 ]

@@ -88,5 +88,11 @@
         "major": "EDHE",
         "room_num": "68979",
         "room_desc": "Leader In Recreation"
+    },
+    {
+        "school": "BCC01",
+        "major": "EDHE",
+        "room_num": "87317",
+        "room_desc": "EDHE"
     }
 ]

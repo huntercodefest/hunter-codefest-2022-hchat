@@ -352,5 +352,11 @@
         "major": "CLAS",
         "room_num": "1840",
         "room_desc": "Workshop in Teaching Classics"
+    },
+    {
+        "school": "GRD01",
+        "major": "CLAS",
+        "room_num": "88454",
+        "room_desc": "CLAS"
     }
 ]

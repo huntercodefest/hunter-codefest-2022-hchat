@@ -40,5 +40,11 @@
         "major": "SWAH",
         "room_num": "19224",
         "room_desc": "Swahili Iv"
+    },
+    {
+        "school": "BMC01",
+        "major": "SWAH",
+        "room_num": "86867",
+        "room_desc": "SWAH"
     }
 ]

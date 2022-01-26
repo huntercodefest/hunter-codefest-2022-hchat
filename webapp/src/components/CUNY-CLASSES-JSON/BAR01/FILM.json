@@ -52,5 +52,11 @@
         "major": "FILM",
         "room_num": "60285",
         "room_desc": "Latin American Cinema"
+    },
+    {
+        "school": "BAR01",
+        "major": "FILM",
+        "room_num": "86616",
+        "room_desc": "FILM"
     }
 ]

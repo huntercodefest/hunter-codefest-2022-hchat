@@ -544,5 +544,11 @@
         "major": "COLI",
         "room_num": "2521",
         "room_desc": "Works Of Pearl Poet"
+    },
+    {
+        "school": "GRD01",
+        "major": "COLI",
+        "room_num": "88445",
+        "room_desc": "COLI"
     }
 ]

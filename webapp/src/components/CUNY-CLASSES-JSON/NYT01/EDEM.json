@@ -550,5 +550,11 @@
         "major": "EDEM",
         "room_num": "66251",
         "room_desc": "Writing for Teachers"
+    },
+    {
+        "school": "NYT01",
+        "major": "EDEM",
+        "room_num": "87212",
+        "room_desc": "EDEM"
     }
 ]

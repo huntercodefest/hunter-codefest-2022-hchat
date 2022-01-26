@@ -706,5 +706,11 @@
         "major": "PHYS",
         "room_num": "29801",
         "room_desc": "X-ray Diffraction"
+    },
+    {
+        "school": "QNS01",
+        "major": "PHYS",
+        "room_num": "87437",
+        "room_desc": "PHYS"
     }
 ]

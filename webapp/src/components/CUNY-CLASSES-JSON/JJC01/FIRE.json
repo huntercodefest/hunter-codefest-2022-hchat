@@ -70,5 +70,11 @@
         "major": "FIRE",
         "room_num": "20450",
         "room_desc": "Theo Design Sec Sys"
+    },
+    {
+        "school": "JJC01",
+        "major": "FIRE",
+        "room_num": "87088",
+        "room_desc": "FIRE"
     }
 ]

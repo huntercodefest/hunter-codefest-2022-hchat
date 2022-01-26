@@ -70,5 +70,11 @@
         "major": "LING",
         "room_num": "53831",
         "room_desc": "Thy Rsch Sla & Lrng"
+    },
+    {
+        "school": "HTR01",
+        "major": "LING",
+        "room_num": "87758",
+        "room_desc": "LING"
     }
 ]

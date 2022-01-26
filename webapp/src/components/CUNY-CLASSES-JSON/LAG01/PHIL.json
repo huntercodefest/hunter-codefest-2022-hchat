@@ -148,5 +148,11 @@
         "major": "PHIL",
         "room_num": "82613",
         "room_desc": "Soc & Pol Philosophy"
+    },
+    {
+        "school": "LAG01",
+        "major": "PHIL",
+        "room_num": "86766",
+        "room_desc": "PHIL"
     }
 ]

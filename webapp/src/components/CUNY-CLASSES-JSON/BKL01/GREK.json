@@ -106,5 +106,11 @@
         "major": "GREK",
         "room_num": "73692",
         "room_desc": "Studies in Greek"
+    },
+    {
+        "school": "BKL01",
+        "major": "GREK",
+        "room_num": "86977",
+        "room_desc": "GREK"
     }
 ]

@@ -130,5 +130,11 @@
         "major": "MSTH",
         "room_num": "23104",
         "room_desc": "Western Massage III"
+    },
+    {
+        "school": "QCC01",
+        "major": "MSTH",
+        "room_num": "87902",
+        "room_desc": "MSTH"
     }
 ]

@@ -58,5 +58,11 @@
         "major": "LATI",
         "room_num": "28495",
         "room_desc": "Roman Prose"
+    },
+    {
+        "school": "QNS01",
+        "major": "LATI",
+        "room_num": "87450",
+        "room_desc": "LATI"
     }
 ]

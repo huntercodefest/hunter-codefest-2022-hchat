@@ -748,5 +748,11 @@
         "major": "PHIL",
         "room_num": "75667",
         "room_desc": "Workplace Values and Happiness"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHIL",
+        "room_num": "87005",
+        "room_desc": "PHIL"
     }
 ]

@@ -4,5 +4,11 @@
         "major": "STAB",
         "room_num": "65054",
         "room_desc": "Study Abroad"
+    },
+    {
+        "school": "HOS01",
+        "major": "STAB",
+        "room_num": "87789",
+        "room_desc": "STAB"
     }
 ]

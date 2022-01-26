@@ -112,5 +112,11 @@
         "major": "STAB",
         "room_num": "22132",
         "room_desc": "Study Abroad"
+    },
+    {
+        "school": "JJC01",
+        "major": "STAB",
+        "room_num": "87059",
+        "room_desc": "STAB"
     }
 ]

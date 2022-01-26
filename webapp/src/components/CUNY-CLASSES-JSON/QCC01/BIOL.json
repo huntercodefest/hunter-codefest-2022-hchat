@@ -442,5 +442,11 @@
         "major": "BIOL",
         "room_num": "22327",
         "room_desc": "Research Laboratory Internship"
+    },
+    {
+        "school": "QCC01",
+        "major": "BIOL",
+        "room_num": "87877",
+        "room_desc": "BIOL"
     }
 ]

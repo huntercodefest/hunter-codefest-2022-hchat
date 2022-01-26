@@ -106,5 +106,11 @@
         "major": "HUMA",
         "room_num": "13211",
         "room_desc": "The City and the Theatre"
+    },
+    {
+        "school": "LEH01",
+        "major": "HUMA",
+        "room_num": "88182",
+        "room_desc": "HUMA"
     }
 ]

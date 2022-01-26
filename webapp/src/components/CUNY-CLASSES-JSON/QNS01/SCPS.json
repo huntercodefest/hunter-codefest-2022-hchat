@@ -196,5 +196,11 @@
         "major": "SCPS",
         "room_num": "30456",
         "room_desc": "Thry & Pract Asmt Intel & Cog"
+    },
+    {
+        "school": "QNS01",
+        "major": "SCPS",
+        "room_num": "87536",
+        "room_desc": "SCPS"
     }
 ]

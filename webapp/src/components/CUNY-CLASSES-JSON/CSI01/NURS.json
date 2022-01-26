@@ -424,5 +424,11 @@
         "major": "NURS",
         "room_num": "85888",
         "room_desc": "Women\u2019S Hlth Issues"
+    },
+    {
+        "school": "CSI01",
+        "major": "NURS",
+        "room_num": "88037",
+        "room_desc": "NURS"
     }
 ]

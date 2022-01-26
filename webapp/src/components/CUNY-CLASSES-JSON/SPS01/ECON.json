@@ -16,5 +16,11 @@
         "major": "ECON",
         "room_num": "80612",
         "room_desc": "Microeconomics"
+    },
+    {
+        "school": "SPS01",
+        "major": "ECON",
+        "room_num": "87564",
+        "room_desc": "ECON"
     }
 ]

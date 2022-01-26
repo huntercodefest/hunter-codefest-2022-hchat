@@ -10,5 +10,11 @@
         "major": "GSIS",
         "room_num": "81935",
         "room_desc": "Gsi Seminar"
+    },
+    {
+        "school": "LAG01",
+        "major": "GSIS",
+        "room_num": "86724",
+        "room_desc": "GSIS"
     }
 ]

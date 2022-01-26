@@ -556,5 +556,11 @@
         "major": "RUAS",
         "room_num": "56884",
         "room_desc": "XIX Century Russian Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "RUAS",
+        "room_num": "87698",
+        "room_desc": "RUAS"
     }
 ]

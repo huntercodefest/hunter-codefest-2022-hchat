@@ -142,5 +142,11 @@
         "major": "UBST",
         "room_num": "81081",
         "room_desc": "Urban and Community Fieldwork"
+    },
+    {
+        "school": "SPS01",
+        "major": "UBST",
+        "room_num": "87560",
+        "room_desc": "UBST"
     }
 ]

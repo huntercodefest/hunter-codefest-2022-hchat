@@ -3448,5 +3448,11 @@
         "major": "POSC",
         "room_num": "56143",
         "room_desc": "Women\u2019s Political Thought"
+    },
+    {
+        "school": "HTR01",
+        "major": "POSC",
+        "room_num": "87717",
+        "room_desc": "POSC"
     }
 ]

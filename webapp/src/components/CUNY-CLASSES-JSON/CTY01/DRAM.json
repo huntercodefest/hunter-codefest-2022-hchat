@@ -16,5 +16,11 @@
         "major": "DRAM",
         "room_num": "34440",
         "room_desc": "Man And The Arts"
+    },
+    {
+        "school": "CTY01",
+        "major": "DRAM",
+        "room_num": "87921",
+        "room_desc": "DRAM"
     }
 ]

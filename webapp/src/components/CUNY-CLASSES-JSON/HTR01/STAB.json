@@ -52,5 +52,11 @@
         "major": "STAB",
         "room_num": "57791",
         "room_desc": "Study Abroad-0.50 Credits"
+    },
+    {
+        "school": "HTR01",
+        "major": "STAB",
+        "room_num": "87659",
+        "room_desc": "STAB"
     }
 ]

@@ -94,5 +94,11 @@
         "major": "ENSL",
         "room_num": "78725",
         "room_desc": "Writing Esl II"
+    },
+    {
+        "school": "MEC01",
+        "major": "ENSL",
+        "room_num": "88253",
+        "room_desc": "ENSL"
     }
 ]

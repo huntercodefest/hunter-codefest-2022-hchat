@@ -154,5 +154,11 @@
         "major": "CMIS",
         "room_num": "11473",
         "room_desc": "Topics Computer Applications"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMIS",
+        "room_num": "88222",
+        "room_desc": "CMIS"
     }
 ]

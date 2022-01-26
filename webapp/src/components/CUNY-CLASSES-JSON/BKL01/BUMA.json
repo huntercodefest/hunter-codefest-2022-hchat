@@ -538,5 +538,11 @@
         "major": "BUMA",
         "room_num": "70527",
         "room_desc": "Workplace Values and Happiness"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "86983",
+        "room_desc": "BUMA"
     }
 ]

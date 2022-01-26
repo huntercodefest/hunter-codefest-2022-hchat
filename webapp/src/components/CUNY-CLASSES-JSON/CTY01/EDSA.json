@@ -40,5 +40,11 @@
         "major": "EDSA",
         "room_num": "35770",
         "room_desc": "Spanish Civilization"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDSA",
+        "room_num": "87960",
+        "room_desc": "EDSA"
     }
 ]

@@ -22,5 +22,11 @@
         "major": "CHIN",
         "room_num": "15540",
         "room_desc": "Intermediate Chinese II"
+    },
+    {
+        "school": "YRK01",
+        "major": "CHIN",
+        "room_num": "87394",
+        "room_desc": "CHIN"
     }
 ]

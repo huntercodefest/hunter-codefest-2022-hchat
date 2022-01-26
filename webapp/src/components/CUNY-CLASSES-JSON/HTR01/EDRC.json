@@ -40,5 +40,11 @@
         "major": "EDRC",
         "room_num": "49685",
         "room_desc": "Resources & Foundations Rehab"
+    },
+    {
+        "school": "HTR01",
+        "major": "EDRC",
+        "room_num": "87670",
+        "room_desc": "EDRC"
     }
 ]

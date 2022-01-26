@@ -406,5 +406,11 @@
         "major": "COMM",
         "room_num": "83919",
         "room_desc": "Writing for the Media"
+    },
+    {
+        "school": "CSI01",
+        "major": "COMM",
+        "room_num": "88046",
+        "room_desc": "COMM"
     }
 ]

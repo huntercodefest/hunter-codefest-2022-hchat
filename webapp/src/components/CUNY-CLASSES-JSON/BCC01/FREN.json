@@ -40,5 +40,11 @@
         "major": "FREN",
         "room_num": "69146",
         "room_desc": "Readings in Modern French"
+    },
+    {
+        "school": "BCC01",
+        "major": "FREN",
+        "room_num": "87328",
+        "room_desc": "FREN"
     }
 ]

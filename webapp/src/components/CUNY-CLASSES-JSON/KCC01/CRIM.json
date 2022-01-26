@@ -16,5 +16,11 @@
         "major": "CRIM",
         "room_num": "63116",
         "room_desc": "Policing"
+    },
+    {
+        "school": "KCC01",
+        "major": "CRIM",
+        "room_num": "88479",
+        "room_desc": "CRIM"
     }
 ]

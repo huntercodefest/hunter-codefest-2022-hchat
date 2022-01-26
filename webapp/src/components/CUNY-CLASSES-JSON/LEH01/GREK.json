@@ -154,5 +154,11 @@
         "major": "GREK",
         "room_num": "12843",
         "room_desc": "Xenophon"
+    },
+    {
+        "school": "LEH01",
+        "major": "GREK",
+        "room_num": "88186",
+        "room_desc": "GREK"
     }
 ]

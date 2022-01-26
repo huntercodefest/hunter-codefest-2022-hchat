@@ -184,5 +184,11 @@
         "major": "MUPD",
         "room_num": "18623",
         "room_desc": "World History of Animation"
+    },
+    {
+        "school": "BMC01",
+        "major": "MUPD",
+        "room_num": "86833",
+        "room_desc": "MUPD"
     }
 ]

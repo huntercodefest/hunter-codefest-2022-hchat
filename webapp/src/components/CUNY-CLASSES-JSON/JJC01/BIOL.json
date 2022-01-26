@@ -148,5 +148,11 @@
         "major": "BIOL",
         "room_num": "19680",
         "room_desc": "Selected Topics: Biology w/Lab"
+    },
+    {
+        "school": "JJC01",
+        "major": "BIOL",
+        "room_num": "87089",
+        "room_desc": "BIOL"
     }
 ]

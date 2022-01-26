@@ -22,5 +22,11 @@
         "major": "BUMA",
         "room_num": "59356",
         "room_desc": "Thesis"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUMA",
+        "room_num": "86642",
+        "room_desc": "BUMA"
     }
 ]

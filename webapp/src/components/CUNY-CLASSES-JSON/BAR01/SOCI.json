@@ -394,5 +394,11 @@
         "major": "SOCI",
         "room_num": "62450",
         "room_desc": "Women62451: SPAN,\"19 Cen Ltn-Amrcn Ltt"
+    },
+    {
+        "school": "BAR01",
+        "major": "SOCI",
+        "room_num": "86609",
+        "room_desc": "SOCI"
     }
 ]

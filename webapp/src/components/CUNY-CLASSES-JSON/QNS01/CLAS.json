@@ -64,5 +64,11 @@
         "major": "CLAS",
         "room_num": "24654",
         "room_desc": "Topics in Classical Studies"
+    },
+    {
+        "school": "QNS01",
+        "major": "CLAS",
+        "room_num": "87527",
+        "room_desc": "CLAS"
     }
 ]

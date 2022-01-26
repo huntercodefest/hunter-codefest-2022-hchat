@@ -70,5 +70,11 @@
         "major": "LECO",
         "room_num": "18365",
         "room_desc": "Success Seminar Ind Study"
+    },
+    {
+        "school": "BMC01",
+        "major": "LECO",
+        "room_num": "86875",
+        "room_desc": "LECO"
     }
 ]

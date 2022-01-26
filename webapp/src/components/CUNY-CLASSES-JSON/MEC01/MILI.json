@@ -34,5 +34,11 @@
         "major": "MILI",
         "room_num": "79233",
         "room_desc": "Intro: Leadership II"
+    },
+    {
+        "school": "MEC01",
+        "major": "MILI",
+        "room_num": "88265",
+        "room_desc": "MILI"
     }
 ]

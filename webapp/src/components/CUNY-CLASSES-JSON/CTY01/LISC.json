@@ -4,5 +4,11 @@
         "major": "LISC",
         "room_num": "41704",
         "room_desc": "Research in the Digital Age"
+    },
+    {
+        "school": "CTY01",
+        "major": "LISC",
+        "room_num": "88004",
+        "room_desc": "LISC"
     }
 ]

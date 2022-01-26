@@ -82,5 +82,11 @@
         "major": "COBL",
         "room_num": "65969",
         "room_desc": "Transf. Lrng & Tchng Sch/Comm"
+    },
+    {
+        "school": "NYT01",
+        "major": "COBL",
+        "room_num": "87165",
+        "room_desc": "COBL"
     }
 ]

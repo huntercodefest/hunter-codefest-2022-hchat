@@ -124,5 +124,11 @@
         "major": "PHOT",
         "room_num": "68086",
         "room_desc": "Visiting Artist Workshop"
+    },
+    {
+        "school": "NYT01",
+        "major": "PHOT",
+        "room_num": "87180",
+        "room_desc": "PHOT"
     }
 ]

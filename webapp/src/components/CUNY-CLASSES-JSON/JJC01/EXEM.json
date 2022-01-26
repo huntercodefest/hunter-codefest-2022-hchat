@@ -58,5 +58,11 @@
         "major": "EXEM",
         "room_num": "20438",
         "room_desc": "Spe 113 Exemption"
+    },
+    {
+        "school": "JJC01",
+        "major": "EXEM",
+        "room_num": "87061",
+        "room_desc": "EXEM"
     }
 ]

@@ -2134,5 +2134,11 @@
         "major": "HIST",
         "room_num": "27950",
         "room_desc": "Writing and History"
+    },
+    {
+        "school": "QNS01",
+        "major": "HIST",
+        "room_num": "87430",
+        "room_desc": "HIST"
     }
 ]

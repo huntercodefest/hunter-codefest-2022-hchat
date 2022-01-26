@@ -70,5 +70,11 @@
         "major": "BUDA",
         "room_num": "65612",
         "room_desc": "Semi In Big Data-Curr Topics"
+    },
+    {
+        "school": "NYT01",
+        "major": "BUDA",
+        "room_num": "87154",
+        "room_desc": "BUDA"
     }
 ]

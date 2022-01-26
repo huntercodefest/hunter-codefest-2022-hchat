@@ -16,5 +16,11 @@
         "major": "SWAH",
         "room_num": "80128",
         "room_desc": "Beginning Swahili II"
+    },
+    {
+        "school": "MEC01",
+        "major": "SWAH",
+        "room_num": "88298",
+        "room_desc": "SWAH"
     }
 ]

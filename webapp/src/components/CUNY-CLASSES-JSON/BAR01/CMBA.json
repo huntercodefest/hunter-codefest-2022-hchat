@@ -76,5 +76,11 @@
         "major": "CMBA",
         "room_num": "59419",
         "room_desc": "PSY 9788 + MKT 9703"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMBA",
+        "room_num": "86629",
+        "room_desc": "CMBA"
     }
 ]

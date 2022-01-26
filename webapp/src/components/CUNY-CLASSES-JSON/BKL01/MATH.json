@@ -1204,5 +1204,11 @@
         "major": "MATH",
         "room_num": "75039",
         "room_desc": "Wkshp Linear Algebra"
+    },
+    {
+        "school": "BKL01",
+        "major": "MATH",
+        "room_num": "87009",
+        "room_desc": "MATH"
     }
 ]

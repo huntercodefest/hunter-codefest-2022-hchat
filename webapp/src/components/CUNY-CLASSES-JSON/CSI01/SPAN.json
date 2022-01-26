@@ -334,5 +334,11 @@
         "major": "SPAN",
         "room_num": "86540",
         "room_desc": "XX Century Poetry"
+    },
+    {
+        "school": "CSI01",
+        "major": "SPAN",
+        "room_num": "88088",
+        "room_desc": "SPAN"
     }
 ]

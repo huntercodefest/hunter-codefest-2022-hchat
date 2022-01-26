@@ -208,5 +208,11 @@
         "major": "JAPA",
         "room_num": "53621",
         "room_desc": "Traditional Japanese Theatre"
+    },
+    {
+        "school": "HTR01",
+        "major": "JAPA",
+        "room_num": "87731",
+        "room_desc": "JAPA"
     }
 ]

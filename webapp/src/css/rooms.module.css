@@ -11,7 +11,9 @@
 	flex-shrink: 0;
 	box-sizing: border-box;
 }
-
+.bold{
+	font-weight: 700;
+}
 .header {
 	flex-shrink: 1;
 	margin-right: 0;
@@ -42,6 +44,7 @@
 	margin: auto, 0px, auto, 1px;
 	width: 100%;
 	max-width: 40%;
+	cursor: pointer;
 }
 .roomsContainer {
 	display: flex;
@@ -50,13 +53,13 @@
 	overflow: auto;
 }
 
-.roomsContainer:first-child {
+/* .roomsContainer:first-child {
 	margin-top: 0px;
 }
 
 .roomsContainer:last-child {
 	margin-bottom: 3px;
-}
+} */
 
 .roomButton {
 	margin-top: 3px;
@@ -70,6 +73,11 @@
 	cursor: pointer;
 	font-size: 11px;
 	text-align: left;
+	order: 999;
+}
+
+.displayorder {
+	order: 1;
 }
 
 .roomButton:hover,

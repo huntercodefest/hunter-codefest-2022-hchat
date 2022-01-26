@@ -118,5 +118,11 @@
         "major": "GEOL",
         "room_num": "5670",
         "room_desc": "Stratigraphy"
+    },
+    {
+        "school": "GRD01",
+        "major": "GEOL",
+        "room_num": "88376",
+        "room_desc": "GEOL"
     }
 ]

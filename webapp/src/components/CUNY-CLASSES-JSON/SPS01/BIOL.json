@@ -82,5 +82,11 @@
         "major": "BIOL",
         "room_num": "80343",
         "room_desc": "Tree of Life: Evolution"
+    },
+    {
+        "school": "SPS01",
+        "major": "BIOL",
+        "room_num": "87584",
+        "room_desc": "BIOL"
     }
 ]

@@ -28,5 +28,11 @@
         "major": "REHA",
         "room_num": "14494",
         "room_desc": "Princples of Psych Rehab"
+    },
+    {
+        "school": "LEH01",
+        "major": "REHA",
+        "room_num": "88235",
+        "room_desc": "REHA"
     }
 ]

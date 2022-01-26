@@ -772,5 +772,11 @@
         "major": "BIOL",
         "room_num": "11260",
         "room_desc": "Virology"
+    },
+    {
+        "school": "LEH01",
+        "major": "BIOL",
+        "room_num": "88190",
+        "room_desc": "BIOL"
     }
 ]

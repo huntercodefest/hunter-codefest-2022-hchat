@@ -70,5 +70,11 @@
         "major": "LESP",
         "room_num": "13525",
         "room_desc": "The Scientific Revolution"
+    },
+    {
+        "school": "LEH01",
+        "major": "LESP",
+        "room_num": "88233",
+        "room_desc": "LESP"
     }
 ]

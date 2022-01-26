@@ -22,5 +22,11 @@
         "major": "CLIP",
         "room_num": "64454",
         "room_desc": "CLIP - Level 4"
+    },
+    {
+        "school": "HOS01",
+        "major": "CLIP",
+        "room_num": "87775",
+        "room_desc": "CLIP"
     }
 ]

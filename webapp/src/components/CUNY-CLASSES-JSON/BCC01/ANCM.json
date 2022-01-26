@@ -10,5 +10,11 @@
         "major": "ANCM",
         "room_num": "68730",
         "room_desc": "Animal Care & Management"
+    },
+    {
+        "school": "BCC01",
+        "major": "ANCM",
+        "room_num": "87325",
+        "room_desc": "ANCM"
     }
 ]

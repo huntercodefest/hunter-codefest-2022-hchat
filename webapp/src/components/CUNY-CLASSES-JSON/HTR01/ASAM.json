@@ -568,5 +568,11 @@
         "major": "ASAM",
         "room_num": "47288",
         "room_desc": "Women of East Asia"
+    },
+    {
+        "school": "HTR01",
+        "major": "ASAM",
+        "room_num": "87704",
+        "room_desc": "ASAM"
     }
 ]

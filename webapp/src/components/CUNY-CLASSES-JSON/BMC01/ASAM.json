@@ -40,5 +40,11 @@
         "major": "ASAM",
         "room_num": "17334",
         "room_desc": "Intro to the Middle East"
+    },
+    {
+        "school": "BMC01",
+        "major": "ASAM",
+        "room_num": "86843",
+        "room_desc": "ASAM"
     }
 ]

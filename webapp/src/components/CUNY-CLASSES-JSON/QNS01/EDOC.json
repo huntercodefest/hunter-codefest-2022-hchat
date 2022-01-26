@@ -280,5 +280,11 @@
         "major": "EDOC",
         "room_num": "25637",
         "room_desc": "Workshop In Sch Adm"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "87503",
+        "room_desc": "EDOC"
     }
 ]

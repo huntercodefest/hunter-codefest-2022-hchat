@@ -910,5 +910,11 @@
         "major": "MARK",
         "room_num": "61290",
         "room_desc": "Web Analytics and Intelligence"
+    },
+    {
+        "school": "BAR01",
+        "major": "MARK",
+        "room_num": "86626",
+        "room_desc": "MARK"
     }
 ]

@@ -418,5 +418,11 @@
         "major": "ECON",
         "room_num": "20247",
         "room_desc": "Women&Economic Power"
+    },
+    {
+        "school": "JJC01",
+        "major": "ECON",
+        "room_num": "87055",
+        "room_desc": "ECON"
     }
 ]

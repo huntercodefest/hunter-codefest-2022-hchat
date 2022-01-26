@@ -304,5 +304,11 @@
         "major": "EDCP",
         "room_num": "25544",
         "room_desc": "Wrkshp Current Issue"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDCP",
+        "room_num": "87541",
+        "room_desc": "EDCP"
     }
 ]

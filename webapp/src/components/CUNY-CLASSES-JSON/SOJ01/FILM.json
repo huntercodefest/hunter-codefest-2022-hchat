@@ -4,5 +4,11 @@
         "major": "FILM",
         "room_num": "80158",
         "room_desc": "Selected Topics: Film Studies"
+    },
+    {
+        "school": "SOJ01",
+        "major": "FILM",
+        "room_num": "87131",
+        "room_desc": "FILM"
     }
 ]

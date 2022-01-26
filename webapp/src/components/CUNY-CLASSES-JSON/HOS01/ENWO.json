@@ -46,5 +46,11 @@
         "major": "ENWO",
         "room_num": "64727",
         "room_desc": "Writing & Composition (WKSP)"
+    },
+    {
+        "school": "HOS01",
+        "major": "ENWO",
+        "room_num": "87840",
+        "room_desc": "ENWO"
     }
 ]

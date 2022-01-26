@@ -244,5 +244,11 @@
         "major": "PERM",
         "room_num": "42605",
         "room_desc": "U Permit 9 Cr"
+    },
+    {
+        "school": "CTY01",
+        "major": "PERM",
+        "room_num": "87922",
+        "room_desc": "PERM"
     }
 ]

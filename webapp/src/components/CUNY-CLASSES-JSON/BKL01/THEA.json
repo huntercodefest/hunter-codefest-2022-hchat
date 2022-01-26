@@ -1462,5 +1462,11 @@
         "major": "THEA",
         "room_num": "77664",
         "room_desc": "World Theater History IV"
+    },
+    {
+        "school": "BKL01",
+        "major": "THEA",
+        "room_num": "86995",
+        "room_desc": "THEA"
     }
 ]

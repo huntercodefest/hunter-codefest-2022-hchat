@@ -22,5 +22,11 @@
         "major": "HEBR",
         "room_num": "81943",
         "room_desc": "Elementary Hebrew II"
+    },
+    {
+        "school": "LAG01",
+        "major": "HEBR",
+        "room_num": "86715",
+        "room_desc": "HEBR"
     }
 ]

@@ -58,5 +58,11 @@
         "major": "EDOC",
         "room_num": "17831",
         "room_desc": "Trans & Finance"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDOC",
+        "room_num": "86856",
+        "room_desc": "EDOC"
     }
 ]

@@ -1228,5 +1228,11 @@
         "major": "SOCI",
         "room_num": "57551",
         "room_desc": "Youth and Adulthood"
+    },
+    {
+        "school": "HTR01",
+        "major": "SOCI",
+        "room_num": "87638",
+        "room_desc": "SOCI"
     }
 ]

@@ -184,5 +184,11 @@
         "major": "LACS",
         "room_num": "67464",
         "room_desc": "Women in Latin America"
+    },
+    {
+        "school": "NYT01",
+        "major": "LACS",
+        "room_num": "87147",
+        "room_desc": "LACS"
     }
 ]

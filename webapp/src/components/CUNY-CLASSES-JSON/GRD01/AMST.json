@@ -82,5 +82,11 @@
         "major": "AMST",
         "room_num": "263",
         "room_desc": "Roots Mass Culture"
+    },
+    {
+        "school": "GRD01",
+        "major": "AMST",
+        "room_num": "88343",
+        "room_desc": "AMST"
     }
 ]

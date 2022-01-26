@@ -34,5 +34,11 @@
         "major": "UNAS",
         "room_num": "77785",
         "room_desc": "Prof Option"
+    },
+    {
+        "school": "BKL01",
+        "major": "UNAS",
+        "room_num": "86944",
+        "room_desc": "UNAS"
     }
 ]

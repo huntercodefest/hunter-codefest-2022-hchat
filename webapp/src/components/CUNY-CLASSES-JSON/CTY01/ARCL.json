@@ -310,5 +310,11 @@
         "major": "ARCL",
         "room_num": "32131",
         "room_desc": "Visualizing Central Park"
+    },
+    {
+        "school": "CTY01",
+        "major": "ARCL",
+        "room_num": "87915",
+        "room_desc": "ARCL"
     }
 ]

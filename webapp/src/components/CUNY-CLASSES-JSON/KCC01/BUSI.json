@@ -106,5 +106,11 @@
         "major": "BUSI",
         "room_num": "62985",
         "room_desc": "Visual Merch and Display"
+    },
+    {
+        "school": "KCC01",
+        "major": "BUSI",
+        "room_num": "88514",
+        "room_desc": "BUSI"
     }
 ]

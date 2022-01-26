@@ -292,5 +292,11 @@
         "major": "ANTH",
         "room_num": "83153",
         "room_desc": "Women and Work"
+    },
+    {
+        "school": "CSI01",
+        "major": "ANTH",
+        "room_num": "88117",
+        "room_desc": "ANTH"
     }
 ]

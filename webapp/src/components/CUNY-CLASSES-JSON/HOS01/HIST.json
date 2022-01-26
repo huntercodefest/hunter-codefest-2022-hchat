@@ -76,5 +76,11 @@
         "major": "HIST",
         "room_num": "64794",
         "room_desc": "World History to 1500 (HONORS)"
+    },
+    {
+        "school": "HOS01",
+        "major": "HIST",
+        "room_num": "87772",
+        "room_desc": "HIST"
     }
 ]

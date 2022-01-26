@@ -202,5 +202,11 @@
         "major": "CHEM",
         "room_num": "68879",
         "room_desc": "Sustainability68880: CHEW,\"Chm 02 R Workshop"
+    },
+    {
+        "school": "BCC01",
+        "major": "CHEM",
+        "room_num": "87248",
+        "room_desc": "CHEM"
     }
 ]

@@ -426,5 +426,9 @@
     {
         "major": "ART",
         "path": "ART.json"
+    },
+    {
+        "major": "LEH01",
+        "path": "LEH01.json"
     }
 ]

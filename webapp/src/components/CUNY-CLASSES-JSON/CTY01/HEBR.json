@@ -178,5 +178,11 @@
         "major": "HEBR",
         "room_num": "39732",
         "room_desc": "The Talmud"
+    },
+    {
+        "school": "CTY01",
+        "major": "HEBR",
+        "room_num": "87936",
+        "room_desc": "HEBR"
     }
 ]

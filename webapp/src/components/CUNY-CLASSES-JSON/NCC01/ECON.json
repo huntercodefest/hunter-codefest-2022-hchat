@@ -28,5 +28,11 @@
         "major": "ECON",
         "room_num": "64224",
         "room_desc": "Microeconomics"
+    },
+    {
+        "school": "NCC01",
+        "major": "ECON",
+        "room_num": "86902",
+        "room_desc": "ECON"
     }
 ]

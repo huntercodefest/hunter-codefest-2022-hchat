@@ -94,5 +94,11 @@
         "major": "CHEM",
         "room_num": "17477",
         "room_desc": "Quantitative Analysis"
+    },
+    {
+        "school": "BMC01",
+        "major": "CHEM",
+        "room_num": "86784",
+        "room_desc": "CHEM"
     }
 ]

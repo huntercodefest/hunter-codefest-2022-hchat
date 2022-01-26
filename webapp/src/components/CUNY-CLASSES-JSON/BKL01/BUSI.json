@@ -502,5 +502,11 @@
         "major": "BUSI",
         "room_num": "70611",
         "room_desc": "Wkple Val&Happiness"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUSI",
+        "room_num": "86980",
+        "room_desc": "BUSI"
     }
 ]

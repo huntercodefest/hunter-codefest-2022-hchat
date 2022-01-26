@@ -118,5 +118,11 @@
         "major": "WEIU",
         "room_num": "45219",
         "room_desc": "Weighted Instructional Unit 04"
+    },
+    {
+        "school": "CTY01",
+        "major": "WEIU",
+        "room_num": "88001",
+        "room_desc": "WEIU"
     }
 ]

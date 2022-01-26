@@ -4,5 +4,11 @@
         "major": "MESG",
         "room_num": "13725",
         "room_desc": "RC_Math&Quant. Reasoning - SEP"
+    },
+    {
+        "school": "LEH01",
+        "major": "MESG",
+        "room_num": "88173",
+        "room_desc": "MESG"
     }
 ]

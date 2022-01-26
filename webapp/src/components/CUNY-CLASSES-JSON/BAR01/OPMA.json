@@ -100,5 +100,11 @@
         "major": "OPMA",
         "room_num": "61613",
         "room_desc": "Supply Chain Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "OPMA",
+        "room_num": "86605",
+        "room_desc": "OPMA"
     }
 ]

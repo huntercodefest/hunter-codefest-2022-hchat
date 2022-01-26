@@ -1126,5 +1126,11 @@
         "major": "EDSE",
         "room_num": "26068",
         "room_desc": "Wrkshp Art Edu Elem"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDSE",
+        "room_num": "87523",
+        "room_desc": "EDSE"
     }
 ]

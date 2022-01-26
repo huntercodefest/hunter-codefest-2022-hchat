@@ -148,5 +148,11 @@
         "major": "SOCI",
         "room_num": "19116",
         "room_desc": "Urban Sociology (Honors)"
+    },
+    {
+        "school": "BMC01",
+        "major": "SOCI",
+        "room_num": "86793",
+        "room_desc": "SOCI"
     }
 ]

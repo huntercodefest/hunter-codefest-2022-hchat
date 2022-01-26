@@ -16,5 +16,11 @@
         "major": "SCIE",
         "room_num": "65018",
         "room_desc": "Introduction to Science"
+    },
+    {
+        "school": "HOS01",
+        "major": "SCIE",
+        "room_num": "87798",
+        "room_desc": "SCIE"
     }
 ]

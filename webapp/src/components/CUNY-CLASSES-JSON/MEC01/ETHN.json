@@ -4,5 +4,11 @@
         "major": "ETHN",
         "room_num": "78726",
         "room_desc": "Black Philosophy"
+    },
+    {
+        "school": "MEC01",
+        "major": "ETHN",
+        "room_num": "88238",
+        "room_desc": "ETHN"
     }
 ]

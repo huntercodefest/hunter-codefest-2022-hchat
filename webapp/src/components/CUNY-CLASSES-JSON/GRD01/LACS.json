@@ -4,5 +4,11 @@
         "major": "LACS",
         "room_num": "6425",
         "room_desc": "Iss In Domin Studis"
+    },
+    {
+        "school": "GRD01",
+        "major": "LACS",
+        "room_num": "88336",
+        "room_desc": "LACS"
     }
 ]

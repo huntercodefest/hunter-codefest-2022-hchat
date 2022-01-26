@@ -306,5 +306,9 @@
     {
         "major": "ENWO",
         "path": "ENWO.json"
+    },
+    {
+        "major": "HOS01",
+        "path": "HOS01.json"
     }
 ]

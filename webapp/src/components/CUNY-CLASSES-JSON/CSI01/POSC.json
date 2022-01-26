@@ -550,5 +550,11 @@
         "major": "POSC",
         "room_num": "86182",
         "room_desc": "West Euro Pol"
+    },
+    {
+        "school": "CSI01",
+        "major": "POSC",
+        "room_num": "88092",
+        "room_desc": "POSC"
     }
 ]

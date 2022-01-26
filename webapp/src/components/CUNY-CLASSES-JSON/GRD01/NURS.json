@@ -184,5 +184,11 @@
         "major": "NURS",
         "room_num": "8216",
         "room_desc": "Stress/Gender Issue"
+    },
+    {
+        "school": "GRD01",
+        "major": "NURS",
+        "room_num": "88346",
+        "room_desc": "NURS"
     }
 ]

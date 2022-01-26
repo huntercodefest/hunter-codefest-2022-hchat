@@ -88,5 +88,11 @@
         "major": "HEAL",
         "room_num": "73728",
         "room_desc": "Pub Health and PYSED 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "HEAL",
+        "room_num": "86982",
+        "room_desc": "HEAL"
     }
 ]

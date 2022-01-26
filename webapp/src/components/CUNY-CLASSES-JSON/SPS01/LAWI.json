@@ -28,5 +28,11 @@
         "major": "LAWI",
         "room_num": "80754",
         "room_desc": "Naturalization and Citizenship"
+    },
+    {
+        "school": "SPS01",
+        "major": "LAWI",
+        "room_num": "87571",
+        "room_desc": "LAWI"
     }
 ]

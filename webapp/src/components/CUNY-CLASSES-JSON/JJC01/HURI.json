@@ -76,5 +76,11 @@
         "major": "HURI",
         "room_num": "20782",
         "room_desc": "Philosophy of Human Rights"
+    },
+    {
+        "school": "JJC01",
+        "major": "HURI",
+        "room_num": "87045",
+        "room_desc": "HURI"
     }
 ]

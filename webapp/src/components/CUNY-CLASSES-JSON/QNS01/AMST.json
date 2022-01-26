@@ -94,5 +94,11 @@
         "major": "AMST",
         "room_num": "23769",
         "room_desc": "Writing Workshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "AMST",
+        "room_num": "87433",
+        "room_desc": "AMST"
     }
 ]

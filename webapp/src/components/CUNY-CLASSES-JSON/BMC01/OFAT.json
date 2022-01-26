@@ -58,5 +58,11 @@
         "major": "OFAT",
         "room_num": "18816",
         "room_desc": "Text Processing III"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFAT",
+        "room_num": "86884",
+        "room_desc": "OFAT"
     }
 ]

@@ -754,5 +754,11 @@
         "major": "PUAD",
         "room_num": "21817",
         "room_desc": "Writing for Management"
+    },
+    {
+        "school": "JJC01",
+        "major": "PUAD",
+        "room_num": "87079",
+        "room_desc": "PUAD"
     }
 ]

@@ -40,5 +40,11 @@
         "major": "RUSS",
         "room_num": "82722",
         "room_desc": "Russian for Heritage Speakers"
+    },
+    {
+        "school": "LAG01",
+        "major": "RUSS",
+        "room_num": "86759",
+        "room_desc": "RUSS"
     }
 ]

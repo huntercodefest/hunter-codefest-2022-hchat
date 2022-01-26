@@ -526,5 +526,11 @@
         "major": "CHIN",
         "room_num": "47842",
         "room_desc": "Translation Commerial Affairs"
+    },
+    {
+        "school": "HTR01",
+        "major": "CHIN",
+        "room_num": "87710",
+        "room_desc": "CHIN"
     }
 ]

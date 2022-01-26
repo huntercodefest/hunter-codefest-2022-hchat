@@ -10,5 +10,11 @@
         "major": "AMST",
         "room_num": "64175",
         "room_desc": "Introduction to Social Justice"
+    },
+    {
+        "school": "NCC01",
+        "major": "AMST",
+        "room_num": "86898",
+        "room_desc": "AMST"
     }
 ]

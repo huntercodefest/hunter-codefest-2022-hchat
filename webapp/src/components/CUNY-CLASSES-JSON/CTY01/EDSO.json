@@ -28,5 +28,11 @@
         "major": "EDSO",
         "room_num": "36084",
         "room_desc": "The Metropolitan Community"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDSO",
+        "room_num": "87914",
+        "room_desc": "EDSO"
     }
 ]

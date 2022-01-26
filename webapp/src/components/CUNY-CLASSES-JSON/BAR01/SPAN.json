@@ -400,5 +400,11 @@
         "major": "SPAN",
         "room_num": "62518",
         "room_desc": "Translation Workshop"
+    },
+    {
+        "school": "BAR01",
+        "major": "SPAN",
+        "room_num": "86649",
+        "room_desc": "SPAN"
     }
 ]

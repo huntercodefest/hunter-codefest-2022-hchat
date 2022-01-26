@@ -754,5 +754,11 @@
         "major": "CMSC",
         "room_num": "24790",
         "room_desc": "WWW Programming"
+    },
+    {
+        "school": "QNS01",
+        "major": "CMSC",
+        "room_num": "87526",
+        "room_desc": "CMSC"
     }
 ]

@@ -16,5 +16,11 @@
         "major": "ONFI",
         "room_num": "55102",
         "room_desc": "On File-Graduation"
+    },
+    {
+        "school": "HTR01",
+        "major": "ONFI",
+        "room_num": "87715",
+        "room_desc": "ONFI"
     }
 ]

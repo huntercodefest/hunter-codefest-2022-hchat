@@ -70,5 +70,11 @@
         "major": "EDAC",
         "room_num": "25485",
         "room_desc": "Stud Hist Soc Sci"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDAC",
+        "room_num": "87525",
+        "room_desc": "EDAC"
     }
 ]

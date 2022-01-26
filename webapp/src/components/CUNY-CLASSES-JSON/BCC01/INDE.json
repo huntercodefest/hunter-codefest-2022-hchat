@@ -22,5 +22,11 @@
         "major": "INDE",
         "room_num": "69207",
         "room_desc": "Independent Study IV"
+    },
+    {
+        "school": "BCC01",
+        "major": "INDE",
+        "room_num": "87335",
+        "room_desc": "INDE"
     }
 ]

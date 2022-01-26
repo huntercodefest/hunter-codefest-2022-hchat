@@ -1522,5 +1522,11 @@
         "major": "POSC",
         "room_num": "9033",
         "room_desc": "Writing Politics Workshop"
+    },
+    {
+        "school": "GRD01",
+        "major": "POSC",
+        "room_num": "88426",
+        "room_desc": "POSC"
     }
 ]

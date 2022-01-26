@@ -226,5 +226,11 @@
         "major": "EDPU",
         "room_num": "88",
         "room_desc": "Topics in Public Health"
+    },
+    {
+        "school": "SPH01",
+        "major": "EDPU",
+        "room_num": "88326",
+        "room_desc": "EDPU"
     }
 ]

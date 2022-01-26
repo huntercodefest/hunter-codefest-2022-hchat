@@ -4,5 +4,11 @@
         "major": "EDEC",
         "room_num": "84036",
         "room_desc": "71  Ooo"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEC",
+        "room_num": "88063",
+        "room_desc": "EDEC"
     }
 ]

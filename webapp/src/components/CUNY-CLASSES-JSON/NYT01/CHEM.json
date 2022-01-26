@@ -382,5 +382,11 @@
         "major": "CHEM",
         "room_num": "65722",
         "room_desc": "Spectroscopy"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "87142",
+        "room_desc": "CHEM"
     }
 ]

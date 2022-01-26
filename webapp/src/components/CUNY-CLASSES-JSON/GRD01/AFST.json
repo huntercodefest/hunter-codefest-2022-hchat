@@ -22,5 +22,11 @@
         "major": "AFST",
         "room_num": "236",
         "room_desc": "Topics in Africana Studies"
+    },
+    {
+        "school": "GRD01",
+        "major": "AFST",
+        "room_num": "88417",
+        "room_desc": "AFST"
     }
 ]

@@ -160,5 +160,11 @@
         "major": "PERM",
         "room_num": "75539",
         "room_desc": "Permit Course II Credits"
+    },
+    {
+        "school": "BKL01",
+        "major": "PERM",
+        "room_num": "86935",
+        "room_desc": "PERM"
     }
 ]

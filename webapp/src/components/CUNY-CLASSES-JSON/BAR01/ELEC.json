@@ -4,5 +4,11 @@
         "major": "ELEC",
         "room_num": "60023",
         "room_desc": "Puerto Rico Initiative Credit"
+    },
+    {
+        "school": "BAR01",
+        "major": "ELEC",
+        "room_num": "86656",
+        "room_desc": "ELEC"
     }
 ]

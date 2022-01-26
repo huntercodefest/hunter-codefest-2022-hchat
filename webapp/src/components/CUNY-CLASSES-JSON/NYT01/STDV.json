@@ -64,5 +64,11 @@
         "major": "STDV",
         "room_num": "68677",
         "room_desc": "Studnt Servce Intern"
+    },
+    {
+        "school": "NYT01",
+        "major": "STDV",
+        "room_num": "87161",
+        "room_desc": "STDV"
     }
 ]

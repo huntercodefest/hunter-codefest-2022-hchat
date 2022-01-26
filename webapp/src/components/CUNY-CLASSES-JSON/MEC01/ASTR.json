@@ -40,5 +40,11 @@
         "major": "ASTR",
         "room_num": "78019",
         "room_desc": "Spec Topics In Space"
+    },
+    {
+        "school": "MEC01",
+        "major": "ASTR",
+        "room_num": "88248",
+        "room_desc": "ASTR"
     }
 ]

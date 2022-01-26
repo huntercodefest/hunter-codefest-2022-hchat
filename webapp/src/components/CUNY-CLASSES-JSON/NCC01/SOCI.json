@@ -28,5 +28,11 @@
         "major": "SOCI",
         "room_num": "64304",
         "room_desc": "Social Determinants of Health"
+    },
+    {
+        "school": "NCC01",
+        "major": "SOCI",
+        "room_num": "86897",
+        "room_desc": "SOCI"
     }
 ]

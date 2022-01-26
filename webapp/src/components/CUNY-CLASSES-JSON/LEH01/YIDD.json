@@ -52,5 +52,11 @@
         "major": "YIDD",
         "room_num": "15052",
         "room_desc": "Yiddish Lit In Trans"
+    },
+    {
+        "school": "LEH01",
+        "major": "YIDD",
+        "room_num": "88160",
+        "room_desc": "YIDD"
     }
 ]

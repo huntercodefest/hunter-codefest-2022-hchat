@@ -316,5 +316,11 @@
         "major": "OFTC",
         "room_num": "63856",
         "room_desc": "Word/Information Processing II"
+    },
+    {
+        "school": "KCC01",
+        "major": "OFTC",
+        "room_num": "88522",
+        "room_desc": "OFTC"
     }
 ]

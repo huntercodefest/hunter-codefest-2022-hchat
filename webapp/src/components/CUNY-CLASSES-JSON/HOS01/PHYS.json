@@ -46,5 +46,11 @@
         "major": "PHYS",
         "room_num": "64953",
         "room_desc": "Physics of Sound"
+    },
+    {
+        "school": "HOS01",
+        "major": "PHYS",
+        "room_num": "87780",
+        "room_desc": "PHYS"
     }
 ]

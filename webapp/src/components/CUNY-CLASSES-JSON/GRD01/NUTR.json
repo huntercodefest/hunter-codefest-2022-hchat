@@ -22,5 +22,11 @@
         "major": "NUTR",
         "room_num": "8220",
         "room_desc": "The Science of Foods"
+    },
+    {
+        "school": "GRD01",
+        "major": "NUTR",
+        "room_num": "88338",
+        "room_desc": "NUTR"
     }
 ]

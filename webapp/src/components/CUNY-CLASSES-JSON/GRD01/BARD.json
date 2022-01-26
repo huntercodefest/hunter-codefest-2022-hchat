@@ -94,5 +94,11 @@
         "major": "BARD",
         "room_num": "977",
         "room_desc": "Weaving Through the Past"
+    },
+    {
+        "school": "GRD01",
+        "major": "BARD",
+        "room_num": "88461",
+        "room_desc": "BARD"
     }
 ]

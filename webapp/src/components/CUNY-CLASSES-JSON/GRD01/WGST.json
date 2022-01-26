@@ -40,5 +40,11 @@
         "major": "WGST",
         "room_num": "10720",
         "room_desc": "Topics Women\u2019s/Gender Studies"
+    },
+    {
+        "school": "GRD01",
+        "major": "WGST",
+        "room_num": "88374",
+        "room_desc": "WGST"
     }
 ]

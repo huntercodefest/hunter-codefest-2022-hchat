@@ -16,5 +16,11 @@
         "major": "HOSE",
         "room_num": "81948",
         "room_desc": "Trans Border Control"
+    },
+    {
+        "school": "LAG01",
+        "major": "HOSE",
+        "room_num": "86779",
+        "room_desc": "HOSE"
     }
 ]

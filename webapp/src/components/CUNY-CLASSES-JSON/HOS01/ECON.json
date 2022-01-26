@@ -40,5 +40,11 @@
         "major": "ECON",
         "room_num": "64556",
         "room_desc": "The Economics Hum Re"
+    },
+    {
+        "school": "HOS01",
+        "major": "ECON",
+        "room_num": "87784",
+        "room_desc": "ECON"
     }
 ]

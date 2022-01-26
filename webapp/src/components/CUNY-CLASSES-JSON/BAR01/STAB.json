@@ -100,5 +100,11 @@
         "major": "STAB",
         "room_num": "62535",
         "room_desc": "Study Abroad/Noncuny"
+    },
+    {
+        "school": "BAR01",
+        "major": "STAB",
+        "room_num": "86620",
+        "room_desc": "STAB"
     }
 ]

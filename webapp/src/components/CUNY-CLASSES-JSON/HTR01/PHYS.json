@@ -634,5 +634,11 @@
         "major": "PHYS",
         "room_num": "55484",
         "room_desc": "Tutorial"
+    },
+    {
+        "school": "HTR01",
+        "major": "PHYS",
+        "room_num": "87646",
+        "room_desc": "PHYS"
     }
 ]

@@ -88,5 +88,11 @@
         "major": "PSYC",
         "room_num": "82654",
         "room_desc": "Social Psychology"
+    },
+    {
+        "school": "LAG01",
+        "major": "PSYC",
+        "room_num": "86692",
+        "room_desc": "PSYC"
     }
 ]

@@ -46,5 +46,11 @@
         "major": "ITAL",
         "room_num": "82060",
         "room_desc": "Social Themes Italian Lit"
+    },
+    {
+        "school": "LAG01",
+        "major": "ITAL",
+        "room_num": "86726",
+        "room_desc": "ITAL"
     }
 ]

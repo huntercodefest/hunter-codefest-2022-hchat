@@ -382,5 +382,11 @@
         "major": "EGSC",
         "room_num": "84451",
         "room_desc": "Transport Processes"
+    },
+    {
+        "school": "CSI01",
+        "major": "EGSC",
+        "room_num": "88076",
+        "room_desc": "EGSC"
     }
 ]

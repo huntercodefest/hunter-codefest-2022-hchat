@@ -22,5 +22,11 @@
         "major": "ARAB",
         "room_num": "68735",
         "room_desc": "Introduction to Arabic II"
+    },
+    {
+        "school": "BCC01",
+        "major": "ARAB",
+        "room_num": "87332",
+        "room_desc": "ARAB"
     }
 ]

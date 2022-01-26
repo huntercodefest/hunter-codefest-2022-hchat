@@ -22,5 +22,11 @@
         "major": "STAB",
         "room_num": "86544",
         "room_desc": "Study Aroad"
+    },
+    {
+        "school": "CSI01",
+        "major": "STAB",
+        "room_num": "88049",
+        "room_desc": "STAB"
     }
 ]

@@ -100,5 +100,11 @@
         "major": "SCIE",
         "room_num": "63986",
         "room_desc": "Science of Nutrition w/Lab"
+    },
+    {
+        "school": "KCC01",
+        "major": "SCIE",
+        "room_num": "88507",
+        "room_desc": "SCIE"
     }
 ]

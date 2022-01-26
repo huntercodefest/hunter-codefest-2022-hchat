@@ -226,5 +226,11 @@
         "major": "BUSI",
         "room_num": "17461",
         "room_desc": "Traffic Management"
+    },
+    {
+        "school": "BMC01",
+        "major": "BUSI",
+        "room_num": "86835",
+        "room_desc": "BUSI"
     }
 ]

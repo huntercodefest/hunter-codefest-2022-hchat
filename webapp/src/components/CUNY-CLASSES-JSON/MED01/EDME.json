@@ -340,5 +340,11 @@
         "major": "EDME",
         "room_num": "19329",
         "room_desc": "Surgery Clerkship"
+    },
+    {
+        "school": "MED01",
+        "major": "EDME",
+        "room_num": "87034",
+        "room_desc": "EDME"
     }
 ]

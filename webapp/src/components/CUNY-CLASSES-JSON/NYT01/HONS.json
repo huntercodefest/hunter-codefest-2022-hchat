@@ -118,5 +118,11 @@
         "major": "HONS",
         "room_num": "67360",
         "room_desc": "Western Exp:Soc Sci"
+    },
+    {
+        "school": "NYT01",
+        "major": "HONS",
+        "room_num": "87229",
+        "room_desc": "HONS"
     }
 ]

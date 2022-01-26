@@ -4,5 +4,11 @@
         "major": "LATI",
         "room_num": "20896",
         "room_desc": "Latin Tr Cred"
+    },
+    {
+        "school": "JJC01",
+        "major": "LATI",
+        "room_num": "87062",
+        "room_desc": "LATI"
     }
 ]

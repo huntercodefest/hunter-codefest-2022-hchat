@@ -706,5 +706,11 @@
         "major": "MEST",
         "room_num": "29053",
         "room_desc": "Youth Culture and Media"
+    },
+    {
+        "school": "QNS01",
+        "major": "MEST",
+        "room_num": "87438",
+        "room_desc": "MEST"
     }
 ]

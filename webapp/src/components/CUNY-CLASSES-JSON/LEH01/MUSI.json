@@ -760,5 +760,11 @@
         "major": "MUSI",
         "room_num": "13950",
         "room_desc": "World Music"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUSI",
+        "room_num": "88203",
+        "room_desc": "MUSI"
     }
 ]

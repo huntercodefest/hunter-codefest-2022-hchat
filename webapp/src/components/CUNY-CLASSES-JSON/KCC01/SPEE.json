@@ -154,5 +154,11 @@
         "major": "SPEE",
         "room_num": "64066",
         "room_desc": "Voice and Articulation"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPEE",
+        "room_num": "88529",
+        "room_desc": "SPEE"
     }
 ]

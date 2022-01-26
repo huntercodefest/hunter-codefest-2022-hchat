@@ -490,5 +490,11 @@
         "major": "ART",
         "room_num": "24015",
         "room_desc": "Woodcut Sp"
+    },
+    {
+        "school": "QNS01",
+        "major": "ART",
+        "room_num": "87542",
+        "room_desc": "ART"
     }
 ]

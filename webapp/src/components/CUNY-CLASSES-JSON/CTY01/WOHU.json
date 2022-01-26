@@ -70,5 +70,11 @@
         "major": "WOHU",
         "room_num": "45242",
         "room_desc": "Wrld Hum 2:Enlghten-Pres(HNRS)"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOHU",
+        "room_num": "87952",
+        "room_desc": "WOHU"
     }
 ]

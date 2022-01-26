@@ -10,5 +10,11 @@
         "major": "LADE",
         "room_num": "69239",
         "room_desc": "Landscape Design Theory"
+    },
+    {
+        "school": "BCC01",
+        "major": "LADE",
+        "room_num": "87301",
+        "room_desc": "LADE"
     }
 ]

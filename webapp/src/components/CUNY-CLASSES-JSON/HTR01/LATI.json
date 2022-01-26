@@ -280,5 +280,11 @@
         "major": "LATI",
         "room_num": "53819",
         "room_desc": "Vergil\u2019s Eclogues and Georgics"
+    },
+    {
+        "school": "HTR01",
+        "major": "LATI",
+        "room_num": "87662",
+        "room_desc": "LATI"
     }
 ]

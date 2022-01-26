@@ -358,5 +358,11 @@
         "major": "FORD",
         "room_num": "5471",
         "room_desc": "Tutorial:Phil Techn"
+    },
+    {
+        "school": "GRD01",
+        "major": "FORD",
+        "room_num": "88362",
+        "room_desc": "FORD"
     }
 ]

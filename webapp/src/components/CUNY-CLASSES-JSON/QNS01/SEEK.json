@@ -52,5 +52,11 @@
         "major": "SEEK",
         "room_num": "30465",
         "room_desc": "Student Life Workshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "SEEK",
+        "room_num": "87451",
+        "room_desc": "SEEK"
     }
 ]

@@ -40,5 +40,11 @@
         "major": "MESG",
         "room_num": "80835",
         "room_desc": "US Experience in Diversity"
+    },
+    {
+        "school": "SPS01",
+        "major": "MESG",
+        "room_num": "87573",
+        "room_desc": "MESG"
     }
 ]

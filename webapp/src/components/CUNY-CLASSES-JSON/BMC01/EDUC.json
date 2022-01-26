@@ -274,5 +274,11 @@
         "major": "EDUC",
         "room_num": "17950",
         "room_desc": "Voc Ed Psychology"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDUC",
+        "room_num": "86810",
+        "room_desc": "EDUC"
     }
 ]

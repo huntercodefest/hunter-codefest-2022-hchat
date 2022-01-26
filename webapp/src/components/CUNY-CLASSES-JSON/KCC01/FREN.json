@@ -58,5 +58,11 @@
         "major": "FREN",
         "room_num": "63481",
         "room_desc": "Intermediate French II"
+    },
+    {
+        "school": "KCC01",
+        "major": "FREN",
+        "room_num": "88534",
+        "room_desc": "FREN"
     }
 ]

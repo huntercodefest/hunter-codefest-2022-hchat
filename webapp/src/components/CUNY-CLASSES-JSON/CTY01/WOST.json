@@ -958,5 +958,11 @@
         "major": "WOST",
         "room_num": "45411",
         "room_desc": "Wtchcrft-Rel-Magic"
+    },
+    {
+        "school": "CTY01",
+        "major": "WOST",
+        "room_num": "88016",
+        "room_desc": "WOST"
     }
 ]

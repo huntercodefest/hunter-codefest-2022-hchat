@@ -28,5 +28,11 @@
         "major": "GLST",
         "room_num": "60471",
         "room_desc": "Special Topics-Global Studies"
+    },
+    {
+        "school": "BAR01",
+        "major": "GLST",
+        "room_num": "86625",
+        "room_desc": "GLST"
     }
 ]

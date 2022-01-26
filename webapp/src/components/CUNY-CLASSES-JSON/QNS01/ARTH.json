@@ -820,5 +820,11 @@
         "major": "ARTH",
         "room_num": "24154",
         "room_desc": "Vt:Renaiss/Mannerist"
+    },
+    {
+        "school": "QNS01",
+        "major": "ARTH",
+        "room_num": "87460",
+        "room_desc": "ARTH"
     }
 ]

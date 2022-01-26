@@ -58,5 +58,11 @@
         "major": "IAST",
         "room_num": "27960",
         "room_desc": "The Heritage of Italy\u2019s South"
+    },
+    {
+        "school": "QNS01",
+        "major": "IAST",
+        "room_num": "87457",
+        "room_desc": "IAST"
     }
 ]

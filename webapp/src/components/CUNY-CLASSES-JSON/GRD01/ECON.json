@@ -826,5 +826,11 @@
         "major": "ECON",
         "room_num": "4065",
         "room_desc": "Wkshp in Family Decision Proc"
+    },
+    {
+        "school": "GRD01",
+        "major": "ECON",
+        "room_num": "88360",
+        "room_desc": "ECON"
     }
 ]

@@ -58,5 +58,11 @@
         "major": "EGSC",
         "room_num": "63342",
         "room_desc": "Research IV"
+    },
+    {
+        "school": "KCC01",
+        "major": "EGSC",
+        "room_num": "88511",
+        "room_desc": "EGSC"
     }
 ]

@@ -622,5 +622,11 @@
         "major": "INTE",
         "room_num": "6386",
         "room_desc": "Wrkshop/Women Study"
+    },
+    {
+        "school": "GRD01",
+        "major": "INTE",
+        "room_num": "88385",
+        "room_desc": "INTE"
     }
 ]

@@ -124,5 +124,11 @@
         "major": "MEAS",
         "room_num": "6938",
         "room_desc": "Topics: Middle Eastern Studies"
+    },
+    {
+        "school": "GRD01",
+        "major": "MEAS",
+        "room_num": "88397",
+        "room_desc": "MEAS"
     }
 ]

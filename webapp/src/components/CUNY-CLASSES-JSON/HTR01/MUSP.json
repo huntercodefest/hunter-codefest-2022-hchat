@@ -514,5 +514,11 @@
         "major": "MUSP",
         "room_num": "54707",
         "room_desc": "Voice I"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSP",
+        "room_num": "87644",
+        "room_desc": "MUSP"
     }
 ]

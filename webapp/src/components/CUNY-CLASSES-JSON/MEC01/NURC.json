@@ -22,5 +22,11 @@
         "major": "NURC",
         "room_num": "79395",
         "room_desc": "Practical Nursing Skills Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "NURC",
+        "room_num": "88316",
+        "room_desc": "NURC"
     }
 ]

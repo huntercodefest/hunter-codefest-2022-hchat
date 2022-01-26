@@ -34,5 +34,11 @@
         "major": "EDMS",
         "room_num": "66302",
         "room_desc": "Tchg&Lrng Mth Mid Sh"
+    },
+    {
+        "school": "NYT01",
+        "major": "EDMS",
+        "room_num": "87223",
+        "room_desc": "EDMS"
     }
 ]

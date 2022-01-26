@@ -124,5 +124,11 @@
         "major": "HISA",
         "room_num": "13007",
         "room_desc": "Women in Antiquity"
+    },
+    {
+        "school": "LEH01",
+        "major": "HISA",
+        "room_num": "88227",
+        "room_desc": "HISA"
     }
 ]

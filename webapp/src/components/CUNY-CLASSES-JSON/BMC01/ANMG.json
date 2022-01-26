@@ -28,5 +28,11 @@
         "major": "ANMG",
         "room_num": "17198",
         "room_desc": "Introduction to Video Graphics"
+    },
+    {
+        "school": "BMC01",
+        "major": "ANMG",
+        "room_num": "86882",
+        "room_desc": "ANMG"
     }
 ]

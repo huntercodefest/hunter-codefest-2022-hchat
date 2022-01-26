@@ -34,5 +34,11 @@
         "major": "LACS",
         "room_num": "60799",
         "room_desc": "Latin American Jewish Women Wr"
+    },
+    {
+        "school": "BAR01",
+        "major": "LACS",
+        "room_num": "86604",
+        "room_desc": "LACS"
     }
 ]

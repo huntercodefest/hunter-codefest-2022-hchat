@@ -184,5 +184,11 @@
         "major": "EDSP",
         "room_num": "36115",
         "room_desc": "Working with the Families of C"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDSP",
+        "room_num": "87910",
+        "room_desc": "EDSP"
     }
 ]

@@ -706,5 +706,11 @@
         "major": "GEOL",
         "room_num": "73622",
         "room_desc": "Xray Diffract Anal"
+    },
+    {
+        "school": "BKL01",
+        "major": "GEOL",
+        "room_num": "86961",
+        "room_desc": "GEOL"
     }
 ]

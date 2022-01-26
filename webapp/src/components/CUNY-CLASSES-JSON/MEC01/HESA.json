@@ -28,5 +28,11 @@
         "major": "HESA",
         "room_num": "78812",
         "room_desc": "Prin Hlth Serv Admin"
+    },
+    {
+        "school": "MEC01",
+        "major": "HESA",
+        "room_num": "88263",
+        "room_desc": "HESA"
     }
 ]

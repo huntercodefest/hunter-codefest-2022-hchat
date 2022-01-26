@@ -64,5 +64,11 @@
         "major": "CMIS",
         "room_num": "33786",
         "room_desc": "Trends in Information Techno"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMIS",
+        "room_num": "88011",
+        "room_desc": "CMIS"
     }
 ]

@@ -28,5 +28,11 @@
         "major": "SPAN",
         "room_num": "81034",
         "room_desc": "Spanish for Health Professions"
+    },
+    {
+        "school": "SPS01",
+        "major": "SPAN",
+        "room_num": "87592",
+        "room_desc": "SPAN"
     }
 ]

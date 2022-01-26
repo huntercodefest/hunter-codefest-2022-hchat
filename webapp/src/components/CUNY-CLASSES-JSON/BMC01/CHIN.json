@@ -70,5 +70,11 @@
         "major": "CHIN",
         "room_num": "17489",
         "room_desc": "Lit17490: CHIN,\"Modern Chinese Film"
+    },
+    {
+        "school": "BMC01",
+        "major": "CHIN",
+        "room_num": "86848",
+        "room_desc": "CHIN"
     }
 ]

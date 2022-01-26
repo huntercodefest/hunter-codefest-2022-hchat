@@ -4,5 +4,11 @@
         "major": "AFST",
         "room_num": "80317",
         "room_desc": "Anthropology  of Africa"
+    },
+    {
+        "school": "SPS01",
+        "major": "AFST",
+        "room_num": "87590",
+        "room_desc": "AFST"
     }
 ]

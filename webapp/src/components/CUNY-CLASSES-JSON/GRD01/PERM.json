@@ -124,5 +124,11 @@
         "major": "PERM",
         "room_num": "8241",
         "room_desc": "York College"
+    },
+    {
+        "school": "GRD01",
+        "major": "PERM",
+        "room_num": "88348",
+        "room_desc": "PERM"
     }
 ]

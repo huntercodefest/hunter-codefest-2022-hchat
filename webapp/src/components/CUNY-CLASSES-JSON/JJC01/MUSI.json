@@ -184,5 +184,11 @@
         "major": "MUSI",
         "room_num": "21180",
         "room_desc": "Vocal Technique"
+    },
+    {
+        "school": "JJC01",
+        "major": "MUSI",
+        "room_num": "87104",
+        "room_desc": "MUSI"
     }
 ]

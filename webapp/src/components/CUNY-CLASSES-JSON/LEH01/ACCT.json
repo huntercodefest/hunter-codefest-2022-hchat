@@ -178,5 +178,11 @@
         "major": "ACCT",
         "room_num": "10769",
         "room_desc": "Taxation of Business Entities"
+    },
+    {
+        "school": "LEH01",
+        "major": "ACCT",
+        "room_num": "88192",
+        "room_desc": "ACCT"
     }
 ]

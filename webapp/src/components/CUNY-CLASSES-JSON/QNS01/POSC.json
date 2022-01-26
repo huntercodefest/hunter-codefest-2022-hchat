@@ -1618,5 +1618,11 @@
         "major": "POSC",
         "room_num": "30101",
         "room_desc": "X-Pol Of Sports"
+    },
+    {
+        "school": "QNS01",
+        "major": "POSC",
+        "room_num": "87498",
+        "room_desc": "POSC"
     }
 ]

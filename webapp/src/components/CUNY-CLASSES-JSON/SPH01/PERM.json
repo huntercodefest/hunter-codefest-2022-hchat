@@ -22,5 +22,11 @@
         "major": "PERM",
         "room_num": "197",
         "room_desc": "Permit Course-Graduate"
+    },
+    {
+        "school": "SPH01",
+        "major": "PERM",
+        "room_num": "88320",
+        "room_desc": "PERM"
     }
 ]

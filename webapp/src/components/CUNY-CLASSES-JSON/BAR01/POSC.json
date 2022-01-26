@@ -490,5 +490,11 @@
         "major": "POSC",
         "room_num": "61850",
         "room_desc": "Women: Politics and Policy"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "86651",
+        "room_desc": "POSC"
     }
 ]

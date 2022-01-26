@@ -130,5 +130,11 @@
         "major": "INST",
         "room_num": "85275",
         "room_desc": "The Israel-Palestine Conflict"
+    },
+    {
+        "school": "CSI01",
+        "major": "INST",
+        "room_num": "88104",
+        "room_desc": "INST"
     }
 ]

@@ -64,5 +64,11 @@
         "major": "READ",
         "room_num": "69479",
         "room_desc": "Reading:Technologies"
+    },
+    {
+        "school": "BCC01",
+        "major": "READ",
+        "room_num": "87339",
+        "room_desc": "READ"
     }
 ]

@@ -184,5 +184,11 @@
         "major": "STAB",
         "room_num": "30885",
         "room_desc": "Study Abroad/Non-CUNY"
+    },
+    {
+        "school": "QNS01",
+        "major": "STAB",
+        "room_num": "87449",
+        "room_desc": "STAB"
     }
 ]

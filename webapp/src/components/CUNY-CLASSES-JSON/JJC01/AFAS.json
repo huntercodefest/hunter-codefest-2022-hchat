@@ -4,5 +4,11 @@
         "major": "AFAS",
         "room_num": "19396",
         "room_desc": "African-American Theatre"
+    },
+    {
+        "school": "JJC01",
+        "major": "AFAS",
+        "room_num": "87120",
+        "room_desc": "AFAS"
     }
 ]

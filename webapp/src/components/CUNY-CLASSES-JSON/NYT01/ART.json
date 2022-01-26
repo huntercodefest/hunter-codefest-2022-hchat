@@ -454,5 +454,11 @@
         "major": "ART",
         "room_num": "65429",
         "room_desc": "Women and the Fine Arts"
+    },
+    {
+        "school": "NYT01",
+        "major": "ART",
+        "room_num": "87246",
+        "room_desc": "ART"
     }
 ]

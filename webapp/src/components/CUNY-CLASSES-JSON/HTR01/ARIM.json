@@ -1060,5 +1060,11 @@
         "major": "ARIM",
         "room_num": "46517",
         "room_desc": "Working with Non-Pro Actors"
+    },
+    {
+        "school": "HTR01",
+        "major": "ARIM",
+        "room_num": "87656",
+        "room_desc": "ARIM"
     }
 ]

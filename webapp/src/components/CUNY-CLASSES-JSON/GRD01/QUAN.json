@@ -484,5 +484,11 @@
         "major": "QUAN",
         "room_num": "9765",
         "room_desc": "Varian Regression"
+    },
+    {
+        "school": "GRD01",
+        "major": "QUAN",
+        "room_num": "88359",
+        "room_desc": "QUAN"
     }
 ]

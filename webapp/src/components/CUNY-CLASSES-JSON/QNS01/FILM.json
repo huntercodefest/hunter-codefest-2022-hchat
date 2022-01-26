@@ -28,5 +28,11 @@
         "major": "FILM",
         "room_num": "26918",
         "room_desc": "Vt:Special Topics"
+    },
+    {
+        "school": "QNS01",
+        "major": "FILM",
+        "room_num": "87442",
+        "room_desc": "FILM"
     }
 ]

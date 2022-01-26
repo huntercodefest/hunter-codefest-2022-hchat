@@ -868,5 +868,11 @@
         "major": "BIOL",
         "room_num": "65600",
         "room_desc": "Vertebrate Zoology"
+    },
+    {
+        "school": "NYT01",
+        "major": "BIOL",
+        "room_num": "87200",
+        "room_desc": "BIOL"
     }
 ]

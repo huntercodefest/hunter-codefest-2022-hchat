@@ -40,5 +40,11 @@
         "major": "TELE",
         "room_num": "80135",
         "room_desc": "Siglng & Trnsmn Thry"
+    },
+    {
+        "school": "MEC01",
+        "major": "TELE",
+        "room_num": "88309",
+        "room_desc": "TELE"
     }
 ]

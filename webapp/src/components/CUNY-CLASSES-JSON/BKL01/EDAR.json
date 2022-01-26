@@ -352,5 +352,11 @@
         "major": "EDAR",
         "room_num": "71787",
         "room_desc": "YC with Emotion/Behavior Prob"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDAR",
+        "room_num": "87019",
+        "room_desc": "EDAR"
     }
 ]

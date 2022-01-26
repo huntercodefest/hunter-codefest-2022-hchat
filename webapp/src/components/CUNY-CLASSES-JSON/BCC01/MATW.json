@@ -46,5 +46,11 @@
         "major": "MATW",
         "room_num": "69313",
         "room_desc": "Math Workshop XII"
+    },
+    {
+        "school": "BCC01",
+        "major": "MATW",
+        "room_num": "87289",
+        "room_desc": "MATW"
     }
 ]

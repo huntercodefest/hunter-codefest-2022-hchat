@@ -268,5 +268,11 @@
         "major": "GERM",
         "room_num": "73667",
         "room_desc": "Wrtg Resch & Resorce"
+    },
+    {
+        "school": "BKL01",
+        "major": "GERM",
+        "room_num": "86970",
+        "room_desc": "GERM"
     }
 ]

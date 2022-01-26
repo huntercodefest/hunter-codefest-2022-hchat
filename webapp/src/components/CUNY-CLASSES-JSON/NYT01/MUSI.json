@@ -766,5 +766,11 @@
         "major": "MUSI",
         "room_num": "67923",
         "room_desc": "World Music"
+    },
+    {
+        "school": "NYT01",
+        "major": "MUSI",
+        "room_num": "87216",
+        "room_desc": "MUSI"
     }
 ]

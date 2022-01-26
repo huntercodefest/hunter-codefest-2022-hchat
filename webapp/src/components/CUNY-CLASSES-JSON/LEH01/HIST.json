@@ -286,5 +286,11 @@
         "major": "HIST",
         "room_num": "13099",
         "room_desc": "World Revolutions"
+    },
+    {
+        "school": "LEH01",
+        "major": "HIST",
+        "room_num": "88139",
+        "room_desc": "HIST"
     }
 ]

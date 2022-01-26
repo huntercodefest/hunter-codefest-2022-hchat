@@ -52,5 +52,11 @@
         "major": "HUSE",
         "room_num": "64257",
         "room_desc": "Special Topics Fields of Pract"
+    },
+    {
+        "school": "NCC01",
+        "major": "HUSE",
+        "room_num": "86906",
+        "room_desc": "HUSE"
     }
 ]

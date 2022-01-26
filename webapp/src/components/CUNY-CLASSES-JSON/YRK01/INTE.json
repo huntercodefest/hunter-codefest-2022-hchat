@@ -10,5 +10,11 @@
         "major": "INTE",
         "room_num": "16238",
         "room_desc": "Waive Core Req."
+    },
+    {
+        "school": "YRK01",
+        "major": "INTE",
+        "room_num": "87378",
+        "room_desc": "INTE"
     }
 ]

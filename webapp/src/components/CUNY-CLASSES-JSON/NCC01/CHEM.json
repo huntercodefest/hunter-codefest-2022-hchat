@@ -28,5 +28,11 @@
         "major": "CHEM",
         "room_num": "64205",
         "room_desc": "Introduction to Chemistry"
+    },
+    {
+        "school": "NCC01",
+        "major": "CHEM",
+        "room_num": "86891",
+        "room_desc": "CHEM"
     }
 ]

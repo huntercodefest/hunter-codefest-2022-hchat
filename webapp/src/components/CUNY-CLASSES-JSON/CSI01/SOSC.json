@@ -10,5 +10,11 @@
         "major": "SOSC",
         "room_num": "86410",
         "room_desc": "Independent Study"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOSC",
+        "room_num": "88114",
+        "room_desc": "SOSC"
     }
 ]

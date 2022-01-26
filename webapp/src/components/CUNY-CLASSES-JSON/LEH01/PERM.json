@@ -364,5 +364,11 @@
         "major": "PERM",
         "room_num": "14097",
         "room_desc": "VI Grad Credits. By Department"
+    },
+    {
+        "school": "LEH01",
+        "major": "PERM",
+        "room_num": "88144",
+        "room_desc": "PERM"
     }
 ]

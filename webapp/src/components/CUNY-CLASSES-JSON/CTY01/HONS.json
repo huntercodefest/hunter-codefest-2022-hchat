@@ -22,5 +22,11 @@
         "major": "HONS",
         "room_num": "40698",
         "room_desc": "The Peopling Of NYC"
+    },
+    {
+        "school": "CTY01",
+        "major": "HONS",
+        "room_num": "88010",
+        "room_desc": "HONS"
     }
 ]

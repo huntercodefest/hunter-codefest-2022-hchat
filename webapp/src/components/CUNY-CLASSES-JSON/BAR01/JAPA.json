@@ -58,5 +58,11 @@
         "major": "JAPA",
         "room_num": "60715",
         "room_desc": "Japanese for Global Markets"
+    },
+    {
+        "school": "BAR01",
+        "major": "JAPA",
+        "room_num": "86660",
+        "room_desc": "JAPA"
     }
 ]

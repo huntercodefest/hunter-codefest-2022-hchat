@@ -1408,5 +1408,11 @@
         "major": "GEOG",
         "room_num": "51968",
         "room_desc": "World Regions Global Context"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOG",
+        "room_num": "87625",
+        "room_desc": "GEOG"
     }
 ]

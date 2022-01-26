@@ -466,5 +466,11 @@
         "major": "NURS",
         "room_num": "14036",
         "room_desc": "Ways of Knowing in Nursing"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "88143",
+        "room_desc": "NURS"
     }
 ]

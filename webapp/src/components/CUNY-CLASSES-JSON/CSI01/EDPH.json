@@ -22,5 +22,11 @@
         "major": "EDPH",
         "room_num": "84185",
         "room_desc": "Weight Training"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDPH",
+        "room_num": "88102",
+        "room_desc": "EDPH"
     }
 ]

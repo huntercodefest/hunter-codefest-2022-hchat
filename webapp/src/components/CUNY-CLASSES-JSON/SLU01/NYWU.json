@@ -10,5 +10,11 @@
         "major": "NYWU",
         "room_num": "15105",
         "room_desc": "Worker Health and Safety"
+    },
+    {
+        "school": "SLU01",
+        "major": "NYWU",
+        "room_num": "87619",
+        "room_desc": "NYWU"
     }
 ]

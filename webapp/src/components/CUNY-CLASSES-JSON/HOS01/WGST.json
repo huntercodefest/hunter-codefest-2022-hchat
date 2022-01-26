@@ -52,5 +52,11 @@
         "major": "WGST",
         "room_num": "65069",
         "room_desc": "Women\u2019s and Gender Studies"
+    },
+    {
+        "school": "HOS01",
+        "major": "WGST",
+        "room_num": "87793",
+        "room_desc": "WGST"
     }
 ]

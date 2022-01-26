@@ -100,5 +100,11 @@
         "major": "CUBA",
         "room_num": "48471",
         "room_desc": "CUNY BA - 9 Credits"
+    },
+    {
+        "school": "HTR01",
+        "major": "CUBA",
+        "room_num": "87718",
+        "room_desc": "CUBA"
     }
 ]

@@ -238,5 +238,11 @@
         "major": "CMSC",
         "room_num": "78286",
         "room_desc": "Unix System Programming"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMSC",
+        "room_num": "88303",
+        "room_desc": "CMSC"
     }
 ]

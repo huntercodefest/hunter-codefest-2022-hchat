@@ -154,5 +154,11 @@
         "major": "SPAN",
         "room_num": "65053",
         "room_desc": "The Golden Age"
+    },
+    {
+        "school": "HOS01",
+        "major": "SPAN",
+        "room_num": "87812",
+        "room_desc": "SPAN"
     }
 ]

@@ -640,5 +640,11 @@
         "major": "LACS",
         "room_num": "53756",
         "room_desc": "Womn Rev Social Cuba"
+    },
+    {
+        "school": "HTR01",
+        "major": "LACS",
+        "room_num": "87630",
+        "room_desc": "LACS"
     }
 ]

@@ -22,5 +22,11 @@
         "major": "SPEE",
         "room_num": "30854",
         "room_desc": "Speech Fundamentals"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPEE",
+        "room_num": "87502",
+        "room_desc": "SPEE"
     }
 ]

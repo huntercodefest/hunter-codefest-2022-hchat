@@ -64,5 +64,11 @@
         "major": "WGST",
         "room_num": "31161",
         "room_desc": "Vt: Selected Topics"
+    },
+    {
+        "school": "QNS01",
+        "major": "WGST",
+        "room_num": "87459",
+        "room_desc": "WGST"
     }
 ]

@@ -40,5 +40,11 @@
         "major": "BOTA",
         "room_num": "68828",
         "room_desc": "Spring Trees/Shrubs"
+    },
+    {
+        "school": "BCC01",
+        "major": "BOTA",
+        "room_num": "87322",
+        "room_desc": "BOTA"
     }
 ]

@@ -10,5 +10,11 @@
         "major": "FROR",
         "room_num": "51656",
         "room_desc": "First Year Seminar"
+    },
+    {
+        "school": "HTR01",
+        "major": "FROR",
+        "room_num": "87666",
+        "room_desc": "FROR"
     }
 ]

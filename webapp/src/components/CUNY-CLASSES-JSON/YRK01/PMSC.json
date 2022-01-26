@@ -178,5 +178,11 @@
         "major": "PMSC",
         "room_num": "16706",
         "room_desc": "Writing and Sub of Reg Appl"
+    },
+    {
+        "school": "YRK01",
+        "major": "PMSC",
+        "room_num": "87347",
+        "room_desc": "PMSC"
     }
 ]

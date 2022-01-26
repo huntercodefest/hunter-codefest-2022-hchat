@@ -10,5 +10,11 @@
         "major": "THEA",
         "room_num": "69530",
         "room_desc": "Introduction to Theatre"
+    },
+    {
+        "school": "BCC01",
+        "major": "THEA",
+        "room_num": "87316",
+        "room_desc": "THEA"
     }
 ]

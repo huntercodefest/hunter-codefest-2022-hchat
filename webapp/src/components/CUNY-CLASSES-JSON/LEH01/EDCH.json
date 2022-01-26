@@ -52,5 +52,11 @@
         "major": "EDCH",
         "room_num": "11752",
         "room_desc": "Suprv Student Tchng Grds 1-6"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDCH",
+        "room_num": "88215",
+        "room_desc": "EDCH"
     }
 ]

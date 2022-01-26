@@ -544,5 +544,11 @@
         "major": "HIST",
         "room_num": "20725",
         "room_desc": "Violence&Soc Chng"
+    },
+    {
+        "school": "JJC01",
+        "major": "HIST",
+        "room_num": "87044",
+        "room_desc": "HIST"
     }
 ]

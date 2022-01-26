@@ -190,5 +190,11 @@
         "major": "GERM",
         "room_num": "39684",
         "room_desc": "Thomas Mann"
+    },
+    {
+        "school": "CTY01",
+        "major": "GERM",
+        "room_num": "87959",
+        "room_desc": "GERM"
     }
 ]

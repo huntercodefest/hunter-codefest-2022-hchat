@@ -1150,5 +1150,11 @@
         "major": "EDUC",
         "room_num": "26260",
         "room_desc": "Wksp Sec Ed: Tesl"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDUC",
+        "room_num": "87448",
+        "room_desc": "EDUC"
     }
 ]

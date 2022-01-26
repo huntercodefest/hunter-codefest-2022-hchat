@@ -442,5 +442,11 @@
         "major": "SOWO",
         "room_num": "86484",
         "room_desc": "Writing in Human Services"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "88059",
+        "room_desc": "SOWO"
     }
 ]

@@ -130,5 +130,11 @@
         "major": "ANCU",
         "room_num": "10866",
         "room_desc": "Women in Antiquity"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANCU",
+        "room_num": "88176",
+        "room_desc": "ANCU"
     }
 ]

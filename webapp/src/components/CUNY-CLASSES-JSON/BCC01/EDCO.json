@@ -34,5 +34,11 @@
         "major": "EDCO",
         "room_num": "68963",
         "room_desc": "Cooperative Work Experience II"
+    },
+    {
+        "school": "BCC01",
+        "major": "EDCO",
+        "room_num": "87266",
+        "room_desc": "EDCO"
     }
 ]

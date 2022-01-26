@@ -466,5 +466,11 @@
         "major": "MATH",
         "room_num": "21145",
         "room_desc": "Systems Analysis and Design"
+    },
+    {
+        "school": "JJC01",
+        "major": "MATH",
+        "room_num": "87113",
+        "room_desc": "MATH"
     }
 ]

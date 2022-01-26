@@ -106,5 +106,11 @@
         "major": "UBST",
         "room_num": "82933",
         "room_desc": "World Langs. &  New York"
+    },
+    {
+        "school": "LAG01",
+        "major": "UBST",
+        "room_num": "86702",
+        "room_desc": "UBST"
     }
 ]

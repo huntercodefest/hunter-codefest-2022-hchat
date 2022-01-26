@@ -286,5 +286,11 @@
         "major": "GEOL",
         "room_num": "12718",
         "room_desc": "X-ray Crystallography"
+    },
+    {
+        "school": "LEH01",
+        "major": "GEOL",
+        "room_num": "88170",
+        "room_desc": "GEOL"
     }
 ]

@@ -16,5 +16,11 @@
         "major": "BUAV",
         "room_num": "81383",
         "room_desc": "Intro Aviation Oper"
+    },
+    {
+        "school": "LAG01",
+        "major": "BUAV",
+        "room_num": "86764",
+        "room_desc": "BUAV"
     }
 ]

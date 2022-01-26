@@ -316,5 +316,11 @@
         "major": "PHIL",
         "room_num": "21264",
         "room_desc": "Visions of American Pluralism"
+    },
+    {
+        "school": "JJC01",
+        "major": "PHIL",
+        "room_num": "87111",
+        "room_desc": "PHIL"
     }
 ]

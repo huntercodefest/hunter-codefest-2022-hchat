@@ -352,5 +352,11 @@
         "major": "SCIE",
         "room_num": "76604",
         "room_desc": "Water"
+    },
+    {
+        "school": "BKL01",
+        "major": "SCIE",
+        "room_num": "86967",
+        "room_desc": "SCIE"
     }
 ]

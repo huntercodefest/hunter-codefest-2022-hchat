@@ -28,5 +28,11 @@
         "major": "REES",
         "room_num": "9770",
         "room_desc": "Real Estate Resch & Project"
+    },
+    {
+        "school": "GRD01",
+        "major": "REES",
+        "room_num": "88399",
+        "room_desc": "REES"
     }
 ]

@@ -184,5 +184,11 @@
         "major": "CHEM",
         "room_num": "22435",
         "room_desc": "Organic Chemistry II"
+    },
+    {
+        "school": "QCC01",
+        "major": "CHEM",
+        "room_num": "87843",
+        "room_desc": "CHEM"
     }
 ]

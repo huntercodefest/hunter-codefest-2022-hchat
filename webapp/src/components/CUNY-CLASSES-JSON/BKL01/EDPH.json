@@ -28,5 +28,11 @@
         "major": "EDPH",
         "room_num": "72011",
         "room_desc": "Ped Modified 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDPH",
+        "room_num": "87002",
+        "room_desc": "EDPH"
     }
 ]

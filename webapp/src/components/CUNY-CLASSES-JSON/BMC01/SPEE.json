@@ -70,5 +70,11 @@
         "major": "SPEE",
         "room_num": "19214",
         "room_desc": "Voice and Diction"
+    },
+    {
+        "school": "BMC01",
+        "major": "SPEE",
+        "room_num": "86855",
+        "room_desc": "SPEE"
     }
 ]

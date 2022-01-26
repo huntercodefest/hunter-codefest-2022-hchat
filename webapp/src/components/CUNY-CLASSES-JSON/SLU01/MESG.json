@@ -10,5 +10,11 @@
         "major": "MESG",
         "room_num": "15103",
         "room_desc": "U.S. Experiences in Its Divers"
+    },
+    {
+        "school": "SLU01",
+        "major": "MESG",
+        "room_num": "87617",
+        "room_desc": "MESG"
     }
 ]

@@ -514,5 +514,11 @@
         "major": "CLAS",
         "room_num": "70986",
         "room_desc": "Tyrny70987: CLAS,\"Vocabulary Bldg"
+    },
+    {
+        "school": "BKL01",
+        "major": "CLAS",
+        "room_num": "87015",
+        "room_desc": "CLAS"
     }
 ]

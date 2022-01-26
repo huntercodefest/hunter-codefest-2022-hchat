@@ -808,5 +808,11 @@
         "major": "CMSC",
         "room_num": "83831",
         "room_desc": "Web Database Applications"
+    },
+    {
+        "school": "CSI01",
+        "major": "CMSC",
+        "room_num": "88112",
+        "room_desc": "CMSC"
     }
 ]

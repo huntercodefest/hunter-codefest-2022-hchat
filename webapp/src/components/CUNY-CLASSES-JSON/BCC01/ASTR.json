@@ -16,5 +16,11 @@
         "major": "ASTR",
         "room_num": "68776",
         "room_desc": "Stellar Astronomy"
+    },
+    {
+        "school": "BCC01",
+        "major": "ASTR",
+        "room_num": "87261",
+        "room_desc": "ASTR"
     }
 ]

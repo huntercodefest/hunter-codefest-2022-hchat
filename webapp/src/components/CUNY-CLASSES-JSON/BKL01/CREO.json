@@ -22,5 +22,11 @@
         "major": "CREO",
         "room_num": "71351",
         "room_desc": "Special Topics"
+    },
+    {
+        "school": "BKL01",
+        "major": "CREO",
+        "room_num": "86974",
+        "room_desc": "CREO"
     }
 ]

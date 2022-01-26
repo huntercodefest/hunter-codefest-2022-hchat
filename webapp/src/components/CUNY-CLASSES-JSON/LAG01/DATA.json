@@ -76,5 +76,11 @@
         "major": "DATA",
         "room_num": "81653",
         "room_desc": "Systems Analysis & Design"
+    },
+    {
+        "school": "LAG01",
+        "major": "DATA",
+        "room_num": "86778",
+        "room_desc": "DATA"
     }
 ]

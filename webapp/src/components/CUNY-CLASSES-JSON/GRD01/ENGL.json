@@ -2014,5 +2014,11 @@
         "major": "ENGL",
         "room_num": "5336",
         "room_desc": "Zora Neal Hurston"
+    },
+    {
+        "school": "GRD01",
+        "major": "ENGL",
+        "room_num": "88334",
+        "room_desc": "ENGL"
     }
 ]

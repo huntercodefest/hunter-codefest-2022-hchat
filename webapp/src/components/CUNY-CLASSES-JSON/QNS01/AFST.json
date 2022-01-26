@@ -52,5 +52,11 @@
         "major": "AFST",
         "room_num": "23753",
         "room_desc": "The Black Urban Experience"
+    },
+    {
+        "school": "QNS01",
+        "major": "AFST",
+        "room_num": "87492",
+        "room_desc": "AFST"
     }
 ]

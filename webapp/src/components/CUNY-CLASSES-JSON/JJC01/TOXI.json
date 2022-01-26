@@ -88,5 +88,11 @@
         "major": "TOXI",
         "room_num": "22149",
         "room_desc": "ndependent Study 200-level"
+    },
+    {
+        "school": "JJC01",
+        "major": "TOXI",
+        "room_num": "87069",
+        "room_desc": "TOXI"
     }
 ]

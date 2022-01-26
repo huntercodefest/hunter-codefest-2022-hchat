@@ -556,5 +556,11 @@
         "major": "ITAL",
         "room_num": "74535",
         "room_desc": "Wrtg Resch & Resorce"
+    },
+    {
+        "school": "BKL01",
+        "major": "ITAL",
+        "room_num": "86966",
+        "room_desc": "ITAL"
     }
 ]

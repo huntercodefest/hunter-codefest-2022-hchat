@@ -118,5 +118,11 @@
         "major": "BLST",
         "room_num": "64411",
         "room_desc": "The Harlem Renaissance"
+    },
+    {
+        "school": "HOS01",
+        "major": "BLST",
+        "room_num": "87814",
+        "room_desc": "BLST"
     }
 ]

@@ -502,5 +502,11 @@
         "major": "ITAL",
         "room_num": "28387",
         "room_desc": "Vt:Ren Lit III:Prose"
+    },
+    {
+        "school": "QNS01",
+        "major": "ITAL",
+        "room_num": "87469",
+        "room_desc": "ITAL"
     }
 ]

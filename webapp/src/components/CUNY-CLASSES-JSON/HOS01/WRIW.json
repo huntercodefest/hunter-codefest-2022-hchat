@@ -10,5 +10,11 @@
         "major": "WRIW",
         "room_num": "65076",
         "room_desc": "Writing Workshop - Repeaters"
+    },
+    {
+        "school": "HOS01",
+        "major": "WRIW",
+        "room_num": "87824",
+        "room_desc": "WRIW"
     }
 ]

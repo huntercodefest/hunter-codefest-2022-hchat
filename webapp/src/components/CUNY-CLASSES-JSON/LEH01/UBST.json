@@ -10,5 +10,11 @@
         "major": "UBST",
         "room_num": "14950",
         "room_desc": "Urban Studies Seminar"
+    },
+    {
+        "school": "LEH01",
+        "major": "UBST",
+        "room_num": "88147",
+        "room_desc": "UBST"
     }
 ]

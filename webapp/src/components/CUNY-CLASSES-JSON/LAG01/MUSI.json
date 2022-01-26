@@ -244,5 +244,11 @@
         "major": "MUSI",
         "room_num": "82397",
         "room_desc": "World Music"
+    },
+    {
+        "school": "LAG01",
+        "major": "MUSI",
+        "room_num": "86755",
+        "room_desc": "MUSI"
     }
 ]

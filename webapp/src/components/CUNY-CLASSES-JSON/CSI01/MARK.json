@@ -190,5 +190,11 @@
         "major": "MARK",
         "room_num": "85511",
         "room_desc": "Transportation Management"
+    },
+    {
+        "school": "CSI01",
+        "major": "MARK",
+        "room_num": "88057",
+        "room_desc": "MARK"
     }
 ]

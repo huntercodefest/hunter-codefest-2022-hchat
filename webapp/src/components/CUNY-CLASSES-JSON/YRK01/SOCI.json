@@ -244,5 +244,11 @@
         "major": "SOCI",
         "room_num": "16899",
         "room_desc": "Urban Sociology"
+    },
+    {
+        "school": "YRK01",
+        "major": "SOCI",
+        "room_num": "87350",
+        "room_desc": "SOCI"
     }
 ]

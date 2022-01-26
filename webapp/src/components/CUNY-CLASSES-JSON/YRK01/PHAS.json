@@ -250,5 +250,11 @@
         "major": "PHAS",
         "room_num": "16583",
         "room_desc": "Surgery Clinical Rotation"
+    },
+    {
+        "school": "YRK01",
+        "major": "PHAS",
+        "room_num": "87387",
+        "room_desc": "PHAS"
     }
 ]

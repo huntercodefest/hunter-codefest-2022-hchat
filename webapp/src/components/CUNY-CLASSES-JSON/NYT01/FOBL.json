@@ -10,5 +10,11 @@
         "major": "FOBL",
         "room_num": "66962",
         "room_desc": "Focus Block 2"
+    },
+    {
+        "school": "NYT01",
+        "major": "FOBL",
+        "room_num": "87148",
+        "room_desc": "FOBL"
     }
 ]

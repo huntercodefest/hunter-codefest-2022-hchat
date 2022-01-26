@@ -178,5 +178,11 @@
         "major": "EGBI",
         "room_num": "4379",
         "room_desc": "Topics: Biomedical Engineering"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGBI",
+        "room_num": "88412",
+        "room_desc": "EGBI"
     }
 ]

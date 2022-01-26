@@ -34,5 +34,11 @@
         "major": "INSU",
         "room_num": "60649",
         "room_desc": "Risk and Risk Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "INSU",
+        "room_num": "86612",
+        "room_desc": "INSU"
     }
 ]

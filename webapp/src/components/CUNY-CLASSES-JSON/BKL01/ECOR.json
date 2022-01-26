@@ -286,5 +286,11 @@
         "major": "ECOR",
         "room_num": "71726",
         "room_desc": "Xmpt From Corc 1331"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "86963",
+        "room_desc": "ECOR"
     }
 ]

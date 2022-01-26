@@ -364,5 +364,11 @@
         "major": "EDHP",
         "room_num": "49638",
         "room_desc": "Workshop In Hlth Ed"
+    },
+    {
+        "school": "HTR01",
+        "major": "EDHP",
+        "room_num": "87643",
+        "room_desc": "EDHP"
     }
 ]

@@ -58,5 +58,11 @@
         "major": "FETH",
         "room_num": "51359",
         "room_desc": "Wmn&Gnd:Wpol Thought"
+    },
+    {
+        "school": "HTR01",
+        "major": "FETH",
+        "room_num": "87663",
+        "room_desc": "FETH"
     }
 ]

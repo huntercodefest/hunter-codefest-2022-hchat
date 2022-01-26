@@ -16,5 +16,11 @@
         "major": "PERM",
         "room_num": "16541",
         "room_desc": "Permit Course 8.5 credits"
+    },
+    {
+        "school": "YRK01",
+        "major": "PERM",
+        "room_num": "87353",
+        "room_desc": "PERM"
     }
 ]

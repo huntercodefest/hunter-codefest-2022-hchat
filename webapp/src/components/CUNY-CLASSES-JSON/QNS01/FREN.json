@@ -640,5 +640,11 @@
         "major": "FREN",
         "room_num": "27247",
         "room_desc": "Women\u2019s Writing in French"
+    },
+    {
+        "school": "QNS01",
+        "major": "FREN",
+        "room_num": "87512",
+        "room_desc": "FREN"
     }
 ]

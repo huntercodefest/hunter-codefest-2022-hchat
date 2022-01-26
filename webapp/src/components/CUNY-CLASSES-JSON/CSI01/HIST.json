@@ -1198,5 +1198,11 @@
         "major": "HIST",
         "room_num": "85218",
         "room_desc": "Your Parents\u2019 America"
+    },
+    {
+        "school": "CSI01",
+        "major": "HIST",
+        "room_num": "88032",
+        "room_desc": "HIST"
     }
 ]

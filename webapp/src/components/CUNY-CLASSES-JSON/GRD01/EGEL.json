@@ -640,5 +640,11 @@
         "major": "EGEL",
         "room_num": "4641",
         "room_desc": "Wireless Multimedia Networks"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGEL",
+        "room_num": "88400",
+        "room_desc": "EGEL"
     }
 ]

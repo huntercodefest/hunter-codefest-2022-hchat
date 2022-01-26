@@ -40,5 +40,11 @@
         "major": "ASTR",
         "room_num": "17343",
         "room_desc": "General Astronomy (Honors)"
+    },
+    {
+        "school": "BMC01",
+        "major": "ASTR",
+        "room_num": "86797",
+        "room_desc": "ASTR"
     }
 ]

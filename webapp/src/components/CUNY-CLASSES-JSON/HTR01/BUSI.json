@@ -34,5 +34,11 @@
         "major": "BUSI",
         "room_num": "47551",
         "room_desc": "Survey of Accounting"
+    },
+    {
+        "school": "HTR01",
+        "major": "BUSI",
+        "room_num": "87697",
+        "room_desc": "BUSI"
     }
 ]

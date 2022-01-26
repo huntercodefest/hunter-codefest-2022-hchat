@@ -754,5 +754,11 @@
         "major": "ASAM",
         "room_num": "32937",
         "room_desc": "Vietnam & Cold War"
+    },
+    {
+        "school": "CTY01",
+        "major": "ASAM",
+        "room_num": "87973",
+        "room_desc": "ASAM"
     }
 ]

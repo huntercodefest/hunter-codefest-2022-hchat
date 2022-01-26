@@ -40,5 +40,11 @@
         "major": "EASC",
         "room_num": "80609",
         "room_desc": "Water: Environmental Science"
+    },
+    {
+        "school": "SPS01",
+        "major": "EASC",
+        "room_num": "87561",
+        "room_desc": "EASC"
     }
 ]

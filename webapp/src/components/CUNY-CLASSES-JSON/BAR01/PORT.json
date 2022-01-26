@@ -10,5 +10,11 @@
         "major": "PORT",
         "room_num": "61768",
         "room_desc": "Elementary Portuguese II"
+    },
+    {
+        "school": "BAR01",
+        "major": "PORT",
+        "room_num": "86673",
+        "room_desc": "PORT"
     }
 ]

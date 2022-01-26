@@ -34,5 +34,11 @@
         "major": "EGCI",
         "room_num": "64634",
         "room_desc": "Structural and Site Plans"
+    },
+    {
+        "school": "HOS01",
+        "major": "EGCI",
+        "room_num": "87818",
+        "room_desc": "EGCI"
     }
 ]

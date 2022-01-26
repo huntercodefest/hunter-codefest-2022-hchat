@@ -316,5 +316,11 @@
         "major": "PHIL",
         "room_num": "61739",
         "room_desc": "Thought and Reality"
+    },
+    {
+        "school": "BAR01",
+        "major": "PHIL",
+        "room_num": "86668",
+        "room_desc": "PHIL"
     }
 ]

@@ -166,5 +166,11 @@
         "major": "LATI",
         "room_num": "6469",
         "room_desc": "Virgil\u2019S Aeneid"
+    },
+    {
+        "school": "GRD01",
+        "major": "LATI",
+        "room_num": "88366",
+        "room_desc": "LATI"
     }
 ]

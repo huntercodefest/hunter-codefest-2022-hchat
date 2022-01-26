@@ -334,5 +334,11 @@
         "major": "UBST",
         "room_num": "45199",
         "room_desc": "Urban Theory and Urban Design"
+    },
+    {
+        "school": "CTY01",
+        "major": "UBST",
+        "room_num": "87925",
+        "room_desc": "UBST"
     }
 ]

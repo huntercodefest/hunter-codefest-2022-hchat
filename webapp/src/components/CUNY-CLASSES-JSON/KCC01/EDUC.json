@@ -178,5 +178,11 @@
         "major": "EDUC",
         "room_num": "63331",
         "room_desc": "Tchng Erly Chldhd Ed Mth63332: EGSC,\"Engineering Design"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDUC",
+        "room_num": "88496",
+        "room_desc": "EDUC"
     }
 ]

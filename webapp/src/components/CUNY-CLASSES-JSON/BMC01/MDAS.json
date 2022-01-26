@@ -46,5 +46,11 @@
         "major": "MDAS",
         "room_num": "18480",
         "room_desc": "Emergency Medical Care"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDAS",
+        "room_num": "86826",
+        "room_desc": "MDAS"
     }
 ]

@@ -64,5 +64,11 @@
         "major": "INTE",
         "room_num": "23014",
         "room_desc": "Writ Prep"
+    },
+    {
+        "school": "QCC01",
+        "major": "INTE",
+        "room_num": "87868",
+        "room_desc": "INTE"
     }
 ]

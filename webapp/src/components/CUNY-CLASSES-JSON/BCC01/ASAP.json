@@ -40,5 +40,11 @@
         "major": "ASAP",
         "room_num": "68773",
         "room_desc": "Asap Writing Wkshop"
+    },
+    {
+        "school": "BCC01",
+        "major": "ASAP",
+        "room_num": "87320",
+        "room_desc": "ASAP"
     }
 ]

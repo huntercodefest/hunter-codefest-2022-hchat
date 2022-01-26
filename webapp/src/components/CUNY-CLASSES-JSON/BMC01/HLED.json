@@ -10,5 +10,11 @@
         "major": "HLED",
         "room_num": "18251",
         "room_desc": "Physical Education"
+    },
+    {
+        "school": "BMC01",
+        "major": "HLED",
+        "room_num": "86788",
+        "room_desc": "HLED"
     }
 ]

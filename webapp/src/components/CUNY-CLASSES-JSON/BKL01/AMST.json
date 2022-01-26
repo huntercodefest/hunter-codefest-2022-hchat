@@ -244,5 +244,11 @@
         "major": "AMST",
         "room_num": "69767",
         "room_desc": "Transnational America"
+    },
+    {
+        "school": "BKL01",
+        "major": "AMST",
+        "room_num": "86934",
+        "room_desc": "AMST"
     }
 ]

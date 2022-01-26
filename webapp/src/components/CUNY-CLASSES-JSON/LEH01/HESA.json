@@ -130,5 +130,11 @@
         "major": "HESA",
         "room_num": "12916",
         "room_desc": "Strat Mgmt: Hlt Pln Comp Env"
+    },
+    {
+        "school": "LEH01",
+        "major": "HESA",
+        "room_num": "88163",
+        "room_desc": "HESA"
     }
 ]

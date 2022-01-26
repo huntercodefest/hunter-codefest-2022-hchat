@@ -220,5 +220,11 @@
         "major": "RUSS",
         "room_num": "14531",
         "room_desc": "Tutorial in Russian"
+    },
+    {
+        "school": "LEH01",
+        "major": "RUSS",
+        "room_num": "88205",
+        "room_desc": "RUSS"
     }
 ]

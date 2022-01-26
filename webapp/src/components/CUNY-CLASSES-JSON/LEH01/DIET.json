@@ -316,5 +316,11 @@
         "major": "DIET",
         "room_num": "11678",
         "room_desc": "Wokshop in Nutrition Education"
+    },
+    {
+        "school": "LEH01",
+        "major": "DIET",
+        "room_num": "88157",
+        "room_desc": "DIET"
     }
 ]

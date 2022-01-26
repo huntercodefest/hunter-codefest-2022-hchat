@@ -46,5 +46,11 @@
         "major": "ARAB",
         "room_num": "23930",
         "room_desc": "Vt: Arab Cult & Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "ARAB",
+        "room_num": "87520",
+        "room_desc": "ARAB"
     }
 ]

@@ -2176,5 +2176,11 @@
         "major": "SOCI",
         "room_num": "44428",
         "room_desc": "Wtchcrft-Rel-Magic"
+    },
+    {
+        "school": "CTY01",
+        "major": "SOCI",
+        "room_num": "87919",
+        "room_desc": "SOCI"
     }
 ]

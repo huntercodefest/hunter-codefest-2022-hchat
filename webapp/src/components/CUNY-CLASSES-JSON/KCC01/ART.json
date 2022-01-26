@@ -526,5 +526,11 @@
         "major": "ART",
         "room_num": "62870",
         "room_desc": "Web Page Design"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "88548",
+        "room_desc": "ART"
     }
 ]

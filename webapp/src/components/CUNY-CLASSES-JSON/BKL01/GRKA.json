@@ -100,5 +100,11 @@
         "major": "GRKA",
         "room_num": "73709",
         "room_desc": "Studies in Greek"
+    },
+    {
+        "school": "BKL01",
+        "major": "GRKA",
+        "room_num": "86936",
+        "room_desc": "GRKA"
     }
 ]

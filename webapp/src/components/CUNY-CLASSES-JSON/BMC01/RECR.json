@@ -100,5 +100,11 @@
         "major": "RECR",
         "room_num": "19056",
         "room_desc": "Team Sports"
+    },
+    {
+        "school": "BMC01",
+        "major": "RECR",
+        "room_num": "86857",
+        "room_desc": "RECR"
     }
 ]

@@ -4,5 +4,11 @@
         "major": "CFRW",
         "room_num": "64431",
         "room_desc": "College Focus ELA"
+    },
+    {
+        "school": "HOS01",
+        "major": "CFRW",
+        "room_num": "87768",
+        "room_desc": "CFRW"
     }
 ]

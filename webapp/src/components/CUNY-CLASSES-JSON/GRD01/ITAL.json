@@ -148,5 +148,11 @@
         "major": "ITAL",
         "room_num": "6420",
         "room_desc": "Translation for the Profession"
+    },
+    {
+        "school": "GRD01",
+        "major": "ITAL",
+        "room_num": "88387",
+        "room_desc": "ITAL"
     }
 ]

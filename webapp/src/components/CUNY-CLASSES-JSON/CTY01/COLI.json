@@ -370,5 +370,11 @@
         "major": "COLI",
         "room_num": "34253",
         "room_desc": "Yeats & Cavafy"
+    },
+    {
+        "school": "CTY01",
+        "major": "COLI",
+        "room_num": "88005",
+        "room_desc": "COLI"
     }
 ]

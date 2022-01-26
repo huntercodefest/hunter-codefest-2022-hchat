@@ -298,5 +298,11 @@
         "major": "ART",
         "room_num": "19655",
         "room_desc": "Thematic-Art"
+    },
+    {
+        "school": "JJC01",
+        "major": "ART",
+        "room_num": "87128",
+        "room_desc": "ART"
     }
 ]

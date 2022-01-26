@@ -394,5 +394,11 @@
         "major": "MELS",
         "room_num": "54026",
         "room_desc": "Virology"
+    },
+    {
+        "school": "HTR01",
+        "major": "MELS",
+        "room_num": "87669",
+        "room_desc": "MELS"
     }
 ]

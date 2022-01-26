@@ -778,5 +778,11 @@
         "major": "MATH",
         "room_num": "82279",
         "room_desc": "Windows NT NOS"
+    },
+    {
+        "school": "LAG01",
+        "major": "MATH",
+        "room_num": "86768",
+        "room_desc": "MATH"
     }
 ]

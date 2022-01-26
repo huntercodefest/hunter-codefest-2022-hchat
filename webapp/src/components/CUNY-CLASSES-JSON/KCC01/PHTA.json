@@ -76,5 +76,11 @@
         "major": "PHTA",
         "room_num": "63892",
         "room_desc": "Therapeutic Exercise"
+    },
+    {
+        "school": "KCC01",
+        "major": "PHTA",
+        "room_num": "88486",
+        "room_desc": "PHTA"
     }
 ]

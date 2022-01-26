@@ -40,5 +40,11 @@
         "major": "FILM",
         "room_num": "5360",
         "room_desc": "The Business of FIlm"
+    },
+    {
+        "school": "GRD01",
+        "major": "FILM",
+        "room_num": "88357",
+        "room_desc": "FILM"
     }
 ]

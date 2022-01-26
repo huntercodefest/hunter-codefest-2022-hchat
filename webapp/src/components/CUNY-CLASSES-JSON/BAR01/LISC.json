@@ -64,5 +64,11 @@
         "major": "LISC",
         "room_num": "60936",
         "room_desc": "Topics in Information Studies"
+    },
+    {
+        "school": "BAR01",
+        "major": "LISC",
+        "room_num": "86669",
+        "room_desc": "LISC"
     }
 ]

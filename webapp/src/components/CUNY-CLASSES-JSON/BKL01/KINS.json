@@ -616,5 +616,11 @@
         "major": "KINS",
         "room_num": "74752",
         "room_desc": "Yoga"
+    },
+    {
+        "school": "BKL01",
+        "major": "KINS",
+        "room_num": "87003",
+        "room_desc": "KINS"
     }
 ]

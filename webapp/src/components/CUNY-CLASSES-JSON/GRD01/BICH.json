@@ -280,5 +280,11 @@
         "major": "BICH",
         "room_num": "1025",
         "room_desc": "Special Topics in Biochemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "BICH",
+        "room_num": "88436",
+        "room_desc": "BICH"
     }
 ]

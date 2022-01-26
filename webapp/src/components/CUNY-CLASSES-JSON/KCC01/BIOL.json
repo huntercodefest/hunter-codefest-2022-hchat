@@ -334,5 +334,11 @@
         "major": "BIOL",
         "room_num": "62932",
         "room_desc": "Topics in Biology: CUNY Core"
+    },
+    {
+        "school": "KCC01",
+        "major": "BIOL",
+        "room_num": "88517",
+        "room_desc": "BIOL"
     }
 ]

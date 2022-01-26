@@ -40,5 +40,11 @@
         "major": "OFTC",
         "room_num": "75512",
         "room_desc": "Secret Civ Svc"
+    },
+    {
+        "school": "BKL01",
+        "major": "OFTC",
+        "room_num": "86990",
+        "room_desc": "OFTC"
     }
 ]

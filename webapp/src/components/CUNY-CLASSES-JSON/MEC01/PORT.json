@@ -22,5 +22,11 @@
         "major": "PORT",
         "room_num": "79775",
         "room_desc": "Portuguese Language Lab Ii"
+    },
+    {
+        "school": "MEC01",
+        "major": "PORT",
+        "room_num": "88301",
+        "room_desc": "PORT"
     }
 ]

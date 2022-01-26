@@ -28,5 +28,11 @@
         "major": "SOSC",
         "room_num": "81029",
         "room_desc": "Sociology of Work and Family"
+    },
+    {
+        "school": "SPS01",
+        "major": "SOSC",
+        "room_num": "87609",
+        "room_desc": "SOSC"
     }
 ]

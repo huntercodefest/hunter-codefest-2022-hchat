@@ -166,5 +166,11 @@
         "major": "UBST",
         "room_num": "10705",
         "room_desc": "Wkshp in Urban Sustainability"
+    },
+    {
+        "school": "GRD01",
+        "major": "UBST",
+        "room_num": "88350",
+        "room_desc": "UBST"
     }
 ]

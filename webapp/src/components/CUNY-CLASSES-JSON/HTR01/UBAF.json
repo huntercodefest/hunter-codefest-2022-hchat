@@ -754,5 +754,11 @@
         "major": "UBAF",
         "room_num": "58376",
         "room_desc": "Youth Services"
+    },
+    {
+        "school": "HTR01",
+        "major": "UBAF",
+        "room_num": "87726",
+        "room_desc": "UBAF"
     }
 ]

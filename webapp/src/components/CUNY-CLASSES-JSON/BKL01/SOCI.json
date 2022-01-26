@@ -982,5 +982,11 @@
         "major": "SOCI",
         "room_num": "76779",
         "room_desc": "Wk At Risk Populatns"
+    },
+    {
+        "school": "BKL01",
+        "major": "SOCI",
+        "room_num": "86933",
+        "room_desc": "SOCI"
     }
 ]

@@ -16,5 +16,11 @@
         "major": "MEDI",
         "room_num": "63674",
         "room_desc": "Media and Children"
+    },
+    {
+        "school": "KCC01",
+        "major": "MEDI",
+        "room_num": "88501",
+        "room_desc": "MEDI"
     }
 ]

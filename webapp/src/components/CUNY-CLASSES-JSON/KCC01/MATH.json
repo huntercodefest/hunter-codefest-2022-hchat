@@ -268,5 +268,11 @@
         "major": "MATH",
         "room_num": "63671",
         "room_desc": "Surv Math/Comp Cncpt"
+    },
+    {
+        "school": "KCC01",
+        "major": "MATH",
+        "room_num": "88537",
+        "room_desc": "MATH"
     }
 ]

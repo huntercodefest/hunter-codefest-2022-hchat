@@ -112,5 +112,11 @@
         "major": "ARVP",
         "room_num": "17327",
         "room_desc": "Teleconferencing"
+    },
+    {
+        "school": "BMC01",
+        "major": "ARVP",
+        "room_num": "86792",
+        "room_desc": "ARVP"
     }
 ]

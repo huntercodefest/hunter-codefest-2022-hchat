@@ -40,5 +40,11 @@
         "major": "POLI",
         "room_num": "29808",
         "room_desc": "Req Met By Prof Exam"
+    },
+    {
+        "school": "QNS01",
+        "major": "POLI",
+        "room_num": "87500",
+        "room_desc": "POLI"
     }
 ]

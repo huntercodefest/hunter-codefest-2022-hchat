@@ -1048,5 +1048,11 @@
         "major": "CRIM",
         "room_num": "3745",
         "room_desc": "Women in Criminal Justice"
+    },
+    {
+        "school": "GRD01",
+        "major": "CRIM",
+        "room_num": "88345",
+        "room_desc": "CRIM"
     }
 ]

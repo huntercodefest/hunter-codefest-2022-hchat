@@ -100,5 +100,11 @@
         "major": "MARK",
         "room_num": "16309",
         "room_desc": "Service Marketing"
+    },
+    {
+        "school": "YRK01",
+        "major": "MARK",
+        "room_num": "87369",
+        "room_desc": "MARK"
     }
 ]

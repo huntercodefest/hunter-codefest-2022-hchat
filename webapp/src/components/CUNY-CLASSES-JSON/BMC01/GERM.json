@@ -34,5 +34,11 @@
         "major": "GERM",
         "room_num": "18157",
         "room_desc": "German Literature Ii"
+    },
+    {
+        "school": "BMC01",
+        "major": "GERM",
+        "room_num": "86829",
+        "room_desc": "GERM"
     }
 ]

@@ -4,5 +4,11 @@
         "major": "ARFI",
         "room_num": "567",
         "room_desc": "Intro to Photography"
+    },
+    {
+        "school": "GRD01",
+        "major": "ARFI",
+        "room_num": "88341",
+        "room_desc": "ARFI"
     }
 ]

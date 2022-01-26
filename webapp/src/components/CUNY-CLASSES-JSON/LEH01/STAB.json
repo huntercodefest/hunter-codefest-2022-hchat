@@ -166,5 +166,11 @@
         "major": "STAB",
         "room_num": "14865",
         "room_desc": "Study Abroad-I Credit"
+    },
+    {
+        "school": "LEH01",
+        "major": "STAB",
+        "room_num": "88152",
+        "room_desc": "STAB"
     }
 ]

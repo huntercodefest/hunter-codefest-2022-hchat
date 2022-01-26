@@ -118,5 +118,11 @@
         "major": "GEPP",
         "room_num": "52051",
         "room_desc": "Women52052: GERM,\"Adv Business German"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEPP",
+        "room_num": "87660",
+        "room_desc": "GEPP"
     }
 ]

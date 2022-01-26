@@ -178,5 +178,11 @@
         "major": "CHEM",
         "room_num": "59388",
         "room_desc": "Select Topics in Chemistry"
+    },
+    {
+        "school": "BAR01",
+        "major": "CHEM",
+        "room_num": "86600",
+        "room_desc": "CHEM"
     }
 ]

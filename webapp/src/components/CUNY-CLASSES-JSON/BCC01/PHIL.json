@@ -10,5 +10,11 @@
         "major": "PHIL",
         "room_num": "69422",
         "room_desc": "Introduction to Religion"
+    },
+    {
+        "school": "BCC01",
+        "major": "PHIL",
+        "room_num": "87330",
+        "room_desc": "PHIL"
     }
 ]

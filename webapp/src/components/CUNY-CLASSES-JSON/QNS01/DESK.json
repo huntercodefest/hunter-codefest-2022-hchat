@@ -94,5 +94,11 @@
         "major": "DESK",
         "room_num": "25151",
         "room_desc": "STEM Workshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "DESK",
+        "room_num": "87491",
+        "room_desc": "DESK"
     }
 ]

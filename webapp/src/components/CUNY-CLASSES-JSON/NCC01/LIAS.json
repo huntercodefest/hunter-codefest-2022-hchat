@@ -40,5 +40,11 @@
         "major": "LIAS",
         "room_num": "64264",
         "room_desc": "Smmr Strt Coll Success Seminar"
+    },
+    {
+        "school": "NCC01",
+        "major": "LIAS",
+        "room_num": "86917",
+        "room_desc": "LIAS"
     }
 ]

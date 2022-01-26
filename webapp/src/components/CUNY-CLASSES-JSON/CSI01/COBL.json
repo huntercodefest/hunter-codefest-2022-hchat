@@ -82,5 +82,11 @@
         "major": "COBL",
         "room_num": "83847",
         "room_desc": "Transf. Lrng & Tchng Sch/Comm"
+    },
+    {
+        "school": "CSI01",
+        "major": "COBL",
+        "room_num": "88047",
+        "room_desc": "COBL"
     }
 ]

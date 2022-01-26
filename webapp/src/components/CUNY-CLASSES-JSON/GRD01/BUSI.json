@@ -688,5 +688,11 @@
         "major": "BUSI",
         "room_num": "1589",
         "room_desc": "Tech Innov & Design"
+    },
+    {
+        "school": "GRD01",
+        "major": "BUSI",
+        "room_num": "88403",
+        "room_desc": "BUSI"
     }
 ]

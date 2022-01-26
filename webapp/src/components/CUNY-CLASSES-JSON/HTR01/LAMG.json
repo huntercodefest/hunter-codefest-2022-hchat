@@ -64,5 +64,11 @@
         "major": "LAMG",
         "room_num": "53771",
         "room_desc": "Women & Men:Labor Market"
+    },
+    {
+        "school": "HTR01",
+        "major": "LAMG",
+        "room_num": "87712",
+        "room_desc": "LAMG"
     }
 ]

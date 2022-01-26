@@ -34,5 +34,11 @@
         "major": "SOCI",
         "room_num": "65024",
         "room_desc": "Sociology of Social Problems"
+    },
+    {
+        "school": "HOS01",
+        "major": "SOCI",
+        "room_num": "87774",
+        "room_desc": "SOCI"
     }
 ]

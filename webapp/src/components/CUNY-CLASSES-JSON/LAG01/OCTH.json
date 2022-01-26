@@ -136,5 +136,11 @@
         "major": "OCTH",
         "room_num": "82481",
         "room_desc": "Otclinreas"
+    },
+    {
+        "school": "LAG01",
+        "major": "OCTH",
+        "room_num": "86740",
+        "room_desc": "OCTH"
     }
 ]

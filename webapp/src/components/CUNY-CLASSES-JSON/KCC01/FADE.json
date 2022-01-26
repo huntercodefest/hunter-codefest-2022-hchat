@@ -70,5 +70,11 @@
         "major": "FADE",
         "room_num": "63467",
         "room_desc": "IS Fashion Design II"
+    },
+    {
+        "school": "KCC01",
+        "major": "FADE",
+        "room_num": "88521",
+        "room_desc": "FADE"
     }
 ]

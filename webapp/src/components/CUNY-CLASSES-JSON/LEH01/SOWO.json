@@ -352,5 +352,11 @@
         "major": "SOWO",
         "room_num": "14686",
         "room_desc": "Understanding Hisp/Lat Comm"
+    },
+    {
+        "school": "LEH01",
+        "major": "SOWO",
+        "room_num": "88167",
+        "room_desc": "SOWO"
     }
 ]

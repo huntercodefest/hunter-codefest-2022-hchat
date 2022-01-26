@@ -124,5 +124,11 @@
         "major": "EDPH",
         "room_num": "35763",
         "room_desc": "Wrestling"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDPH",
+        "room_num": "87996",
+        "room_desc": "EDPH"
     }
 ]

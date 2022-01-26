@@ -196,5 +196,11 @@
         "major": "PORT",
         "room_num": "8778",
         "room_desc": "Translation:Port-Engl&Eng-Port"
+    },
+    {
+        "school": "GRD01",
+        "major": "PORT",
+        "room_num": "88449",
+        "room_desc": "PORT"
     }
 ]

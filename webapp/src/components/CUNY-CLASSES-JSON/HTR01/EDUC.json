@@ -478,5 +478,11 @@
         "major": "EDUC",
         "room_num": "49925",
         "room_desc": "Writing Comp Ed Plan"
+    },
+    {
+        "school": "HTR01",
+        "major": "EDUC",
+        "room_num": "87658",
+        "room_desc": "EDUC"
     }
 ]

@@ -22,5 +22,11 @@
         "major": "EASC",
         "room_num": "68950",
         "room_desc": "The Ocean"
+    },
+    {
+        "school": "BCC01",
+        "major": "EASC",
+        "room_num": "87265",
+        "room_desc": "EASC"
     }
 ]

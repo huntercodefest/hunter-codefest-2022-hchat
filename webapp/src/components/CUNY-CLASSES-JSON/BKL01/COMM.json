@@ -88,5 +88,11 @@
         "major": "COMM",
         "room_num": "71320",
         "room_desc": "Writ Communic"
+    },
+    {
+        "school": "BKL01",
+        "major": "COMM",
+        "room_num": "86947",
+        "room_desc": "COMM"
     }
 ]
