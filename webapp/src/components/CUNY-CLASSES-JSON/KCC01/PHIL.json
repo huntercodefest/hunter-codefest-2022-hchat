@@ -88,5 +88,11 @@
         "major": "PHIL",
         "room_num": "63879",
         "room_desc": "Readings - Medieval Jewish Phi"
+    },
+    {
+        "school": "KCC01",
+        "major": "PHIL",
+        "room_num": "88536",
+        "room_desc": "PHIL"
     }
 ]

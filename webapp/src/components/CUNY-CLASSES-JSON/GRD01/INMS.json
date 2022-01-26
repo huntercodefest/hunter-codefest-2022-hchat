@@ -34,5 +34,11 @@
         "major": "INMS",
         "room_num": "6280",
         "room_desc": "Rsrch Meth Intrntnl Migration"
+    },
+    {
+        "school": "GRD01",
+        "major": "INMS",
+        "room_num": "88437",
+        "room_desc": "INMS"
     }
 ]

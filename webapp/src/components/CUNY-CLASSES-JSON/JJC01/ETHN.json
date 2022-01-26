@@ -46,5 +46,11 @@
         "major": "ETHN",
         "room_num": "20424",
         "room_desc": "Thematic-Ethnic"
+    },
+    {
+        "school": "JJC01",
+        "major": "ETHN",
+        "room_num": "87036",
+        "room_desc": "ETHN"
     }
 ]

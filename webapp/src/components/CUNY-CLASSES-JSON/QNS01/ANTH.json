@@ -880,5 +880,11 @@
         "major": "ANTH",
         "room_num": "23922",
         "room_desc": "Writing Workshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "ANTH",
+        "room_num": "87532",
+        "room_desc": "ANTH"
     }
 ]

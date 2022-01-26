@@ -628,5 +628,11 @@
         "major": "NASS",
         "room_num": "79391",
         "room_desc": "Statistics"
+    },
+    {
+        "school": "MEC01",
+        "major": "NASS",
+        "room_num": "88295",
+        "room_desc": "NASS"
     }
 ]

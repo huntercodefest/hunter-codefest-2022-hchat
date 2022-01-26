@@ -436,5 +436,11 @@
         "major": "ACCT",
         "room_num": "23744",
         "room_desc": "Trust and Estate Accounting"
+    },
+    {
+        "school": "QNS01",
+        "major": "ACCT",
+        "room_num": "87490",
+        "room_desc": "ACCT"
     }
 ]

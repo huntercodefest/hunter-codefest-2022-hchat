@@ -670,5 +670,11 @@
         "major": "EGEC",
         "room_num": "22819",
         "room_desc": "Wireless Mobile Communications"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEC",
+        "room_num": "87900",
+        "room_desc": "EGEC"
     }
 ]

@@ -46,5 +46,11 @@
         "major": "ITAL",
         "room_num": "69235",
         "room_desc": "Readings in Modern Italian"
+    },
+    {
+        "school": "BCC01",
+        "major": "ITAL",
+        "room_num": "87291",
+        "room_desc": "ITAL"
     }
 ]

@@ -916,5 +916,11 @@
         "major": "MATH",
         "room_num": "6917",
         "room_desc": "Vector Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "MATH",
+        "room_num": "88447",
+        "room_desc": "MATH"
     }
 ]

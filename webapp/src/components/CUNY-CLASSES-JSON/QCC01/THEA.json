@@ -100,5 +100,11 @@
         "major": "THEA",
         "room_num": "23465",
         "room_desc": "Voice and Speech for the Actor"
+    },
+    {
+        "school": "QCC01",
+        "major": "THEA",
+        "room_num": "87883",
+        "room_desc": "THEA"
     }
 ]

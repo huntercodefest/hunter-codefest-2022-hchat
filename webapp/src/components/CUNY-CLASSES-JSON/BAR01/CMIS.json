@@ -724,5 +724,11 @@
         "major": "CMIS",
         "room_num": "59542",
         "room_desc": "e-Business Technologies"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "86674",
+        "room_desc": "CMIS"
     }
 ]

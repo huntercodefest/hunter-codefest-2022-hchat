@@ -94,5 +94,11 @@
         "major": "STDV",
         "room_num": "82870",
         "room_desc": "CD Study Group-MAT 95"
+    },
+    {
+        "school": "LAG01",
+        "major": "STDV",
+        "room_num": "86703",
+        "room_desc": "STDV"
     }
 ]

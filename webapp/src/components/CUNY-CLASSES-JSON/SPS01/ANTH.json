@@ -10,5 +10,11 @@
         "major": "ANTH",
         "room_num": "80322",
         "room_desc": "Urban Life & Culture"
+    },
+    {
+        "school": "SPS01",
+        "major": "ANTH",
+        "room_num": "87610",
+        "room_desc": "ANTH"
     }
 ]

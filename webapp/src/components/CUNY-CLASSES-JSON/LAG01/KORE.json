@@ -40,5 +40,11 @@
         "major": "KORE",
         "room_num": "82075",
         "room_desc": "Modern Korean Literature"
+    },
+    {
+        "school": "LAG01",
+        "major": "KORE",
+        "room_num": "86748",
+        "room_desc": "KORE"
     }
 ]

@@ -274,5 +274,11 @@
         "major": "SOCI",
         "room_num": "80015",
         "room_desc": "Urban Sociology and Lifestyles"
+    },
+    {
+        "school": "MEC01",
+        "major": "SOCI",
+        "room_num": "88245",
+        "room_desc": "SOCI"
     }
 ]

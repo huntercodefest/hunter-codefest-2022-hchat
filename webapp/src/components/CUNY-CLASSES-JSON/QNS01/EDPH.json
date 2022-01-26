@@ -1402,5 +1402,11 @@
         "major": "EDPH",
         "room_num": "25871",
         "room_desc": "X-Country Skiing"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDPH",
+        "room_num": "87511",
+        "room_desc": "EDPH"
     }
 ]

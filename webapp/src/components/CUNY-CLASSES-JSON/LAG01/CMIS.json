@@ -442,5 +442,11 @@
         "major": "CMIS",
         "room_num": "81539",
         "room_desc": "Windows Nt Nos"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMIS",
+        "room_num": "86773",
+        "room_desc": "CMIS"
     }
 ]

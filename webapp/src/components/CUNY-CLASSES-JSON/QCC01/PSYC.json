@@ -70,5 +70,11 @@
         "major": "PSYC",
         "room_num": "23381",
         "room_desc": "The Psychology of Women"
+    },
+    {
+        "school": "QCC01",
+        "major": "PSYC",
+        "room_num": "87844",
+        "room_desc": "PSYC"
     }
 ]

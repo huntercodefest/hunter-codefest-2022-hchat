@@ -88,5 +88,11 @@
         "major": "EDSU",
         "room_num": "84306",
         "room_desc": "Super Admin Indep Stdy"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDSU",
+        "room_num": "88075",
+        "room_desc": "EDSU"
     }
 ]

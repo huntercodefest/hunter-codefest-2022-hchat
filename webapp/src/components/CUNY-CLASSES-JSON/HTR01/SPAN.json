@@ -1162,5 +1162,11 @@
         "major": "SPAN",
         "room_num": "57782",
         "room_desc": "Women Writers & Lat Am"
+    },
+    {
+        "school": "HTR01",
+        "major": "SPAN",
+        "room_num": "87711",
+        "room_desc": "SPAN"
     }
 ]

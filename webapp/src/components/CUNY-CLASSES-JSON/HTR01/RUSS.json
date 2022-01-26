@@ -916,5 +916,11 @@
         "major": "RUSS",
         "room_num": "57038",
         "room_desc": "Yng Tolstoy in Engl"
+    },
+    {
+        "school": "HTR01",
+        "major": "RUSS",
+        "room_num": "87732",
+        "room_desc": "RUSS"
     }
 ]

@@ -154,5 +154,11 @@
         "major": "COMM",
         "room_num": "63099",
         "room_desc": "Writing for Electronic Media"
+    },
+    {
+        "school": "KCC01",
+        "major": "COMM",
+        "room_num": "88493",
+        "room_desc": "COMM"
     }
 ]

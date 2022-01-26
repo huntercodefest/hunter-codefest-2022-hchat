@@ -340,5 +340,11 @@
         "major": "ELTE",
         "room_num": "66631",
         "room_desc": "Troubleshootng Lab"
+    },
+    {
+        "school": "NYT01",
+        "major": "ELTE",
+        "room_num": "87149",
+        "room_desc": "ELTE"
     }
 ]

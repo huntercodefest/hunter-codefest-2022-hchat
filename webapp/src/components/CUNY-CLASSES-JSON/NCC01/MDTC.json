@@ -100,5 +100,11 @@
         "major": "MDTC",
         "room_num": "64290",
         "room_desc": "Quality Assess Perform Improve"
+    },
+    {
+        "school": "NCC01",
+        "major": "MDTC",
+        "room_num": "86914",
+        "room_desc": "MDTC"
     }
 ]

@@ -418,5 +418,11 @@
         "major": "BIML",
         "room_num": "33014",
         "room_desc": "U S Health Care 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIML",
+        "room_num": "87962",
+        "room_desc": "BIML"
     }
 ]

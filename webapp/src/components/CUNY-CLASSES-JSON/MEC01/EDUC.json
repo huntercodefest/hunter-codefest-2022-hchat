@@ -790,5 +790,11 @@
         "major": "EDUC",
         "room_num": "78565",
         "room_desc": "Writing Seminar"
+    },
+    {
+        "school": "MEC01",
+        "major": "EDUC",
+        "room_num": "88254",
+        "room_desc": "EDUC"
     }
 ]

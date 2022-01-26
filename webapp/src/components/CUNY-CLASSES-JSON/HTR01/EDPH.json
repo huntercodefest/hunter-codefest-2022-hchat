@@ -28,5 +28,11 @@
         "major": "EDPH",
         "room_num": "49678",
         "room_desc": "Motor Learning"
+    },
+    {
+        "school": "HTR01",
+        "major": "EDPH",
+        "room_num": "87735",
+        "room_desc": "EDPH"
     }
 ]

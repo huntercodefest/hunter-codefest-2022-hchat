@@ -298,5 +298,11 @@
         "major": "HIST",
         "room_num": "23002",
         "room_desc": "World History since 1500"
+    },
+    {
+        "school": "QCC01",
+        "major": "HIST",
+        "room_num": "87849",
+        "room_desc": "HIST"
     }
 ]

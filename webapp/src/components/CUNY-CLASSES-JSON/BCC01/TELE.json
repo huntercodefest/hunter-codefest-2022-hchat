@@ -46,5 +46,11 @@
         "major": "TELE",
         "room_num": "69528",
         "room_desc": "Voice Communications"
+    },
+    {
+        "school": "BCC01",
+        "major": "TELE",
+        "room_num": "87336",
+        "room_desc": "TELE"
     }
 ]

@@ -232,5 +232,11 @@
         "major": "HEAL",
         "room_num": "18211",
         "room_desc": "Vocation Rehab II"
+    },
+    {
+        "school": "BMC01",
+        "major": "HEAL",
+        "room_num": "86836",
+        "room_desc": "HEAL"
     }
 ]

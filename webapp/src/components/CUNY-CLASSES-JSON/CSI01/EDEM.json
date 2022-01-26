@@ -550,5 +550,11 @@
         "major": "EDEM",
         "room_num": "84129",
         "room_desc": "Writing for Teachers"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDEM",
+        "room_num": "88094",
+        "room_desc": "EDEM"
     }
 ]

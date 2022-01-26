@@ -3616,5 +3616,11 @@
         "major": "EDUC",
         "room_num": "72749",
         "room_desc": "Young Child\u2019S Prog"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDUC",
+        "room_num": "86950",
+        "room_desc": "EDUC"
     }
 ]

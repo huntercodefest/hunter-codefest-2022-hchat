@@ -4,5 +4,11 @@
         "major": "COSE",
         "room_num": "48383",
         "room_desc": "Community Service Satisfied"
+    },
+    {
+        "school": "HTR01",
+        "major": "COSE",
+        "room_num": "87633",
+        "room_desc": "COSE"
     }
 ]

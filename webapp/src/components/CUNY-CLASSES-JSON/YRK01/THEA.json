@@ -220,5 +220,11 @@
         "major": "THEA",
         "room_num": "17059",
         "room_desc": "Voice & Stage Mvmt Actors II"
+    },
+    {
+        "school": "YRK01",
+        "major": "THEA",
+        "room_num": "87402",
+        "room_desc": "THEA"
     }
 ]

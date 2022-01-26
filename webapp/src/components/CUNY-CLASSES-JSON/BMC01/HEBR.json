@@ -64,5 +64,11 @@
         "major": "HEBR",
         "room_num": "18222",
         "room_desc": "Hebrew VI"
+    },
+    {
+        "school": "BMC01",
+        "major": "HEBR",
+        "room_num": "86812",
+        "room_desc": "HEBR"
     }
 ]

@@ -106,5 +106,11 @@
         "major": "TRTO",
         "room_num": "82914",
         "room_desc": "Trav Agency Ops Mgmt"
+    },
+    {
+        "school": "LAG01",
+        "major": "TRTO",
+        "room_num": "86713",
+        "room_desc": "TRTO"
     }
 ]

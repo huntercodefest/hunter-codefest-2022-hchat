@@ -94,5 +94,11 @@
         "major": "SPAN",
         "room_num": "23413",
         "room_desc": "Spanish Lit 20th Century"
+    },
+    {
+        "school": "QCC01",
+        "major": "SPAN",
+        "room_num": "87881",
+        "room_desc": "SPAN"
     }
 ]

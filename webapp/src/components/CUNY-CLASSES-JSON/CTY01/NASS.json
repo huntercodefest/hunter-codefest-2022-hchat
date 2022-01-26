@@ -208,5 +208,11 @@
         "major": "NASS",
         "room_num": "42564",
         "room_desc": "Wld Flwr Forst Strm"
+    },
+    {
+        "school": "CTY01",
+        "major": "NASS",
+        "room_num": "88000",
+        "room_desc": "NASS"
     }
 ]

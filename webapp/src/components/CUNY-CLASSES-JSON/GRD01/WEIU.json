@@ -46,5 +46,11 @@
         "major": "WEIU",
         "room_num": "10713",
         "room_desc": "Weighted Instructional Units"
+    },
+    {
+        "school": "GRD01",
+        "major": "WEIU",
+        "room_num": "88441",
+        "room_desc": "WEIU"
     }
 ]

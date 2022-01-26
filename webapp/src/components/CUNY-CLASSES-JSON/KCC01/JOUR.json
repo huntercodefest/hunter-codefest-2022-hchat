@@ -106,5 +106,11 @@
         "major": "JOUR",
         "room_num": "63596",
         "room_desc": "Writing Critical Rew"
+    },
+    {
+        "school": "KCC01",
+        "major": "JOUR",
+        "room_num": "88502",
+        "room_desc": "JOUR"
     }
 ]

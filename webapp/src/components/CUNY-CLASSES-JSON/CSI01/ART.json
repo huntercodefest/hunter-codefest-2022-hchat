@@ -454,5 +454,11 @@
         "major": "ART",
         "room_num": "83307",
         "room_desc": "Women and the Fine Arts"
+    },
+    {
+        "school": "CSI01",
+        "major": "ART",
+        "room_num": "88128",
+        "room_desc": "ART"
     }
 ]

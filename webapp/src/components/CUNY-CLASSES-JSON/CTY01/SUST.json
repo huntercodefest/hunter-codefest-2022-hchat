@@ -358,5 +358,11 @@
         "major": "SUST",
         "room_num": "44878",
         "room_desc": "Water Resources&Sustainability"
+    },
+    {
+        "school": "CTY01",
+        "major": "SUST",
+        "room_num": "87955",
+        "room_desc": "SUST"
     }
 ]

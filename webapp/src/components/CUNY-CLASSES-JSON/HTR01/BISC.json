@@ -1306,5 +1306,11 @@
         "major": "BISC",
         "room_num": "47540",
         "room_desc": "Workshop in Biotechnology"
+    },
+    {
+        "school": "HTR01",
+        "major": "BISC",
+        "room_num": "87665",
+        "room_desc": "BISC"
     }
 ]

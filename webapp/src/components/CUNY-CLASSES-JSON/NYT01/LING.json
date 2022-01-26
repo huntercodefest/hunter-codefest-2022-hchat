@@ -184,5 +184,11 @@
         "major": "LING",
         "room_num": "67542",
         "room_desc": "Word and Sentence Prosody"
+    },
+    {
+        "school": "NYT01",
+        "major": "LING",
+        "room_num": "87238",
+        "room_desc": "LING"
     }
 ]

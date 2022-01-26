@@ -70,5 +70,11 @@
         "major": "ARAB",
         "room_num": "65287",
         "room_desc": "Continuing Arabic II"
+    },
+    {
+        "school": "NYT01",
+        "major": "ARAB",
+        "room_num": "87227",
+        "room_desc": "ARAB"
     }
 ]

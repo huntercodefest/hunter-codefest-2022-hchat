@@ -52,5 +52,11 @@
         "major": "MATH",
         "room_num": "64273",
         "room_desc": "The Real Basics of Mathematics"
+    },
+    {
+        "school": "NCC01",
+        "major": "MATH",
+        "room_num": "86919",
+        "room_desc": "MATH"
     }
 ]

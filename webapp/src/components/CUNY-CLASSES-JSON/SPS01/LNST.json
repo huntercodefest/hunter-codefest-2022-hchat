@@ -16,5 +16,11 @@
         "major": "LNST",
         "room_num": "80806",
         "room_desc": "Skill & Art-Translation"
+    },
+    {
+        "school": "SPS01",
+        "major": "LNST",
+        "room_num": "87602",
+        "room_desc": "LNST"
     }
 ]

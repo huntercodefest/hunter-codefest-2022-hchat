@@ -40,5 +40,11 @@
         "major": "MAHC",
         "room_num": "13565",
         "room_desc": "The Peopling of New York City"
+    },
+    {
+        "school": "LEH01",
+        "major": "MAHC",
+        "room_num": "88134",
+        "room_desc": "MAHC"
     }
 ]

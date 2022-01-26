@@ -10,5 +10,11 @@
         "major": "WEBD",
         "room_num": "65060",
         "room_desc": "Web Design Technology"
+    },
+    {
+        "school": "HOS01",
+        "major": "WEBD",
+        "room_num": "87817",
+        "room_desc": "WEBD"
     }
 ]

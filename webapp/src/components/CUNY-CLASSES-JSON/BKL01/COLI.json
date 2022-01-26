@@ -424,5 +424,11 @@
         "major": "COLI",
         "room_num": "71303",
         "room_desc": "Yiddish Ss&Poety Trn"
+    },
+    {
+        "school": "BKL01",
+        "major": "COLI",
+        "room_num": "87007",
+        "room_desc": "COLI"
     }
 ]

@@ -22,5 +22,11 @@
         "major": "PERF",
         "room_num": "79689",
         "room_desc": "PERF 301"
+    },
+    {
+        "school": "MEC01",
+        "major": "PERF",
+        "room_num": "88291",
+        "room_desc": "PERF"
     }
 ]

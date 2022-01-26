@@ -292,5 +292,11 @@
         "major": "ANTH",
         "room_num": "65275",
         "room_desc": "Women and Work"
+    },
+    {
+        "school": "NYT01",
+        "major": "ANTH",
+        "room_num": "87235",
+        "room_desc": "ANTH"
     }
 ]

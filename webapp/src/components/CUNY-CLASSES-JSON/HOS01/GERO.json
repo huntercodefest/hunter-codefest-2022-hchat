@@ -22,5 +22,11 @@
         "major": "GERO",
         "room_num": "64779",
         "room_desc": "Thera Rec In Long Term Care"
+    },
+    {
+        "school": "HOS01",
+        "major": "GERO",
+        "room_num": "87801",
+        "room_desc": "GERO"
     }
 ]

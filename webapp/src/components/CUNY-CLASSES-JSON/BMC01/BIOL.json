@@ -118,5 +118,11 @@
         "major": "BIOL",
         "room_num": "17363",
         "room_desc": "Plant Biology"
+    },
+    {
+        "school": "BMC01",
+        "major": "BIOL",
+        "room_num": "86841",
+        "room_desc": "BIOL"
     }
 ]

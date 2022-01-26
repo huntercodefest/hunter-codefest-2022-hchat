@@ -16,5 +16,11 @@
         "major": "ENAP",
         "room_num": "20334",
         "room_desc": "Prep Eng Acad Purp"
+    },
+    {
+        "school": "JJC01",
+        "major": "ENAP",
+        "room_num": "87118",
+        "room_desc": "ENAP"
     }
 ]

@@ -100,5 +100,11 @@
         "major": "EXSC",
         "room_num": "63455",
         "room_desc": "Physiology of Exercise"
+    },
+    {
+        "school": "KCC01",
+        "major": "EXSC",
+        "room_num": "88516",
+        "room_desc": "EXSC"
     }
 ]

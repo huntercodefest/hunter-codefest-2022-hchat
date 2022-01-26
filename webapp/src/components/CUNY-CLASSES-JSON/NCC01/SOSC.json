@@ -16,5 +16,11 @@
         "major": "SOSC",
         "room_num": "64307",
         "room_desc": "Foundations in Social Sciences"
+    },
+    {
+        "school": "NCC01",
+        "major": "SOSC",
+        "room_num": "86921",
+        "room_desc": "SOSC"
     }
 ]

@@ -1498,5 +1498,11 @@
         "major": "PSYC",
         "room_num": "30351",
         "room_desc": "Women & Ment Hlth"
+    },
+    {
+        "school": "QNS01",
+        "major": "PSYC",
+        "room_num": "87425",
+        "room_desc": "PSYC"
     }
 ]

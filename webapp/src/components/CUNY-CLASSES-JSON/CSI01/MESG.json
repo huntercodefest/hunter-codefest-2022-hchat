@@ -10,5 +10,11 @@
         "major": "MESG",
         "room_num": "85673",
         "room_desc": "99  Ooo"
+    },
+    {
+        "school": "CSI01",
+        "major": "MESG",
+        "room_num": "88066",
+        "room_desc": "MESG"
     }
 ]

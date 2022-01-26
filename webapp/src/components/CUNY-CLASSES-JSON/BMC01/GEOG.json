@@ -16,5 +16,11 @@
         "major": "GEOG",
         "room_num": "18150",
         "room_desc": "Population Geography"
+    },
+    {
+        "school": "BMC01",
+        "major": "GEOG",
+        "room_num": "86786",
+        "room_desc": "GEOG"
     }
 ]

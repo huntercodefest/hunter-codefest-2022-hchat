@@ -70,5 +70,11 @@
         "major": "ANTH",
         "room_num": "77973",
         "room_desc": "The Nature of Culture"
+    },
+    {
+        "school": "MEC01",
+        "major": "ANTH",
+        "room_num": "88310",
+        "room_desc": "ANTH"
     }
 ]

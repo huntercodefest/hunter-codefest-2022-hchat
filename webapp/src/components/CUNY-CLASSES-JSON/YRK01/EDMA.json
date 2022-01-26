@@ -10,5 +10,11 @@
         "major": "EDMA",
         "room_num": "15744",
         "room_desc": "Field Act-Math Educ"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDMA",
+        "room_num": "87380",
+        "room_desc": "EDMA"
     }
 ]

@@ -466,5 +466,11 @@
         "major": "EDPH",
         "room_num": "22696",
         "room_desc": "Yoga II"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDPH",
+        "room_num": "87889",
+        "room_desc": "EDPH"
     }
 ]

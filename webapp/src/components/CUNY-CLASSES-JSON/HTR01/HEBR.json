@@ -814,5 +814,11 @@
         "major": "HEBR",
         "room_num": "52470",
         "room_desc": "Womn in Heb Lit-Eng"
+    },
+    {
+        "school": "HTR01",
+        "major": "HEBR",
+        "room_num": "87664",
+        "room_desc": "HEBR"
     }
 ]

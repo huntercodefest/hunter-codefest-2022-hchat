@@ -22,5 +22,11 @@
         "major": "BUIS",
         "room_num": "68833",
         "room_desc": "Website Development"
+    },
+    {
+        "school": "BCC01",
+        "major": "BUIS",
+        "room_num": "87298",
+        "room_desc": "BUIS"
     }
 ]

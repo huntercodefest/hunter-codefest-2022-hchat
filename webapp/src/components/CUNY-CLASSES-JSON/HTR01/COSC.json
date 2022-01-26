@@ -706,5 +706,11 @@
         "major": "COSC",
         "room_num": "48382",
         "room_desc": "Voice Disorders"
+    },
+    {
+        "school": "HTR01",
+        "major": "COSC",
+        "room_num": "87629",
+        "room_desc": "COSC"
     }
 ]

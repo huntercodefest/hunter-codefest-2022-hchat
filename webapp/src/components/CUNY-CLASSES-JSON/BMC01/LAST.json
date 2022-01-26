@@ -148,5 +148,11 @@
         "major": "LAST",
         "room_num": "18338",
         "room_desc": "The Puerto Rican Family"
+    },
+    {
+        "school": "BMC01",
+        "major": "LAST",
+        "room_num": "86886",
+        "room_desc": "LAST"
     }
 ]

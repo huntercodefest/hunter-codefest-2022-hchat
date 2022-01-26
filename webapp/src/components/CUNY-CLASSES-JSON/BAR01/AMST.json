@@ -4,5 +4,11 @@
         "major": "AMST",
         "room_num": "58966",
         "room_desc": "Topics in American Studies"
+    },
+    {
+        "school": "BAR01",
+        "major": "AMST",
+        "room_num": "86610",
+        "room_desc": "AMST"
     }
 ]

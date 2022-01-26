@@ -130,5 +130,11 @@
         "major": "LANG",
         "room_num": "41574",
         "room_desc": "Norwegian 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "LANG",
+        "room_num": "87995",
+        "room_desc": "LANG"
     }
 ]

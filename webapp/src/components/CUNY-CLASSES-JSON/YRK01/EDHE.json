@@ -196,5 +196,11 @@
         "major": "EDHE",
         "room_num": "15742",
         "room_desc": "Worksite Wellness"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDHE",
+        "room_num": "87405",
+        "room_desc": "EDHE"
     }
 ]

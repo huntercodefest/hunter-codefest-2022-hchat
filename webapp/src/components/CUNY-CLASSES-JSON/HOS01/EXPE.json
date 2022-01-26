@@ -64,5 +64,11 @@
         "major": "EXPE",
         "room_num": "64744",
         "room_desc": "Science Forward"
+    },
+    {
+        "school": "HOS01",
+        "major": "EXPE",
+        "room_num": "87835",
+        "room_desc": "EXPE"
     }
 ]

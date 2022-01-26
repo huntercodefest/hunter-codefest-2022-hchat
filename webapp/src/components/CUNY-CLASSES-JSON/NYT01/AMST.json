@@ -286,5 +286,11 @@
         "major": "AMST",
         "room_num": "65225",
         "room_desc": "Vietnam and America: 1945-1975"
+    },
+    {
+        "school": "NYT01",
+        "major": "AMST",
+        "room_num": "87152",
+        "room_desc": "AMST"
     }
 ]

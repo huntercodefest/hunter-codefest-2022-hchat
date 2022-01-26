@@ -64,5 +64,11 @@
         "major": "EDHE",
         "room_num": "66296",
         "room_desc": "Human Sexuality"
+    },
+    {
+        "school": "NYT01",
+        "major": "EDHE",
+        "room_num": "87215",
+        "room_desc": "EDHE"
     }
 ]

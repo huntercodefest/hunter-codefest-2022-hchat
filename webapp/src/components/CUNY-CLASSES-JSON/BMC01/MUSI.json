@@ -1060,5 +1060,11 @@
         "major": "MUSI",
         "room_num": "18800",
         "room_desc": "Worldbeat Global Mu"
+    },
+    {
+        "school": "BMC01",
+        "major": "MUSI",
+        "room_num": "86860",
+        "room_desc": "MUSI"
     }
 ]

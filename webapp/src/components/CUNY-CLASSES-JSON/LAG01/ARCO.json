@@ -298,5 +298,11 @@
         "major": "ARCO",
         "room_num": "81279",
         "room_desc": "Voice and Diction"
+    },
+    {
+        "school": "LAG01",
+        "major": "ARCO",
+        "room_num": "86720",
+        "room_desc": "ARCO"
     }
 ]

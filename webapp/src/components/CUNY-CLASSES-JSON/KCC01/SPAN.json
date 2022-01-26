@@ -232,5 +232,11 @@
         "major": "SPAN",
         "room_num": "64039",
         "room_desc": "Spanish-American Literature"
+    },
+    {
+        "school": "KCC01",
+        "major": "SPAN",
+        "room_num": "88523",
+        "room_desc": "SPAN"
     }
 ]

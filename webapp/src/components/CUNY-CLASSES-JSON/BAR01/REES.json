@@ -196,5 +196,11 @@
         "major": "REES",
         "room_num": "62337",
         "room_desc": "Urban Economics"
+    },
+    {
+        "school": "BAR01",
+        "major": "REES",
+        "room_num": "86640",
+        "room_desc": "REES"
     }
 ]

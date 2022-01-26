@@ -178,5 +178,11 @@
         "major": "ART",
         "room_num": "68766",
         "room_desc": "Web Portfolio"
+    },
+    {
+        "school": "BCC01",
+        "major": "ART",
+        "room_num": "87341",
+        "room_desc": "ART"
     }
 ]

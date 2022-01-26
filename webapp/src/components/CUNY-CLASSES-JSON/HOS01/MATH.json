@@ -202,5 +202,11 @@
         "major": "MATH",
         "room_num": "64884",
         "room_desc": "Quantitative Reasoning"
+    },
+    {
+        "school": "HOS01",
+        "major": "MATH",
+        "room_num": "87830",
+        "room_desc": "MATH"
     }
 ]

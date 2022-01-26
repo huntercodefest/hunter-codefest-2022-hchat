@@ -640,5 +640,11 @@
         "major": "ENGL",
         "room_num": "18068",
         "room_desc": "World Lit Ii"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "86787",
+        "room_desc": "ENGL"
     }
 ]

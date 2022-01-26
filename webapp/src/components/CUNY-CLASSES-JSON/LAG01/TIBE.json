@@ -16,5 +16,11 @@
         "major": "TIBE",
         "room_num": "82896",
         "room_desc": "Tibetan for Heritage Speakers"
+    },
+    {
+        "school": "LAG01",
+        "major": "TIBE",
+        "room_num": "86708",
+        "room_desc": "TIBE"
     }
 ]

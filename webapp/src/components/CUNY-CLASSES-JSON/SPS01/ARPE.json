@@ -4,5 +4,11 @@
         "major": "ARPE",
         "room_num": "80326",
         "room_desc": "Workplace & The Arts"
+    },
+    {
+        "school": "SPS01",
+        "major": "ARPE",
+        "room_num": "87593",
+        "room_desc": "ARPE"
     }
 ]

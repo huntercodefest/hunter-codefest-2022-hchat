@@ -250,5 +250,11 @@
         "major": "ACIM",
         "room_num": "62750",
         "room_desc": "See Faculty Advisor"
+    },
+    {
+        "school": "KCC01",
+        "major": "ACIM",
+        "room_num": "88509",
+        "room_desc": "ACIM"
     }
 ]

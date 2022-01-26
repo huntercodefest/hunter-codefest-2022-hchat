@@ -2164,5 +2164,11 @@
         "major": "ENGL",
         "room_num": "26863",
         "room_desc": "Young Adult Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "ENGL",
+        "room_num": "87427",
+        "room_desc": "ENGL"
     }
 ]

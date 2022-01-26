@@ -88,5 +88,11 @@
         "major": "FREN",
         "room_num": "78782",
         "room_desc": "Rdg/Wrtg Non Lit Txt"
+    },
+    {
+        "school": "MEC01",
+        "major": "FREN",
+        "room_num": "88294",
+        "room_desc": "FREN"
     }
 ]

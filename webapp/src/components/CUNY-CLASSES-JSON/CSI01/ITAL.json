@@ -202,5 +202,11 @@
         "major": "ITAL",
         "room_num": "85310",
         "room_desc": "Themes Mod & Contemp Ital Lit"
+    },
+    {
+        "school": "CSI01",
+        "major": "ITAL",
+        "room_num": "88069",
+        "room_desc": "ITAL"
     }
 ]

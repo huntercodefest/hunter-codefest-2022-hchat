@@ -40,5 +40,11 @@
         "major": "EDLA",
         "room_num": "17821",
         "room_desc": "Tech Proc In Lib"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDLA",
+        "room_num": "86876",
+        "room_desc": "EDLA"
     }
 ]

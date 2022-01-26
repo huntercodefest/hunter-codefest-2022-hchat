@@ -214,5 +214,11 @@
         "major": "ECON",
         "room_num": "78392",
         "room_desc": "War On Drugs"
+    },
+    {
+        "school": "MEC01",
+        "major": "ECON",
+        "room_num": "88251",
+        "room_desc": "ECON"
     }
 ]

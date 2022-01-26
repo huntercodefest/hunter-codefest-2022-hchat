@@ -1,8 +1,14 @@
 [
-	{
-		"room_num": 81100,
-		"school": "SPS01",
-		"major": "YOTH",
-		"room_desc": "Devised Plays Youth"
-	}
+    {
+        "room_num": 81100,
+        "school": "SPS01",
+        "major": "YOTH",
+        "room_desc": "Devised Plays Youth"
+    },
+    {
+        "school": "SPS01",
+        "major": "YOTH",
+        "room_num": "87580",
+        "room_desc": "YOTH"
+    }
 ]

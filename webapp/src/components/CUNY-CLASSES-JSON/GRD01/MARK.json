@@ -208,5 +208,11 @@
         "major": "MARK",
         "room_num": "6763",
         "room_desc": "Web Analytics and Intelligence"
+    },
+    {
+        "school": "GRD01",
+        "major": "MARK",
+        "room_num": "88372",
+        "room_desc": "MARK"
     }
 ]

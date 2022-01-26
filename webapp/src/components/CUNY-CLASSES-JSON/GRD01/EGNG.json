@@ -1822,5 +1822,11 @@
         "major": "EGNG",
         "room_num": "4993",
         "room_desc": "Wireless Communictn"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGNG",
+        "room_num": "88409",
+        "room_desc": "EGNG"
     }
 ]

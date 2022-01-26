@@ -46,5 +46,11 @@
         "major": "HUMA",
         "room_num": "74305",
         "room_desc": "Women\u2019S Studies"
+    },
+    {
+        "school": "BKL01",
+        "major": "HUMA",
+        "room_num": "86975",
+        "room_desc": "HUMA"
     }
 ]

@@ -166,5 +166,11 @@
         "major": "EDCP",
         "room_num": "4094",
         "room_desc": "Sem: Special Issues"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDCP",
+        "room_num": "88465",
+        "room_desc": "EDCP"
     }
 ]

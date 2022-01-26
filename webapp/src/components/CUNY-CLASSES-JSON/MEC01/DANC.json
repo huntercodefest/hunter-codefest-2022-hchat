@@ -82,5 +82,11 @@
         "major": "DANC",
         "room_num": "78326",
         "room_desc": "Theory & Phil Creative Dance"
+    },
+    {
+        "school": "MEC01",
+        "major": "DANC",
+        "room_num": "88315",
+        "room_desc": "DANC"
     }
 ]

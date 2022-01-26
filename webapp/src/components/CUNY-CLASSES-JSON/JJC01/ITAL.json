@@ -40,5 +40,11 @@
         "major": "ITAL",
         "room_num": "20837",
         "room_desc": "Introductory Italian II"
+    },
+    {
+        "school": "JJC01",
+        "major": "ITAL",
+        "room_num": "87076",
+        "room_desc": "ITAL"
     }
 ]

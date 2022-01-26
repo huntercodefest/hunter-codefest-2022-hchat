@@ -130,5 +130,11 @@
         "major": "RATE",
         "room_num": "82676",
         "room_desc": "Women Body"
+    },
+    {
+        "school": "LAG01",
+        "major": "RATE",
+        "room_num": "86695",
+        "room_desc": "RATE"
     }
 ]

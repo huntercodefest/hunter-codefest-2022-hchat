@@ -124,5 +124,11 @@
         "major": "FINA",
         "room_num": "78767",
         "room_desc": "Real Estate Invstmnt Analys I"
+    },
+    {
+        "school": "MEC01",
+        "major": "FINA",
+        "room_num": "88311",
+        "room_desc": "FINA"
     }
 ]

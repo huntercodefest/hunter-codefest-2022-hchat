@@ -400,5 +400,11 @@
         "major": "SPED",
         "room_num": "30850",
         "room_desc": "Workshop in Special Education"
+    },
+    {
+        "school": "QNS01",
+        "major": "SPED",
+        "room_num": "87521",
+        "room_desc": "SPED"
     }
 ]

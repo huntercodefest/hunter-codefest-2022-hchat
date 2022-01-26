@@ -340,5 +340,11 @@
         "major": "GEOL",
         "room_num": "52025",
         "room_desc": "Vertbt Paleontology"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "87678",
+        "room_desc": "GEOL"
     }
 ]

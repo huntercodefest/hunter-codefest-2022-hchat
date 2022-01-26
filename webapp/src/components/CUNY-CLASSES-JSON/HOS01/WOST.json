@@ -28,5 +28,11 @@
         "major": "WOST",
         "room_num": "65074",
         "room_desc": "Women in Literature"
+    },
+    {
+        "school": "HOS01",
+        "major": "WOST",
+        "room_num": "87833",
+        "room_desc": "WOST"
     }
 ]

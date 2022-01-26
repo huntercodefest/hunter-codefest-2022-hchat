@@ -208,5 +208,11 @@
         "major": "ARAB",
         "room_num": "46283",
         "room_desc": "Topics in Arabic Lit & Culture"
+    },
+    {
+        "school": "HTR01",
+        "major": "ARAB",
+        "room_num": "87742",
+        "room_desc": "ARAB"
     }
 ]

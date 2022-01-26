@@ -310,5 +310,11 @@
         "major": "PHIL",
         "room_num": "85943",
         "room_desc": "Theories of Lit and Criticism"
+    },
+    {
+        "school": "CSI01",
+        "major": "PHIL",
+        "room_num": "88106",
+        "room_desc": "PHIL"
     }
 ]

@@ -52,5 +52,11 @@
         "major": "BICH",
         "room_num": "47308",
         "room_desc": "Thesis Research"
+    },
+    {
+        "school": "HTR01",
+        "major": "BICH",
+        "room_num": "87733",
+        "room_desc": "BICH"
     }
 ]

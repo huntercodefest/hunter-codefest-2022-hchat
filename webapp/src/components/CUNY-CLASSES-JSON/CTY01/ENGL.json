@@ -7780,5 +7780,11 @@
         "major": "ENGL",
         "room_num": "39391",
         "room_desc": "Zora Neale Hurston"
+    },
+    {
+        "school": "CTY01",
+        "major": "ENGL",
+        "room_num": "87911",
+        "room_desc": "ENGL"
     }
 ]

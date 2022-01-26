@@ -28,5 +28,11 @@
         "major": "GEIS",
         "room_num": "18147",
         "room_desc": "Intro To Geographic Methods"
+    },
+    {
+        "school": "BMC01",
+        "major": "GEIS",
+        "room_num": "86845",
+        "room_desc": "GEIS"
     }
 ]

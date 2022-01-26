@@ -58,5 +58,11 @@
         "major": "BOTA",
         "room_num": "11288",
         "room_desc": "Systematic Botany"
+    },
+    {
+        "school": "LEH01",
+        "major": "BOTA",
+        "room_num": "88207",
+        "room_desc": "BOTA"
     }
 ]

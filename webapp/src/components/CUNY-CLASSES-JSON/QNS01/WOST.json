@@ -52,5 +52,11 @@
         "major": "WOST",
         "room_num": "31192",
         "room_desc": "Writing Tutorial"
+    },
+    {
+        "school": "QNS01",
+        "major": "WOST",
+        "room_num": "87529",
+        "room_desc": "WOST"
     }
 ]

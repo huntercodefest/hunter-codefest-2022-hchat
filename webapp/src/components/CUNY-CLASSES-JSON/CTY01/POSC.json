@@ -2098,5 +2098,11 @@
         "major": "POSC",
         "room_num": "43411",
         "room_desc": "World Geography"
+    },
+    {
+        "school": "CTY01",
+        "major": "POSC",
+        "room_num": "87984",
+        "room_desc": "POSC"
     }
 ]

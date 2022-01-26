@@ -22,5 +22,11 @@
         "major": "LATI",
         "room_num": "85386",
         "room_desc": "LAT Independent Study"
+    },
+    {
+        "school": "CSI01",
+        "major": "LATI",
+        "room_num": "88050",
+        "room_desc": "LATI"
     }
 ]

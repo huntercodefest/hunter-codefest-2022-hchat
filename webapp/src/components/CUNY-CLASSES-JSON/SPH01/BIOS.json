@@ -112,5 +112,11 @@
         "major": "BIOS",
         "room_num": "19",
         "room_desc": "Topics in Biostatistics"
+    },
+    {
+        "school": "SPH01",
+        "major": "BIOS",
+        "room_num": "88324",
+        "room_desc": "BIOS"
     }
 ]

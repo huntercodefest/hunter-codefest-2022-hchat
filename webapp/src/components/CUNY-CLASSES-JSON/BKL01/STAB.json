@@ -316,5 +316,11 @@
         "major": "STAB",
         "room_num": "77314",
         "room_desc": "Study Abroad: Israel"
+    },
+    {
+        "school": "BKL01",
+        "major": "STAB",
+        "room_num": "86951",
+        "room_desc": "STAB"
     }
 ]

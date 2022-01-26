@@ -292,5 +292,11 @@
         "major": "NUTR",
         "room_num": "55099",
         "room_desc": "Tp:Hunger in America"
+    },
+    {
+        "school": "HTR01",
+        "major": "NUTR",
+        "room_num": "87635",
+        "room_desc": "NUTR"
     }
 ]

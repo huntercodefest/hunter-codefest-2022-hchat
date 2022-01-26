@@ -460,5 +460,11 @@
         "major": "ENGL",
         "room_num": "20414",
         "room_desc": "Wrtng&Search Sk"
+    },
+    {
+        "school": "JJC01",
+        "major": "ENGL",
+        "room_num": "87041",
+        "room_desc": "ENGL"
     }
 ]

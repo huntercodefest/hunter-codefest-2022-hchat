@@ -94,5 +94,11 @@
         "major": "ENSL",
         "room_num": "18084",
         "room_desc": "Intermdte-Advanced ESL Writing"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENSL",
+        "room_num": "86809",
+        "room_desc": "ENSL"
     }
 ]

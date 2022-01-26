@@ -118,5 +118,11 @@
         "major": "ASTR",
         "room_num": "65449",
         "room_desc": "Universe Theories"
+    },
+    {
+        "school": "NYT01",
+        "major": "ASTR",
+        "room_num": "87157",
+        "room_desc": "ASTR"
     }
 ]

@@ -40,5 +40,11 @@
         "major": "BICH",
         "room_num": "24270",
         "room_desc": "Vt:Topics In Biochem"
+    },
+    {
+        "school": "QNS01",
+        "major": "BICH",
+        "room_num": "87509",
+        "room_desc": "BICH"
     }
 ]

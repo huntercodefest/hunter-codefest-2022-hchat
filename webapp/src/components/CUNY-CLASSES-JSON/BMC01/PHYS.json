@@ -70,5 +70,11 @@
         "major": "PHYS",
         "room_num": "18953",
         "room_desc": "University Physics II"
+    },
+    {
+        "school": "BMC01",
+        "major": "PHYS",
+        "room_num": "86798",
+        "room_desc": "PHYS"
     }
 ]

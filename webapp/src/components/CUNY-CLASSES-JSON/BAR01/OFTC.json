@@ -88,5 +88,11 @@
         "major": "OFTC",
         "room_num": "61595",
         "room_desc": "Pitman Inter Shorthd"
+    },
+    {
+        "school": "BAR01",
+        "major": "OFTC",
+        "room_num": "86648",
+        "room_desc": "OFTC"
     }
 ]

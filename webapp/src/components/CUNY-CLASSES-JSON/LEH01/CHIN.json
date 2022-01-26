@@ -46,5 +46,11 @@
         "major": "CHIN",
         "room_num": "11431",
         "room_desc": "Intermediate Chinese II"
+    },
+    {
+        "school": "LEH01",
+        "major": "CHIN",
+        "room_num": "88194",
+        "room_desc": "CHIN"
     }
 ]

@@ -10,5 +10,11 @@
         "major": "LANG",
         "room_num": "79019",
         "room_desc": "Language Elective Reviewed"
+    },
+    {
+        "school": "MEC01",
+        "major": "LANG",
+        "room_num": "88292",
+        "room_desc": "LANG"
     }
 ]

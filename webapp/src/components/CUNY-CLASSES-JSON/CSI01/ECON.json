@@ -448,5 +448,11 @@
         "major": "ECON",
         "room_num": "84035",
         "room_desc": "Women and the Economy"
+    },
+    {
+        "school": "CSI01",
+        "major": "ECON",
+        "room_num": "88045",
+        "room_desc": "ECON"
     }
 ]

@@ -52,5 +52,11 @@
         "major": "ITAL",
         "room_num": "63578",
         "room_desc": "Readings Italian Lit in Transl"
+    },
+    {
+        "school": "KCC01",
+        "major": "ITAL",
+        "room_num": "88506",
+        "room_desc": "ITAL"
     }
 ]

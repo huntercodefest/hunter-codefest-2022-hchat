@@ -1552,5 +1552,11 @@
         "major": "ANTH",
         "room_num": "524",
         "room_desc": "Zooarchaeology"
+    },
+    {
+        "school": "GRD01",
+        "major": "ANTH",
+        "room_num": "88459",
+        "room_desc": "ANTH"
     }
 ]

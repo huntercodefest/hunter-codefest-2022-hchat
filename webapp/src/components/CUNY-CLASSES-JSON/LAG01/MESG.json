@@ -448,5 +448,11 @@
         "major": "MESG",
         "room_num": "82355",
         "room_desc": "Veterans Program"
+    },
+    {
+        "school": "LAG01",
+        "major": "MESG",
+        "room_num": "86722",
+        "room_desc": "MESG"
     }
 ]

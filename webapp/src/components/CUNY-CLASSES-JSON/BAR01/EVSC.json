@@ -238,5 +238,11 @@
         "major": "EVSC",
         "room_num": "60276",
         "room_desc": "Tropical Reef Ecology"
+    },
+    {
+        "school": "BAR01",
+        "major": "EVSC",
+        "room_num": "86684",
+        "room_desc": "EVSC"
     }
 ]

@@ -94,5 +94,11 @@
         "major": "DIHU",
         "room_num": "3783",
         "room_desc": "Working with Data: Fundamntals"
+    },
+    {
+        "school": "GRD01",
+        "major": "DIHU",
+        "room_num": "88354",
+        "room_desc": "DIHU"
     }
 ]

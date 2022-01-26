@@ -232,5 +232,11 @@
         "major": "LANG",
         "room_num": "85381",
         "room_desc": "Women in European Literature"
+    },
+    {
+        "school": "CSI01",
+        "major": "LANG",
+        "room_num": "88101",
+        "room_desc": "LANG"
     }
 ]

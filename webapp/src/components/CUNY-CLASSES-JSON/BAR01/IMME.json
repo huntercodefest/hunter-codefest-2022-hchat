@@ -40,5 +40,11 @@
         "major": "IMME",
         "room_num": "60643",
         "room_desc": "Univ Bsc Sk Prog Wrt"
+    },
+    {
+        "school": "BAR01",
+        "major": "IMME",
+        "room_num": "86606",
+        "room_desc": "IMME"
     }
 ]

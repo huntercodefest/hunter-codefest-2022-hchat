@@ -100,5 +100,11 @@
         "major": "ACIM",
         "room_num": "77959",
         "room_desc": "Study Center"
+    },
+    {
+        "school": "MEC01",
+        "major": "ACIM",
+        "room_num": "88270",
+        "room_desc": "ACIM"
     }
 ]

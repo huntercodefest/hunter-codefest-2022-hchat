@@ -196,5 +196,11 @@
         "major": "NURS",
         "room_num": "69407",
         "room_desc": "Vocational Adjustmnt"
+    },
+    {
+        "school": "BCC01",
+        "major": "NURS",
+        "room_num": "87259",
+        "room_desc": "NURS"
     }
 ]

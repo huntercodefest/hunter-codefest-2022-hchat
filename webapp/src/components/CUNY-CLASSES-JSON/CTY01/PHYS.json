@@ -778,5 +778,11 @@
         "major": "PHYS",
         "room_num": "43042",
         "room_desc": "Wave Motn-Acoustics"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHYS",
+        "room_num": "87924",
+        "room_desc": "PHYS"
     }
 ]

@@ -28,5 +28,11 @@
         "major": "BESC",
         "room_num": "62875",
         "room_desc": "Introduction to Research"
+    },
+    {
+        "school": "KCC01",
+        "major": "BESC",
+        "room_num": "88504",
+        "room_desc": "BESC"
     }
 ]

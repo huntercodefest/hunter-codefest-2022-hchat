@@ -40,5 +40,11 @@
         "major": "NASS",
         "room_num": "13957",
         "room_desc": "Science Internship"
+    },
+    {
+        "school": "LEH01",
+        "major": "NASS",
+        "room_num": "88212",
+        "room_desc": "NASS"
     }
 ]

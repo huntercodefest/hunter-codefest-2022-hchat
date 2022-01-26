@@ -4,5 +4,11 @@
         "major": "CUBA",
         "room_num": "59722",
         "room_desc": "CUNY Baccalaureate"
+    },
+    {
+        "school": "BAR01",
+        "major": "CUBA",
+        "room_num": "86653",
+        "room_desc": "CUBA"
     }
 ]

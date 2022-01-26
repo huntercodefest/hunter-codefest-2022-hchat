@@ -568,5 +568,11 @@
         "major": "MATH",
         "room_num": "79180",
         "room_desc": "Workshop for MTH 136"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "88299",
+        "room_desc": "MATH"
     }
 ]

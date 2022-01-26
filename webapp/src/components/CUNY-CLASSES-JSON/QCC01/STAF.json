@@ -22,5 +22,11 @@
         "major": "STAF",
         "room_num": "23443",
         "room_desc": "Strategies for College Success"
+    },
+    {
+        "school": "QCC01",
+        "major": "STAF",
+        "room_num": "87884",
+        "room_desc": "STAF"
     }
 ]

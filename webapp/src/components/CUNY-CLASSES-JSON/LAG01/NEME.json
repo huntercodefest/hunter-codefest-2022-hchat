@@ -64,5 +64,11 @@
         "major": "NEME",
         "room_num": "82433",
         "room_desc": "Web Development"
+    },
+    {
+        "school": "LAG01",
+        "major": "NEME",
+        "room_num": "86757",
+        "room_desc": "NEME"
     }
 ]

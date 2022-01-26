@@ -832,5 +832,11 @@
         "major": "EDPS",
         "room_num": "4268",
         "room_desc": "Topc/Instructon Psy"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDPS",
+        "room_num": "88337",
+        "room_desc": "EDPS"
     }
 ]

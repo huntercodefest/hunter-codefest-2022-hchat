@@ -256,5 +256,11 @@
         "major": "CMIS",
         "room_num": "17533",
         "room_desc": "intro Spreadsheet Applications"
+    },
+    {
+        "school": "BMC01",
+        "major": "CMIS",
+        "room_num": "86872",
+        "room_desc": "CMIS"
     }
 ]

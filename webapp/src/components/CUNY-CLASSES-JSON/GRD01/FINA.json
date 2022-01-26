@@ -292,5 +292,11 @@
         "major": "FINA",
         "room_num": "5409",
         "room_desc": "Thesis Alternative"
+    },
+    {
+        "school": "GRD01",
+        "major": "FINA",
+        "room_num": "88460",
+        "room_desc": "FINA"
     }
 ]

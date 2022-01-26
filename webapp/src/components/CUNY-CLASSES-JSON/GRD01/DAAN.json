@@ -58,5 +58,11 @@
         "major": "DAAN",
         "room_num": "3757",
         "room_desc": "Working with Data:Fundamentals"
+    },
+    {
+        "school": "GRD01",
+        "major": "DAAN",
+        "room_num": "88443",
+        "room_desc": "DAAN"
     }
 ]

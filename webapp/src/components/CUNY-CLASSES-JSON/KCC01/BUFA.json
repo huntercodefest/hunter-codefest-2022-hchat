@@ -58,5 +58,11 @@
         "major": "BUFA",
         "room_num": "62965",
         "room_desc": "Textile/Non-Tex Analysis"
+    },
+    {
+        "school": "KCC01",
+        "major": "BUFA",
+        "room_num": "88491",
+        "room_desc": "BUFA"
     }
 ]

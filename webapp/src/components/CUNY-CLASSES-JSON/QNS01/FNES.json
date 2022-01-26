@@ -1264,5 +1264,11 @@
         "major": "FNES",
         "room_num": "27140",
         "room_desc": "Wilderness Skills"
+    },
+    {
+        "school": "QNS01",
+        "major": "FNES",
+        "room_num": "87428",
+        "room_desc": "FNES"
     }
 ]

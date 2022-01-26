@@ -1648,5 +1648,11 @@
         "major": "EGEL",
         "room_num": "37768",
         "room_desc": "Ylsi Design"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGEL",
+        "room_num": "87967",
+        "room_desc": "EGEL"
     }
 ]

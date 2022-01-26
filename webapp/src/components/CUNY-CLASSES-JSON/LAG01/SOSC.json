@@ -460,5 +460,11 @@
         "major": "SOSC",
         "room_num": "82826",
         "room_desc": "Wstrn Civil Anc Times-Renaiss"
+    },
+    {
+        "school": "LAG01",
+        "major": "SOSC",
+        "room_num": "86776",
+        "room_desc": "SOSC"
     }
 ]

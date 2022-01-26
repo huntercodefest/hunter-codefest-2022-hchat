@@ -574,5 +574,11 @@
         "major": "SCIE",
         "room_num": "44045",
         "room_desc": "Wellness & Fitness"
+    },
+    {
+        "school": "CTY01",
+        "major": "SCIE",
+        "room_num": "87951",
+        "room_desc": "SCIE"
     }
 ]

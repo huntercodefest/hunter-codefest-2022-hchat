@@ -160,5 +160,11 @@
         "major": "GEOL",
         "room_num": "16094",
         "room_desc": "Weather and Climate"
+    },
+    {
+        "school": "YRK01",
+        "major": "GEOL",
+        "room_num": "87373",
+        "room_desc": "GEOL"
     }
 ]

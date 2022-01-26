@@ -64,5 +64,11 @@
         "major": "CYNE",
         "room_num": "68933",
         "room_desc": "Network Switching and Routing"
+    },
+    {
+        "school": "BCC01",
+        "major": "CYNE",
+        "room_num": "87308",
+        "room_desc": "CYNE"
     }
 ]

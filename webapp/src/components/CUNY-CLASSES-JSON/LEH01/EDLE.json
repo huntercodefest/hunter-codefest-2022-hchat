@@ -160,5 +160,11 @@
         "major": "EDLE",
         "room_num": "12012",
         "room_desc": "Tech12013: EDLE,\"Vision12014: EDMI,\"2nd Lang Lrng&Tchng"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDLE",
+        "room_num": "88225",
+        "room_desc": "EDLE"
     }
 ]

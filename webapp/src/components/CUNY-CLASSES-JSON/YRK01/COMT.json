@@ -136,5 +136,11 @@
         "major": "COMT",
         "room_num": "15625",
         "room_desc": "Webcasting"
+    },
+    {
+        "school": "YRK01",
+        "major": "COMT",
+        "room_num": "87366",
+        "room_desc": "COMT"
     }
 ]

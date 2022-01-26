@@ -34,5 +34,11 @@
         "major": "PERM",
         "room_num": "79695",
         "room_desc": "Permit to Cuny USA"
+    },
+    {
+        "school": "MEC01",
+        "major": "PERM",
+        "room_num": "88247",
+        "room_desc": "PERM"
     }
 ]

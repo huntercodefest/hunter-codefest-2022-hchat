@@ -196,5 +196,11 @@
         "major": "EDFC",
         "room_num": "11982",
         "room_desc": "Weaving I"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDFC",
+        "room_num": "88153",
+        "room_desc": "EDFC"
     }
 ]

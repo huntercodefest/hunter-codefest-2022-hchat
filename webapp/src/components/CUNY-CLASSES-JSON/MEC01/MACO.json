@@ -28,5 +28,11 @@
         "major": "MACO",
         "room_num": "79034",
         "room_desc": "Intro Digital Tech: Hist & Dev"
+    },
+    {
+        "school": "MEC01",
+        "major": "MACO",
+        "room_num": "88256",
+        "room_desc": "MACO"
     }
 ]

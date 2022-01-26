@@ -28,5 +28,11 @@
         "major": "EGME",
         "room_num": "64639",
         "room_desc": "Mechanics of Materials"
+    },
+    {
+        "school": "HOS01",
+        "major": "EGME",
+        "room_num": "87810",
+        "room_desc": "EGME"
     }
 ]

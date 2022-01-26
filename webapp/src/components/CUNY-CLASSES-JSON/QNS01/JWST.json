@@ -22,5 +22,11 @@
         "major": "JWST",
         "room_num": "28425",
         "room_desc": "Senior Seminar"
+    },
+    {
+        "school": "QNS01",
+        "major": "JWST",
+        "room_num": "87476",
+        "room_desc": "JWST"
     }
 ]

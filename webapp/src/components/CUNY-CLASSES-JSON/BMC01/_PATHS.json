@@ -422,5 +422,9 @@
     {
         "major": "ART",
         "path": "ART.json"
+    },
+    {
+        "major": "BMC01",
+        "path": "BMC01.json"
     }
 ]

@@ -1660,5 +1660,11 @@
         "major": "BLST",
         "room_num": "33577",
         "room_desc": "Wrkrs Fact-Fict-Film"
+    },
+    {
+        "school": "CTY01",
+        "major": "BLST",
+        "room_num": "87983",
+        "room_desc": "BLST"
     }
 ]

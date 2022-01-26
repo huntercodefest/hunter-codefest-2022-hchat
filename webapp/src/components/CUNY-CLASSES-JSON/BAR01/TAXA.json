@@ -232,5 +232,11 @@
         "major": "TAXA",
         "room_num": "62653",
         "room_desc": "Thesis"
+    },
+    {
+        "school": "BAR01",
+        "major": "TAXA",
+        "room_num": "86615",
+        "room_desc": "TAXA"
     }
 ]

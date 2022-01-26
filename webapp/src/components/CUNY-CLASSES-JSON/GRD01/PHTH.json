@@ -322,5 +322,11 @@
         "major": "PHTH",
         "room_num": "8515",
         "room_desc": "Upper Ext Kines/Assmnt - Lec"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHTH",
+        "room_num": "88408",
+        "room_desc": "PHTH"
     }
 ]

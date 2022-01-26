@@ -28,5 +28,11 @@
         "major": "MESG",
         "room_num": "63694",
         "room_desc": "Cpi Hs Units For Sci"
+    },
+    {
+        "school": "KCC01",
+        "major": "MESG",
+        "room_num": "88505",
+        "room_desc": "MESG"
     }
 ]

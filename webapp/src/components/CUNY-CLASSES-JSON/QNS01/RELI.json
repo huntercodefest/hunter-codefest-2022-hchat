@@ -94,5 +94,11 @@
         "major": "RELI",
         "room_num": "30370",
         "room_desc": "Studies in Religion"
+    },
+    {
+        "school": "QNS01",
+        "major": "RELI",
+        "room_num": "87423",
+        "room_desc": "RELI"
     }
 ]

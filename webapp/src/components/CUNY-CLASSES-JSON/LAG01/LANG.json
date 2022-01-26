@@ -178,5 +178,11 @@
         "major": "LANG",
         "room_num": "82105",
         "room_desc": "Teach Read"
+    },
+    {
+        "school": "LAG01",
+        "major": "LANG",
+        "room_num": "86761",
+        "room_desc": "LANG"
     }
 ]

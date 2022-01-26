@@ -4,5 +4,11 @@
         "major": "HEAL",
         "room_num": "69165",
         "room_desc": "Hsa Workshop I"
+    },
+    {
+        "school": "BCC01",
+        "major": "HEAL",
+        "room_num": "87300",
+        "room_desc": "HEAL"
     }
 ]

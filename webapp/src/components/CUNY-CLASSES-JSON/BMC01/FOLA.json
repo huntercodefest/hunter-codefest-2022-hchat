@@ -10,5 +10,11 @@
         "major": "FOLA",
         "room_num": "18108",
         "room_desc": "Spanish I"
+    },
+    {
+        "school": "BMC01",
+        "major": "FOLA",
+        "room_num": "86817",
+        "room_desc": "FOLA"
     }
 ]

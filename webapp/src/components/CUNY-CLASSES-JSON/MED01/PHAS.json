@@ -190,5 +190,11 @@
         "major": "PHAS",
         "room_num": "19363",
         "room_desc": "Technical Skills"
+    },
+    {
+        "school": "MED01",
+        "major": "PHAS",
+        "room_num": "87033",
+        "room_desc": "PHAS"
     }
 ]

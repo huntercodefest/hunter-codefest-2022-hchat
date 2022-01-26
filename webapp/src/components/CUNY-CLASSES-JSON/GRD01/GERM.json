@@ -598,5 +598,11 @@
         "major": "GERM",
         "room_num": "5791",
         "room_desc": "Women in German Literature"
+    },
+    {
+        "school": "GRD01",
+        "major": "GERM",
+        "room_num": "88394",
+        "room_desc": "GERM"
     }
 ]

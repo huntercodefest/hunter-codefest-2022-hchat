@@ -40,5 +40,11 @@
         "major": "EDLT",
         "room_num": "49665",
         "room_desc": "Stu Teaching in Latin: Gr 7-9"
+    },
+    {
+        "school": "HTR01",
+        "major": "EDLT",
+        "room_num": "87653",
+        "room_desc": "EDLT"
     }
 ]

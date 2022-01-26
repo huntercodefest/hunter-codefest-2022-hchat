@@ -166,5 +166,11 @@
         "major": "ECON",
         "room_num": "17726",
         "room_desc": "Public Economics (Honors)"
+    },
+    {
+        "school": "BMC01",
+        "major": "ECON",
+        "room_num": "86806",
+        "room_desc": "ECON"
     }
 ]

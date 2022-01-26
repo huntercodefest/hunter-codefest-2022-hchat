@@ -832,5 +832,11 @@
         "major": "EGCH",
         "room_num": "37223",
         "room_desc": "Viscus Flow Theory"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCH",
+        "room_num": "87912",
+        "room_desc": "EGCH"
     }
 ]

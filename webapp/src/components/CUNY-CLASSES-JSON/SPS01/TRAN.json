@@ -28,5 +28,11 @@
         "major": "TRAN",
         "room_num": "81056",
         "room_desc": "Worker Health and Safety"
+    },
+    {
+        "school": "SPS01",
+        "major": "TRAN",
+        "room_num": "87588",
+        "room_desc": "TRAN"
     }
 ]

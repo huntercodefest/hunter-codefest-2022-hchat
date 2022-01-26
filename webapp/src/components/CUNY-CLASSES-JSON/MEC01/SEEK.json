@@ -22,5 +22,11 @@
         "major": "SEEK",
         "room_num": "79969",
         "room_desc": "Spec Prgms Acad Enhncmnt Sem"
+    },
+    {
+        "school": "MEC01",
+        "major": "SEEK",
+        "room_num": "88257",
+        "room_desc": "SEEK"
     }
 ]

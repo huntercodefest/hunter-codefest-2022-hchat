@@ -124,5 +124,11 @@
         "major": "INTE",
         "room_num": "13249",
         "room_desc": "The Social Sciences"
+    },
+    {
+        "school": "LEH01",
+        "major": "INTE",
+        "room_num": "88177",
+        "room_desc": "INTE"
     }
 ]

@@ -214,5 +214,11 @@
         "major": "EPID",
         "room_num": "51235",
         "room_desc": "Topics In Epidemiology"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "87668",
+        "room_desc": "EPID"
     }
 ]

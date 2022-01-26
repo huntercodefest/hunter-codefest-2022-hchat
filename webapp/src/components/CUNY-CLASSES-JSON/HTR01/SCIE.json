@@ -28,5 +28,11 @@
         "major": "SCIE",
         "room_num": "57048",
         "room_desc": "Sci:Mdcal & Rsrch Car"
+    },
+    {
+        "school": "HTR01",
+        "major": "SCIE",
+        "room_num": "87684",
+        "room_desc": "SCIE"
     }
 ]

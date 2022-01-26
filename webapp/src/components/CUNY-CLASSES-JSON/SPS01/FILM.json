@@ -10,5 +10,11 @@
         "major": "FILM",
         "room_num": "80666",
         "room_desc": "The American Workplace on Film"
+    },
+    {
+        "school": "SPS01",
+        "major": "FILM",
+        "room_num": "87563",
+        "room_desc": "FILM"
     }
 ]

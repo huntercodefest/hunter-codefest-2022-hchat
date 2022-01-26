@@ -196,5 +196,11 @@
         "major": "DANC",
         "room_num": "66078",
         "room_desc": "Square Dance"
+    },
+    {
+        "school": "NYT01",
+        "major": "DANC",
+        "room_num": "87243",
+        "room_desc": "DANC"
     }
 ]

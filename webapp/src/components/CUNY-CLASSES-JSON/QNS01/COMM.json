@@ -532,5 +532,11 @@
         "major": "COMM",
         "room_num": "24952",
         "room_desc": "Women24953: COUN,\"Couple/Fam Counsel"
+    },
+    {
+        "school": "QNS01",
+        "major": "COMM",
+        "room_num": "87444",
+        "room_desc": "COMM"
     }
 ]

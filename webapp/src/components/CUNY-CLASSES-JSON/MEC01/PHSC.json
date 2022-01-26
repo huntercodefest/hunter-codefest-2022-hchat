@@ -76,5 +76,11 @@
         "major": "PHSC",
         "room_num": "79723",
         "room_desc": "Spec Top Telecom"
+    },
+    {
+        "school": "MEC01",
+        "major": "PHSC",
+        "room_num": "88261",
+        "room_desc": "PHSC"
     }
 ]

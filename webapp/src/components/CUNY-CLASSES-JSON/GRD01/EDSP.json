@@ -28,5 +28,11 @@
         "major": "EDSP",
         "room_num": "4273",
         "room_desc": "Spec Edu Resch Fund"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDSP",
+        "room_num": "88333",
+        "room_desc": "EDSP"
     }
 ]

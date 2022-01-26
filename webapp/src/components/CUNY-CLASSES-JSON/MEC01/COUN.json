@@ -88,5 +88,11 @@
         "major": "COUN",
         "room_num": "78312",
         "room_desc": "Skills for Urban Living"
+    },
+    {
+        "school": "MEC01",
+        "major": "COUN",
+        "room_num": "88272",
+        "room_desc": "COUN"
     }
 ]

@@ -256,5 +256,11 @@
         "major": "RECR",
         "room_num": "14489",
         "room_desc": "Thesis"
+    },
+    {
+        "school": "LEH01",
+        "major": "RECR",
+        "room_num": "88202",
+        "room_desc": "RECR"
     }
 ]

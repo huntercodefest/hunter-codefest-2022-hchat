@@ -1468,5 +1468,11 @@
         "major": "UBST",
         "room_num": "31150",
         "room_desc": "Wrtng Inten Urbn Rsrch Wrkshp"
+    },
+    {
+        "school": "QNS01",
+        "major": "UBST",
+        "room_num": "87439",
+        "room_desc": "UBST"
     }
 ]

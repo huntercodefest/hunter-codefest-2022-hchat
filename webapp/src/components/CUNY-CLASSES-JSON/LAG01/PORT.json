@@ -16,5 +16,11 @@
         "major": "PORT",
         "room_num": "82639",
         "room_desc": "Portuguese-Spa Spk I"
+    },
+    {
+        "school": "LAG01",
+        "major": "PORT",
+        "room_num": "86772",
+        "room_desc": "PORT"
     }
 ]

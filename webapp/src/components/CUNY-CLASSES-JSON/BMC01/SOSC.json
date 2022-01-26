@@ -280,5 +280,11 @@
         "major": "SOSC",
         "room_num": "19163",
         "room_desc": "The Black Experience in Africa"
+    },
+    {
+        "school": "BMC01",
+        "major": "SOSC",
+        "room_num": "86877",
+        "room_desc": "SOSC"
     }
 ]

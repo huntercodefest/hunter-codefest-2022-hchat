@@ -334,5 +334,11 @@
         "major": "BUSI",
         "room_num": "80399",
         "room_desc": "Workplace Values and Happiness"
+    },
+    {
+        "school": "SPS01",
+        "major": "BUSI",
+        "room_num": "87582",
+        "room_desc": "BUSI"
     }
 ]

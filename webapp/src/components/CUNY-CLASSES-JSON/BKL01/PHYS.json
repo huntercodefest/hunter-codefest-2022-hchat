@@ -562,5 +562,11 @@
         "major": "PHYS",
         "room_num": "75761",
         "room_desc": "Topic Nuclear Physic"
+    },
+    {
+        "school": "BKL01",
+        "major": "PHYS",
+        "room_num": "86937",
+        "room_desc": "PHYS"
     }
 ]

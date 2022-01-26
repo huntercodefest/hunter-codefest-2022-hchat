@@ -58,5 +58,11 @@
         "major": "ASTR",
         "room_num": "11128",
         "room_desc": "Stellar Astronomy"
+    },
+    {
+        "school": "LEH01",
+        "major": "ASTR",
+        "room_num": "88145",
+        "room_desc": "ASTR"
     }
 ]

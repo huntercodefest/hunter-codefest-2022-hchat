@@ -16,5 +16,11 @@
         "major": "EDEC",
         "room_num": "81751",
         "room_desc": "Integrated Curr C"
+    },
+    {
+        "school": "LAG01",
+        "major": "EDEC",
+        "room_num": "86721",
+        "room_desc": "EDEC"
     }
 ]

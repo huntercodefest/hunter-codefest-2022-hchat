@@ -10,5 +10,11 @@
         "major": "ART",
         "room_num": "64180",
         "room_desc": "The Arts in New York City"
+    },
+    {
+        "school": "NCC01",
+        "major": "ART",
+        "room_num": "86925",
+        "room_desc": "ART"
     }
 ]

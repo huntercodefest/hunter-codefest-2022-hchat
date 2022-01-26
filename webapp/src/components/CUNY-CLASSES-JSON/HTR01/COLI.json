@@ -838,5 +838,11 @@
         "major": "COLI",
         "room_num": "48257",
         "room_desc": "Writ Behnd Bars Gulag Cult Leg"
+    },
+    {
+        "school": "HTR01",
+        "major": "COLI",
+        "room_num": "87740",
+        "room_desc": "COLI"
     }
 ]

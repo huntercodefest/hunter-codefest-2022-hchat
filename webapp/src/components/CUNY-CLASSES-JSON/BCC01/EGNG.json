@@ -16,5 +16,11 @@
         "major": "EGNG",
         "room_num": "69026",
         "room_desc": "Intro to Engineering Design"
+    },
+    {
+        "school": "BCC01",
+        "major": "EGNG",
+        "room_num": "87306",
+        "room_desc": "EGNG"
     }
 ]

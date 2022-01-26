@@ -394,5 +394,11 @@
         "major": "ART",
         "room_num": "59137",
         "room_desc": "Visual Arts On Film"
+    },
+    {
+        "school": "BAR01",
+        "major": "ART",
+        "room_num": "86687",
+        "room_desc": "ART"
     }
 ]

@@ -16,5 +16,11 @@
         "major": "FROR",
         "room_num": "27250",
         "room_desc": "Tutorial"
+    },
+    {
+        "school": "QNS01",
+        "major": "FROR",
+        "room_num": "87454",
+        "room_desc": "FROR"
     }
 ]

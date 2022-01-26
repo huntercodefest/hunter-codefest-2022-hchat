@@ -316,5 +316,11 @@
         "major": "ARCE",
         "room_num": "31555",
         "room_desc": "Visual Studies I"
+    },
+    {
+        "school": "CTY01",
+        "major": "ARCE",
+        "room_num": "87933",
+        "room_desc": "ARCE"
     }
 ]

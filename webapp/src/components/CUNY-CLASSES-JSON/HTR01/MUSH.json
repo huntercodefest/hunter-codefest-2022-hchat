@@ -754,5 +754,11 @@
         "major": "MUSH",
         "room_num": "54429",
         "room_desc": "Women in Music"
+    },
+    {
+        "school": "HTR01",
+        "major": "MUSH",
+        "room_num": "87714",
+        "room_desc": "MUSH"
     }
 ]

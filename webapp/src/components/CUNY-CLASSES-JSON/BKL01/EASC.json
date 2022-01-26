@@ -880,5 +880,11 @@
         "major": "EASC",
         "room_num": "71503",
         "room_desc": "Xray Diffract Anal"
+    },
+    {
+        "school": "BKL01",
+        "major": "EASC",
+        "room_num": "86939",
+        "room_desc": "EASC"
     }
 ]

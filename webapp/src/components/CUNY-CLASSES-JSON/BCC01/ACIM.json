@@ -10,5 +10,11 @@
         "major": "ACIM",
         "room_num": "68728",
         "room_desc": "Plato Workshop 2"
+    },
+    {
+        "school": "BCC01",
+        "major": "ACIM",
+        "room_num": "87294",
+        "room_desc": "ACIM"
     }
 ]

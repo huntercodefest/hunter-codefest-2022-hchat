@@ -544,5 +544,11 @@
         "major": "ANTH",
         "room_num": "10958",
         "room_desc": "Women&Men:Anth Persp"
+    },
+    {
+        "school": "LEH01",
+        "major": "ANTH",
+        "room_num": "88229",
+        "room_desc": "ANTH"
     }
 ]

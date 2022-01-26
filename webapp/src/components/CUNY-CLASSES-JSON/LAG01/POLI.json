@@ -28,5 +28,11 @@
         "major": "POLI",
         "room_num": "82636",
         "room_desc": "Polish for Heritage Speakers"
+    },
+    {
+        "school": "LAG01",
+        "major": "POLI",
+        "room_num": "86749",
+        "room_desc": "POLI"
     }
 ]

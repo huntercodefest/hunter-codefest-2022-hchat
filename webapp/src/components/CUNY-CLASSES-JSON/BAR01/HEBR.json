@@ -130,5 +130,11 @@
         "major": "HEBR",
         "room_num": "60493",
         "room_desc": "Upper Intermediate Hebrew"
+    },
+    {
+        "school": "BAR01",
+        "major": "HEBR",
+        "room_num": "86622",
+        "room_desc": "HEBR"
     }
 ]

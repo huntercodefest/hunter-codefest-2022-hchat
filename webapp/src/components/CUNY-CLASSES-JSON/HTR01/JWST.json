@@ -124,5 +124,11 @@
         "major": "JWST",
         "room_num": "53643",
         "room_desc": "Victims of Holocaust"
+    },
+    {
+        "school": "HTR01",
+        "major": "JWST",
+        "room_num": "87693",
+        "room_desc": "JWST"
     }
 ]

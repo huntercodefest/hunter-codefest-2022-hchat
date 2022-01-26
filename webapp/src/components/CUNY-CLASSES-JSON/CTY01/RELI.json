@@ -70,5 +70,11 @@
         "major": "RELI",
         "room_num": "43948",
         "room_desc": "Theories Of Relgion"
+    },
+    {
+        "school": "CTY01",
+        "major": "RELI",
+        "room_num": "87907",
+        "room_desc": "RELI"
     }
 ]

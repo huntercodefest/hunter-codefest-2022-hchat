@@ -430,5 +430,11 @@
         "major": "DANA",
         "room_num": "80521",
         "room_desc": "Web Prog/Mobile App Devl"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "87579",
+        "room_desc": "DANA"
     }
 ]

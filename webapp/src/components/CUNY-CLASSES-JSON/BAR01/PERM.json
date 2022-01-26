@@ -244,5 +244,11 @@
         "major": "PERM",
         "room_num": "61683",
         "room_desc": "Undergraduate Student on ePerm"
+    },
+    {
+        "school": "BAR01",
+        "major": "PERM",
+        "room_num": "86611",
+        "room_desc": "PERM"
     }
 ]

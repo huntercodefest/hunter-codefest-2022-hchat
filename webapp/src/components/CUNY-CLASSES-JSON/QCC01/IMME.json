@@ -4,5 +4,11 @@
         "major": "IMME",
         "room_num": "23003",
         "room_desc": "CLIP College Knowledge Seminar"
+    },
+    {
+        "school": "QCC01",
+        "major": "IMME",
+        "room_num": "87847",
+        "room_desc": "IMME"
     }
 ]

@@ -418,5 +418,11 @@
         "major": "COLI",
         "room_num": "24862",
         "room_desc": "Writing about World Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "COLI",
+        "room_num": "87517",
+        "room_desc": "COLI"
     }
 ]

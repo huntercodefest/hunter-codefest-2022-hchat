@@ -106,5 +106,11 @@
         "major": "CHIN",
         "room_num": "83618",
         "room_desc": "Mod Chinese and Sinophone Lit"
+    },
+    {
+        "school": "CSI01",
+        "major": "CHIN",
+        "room_num": "88087",
+        "room_desc": "CHIN"
     }
 ]

@@ -46,5 +46,11 @@
         "major": "PHIL",
         "room_num": "23288",
         "room_desc": "Public Health Ethics"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHIL",
+        "room_num": "87891",
+        "room_desc": "PHIL"
     }
 ]

@@ -856,5 +856,11 @@
         "major": "AFST",
         "room_num": "19539",
         "room_desc": "The Police and the Ghetto"
+    },
+    {
+        "school": "JJC01",
+        "major": "AFST",
+        "room_num": "87093",
+        "room_desc": "AFST"
     }
 ]

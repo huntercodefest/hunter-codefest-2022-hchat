@@ -70,5 +70,11 @@
         "major": "UBST",
         "room_num": "19269",
         "room_desc": "Urban Politics Seminar II"
+    },
+    {
+        "school": "BMC01",
+        "major": "UBST",
+        "room_num": "86799",
+        "room_desc": "UBST"
     }
 ]

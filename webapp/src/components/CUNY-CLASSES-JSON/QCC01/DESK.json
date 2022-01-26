@@ -280,5 +280,11 @@
         "major": "DESK",
         "room_num": "22595",
         "room_desc": "Writing Workshop - CATW"
+    },
+    {
+        "school": "QCC01",
+        "major": "DESK",
+        "room_num": "87879",
+        "room_desc": "DESK"
     }
 ]

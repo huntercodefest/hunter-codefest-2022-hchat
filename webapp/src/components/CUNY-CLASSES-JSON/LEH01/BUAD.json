@@ -316,5 +316,11 @@
         "major": "BUAD",
         "room_num": "11341",
         "room_desc": "Working with Data"
+    },
+    {
+        "school": "LEH01",
+        "major": "BUAD",
+        "room_num": "88211",
+        "room_desc": "BUAD"
     }
 ]

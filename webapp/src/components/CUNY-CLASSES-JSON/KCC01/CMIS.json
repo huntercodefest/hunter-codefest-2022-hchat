@@ -88,5 +88,11 @@
         "major": "CMIS",
         "room_num": "63029",
         "room_desc": "Systems Analysis"
+    },
+    {
+        "school": "KCC01",
+        "major": "CMIS",
+        "room_num": "88540",
+        "room_desc": "CMIS"
     }
 ]

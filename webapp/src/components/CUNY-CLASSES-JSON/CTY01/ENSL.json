@@ -40,5 +40,11 @@
         "major": "ENSL",
         "room_num": "39399",
         "room_desc": "Wrtng Cmnctn Skills"
+    },
+    {
+        "school": "CTY01",
+        "major": "ENSL",
+        "room_num": "87929",
+        "room_desc": "ENSL"
     }
 ]

@@ -304,5 +304,11 @@
         "major": "MATH",
         "room_num": "23072",
         "room_desc": "Undergraduate Research in Math"
+    },
+    {
+        "school": "QCC01",
+        "major": "MATH",
+        "room_num": "87893",
+        "room_desc": "MATH"
     }
 ]

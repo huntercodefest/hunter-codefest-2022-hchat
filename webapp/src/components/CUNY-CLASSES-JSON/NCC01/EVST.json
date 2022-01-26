@@ -10,5 +10,11 @@
         "major": "EVST",
         "room_num": "64240",
         "room_desc": "Sustainable Buildings"
+    },
+    {
+        "school": "NCC01",
+        "major": "EVST",
+        "room_num": "86911",
+        "room_desc": "EVST"
     }
 ]

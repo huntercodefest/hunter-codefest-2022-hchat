@@ -436,5 +436,11 @@
         "major": "PHYS",
         "room_num": "23364",
         "room_desc": "Thermodynamics"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "87854",
+        "room_desc": "PHYS"
     }
 ]

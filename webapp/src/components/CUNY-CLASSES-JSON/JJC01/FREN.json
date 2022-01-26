@@ -46,5 +46,11 @@
         "major": "FREN",
         "room_num": "20562",
         "room_desc": "Introductory French II"
+    },
+    {
+        "school": "JJC01",
+        "major": "FREN",
+        "room_num": "87109",
+        "room_desc": "FREN"
     }
 ]

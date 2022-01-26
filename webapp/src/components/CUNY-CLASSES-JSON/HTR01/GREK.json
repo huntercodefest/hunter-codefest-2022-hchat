@@ -112,5 +112,11 @@
         "major": "GREK",
         "room_num": "52275",
         "room_desc": "Topics in Greek Literature"
+    },
+    {
+        "school": "HTR01",
+        "major": "GREK",
+        "room_num": "87695",
+        "room_desc": "GREK"
     }
 ]

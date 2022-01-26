@@ -1570,5 +1570,11 @@
         "major": "NURS",
         "room_num": "55049",
         "room_desc": "Writing55050: NUTR,\"Adv Nutr & Asessmt Lab"
+    },
+    {
+        "school": "HTR01",
+        "major": "NURS",
+        "room_num": "87640",
+        "room_desc": "NURS"
     }
 ]

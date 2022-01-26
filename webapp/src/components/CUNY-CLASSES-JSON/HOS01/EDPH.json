@@ -154,5 +154,11 @@
         "major": "EDPH",
         "room_num": "64604",
         "room_desc": "Yoga (HONORS)"
+    },
+    {
+        "school": "HOS01",
+        "major": "EDPH",
+        "room_num": "87825",
+        "room_desc": "EDPH"
     }
 ]

@@ -22,5 +22,11 @@
         "major": "EDHE",
         "room_num": "4098",
         "room_desc": "Health Services"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDHE",
+        "room_num": "88432",
+        "room_desc": "EDHE"
     }
 ]

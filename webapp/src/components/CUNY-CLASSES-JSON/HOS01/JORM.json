@@ -22,5 +22,11 @@
         "major": "JORM",
         "room_num": "64813",
         "room_desc": "Print & Broadcast Media"
+    },
+    {
+        "school": "HOS01",
+        "major": "JORM",
+        "room_num": "87791",
+        "room_desc": "JORM"
     }
 ]

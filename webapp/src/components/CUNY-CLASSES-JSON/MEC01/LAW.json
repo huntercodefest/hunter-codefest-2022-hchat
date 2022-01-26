@@ -46,5 +46,11 @@
         "major": "LAW",
         "room_num": "79027",
         "room_desc": "Legal Environ of Bus"
+    },
+    {
+        "school": "MEC01",
+        "major": "LAW",
+        "room_num": "88285",
+        "room_desc": "LAW"
     }
 ]

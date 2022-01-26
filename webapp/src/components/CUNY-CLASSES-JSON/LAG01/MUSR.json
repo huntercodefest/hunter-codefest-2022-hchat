@@ -76,5 +76,11 @@
         "major": "MUSR",
         "room_num": "82410",
         "room_desc": "The Business of Music"
+    },
+    {
+        "school": "LAG01",
+        "major": "MUSR",
+        "room_num": "86754",
+        "room_desc": "MUSR"
     }
 ]

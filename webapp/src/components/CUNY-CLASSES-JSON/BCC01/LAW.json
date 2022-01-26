@@ -106,5 +106,11 @@
         "major": "LAW",
         "room_num": "69259",
         "room_desc": "Real Property"
+    },
+    {
+        "school": "BCC01",
+        "major": "LAW",
+        "room_num": "87315",
+        "room_desc": "LAW"
     }
 ]

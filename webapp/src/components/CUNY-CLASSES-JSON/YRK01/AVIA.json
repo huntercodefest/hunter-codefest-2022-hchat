@@ -148,5 +148,11 @@
         "major": "AVIA",
         "room_num": "15345",
         "room_desc": "Private Pilot Ground Course"
+    },
+    {
+        "school": "YRK01",
+        "major": "AVIA",
+        "room_num": "87401",
+        "room_desc": "AVIA"
     }
 ]

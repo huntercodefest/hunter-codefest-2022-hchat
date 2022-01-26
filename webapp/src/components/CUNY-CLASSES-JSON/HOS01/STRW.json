@@ -4,5 +4,11 @@
         "major": "STRW",
         "room_num": "65058",
         "room_desc": "CUNY Start: Core English"
+    },
+    {
+        "school": "HOS01",
+        "major": "STRW",
+        "room_num": "87806",
+        "room_desc": "STRW"
     }
 ]

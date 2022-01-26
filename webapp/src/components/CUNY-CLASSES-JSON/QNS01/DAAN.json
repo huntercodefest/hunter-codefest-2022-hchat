@@ -172,5 +172,11 @@
         "major": "DAAN",
         "room_num": "25045",
         "room_desc": "Vt:Sem Select Topics"
+    },
+    {
+        "school": "QNS01",
+        "major": "DAAN",
+        "room_num": "87515",
+        "room_desc": "DAAN"
     }
 ]

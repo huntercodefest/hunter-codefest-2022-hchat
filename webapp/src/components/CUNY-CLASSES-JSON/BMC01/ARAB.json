@@ -28,5 +28,11 @@
         "major": "ARAB",
         "room_num": "17214",
         "room_desc": "Elementary Arabic II"
+    },
+    {
+        "school": "BMC01",
+        "major": "ARAB",
+        "room_num": "86869",
+        "room_desc": "ARAB"
     }
 ]

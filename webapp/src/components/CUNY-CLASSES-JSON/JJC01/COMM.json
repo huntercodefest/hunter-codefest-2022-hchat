@@ -166,5 +166,11 @@
         "major": "COMM",
         "room_num": "19822",
         "room_desc": "Techniques of College Learning"
+    },
+    {
+        "school": "JJC01",
+        "major": "COMM",
+        "room_num": "87056",
+        "room_desc": "COMM"
     }
 ]

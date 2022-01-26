@@ -4,5 +4,11 @@
         "major": "ENSL",
         "room_num": "15992",
         "room_desc": "Read&Write Non-Nat 2"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENSL",
+        "room_num": "87360",
+        "room_desc": "ENSL"
     }
 ]

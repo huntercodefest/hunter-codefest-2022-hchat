@@ -106,5 +106,11 @@
         "major": "PERM",
         "room_num": "18930",
         "room_desc": "Permit Course-9 Credits"
+    },
+    {
+        "school": "BMC01",
+        "major": "PERM",
+        "room_num": "86796",
+        "room_desc": "PERM"
     }
 ]

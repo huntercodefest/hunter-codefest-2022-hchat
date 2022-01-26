@@ -124,5 +124,11 @@
         "major": "EDOC",
         "room_num": "72006",
         "room_desc": "Wkshp Hous Equip"
+    },
+    {
+        "school": "BKL01",
+        "major": "EDOC",
+        "room_num": "86997",
+        "room_desc": "EDOC"
     }
 ]

@@ -124,5 +124,11 @@
         "major": "MESG",
         "room_num": "61516",
         "room_desc": "Unapproved Overload"
+    },
+    {
+        "school": "BAR01",
+        "major": "MESG",
+        "room_num": "86631",
+        "room_desc": "MESG"
     }
 ]

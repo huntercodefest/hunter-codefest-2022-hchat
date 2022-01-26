@@ -4,5 +4,11 @@
         "major": "HOMA",
         "room_num": "81945",
         "room_desc": "New Stdnt House Prog"
+    },
+    {
+        "school": "LAG01",
+        "major": "HOMA",
+        "room_num": "86706",
+        "room_desc": "HOMA"
     }
 ]

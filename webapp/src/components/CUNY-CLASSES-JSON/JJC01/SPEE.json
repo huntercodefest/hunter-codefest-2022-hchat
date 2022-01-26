@@ -106,5 +106,11 @@
         "major": "SPEE",
         "room_num": "22113",
         "room_desc": "Speech Workshop"
+    },
+    {
+        "school": "JJC01",
+        "major": "SPEE",
+        "room_num": "87101",
+        "room_desc": "SPEE"
     }
 ]

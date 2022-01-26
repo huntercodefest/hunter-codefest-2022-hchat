@@ -22,5 +22,11 @@
         "major": "EDCN",
         "room_num": "49285",
         "room_desc": "Studnt Teach Chinese"
+    },
+    {
+        "school": "HTR01",
+        "major": "EDCN",
+        "room_num": "87632",
+        "room_desc": "EDCN"
     }
 ]

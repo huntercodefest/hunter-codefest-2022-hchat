@@ -748,5 +748,11 @@
         "major": "CCAR",
         "room_num": "47676",
         "room_desc": "Writing Ancient Past"
+    },
+    {
+        "school": "HTR01",
+        "major": "CCAR",
+        "room_num": "87679",
+        "room_desc": "CCAR"
     }
 ]

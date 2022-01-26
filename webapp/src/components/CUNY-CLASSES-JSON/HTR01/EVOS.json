@@ -676,5 +676,11 @@
         "major": "EVOS",
         "room_num": "51349",
         "room_desc": "Writing for Public Health"
+    },
+    {
+        "school": "HTR01",
+        "major": "EVOS",
+        "room_num": "87680",
+        "room_desc": "EVOS"
     }
 ]

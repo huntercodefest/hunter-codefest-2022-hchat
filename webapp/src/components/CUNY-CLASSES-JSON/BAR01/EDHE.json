@@ -58,5 +58,11 @@
         "major": "EDHE",
         "room_num": "59818",
         "room_desc": "Women and Health"
+    },
+    {
+        "school": "BAR01",
+        "major": "EDHE",
+        "room_num": "86657",
+        "room_desc": "EDHE"
     }
 ]

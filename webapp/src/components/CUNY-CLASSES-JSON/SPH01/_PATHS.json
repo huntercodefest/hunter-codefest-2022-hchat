@@ -34,5 +34,9 @@
     {
         "major": "CHSS",
         "path": "CHSS.json"
+    },
+    {
+        "major": "SPH01",
+        "path": "SPH01.json"
     }
 ]

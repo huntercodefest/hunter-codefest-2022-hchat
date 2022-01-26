@@ -106,5 +106,11 @@
         "major": "MELS",
         "room_num": "67793",
         "room_desc": "Urinalysis/Body Fluids"
+    },
+    {
+        "school": "NYT01",
+        "major": "MELS",
+        "room_num": "87174",
+        "room_desc": "MELS"
     }
 ]

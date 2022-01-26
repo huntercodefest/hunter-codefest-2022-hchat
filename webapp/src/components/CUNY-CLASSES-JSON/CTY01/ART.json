@@ -3982,5 +3982,11 @@
         "major": "ART",
         "room_num": "32809",
         "room_desc": "eBook Design"
+    },
+    {
+        "school": "CTY01",
+        "major": "ART",
+        "room_num": "88022",
+        "room_desc": "ART"
     }
 ]

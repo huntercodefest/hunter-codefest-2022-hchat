@@ -100,5 +100,11 @@
         "major": "AUTE",
         "room_num": "68793",
         "room_desc": "Steering &Suspension Systems"
+    },
+    {
+        "school": "BCC01",
+        "major": "AUTE",
+        "room_num": "87277",
+        "room_desc": "AUTE"
     }
 ]

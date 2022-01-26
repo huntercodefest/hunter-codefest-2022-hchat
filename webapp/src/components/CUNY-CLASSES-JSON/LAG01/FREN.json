@@ -52,5 +52,11 @@
         "major": "FREN",
         "room_num": "81915",
         "room_desc": "Language & Culture French"
+    },
+    {
+        "school": "LAG01",
+        "major": "FREN",
+        "room_num": "86762",
+        "room_desc": "FREN"
     }
 ]

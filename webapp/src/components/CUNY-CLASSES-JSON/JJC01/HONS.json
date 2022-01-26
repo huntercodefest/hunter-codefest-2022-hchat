@@ -142,5 +142,11 @@
         "major": "HONS",
         "room_num": "20749",
         "room_desc": "Thematic-Honors"
+    },
+    {
+        "school": "JJC01",
+        "major": "HONS",
+        "room_num": "87117",
+        "room_desc": "HONS"
     }
 ]

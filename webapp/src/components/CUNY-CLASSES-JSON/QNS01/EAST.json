@@ -100,5 +100,11 @@
         "major": "EAST",
         "room_num": "25289",
         "room_desc": "Vt:Struct East Asian Language"
+    },
+    {
+        "school": "QNS01",
+        "major": "EAST",
+        "room_num": "87452",
+        "room_desc": "EAST"
     }
 ]

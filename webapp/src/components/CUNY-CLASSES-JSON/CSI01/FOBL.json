@@ -10,5 +10,11 @@
         "major": "FOBL",
         "room_num": "84840",
         "room_desc": "Focus Block 2"
+    },
+    {
+        "school": "CSI01",
+        "major": "FOBL",
+        "room_num": "88030",
+        "room_desc": "FOBL"
     }
 ]

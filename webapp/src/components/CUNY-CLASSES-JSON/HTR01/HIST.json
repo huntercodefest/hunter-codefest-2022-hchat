@@ -3826,5 +3826,11 @@
         "major": "HIST",
         "room_num": "53126",
         "room_desc": "XX Cent U.S Gender & Sexuality"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "87636",
+        "room_desc": "HIST"
     }
 ]

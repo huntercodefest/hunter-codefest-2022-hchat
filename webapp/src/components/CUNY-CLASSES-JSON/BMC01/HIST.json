@@ -160,5 +160,11 @@
         "major": "HIST",
         "room_num": "18249",
         "room_desc": "World History II"
+    },
+    {
+        "school": "BMC01",
+        "major": "HIST",
+        "room_num": "86790",
+        "room_desc": "HIST"
     }
 ]

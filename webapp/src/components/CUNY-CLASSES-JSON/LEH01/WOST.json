@@ -244,5 +244,11 @@
         "major": "WOST",
         "room_num": "15042",
         "room_desc": "Women15043: WOST,\"Women/Minorit/Media"
+    },
+    {
+        "school": "LEH01",
+        "major": "WOST",
+        "room_num": "88228",
+        "room_desc": "WOST"
     }
 ]

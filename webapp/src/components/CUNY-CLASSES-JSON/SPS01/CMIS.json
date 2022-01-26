@@ -4,5 +4,11 @@
         "major": "CMIS",
         "room_num": "80403",
         "room_desc": "Intro to Computers"
+    },
+    {
+        "school": "SPS01",
+        "major": "CMIS",
+        "room_num": "87606",
+        "room_desc": "CMIS"
     }
 ]

@@ -16,5 +16,11 @@
         "major": "CLAS",
         "room_num": "11434",
         "room_desc": "Synthesis of Classical Culture"
+    },
+    {
+        "school": "LEH01",
+        "major": "CLAS",
+        "room_num": "88226",
+        "room_desc": "CLAS"
     }
 ]

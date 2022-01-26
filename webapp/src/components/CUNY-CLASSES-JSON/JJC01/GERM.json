@@ -58,5 +58,11 @@
         "major": "GERM",
         "room_num": "20579",
         "room_desc": "Introductory German II"
+    },
+    {
+        "school": "JJC01",
+        "major": "GERM",
+        "room_num": "87081",
+        "room_desc": "GERM"
     }
 ]

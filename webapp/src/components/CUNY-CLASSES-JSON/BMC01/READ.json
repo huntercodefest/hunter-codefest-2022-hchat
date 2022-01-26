@@ -52,5 +52,11 @@
         "major": "READ",
         "room_num": "19039",
         "room_desc": "Reading and Study Skills III"
+    },
+    {
+        "school": "BMC01",
+        "major": "READ",
+        "room_num": "86883",
+        "room_desc": "READ"
     }
 ]

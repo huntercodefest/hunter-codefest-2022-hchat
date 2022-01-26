@@ -34,5 +34,11 @@
         "major": "HUMA",
         "room_num": "63556",
         "room_desc": "Music in the 20th Century"
+    },
+    {
+        "school": "KCC01",
+        "major": "HUMA",
+        "room_num": "88512",
+        "room_desc": "HUMA"
     }
 ]

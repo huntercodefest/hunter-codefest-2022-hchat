@@ -142,5 +142,11 @@
         "major": "CHIN",
         "room_num": "24643",
         "room_desc": "Writing Modern Chinese"
+    },
+    {
+        "school": "QNS01",
+        "major": "CHIN",
+        "room_num": "87493",
+        "room_desc": "CHIN"
     }
 ]

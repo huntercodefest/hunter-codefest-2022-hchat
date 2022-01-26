@@ -220,5 +220,11 @@
         "major": "PRIN",
         "room_num": "9071",
         "room_desc": "Tragedy & The Modern Subject"
+    },
+    {
+        "school": "GRD01",
+        "major": "PRIN",
+        "room_num": "88413",
+        "room_desc": "PRIN"
     }
 ]

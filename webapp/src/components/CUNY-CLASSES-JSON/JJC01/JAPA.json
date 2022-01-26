@@ -52,5 +52,11 @@
         "major": "JAPA",
         "room_num": "20846",
         "room_desc": "Intermediate Japanese II"
+    },
+    {
+        "school": "JJC01",
+        "major": "JAPA",
+        "room_num": "87106",
+        "room_desc": "JAPA"
     }
 ]

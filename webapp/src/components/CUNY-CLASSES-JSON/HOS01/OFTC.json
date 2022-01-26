@@ -82,5 +82,11 @@
         "major": "OFTC",
         "room_num": "64930",
         "room_desc": "Transcription"
+    },
+    {
+        "school": "HOS01",
+        "major": "OFTC",
+        "room_num": "87811",
+        "room_desc": "OFTC"
     }
 ]

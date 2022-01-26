@@ -472,5 +472,11 @@
         "major": "EGBI",
         "room_num": "37084",
         "room_desc": "Translational Nanomedicine"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGBI",
+        "room_num": "87974",
+        "room_desc": "EGBI"
     }
 ]

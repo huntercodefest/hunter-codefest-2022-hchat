@@ -124,5 +124,11 @@
         "major": "EVSC",
         "room_num": "26907",
         "room_desc": "Vt: Spec Tops Ensci"
+    },
+    {
+        "school": "QNS01",
+        "major": "EVSC",
+        "room_num": "87537",
+        "room_desc": "EVSC"
     }
 ]

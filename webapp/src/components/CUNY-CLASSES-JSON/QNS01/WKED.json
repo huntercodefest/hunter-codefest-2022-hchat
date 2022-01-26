@@ -124,5 +124,11 @@
         "major": "WKED",
         "room_num": "31183",
         "room_desc": "Writing Soc Sci II"
+    },
+    {
+        "school": "QNS01",
+        "major": "WKED",
+        "room_num": "87431",
+        "room_desc": "WKED"
     }
 ]

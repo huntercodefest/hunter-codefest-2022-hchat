@@ -130,5 +130,11 @@
         "major": "LANG",
         "room_num": "13488",
         "room_desc": "Workshop in Japanese"
+    },
+    {
+        "school": "LEH01",
+        "major": "LANG",
+        "room_num": "88208",
+        "room_desc": "LANG"
     }
 ]

@@ -922,5 +922,11 @@
         "major": "FROR",
         "room_num": "39652",
         "room_desc": "Writg For Your Life"
+    },
+    {
+        "school": "CTY01",
+        "major": "FROR",
+        "room_num": "87938",
+        "room_desc": "FROR"
     }
 ]

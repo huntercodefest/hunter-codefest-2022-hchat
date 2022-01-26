@@ -232,5 +232,11 @@
         "major": "DANC",
         "room_num": "22547",
         "room_desc": "Spec Top in Modern Dance II"
+    },
+    {
+        "school": "QCC01",
+        "major": "DANC",
+        "room_num": "87903",
+        "room_desc": "DANC"
     }
 ]

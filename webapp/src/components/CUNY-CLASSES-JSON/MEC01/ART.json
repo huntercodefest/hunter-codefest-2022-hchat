@@ -220,5 +220,11 @@
         "major": "ART",
         "room_num": "78012",
         "room_desc": "Special Projects"
+    },
+    {
+        "school": "MEC01",
+        "major": "ART",
+        "room_num": "88317",
+        "room_desc": "ART"
     }
 ]

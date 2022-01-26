@@ -454,5 +454,11 @@
         "major": "INRE",
         "room_num": "40790",
         "room_desc": "Vietnam & Cold War"
+    },
+    {
+        "school": "CTY01",
+        "major": "INRE",
+        "room_num": "87956",
+        "room_desc": "INRE"
     }
 ]

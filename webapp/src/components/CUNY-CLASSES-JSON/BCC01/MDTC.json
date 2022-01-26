@@ -16,5 +16,11 @@
         "major": "MDTC",
         "room_num": "69338",
         "room_desc": "Office Procedures"
+    },
+    {
+        "school": "BCC01",
+        "major": "MDTC",
+        "room_num": "87313",
+        "room_desc": "MDTC"
     }
 ]

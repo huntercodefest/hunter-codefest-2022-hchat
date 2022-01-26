@@ -868,5 +868,11 @@
         "major": "SOCI",
         "room_num": "30615",
         "room_desc": "Writing for Sociology"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "87432",
+        "room_desc": "SOCI"
     }
 ]

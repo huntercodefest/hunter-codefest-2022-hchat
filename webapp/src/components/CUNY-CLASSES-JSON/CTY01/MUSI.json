@@ -2182,5 +2182,11 @@
         "major": "MUSI",
         "room_num": "42529",
         "room_desc": "Wrld Folk Mus Wkshp"
+    },
+    {
+        "school": "CTY01",
+        "major": "MUSI",
+        "room_num": "87991",
+        "room_desc": "MUSI"
     }
 ]

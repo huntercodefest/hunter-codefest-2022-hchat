@@ -22,5 +22,11 @@
         "major": "EAST",
         "room_num": "66082",
         "room_desc": "Japanese Cinema: Theory & Hst"
+    },
+    {
+        "school": "NYT01",
+        "major": "EAST",
+        "room_num": "87170",
+        "room_desc": "EAST"
     }
 ]

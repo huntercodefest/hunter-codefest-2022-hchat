@@ -316,5 +316,11 @@
         "major": "COMM",
         "room_num": "81609",
         "room_desc": "Writing Express"
+    },
+    {
+        "school": "LAG01",
+        "major": "COMM",
+        "room_num": "86707",
+        "room_desc": "COMM"
     }
 ]

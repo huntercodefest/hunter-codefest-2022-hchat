@@ -100,5 +100,11 @@
         "major": "EDHI",
         "room_num": "35625",
         "room_desc": "Us In World Affairs"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDHI",
+        "room_num": "87948",
+        "room_desc": "EDHI"
     }
 ]

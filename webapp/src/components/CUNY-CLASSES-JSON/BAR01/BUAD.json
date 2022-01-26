@@ -556,5 +556,11 @@
         "major": "BUAD",
         "room_num": "59324",
         "room_desc": "Undrstnd Employee & Cust Users"
+    },
+    {
+        "school": "BAR01",
+        "major": "BUAD",
+        "room_num": "86666",
+        "room_desc": "BUAD"
     }
 ]

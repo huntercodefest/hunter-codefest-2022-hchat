@@ -28,5 +28,11 @@
         "major": "ASTR",
         "room_num": "24263",
         "room_desc": "Modern Aspects of Astronomy"
+    },
+    {
+        "school": "QNS01",
+        "major": "ASTR",
+        "room_num": "87436",
+        "room_desc": "ASTR"
     }
 ]

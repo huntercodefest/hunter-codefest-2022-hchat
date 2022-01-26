@@ -172,5 +172,11 @@
         "major": "DIDE",
         "room_num": "64549",
         "room_desc": "Web Design II"
+    },
+    {
+        "school": "HOS01",
+        "major": "DIDE",
+        "room_num": "87828",
+        "room_desc": "DIDE"
     }
 ]

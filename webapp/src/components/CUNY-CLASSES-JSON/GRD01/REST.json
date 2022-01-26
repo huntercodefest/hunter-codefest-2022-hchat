@@ -52,5 +52,11 @@
         "major": "REST",
         "room_num": "9780",
         "room_desc": "Wkshp in Renaissance Studies"
+    },
+    {
+        "school": "GRD01",
+        "major": "REST",
+        "room_num": "88391",
+        "room_desc": "REST"
     }
 ]

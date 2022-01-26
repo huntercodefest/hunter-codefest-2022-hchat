@@ -550,5 +550,11 @@
         "major": "CHEM",
         "room_num": "24618",
         "room_desc": "Vt:Topics Phys Chem"
+    },
+    {
+        "school": "QNS01",
+        "major": "CHEM",
+        "room_num": "87424",
+        "room_desc": "CHEM"
     }
 ]

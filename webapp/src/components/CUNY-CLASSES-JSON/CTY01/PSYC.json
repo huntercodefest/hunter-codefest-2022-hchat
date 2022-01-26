@@ -2764,5 +2764,11 @@
         "major": "PSYC",
         "room_num": "43878",
         "room_desc": "Work43879: PSYC,\"Working Memory"
+    },
+    {
+        "school": "CTY01",
+        "major": "PSYC",
+        "room_num": "87909",
+        "room_desc": "PSYC"
     }
 ]

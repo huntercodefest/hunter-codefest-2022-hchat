@@ -58,5 +58,11 @@
         "major": "EDET",
         "room_num": "84139",
         "room_desc": "TESOL Supervised Practicum"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDET",
+        "room_num": "88072",
+        "room_desc": "EDET"
     }
 ]

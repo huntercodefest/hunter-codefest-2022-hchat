@@ -1048,5 +1048,11 @@
         "major": "ECON",
         "room_num": "71678",
         "room_desc": "Workplace Values and Happiness"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECON",
+        "room_num": "86946",
+        "room_desc": "ECON"
     }
 ]

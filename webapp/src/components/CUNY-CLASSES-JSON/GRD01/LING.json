@@ -1036,5 +1036,11 @@
         "major": "LING",
         "room_num": "6653",
         "room_desc": "Wrkshp Compar Syntx"
+    },
+    {
+        "school": "GRD01",
+        "major": "LING",
+        "room_num": "88462",
+        "room_desc": "LING"
     }
 ]

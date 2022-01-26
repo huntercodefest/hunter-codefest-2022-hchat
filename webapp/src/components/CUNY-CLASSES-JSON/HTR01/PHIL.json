@@ -1108,5 +1108,11 @@
         "major": "PHIL",
         "room_num": "55310",
         "room_desc": "Women Philosophers of the Past"
+    },
+    {
+        "school": "HTR01",
+        "major": "PHIL",
+        "room_num": "87737",
+        "room_desc": "PHIL"
     }
 ]

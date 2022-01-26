@@ -742,5 +742,11 @@
         "major": "HIST",
         "room_num": "60636",
         "room_desc": "World War II: A Global History"
+    },
+    {
+        "school": "BAR01",
+        "major": "HIST",
+        "room_num": "86608",
+        "room_desc": "HIST"
     }
 ]

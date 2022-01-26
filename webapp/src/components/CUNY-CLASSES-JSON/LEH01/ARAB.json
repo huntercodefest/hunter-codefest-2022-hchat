@@ -52,5 +52,11 @@
         "major": "ARAB",
         "room_num": "10967",
         "room_desc": "Intermediate Arabic II"
+    },
+    {
+        "school": "LEH01",
+        "major": "ARAB",
+        "room_num": "88219",
+        "room_desc": "ARAB"
     }
 ]

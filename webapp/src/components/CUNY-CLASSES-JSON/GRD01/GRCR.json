@@ -172,5 +172,11 @@
         "major": "GRCR",
         "room_num": "5820",
         "room_desc": "Yoruba Iii"
+    },
+    {
+        "school": "GRD01",
+        "major": "GRCR",
+        "room_num": "88414",
+        "room_desc": "GRCR"
     }
 ]

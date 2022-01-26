@@ -1066,5 +1066,11 @@
         "major": "MATH",
         "room_num": "41887",
         "room_desc": "Transformational Geometry"
+    },
+    {
+        "school": "CTY01",
+        "major": "MATH",
+        "room_num": "88006",
+        "room_desc": "MATH"
     }
 ]

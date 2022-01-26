@@ -262,5 +262,11 @@
         "major": "ENGL",
         "room_num": "22915",
         "room_desc": "Writing for the New Media"
+    },
+    {
+        "school": "QCC01",
+        "major": "ENGL",
+        "room_num": "87845",
+        "room_desc": "ENGL"
     }
 ]

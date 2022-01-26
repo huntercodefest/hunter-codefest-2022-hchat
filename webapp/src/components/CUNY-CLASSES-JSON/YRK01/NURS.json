@@ -250,5 +250,11 @@
         "major": "NURS",
         "room_num": "16497",
         "room_desc": "Values In Transition"
+    },
+    {
+        "school": "YRK01",
+        "major": "NURS",
+        "room_num": "87352",
+        "room_desc": "NURS"
     }
 ]

@@ -52,5 +52,11 @@
         "major": "MDLT",
         "room_num": "69335",
         "room_desc": "Urinalysis and Body Fluids"
+    },
+    {
+        "school": "BCC01",
+        "major": "MDLT",
+        "room_num": "87297",
+        "room_desc": "MDLT"
     }
 ]

@@ -160,5 +160,11 @@
         "major": "SPAN",
         "room_num": "82853",
         "room_desc": "The Barrio"
+    },
+    {
+        "school": "LAG01",
+        "major": "SPAN",
+        "room_num": "86746",
+        "room_desc": "SPAN"
     }
 ]

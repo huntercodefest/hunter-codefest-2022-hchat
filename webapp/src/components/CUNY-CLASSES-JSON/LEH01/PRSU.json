@@ -64,5 +64,11 @@
         "major": "PRSU",
         "room_num": "14343",
         "room_desc": "Rdl 02-Bcc"
+    },
+    {
+        "school": "LEH01",
+        "major": "PRSU",
+        "room_num": "88175",
+        "room_desc": "PRSU"
     }
 ]

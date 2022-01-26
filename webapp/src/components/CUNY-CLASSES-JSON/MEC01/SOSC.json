@@ -112,5 +112,11 @@
         "major": "SOSC",
         "room_num": "80035",
         "room_desc": "World Geography"
+    },
+    {
+        "school": "MEC01",
+        "major": "SOSC",
+        "room_num": "88307",
+        "room_desc": "SOSC"
     }
 ]

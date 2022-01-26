@@ -18,5 +18,9 @@
     {
         "major": "NYWU",
         "path": "NYWU.json"
+    },
+    {
+        "major": "SLU01",
+        "path": "SLU01.json"
     }
 ]

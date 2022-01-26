@@ -52,5 +52,11 @@
         "major": "RORE",
         "room_num": "86300",
         "room_desc": "Roomclip"
+    },
+    {
+        "school": "CSI01",
+        "major": "RORE",
+        "room_num": "88119",
+        "room_desc": "RORE"
     }
 ]

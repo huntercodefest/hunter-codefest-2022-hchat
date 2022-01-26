@@ -28,5 +28,11 @@
         "major": "MUSI",
         "room_num": "64904",
         "room_desc": "World Music"
+    },
+    {
+        "school": "HOS01",
+        "major": "MUSI",
+        "room_num": "87821",
+        "room_desc": "MUSI"
     }
 ]

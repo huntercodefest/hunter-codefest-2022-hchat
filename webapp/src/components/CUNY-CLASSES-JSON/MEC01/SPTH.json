@@ -16,5 +16,11 @@
         "major": "SPTH",
         "room_num": "80123",
         "room_desc": "Stage Craft"
+    },
+    {
+        "school": "MEC01",
+        "major": "SPTH",
+        "room_num": "88250",
+        "room_desc": "SPTH"
     }
 ]

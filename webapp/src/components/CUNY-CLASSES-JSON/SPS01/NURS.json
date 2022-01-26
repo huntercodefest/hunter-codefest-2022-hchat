@@ -226,5 +226,11 @@
         "major": "NURS",
         "room_num": "80888",
         "room_desc": "Transition to Prof Nursing"
+    },
+    {
+        "school": "SPS01",
+        "major": "NURS",
+        "room_num": "87554",
+        "room_desc": "NURS"
     }
 ]

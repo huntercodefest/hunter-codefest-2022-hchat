@@ -226,5 +226,11 @@
         "major": "EDHE",
         "room_num": "17814",
         "room_desc": "Wellness Cardiovascular Care"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDHE",
+        "room_num": "86859",
+        "room_desc": "EDHE"
     }
 ]

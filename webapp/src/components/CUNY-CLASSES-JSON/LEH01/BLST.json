@@ -106,5 +106,11 @@
         "major": "BLST",
         "room_num": "11278",
         "room_desc": "Theory&Prac Soc Acct"
+    },
+    {
+        "school": "LEH01",
+        "major": "BLST",
+        "room_num": "88198",
+        "room_desc": "BLST"
     }
 ]

@@ -4,5 +4,11 @@
         "major": "PAXW",
         "room_num": "69419",
         "room_desc": "Pax Workshop"
+    },
+    {
+        "school": "BCC01",
+        "major": "PAXW",
+        "room_num": "87287",
+        "room_desc": "PAXW"
     }
 ]

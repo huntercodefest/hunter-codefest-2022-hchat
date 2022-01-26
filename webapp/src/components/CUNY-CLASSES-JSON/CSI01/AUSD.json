@@ -16,5 +16,11 @@
         "major": "AUSD",
         "room_num": "83331",
         "room_desc": "Trtmnt Asd Part 2"
+    },
+    {
+        "school": "CSI01",
+        "major": "AUSD",
+        "room_num": "88077",
+        "room_desc": "AUSD"
     }
 ]

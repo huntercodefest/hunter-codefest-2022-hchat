@@ -826,5 +826,11 @@
         "major": "SPEE",
         "room_num": "10459",
         "room_desc": "Voice Disorders"
+    },
+    {
+        "school": "GRD01",
+        "major": "SPEE",
+        "room_num": "88430",
+        "room_desc": "SPEE"
     }
 ]

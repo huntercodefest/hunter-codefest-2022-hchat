@@ -250,5 +250,11 @@
         "major": "LAW",
         "room_num": "20939",
         "room_desc": "Violence In Prison"
+    },
+    {
+        "school": "JJC01",
+        "major": "LAW",
+        "room_num": "87100",
+        "room_desc": "LAW"
     }
 ]

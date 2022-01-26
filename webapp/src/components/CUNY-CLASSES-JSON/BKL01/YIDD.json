@@ -46,5 +46,11 @@
         "major": "YIDD",
         "room_num": "77908",
         "room_desc": "Yiddish Short Stories & Poetry"
+    },
+    {
+        "school": "BKL01",
+        "major": "YIDD",
+        "room_num": "86956",
+        "room_desc": "YIDD"
     }
 ]

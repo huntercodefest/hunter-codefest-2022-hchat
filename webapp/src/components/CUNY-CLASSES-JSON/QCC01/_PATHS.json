@@ -254,5 +254,9 @@
     {
         "major": "ART",
         "path": "ART.json"
+    },
+    {
+        "major": "QCC01",
+        "path": "QCC01.json"
     }
 ]

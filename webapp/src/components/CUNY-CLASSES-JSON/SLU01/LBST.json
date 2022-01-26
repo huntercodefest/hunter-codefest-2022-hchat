@@ -256,5 +256,11 @@
         "major": "LBST",
         "room_num": "15100",
         "room_desc": "Work15101: LBST,\"Work/Culture/ Politics NYC"
+    },
+    {
+        "school": "SLU01",
+        "major": "LBST",
+        "room_num": "87615",
+        "room_desc": "LBST"
     }
 ]

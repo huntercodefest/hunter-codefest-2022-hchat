@@ -136,5 +136,11 @@
         "major": "LAST",
         "room_num": "28485",
         "room_desc": "Vt:Sem In Lat Am St"
+    },
+    {
+        "school": "QNS01",
+        "major": "LAST",
+        "room_num": "87539",
+        "room_desc": "LAST"
     }
 ]

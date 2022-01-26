@@ -34,5 +34,11 @@
         "major": "ARAB",
         "room_num": "62761",
         "room_desc": "Intermediate Arabic II"
+    },
+    {
+        "school": "KCC01",
+        "major": "ARAB",
+        "room_num": "88539",
+        "room_desc": "ARAB"
     }
 ]

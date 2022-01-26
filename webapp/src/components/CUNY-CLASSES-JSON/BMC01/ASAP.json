@@ -10,5 +10,11 @@
         "major": "ASAP",
         "room_num": "17336",
         "room_desc": "ASAP College Experience II"
+    },
+    {
+        "school": "BMC01",
+        "major": "ASAP",
+        "room_num": "86861",
+        "room_desc": "ASAP"
     }
 ]

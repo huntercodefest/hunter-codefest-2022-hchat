@@ -352,5 +352,11 @@
         "major": "EDUC",
         "room_num": "84365",
         "room_desc": "Urban Education"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDUC",
+        "room_num": "88048",
+        "room_desc": "EDUC"
     }
 ]

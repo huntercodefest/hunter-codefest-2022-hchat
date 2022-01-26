@@ -106,5 +106,11 @@
         "major": "EDHE",
         "room_num": "63187",
         "room_desc": "Women\u2019s Health Issues"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDHE",
+        "room_num": "88531",
+        "room_desc": "EDHE"
     }
 ]

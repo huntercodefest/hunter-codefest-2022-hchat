@@ -142,5 +142,11 @@
         "major": "LACS",
         "room_num": "64837",
         "room_desc": "Women Carib/Lat Lit"
+    },
+    {
+        "school": "HOS01",
+        "major": "LACS",
+        "room_num": "87769",
+        "room_desc": "LACS"
     }
 ]

@@ -28,5 +28,11 @@
         "major": "PAST",
         "room_num": "18912",
         "room_desc": "Ny Civl Prac & Proc"
+    },
+    {
+        "school": "BMC01",
+        "major": "PAST",
+        "room_num": "86801",
+        "room_desc": "PAST"
     }
 ]

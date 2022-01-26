@@ -4,5 +4,11 @@
         "major": "EDTH",
         "room_num": "49841",
         "room_desc": "Practicum in Theatre"
+    },
+    {
+        "school": "HTR01",
+        "major": "EDTH",
+        "room_num": "87722",
+        "room_desc": "EDTH"
     }
 ]

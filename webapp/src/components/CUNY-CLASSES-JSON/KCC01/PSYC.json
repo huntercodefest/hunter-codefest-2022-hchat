@@ -88,5 +88,11 @@
         "major": "PSYC",
         "room_num": "63965",
         "room_desc": "The Psychology of Immigration"
+    },
+    {
+        "school": "KCC01",
+        "major": "PSYC",
+        "room_num": "88470",
+        "room_desc": "PSYC"
     }
 ]

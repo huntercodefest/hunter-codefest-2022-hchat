@@ -646,5 +646,11 @@
         "major": "PSYC",
         "room_num": "86291",
         "room_desc": "Theories of Personality"
+    },
+    {
+        "school": "CSI01",
+        "major": "PSYC",
+        "room_num": "88025",
+        "room_desc": "PSYC"
     }
 ]

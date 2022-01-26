@@ -40,5 +40,11 @@
         "major": "ACCT",
         "room_num": "68726",
         "room_desc": "Principles of Accounting II"
+    },
+    {
+        "school": "BCC01",
+        "major": "ACCT",
+        "room_num": "87309",
+        "room_desc": "ACCT"
     }
 ]

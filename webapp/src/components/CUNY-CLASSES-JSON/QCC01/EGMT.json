@@ -274,5 +274,11 @@
         "major": "EGMT",
         "room_num": "22871",
         "room_desc": "Virtual Auto Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGMT",
+        "room_num": "87904",
+        "room_desc": "EGMT"
     }
 ]

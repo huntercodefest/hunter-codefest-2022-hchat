@@ -64,5 +64,11 @@
         "major": "STAB",
         "room_num": "64077",
         "room_desc": "Study Abroad Crs 3cr"
+    },
+    {
+        "school": "KCC01",
+        "major": "STAB",
+        "room_num": "88497",
+        "room_desc": "STAB"
     }
 ]

@@ -6,5 +6,9 @@
     {
         "major": "LAW",
         "path": "LAW.json"
+    },
+    {
+        "major": "LAW01",
+        "path": "LAW01.json"
     }
 ]

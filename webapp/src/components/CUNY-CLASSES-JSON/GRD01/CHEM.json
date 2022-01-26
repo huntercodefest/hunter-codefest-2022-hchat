@@ -1030,5 +1030,11 @@
         "major": "CHEM",
         "room_num": "1764",
         "room_desc": "X-Ray Crystal Structure Analy"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHEM",
+        "room_num": "88330",
+        "room_desc": "CHEM"
     }
 ]

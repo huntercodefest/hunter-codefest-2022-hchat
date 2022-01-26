@@ -202,5 +202,11 @@
         "major": "BUSI",
         "room_num": "81437",
         "room_desc": "Writing For Business"
+    },
+    {
+        "school": "LAG01",
+        "major": "BUSI",
+        "room_num": "86734",
+        "room_desc": "BUSI"
     }
 ]

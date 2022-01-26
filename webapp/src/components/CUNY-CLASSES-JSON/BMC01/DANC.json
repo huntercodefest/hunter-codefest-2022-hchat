@@ -52,5 +52,11 @@
         "major": "DANC",
         "room_num": "17614",
         "room_desc": "Survey of 20th Century Dance"
+    },
+    {
+        "school": "BMC01",
+        "major": "DANC",
+        "room_num": "86887",
+        "room_desc": "DANC"
     }
 ]

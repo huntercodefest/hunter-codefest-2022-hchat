@@ -34,5 +34,11 @@
         "major": "EDHP",
         "room_num": "63193",
         "room_desc": "IS Fit Assess/Prescr"
+    },
+    {
+        "school": "KCC01",
+        "major": "EDHP",
+        "room_num": "88483",
+        "room_desc": "EDHP"
     }
 ]

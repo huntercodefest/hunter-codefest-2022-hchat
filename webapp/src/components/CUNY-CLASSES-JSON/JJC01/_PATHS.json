@@ -370,5 +370,9 @@
     {
         "major": "ART",
         "path": "ART.json"
+    },
+    {
+        "major": "JJC01",
+        "path": "JJC01.json"
     }
 ]

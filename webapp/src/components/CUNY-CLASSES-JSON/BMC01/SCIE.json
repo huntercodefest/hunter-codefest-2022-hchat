@@ -130,5 +130,11 @@
         "major": "SCIE",
         "room_num": "19090",
         "room_desc": "The Science of Food"
+    },
+    {
+        "school": "BMC01",
+        "major": "SCIE",
+        "room_num": "86825",
+        "room_desc": "SCIE"
     }
 ]

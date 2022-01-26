@@ -406,5 +406,11 @@
         "major": "COUN",
         "room_num": "48453",
         "room_desc": "Workshop Early Childhood"
+    },
+    {
+        "school": "HTR01",
+        "major": "COUN",
+        "room_num": "87687",
+        "room_desc": "COUN"
     }
 ]

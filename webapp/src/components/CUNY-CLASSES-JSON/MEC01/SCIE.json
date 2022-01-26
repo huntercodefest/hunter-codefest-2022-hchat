@@ -82,5 +82,11 @@
         "major": "SCIE",
         "room_num": "79965",
         "room_desc": "Summer Research III"
+    },
+    {
+        "school": "MEC01",
+        "major": "SCIE",
+        "room_num": "88269",
+        "room_desc": "SCIE"
     }
 ]

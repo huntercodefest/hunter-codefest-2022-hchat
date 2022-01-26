@@ -46,5 +46,11 @@
         "major": "SWAH",
         "room_num": "14873",
         "room_desc": "Swahili Literature II"
+    },
+    {
+        "school": "LEH01",
+        "major": "SWAH",
+        "room_num": "88217",
+        "room_desc": "SWAH"
     }
 ]

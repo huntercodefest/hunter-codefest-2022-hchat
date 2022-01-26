@@ -1516,5 +1516,11 @@
         "major": "NEWS",
         "room_num": "8185",
         "room_desc": "Woprkers and Politics"
+    },
+    {
+        "school": "GRD01",
+        "major": "NEWS",
+        "room_num": "88398",
+        "room_desc": "NEWS"
     }
 ]

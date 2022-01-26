@@ -10,5 +10,11 @@
         "major": "ADSE",
         "room_num": "62752",
         "room_desc": "ASAP Advisement Seminar II"
+    },
+    {
+        "school": "KCC01",
+        "major": "ADSE",
+        "room_num": "88508",
+        "room_desc": "ADSE"
     }
 ]

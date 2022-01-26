@@ -22,5 +22,11 @@
         "major": "CIEN",
         "room_num": "63014",
         "room_desc": "Civic Engagement Service Corps"
+    },
+    {
+        "school": "KCC01",
+        "major": "CIEN",
+        "room_num": "88538",
+        "room_desc": "CIEN"
     }
 ]

@@ -544,5 +544,11 @@
         "major": "EDES",
         "room_num": "49465",
         "room_desc": "Vocabulary Teaching"
+    },
+    {
+        "school": "HTR01",
+        "major": "EDES",
+        "room_num": "87701",
+        "room_desc": "EDES"
     }
 ]

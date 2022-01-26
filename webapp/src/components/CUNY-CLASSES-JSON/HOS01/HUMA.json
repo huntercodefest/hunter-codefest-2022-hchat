@@ -28,5 +28,11 @@
         "major": "HUMA",
         "room_num": "64801",
         "room_desc": "Special Topics in Humanities"
+    },
+    {
+        "school": "HOS01",
+        "major": "HUMA",
+        "room_num": "87802",
+        "room_desc": "HUMA"
     }
 ]

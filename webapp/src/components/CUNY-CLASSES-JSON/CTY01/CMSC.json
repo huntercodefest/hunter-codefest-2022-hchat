@@ -1828,5 +1828,11 @@
         "major": "CMSC",
         "room_num": "34191",
         "room_desc": "Xml Technologies"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMSC",
+        "room_num": "88013",
+        "room_desc": "CMSC"
     }
 ]

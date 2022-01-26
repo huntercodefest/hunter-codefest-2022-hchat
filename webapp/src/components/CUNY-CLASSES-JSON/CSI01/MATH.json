@@ -652,5 +652,11 @@
         "major": "MATH",
         "room_num": "85620",
         "room_desc": "Topology"
+    },
+    {
+        "school": "CSI01",
+        "major": "MATH",
+        "room_num": "88108",
+        "room_desc": "MATH"
     }
 ]

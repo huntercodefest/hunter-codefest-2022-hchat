@@ -34,5 +34,11 @@
         "major": "EVST",
         "room_num": "81902",
         "room_desc": "Sustainable Urban Agriculture"
+    },
+    {
+        "school": "LAG01",
+        "major": "EVST",
+        "room_num": "86741",
+        "room_desc": "EVST"
     }
 ]

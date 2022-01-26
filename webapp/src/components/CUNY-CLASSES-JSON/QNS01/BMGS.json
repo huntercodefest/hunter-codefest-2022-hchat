@@ -58,5 +58,11 @@
         "major": "BMGS",
         "room_num": "24480",
         "room_desc": "Vt: Top In Byz/Grk St"
+    },
+    {
+        "school": "QNS01",
+        "major": "BMGS",
+        "room_num": "87480",
+        "room_desc": "BMGS"
     }
 ]

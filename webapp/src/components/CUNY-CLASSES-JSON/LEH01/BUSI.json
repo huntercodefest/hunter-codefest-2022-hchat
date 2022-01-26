@@ -154,5 +154,11 @@
         "major": "BUSI",
         "room_num": "11367",
         "room_desc": "Sem. Strategic Mgmt"
+    },
+    {
+        "school": "LEH01",
+        "major": "BUSI",
+        "room_num": "88187",
+        "room_desc": "BUSI"
     }
 ]

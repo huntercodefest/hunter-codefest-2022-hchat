@@ -4,5 +4,11 @@
         "major": "MAOM",
         "room_num": "80817",
         "room_desc": "Maintenance of Matriculation"
+    },
+    {
+        "school": "SPS01",
+        "major": "MAOM",
+        "room_num": "87568",
+        "room_desc": "MAOM"
     }
 ]

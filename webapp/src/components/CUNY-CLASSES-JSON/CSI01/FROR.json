@@ -22,5 +22,11 @@
         "major": "FROR",
         "room_num": "84872",
         "room_desc": "New Student Seminar"
+    },
+    {
+        "school": "CSI01",
+        "major": "FROR",
+        "room_num": "88054",
+        "room_desc": "FROR"
     }
 ]

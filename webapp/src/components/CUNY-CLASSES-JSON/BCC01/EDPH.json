@@ -142,5 +142,11 @@
         "major": "EDPH",
         "room_num": "69004",
         "room_desc": "Water Safety Instructor"
+    },
+    {
+        "school": "BCC01",
+        "major": "EDPH",
+        "room_num": "87326",
+        "room_desc": "EDPH"
     }
 ]

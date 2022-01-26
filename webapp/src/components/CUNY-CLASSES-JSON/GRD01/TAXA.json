@@ -34,5 +34,11 @@
         "major": "TAXA",
         "room_num": "10494",
         "room_desc": "Tax Planning & Business Policy"
+    },
+    {
+        "school": "GRD01",
+        "major": "TAXA",
+        "room_num": "88356",
+        "room_desc": "TAXA"
     }
 ]

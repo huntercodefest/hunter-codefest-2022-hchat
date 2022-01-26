@@ -2026,5 +2026,11 @@
         "major": "HIST",
         "room_num": "74290",
         "room_desc": "psychohistory"
+    },
+    {
+        "school": "BKL01",
+        "major": "HIST",
+        "room_num": "86932",
+        "room_desc": "HIST"
     }
 ]

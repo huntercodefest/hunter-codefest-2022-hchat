@@ -202,5 +202,11 @@
         "major": "JOUR",
         "room_num": "13365",
         "room_desc": "Tpcs:Multlngl Journl"
+    },
+    {
+        "school": "LEH01",
+        "major": "JOUR",
+        "room_num": "88165",
+        "room_desc": "JOUR"
     }
 ]

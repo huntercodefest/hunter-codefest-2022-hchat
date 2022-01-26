@@ -124,5 +124,11 @@
         "major": "JAZZ",
         "room_num": "28408",
         "room_desc": "VT: Special Topics"
+    },
+    {
+        "school": "QNS01",
+        "major": "JAZZ",
+        "room_num": "87533",
+        "room_desc": "JAZZ"
     }
 ]

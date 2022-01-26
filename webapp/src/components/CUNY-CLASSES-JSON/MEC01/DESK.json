@@ -154,5 +154,11 @@
         "major": "DESK",
         "room_num": "78356",
         "room_desc": "Writing Lang Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "DESK",
+        "room_num": "88277",
+        "room_desc": "DESK"
     }
 ]

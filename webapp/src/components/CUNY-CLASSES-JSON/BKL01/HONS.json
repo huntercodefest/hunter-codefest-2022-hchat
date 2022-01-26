@@ -22,5 +22,11 @@
         "major": "HONS",
         "room_num": "74297",
         "room_desc": "Sem IV: Shaping Future of NYC"
+    },
+    {
+        "school": "BKL01",
+        "major": "HONS",
+        "room_num": "87013",
+        "room_desc": "HONS"
     }
 ]

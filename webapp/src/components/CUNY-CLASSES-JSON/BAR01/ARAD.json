@@ -88,5 +88,11 @@
         "major": "ARAD",
         "room_num": "59032",
         "room_desc": "Thesis"
+    },
+    {
+        "school": "BAR01",
+        "major": "ARAD",
+        "room_num": "86662",
+        "room_desc": "ARAD"
     }
 ]

@@ -112,5 +112,11 @@
         "major": "HUMA",
         "room_num": "81967",
         "room_desc": "Spanish Fluent Speaker"
+    },
+    {
+        "school": "LAG01",
+        "major": "HUMA",
+        "room_num": "86733",
+        "room_desc": "HUMA"
     }
 ]

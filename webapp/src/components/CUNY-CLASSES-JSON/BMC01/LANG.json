@@ -142,5 +142,11 @@
         "major": "LANG",
         "room_num": "18313",
         "room_desc": "Spanish Vi"
+    },
+    {
+        "school": "BMC01",
+        "major": "LANG",
+        "room_num": "86863",
+        "room_desc": "LANG"
     }
 ]

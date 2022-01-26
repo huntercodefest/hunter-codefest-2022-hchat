@@ -64,5 +64,11 @@
         "major": "INTE",
         "room_num": "69227",
         "room_desc": "Interdisciplinary Study II"
+    },
+    {
+        "school": "BCC01",
+        "major": "INTE",
+        "room_num": "87290",
+        "room_desc": "INTE"
     }
 ]

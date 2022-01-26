@@ -22,5 +22,11 @@
         "major": "MAOM",
         "room_num": "41709",
         "room_desc": "Reg On Record"
+    },
+    {
+        "school": "CTY01",
+        "major": "MAOM",
+        "room_num": "87940",
+        "room_desc": "MAOM"
     }
 ]

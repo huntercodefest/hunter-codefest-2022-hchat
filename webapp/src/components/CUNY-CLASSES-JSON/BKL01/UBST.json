@@ -40,5 +40,11 @@
         "major": "UBST",
         "room_num": "77779",
         "room_desc": "Urban Sustainability Theory"
+    },
+    {
+        "school": "BKL01",
+        "major": "UBST",
+        "room_num": "86938",
+        "room_desc": "UBST"
     }
 ]

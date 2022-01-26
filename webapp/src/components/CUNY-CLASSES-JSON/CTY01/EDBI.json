@@ -58,5 +58,11 @@
         "major": "EDBI",
         "room_num": "34954",
         "room_desc": "Modern Concepts in Biology II"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBI",
+        "room_num": "87917",
+        "room_desc": "EDBI"
     }
 ]

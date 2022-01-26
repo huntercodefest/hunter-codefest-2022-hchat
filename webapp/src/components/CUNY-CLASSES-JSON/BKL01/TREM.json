@@ -640,5 +640,11 @@
         "major": "TREM",
         "room_num": "77772",
         "room_desc": "Workshop"
+    },
+    {
+        "school": "BKL01",
+        "major": "TREM",
+        "room_num": "87008",
+        "room_desc": "TREM"
     }
 ]

@@ -70,5 +70,11 @@
         "major": "ASTR",
         "room_num": "15320",
         "room_desc": "The Solar System"
+    },
+    {
+        "school": "YRK01",
+        "major": "ASTR",
+        "room_num": "87354",
+        "room_desc": "ASTR"
     }
 ]

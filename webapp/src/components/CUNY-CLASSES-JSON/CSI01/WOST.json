@@ -238,5 +238,11 @@
         "major": "WOST",
         "room_num": "86597",
         "room_desc": "Womn Eurlit Aft Ren"
+    },
+    {
+        "school": "CSI01",
+        "major": "WOST",
+        "room_num": "88113",
+        "room_desc": "WOST"
     }
 ]

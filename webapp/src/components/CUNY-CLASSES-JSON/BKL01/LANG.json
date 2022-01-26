@@ -70,5 +70,11 @@
         "major": "LANG",
         "room_num": "74766",
         "room_desc": "Peer Tutoring 11"
+    },
+    {
+        "school": "BKL01",
+        "major": "LANG",
+        "room_num": "87001",
+        "room_desc": "LANG"
     }
 ]

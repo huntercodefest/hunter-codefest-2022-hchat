@@ -278,5 +278,9 @@
     {
         "major": "LAST",
         "path": "LAST.json"
+    },
+    {
+        "major": "SPS01",
+        "path": "SPS01.json"
     }
 ]

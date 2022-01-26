@@ -208,5 +208,11 @@
         "major": "EDCU",
         "room_num": "11790",
         "room_desc": "SexualityCounselng-School &Fam"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDCU",
+        "room_num": "88164",
+        "room_desc": "EDCU"
     }
 ]

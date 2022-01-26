@@ -1,8 +1,14 @@
 [
-	{
-		"room_num": 80312,
-		"school": "SOJ01",
-		"major": "WMST",
-		"room_desc": "Global Feminisms"
-	}
+    {
+        "room_num": 80312,
+        "school": "SOJ01",
+        "major": "WMST",
+        "room_desc": "Global Feminisms"
+    },
+    {
+        "school": "SOJ01",
+        "major": "WMST",
+        "room_num": "87137",
+        "room_desc": "WMST"
+    }
 ]

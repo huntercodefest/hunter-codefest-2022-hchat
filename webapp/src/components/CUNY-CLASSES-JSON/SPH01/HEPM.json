@@ -160,5 +160,11 @@
         "major": "HEPM",
         "room_num": "191",
         "room_desc": "Topics in Health Policy Mgmnt"
+    },
+    {
+        "school": "SPH01",
+        "major": "HEPM",
+        "room_num": "88321",
+        "room_desc": "HEPM"
     }
 ]

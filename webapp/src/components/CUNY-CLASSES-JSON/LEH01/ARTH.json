@@ -280,5 +280,11 @@
         "major": "ARTH",
         "room_num": "11118",
         "room_desc": "US Art from Civil War-Present"
+    },
+    {
+        "school": "LEH01",
+        "major": "ARTH",
+        "room_num": "88166",
+        "room_desc": "ARTH"
     }
 ]

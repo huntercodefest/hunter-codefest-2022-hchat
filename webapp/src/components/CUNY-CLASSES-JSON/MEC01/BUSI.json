@@ -232,5 +232,11 @@
         "major": "BUSI",
         "room_num": "78143",
         "room_desc": "Traffic Management"
+    },
+    {
+        "school": "MEC01",
+        "major": "BUSI",
+        "room_num": "88274",
+        "room_desc": "BUSI"
     }
 ]

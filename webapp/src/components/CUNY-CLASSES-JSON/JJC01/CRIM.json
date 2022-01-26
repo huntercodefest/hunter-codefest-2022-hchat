@@ -1084,5 +1084,11 @@
         "major": "CRIM",
         "room_num": "20080",
         "room_desc": "Youth Crime & Delinq Control"
+    },
+    {
+        "school": "JJC01",
+        "major": "CRIM",
+        "room_num": "87048",
+        "room_desc": "CRIM"
     }
 ]

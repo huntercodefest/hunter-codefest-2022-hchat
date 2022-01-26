@@ -622,5 +622,11 @@
         "major": "ACCT",
         "room_num": "81205",
         "room_desc": "Wrld Trvl & Tour Des"
+    },
+    {
+        "school": "LAG01",
+        "major": "ACCT",
+        "room_num": "86742",
+        "room_desc": "ACCT"
     }
 ]

@@ -34,5 +34,11 @@
         "major": "EDBL",
         "room_num": "11743",
         "room_desc": "Psy-Ed Eval Bil Chld"
+    },
+    {
+        "school": "LEH01",
+        "major": "EDBL",
+        "room_num": "88181",
+        "room_desc": "EDBL"
     }
 ]

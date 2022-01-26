@@ -1264,5 +1264,11 @@
         "major": "THEC",
         "room_num": "58084",
         "room_desc": "World Theatre II"
+    },
+    {
+        "school": "HTR01",
+        "major": "THEC",
+        "room_num": "87655",
+        "room_desc": "THEC"
     }
 ]

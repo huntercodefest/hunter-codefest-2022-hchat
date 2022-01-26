@@ -340,5 +340,11 @@
         "major": "MUSI",
         "room_num": "61573",
         "room_desc": "World Music"
+    },
+    {
+        "school": "BAR01",
+        "major": "MUSI",
+        "room_num": "86658",
+        "room_desc": "MUSI"
     }
 ]

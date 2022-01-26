@@ -238,5 +238,11 @@
         "major": "SPET",
         "room_num": "14815",
         "room_desc": "Voice Disorders"
+    },
+    {
+        "school": "LEH01",
+        "major": "SPET",
+        "room_num": "88172",
+        "room_desc": "SPET"
     }
 ]

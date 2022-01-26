@@ -58,5 +58,11 @@
         "major": "AMNH",
         "room_num": "248",
         "room_desc": "Vertebrate Paleontology"
+    },
+    {
+        "school": "GRD01",
+        "major": "AMNH",
+        "room_num": "88329",
+        "room_desc": "AMNH"
     }
 ]

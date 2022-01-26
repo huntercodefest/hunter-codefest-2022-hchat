@@ -682,5 +682,11 @@
         "major": "UBST",
         "room_num": "58645",
         "room_desc": "We Built this City"
+    },
+    {
+        "school": "HTR01",
+        "major": "UBST",
+        "room_num": "87648",
+        "room_desc": "UBST"
     }
 ]

@@ -100,5 +100,11 @@
         "major": "GREK",
         "room_num": "5837",
         "room_desc": "Sophocles"
+    },
+    {
+        "school": "GRD01",
+        "major": "GREK",
+        "room_num": "88401",
+        "room_desc": "GREK"
     }
 ]

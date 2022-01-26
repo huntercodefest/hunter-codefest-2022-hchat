@@ -106,5 +106,11 @@
         "major": "EGEL",
         "room_num": "84384",
         "room_desc": "Smart Grid"
+    },
+    {
+        "school": "CSI01",
+        "major": "EGEL",
+        "room_num": "88079",
+        "room_desc": "EGEL"
     }
 ]

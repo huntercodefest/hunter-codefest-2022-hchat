@@ -64,5 +64,11 @@
         "major": "POSC",
         "room_num": "69454",
         "room_desc": "Urban Politics"
+    },
+    {
+        "school": "BCC01",
+        "major": "POSC",
+        "room_num": "87314",
+        "room_desc": "POSC"
     }
 ]

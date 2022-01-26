@@ -16,5 +16,11 @@
         "major": "PERM",
         "room_num": "80891",
         "room_desc": "Permit"
+    },
+    {
+        "school": "SPS01",
+        "major": "PERM",
+        "room_num": "87556",
+        "room_desc": "PERM"
     }
 ]

@@ -202,5 +202,11 @@
         "major": "FISC",
         "room_num": "20484",
         "room_desc": "Water Supress System"
+    },
+    {
+        "school": "JJC01",
+        "major": "FISC",
+        "room_num": "87095",
+        "room_desc": "FISC"
     }
 ]

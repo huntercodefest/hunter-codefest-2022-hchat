@@ -46,5 +46,11 @@
         "major": "BIOM",
         "room_num": "1471",
         "room_desc": "Writing/Style/Biog &Memoir"
+    },
+    {
+        "school": "GRD01",
+        "major": "BIOM",
+        "room_num": "88396",
+        "room_desc": "BIOM"
     }
 ]

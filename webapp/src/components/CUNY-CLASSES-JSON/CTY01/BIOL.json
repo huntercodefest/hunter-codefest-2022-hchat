@@ -1636,5 +1636,11 @@
         "major": "BIOL",
         "room_num": "33290",
         "room_desc": "Zoology And Phylogen"
+    },
+    {
+        "school": "CTY01",
+        "major": "BIOL",
+        "room_num": "87971",
+        "room_desc": "BIOL"
     }
 ]

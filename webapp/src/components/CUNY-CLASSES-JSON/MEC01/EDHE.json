@@ -10,5 +10,11 @@
         "major": "EDHE",
         "room_num": "78394",
         "room_desc": "Personal Health"
+    },
+    {
+        "school": "MEC01",
+        "major": "EDHE",
+        "room_num": "88289",
+        "room_desc": "EDHE"
     }
 ]

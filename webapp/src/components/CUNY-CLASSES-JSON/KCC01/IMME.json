@@ -76,5 +76,11 @@
         "major": "IMME",
         "room_num": "63569",
         "room_desc": "Immersion Writing"
+    },
+    {
+        "school": "KCC01",
+        "major": "IMME",
+        "room_num": "88474",
+        "room_desc": "IMME"
     }
 ]

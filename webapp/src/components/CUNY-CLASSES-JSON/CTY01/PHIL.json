@@ -1150,5 +1150,11 @@
         "major": "PHIL",
         "room_num": "42911",
         "room_desc": "World Philosophies"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHIL",
+        "room_num": "88002",
+        "room_desc": "PHIL"
     }
 ]

@@ -166,5 +166,11 @@
         "major": "FROR",
         "room_num": "60454",
         "room_desc": "Seek Special Seminar"
+    },
+    {
+        "school": "BAR01",
+        "major": "FROR",
+        "room_num": "86623",
+        "room_desc": "FROR"
     }
 ]

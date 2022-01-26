@@ -4,5 +4,11 @@
         "major": "PHED",
         "room_num": "8242",
         "room_desc": "Intro Health Policy & Admin"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHED",
+        "room_num": "88371",
+        "room_desc": "PHED"
     }
 ]

@@ -88,5 +88,11 @@
         "major": "CORP",
         "room_num": "17584",
         "room_desc": "Teleconferencing"
+    },
+    {
+        "school": "BMC01",
+        "major": "CORP",
+        "room_num": "86834",
+        "room_desc": "CORP"
     }
 ]

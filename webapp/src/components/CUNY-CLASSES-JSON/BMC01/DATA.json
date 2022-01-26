@@ -388,5 +388,11 @@
         "major": "DATA",
         "room_num": "17679",
         "room_desc": "Unix"
+    },
+    {
+        "school": "BMC01",
+        "major": "DATA",
+        "room_num": "86880",
+        "room_desc": "DATA"
     }
 ]

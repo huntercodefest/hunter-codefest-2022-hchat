@@ -178,5 +178,11 @@
         "major": "INTE",
         "room_num": "60680",
         "room_desc": "Voluntarism"
+    },
+    {
+        "school": "BAR01",
+        "major": "INTE",
+        "room_num": "86632",
+        "room_desc": "INTE"
     }
 ]

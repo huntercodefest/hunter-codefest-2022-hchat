@@ -286,5 +286,11 @@
         "major": "PHYS",
         "room_num": "79771",
         "room_desc": "University Physics III Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "PHYS",
+        "room_num": "88249",
+        "room_desc": "PHYS"
     }
 ]

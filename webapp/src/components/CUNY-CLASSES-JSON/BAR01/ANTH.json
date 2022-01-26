@@ -274,5 +274,11 @@
         "major": "ANTH",
         "room_num": "59015",
         "room_desc": "Women59016: ANTH,\"World Regional Geography"
+    },
+    {
+        "school": "BAR01",
+        "major": "ANTH",
+        "room_num": "86680",
+        "room_desc": "ANTH"
     }
 ]

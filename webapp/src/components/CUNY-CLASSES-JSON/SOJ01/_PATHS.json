@@ -42,5 +42,9 @@
     {
         "major": "ANTH",
         "path": "ANTH.json"
+    },
+    {
+        "major": "SOJ01",
+        "path": "SOJ01.json"
     }
 ]

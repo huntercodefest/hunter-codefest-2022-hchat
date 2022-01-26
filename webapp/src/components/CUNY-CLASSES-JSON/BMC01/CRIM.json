@@ -76,5 +76,11 @@
         "major": "CRIM",
         "room_num": "17597",
         "room_desc": "Selected Topics in Criminology"
+    },
+    {
+        "school": "BMC01",
+        "major": "CRIM",
+        "room_num": "86794",
+        "room_desc": "CRIM"
     }
 ]

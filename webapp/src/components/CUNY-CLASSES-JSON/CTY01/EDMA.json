@@ -256,5 +256,11 @@
         "major": "EDMA",
         "room_num": "35742",
         "room_desc": "Transformational Geometry"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDMA",
+        "room_num": "87953",
+        "room_desc": "EDMA"
     }
 ]

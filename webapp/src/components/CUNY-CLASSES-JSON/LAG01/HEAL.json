@@ -22,5 +22,11 @@
         "major": "HEAL",
         "room_num": "81939",
         "room_desc": "Topics in Health"
+    },
+    {
+        "school": "LAG01",
+        "major": "HEAL",
+        "room_num": "86735",
+        "room_desc": "HEAL"
     }
 ]

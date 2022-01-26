@@ -406,5 +406,11 @@
         "major": "COMM",
         "room_num": "66041",
         "room_desc": "Writing for the Media"
+    },
+    {
+        "school": "NYT01",
+        "major": "COMM",
+        "room_num": "87164",
+        "room_desc": "COMM"
     }
 ]

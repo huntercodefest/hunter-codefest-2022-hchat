@@ -130,5 +130,11 @@
         "major": "ARAB",
         "room_num": "546",
         "room_desc": "Quranic Arabic"
+    },
+    {
+        "school": "GRD01",
+        "major": "ARAB",
+        "room_num": "88448",
+        "room_desc": "ARAB"
     }
 ]

@@ -286,5 +286,11 @@
         "major": "DRAM",
         "room_num": "20174",
         "room_desc": "Women in Theatre"
+    },
+    {
+        "school": "JJC01",
+        "major": "DRAM",
+        "room_num": "87050",
+        "room_desc": "DRAM"
     }
 ]

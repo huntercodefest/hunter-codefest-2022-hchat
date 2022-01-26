@@ -22,5 +22,11 @@
         "major": "TPRE",
         "room_num": "69534",
         "room_desc": "Recreation Leadership"
+    },
+    {
+        "school": "BCC01",
+        "major": "TPRE",
+        "room_num": "87321",
+        "room_desc": "TPRE"
     }
 ]

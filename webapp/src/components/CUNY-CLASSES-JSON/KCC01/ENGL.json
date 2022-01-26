@@ -472,5 +472,11 @@
         "major": "ENGL",
         "room_num": "63421",
         "room_desc": "World Literature"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENGL",
+        "room_num": "88471",
+        "room_desc": "ENGL"
     }
 ]

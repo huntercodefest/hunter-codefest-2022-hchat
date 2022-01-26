@@ -154,5 +154,11 @@
         "major": "INTE",
         "room_num": "82050",
         "room_desc": "Urb Study-NY Thea Ex"
+    },
+    {
+        "school": "LAG01",
+        "major": "INTE",
+        "room_num": "86725",
+        "room_desc": "INTE"
     }
 ]

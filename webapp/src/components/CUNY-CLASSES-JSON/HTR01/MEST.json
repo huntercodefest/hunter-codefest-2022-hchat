@@ -1564,5 +1564,11 @@
         "major": "MEST",
         "room_num": "54298",
         "room_desc": "XR: Speculative Media"
+    },
+    {
+        "school": "HTR01",
+        "major": "MEST",
+        "room_num": "87647",
+        "room_desc": "MEST"
     }
 ]

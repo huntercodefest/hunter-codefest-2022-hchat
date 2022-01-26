@@ -64,5 +64,11 @@
         "major": "ARAD",
         "room_num": "69953",
         "room_desc": "Workshop"
+    },
+    {
+        "school": "BKL01",
+        "major": "ARAD",
+        "room_num": "87000",
+        "room_desc": "ARAD"
     }
 ]

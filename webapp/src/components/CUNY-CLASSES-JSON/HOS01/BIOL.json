@@ -148,5 +148,11 @@
         "major": "BIOL",
         "room_num": "64390",
         "room_desc": "Principles of Biology (HONORS)"
+    },
+    {
+        "school": "HOS01",
+        "major": "BIOL",
+        "room_num": "87807",
+        "room_desc": "BIOL"
     }
 ]

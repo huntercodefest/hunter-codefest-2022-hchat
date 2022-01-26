@@ -628,5 +628,11 @@
         "major": "PHAS",
         "room_num": "42711",
         "room_desc": "Technical Skills"
+    },
+    {
+        "school": "CTY01",
+        "major": "PHAS",
+        "room_num": "87970",
+        "room_desc": "PHAS"
     }
 ]

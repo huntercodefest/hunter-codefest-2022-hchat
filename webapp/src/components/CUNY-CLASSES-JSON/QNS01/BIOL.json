@@ -1174,5 +1174,11 @@
         "major": "BIOL",
         "room_num": "24470",
         "room_desc": "Zoology of the Vertebrates"
+    },
+    {
+        "school": "QNS01",
+        "major": "BIOL",
+        "room_num": "87484",
+        "room_desc": "BIOL"
     }
 ]

@@ -40,5 +40,11 @@
         "major": "AMSL",
         "room_num": "81221",
         "room_desc": "Sign Language Linguistics"
+    },
+    {
+        "school": "LAG01",
+        "major": "AMSL",
+        "room_num": "86723",
+        "room_desc": "AMSL"
     }
 ]

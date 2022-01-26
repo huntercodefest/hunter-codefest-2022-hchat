@@ -88,5 +88,11 @@
         "major": "CONE",
         "room_num": "2576",
         "room_desc": "Thesis Research"
+    },
+    {
+        "school": "GRD01",
+        "major": "CONE",
+        "room_num": "88415",
+        "room_desc": "CONE"
     }
 ]

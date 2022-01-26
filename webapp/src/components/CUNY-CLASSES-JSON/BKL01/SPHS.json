@@ -4,5 +4,11 @@
         "major": "SPHS",
         "room_num": "77261",
         "room_desc": "Audiology Track Gc"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPHS",
+        "room_num": "87024",
+        "room_desc": "SPHS"
     }
 ]

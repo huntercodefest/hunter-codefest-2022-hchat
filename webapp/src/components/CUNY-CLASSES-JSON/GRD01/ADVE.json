@@ -22,5 +22,11 @@
         "major": "ADVE",
         "room_num": "232",
         "room_desc": "Tba"
+    },
+    {
+        "school": "GRD01",
+        "major": "ADVE",
+        "room_num": "88423",
+        "room_desc": "ADVE"
     }
 ]

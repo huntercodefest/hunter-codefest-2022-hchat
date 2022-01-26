@@ -46,5 +46,11 @@
         "major": "CRIM",
         "room_num": "64491",
         "room_desc": "Role Of The Police"
+    },
+    {
+        "school": "HOS01",
+        "major": "CRIM",
+        "room_num": "87776",
+        "room_desc": "CRIM"
     }
 ]

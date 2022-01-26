@@ -22,5 +22,11 @@
         "major": "MESG",
         "room_num": "21149",
         "room_desc": "Span Lang In Puert"
+    },
+    {
+        "school": "JJC01",
+        "major": "MESG",
+        "room_num": "87073",
+        "room_desc": "MESG"
     }
 ]

@@ -100,5 +100,11 @@
         "major": "EASC",
         "room_num": "63139",
         "room_desc": "Solar System"
+    },
+    {
+        "school": "KCC01",
+        "major": "EASC",
+        "room_num": "88487",
+        "room_desc": "EASC"
     }
 ]

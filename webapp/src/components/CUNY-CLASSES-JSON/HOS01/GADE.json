@@ -70,5 +70,11 @@
         "major": "GADE",
         "room_num": "64774",
         "room_desc": "Visual Design for Games"
+    },
+    {
+        "school": "HOS01",
+        "major": "GADE",
+        "room_num": "87803",
+        "room_desc": "GADE"
     }
 ]

@@ -328,5 +328,11 @@
         "major": "GRSR",
         "room_num": "52333",
         "room_desc": "Workshop Info Techn"
+    },
+    {
+        "school": "HTR01",
+        "major": "GRSR",
+        "room_num": "87675",
+        "room_desc": "GRSR"
     }
 ]

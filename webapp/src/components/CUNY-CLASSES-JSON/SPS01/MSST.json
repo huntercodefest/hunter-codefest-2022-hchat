@@ -70,5 +70,11 @@
         "major": "MSST",
         "room_num": "80849",
         "room_desc": "Visitor Services and Visitor S"
+    },
+    {
+        "school": "SPS01",
+        "major": "MSST",
+        "room_num": "87598",
+        "room_desc": "MSST"
     }
 ]

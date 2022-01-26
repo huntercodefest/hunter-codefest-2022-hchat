@@ -112,5 +112,11 @@
         "major": "MUSI",
         "room_num": "69374",
         "room_desc": "Voice Class"
+    },
+    {
+        "school": "BCC01",
+        "major": "MUSI",
+        "room_num": "87318",
+        "room_desc": "MUSI"
     }
 ]

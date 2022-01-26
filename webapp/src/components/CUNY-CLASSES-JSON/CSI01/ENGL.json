@@ -1486,5 +1486,11 @@
         "major": "ENGL",
         "room_num": "84758",
         "room_desc": "XIX Cent European Fiction"
+    },
+    {
+        "school": "CSI01",
+        "major": "ENGL",
+        "room_num": "88028",
+        "room_desc": "ENGL"
     }
 ]

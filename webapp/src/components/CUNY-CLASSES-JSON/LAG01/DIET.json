@@ -154,5 +154,11 @@
         "major": "DIET",
         "room_num": "81680",
         "room_desc": "Scd 240"
+    },
+    {
+        "school": "LAG01",
+        "major": "DIET",
+        "room_num": "86714",
+        "room_desc": "DIET"
     }
 ]

@@ -16,5 +16,11 @@
         "major": "ACIM",
         "room_num": "22173",
         "room_desc": "Remedial Writing"
+    },
+    {
+        "school": "QCC01",
+        "major": "ACIM",
+        "room_num": "87871",
+        "room_desc": "ACIM"
     }
 ]

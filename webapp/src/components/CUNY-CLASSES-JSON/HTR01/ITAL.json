@@ -814,5 +814,11 @@
         "major": "ITAL",
         "room_num": "53585",
         "room_desc": "XX Cent Perspec on Renaissance"
+    },
+    {
+        "school": "HTR01",
+        "major": "ITAL",
+        "room_num": "87683",
+        "room_desc": "ITAL"
     }
 ]

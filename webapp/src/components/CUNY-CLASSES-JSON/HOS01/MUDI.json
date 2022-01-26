@@ -64,5 +64,11 @@
         "major": "MUDI",
         "room_num": "64898",
         "room_desc": "Synth64899: MUSI,\"History Western Music Styles"
+    },
+    {
+        "school": "HOS01",
+        "major": "MUDI",
+        "room_num": "87790",
+        "room_desc": "MUDI"
     }
 ]

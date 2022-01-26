@@ -2194,5 +2194,11 @@
         "major": "ARTH",
         "room_num": "47185",
         "room_desc": "Women Artists Renaiss-Baroque"
+    },
+    {
+        "school": "HTR01",
+        "major": "ARTH",
+        "room_num": "87673",
+        "room_desc": "ARTH"
     }
 ]

@@ -1486,5 +1486,11 @@
         "major": "ENGL",
         "room_num": "66880",
         "room_desc": "XIX Cent European Fiction"
+    },
+    {
+        "school": "NYT01",
+        "major": "ENGL",
+        "room_num": "87146",
+        "room_desc": "ENGL"
     }
 ]

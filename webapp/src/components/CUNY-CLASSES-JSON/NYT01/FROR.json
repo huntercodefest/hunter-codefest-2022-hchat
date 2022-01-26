@@ -22,5 +22,11 @@
         "major": "FROR",
         "room_num": "66994",
         "room_desc": "New Student Seminar"
+    },
+    {
+        "school": "NYT01",
+        "major": "FROR",
+        "room_num": "87172",
+        "room_desc": "FROR"
     }
 ]

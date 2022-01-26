@@ -4,5 +4,11 @@
         "major": "MELE",
         "room_num": "82280",
         "room_desc": "Leave of Absence"
+    },
+    {
+        "school": "LAG01",
+        "major": "MELE",
+        "room_num": "86696",
+        "room_desc": "MELE"
     }
 ]

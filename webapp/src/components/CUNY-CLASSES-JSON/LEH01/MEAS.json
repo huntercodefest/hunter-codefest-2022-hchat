@@ -76,5 +76,11 @@
         "major": "MEAS",
         "room_num": "13697",
         "room_desc": "The Modern Hebrew Novel"
+    },
+    {
+        "school": "LEH01",
+        "major": "MEAS",
+        "room_num": "88183",
+        "room_desc": "MEAS"
     }
 ]

@@ -586,5 +586,11 @@
         "major": "CHEM",
         "room_num": "70830",
         "room_desc": "Thesis Research"
+    },
+    {
+        "school": "BKL01",
+        "major": "CHEM",
+        "room_num": "86928",
+        "room_desc": "CHEM"
     }
 ]

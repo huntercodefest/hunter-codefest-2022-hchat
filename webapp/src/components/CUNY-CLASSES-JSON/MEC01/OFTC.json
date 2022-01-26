@@ -256,5 +256,11 @@
         "major": "OFTC",
         "room_num": "79685",
         "room_desc": "W/P Workshop"
+    },
+    {
+        "school": "MEC01",
+        "major": "OFTC",
+        "room_num": "88281",
+        "room_desc": "OFTC"
     }
 ]

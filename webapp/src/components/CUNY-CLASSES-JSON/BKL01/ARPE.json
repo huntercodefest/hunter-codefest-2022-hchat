@@ -148,5 +148,11 @@
         "major": "ARPE",
         "room_num": "69980",
         "room_desc": "Thesis Seminar II"
+    },
+    {
+        "school": "BKL01",
+        "major": "ARPE",
+        "room_num": "86993",
+        "room_desc": "ARPE"
     }
 ]

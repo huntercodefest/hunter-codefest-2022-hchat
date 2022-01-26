@@ -3052,5 +3052,11 @@
         "major": "CMSC",
         "room_num": "2409",
         "room_desc": "X Windows/Multimed"
+    },
+    {
+        "school": "GRD01",
+        "major": "CMSC",
+        "room_num": "88453",
+        "room_desc": "CMSC"
     }
 ]

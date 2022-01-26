@@ -304,5 +304,11 @@
         "major": "BIOL",
         "room_num": "15398",
         "room_desc": "Thry & Experiment Biotechno"
+    },
+    {
+        "school": "YRK01",
+        "major": "BIOL",
+        "room_num": "87389",
+        "room_desc": "BIOL"
     }
 ]

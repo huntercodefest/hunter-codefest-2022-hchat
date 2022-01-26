@@ -208,5 +208,11 @@
         "major": "PHYS",
         "room_num": "14213",
         "room_desc": "Thermodynamics/Stat Mechanics"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHYS",
+        "room_num": "88146",
+        "room_desc": "PHYS"
     }
 ]

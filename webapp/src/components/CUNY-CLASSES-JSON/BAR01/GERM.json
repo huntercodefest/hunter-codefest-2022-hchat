@@ -52,5 +52,11 @@
         "major": "GERM",
         "room_num": "60466",
         "room_desc": "Upper Intermediate German"
+    },
+    {
+        "school": "BAR01",
+        "major": "GERM",
+        "room_num": "86637",
+        "room_desc": "GERM"
     }
 ]

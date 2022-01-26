@@ -52,5 +52,11 @@
         "major": "MATH",
         "room_num": "80828",
         "room_desc": "Statistics"
+    },
+    {
+        "school": "SPS01",
+        "major": "MATH",
+        "room_num": "87604",
+        "room_desc": "MATH"
     }
 ]

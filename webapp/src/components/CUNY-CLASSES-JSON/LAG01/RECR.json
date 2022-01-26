@@ -28,5 +28,11 @@
         "major": "RECR",
         "room_num": "82681",
         "room_desc": "TR Long Term Care"
+    },
+    {
+        "school": "LAG01",
+        "major": "RECR",
+        "room_num": "86753",
+        "room_desc": "RECR"
     }
 ]

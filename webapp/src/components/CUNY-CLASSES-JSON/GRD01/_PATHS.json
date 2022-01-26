@@ -550,5 +550,9 @@
     {
         "major": "GEOT",
         "path": "GEOT.json"
+    },
+    {
+        "major": "GRD01",
+        "path": "GRD01.json"
     }
 ]

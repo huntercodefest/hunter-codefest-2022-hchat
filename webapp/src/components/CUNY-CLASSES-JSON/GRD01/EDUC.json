@@ -340,5 +340,11 @@
         "major": "EDUC",
         "room_num": "4349",
         "room_desc": "X"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "88364",
+        "room_desc": "EDUC"
     }
 ]

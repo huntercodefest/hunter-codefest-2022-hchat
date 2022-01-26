@@ -232,5 +232,11 @@
         "major": "SPAN",
         "room_num": "19202",
         "room_desc": "XX Cent Span-Amer Lit"
+    },
+    {
+        "school": "BMC01",
+        "major": "SPAN",
+        "room_num": "86850",
+        "room_desc": "SPAN"
     }
 ]

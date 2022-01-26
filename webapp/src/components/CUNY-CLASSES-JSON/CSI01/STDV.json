@@ -64,5 +64,11 @@
         "major": "STDV",
         "room_num": "86555",
         "room_desc": "Studnt Servce Intern"
+    },
+    {
+        "school": "CSI01",
+        "major": "STDV",
+        "room_num": "88043",
+        "room_desc": "STDV"
     }
 ]

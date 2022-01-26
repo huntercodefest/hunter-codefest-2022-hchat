@@ -310,5 +310,11 @@
         "major": "ITAL",
         "room_num": "41365",
         "room_desc": "Writing the Self in Ital. Cont"
+    },
+    {
+        "school": "CTY01",
+        "major": "ITAL",
+        "room_num": "87950",
+        "room_desc": "ITAL"
     }
 ]

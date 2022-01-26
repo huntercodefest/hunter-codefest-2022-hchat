@@ -1612,5 +1612,11 @@
         "major": "EGCI",
         "room_num": "37492",
         "room_desc": "Wtr Resources Systm"
+    },
+    {
+        "school": "CTY01",
+        "major": "EGCI",
+        "room_num": "87990",
+        "room_desc": "EGCI"
     }
 ]

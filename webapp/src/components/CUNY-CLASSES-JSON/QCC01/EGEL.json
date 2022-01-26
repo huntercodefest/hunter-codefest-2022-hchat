@@ -34,5 +34,11 @@
         "major": "EGEL",
         "room_num": "22825",
         "room_desc": "Linear Systems Analysis"
+    },
+    {
+        "school": "QCC01",
+        "major": "EGEL",
+        "room_num": "87874",
+        "room_desc": "EGEL"
     }
 ]

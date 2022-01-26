@@ -64,5 +64,11 @@
         "major": "BIOS",
         "room_num": "47321",
         "room_desc": "Survival Analysis"
+    },
+    {
+        "school": "HTR01",
+        "major": "BIOS",
+        "room_num": "87727",
+        "room_desc": "BIOS"
     }
 ]

@@ -88,5 +88,11 @@
         "major": "EDLI",
         "room_num": "25590",
         "room_desc": "Sem:Research In Litr"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDLI",
+        "room_num": "87447",
+        "room_desc": "EDLI"
     }
 ]

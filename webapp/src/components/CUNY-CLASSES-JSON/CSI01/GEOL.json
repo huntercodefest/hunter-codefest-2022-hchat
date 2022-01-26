@@ -202,5 +202,11 @@
         "major": "GEOL",
         "room_num": "84947",
         "room_desc": "Structural Geology"
+    },
+    {
+        "school": "CSI01",
+        "major": "GEOL",
+        "room_num": "88064",
+        "room_desc": "GEOL"
     }
 ]

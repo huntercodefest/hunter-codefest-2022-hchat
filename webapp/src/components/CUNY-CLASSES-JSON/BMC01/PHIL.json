@@ -64,5 +64,11 @@
         "major": "PHIL",
         "room_num": "18941",
         "room_desc": "Philosophy Directed Study"
+    },
+    {
+        "school": "BMC01",
+        "major": "PHIL",
+        "room_num": "86866",
+        "room_desc": "PHIL"
     }
 ]

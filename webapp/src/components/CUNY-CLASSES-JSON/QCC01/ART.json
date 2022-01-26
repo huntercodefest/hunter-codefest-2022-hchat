@@ -4,5 +4,11 @@
         "major": "ART",
         "room_num": "22194",
         "room_desc": "Great Music"
+    },
+    {
+        "school": "QCC01",
+        "major": "ART",
+        "room_num": "87905",
+        "room_desc": "ART"
     }
 ]

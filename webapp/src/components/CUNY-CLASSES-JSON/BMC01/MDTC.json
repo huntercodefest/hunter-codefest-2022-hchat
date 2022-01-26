@@ -358,5 +358,11 @@
         "major": "MDTC",
         "room_num": "18540",
         "room_desc": "Ret Retr Health Info"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "86851",
+        "room_desc": "MDTC"
     }
 ]

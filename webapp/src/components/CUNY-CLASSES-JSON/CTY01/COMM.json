@@ -754,5 +754,11 @@
         "major": "COMM",
         "room_num": "34379",
         "room_desc": "Wrtng Campus Media"
+    },
+    {
+        "school": "CTY01",
+        "major": "COMM",
+        "room_num": "87928",
+        "room_desc": "COMM"
     }
 ]

@@ -112,5 +112,11 @@
         "major": "ACCT",
         "room_num": "62706",
         "room_desc": "Res In Fed Taxation"
+    },
+    {
+        "school": "KCC01",
+        "major": "ACCT",
+        "room_num": "88519",
+        "room_desc": "ACCT"
     }
 ]

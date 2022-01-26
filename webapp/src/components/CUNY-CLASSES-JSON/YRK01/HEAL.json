@@ -28,5 +28,11 @@
         "major": "HEAL",
         "room_num": "16105",
         "room_desc": "Public Health"
+    },
+    {
+        "school": "YRK01",
+        "major": "HEAL",
+        "room_num": "87388",
+        "room_desc": "HEAL"
     }
 ]

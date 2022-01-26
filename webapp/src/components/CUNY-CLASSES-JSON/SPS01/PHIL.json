@@ -28,5 +28,11 @@
         "major": "PHIL",
         "room_num": "80896",
         "room_desc": "Introduction to Philosophy"
+    },
+    {
+        "school": "SPS01",
+        "major": "PHIL",
+        "room_num": "87603",
+        "room_desc": "PHIL"
     }
 ]

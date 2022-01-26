@@ -88,5 +88,11 @@
         "major": "NEUR",
         "room_num": "85816",
         "room_desc": "SYSTEMS AND NEUROSCIENCE"
+    },
+    {
+        "school": "CSI01",
+        "major": "NEUR",
+        "room_num": "88035",
+        "room_desc": "NEUR"
     }
 ]

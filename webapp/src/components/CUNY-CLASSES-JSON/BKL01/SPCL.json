@@ -478,5 +478,11 @@
         "major": "SPCL",
         "room_num": "77073",
         "room_desc": "Wk With Fam In Schls"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPCL",
+        "room_num": "86978",
+        "room_desc": "SPCL"
     }
 ]

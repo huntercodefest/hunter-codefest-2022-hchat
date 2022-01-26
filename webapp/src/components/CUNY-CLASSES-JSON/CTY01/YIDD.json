@@ -40,5 +40,11 @@
         "major": "YIDD",
         "room_num": "45418",
         "room_desc": "Introductory Yiddish 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "YIDD",
+        "room_num": "87939",
+        "room_desc": "YIDD"
     }
 ]

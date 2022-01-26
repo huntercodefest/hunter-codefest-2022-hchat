@@ -280,5 +280,11 @@
         "major": "ANTH",
         "room_num": "19592",
         "room_desc": "Youth & Justice Nyc"
+    },
+    {
+        "school": "JJC01",
+        "major": "ANTH",
+        "room_num": "87121",
+        "room_desc": "ANTH"
     }
 ]

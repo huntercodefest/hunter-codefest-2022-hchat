@@ -190,5 +190,11 @@
         "major": "SCIE",
         "room_num": "68458",
         "room_desc": "World Civilization II"
+    },
+    {
+        "school": "NYT01",
+        "major": "SCIE",
+        "room_num": "87188",
+        "room_desc": "SCIE"
     }
 ]

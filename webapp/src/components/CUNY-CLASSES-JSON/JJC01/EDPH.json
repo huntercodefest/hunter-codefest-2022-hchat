@@ -304,5 +304,11 @@
         "major": "EDPH",
         "room_num": "20299",
         "room_desc": "Yoga I"
+    },
+    {
+        "school": "JJC01",
+        "major": "EDPH",
+        "room_num": "87108",
+        "room_desc": "EDPH"
     }
 ]

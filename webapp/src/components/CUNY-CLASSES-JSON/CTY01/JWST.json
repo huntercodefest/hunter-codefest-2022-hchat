@@ -1000,5 +1000,11 @@
         "major": "JWST",
         "room_num": "41549",
         "room_desc": "Yiddish In Ny: Poetry41550: KORE,\"Elementary Korean"
+    },
+    {
+        "school": "CTY01",
+        "major": "JWST",
+        "room_num": "87964",
+        "room_desc": "JWST"
     }
 ]

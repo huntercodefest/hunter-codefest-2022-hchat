@@ -4,5 +4,11 @@
         "major": "FREN",
         "room_num": "80668",
         "room_desc": "Francophne Cult Tday"
+    },
+    {
+        "school": "SPS01",
+        "major": "FREN",
+        "room_num": "87600",
+        "room_desc": "FREN"
     }
 ]

@@ -226,5 +226,11 @@
         "major": "ANTP",
         "room_num": "45983",
         "room_desc": "Tropical Forest Conservation"
+    },
+    {
+        "school": "HTR01",
+        "major": "ANTP",
+        "room_num": "87734",
+        "room_desc": "ANTP"
     }
 ]

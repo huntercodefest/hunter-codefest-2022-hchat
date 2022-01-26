@@ -70,5 +70,11 @@
         "major": "COMM",
         "room_num": "17569",
         "room_desc": "The Mass Media"
+    },
+    {
+        "school": "BMC01",
+        "major": "COMM",
+        "room_num": "86807",
+        "room_desc": "COMM"
     }
 ]

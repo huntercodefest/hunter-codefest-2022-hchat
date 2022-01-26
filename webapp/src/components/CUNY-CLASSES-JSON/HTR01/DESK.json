@@ -118,5 +118,11 @@
         "major": "DESK",
         "room_num": "49031",
         "room_desc": "USIP SEEK Writing Workshop"
+    },
+    {
+        "school": "HTR01",
+        "major": "DESK",
+        "room_num": "87707",
+        "room_desc": "DESK"
     }
 ]

@@ -64,5 +64,11 @@
         "major": "HOMA",
         "room_num": "18262",
         "room_desc": "Sports Marketing & Promotion"
+    },
+    {
+        "school": "BMC01",
+        "major": "HOMA",
+        "room_num": "86803",
+        "room_desc": "HOMA"
     }
 ]

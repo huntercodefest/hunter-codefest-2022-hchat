@@ -82,5 +82,11 @@
         "major": "CODI",
         "room_num": "68902",
         "room_desc": "College Discovey"
+    },
+    {
+        "school": "BCC01",
+        "major": "CODI",
+        "room_num": "87269",
+        "room_desc": "CODI"
     }
 ]

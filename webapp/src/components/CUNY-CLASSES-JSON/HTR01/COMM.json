@@ -10,5 +10,11 @@
         "major": "COMM",
         "room_num": "48259",
         "room_desc": "Readers Theatre"
+    },
+    {
+        "school": "HTR01",
+        "major": "COMM",
+        "room_num": "87652",
+        "room_desc": "COMM"
     }
 ]

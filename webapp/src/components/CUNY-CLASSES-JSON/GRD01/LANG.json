@@ -94,5 +94,11 @@
         "major": "LANG",
         "room_num": "6441",
         "room_desc": "Research Literacy II"
+    },
+    {
+        "school": "GRD01",
+        "major": "LANG",
+        "room_num": "88438",
+        "room_desc": "LANG"
     }
 ]

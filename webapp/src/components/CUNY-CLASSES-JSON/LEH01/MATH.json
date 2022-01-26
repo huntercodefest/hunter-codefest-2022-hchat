@@ -688,5 +688,11 @@
         "major": "MATH",
         "room_num": "13682",
         "room_desc": "Voting and Polling Problems"
+    },
+    {
+        "school": "LEH01",
+        "major": "MATH",
+        "room_num": "88218",
+        "room_desc": "MATH"
     }
 ]

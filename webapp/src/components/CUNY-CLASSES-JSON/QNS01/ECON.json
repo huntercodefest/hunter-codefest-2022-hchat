@@ -1084,5 +1084,11 @@
         "major": "ECON",
         "room_num": "25473",
         "room_desc": "Writing Tutorial"
+    },
+    {
+        "school": "QNS01",
+        "major": "ECON",
+        "room_num": "87443",
+        "room_desc": "ECON"
     }
 ]

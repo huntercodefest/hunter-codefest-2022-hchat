@@ -94,5 +94,11 @@
         "major": "ARAB",
         "room_num": "69942",
         "room_desc": "Peer Tutoring II Arabic"
+    },
+    {
+        "school": "BKL01",
+        "major": "ARAB",
+        "room_num": "87010",
+        "room_desc": "ARAB"
     }
 ]

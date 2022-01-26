@@ -352,5 +352,11 @@
         "major": "EDUC",
         "room_num": "66487",
         "room_desc": "Urban Education"
+    },
+    {
+        "school": "NYT01",
+        "major": "EDUC",
+        "room_num": "87166",
+        "room_desc": "EDUC"
     }
 ]

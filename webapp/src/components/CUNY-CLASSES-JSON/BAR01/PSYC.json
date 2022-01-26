@@ -940,5 +940,11 @@
         "major": "PSYC",
         "room_num": "62009",
         "room_desc": "Vocational Psychology"
+    },
+    {
+        "school": "BAR01",
+        "major": "PSYC",
+        "room_num": "86601",
+        "room_desc": "PSYC"
     }
 ]

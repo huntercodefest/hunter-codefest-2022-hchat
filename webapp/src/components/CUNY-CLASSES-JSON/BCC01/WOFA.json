@@ -1,8 +1,14 @@
 [
-	{
-		"room_num": 69535,
-		"school": "BCC01",
-		"major": "WOFA",
-		"room_desc": "Workplace First Aid Training"
-	}
+    {
+        "room_num": 69535,
+        "school": "BCC01",
+        "major": "WOFA",
+        "room_desc": "Workplace First Aid Training"
+    },
+    {
+        "school": "BCC01",
+        "major": "WOFA",
+        "room_num": "87278",
+        "room_desc": "WOFA"
+    }
 ]

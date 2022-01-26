@@ -4,5 +4,11 @@
         "major": "COCC",
         "room_num": "83848",
         "room_desc": "Co Curricular Clue"
+    },
+    {
+        "school": "CSI01",
+        "major": "COCC",
+        "room_num": "88044",
+        "room_desc": "COCC"
     }
 ]

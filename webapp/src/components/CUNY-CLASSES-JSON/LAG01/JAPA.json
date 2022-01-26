@@ -46,5 +46,11 @@
         "major": "JAPA",
         "room_num": "82068",
         "room_desc": "Modern Japanese Literature"
+    },
+    {
+        "school": "LAG01",
+        "major": "JAPA",
+        "room_num": "86758",
+        "room_desc": "JAPA"
     }
 ]

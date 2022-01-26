@@ -4,5 +4,11 @@
         "major": "ASAM",
         "room_num": "908",
         "room_desc": "Lang909: AUDI,\"Acoustics and Psychoacoustics"
+    },
+    {
+        "school": "GRD01",
+        "major": "ASAM",
+        "room_num": "88410",
+        "room_desc": "ASAM"
     }
 ]

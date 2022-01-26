@@ -448,5 +448,11 @@
         "major": "THEA",
         "room_num": "14948",
         "room_desc": "Working in the Performing Arts"
+    },
+    {
+        "school": "LEH01",
+        "major": "THEA",
+        "room_num": "88200",
+        "room_desc": "THEA"
     }
 ]

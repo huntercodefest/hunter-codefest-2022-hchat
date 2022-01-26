@@ -52,5 +52,11 @@
         "major": "INTE",
         "room_num": "80747",
         "room_desc": "Tutorial"
+    },
+    {
+        "school": "SPS01",
+        "major": "INTE",
+        "room_num": "87575",
+        "room_desc": "INTE"
     }
 ]

@@ -22,5 +22,11 @@
         "major": "STDV",
         "room_num": "17020",
         "room_desc": "Pract In Learning"
+    },
+    {
+        "school": "YRK01",
+        "major": "STDV",
+        "room_num": "87357",
+        "room_desc": "STDV"
     }
 ]

@@ -760,5 +760,11 @@
         "major": "PHIL",
         "room_num": "29666",
         "room_desc": "Writing Workshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "PHIL",
+        "room_num": "87514",
+        "room_desc": "PHIL"
     }
 ]

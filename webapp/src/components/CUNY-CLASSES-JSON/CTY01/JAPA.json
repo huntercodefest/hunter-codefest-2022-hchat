@@ -88,5 +88,11 @@
         "major": "JAPA",
         "room_num": "41380",
         "room_desc": "Introductory Japanese II"
+    },
+    {
+        "school": "CTY01",
+        "major": "JAPA",
+        "room_num": "87992",
+        "room_desc": "JAPA"
     }
 ]

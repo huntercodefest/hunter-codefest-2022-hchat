@@ -166,5 +166,11 @@
         "major": "FINA",
         "room_num": "84838",
         "room_desc": "Personal Financial Management"
+    },
+    {
+        "school": "CSI01",
+        "major": "FINA",
+        "room_num": "88118",
+        "room_desc": "FINA"
     }
 ]

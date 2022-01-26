@@ -70,5 +70,11 @@
         "major": "PSYC",
         "room_num": "69468",
         "room_desc": "Social Psychology"
+    },
+    {
+        "school": "BCC01",
+        "major": "PSYC",
+        "room_num": "87249",
+        "room_desc": "PSYC"
     }
 ]

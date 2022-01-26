@@ -16,5 +16,11 @@
         "major": "DEES",
         "room_num": "71354",
         "room_desc": "OSS Math Immersion Workshop"
+    },
+    {
+        "school": "BKL01",
+        "major": "DEES",
+        "room_num": "86940",
+        "room_desc": "DEES"
     }
 ]

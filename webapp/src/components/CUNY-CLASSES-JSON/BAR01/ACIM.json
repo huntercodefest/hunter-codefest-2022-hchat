@@ -22,5 +22,11 @@
         "major": "ACIM",
         "room_num": "58965",
         "room_desc": "Study Lab in BUS 1000"
+    },
+    {
+        "school": "BAR01",
+        "major": "ACIM",
+        "room_num": "86635",
+        "room_desc": "ACIM"
     }
 ]

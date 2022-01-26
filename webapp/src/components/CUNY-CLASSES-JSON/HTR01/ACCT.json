@@ -148,5 +148,11 @@
         "major": "ACCT",
         "room_num": "45444",
         "room_desc": "State and Local Taxation"
+    },
+    {
+        "school": "HTR01",
+        "major": "ACCT",
+        "room_num": "87706",
+        "room_desc": "ACCT"
     }
 ]

@@ -22,5 +22,11 @@
         "major": "EVSC",
         "room_num": "20428",
         "room_desc": "Independent Study 400-level"
+    },
+    {
+        "school": "JJC01",
+        "major": "EVSC",
+        "room_num": "87125",
+        "room_desc": "EVSC"
     }
 ]

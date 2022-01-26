@@ -4,5 +4,11 @@
         "major": "STSV",
         "room_num": "77315",
         "room_desc": "Psychosoc Developm"
+    },
+    {
+        "school": "BKL01",
+        "major": "STSV",
+        "room_num": "86945",
+        "room_desc": "STSV"
     }
 ]

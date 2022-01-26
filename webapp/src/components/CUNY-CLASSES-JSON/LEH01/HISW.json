@@ -196,5 +196,11 @@
         "major": "HISW",
         "room_num": "13189",
         "room_desc": "Tutorial Non-Western"
+    },
+    {
+        "school": "LEH01",
+        "major": "HISW",
+        "room_num": "88136",
+        "room_desc": "HISW"
     }
 ]

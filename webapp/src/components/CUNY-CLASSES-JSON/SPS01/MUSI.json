@@ -4,5 +4,11 @@
         "major": "MUSI",
         "room_num": "80850",
         "room_desc": "Music Appreciation"
+    },
+    {
+        "school": "SPS01",
+        "major": "MUSI",
+        "room_num": "87597",
+        "room_desc": "MUSI"
     }
 ]

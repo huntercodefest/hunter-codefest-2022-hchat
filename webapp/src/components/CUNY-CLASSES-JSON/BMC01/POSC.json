@@ -70,5 +70,11 @@
         "major": "POSC",
         "room_num": "18965",
         "room_desc": "World Politics"
+    },
+    {
+        "school": "BMC01",
+        "major": "POSC",
+        "room_num": "86853",
+        "room_desc": "POSC"
     }
 ]

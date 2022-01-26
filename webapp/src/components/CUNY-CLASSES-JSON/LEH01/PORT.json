@@ -52,5 +52,11 @@
         "major": "PORT",
         "room_num": "14222",
         "room_desc": "Portug Lit 18-20cent"
+    },
+    {
+        "school": "LEH01",
+        "major": "PORT",
+        "room_num": "88221",
+        "room_desc": "PORT"
     }
 ]

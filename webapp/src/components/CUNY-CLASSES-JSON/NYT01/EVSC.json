@@ -298,5 +298,11 @@
         "major": "EVSC",
         "room_num": "66932",
         "room_desc": "Transportation Systems"
+    },
+    {
+        "school": "NYT01",
+        "major": "EVSC",
+        "room_num": "87241",
+        "room_desc": "EVSC"
     }
 ]

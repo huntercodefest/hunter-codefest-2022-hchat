@@ -34,5 +34,11 @@
         "major": "DATA",
         "room_num": "63122",
         "room_desc": "Rpg Programming"
+    },
+    {
+        "school": "KCC01",
+        "major": "DATA",
+        "room_num": "88544",
+        "room_desc": "DATA"
     }
 ]

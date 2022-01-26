@@ -208,5 +208,11 @@
         "major": "ACCT",
         "room_num": "77942",
         "room_desc": "Taxation Nyc"
+    },
+    {
+        "school": "MEC01",
+        "major": "ACCT",
+        "room_num": "88276",
+        "room_desc": "ACCT"
     }
 ]

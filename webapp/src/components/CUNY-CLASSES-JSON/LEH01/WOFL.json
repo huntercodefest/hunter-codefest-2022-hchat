@@ -274,5 +274,11 @@
         "major": "WOFL",
         "room_num": "15001",
         "room_desc": "Tutorial"
+    },
+    {
+        "school": "LEH01",
+        "major": "WOFL",
+        "room_num": "88209",
+        "room_desc": "WOFL"
     }
 ]

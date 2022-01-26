@@ -124,5 +124,11 @@
         "major": "EDBL",
         "room_num": "49279",
         "room_desc": "Sup Tchg49280: EDBL,\"Supervised Stdnt Teaching (KC)"
+    },
+    {
+        "school": "HTR01",
+        "major": "EDBL",
+        "room_num": "87690",
+        "room_desc": "EDBL"
     }
 ]

@@ -100,5 +100,11 @@
         "major": "LBST",
         "room_num": "28512",
         "room_desc": "Writing Workshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "LBST",
+        "room_num": "87429",
+        "room_desc": "LBST"
     }
 ]

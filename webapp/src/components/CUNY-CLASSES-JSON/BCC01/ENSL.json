@@ -16,5 +16,11 @@
         "major": "ENSL",
         "room_num": "69101",
         "room_desc": "Intermediate Esl."
+    },
+    {
+        "school": "BCC01",
+        "major": "ENSL",
+        "room_num": "87273",
+        "room_desc": "ENSL"
     }
 ]

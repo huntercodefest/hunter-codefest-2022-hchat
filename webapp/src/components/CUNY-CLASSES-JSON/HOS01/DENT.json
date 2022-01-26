@@ -172,5 +172,11 @@
         "major": "DENT",
         "room_num": "64520",
         "room_desc": "Senior Seminar"
+    },
+    {
+        "school": "HOS01",
+        "major": "DENT",
+        "room_num": "87819",
+        "room_desc": "DENT"
     }
 ]

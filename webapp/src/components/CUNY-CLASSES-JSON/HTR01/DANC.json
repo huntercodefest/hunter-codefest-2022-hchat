@@ -646,5 +646,11 @@
         "major": "DANC",
         "room_num": "49011",
         "room_desc": "West African Dance 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "87761",
+        "room_desc": "DANC"
     }
 ]

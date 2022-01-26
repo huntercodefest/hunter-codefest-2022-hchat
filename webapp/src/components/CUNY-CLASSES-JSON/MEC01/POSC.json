@@ -184,5 +184,11 @@
         "major": "POSC",
         "room_num": "79806",
         "room_desc": "Western Pol Thought"
+    },
+    {
+        "school": "MEC01",
+        "major": "POSC",
+        "room_num": "88284",
+        "room_desc": "POSC"
     }
 ]

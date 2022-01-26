@@ -16,5 +16,11 @@
         "major": "ASTR",
         "room_num": "32940",
         "room_desc": "Methods in Astronomy"
+    },
+    {
+        "school": "CTY01",
+        "major": "ASTR",
+        "room_num": "87923",
+        "room_desc": "ASTR"
     }
 ]

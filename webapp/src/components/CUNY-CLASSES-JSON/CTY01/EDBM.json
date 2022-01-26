@@ -496,5 +496,11 @@
         "major": "EDBM",
         "room_num": "35040",
         "room_desc": "US Healthcare Systems & Policy"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDBM",
+        "room_num": "87989",
+        "room_desc": "EDBM"
     }
 ]

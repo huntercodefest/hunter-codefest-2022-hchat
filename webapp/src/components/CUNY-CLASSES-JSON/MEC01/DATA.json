@@ -22,5 +22,11 @@
         "major": "DATA",
         "room_num": "78330",
         "room_desc": "Pl/I Programming Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "DATA",
+        "room_num": "88312",
+        "room_desc": "DATA"
     }
 ]

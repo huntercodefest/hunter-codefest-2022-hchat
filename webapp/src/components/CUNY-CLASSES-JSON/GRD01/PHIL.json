@@ -1288,5 +1288,11 @@
         "major": "PHIL",
         "room_num": "8461",
         "room_desc": "Wittgenstein: Phil"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "88442",
+        "room_desc": "PHIL"
     }
 ]

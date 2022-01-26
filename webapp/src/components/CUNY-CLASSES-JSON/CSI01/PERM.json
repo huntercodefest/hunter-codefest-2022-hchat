@@ -16,5 +16,11 @@
         "major": "PERM",
         "room_num": "85891",
         "room_desc": "Permit Non CUNY"
+    },
+    {
+        "school": "CSI01",
+        "major": "PERM",
+        "room_num": "88038",
+        "room_desc": "PERM"
     }
 ]

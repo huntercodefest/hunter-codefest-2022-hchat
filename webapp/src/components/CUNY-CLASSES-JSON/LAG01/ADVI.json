@@ -16,5 +16,11 @@
         "major": "ADVI",
         "room_num": "81214",
         "room_desc": "My First Day-Orientation"
+    },
+    {
+        "school": "LAG01",
+        "major": "ADVI",
+        "room_num": "86752",
+        "room_desc": "ADVI"
     }
 ]

@@ -28,5 +28,11 @@
         "major": "ORST",
         "room_num": "29524",
         "room_desc": "Lasar-Pinwc"
+    },
+    {
+        "school": "QNS01",
+        "major": "ORST",
+        "room_num": "87477",
+        "room_desc": "ORST"
     }
 ]

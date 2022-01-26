@@ -1354,5 +1354,11 @@
         "major": "PHYS",
         "room_num": "8741",
         "room_desc": "X-Ray Diffraction"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHYS",
+        "room_num": "88349",
+        "room_desc": "PHYS"
     }
 ]

@@ -52,5 +52,11 @@
         "major": "PORT",
         "room_num": "75770",
         "room_desc": "Peer Tutoring 11"
+    },
+    {
+        "school": "BKL01",
+        "major": "PORT",
+        "room_num": "87012",
+        "room_desc": "PORT"
     }
 ]

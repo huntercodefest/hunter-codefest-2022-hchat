@@ -196,5 +196,11 @@
         "major": "MDTC",
         "room_num": "85653",
         "room_desc": "Serology-Immunology Training"
+    },
+    {
+        "school": "CSI01",
+        "major": "MDTC",
+        "room_num": "88090",
+        "room_desc": "MDTC"
     }
 ]

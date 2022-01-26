@@ -2014,5 +2014,11 @@
         "major": "INTE",
         "room_num": "28297",
         "room_desc": "Wrtg/Comp Sci"
+    },
+    {
+        "school": "QNS01",
+        "major": "INTE",
+        "room_num": "87468",
+        "room_desc": "INTE"
     }
 ]

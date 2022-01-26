@@ -364,5 +364,11 @@
         "major": "PRLS",
         "room_num": "21471",
         "room_desc": "War Crimes/Latin Am"
+    },
+    {
+        "school": "JJC01",
+        "major": "PRLS",
+        "room_num": "87057",
+        "room_desc": "PRLS"
     }
 ]

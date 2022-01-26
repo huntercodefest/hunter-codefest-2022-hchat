@@ -262,5 +262,11 @@
         "major": "FREN",
         "room_num": "16061",
         "room_desc": "Translation II"
+    },
+    {
+        "school": "YRK01",
+        "major": "FREN",
+        "room_num": "87410",
+        "room_desc": "FREN"
     }
 ]

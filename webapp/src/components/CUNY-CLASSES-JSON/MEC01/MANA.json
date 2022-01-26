@@ -184,5 +184,11 @@
         "major": "MANA",
         "room_num": "79065",
         "room_desc": "Women In Bus & Mgmt"
+    },
+    {
+        "school": "MEC01",
+        "major": "MANA",
+        "room_num": "88313",
+        "room_desc": "MANA"
     }
 ]

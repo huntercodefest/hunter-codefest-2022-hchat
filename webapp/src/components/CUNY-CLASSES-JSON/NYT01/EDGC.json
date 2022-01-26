@@ -142,5 +142,11 @@
         "major": "EDGC",
         "room_num": "66285",
         "room_desc": "Statistical Mthods"
+    },
+    {
+        "school": "NYT01",
+        "major": "EDGC",
+        "room_num": "87240",
+        "room_desc": "EDGC"
     }
 ]

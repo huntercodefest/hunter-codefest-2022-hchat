@@ -226,5 +226,11 @@
         "major": "GEOG",
         "room_num": "67035",
         "room_desc": "World Regional Geography"
+    },
+    {
+        "school": "NYT01",
+        "major": "GEOG",
+        "room_num": "87144",
+        "room_desc": "GEOG"
     }
 ]

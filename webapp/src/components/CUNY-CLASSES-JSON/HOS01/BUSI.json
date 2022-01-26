@@ -88,5 +88,11 @@
         "major": "BUSI",
         "room_num": "64426",
         "room_desc": "Principles of Marketing"
+    },
+    {
+        "school": "HOS01",
+        "major": "BUSI",
+        "room_num": "87804",
+        "room_desc": "BUSI"
     }
 ]

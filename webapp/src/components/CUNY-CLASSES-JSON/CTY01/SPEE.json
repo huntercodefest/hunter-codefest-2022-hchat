@@ -622,5 +622,11 @@
         "major": "SPEE",
         "room_num": "44811",
         "room_desc": "Voice and Diction"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "87987",
+        "room_desc": "SPEE"
     }
 ]

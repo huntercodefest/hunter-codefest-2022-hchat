@@ -394,5 +394,11 @@
         "major": "CMSC",
         "room_num": "11539",
         "room_desc": "Video Game Programming"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "88224",
+        "room_desc": "CMSC"
     }
 ]

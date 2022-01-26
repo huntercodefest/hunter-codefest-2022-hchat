@@ -112,5 +112,11 @@
         "major": "ARCU",
         "room_num": "62780",
         "room_desc": "Restaurant/Food Service Oper"
+    },
+    {
+        "school": "KCC01",
+        "major": "ARCU",
+        "room_num": "88542",
+        "room_desc": "ARCU"
     }
 ]

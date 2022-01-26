@@ -184,5 +184,11 @@
         "major": "EDCO",
         "room_num": "17758",
         "room_desc": "Vat Internship II"
+    },
+    {
+        "school": "BMC01",
+        "major": "EDCO",
+        "room_num": "86800",
+        "room_desc": "EDCO"
     }
 ]

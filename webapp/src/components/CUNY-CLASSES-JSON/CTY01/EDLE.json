@@ -436,5 +436,11 @@
         "major": "EDLE",
         "room_num": "35698",
         "room_desc": "Survy Probs Educ Admin"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDLE",
+        "room_num": "88014",
+        "room_desc": "EDLE"
     }
 ]

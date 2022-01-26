@@ -844,5 +844,11 @@
         "major": "UBPL",
         "room_num": "58520",
         "room_desc": "Young Immigrants"
+    },
+    {
+        "school": "HTR01",
+        "major": "UBPL",
+        "room_num": "87752",
+        "room_desc": "UBPL"
     }
 ]

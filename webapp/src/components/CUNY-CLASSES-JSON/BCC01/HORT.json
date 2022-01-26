@@ -52,5 +52,11 @@
         "major": "HORT",
         "room_num": "69198",
         "room_desc": "Turf and Ground Maintenance"
+    },
+    {
+        "school": "BCC01",
+        "major": "HORT",
+        "room_num": "87296",
+        "room_desc": "HORT"
     }
 ]

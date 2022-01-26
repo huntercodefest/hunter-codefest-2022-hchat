@@ -262,5 +262,11 @@
         "major": "COMM",
         "room_num": "80448",
         "room_desc": "Writing for Digital Media"
+    },
+    {
+        "school": "SPS01",
+        "major": "COMM",
+        "room_num": "87565",
+        "room_desc": "COMM"
     }
 ]

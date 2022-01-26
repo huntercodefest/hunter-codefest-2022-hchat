@@ -268,5 +268,11 @@
         "major": "COLI",
         "room_num": "59590",
         "room_desc": "Women/Famil Bible Lt"
+    },
+    {
+        "school": "BAR01",
+        "major": "COLI",
+        "room_num": "86670",
+        "room_desc": "COLI"
     }
 ]

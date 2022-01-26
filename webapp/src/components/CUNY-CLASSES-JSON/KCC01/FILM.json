@@ -22,5 +22,11 @@
         "major": "FILM",
         "room_num": "63471",
         "room_desc": "Film: The Creative Medium"
+    },
+    {
+        "school": "KCC01",
+        "major": "FILM",
+        "room_num": "88490",
+        "room_desc": "FILM"
     }
 ]

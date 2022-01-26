@@ -1516,5 +1516,11 @@
         "major": "EDEC",
         "room_num": "35588",
         "room_desc": "Wrt Cur:Hum Env 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDEC",
+        "room_num": "87943",
+        "room_desc": "EDEC"
     }
 ]

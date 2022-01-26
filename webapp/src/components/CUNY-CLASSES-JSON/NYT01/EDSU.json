@@ -88,5 +88,11 @@
         "major": "EDSU",
         "room_num": "66428",
         "room_desc": "Super Admin Indep Stdy"
+    },
+    {
+        "school": "NYT01",
+        "major": "EDSU",
+        "room_num": "87193",
+        "room_desc": "EDSU"
     }
 ]

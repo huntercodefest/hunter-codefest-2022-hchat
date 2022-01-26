@@ -1222,5 +1222,11 @@
         "major": "ECON",
         "room_num": "49236",
         "room_desc": "Women in the Economy"
+    },
+    {
+        "school": "HTR01",
+        "major": "ECON",
+        "room_num": "87650",
+        "room_desc": "ECON"
     }
 ]

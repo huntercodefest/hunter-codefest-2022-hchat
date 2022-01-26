@@ -88,5 +88,11 @@
         "major": "CLLS",
         "room_num": "15555",
         "room_desc": "Urinalysis and Body Fluids"
+    },
+    {
+        "school": "YRK01",
+        "major": "CLLS",
+        "room_num": "87420",
+        "room_desc": "CLLS"
     }
 ]

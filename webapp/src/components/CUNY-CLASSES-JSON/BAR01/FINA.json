@@ -562,5 +562,11 @@
         "major": "FINA",
         "room_num": "60379",
         "room_desc": "Venture Capital"
+    },
+    {
+        "school": "BAR01",
+        "major": "FINA",
+        "room_num": "86681",
+        "room_desc": "FINA"
     }
 ]

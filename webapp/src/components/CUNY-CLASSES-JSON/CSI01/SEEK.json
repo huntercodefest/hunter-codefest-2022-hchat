@@ -22,5 +22,11 @@
         "major": "SEEK",
         "room_num": "86340",
         "room_desc": "Stress Management"
+    },
+    {
+        "school": "CSI01",
+        "major": "SEEK",
+        "room_num": "88051",
+        "room_desc": "SEEK"
     }
 ]

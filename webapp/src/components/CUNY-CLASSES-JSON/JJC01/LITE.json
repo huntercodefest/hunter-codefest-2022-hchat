@@ -640,5 +640,11 @@
         "major": "LITE",
         "room_num": "21062",
         "room_desc": "Writing Nature"
+    },
+    {
+        "school": "JJC01",
+        "major": "LITE",
+        "room_num": "87119",
+        "room_desc": "LITE"
     }
 ]

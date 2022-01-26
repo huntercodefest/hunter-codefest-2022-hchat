@@ -28,5 +28,11 @@
         "major": "YORU",
         "room_num": "15057",
         "room_desc": "Yoruba Oral Literature"
+    },
+    {
+        "school": "LEH01",
+        "major": "YORU",
+        "room_num": "88189",
+        "room_desc": "YORU"
     }
 ]

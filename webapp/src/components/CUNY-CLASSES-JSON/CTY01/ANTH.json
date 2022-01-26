@@ -1498,5 +1498,11 @@
         "major": "ANTH",
         "room_num": "31476",
         "room_desc": "Wrtng Soc Sciences"
+    },
+    {
+        "school": "CTY01",
+        "major": "ANTH",
+        "room_num": "88018",
+        "room_desc": "ANTH"
     }
 ]

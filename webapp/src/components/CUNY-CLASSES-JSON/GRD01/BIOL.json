@@ -1744,5 +1744,11 @@
         "major": "BIOL",
         "room_num": "1463",
         "room_desc": "Zool/Phylog Chordata (Mammals)"
+    },
+    {
+        "school": "GRD01",
+        "major": "BIOL",
+        "room_num": "88407",
+        "room_desc": "BIOL"
     }
 ]

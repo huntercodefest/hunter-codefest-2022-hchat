@@ -190,5 +190,11 @@
         "major": "ACCT",
         "room_num": "17115",
         "room_desc": "Taxation: Federal (Honors)"
+    },
+    {
+        "school": "BMC01",
+        "major": "ACCT",
+        "room_num": "86844",
+        "room_desc": "ACCT"
     }
 ]

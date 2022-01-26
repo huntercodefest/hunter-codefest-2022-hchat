@@ -394,5 +394,11 @@
         "major": "JOUR",
         "room_num": "60781",
         "room_desc": "Workshop: Playwriting"
+    },
+    {
+        "school": "BAR01",
+        "major": "JOUR",
+        "room_num": "86628",
+        "room_desc": "JOUR"
     }
 ]

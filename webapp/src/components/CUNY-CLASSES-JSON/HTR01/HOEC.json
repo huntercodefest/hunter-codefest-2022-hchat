@@ -40,5 +40,11 @@
         "major": "HOEC",
         "room_num": "53133",
         "room_desc": "Seminar H.E."
+    },
+    {
+        "school": "HTR01",
+        "major": "HOEC",
+        "room_num": "87709",
+        "room_desc": "HOEC"
     }
 ]

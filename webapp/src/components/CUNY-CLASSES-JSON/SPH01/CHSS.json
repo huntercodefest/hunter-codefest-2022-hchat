@@ -160,5 +160,11 @@
         "major": "CHSS",
         "room_num": "46",
         "room_desc": "Topics in Comm47: EDPU,\"Adolescent Health"
+    },
+    {
+        "school": "SPH01",
+        "major": "CHSS",
+        "room_num": "88327",
+        "room_desc": "CHSS"
     }
 ]

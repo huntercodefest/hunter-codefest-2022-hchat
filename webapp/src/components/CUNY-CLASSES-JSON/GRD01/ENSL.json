@@ -64,5 +64,11 @@
         "major": "ENSL",
         "room_num": "5353",
         "room_desc": "Writing Skills Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "ENSL",
+        "room_num": "88363",
+        "room_desc": "ENSL"
     }
 ]

@@ -652,5 +652,11 @@
         "major": "INTE",
         "room_num": "79017",
         "room_desc": "Writing Our Lives"
+    },
+    {
+        "school": "MEC01",
+        "major": "INTE",
+        "room_num": "88268",
+        "room_desc": "INTE"
     }
 ]

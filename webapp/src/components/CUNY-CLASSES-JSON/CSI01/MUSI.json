@@ -766,5 +766,11 @@
         "major": "MUSI",
         "room_num": "85801",
         "room_desc": "World Music"
+    },
+    {
+        "school": "CSI01",
+        "major": "MUSI",
+        "room_num": "88098",
+        "room_desc": "MUSI"
     }
 ]

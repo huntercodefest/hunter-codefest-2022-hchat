@@ -28,5 +28,11 @@
         "major": "REAW",
         "room_num": "69484",
         "room_desc": "Reading Workshop 05"
+    },
+    {
+        "school": "BCC01",
+        "major": "REAW",
+        "room_num": "87327",
+        "room_desc": "REAW"
     }
 ]

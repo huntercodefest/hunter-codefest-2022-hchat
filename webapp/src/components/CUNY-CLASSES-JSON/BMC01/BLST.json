@@ -244,5 +244,11 @@
         "major": "BLST",
         "room_num": "17405",
         "room_desc": "Sociol Blk Urb Com"
+    },
+    {
+        "school": "BMC01",
+        "major": "BLST",
+        "room_num": "86852",
+        "room_desc": "BLST"
     }
 ]

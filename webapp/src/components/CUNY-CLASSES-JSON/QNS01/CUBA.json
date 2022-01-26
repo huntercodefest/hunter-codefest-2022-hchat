@@ -22,5 +22,11 @@
         "major": "CUBA",
         "room_num": "24971",
         "room_desc": "Vt:Cuny/Ba-Ind Study"
+    },
+    {
+        "school": "QNS01",
+        "major": "CUBA",
+        "room_num": "87499",
+        "room_desc": "CUBA"
     }
 ]

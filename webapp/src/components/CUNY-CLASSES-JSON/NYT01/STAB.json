@@ -22,5 +22,11 @@
         "major": "STAB",
         "room_num": "68666",
         "room_desc": "Study Aroad"
+    },
+    {
+        "school": "NYT01",
+        "major": "STAB",
+        "room_num": "87167",
+        "room_desc": "STAB"
     }
 ]

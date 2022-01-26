@@ -118,5 +118,11 @@
         "major": "PUAD",
         "room_num": "80965",
         "room_desc": "Urban Health Service"
+    },
+    {
+        "school": "SPS01",
+        "major": "PUAD",
+        "room_num": "87578",
+        "room_desc": "PUAD"
     }
 ]

@@ -1186,5 +1186,11 @@
         "major": "FILM",
         "room_num": "73336",
         "room_desc": "\u2019Film Directing Workshop I"
+    },
+    {
+        "school": "BKL01",
+        "major": "FILM",
+        "room_num": "86942",
+        "room_desc": "FILM"
     }
 ]

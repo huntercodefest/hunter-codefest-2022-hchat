@@ -190,5 +190,11 @@
         "major": "HUMA",
         "room_num": "53377",
         "room_desc": "Writing in the Arts"
+    },
+    {
+        "school": "HTR01",
+        "major": "HUMA",
+        "room_num": "87692",
+        "room_desc": "HUMA"
     }
 ]

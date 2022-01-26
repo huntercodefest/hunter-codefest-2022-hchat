@@ -160,5 +160,11 @@
         "major": "IRIS",
         "room_num": "13276",
         "room_desc": "Tutorial in Irish Lang & Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "IRIS",
+        "room_num": "88174",
+        "room_desc": "IRIS"
     }
 ]

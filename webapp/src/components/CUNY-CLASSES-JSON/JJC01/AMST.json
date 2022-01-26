@@ -10,5 +10,11 @@
         "major": "AMST",
         "room_num": "19543",
         "room_desc": "Thematic-Amr-Std"
+    },
+    {
+        "school": "JJC01",
+        "major": "AMST",
+        "room_num": "87047",
+        "room_desc": "AMST"
     }
 ]

@@ -298,5 +298,11 @@
         "major": "HEBR",
         "room_num": "12893",
         "room_desc": "Yiddish Independent Studies"
+    },
+    {
+        "school": "LEH01",
+        "major": "HEBR",
+        "room_num": "88158",
+        "room_desc": "HEBR"
     }
 ]

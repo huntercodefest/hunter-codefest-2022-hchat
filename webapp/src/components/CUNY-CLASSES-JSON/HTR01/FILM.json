@@ -910,5 +910,11 @@
         "major": "FILM",
         "room_num": "51512",
         "room_desc": "Writing:Young Audiences"
+    },
+    {
+        "school": "HTR01",
+        "major": "FILM",
+        "room_num": "87649",
+        "room_desc": "FILM"
     }
 ]

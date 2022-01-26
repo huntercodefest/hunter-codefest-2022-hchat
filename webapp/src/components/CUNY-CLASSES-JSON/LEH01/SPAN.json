@@ -532,5 +532,11 @@
         "major": "SPAN",
         "room_num": "14775",
         "room_desc": "Workshop in Creative Writing"
+    },
+    {
+        "school": "LEH01",
+        "major": "SPAN",
+        "room_num": "88196",
+        "room_desc": "SPAN"
     }
 ]

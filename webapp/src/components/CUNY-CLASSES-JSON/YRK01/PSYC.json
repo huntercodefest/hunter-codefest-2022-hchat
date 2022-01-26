@@ -346,5 +346,11 @@
         "major": "PSYC",
         "room_num": "16838",
         "room_desc": "Vocational Rehab"
+    },
+    {
+        "school": "YRK01",
+        "major": "PSYC",
+        "room_num": "87344",
+        "room_desc": "PSYC"
     }
 ]

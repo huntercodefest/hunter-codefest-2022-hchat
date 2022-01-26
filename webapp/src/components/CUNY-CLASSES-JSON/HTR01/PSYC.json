@@ -2158,5 +2158,11 @@
         "major": "PSYC",
         "room_num": "56509",
         "room_desc": "Wom56510: PSYC,\"Women & Mental Hlth"
+    },
+    {
+        "school": "HTR01",
+        "major": "PSYC",
+        "room_num": "87624",
+        "room_desc": "PSYC"
     }
 ]

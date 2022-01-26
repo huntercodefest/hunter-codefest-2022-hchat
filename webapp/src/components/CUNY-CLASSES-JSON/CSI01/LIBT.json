@@ -16,5 +16,11 @@
         "major": "LIBT",
         "room_num": "85389",
         "room_desc": "Information Access"
+    },
+    {
+        "school": "CSI01",
+        "major": "LIBT",
+        "room_num": "88053",
+        "room_desc": "LIBT"
     }
 ]

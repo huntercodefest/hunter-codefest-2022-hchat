@@ -64,5 +64,11 @@
         "major": "ACCT",
         "room_num": "64327",
         "room_desc": "Personal Income Tax"
+    },
+    {
+        "school": "HOS01",
+        "major": "ACCT",
+        "room_num": "87809",
+        "room_desc": "ACCT"
     }
 ]

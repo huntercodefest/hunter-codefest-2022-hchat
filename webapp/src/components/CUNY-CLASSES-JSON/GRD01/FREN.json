@@ -712,5 +712,11 @@
         "major": "FREN",
         "room_num": "5628",
         "room_desc": "Women and French Literature"
+    },
+    {
+        "school": "GRD01",
+        "major": "FREN",
+        "room_num": "88440",
+        "room_desc": "FREN"
     }
 ]

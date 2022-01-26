@@ -388,5 +388,11 @@
         "major": "SPAN",
         "room_num": "22094",
         "room_desc": "Violence Against Women"
+    },
+    {
+        "school": "JJC01",
+        "major": "SPAN",
+        "room_num": "87098",
+        "room_desc": "SPAN"
     }
 ]

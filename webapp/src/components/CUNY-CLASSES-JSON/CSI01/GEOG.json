@@ -226,5 +226,11 @@
         "major": "GEOG",
         "room_num": "84913",
         "room_desc": "World Regional Geography"
+    },
+    {
+        "school": "CSI01",
+        "major": "GEOG",
+        "room_num": "88026",
+        "room_desc": "GEOG"
     }
 ]

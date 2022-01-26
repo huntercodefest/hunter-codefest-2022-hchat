@@ -316,5 +316,11 @@
         "major": "RUTG",
         "room_num": "9857",
         "room_desc": "X-Ray Crystallography"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUTG",
+        "room_num": "88405",
+        "room_desc": "RUTG"
     }
 ]

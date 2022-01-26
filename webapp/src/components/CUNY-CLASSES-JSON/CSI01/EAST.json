@@ -22,5 +22,11 @@
         "major": "EAST",
         "room_num": "83960",
         "room_desc": "Japanese Cinema: Theory & Hst"
+    },
+    {
+        "school": "CSI01",
+        "major": "EAST",
+        "room_num": "88052",
+        "room_desc": "EAST"
     }
 ]

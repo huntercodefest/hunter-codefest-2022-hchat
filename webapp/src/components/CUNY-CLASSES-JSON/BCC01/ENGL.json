@@ -334,5 +334,11 @@
         "major": "ENGL",
         "room_num": "69098",
         "room_desc": "Writer\u2019s Workshp for ESL"
+    },
+    {
+        "school": "BCC01",
+        "major": "ENGL",
+        "room_num": "87251",
+        "room_desc": "ENGL"
     }
 ]

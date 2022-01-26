@@ -16,5 +16,11 @@
         "major": "STRT",
         "room_num": "23446",
         "room_desc": "Math Start College Success Sem"
+    },
+    {
+        "school": "QCC01",
+        "major": "STRT",
+        "room_num": "87878",
+        "room_desc": "STRT"
     }
 ]

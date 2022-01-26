@@ -148,5 +148,11 @@
         "major": "CHIN",
         "room_num": "33746",
         "room_desc": "Tradtnl Chinese Civ"
+    },
+    {
+        "school": "CTY01",
+        "major": "CHIN",
+        "room_num": "87978",
+        "room_desc": "CHIN"
     }
 ]

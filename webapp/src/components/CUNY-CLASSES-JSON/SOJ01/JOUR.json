@@ -862,5 +862,11 @@
         "major": "JOUR",
         "room_num": "80304",
         "room_desc": "Writing for Social Media"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "87133",
+        "room_desc": "JOUR"
     }
 ]

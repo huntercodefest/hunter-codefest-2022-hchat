@@ -148,5 +148,11 @@
         "major": "ITAL",
         "room_num": "60705",
         "room_desc": "The Latin American Essay"
+    },
+    {
+        "school": "BAR01",
+        "major": "ITAL",
+        "room_num": "86634",
+        "room_desc": "ITAL"
     }
 ]

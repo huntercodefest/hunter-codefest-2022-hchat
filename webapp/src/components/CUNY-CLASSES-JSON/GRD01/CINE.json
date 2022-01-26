@@ -22,5 +22,11 @@
         "major": "CINE",
         "room_num": "1781",
         "room_desc": "Studies in Genres"
+    },
+    {
+        "school": "GRD01",
+        "major": "CINE",
+        "room_num": "88386",
+        "room_desc": "CINE"
     }
 ]

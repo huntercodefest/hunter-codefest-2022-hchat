@@ -16,5 +16,11 @@
         "major": "HUBI",
         "room_num": "53343",
         "room_desc": "Internship"
+    },
+    {
+        "school": "HTR01",
+        "major": "HUBI",
+        "room_num": "87705",
+        "room_desc": "HUBI"
     }
 ]

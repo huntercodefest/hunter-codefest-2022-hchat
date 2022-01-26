@@ -148,5 +148,11 @@
         "major": "SPEC",
         "room_num": "23438",
         "room_desc": "Video Production II"
+    },
+    {
+        "school": "QCC01",
+        "major": "SPEC",
+        "room_num": "87895",
+        "room_desc": "SPEC"
     }
 ]

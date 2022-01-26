@@ -202,5 +202,11 @@
         "major": "GEOL",
         "room_num": "67069",
         "room_desc": "Structural Geology"
+    },
+    {
+        "school": "NYT01",
+        "major": "GEOL",
+        "room_num": "87182",
+        "room_desc": "GEOL"
     }
 ]

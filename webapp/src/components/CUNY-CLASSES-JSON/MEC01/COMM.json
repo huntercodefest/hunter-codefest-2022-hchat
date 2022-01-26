@@ -34,5 +34,11 @@
         "major": "COMM",
         "room_num": "78297",
         "room_desc": "Communications II"
+    },
+    {
+        "school": "MEC01",
+        "major": "COMM",
+        "room_num": "88252",
+        "room_desc": "COMM"
     }
 ]

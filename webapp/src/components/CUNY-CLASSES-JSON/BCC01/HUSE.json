@@ -28,5 +28,11 @@
         "major": "HUSE",
         "room_num": "69203",
         "room_desc": "Intro Case Mangmnt"
+    },
+    {
+        "school": "BCC01",
+        "major": "HUSE",
+        "room_num": "87295",
+        "room_desc": "HUSE"
     }
 ]

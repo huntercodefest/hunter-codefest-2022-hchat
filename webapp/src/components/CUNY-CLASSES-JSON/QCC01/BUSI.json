@@ -442,5 +442,11 @@
         "major": "BUSI",
         "room_num": "22401",
         "room_desc": "Wrd/Info Prc Wdprf"
+    },
+    {
+        "school": "QCC01",
+        "major": "BUSI",
+        "room_num": "87876",
+        "room_desc": "BUSI"
     }
 ]

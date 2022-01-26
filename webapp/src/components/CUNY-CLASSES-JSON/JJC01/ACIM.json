@@ -10,5 +10,11 @@
         "major": "ACIM",
         "room_num": "19395",
         "room_desc": "Intr Coll Compos"
+    },
+    {
+        "school": "JJC01",
+        "major": "ACIM",
+        "room_num": "87078",
+        "room_desc": "ACIM"
     }
 ]

@@ -238,5 +238,11 @@
         "major": "WOST",
         "room_num": "68719",
         "room_desc": "Womn Eurlit Aft Ren"
+    },
+    {
+        "school": "NYT01",
+        "major": "WOST",
+        "room_num": "87231",
+        "room_desc": "WOST"
     }
 ]

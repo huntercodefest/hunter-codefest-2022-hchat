@@ -412,5 +412,11 @@
         "major": "FOSC",
         "room_num": "20554",
         "room_desc": "Thesis Prospectus III"
+    },
+    {
+        "school": "JJC01",
+        "major": "FOSC",
+        "room_num": "87072",
+        "room_desc": "FOSC"
     }
 ]

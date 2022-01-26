@@ -340,5 +340,11 @@
         "major": "HUSE",
         "room_num": "82024",
         "room_desc": "Urb Study-Comm Dyn"
+    },
+    {
+        "school": "LAG01",
+        "major": "HUSE",
+        "room_num": "86732",
+        "room_desc": "HUSE"
     }
 ]

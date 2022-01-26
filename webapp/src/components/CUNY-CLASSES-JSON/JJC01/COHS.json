@@ -52,5 +52,11 @@
         "major": "COHS",
         "room_num": "19792",
         "room_desc": "Theor Assessmt & Interv HumSrv"
+    },
+    {
+        "school": "JJC01",
+        "major": "COHS",
+        "room_num": "87103",
+        "room_desc": "COHS"
     }
 ]

@@ -88,5 +88,11 @@
         "major": "NEUR",
         "room_num": "67938",
         "room_desc": "SYSTEMS AND NEUROSCIENCE"
+    },
+    {
+        "school": "NYT01",
+        "major": "NEUR",
+        "room_num": "87153",
+        "room_desc": "NEUR"
     }
 ]

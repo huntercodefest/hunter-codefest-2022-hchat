@@ -496,5 +496,11 @@
         "major": "ENGL",
         "room_num": "15990",
         "room_desc": "Writing15991: ENSL,\"Read&Write Non-Nat 1"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "87346",
+        "room_desc": "ENGL"
     }
 ]

@@ -52,5 +52,11 @@
         "major": "BUSI",
         "room_num": "64198",
         "room_desc": "Principles of Marketing"
+    },
+    {
+        "school": "NCC01",
+        "major": "BUSI",
+        "room_num": "86907",
+        "room_desc": "BUSI"
     }
 ]

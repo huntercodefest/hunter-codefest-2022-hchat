@@ -310,5 +310,11 @@
         "major": "ENGL",
         "room_num": "64696",
         "room_desc": "Writing Skills and Composition"
+    },
+    {
+        "school": "HOS01",
+        "major": "ENGL",
+        "room_num": "87767",
+        "room_desc": "ENGL"
     }
 ]

@@ -88,5 +88,11 @@
         "major": "PHIL",
         "room_num": "79710",
         "room_desc": "Survey Western Phil."
+    },
+    {
+        "school": "MEC01",
+        "major": "PHIL",
+        "room_num": "88296",
+        "room_desc": "PHIL"
     }
 ]

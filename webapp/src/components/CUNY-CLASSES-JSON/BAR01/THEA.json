@@ -166,5 +166,11 @@
         "major": "THEA",
         "room_num": "62681",
         "room_desc": "Workshop in Playwriting"
+    },
+    {
+        "school": "BAR01",
+        "major": "THEA",
+        "room_num": "86654",
+        "room_desc": "THEA"
     }
 ]

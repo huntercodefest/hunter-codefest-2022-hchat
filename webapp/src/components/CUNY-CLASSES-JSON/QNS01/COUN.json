@@ -82,5 +82,11 @@
         "major": "COUN",
         "room_num": "24967",
         "room_desc": "Theor Cpl Fam Couns"
+    },
+    {
+        "school": "QNS01",
+        "major": "COUN",
+        "room_num": "87473",
+        "room_desc": "COUN"
     }
 ]

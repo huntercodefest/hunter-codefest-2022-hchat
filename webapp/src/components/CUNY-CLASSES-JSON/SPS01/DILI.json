@@ -10,5 +10,11 @@
         "major": "DILI",
         "room_num": "80523",
         "room_desc": "Writing at Work"
+    },
+    {
+        "school": "SPS01",
+        "major": "DILI",
+        "room_num": "87562",
+        "room_desc": "DILI"
     }
 ]

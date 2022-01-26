@@ -4,5 +4,11 @@
         "major": "BIOT",
         "room_num": "17364",
         "room_desc": "Introduction to Biotechnology"
+    },
+    {
+        "school": "BMC01",
+        "major": "BIOT",
+        "room_num": "86813",
+        "room_desc": "BIOT"
     }
 ]

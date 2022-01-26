@@ -256,5 +256,11 @@
         "major": "HUMA",
         "room_num": "16236",
         "room_desc": "World Of Opera"
+    },
+    {
+        "school": "YRK01",
+        "major": "HUMA",
+        "room_num": "87384",
+        "room_desc": "HUMA"
     }
 ]

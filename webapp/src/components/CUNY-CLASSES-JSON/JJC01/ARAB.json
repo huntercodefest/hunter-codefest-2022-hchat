@@ -76,5 +76,11 @@
         "major": "ARAB",
         "room_num": "19605",
         "room_desc": "Modern Std Arabic II Review"
+    },
+    {
+        "school": "JJC01",
+        "major": "ARAB",
+        "room_num": "87114",
+        "room_desc": "ARAB"
     }
 ]

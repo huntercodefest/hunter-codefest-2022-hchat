@@ -304,5 +304,11 @@
         "major": "ECON",
         "room_num": "11737",
         "room_desc": "Urban Economics"
+    },
+    {
+        "school": "LEH01",
+        "major": "ECON",
+        "room_num": "88149",
+        "room_desc": "ECON"
     }
 ]

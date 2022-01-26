@@ -4,5 +4,11 @@
         "major": "CMSC",
         "room_num": "59543",
         "room_desc": "Science Info Retriev"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMSC",
+        "room_num": "86676",
+        "room_desc": "CMSC"
     }
 ]

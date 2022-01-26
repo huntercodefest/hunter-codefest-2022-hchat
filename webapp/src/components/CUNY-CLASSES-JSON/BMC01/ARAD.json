@@ -64,5 +64,11 @@
         "major": "ARAD",
         "room_num": "17225",
         "room_desc": "Sales Promo Advertising"
+    },
+    {
+        "school": "BMC01",
+        "major": "ARAD",
+        "room_num": "86862",
+        "room_desc": "ARAD"
     }
 ]

@@ -850,5 +850,11 @@
         "major": "ENGL",
         "room_num": "78709",
         "room_desc": "Young Adult Literature"
+    },
+    {
+        "school": "MEC01",
+        "major": "ENGL",
+        "room_num": "88243",
+        "room_desc": "ENGL"
     }
 ]

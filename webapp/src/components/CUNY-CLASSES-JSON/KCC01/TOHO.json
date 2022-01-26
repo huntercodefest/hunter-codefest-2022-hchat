@@ -298,5 +298,11 @@
         "major": "TOHO",
         "room_num": "64168",
         "room_desc": "Travel Hosp Seminar"
+    },
+    {
+        "school": "KCC01",
+        "major": "TOHO",
+        "room_num": "88494",
+        "room_desc": "TOHO"
     }
 ]

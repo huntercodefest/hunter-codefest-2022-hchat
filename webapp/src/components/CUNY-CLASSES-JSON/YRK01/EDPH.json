@@ -430,5 +430,11 @@
         "major": "EDPH",
         "room_num": "15818",
         "room_desc": "Yoga"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDPH",
+        "room_num": "87409",
+        "room_desc": "EDPH"
     }
 ]

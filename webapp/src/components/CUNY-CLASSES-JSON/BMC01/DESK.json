@@ -106,5 +106,11 @@
         "major": "DESK",
         "room_num": "17697",
         "room_desc": "Literacy17698: DESK,\"Rdng & Stdy Skills II-Cd Wkshp"
+    },
+    {
+        "school": "BMC01",
+        "major": "DESK",
+        "room_num": "86846",
+        "room_desc": "DESK"
     }
 ]

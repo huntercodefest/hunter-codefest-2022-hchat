@@ -166,5 +166,11 @@
         "major": "RELI",
         "room_num": "79951",
         "room_desc": "Wmn Leaders Civ Rgts"
+    },
+    {
+        "school": "MEC01",
+        "major": "RELI",
+        "room_num": "88239",
+        "room_desc": "RELI"
     }
 ]

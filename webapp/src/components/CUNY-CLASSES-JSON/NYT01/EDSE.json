@@ -274,5 +274,11 @@
         "major": "EDSE",
         "room_num": "66353",
         "room_desc": "Youth Culture Lit"
+    },
+    {
+        "school": "NYT01",
+        "major": "EDSE",
+        "room_num": "87228",
+        "room_desc": "EDSE"
     }
 ]

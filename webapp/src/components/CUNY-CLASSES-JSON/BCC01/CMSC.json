@@ -40,5 +40,11 @@
         "major": "CMSC",
         "room_num": "68888",
         "room_desc": "Intro to Object Prog with Java"
+    },
+    {
+        "school": "BCC01",
+        "major": "CMSC",
+        "room_num": "87334",
+        "room_desc": "CMSC"
     }
 ]

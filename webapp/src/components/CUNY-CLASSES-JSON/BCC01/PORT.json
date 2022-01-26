@@ -22,5 +22,11 @@
         "major": "PORT",
         "room_num": "69443",
         "room_desc": "Introduction to Portuguese II"
+    },
+    {
+        "school": "BCC01",
+        "major": "PORT",
+        "room_num": "87333",
+        "room_desc": "PORT"
     }
 ]

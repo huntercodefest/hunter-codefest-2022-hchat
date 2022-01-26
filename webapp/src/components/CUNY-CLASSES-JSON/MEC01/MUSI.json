@@ -316,5 +316,11 @@
         "major": "MUSI",
         "room_num": "79286",
         "room_desc": "West Indian Music"
+    },
+    {
+        "school": "MEC01",
+        "major": "MUSI",
+        "room_num": "88290",
+        "room_desc": "MUSI"
     }
 ]

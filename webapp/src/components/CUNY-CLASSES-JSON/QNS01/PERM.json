@@ -76,5 +76,11 @@
         "major": "PERM",
         "room_num": "29537",
         "room_desc": "Permit to CUNY College"
+    },
+    {
+        "school": "QNS01",
+        "major": "PERM",
+        "room_num": "87435",
+        "room_desc": "PERM"
     }
 ]

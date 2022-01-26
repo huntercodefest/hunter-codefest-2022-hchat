@@ -52,5 +52,11 @@
         "major": "DANC",
         "room_num": "3766",
         "room_desc": "Tap I"
+    },
+    {
+        "school": "GRD01",
+        "major": "DANC",
+        "room_num": "88463",
+        "room_desc": "DANC"
     }
 ]

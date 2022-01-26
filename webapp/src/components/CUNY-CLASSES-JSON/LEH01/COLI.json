@@ -64,5 +64,11 @@
         "major": "COLI",
         "room_num": "11550",
         "room_desc": "Topics In Compar Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "COLI",
+        "room_num": "88216",
+        "room_desc": "COLI"
     }
 ]

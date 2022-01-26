@@ -70,5 +70,11 @@
         "major": "CHIN",
         "room_num": "81465",
         "room_desc": "Modern Chinese Literature"
+    },
+    {
+        "school": "LAG01",
+        "major": "CHIN",
+        "room_num": "86744",
+        "room_desc": "CHIN"
     }
 ]

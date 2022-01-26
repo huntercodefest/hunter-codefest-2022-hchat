@@ -238,5 +238,11 @@
         "major": "EDSC",
         "room_num": "35810",
         "room_desc": "Stud Tch Sec Sch"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDSC",
+        "room_num": "87993",
+        "room_desc": "EDSC"
     }
 ]

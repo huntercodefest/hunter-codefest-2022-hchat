@@ -16,5 +16,11 @@
         "major": "BUSE",
         "room_num": "17423",
         "room_desc": "Small Business Management"
+    },
+    {
+        "school": "BMC01",
+        "major": "BUSE",
+        "room_num": "86808",
+        "room_desc": "BUSE"
     }
 ]

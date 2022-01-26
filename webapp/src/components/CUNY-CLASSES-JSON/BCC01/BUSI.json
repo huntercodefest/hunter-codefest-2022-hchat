@@ -58,5 +58,11 @@
         "major": "BUSI",
         "room_num": "68843",
         "room_desc": "Small Business Management"
+    },
+    {
+        "school": "BCC01",
+        "major": "BUSI",
+        "room_num": "87299",
+        "room_desc": "BUSI"
     }
 ]

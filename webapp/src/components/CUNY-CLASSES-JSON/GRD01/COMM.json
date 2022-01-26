@@ -232,5 +232,11 @@
         "major": "COMM",
         "room_num": "2561",
         "room_desc": "Web Design I"
+    },
+    {
+        "school": "GRD01",
+        "major": "COMM",
+        "room_num": "88361",
+        "room_desc": "COMM"
     }
 ]

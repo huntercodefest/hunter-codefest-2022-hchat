@@ -4,5 +4,11 @@
         "major": "UBPL",
         "room_num": "80136",
         "room_desc": "Urban Planning"
+    },
+    {
+        "school": "MEC01",
+        "major": "UBPL",
+        "room_num": "88305",
+        "room_desc": "UBPL"
     }
 ]

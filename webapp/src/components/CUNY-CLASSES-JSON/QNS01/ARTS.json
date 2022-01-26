@@ -580,5 +580,11 @@
         "major": "ARTS",
         "room_num": "24252",
         "room_desc": "Woodcut Special Projects"
+    },
+    {
+        "school": "QNS01",
+        "major": "ARTS",
+        "room_num": "87481",
+        "room_desc": "ARTS"
     }
 ]

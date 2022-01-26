@@ -232,5 +232,11 @@
         "major": "HEBR",
         "room_num": "73767",
         "room_desc": "Tutorial Literature & Culture"
+    },
+    {
+        "school": "BKL01",
+        "major": "HEBR",
+        "room_num": "86955",
+        "room_desc": "HEBR"
     }
 ]

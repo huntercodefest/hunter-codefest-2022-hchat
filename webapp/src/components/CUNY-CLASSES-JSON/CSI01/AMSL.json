@@ -82,5 +82,11 @@
         "major": "AMSL",
         "room_num": "83054",
         "room_desc": "Deaf Ppl83055: AMSL,\"Linguistics of ASL"
+    },
+    {
+        "school": "CSI01",
+        "major": "AMSL",
+        "room_num": "88067",
+        "room_desc": "AMSL"
     }
 ]

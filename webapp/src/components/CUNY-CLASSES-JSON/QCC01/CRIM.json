@@ -40,5 +40,11 @@
         "major": "CRIM",
         "room_num": "22508",
         "room_desc": "Policing"
+    },
+    {
+        "school": "QCC01",
+        "major": "CRIM",
+        "room_num": "87851",
+        "room_desc": "CRIM"
     }
 ]

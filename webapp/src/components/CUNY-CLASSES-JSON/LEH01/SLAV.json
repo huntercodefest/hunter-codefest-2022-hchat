@@ -34,5 +34,11 @@
         "major": "SLAV",
         "room_num": "14537",
         "room_desc": "Tutorial"
+    },
+    {
+        "school": "LEH01",
+        "major": "SLAV",
+        "room_num": "88142",
+        "room_desc": "SLAV"
     }
 ]

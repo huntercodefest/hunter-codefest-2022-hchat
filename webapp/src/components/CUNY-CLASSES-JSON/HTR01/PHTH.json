@@ -400,5 +400,11 @@
         "major": "PHTH",
         "room_num": "55377",
         "room_desc": "Upper Extremity Kinesiology"
+    },
+    {
+        "school": "HTR01",
+        "major": "PHTH",
+        "room_num": "87703",
+        "room_desc": "PHTH"
     }
 ]

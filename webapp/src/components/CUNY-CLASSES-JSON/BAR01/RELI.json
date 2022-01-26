@@ -244,5 +244,11 @@
         "major": "RELI",
         "room_num": "62378",
         "room_desc": "World Religious Traditions"
+    },
+    {
+        "school": "BAR01",
+        "major": "RELI",
+        "room_num": "86599",
+        "room_desc": "RELI"
     }
 ]

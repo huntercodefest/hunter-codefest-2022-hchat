@@ -22,5 +22,11 @@
         "major": "INDE",
         "room_num": "53448",
         "room_desc": "Internship"
+    },
+    {
+        "school": "HTR01",
+        "major": "INDE",
+        "room_num": "87750",
+        "room_desc": "INDE"
     }
 ]

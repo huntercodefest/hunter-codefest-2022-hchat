@@ -118,5 +118,11 @@
         "major": "YIDD",
         "room_num": "31214",
         "room_desc": "Yid Folk Art Song"
+    },
+    {
+        "school": "QNS01",
+        "major": "YIDD",
+        "room_num": "87455",
+        "room_desc": "YIDD"
     }
 ]

@@ -400,5 +400,11 @@
         "major": "GERM",
         "room_num": "27481",
         "room_desc": "Vt:Signific Authors"
+    },
+    {
+        "school": "QNS01",
+        "major": "GERM",
+        "room_num": "87474",
+        "room_desc": "GERM"
     }
 ]

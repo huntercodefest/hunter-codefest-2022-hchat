@@ -70,5 +70,11 @@
         "major": "BULA",
         "room_num": "24493",
         "room_desc": "Virtual Enterprise"
+    },
+    {
+        "school": "QNS01",
+        "major": "BULA",
+        "room_num": "87441",
+        "room_desc": "BULA"
     }
 ]

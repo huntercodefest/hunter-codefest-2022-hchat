@@ -148,5 +148,11 @@
         "major": "BIOL",
         "room_num": "81380",
         "room_desc": "Vertebrate Evolution"
+    },
+    {
+        "school": "LAG01",
+        "major": "BIOL",
+        "room_num": "86737",
+        "room_desc": "BIOL"
     }
 ]

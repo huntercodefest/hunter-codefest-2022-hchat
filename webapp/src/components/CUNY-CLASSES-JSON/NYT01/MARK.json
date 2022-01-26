@@ -190,5 +190,11 @@
         "major": "MARK",
         "room_num": "67633",
         "room_desc": "Transportation Management"
+    },
+    {
+        "school": "NYT01",
+        "major": "MARK",
+        "room_num": "87175",
+        "room_desc": "MARK"
     }
 ]

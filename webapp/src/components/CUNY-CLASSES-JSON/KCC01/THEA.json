@@ -172,5 +172,11 @@
         "major": "THEA",
         "room_num": "64118",
         "room_desc": "Voice and Diction - Actor"
+    },
+    {
+        "school": "KCC01",
+        "major": "THEA",
+        "room_num": "88528",
+        "room_desc": "THEA"
     }
 ]

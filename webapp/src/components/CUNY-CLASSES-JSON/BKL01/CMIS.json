@@ -1456,5 +1456,11 @@
         "major": "CMIS",
         "room_num": "71232",
         "room_desc": "Workstation Programming"
+    },
+    {
+        "school": "BKL01",
+        "major": "CMIS",
+        "room_num": "87014",
+        "room_desc": "CMIS"
     }
 ]

@@ -382,5 +382,11 @@
         "major": "ARDR",
         "room_num": "83229",
         "room_desc": "World Drama to 1800"
+    },
+    {
+        "school": "CSI01",
+        "major": "ARDR",
+        "room_num": "88060",
+        "room_desc": "ARDR"
     }
 ]

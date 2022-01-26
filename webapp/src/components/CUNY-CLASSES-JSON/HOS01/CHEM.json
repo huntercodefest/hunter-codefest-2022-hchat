@@ -112,5 +112,11 @@
         "major": "CHEM",
         "room_num": "64450",
         "room_desc": "Quantitative Analysis"
+    },
+    {
+        "school": "HOS01",
+        "major": "CHEM",
+        "room_num": "87764",
+        "room_desc": "CHEM"
     }
 ]

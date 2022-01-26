@@ -1552,5 +1552,11 @@
         "major": "THEA",
         "room_num": "45139",
         "room_desc": "Youth Theatre"
+    },
+    {
+        "school": "CTY01",
+        "major": "THEA",
+        "room_num": "87986",
+        "room_desc": "THEA"
     }
 ]

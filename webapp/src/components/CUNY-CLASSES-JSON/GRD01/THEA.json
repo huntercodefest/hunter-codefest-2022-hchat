@@ -574,5 +574,11 @@
         "major": "THEA",
         "room_num": "10676",
         "room_desc": "Wagner To Wilson"
+    },
+    {
+        "school": "GRD01",
+        "major": "THEA",
+        "room_num": "88429",
+        "room_desc": "THEA"
     }
 ]

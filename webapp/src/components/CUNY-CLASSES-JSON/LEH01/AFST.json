@@ -394,5 +394,11 @@
         "major": "AFST",
         "room_num": "10837",
         "room_desc": "Women in African Society"
+    },
+    {
+        "school": "LEH01",
+        "major": "AFST",
+        "room_num": "88193",
+        "room_desc": "AFST"
     }
 ]

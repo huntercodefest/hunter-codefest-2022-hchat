@@ -52,5 +52,11 @@
         "major": "TRAS",
         "room_num": "58243",
         "room_desc": "Translation in New Media"
+    },
+    {
+        "school": "HTR01",
+        "major": "TRAS",
+        "room_num": "87700",
+        "room_desc": "TRAS"
     }
 ]

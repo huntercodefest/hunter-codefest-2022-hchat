@@ -214,5 +214,11 @@
         "major": "CMIS",
         "room_num": "78245",
         "room_desc": "Visual C++"
+    },
+    {
+        "school": "MEC01",
+        "major": "CMIS",
+        "room_num": "88302",
+        "room_desc": "CMIS"
     }
 ]

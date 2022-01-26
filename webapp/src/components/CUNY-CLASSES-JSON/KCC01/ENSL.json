@@ -94,5 +94,11 @@
         "major": "ENSL",
         "room_num": "63437",
         "room_desc": "Skill Improvement in ESL"
+    },
+    {
+        "school": "KCC01",
+        "major": "ENSL",
+        "room_num": "88495",
+        "room_desc": "ENSL"
     }
 ]

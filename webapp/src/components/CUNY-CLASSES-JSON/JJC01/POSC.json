@@ -766,5 +766,11 @@
         "major": "POSC",
         "room_num": "21410",
         "room_desc": "Women in Policing"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "87099",
+        "room_desc": "POSC"
     }
 ]

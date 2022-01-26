@@ -832,5 +832,11 @@
         "major": "CHEM",
         "room_num": "33721",
         "room_desc": "Thrmdynmcs-Kinetics"
+    },
+    {
+        "school": "CTY01",
+        "major": "CHEM",
+        "room_num": "87908",
+        "room_desc": "CHEM"
     }
 ]

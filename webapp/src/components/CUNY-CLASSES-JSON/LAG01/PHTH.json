@@ -100,5 +100,11 @@
         "major": "PHTH",
         "room_num": "82630",
         "room_desc": "Therapeutic Procedures II"
+    },
+    {
+        "school": "LAG01",
+        "major": "PHTH",
+        "room_num": "86738",
+        "room_desc": "PHTH"
     }
 ]

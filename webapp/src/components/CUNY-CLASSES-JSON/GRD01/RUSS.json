@@ -136,5 +136,11 @@
         "major": "RUSS",
         "room_num": "9804",
         "room_desc": "Tolstoy and Dostoevsky"
+    },
+    {
+        "school": "GRD01",
+        "major": "RUSS",
+        "room_num": "88435",
+        "room_desc": "RUSS"
     }
 ]

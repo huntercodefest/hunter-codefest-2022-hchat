@@ -670,5 +670,11 @@
         "major": "RELI",
         "room_num": "56791",
         "room_desc": "Zen"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "87621",
+        "room_desc": "RELI"
     }
 ]

@@ -1258,5 +1258,11 @@
         "major": "SPAN",
         "room_num": "76993",
         "room_desc": "Wrtg Resch & Resorce"
+    },
+    {
+        "school": "BKL01",
+        "major": "SPAN",
+        "room_num": "86991",
+        "room_desc": "SPAN"
     }
 ]

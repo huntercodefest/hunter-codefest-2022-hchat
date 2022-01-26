@@ -94,5 +94,11 @@
         "major": "EDHE",
         "room_num": "22617",
         "room_desc": "Stress Management"
+    },
+    {
+        "school": "QCC01",
+        "major": "EDHE",
+        "room_num": "87885",
+        "room_desc": "EDHE"
     }
 ]

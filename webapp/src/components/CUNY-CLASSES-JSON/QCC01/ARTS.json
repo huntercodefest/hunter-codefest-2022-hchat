@@ -226,5 +226,11 @@
         "major": "ARTS",
         "room_num": "22250",
         "room_desc": "Two-Dimensional Design"
+    },
+    {
+        "school": "QCC01",
+        "major": "ARTS",
+        "room_num": "87875",
+        "room_desc": "ARTS"
     }
 ]

@@ -40,5 +40,11 @@
         "major": "ECON",
         "room_num": "68957",
         "room_desc": "Microeconomics"
+    },
+    {
+        "school": "BCC01",
+        "major": "ECON",
+        "room_num": "87270",
+        "room_desc": "ECON"
     }
 ]

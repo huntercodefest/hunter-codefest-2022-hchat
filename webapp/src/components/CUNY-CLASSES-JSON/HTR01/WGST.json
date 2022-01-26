@@ -1168,5 +1168,11 @@
         "major": "WGST",
         "room_num": "58872",
         "room_desc": "Wrk Class Womn U.S."
+    },
+    {
+        "school": "HTR01",
+        "major": "WGST",
+        "room_num": "87672",
+        "room_desc": "WGST"
     }
 ]

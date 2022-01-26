@@ -40,5 +40,11 @@
         "major": "OFAT",
         "room_num": "61580",
         "room_desc": "Office Train&Superv"
+    },
+    {
+        "school": "BAR01",
+        "major": "OFAT",
+        "room_num": "86683",
+        "room_desc": "OFAT"
     }
 ]

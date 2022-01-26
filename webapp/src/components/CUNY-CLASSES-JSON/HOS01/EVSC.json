@@ -34,5 +34,11 @@
         "major": "EVSC",
         "room_num": "64733",
         "room_desc": "Environmental Science II"
+    },
+    {
+        "school": "HOS01",
+        "major": "EVSC",
+        "room_num": "87839",
+        "room_desc": "EVSC"
     }
 ]

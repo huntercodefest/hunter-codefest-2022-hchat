@@ -22,5 +22,11 @@
         "major": "GOVT",
         "room_num": "73674",
         "room_desc": "Intro To Law"
+    },
+    {
+        "school": "BKL01",
+        "major": "GOVT",
+        "room_num": "86958",
+        "room_desc": "GOVT"
     }
 ]

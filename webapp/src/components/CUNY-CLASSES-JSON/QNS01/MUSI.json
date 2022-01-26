@@ -2740,5 +2740,11 @@
         "major": "MUSI",
         "room_num": "29516",
         "room_desc": "Writing about Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "87507",
+        "room_desc": "MUSI"
     }
 ]

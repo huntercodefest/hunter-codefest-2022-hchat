@@ -10,5 +10,11 @@
         "major": "CUBA",
         "room_num": "66045",
         "room_desc": "Cuny Ba Credit"
+    },
+    {
+        "school": "NYT01",
+        "major": "CUBA",
+        "room_num": "87211",
+        "room_desc": "CUBA"
     }
 ]

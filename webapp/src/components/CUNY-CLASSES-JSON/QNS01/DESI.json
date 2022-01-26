@@ -286,5 +286,11 @@
         "major": "DESI",
         "room_num": "25135",
         "room_desc": "Web Design II"
+    },
+    {
+        "school": "QNS01",
+        "major": "DESI",
+        "room_num": "87471",
+        "room_desc": "DESI"
     }
 ]

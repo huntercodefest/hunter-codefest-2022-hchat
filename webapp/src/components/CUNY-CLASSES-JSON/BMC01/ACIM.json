@@ -238,5 +238,11 @@
         "major": "ACIM",
         "room_num": "17155",
         "room_desc": "On Permit"
+    },
+    {
+        "school": "BMC01",
+        "major": "ACIM",
+        "room_num": "86827",
+        "room_desc": "ACIM"
     }
 ]

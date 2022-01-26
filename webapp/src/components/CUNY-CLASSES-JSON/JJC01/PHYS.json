@@ -52,5 +52,11 @@
         "major": "PHYS",
         "room_num": "21273",
         "room_desc": "Our Physicl World"
+    },
+    {
+        "school": "JJC01",
+        "major": "PHYS",
+        "room_num": "87052",
+        "room_desc": "PHYS"
     }
 ]

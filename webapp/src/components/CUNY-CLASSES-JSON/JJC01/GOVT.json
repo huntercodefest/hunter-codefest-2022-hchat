@@ -220,5 +220,11 @@
         "major": "GOVT",
         "room_num": "20634",
         "room_desc": "Women And Law"
+    },
+    {
+        "school": "JJC01",
+        "major": "GOVT",
+        "room_num": "87068",
+        "room_desc": "GOVT"
     }
 ]

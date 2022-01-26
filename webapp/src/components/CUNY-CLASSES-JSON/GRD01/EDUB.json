@@ -106,5 +106,11 @@
         "major": "EDUB",
         "room_num": "4291",
         "room_desc": "Urban Ed Core Colloquium II"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUB",
+        "room_num": "88389",
+        "room_desc": "EDUB"
     }
 ]

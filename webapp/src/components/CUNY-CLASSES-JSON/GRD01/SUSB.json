@@ -70,5 +70,11 @@
         "major": "SUSB",
         "room_num": "10487",
         "room_desc": "Tpcs 19th C Music: Wagner"
+    },
+    {
+        "school": "GRD01",
+        "major": "SUSB",
+        "room_num": "88450",
+        "room_desc": "SUSB"
     }
 ]

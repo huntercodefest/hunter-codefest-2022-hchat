@@ -574,5 +574,11 @@
         "major": "MUPD",
         "room_num": "13823",
         "room_desc": "Writing for the Mass Media"
+    },
+    {
+        "school": "LEH01",
+        "major": "MUPD",
+        "room_num": "88184",
+        "room_desc": "MUPD"
     }
 ]

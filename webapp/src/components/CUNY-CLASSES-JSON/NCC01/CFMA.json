@@ -4,5 +4,11 @@
         "major": "CFMA",
         "room_num": "64199",
         "room_desc": "College Focus Mathematics"
+    },
+    {
+        "school": "NCC01",
+        "major": "CFMA",
+        "room_num": "86895",
+        "room_desc": "CFMA"
     }
 ]

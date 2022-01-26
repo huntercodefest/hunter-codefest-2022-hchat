@@ -100,5 +100,11 @@
         "major": "CMSC",
         "room_num": "81556",
         "room_desc": "Visual Basic"
+    },
+    {
+        "school": "LAG01",
+        "major": "CMSC",
+        "room_num": "86774",
+        "room_desc": "CMSC"
     }
 ]

@@ -76,5 +76,11 @@
         "major": "CHIN",
         "room_num": "1777",
         "room_desc": "Journaltc Chin Lit I"
+    },
+    {
+        "school": "GRD01",
+        "major": "CHIN",
+        "room_num": "88420",
+        "room_desc": "CHIN"
     }
 ]

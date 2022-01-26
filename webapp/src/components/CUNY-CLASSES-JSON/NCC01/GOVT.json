@@ -16,5 +16,11 @@
         "major": "GOVT",
         "room_num": "64245",
         "room_desc": "Urban Politics: NYC Govt"
+    },
+    {
+        "school": "NCC01",
+        "major": "GOVT",
+        "room_num": "86904",
+        "room_desc": "GOVT"
     }
 ]

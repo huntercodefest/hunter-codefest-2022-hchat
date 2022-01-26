@@ -1660,5 +1660,11 @@
         "major": "ARTC",
         "room_num": "46807",
         "room_desc": "Writing for Artists"
+    },
+    {
+        "school": "HTR01",
+        "major": "ARTC",
+        "room_num": "87746",
+        "room_desc": "ARTC"
     }
 ]

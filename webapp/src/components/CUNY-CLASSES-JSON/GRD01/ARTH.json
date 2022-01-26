@@ -2014,5 +2014,11 @@
         "major": "ARTH",
         "room_num": "907",
         "room_desc": "Women/Weimar Republ"
+    },
+    {
+        "school": "GRD01",
+        "major": "ARTH",
+        "room_num": "88375",
+        "room_desc": "ARTH"
     }
 ]

@@ -46,5 +46,11 @@
         "major": "MILI",
         "room_num": "42165",
         "room_desc": "Introduction To Leadership 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "MILI",
+        "room_num": "87945",
+        "room_desc": "MILI"
     }
 ]

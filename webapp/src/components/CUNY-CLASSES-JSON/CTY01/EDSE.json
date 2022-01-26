@@ -1600,5 +1600,11 @@
         "major": "EDSE",
         "room_num": "36079",
         "room_desc": "Wthr Sci-Tech Clsrm"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDSE",
+        "room_num": "88008",
+        "room_desc": "EDSE"
     }
 ]

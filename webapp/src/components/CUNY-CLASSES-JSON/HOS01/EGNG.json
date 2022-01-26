@@ -28,5 +28,11 @@
         "major": "EGNG",
         "room_num": "64644",
         "room_desc": "Intro Earth & Atmospheric Sci"
+    },
+    {
+        "school": "HOS01",
+        "major": "EGNG",
+        "room_num": "87808",
+        "room_desc": "EGNG"
     }
 ]

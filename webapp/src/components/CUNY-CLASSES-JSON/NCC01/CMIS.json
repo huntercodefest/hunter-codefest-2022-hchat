@@ -64,5 +64,11 @@
         "major": "CMIS",
         "room_num": "64216",
         "room_desc": "Web Technologies & Multimedia"
+    },
+    {
+        "school": "NCC01",
+        "major": "CMIS",
+        "room_num": "86920",
+        "room_desc": "CMIS"
     }
 ]

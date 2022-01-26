@@ -94,5 +94,11 @@
         "major": "SCIE",
         "room_num": "82738",
         "room_desc": "Topics in Physics"
+    },
+    {
+        "school": "LAG01",
+        "major": "SCIE",
+        "room_num": "86727",
+        "room_desc": "SCIE"
     }
 ]

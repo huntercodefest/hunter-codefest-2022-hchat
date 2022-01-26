@@ -274,5 +274,11 @@
         "major": "PSYC",
         "room_num": "80945",
         "room_desc": "Theories of Personality"
+    },
+    {
+        "school": "SPS01",
+        "major": "PSYC",
+        "room_num": "87546",
+        "room_desc": "PSYC"
     }
 ]

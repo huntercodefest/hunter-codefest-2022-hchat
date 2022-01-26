@@ -70,5 +70,11 @@
         "major": "NASS",
         "room_num": "82422",
         "room_desc": "Struc Num System"
+    },
+    {
+        "school": "LAG01",
+        "major": "NASS",
+        "room_num": "86763",
+        "room_desc": "NASS"
     }
 ]

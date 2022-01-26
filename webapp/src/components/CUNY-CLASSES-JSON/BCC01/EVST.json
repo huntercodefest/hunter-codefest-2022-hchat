@@ -40,5 +40,11 @@
         "major": "EVST",
         "room_num": "69122",
         "room_desc": "Principle Ener Mgt I"
+    },
+    {
+        "school": "BCC01",
+        "major": "EVST",
+        "room_num": "87307",
+        "room_desc": "EVST"
     }
 ]

@@ -10,5 +10,11 @@
         "major": "ASLG",
         "room_num": "24258",
         "room_desc": "American Sign Language II"
+    },
+    {
+        "school": "QNS01",
+        "major": "ASLG",
+        "room_num": "87445",
+        "room_desc": "ASLG"
     }
 ]

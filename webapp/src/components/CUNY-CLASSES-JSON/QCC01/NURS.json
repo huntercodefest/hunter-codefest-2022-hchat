@@ -70,5 +70,11 @@
         "major": "NURS",
         "room_num": "23276",
         "room_desc": "Technical / Clinical Work Cred"
+    },
+    {
+        "school": "QCC01",
+        "major": "NURS",
+        "room_num": "87852",
+        "room_desc": "NURS"
     }
 ]

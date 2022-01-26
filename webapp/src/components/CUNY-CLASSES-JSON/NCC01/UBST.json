@@ -34,5 +34,11 @@
         "major": "UBST",
         "room_num": "64316",
         "room_desc": "Urbanisms Global"
+    },
+    {
+        "school": "NCC01",
+        "major": "UBST",
+        "room_num": "86901",
+        "room_desc": "UBST"
     }
 ]

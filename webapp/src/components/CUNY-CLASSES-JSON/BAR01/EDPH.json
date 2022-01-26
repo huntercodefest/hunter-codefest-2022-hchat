@@ -190,5 +190,11 @@
         "major": "EDPH",
         "room_num": "59858",
         "room_desc": "Water Safety Instructor Trng"
+    },
+    {
+        "school": "BAR01",
+        "major": "EDPH",
+        "room_num": "86664",
+        "room_desc": "EDPH"
     }
 ]

@@ -46,5 +46,11 @@
         "major": "DESK",
         "room_num": "59730",
         "room_desc": "Study Lab in Psychology 1001"
+    },
+    {
+        "school": "BAR01",
+        "major": "DESK",
+        "room_num": "86646",
+        "room_desc": "DESK"
     }
 ]

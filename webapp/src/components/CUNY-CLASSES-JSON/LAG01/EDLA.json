@@ -106,5 +106,11 @@
         "major": "EDLA",
         "room_num": "81769",
         "room_desc": "Structure of English"
+    },
+    {
+        "school": "LAG01",
+        "major": "EDLA",
+        "room_num": "86775",
+        "room_desc": "EDLA"
     }
 ]

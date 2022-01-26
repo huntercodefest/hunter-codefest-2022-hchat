@@ -58,5 +58,11 @@
         "major": "STDV",
         "room_num": "10475",
         "room_desc": "Writing the Dissertation"
+    },
+    {
+        "school": "GRD01",
+        "major": "STDV",
+        "room_num": "88353",
+        "room_desc": "STDV"
     }
 ]

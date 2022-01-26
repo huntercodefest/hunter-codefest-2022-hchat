@@ -280,5 +280,11 @@
         "major": "OFTC",
         "room_num": "82532",
         "room_desc": "Word Processing II"
+    },
+    {
+        "school": "LAG01",
+        "major": "OFTC",
+        "room_num": "86745",
+        "room_desc": "OFTC"
     }
 ]

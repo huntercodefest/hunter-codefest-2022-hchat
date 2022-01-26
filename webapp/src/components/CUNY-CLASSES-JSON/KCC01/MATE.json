@@ -178,5 +178,11 @@
         "major": "MATE",
         "room_num": "63626",
         "room_desc": "Welding"
+    },
+    {
+        "school": "KCC01",
+        "major": "MATE",
+        "room_num": "88468",
+        "room_desc": "MATE"
     }
 ]

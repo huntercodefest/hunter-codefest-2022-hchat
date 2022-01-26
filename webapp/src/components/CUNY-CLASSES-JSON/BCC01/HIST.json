@@ -124,5 +124,11 @@
         "major": "HIST",
         "room_num": "69189",
         "room_desc": "Women:Historical  Perspective"
+    },
+    {
+        "school": "BCC01",
+        "major": "HIST",
+        "room_num": "87256",
+        "room_desc": "HIST"
     }
 ]

@@ -700,5 +700,11 @@
         "major": "DRAT",
         "room_num": "25272",
         "room_desc": "Xi Gong"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "87513",
+        "room_desc": "DRAT"
     }
 ]

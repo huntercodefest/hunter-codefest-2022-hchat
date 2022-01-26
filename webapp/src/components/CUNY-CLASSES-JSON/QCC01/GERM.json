@@ -64,5 +64,11 @@
         "major": "GERM",
         "room_num": "22943",
         "room_desc": "Intermediate German II"
+    },
+    {
+        "school": "QCC01",
+        "major": "GERM",
+        "room_num": "87872",
+        "room_desc": "GERM"
     }
 ]

@@ -16,5 +16,11 @@
         "major": "ARFI",
         "room_num": "80325",
         "room_desc": "Modern Art in the City"
+    },
+    {
+        "school": "SPS01",
+        "major": "ARFI",
+        "room_num": "87551",
+        "room_desc": "ARFI"
     }
 ]

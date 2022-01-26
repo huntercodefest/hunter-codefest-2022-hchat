@@ -34,5 +34,11 @@
         "major": "EVST",
         "room_num": "26913",
         "room_desc": "Water Resources&Cons"
+    },
+    {
+        "school": "QNS01",
+        "major": "EVST",
+        "room_num": "87489",
+        "room_desc": "EVST"
     }
 ]

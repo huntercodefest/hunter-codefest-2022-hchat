@@ -52,5 +52,11 @@
         "major": "FROR",
         "room_num": "78791",
         "room_desc": "Transfer Transtl Sem"
+    },
+    {
+        "school": "MEC01",
+        "major": "FROR",
+        "room_num": "88259",
+        "room_desc": "FROR"
     }
 ]

@@ -1072,5 +1072,11 @@
         "major": "INST",
         "room_num": "40975",
         "room_desc": "Wrtng For Intl Stdys"
+    },
+    {
+        "school": "CTY01",
+        "major": "INST",
+        "room_num": "87999",
+        "room_desc": "INST"
     }
 ]

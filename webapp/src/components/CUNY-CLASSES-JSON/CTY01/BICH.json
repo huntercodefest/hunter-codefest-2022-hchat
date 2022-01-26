@@ -10,5 +10,11 @@
         "major": "BICH",
         "room_num": "32944",
         "room_desc": "Lab Research Tech 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "BICH",
+        "room_num": "87994",
+        "room_desc": "BICH"
     }
 ]

@@ -70,5 +70,11 @@
         "major": "FLOR",
         "room_num": "69139",
         "room_desc": "Wedding Flowers"
+    },
+    {
+        "school": "BCC01",
+        "major": "FLOR",
+        "room_num": "87285",
+        "room_desc": "FLOR"
     }
 ]

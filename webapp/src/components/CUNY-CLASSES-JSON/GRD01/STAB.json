@@ -34,5 +34,11 @@
         "major": "STAB",
         "room_num": "10465",
         "room_desc": "Theories of Internat Relations"
+    },
+    {
+        "school": "GRD01",
+        "major": "STAB",
+        "room_num": "88365",
+        "room_desc": "STAB"
     }
 ]

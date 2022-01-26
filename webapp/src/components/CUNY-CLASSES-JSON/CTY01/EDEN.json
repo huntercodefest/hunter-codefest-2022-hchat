@@ -70,5 +70,11 @@
         "major": "EDEN",
         "room_num": "35606",
         "room_desc": "The Technique of Poetry"
+    },
+    {
+        "school": "CTY01",
+        "major": "EDEN",
+        "room_num": "87944",
+        "room_desc": "EDEN"
     }
 ]

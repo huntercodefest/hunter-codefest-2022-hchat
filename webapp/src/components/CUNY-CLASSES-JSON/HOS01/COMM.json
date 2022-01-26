@@ -16,5 +16,11 @@
         "major": "COMM",
         "room_num": "64480",
         "room_desc": "Intercultural Communication"
+    },
+    {
+        "school": "HOS01",
+        "major": "COMM",
+        "room_num": "87785",
+        "room_desc": "COMM"
     }
 ]

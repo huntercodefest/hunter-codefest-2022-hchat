@@ -22,5 +22,11 @@
         "major": "PUAD",
         "room_num": "19017",
         "room_desc": "The Bureaucracy"
+    },
+    {
+        "school": "BMC01",
+        "major": "PUAD",
+        "room_num": "86828",
+        "room_desc": "PUAD"
     }
 ]

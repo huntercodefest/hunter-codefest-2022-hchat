@@ -304,5 +304,11 @@
         "major": "RUSS",
         "room_num": "30422",
         "room_desc": "XIX Century Russian Prose"
+    },
+    {
+        "school": "QNS01",
+        "major": "RUSS",
+        "room_num": "87508",
+        "room_desc": "RUSS"
     }
 ]

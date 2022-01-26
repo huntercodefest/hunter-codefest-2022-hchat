@@ -1384,5 +1384,11 @@
         "major": "EECE",
         "room_num": "26497",
         "room_desc": "Wrtg With Children"
+    },
+    {
+        "school": "QNS01",
+        "major": "EECE",
+        "room_num": "87497",
+        "room_desc": "EECE"
     }
 ]

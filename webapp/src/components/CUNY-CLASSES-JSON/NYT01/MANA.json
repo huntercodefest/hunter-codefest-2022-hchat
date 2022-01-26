@@ -238,5 +238,11 @@
         "major": "MANA",
         "room_num": "67599",
         "room_desc": "The Administrative Process"
+    },
+    {
+        "school": "NYT01",
+        "major": "MANA",
+        "room_num": "87239",
+        "room_desc": "MANA"
     }
 ]

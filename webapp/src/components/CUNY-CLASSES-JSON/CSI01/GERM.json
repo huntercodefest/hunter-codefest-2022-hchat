@@ -82,5 +82,11 @@
         "major": "GERM",
         "room_num": "84961",
         "room_desc": "Scientific German"
+    },
+    {
+        "school": "CSI01",
+        "major": "GERM",
+        "room_num": "88074",
+        "room_desc": "GERM"
     }
 ]

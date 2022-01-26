@@ -472,5 +472,11 @@
         "major": "PHIL",
         "room_num": "14177",
         "room_desc": "Topics in Philosophy"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "88214",
+        "room_desc": "PHIL"
     }
 ]

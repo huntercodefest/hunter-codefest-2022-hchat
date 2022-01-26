@@ -4,5 +4,11 @@
         "major": "BUKH",
         "room_num": "24481",
         "room_desc": "Elementary Bukharian"
+    },
+    {
+        "school": "QNS01",
+        "major": "BUKH",
+        "room_num": "87538",
+        "room_desc": "BUKH"
     }
 ]

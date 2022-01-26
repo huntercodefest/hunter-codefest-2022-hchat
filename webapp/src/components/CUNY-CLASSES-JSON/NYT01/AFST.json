@@ -280,5 +280,11 @@
         "major": "AFST",
         "room_num": "65162",
         "room_desc": "Workshop in Black Theater"
+    },
+    {
+        "school": "NYT01",
+        "major": "AFST",
+        "room_num": "87204",
+        "room_desc": "AFST"
     }
 ]

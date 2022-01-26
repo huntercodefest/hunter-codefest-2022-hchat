@@ -202,5 +202,11 @@
         "major": "ITAL",
         "room_num": "67432",
         "room_desc": "Themes Mod & Contemp Ital Lit"
+    },
+    {
+        "school": "NYT01",
+        "major": "ITAL",
+        "room_num": "87187",
+        "room_desc": "ITAL"
     }
 ]

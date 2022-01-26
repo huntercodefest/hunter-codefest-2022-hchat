@@ -190,5 +190,11 @@
         "major": "POSC",
         "room_num": "63941",
         "room_desc": "Women in Politics"
+    },
+    {
+        "school": "KCC01",
+        "major": "POSC",
+        "room_num": "88527",
+        "room_desc": "POSC"
     }
 ]

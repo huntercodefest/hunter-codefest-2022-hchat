@@ -16,5 +16,11 @@
         "major": "ASAP",
         "room_num": "81347",
         "room_desc": "ASAP Winter Institute"
+    },
+    {
+        "school": "LAG01",
+        "major": "ASAP",
+        "room_num": "86760",
+        "room_desc": "ASAP"
     }
 ]

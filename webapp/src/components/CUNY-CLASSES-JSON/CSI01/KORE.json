@@ -4,5 +4,11 @@
         "major": "KORE",
         "room_num": "85311",
         "room_desc": "Kor Ooo"
+    },
+    {
+        "school": "CSI01",
+        "major": "KORE",
+        "room_num": "88089",
+        "room_desc": "KORE"
     }
 ]

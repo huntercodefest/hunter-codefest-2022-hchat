@@ -16,5 +16,11 @@
         "major": "SOSC",
         "room_num": "23397",
         "room_desc": "Psych Of Everyday Living"
+    },
+    {
+        "school": "QCC01",
+        "major": "SOSC",
+        "room_num": "87899",
+        "room_desc": "SOSC"
     }
 ]

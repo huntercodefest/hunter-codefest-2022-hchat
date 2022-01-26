@@ -82,5 +82,11 @@
         "major": "EDIL",
         "room_num": "25575",
         "room_desc": "Technology for School Leaders"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDIL",
+        "room_num": "87485",
+        "room_desc": "EDIL"
     }
 ]

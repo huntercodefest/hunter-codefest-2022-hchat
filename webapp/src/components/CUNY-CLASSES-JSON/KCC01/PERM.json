@@ -46,5 +46,11 @@
         "major": "PERM",
         "room_num": "63864",
         "room_desc": "Permit Course"
+    },
+    {
+        "school": "KCC01",
+        "major": "PERM",
+        "room_num": "88481",
+        "room_desc": "PERM"
     }
 ]
