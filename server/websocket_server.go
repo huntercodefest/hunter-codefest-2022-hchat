@@ -62,6 +62,7 @@ func processWSConn(ws_conn *websocket.Conn) error {
 		(*ws_conn).WriteMessage(websocket.TextMessage, []byte(err.Error()))
 		return err
 	}
+	fmt.Println("Adding user to room")
 	AddUserToRoom(p_user, room_num)
 	//  seperate user into appropriate room
 	return nil

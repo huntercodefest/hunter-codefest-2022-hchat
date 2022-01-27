@@ -46,7 +46,7 @@ func ReadConnOnLoop(p_user *User) (err error) {
 			return err
 		}
 		room_num, username, message, err := ProcessInput(msgbuf)
-		fmt.Println(room_num)
+		fmt.Println("room num", room_num)
 		if err != nil {
 			return err
 		}
@@ -60,7 +60,6 @@ func ReadConnOnLoop(p_user *User) (err error) {
 			log.Println("Moved user to room: " + fmt.Sprint(room_num))
 		}
 		log.Println("Received msg: " + string(msgbuf) + " from user: " + username)
-		log.Println("Received msg: " + message + " from user: " + username)
 		DistributeMessageToRoom(ROOM_MAP[room_num], username+":"+message)
 	}
 }
@@ -99,7 +98,6 @@ func ProcessInput(msgbuf []byte) (room_number int, username string, message stri
 	for i := 1; i < inlen; i++ {
 		if input[i] == '_' {
 			room_number, _ = strconv.Atoi(input[1:i])
-			fmt.Println(room_number)
 			for j := i; j < inlen; j++ {
 				if input[j] == ':' {
 					username = input[i+1 : j]
