@@ -8,7 +8,7 @@ import { Room, RoomList, Schools } from "./Rooms";
 class RoomsComponent extends React.Component {
 	constructor(props) {
 		super(props);
-		this.schoollist = Schools.CurrList.map(school => school).map(school => school.school)
+		this.schoollist = Schools.CurrList.map(room => room).map(school => school.school)
 		this.state = {
 			searchList: Schools,
 			searchValue: "",
@@ -113,7 +113,10 @@ class RoomsComponent extends React.Component {
 			<div className={classes.roomsComponent}>
 				<div className={classes.header}>
 					<span className={classes.desc}>
-						<BackButton handleBackClick={this.handleBackClick} />
+						<BackButton
+							handleBackClick={this.handleBackClick}
+							modifyclass={this.state.searchList.listDesc === "Schools" ? classes.grayoutsvg : null}
+						/>
 						<p>{this.props.listDesc}</p>
 						<SearchBar
 							searchList={this.state.searchList.CurrList}

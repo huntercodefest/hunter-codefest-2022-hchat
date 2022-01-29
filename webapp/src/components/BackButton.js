@@ -8,8 +8,9 @@ class BackButton extends React.Component {
 	render() {
 		return (
 			<img
-				className={classes.backButton}
+				className={`${classes.backButton} ${this.props.modifyclass}`}
 				src={arrow_path}
+				alt={"backbutton"}
 				onClick={() => this.props.handleBackClick()}
 			/>
 		);
