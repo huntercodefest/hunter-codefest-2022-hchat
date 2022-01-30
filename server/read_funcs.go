@@ -26,7 +26,7 @@ func ReadWSMessage(p_ws_conn *websocket.Conn) ([]byte, error) {
 
 // function should run in gorutine on each new user to read its new messages
 func ReadConnOnLoop(p_user *User) (err error) {
-	if ((*p_user).readingOnLoop){
+	if (*p_user).readingOnLoop {
 		return
 	}
 	(*p_user).readingOnLoop = true
@@ -36,6 +36,7 @@ func ReadConnOnLoop(p_user *User) (err error) {
 	// infinite read loop
 	tcp_check := ((*p_user).tcp_conn != nil)
 	for {
+		hitDB := true
 		var msgbuf []byte
 		if tcp_check {
 			msgbuf, err = ReadTCPMessage((*p_user).tcp_conn)
@@ -50,19 +51,22 @@ func ReadConnOnLoop(p_user *User) (err error) {
 		if err != nil {
 			return err
 		}
-		if username != (*p_user).username{
+		if username != (*p_user).username {
 			(*p_user).username = username
 		}
-		if room_num != (*p_user).room_num{
+		if room_num != (*p_user).room_num {
 			RemoveUserFromRoom(p_user, (*p_user).room_num)
 			(*p_user).room_num = room_num
 			AddUserToRoom(p_user, room_num)
+			hitDB = false
 			log.Println("Moved user to room: " + fmt.Sprint(room_num))
 		}
 		log.Println("Received msg: " + string(msgbuf) + " from user: " + username)
-		err = writeToDB(room_num, username, message)
-		if err != nil{
-			return err
+		if hitDB {
+			err = writeToDB(room_num, username, message)
+			if err != nil {
+				return err
+			}
 		}
 		DistributeMessageToRoom(ROOM_MAP[room_num], username+":"+message)
 	}

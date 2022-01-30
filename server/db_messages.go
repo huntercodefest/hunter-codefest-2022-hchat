@@ -18,13 +18,12 @@ var db *sql.DB
 func openDBConnection() {
 	// Server is shared only on localhost and input is sanitized to prevent unauthorized access
 	var err error
+	// MySQL server hostname is stored on an unpushed file on host machine
 	db, err = sql.Open("mysql", DB_CONN)
 
 	if err != nil {
 		panic(err.Error())
 	}
-	// Close DB connection if server fails or closes
-	// defer db.Close()
 }
 
 func readDB(room_num int) (messages []db_message, err error) {
@@ -62,7 +61,7 @@ func writeToDB(room_num int, username string, message string) (err error) {
 	return err
 }
 
-// Store only latest 250 messages
+// Store only latest 250 messages per room
 func limitQueries(room_num int) {
 	max_id := getHighestID()
 	_, err := db.Exec("DELETE FROM messages WHERE ID<? AND room_num=?", max_id-250, room_num)
