@@ -60,6 +60,10 @@ func ReadConnOnLoop(p_user *User) (err error) {
 			log.Println("Moved user to room: " + fmt.Sprint(room_num))
 		}
 		log.Println("Received msg: " + string(msgbuf) + " from user: " + username)
+		err = writeToDB(room_num, username, message)
+		if err != nil{
+			return err
+		}
 		DistributeMessageToRoom(ROOM_MAP[room_num], username+":"+message)
 	}
 }

@@ -41,7 +41,7 @@ func setupHTTPRoutes() {
 	http.HandleFunc("/", homePage)
 	http.HandleFunc("/ws", wsEndpoint)
 	log.Println("Listening on port: " + HTTP_PORT)
-	log.Fatal(http.ListenAndServe(":"+HTTP_PORT, nil))
+	log.Fatal(http.ListenAndServe("localhost:"+HTTP_PORT, nil))
 }
 
 func processWSConn(ws_conn *websocket.Conn) error {

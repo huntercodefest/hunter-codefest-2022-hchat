@@ -23,7 +23,7 @@ func NewRoom(room_num int, conn_users []*User) *Room {
 
 // TODO
 // When adding user to room create new goroutine to read for new incoming messages and send response back if new message is found
-func AddUserToRoom(p_user *User, room_num int) (err error) {
+func AddUserToRoom(p_user *User, room_num int) (err error){
 	if _, ok := ROOM_MAP[room_num]; !ok {
 		ROOM_MAP[room_num] = NewRoom(room_num, make([]*User, 0))
 		log.Println("created a new room#" + fmt.Sprint(room_num))
@@ -31,8 +31,19 @@ func AddUserToRoom(p_user *User, room_num int) (err error) {
 	ROOM_MAP[room_num].conn_users = append(ROOM_MAP[room_num].conn_users, p_user)
 	log.Println("len", fmt.Sprint(len((*ROOM_MAP[room_num]).conn_users)))
 	log.Println("Added new user to room #" + fmt.Sprint(room_num))
+	
+	go func(){
+		messages, err := readDB(room_num)
+		if err != nil{
+			return
+		}
+		for _, msg := range messages{
+			combined_msg := fmt.Sprintf("#%d_%s:%s", room_num, msg.username, msg.message)
+			RespondWithString(p_user, combined_msg)
+		}
+	}()
 	go ReadConnOnLoop(p_user)
-	return
+	return nil
 }
 
 // Search through array of users in room pointer

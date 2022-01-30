@@ -6,6 +6,7 @@ import (
 )
 
 const (
+	// testing environment ports
 	HTTP_PORT = "5000"
 	TCP_PORT  = "5555"
 	MSG_LEN   = 1024
@@ -15,7 +16,7 @@ const (
 func main() {
 	// Make globally scoped ROOM_MAP variable
 	ROOM_MAP = make(map[int]*Room)
-
+	openDBConnection()
 	// start tcp server and ws server as seperate goroutines
 	// Use wait group to keep program running
 	var wg sync.WaitGroup
