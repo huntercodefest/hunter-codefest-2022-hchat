@@ -20,9 +20,14 @@
       <p>I designed and lead development for the functionality of both the GO backend and the React frontend along with organizing the project, team collaboration, and Git Flow. Along the way I extensively learned and researched GO, HTML/CSS/JS/REACT, Git, SQL, and web hosting with NGINX/NODE</p>
     </div>
     <div>
+      ...
     </div>
-    <div></div>
-    <div></div>
+    <div>
+    ...
+    </div>
+    <div>
+    ...
+    </div>
   </div>
 </div>
 <div>
