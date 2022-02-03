@@ -36,7 +36,7 @@
     <li>Active user list</li>
     <li>User accounts through firebase</li>
     <li>Improved logging</li>
-    <li>Improved message database querying</p>
+    <li>Improved message database querying</li>
     <li>User settings</li>
     <li>Dark theme</li>
   </ul>
