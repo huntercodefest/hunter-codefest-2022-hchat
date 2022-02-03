@@ -4,6 +4,7 @@ package main
 
 import (
 	"database/sql"
+	"fmt"
 
 	_ "github.com/go-sql-driver/mysql"
 )
@@ -30,7 +31,7 @@ func readDB(room_num int) (messages []db_message, err error) {
 	limitQueries(room_num)
 	results, err := db.Query("" +
 	"SELECT username, message FROM messages WHERE " +
-	 "room_num=? ORDER BY ID DESC", room_num)
+	 "room_num=? ORDER BY ID ASC", room_num)
 	 if err != nil {
 		panic(err)
 		// return nil, err
@@ -46,24 +47,28 @@ func readDB(room_num int) (messages []db_message, err error) {
 	return messages, nil
 }
 
-func getHighestID() int {
-	result, err := db.Query("SELECT ID from messages ORDER BY ID DESC LIMIT 1")
-	if err != nil {
-		panic(err)
-	}
+func getHighestID(room_num int) int {
+	fmt.Println("Room num: ", room_num)
+	result := db.QueryRow("SELECT ID FROM messages WHERE room_num=? ORDER BY ID DESC LIMIT 1", room_num)
 	var ID int
-	result.Scan(&ID)
-	return ID
+	switch err := result.Scan(&ID); err{
+	case sql.ErrNoRows:
+			return 0
+	case nil:
+			return ID
+	default:
+		panic(err) 
+	}
 }
 func writeToDB(room_num int, username string, message string) (err error) {
-	max_id := getHighestID()
-	_, err = db.Exec("INSERT INTO messages VALUES(?, ?, ?, ?)", max_id + 1, room_num, username, message)
+	max_id := getHighestID(room_num) + 1
+	_, err = db.Exec("INSERT INTO messages VALUES(?, ?, ?, ?)", max_id, room_num, username, message)
 	return err
 }
 
 // Store only latest 250 messages per room
 func limitQueries(room_num int) {
-	max_id := getHighestID()
+	max_id := getHighestID(room_num)
 	_, err := db.Exec("DELETE FROM messages WHERE ID<? AND room_num=?", max_id-250, room_num)
 	if err != nil{
 		panic(err)
