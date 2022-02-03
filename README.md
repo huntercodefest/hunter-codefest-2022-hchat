@@ -17,7 +17,7 @@
       <h4>Daniel Volchek</h4>
       <p>Team Lead/Lead Dev</p>
       <p>github link here</p>
-      <p>I designed the functionality of both the GO backend and the React frontend along with organizing the project, team collaboration, and git. Along the way I extensively learned and researched GO, HTML/CSS/JS/REACT, Git, SQL, and web hosting with NGINX/NODE</p>
+      <p>I designed and lead development for the functionality of both the GO backend and the React frontend along with organizing the project, team collaboration, and git. Along the way I extensively learned and researched GO, HTML/CSS/JS/REACT, Git, SQL, and web hosting with NGINX/NODE</p>
     </div>
     <div>
     </div>
