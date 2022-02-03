@@ -20,7 +20,10 @@
       <p>I designed and lead development for the functionality of both the GO backend and the React frontend along with organizing the project, team collaboration, and Git Flow. Along the way I extensively learned and researched GO, HTML/CSS/JS/REACT, Git, SQL, and web hosting with NGINX/NODE</p>
     </div>
     <div>
-      ...
+    <h4>Anthony Regnerk</h4>
+      <p>Designer/Interface Developer</p>
+      <p><a href="https://github.com/A278PlusPi">Personal Github Link</a></p>
+      <p>Anthony designed the hChat frontend interface using HTML and CSS, including the proposed layout of the interface. He was willing to learn HTML and CSS for styling websites</p>
     </div>
     <div>
     ...
