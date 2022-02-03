@@ -1,9 +1,27 @@
 # hChat
 <div>
   <h2> Hunter Codefest 2021 - Class chat room application </h2>
-  <p> With this application we aim to create a simple TCP chatroom to send messages back and forth between clients.<br>
-    The distinguishing feature of our chatroom will be its groups. We will have groups and subgroups of majors as
-    demonstrated in the following list: </p>
+  <div>
+    <h3> About the app</h3>
+    <p>hChat is a powerful self-hosted tool built with CUNY students' needs in mind. It is divided hierarchically through all 25 CUNY schools, containing each schools majors, which contain each majors classes. Every school and major contain their own global chatrooms. Within its immense hierarchy hChat encompasses over 86000 different rooms. Due to it's tremendous asynchronicity through Golangs incredibly efficient goroutines, hChat is capable of maintaining thousands of simultaneous connections and conversations between end users, even with its current self-hosted bottleneck. </p>
+  </div>
+  <div>
+    <h3>The Tech Stack</h3>
+    <p>LoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLorem</p>
+  </div>
+  <div>
+    <h3> About the devs</h3>
+    <div>
+      <h4>Daniel Volchek</h4>
+      <p>Team Lead/Lead Dev</p>
+      <p>github link here</p>
+      <p>I designed the functionality of both the GO backend and the React frontend along with organizing the project, team, and git. Along the way I extensively learned and researched GO, HTML/CSS/JS/REACT, Git, SQL, and NGINX</p>
+    </div>
+    <div>
+    </div>
+    <div></div>
+    <div></div>
+  </div>
 </div>
 <div>
   <p> hChat hierarchy: </p>
@@ -24,53 +42,6 @@
 </div>
 <div>
   <hr>
-  <h3> Tasks:<br><sub>(edit x into box to check off)</sub> </h3>
-  <ul>
-    <li>
-      Client side: 
-      <ul>
-        <li> - [ ] Build UI
-          <ul>
-            <li> - [ ] Create groups in sidebar</li>
-            <li> - [ ] Create chat room display</li>
-            <li> - [ ] Create and send input from text bar</li>
-          </ul>
-        </li>
-        <li> - [ ] Enter and store username</li>
-        <li> - [ ] Send client enter/exit chatroom</li>
-        <li> - [ ] Validate text input (client side)</li>
-        <li> - [ ] Send text input to server</li>
-        <li> - [ ] Receive text input</li>
-        <li>- [ ] Display server messages to user</li>
-      </ul>
-    </li>
-    <li>Server side: 
-      <ul>
-        <li> - [ ] Connect clients to server</li>
-        <li> - [ ] Temporarily store client IP</li>
-        <li> - [ ] Seperate clients into chatrooms</li>
-        <li> - [ ] Validate text input (server side)</li>
-        <li> - [ ] Process text</li>
-        <li> - [ ] Return processed text to every IP in indicated chatroom</li>
-      </ul>
-    </li>
-  </ul>
 </div>
 <div>
-  <hr>
-  <h3>Text processing: </h3>
-  <p>Text processing can be done by encoding the messages as follows: 
-    <br>
-    #00000 - To indicate room
-    <br>
-    _username - To indicate user
-    <br>
-    :message - To indicate message
-    <br>
-    The full syntax should look something like this:
-    <br>
-    #00000_username:message
-    <br>
-    #00000_username with no message can indicate entering and exiting chatroom
-  </p>
 </div>
