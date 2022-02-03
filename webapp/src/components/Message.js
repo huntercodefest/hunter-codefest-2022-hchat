@@ -6,8 +6,8 @@ class Message extends React.Component {
 		super(props);
 		this.time = {
 			hours: props.time.getHours() % 12,
-			minutes: props.time.getMinutes(),
-			seconds: props.time.getSeconds(),
+			minutes: props.time.getMinutes() > 9 ? props.time.getMinutes() : "0" + props.time.getMintes(),
+			seconds: props.time.getSeconds() > 9 ? props.time.getSeconds() : "0" + props.time.getSeconds()
 		};
 		this.message = {
 			username: props.username,
