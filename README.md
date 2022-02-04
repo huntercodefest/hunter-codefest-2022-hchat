@@ -17,7 +17,7 @@
     </div>
     <div>
       <h4>Go - Backend </h4>
-      <p>Go runs the backend for one simple reason. Concurrency. Goroutines handle concurrency better than any language on the market, and with a project of this scale, requiring the capability to maintain thousands of potential connections in tens of thousands of rooms, Go was the clear choice. The Go Server is capable of both Websocket connections over the frontend website and potential TCP connections over a desktop client, while sharing the same pool of messages and users. 
+      <p>Go runs the backend for one simple reason. Concurrency. Goroutines handle concurrency better than any language on the market, and with a project of this scale, which by nature requires the capability to maintain thousands of potential connections in tens of thousands of rooms, Go was the clear choice. The Go Server is capable of both Websocket connections over the frontend website and potential TCP connections over a desktop client, while sharing the same pool of messages and users. 
     </div>
     <hr>
   </div>
