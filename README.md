@@ -61,7 +61,7 @@
     <li>Improved message database querying</li>
     <li>User settings</li>
     <li>Dark theme</li>
-    <li>CLI</li>
+    <li>Command Line Interface</li>
   </ul>
 </div>
 </div>
