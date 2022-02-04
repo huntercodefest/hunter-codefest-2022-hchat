@@ -39,7 +39,7 @@
     <h4>Anthony Regner</h4>
       <p>Designer/Interface Developer</p>
       <p><a href="https://github.com/A278PlusPi">Personal Github Link</a></p>
-      <p>Anthony designed the hChat frontend interface using HTML and CSS, including the proposed layout of the interface. He was willing to learn HTML and CSS for styling websites</p>
+      <p>I designed the hChat frontend interface using HTML and CSS, including the proposed layout of the interface. I learned HTML and CSS to design and style static webpages, and utilize Flexbox.</p>
     </div>
     <div>
     ...
