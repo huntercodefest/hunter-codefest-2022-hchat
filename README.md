@@ -9,7 +9,7 @@
     <h3>The Tech Stack</h3>
     <div>
       <h4>React - Frontend</h4>
-      <p>The Frontend Functionality and Rendering is written 100% in React. More than anything this choice was made to cope with constant messages and the performance load they could bring. Given React is able to handle live changes highly performatively, this choice was a no-brainer. This was an excellent venture into learning the React Library, component managing and updating, and JSX. </p>
+      <p>The Frontend Functionality and Rendering is written 100% in React. More than anything this choice was made to cope with constant messages and the performance load they could bring. Given React is able to handle live changes highly performatively, this choice was a no-brainer. This was an excellent venture into learning the React Library, updating and managing components, and JSX. </p>
     </div>
     <div>
       <h4>Node/Express - Middleware</h4>
