@@ -53,8 +53,8 @@
   <p>The following is a list of additions/changes ordered by current priority</p>
   <ul>
     <li>HTTPS security</li>
-    <li>Mobile site</li>
     <li>Bug testing/fixing</li>
+    <li>Mobile site</li>
     <li>Active user list</li>
     <li>User accounts through firebase</li>
     <li>Improved logging</li>
