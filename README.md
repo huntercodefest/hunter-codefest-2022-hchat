@@ -20,13 +20,16 @@
       <p>I designed and lead development for the functionality of both the GO backend and the React frontend along with organizing the project, team collaboration, and Git Flow. Along the way I extensively learned and researched GO, HTML/CSS/JS/REACT, Git, SQL, and web hosting with NGINX/NODE</p>
     </div>
     <div>
+      <h4>Deland Chen</h4>
+      <p>Developer</p>
+      <p>Researched and assisted design of frontend and backend functionality. Designed and implemented Python scripts to manipulate and update extensive class Database entries. Used Git to maintain code</p>
+      <a href="https://github.com/delandchen">Personal Github Link</a>
+    </div>
+    <div>
     <h4>Anthony Regner</h4>
       <p>Designer/Interface Developer</p>
       <p><a href="https://github.com/A278PlusPi">Personal Github Link</a></p>
       <p>Anthony designed the hChat frontend interface using HTML and CSS, including the proposed layout of the interface. He was willing to learn HTML and CSS for styling websites</p>
-    </div>
-    <div>
-    ...
     </div>
     <div>
     ...
@@ -50,24 +53,6 @@
   </ul>
 </div>
 <div>
-  <p> hChat hierarchy: </p>
-  <ul>
-    <li>
-      Schools
-      <ul>
-        <li>School chat room</li>
-        <li>
-          Majors
-          <ul>
-            <li>Major chat room</li>
-            <li>Class chat rooms</li>
-          </ul>
-        </li>
-    </li>
-  </ul>
-</div>
-<div>
   <hr>
 </div>
-<div>
 </div>
