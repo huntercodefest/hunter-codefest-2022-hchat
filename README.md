@@ -36,6 +36,7 @@
     </div>
   </div>
 </div>
+<hr>
 <div>
   <h3>On the Docket</h3>
   <p>hChat is still in beta and will be receiving regular updates with bugfixes and new features<p>
