@@ -13,7 +13,7 @@
     </div>
     <div>
       <h4>Node/Express - Middleware</h4>
-      <p>Node with Express is used to export the web app over port 3000. This is simply a precautionary measure to prevent unnecessary load in the case the Go server is under high stress</p>
+      <p>Node with Express is used to export the web app build over port 3000. This is simply a precautionary measure to prevent unnecessary load in the case the Go server is under high stress</p>
     </div>
     <div>
       <h4>Go - Backend </h4>
