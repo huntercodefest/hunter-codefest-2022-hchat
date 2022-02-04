@@ -64,7 +64,4 @@
     <li>CLI</li>
   </ul>
 </div>
-<div>
-  <hr>
-</div>
 </div>
