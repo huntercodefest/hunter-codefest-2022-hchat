@@ -1,16 +1,26 @@
-# hChat
 <div>
-  <h2> Hunter Codefest 2021 - Class chat room application </h2>
+  <h1><a href="http://hchat.org">hChat</a></h1>
   <div>
     <h3> The App</h3>
     <p>hChat is a powerful self-hosted tool built with the needs of CUNY students in mind. It is divided hierarchically through all 25 CUNY schools, containing each schools majors, which contain each majors classes. Every school and major contain their own global chatrooms. Within its immense hierarchy hChat encompasses over 86000 different rooms. Due to it's tremendous asynchronicity through Golangs incredibly efficient goroutines, hChat is capable of maintaining thousands of simultaneous connections and conversations between end users, even with its current self-hosted bottleneck. </p>
   </div>
+  <hr>
   <div>
-      <hr>
     <h3>The Tech Stack</h3>
-    <p>LoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLorem</p>
-  </div>
+    <div>
+      <h4>React - Frontend</h4>
+      <p>The Frontend Functionality and Rendering is written 100% in React. More than anything this choice was made to cope with constant messages and the performance load they could bring. Given React is able to handle live changes highly performatively, this choice was a no-brainer. This was an excellent venture into learning the React Library, component managing and updating, and JSX. </p>
+    </div>
+    <div>
+      <h4>Node/Express - Middleware</h4>
+      <p>Node with Express is used to export the web app over port 3000. This is simply a precautionary measure to prevent unnecessary load in the case the Go server is under high stress</p>
+    </div>
+    <div>
+      <h4>Go - Backend </h4>
+      <p>Go runs the backend for one simple reason. Concurrency. Goroutines handle concurrency better than any language on the market, and with a project of this scale, requiring the capability to maintain thousands of potential connections in tens of thousands of rooms, Go was the clear choice. The Go Server is capable of both Websocket connections over the react 
+    </div>
     <hr>
+  </div>
   <div>
     <h3> The Devs</h3>
     <div>
