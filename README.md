@@ -9,7 +9,7 @@
     <h3>The Tech Stack</h3>
     <div>
       <h4>React - Frontend</h4>
-      <p>The Frontend Functionality and Rendering is written 100% in React. More than anything this choice was made to cope with constant messages and the performance load they could bring. Given React is able to handle live changes highly performatively, this choice was a no-brainer. This was an excellent venture into learning the React Library, updating and managing components, and JSX. </p>
+      <p>The Frontend Functionality and Rendering is written 100% in React. More than anything this choice was made to cope with constant messages and the performance load they could cause. Given React is able to handle live changes highly performatively, this choice was a no-brainer. This was an excellent venture into learning the React Library, updating and managing components, and JSX. </p>
     </div>
     <div>
       <h4>Node/Express - Middleware</h4>
@@ -17,7 +17,7 @@
     </div>
     <div>
       <h4>Go - Backend </h4>
-      <p>Go runs the backend for one simple reason. Concurrency. Goroutines handle concurrency better than any language on the market, and with a project of this scale, which by nature requires the capability to maintain thousands of potential connections in tens of thousands of rooms, Go was the clear choice. The Go Server is capable of both Websocket connections over the frontend website and potential TCP connections over a desktop client or CLI, while sharing the same pool of messages and users. 
+      <p>Go runs the backend simply due to it's concurrent capabilities. Goroutines handle concurrency better than any language on the market, and with a project of this scale, which by nature requires the capability to maintain thousands of potential connections in tens of thousands of rooms, Go was the clear choice. The Go Server is capable of both Websocket connections over the frontend website and potential TCP connections over a desktop client or CLI, while sharing the same pool of messages and users. 
     </div>
     <hr>
   </div>
