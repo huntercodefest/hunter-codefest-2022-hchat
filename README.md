@@ -27,12 +27,12 @@
       <h4>Daniel Volchek</h4>
       <p>Team Lead/Lead Dev</p>
       <p><a href="https://github.com/DanielVolchek">Personal Github Link</a></p>
-      <p>I designed and lead development for the functionality of both the GO backend and the React frontend along with organizing the project, team collaboration, and Git Flow. Along the way I extensively learned and researched GO, HTML/CSS/JS/REACT, Git, SQL, and web hosting with NGINX/NODE</p>
+      <p>I designed the project and lead development for the functionality of both the GO backend and the React frontend along with organizing the team collaboration/roles, and Git Flow. Along the way I extensively learned and researched GO, HTML/CSS/JS/REACT, Git, SQL, and web hosting with NGINX/NODE</p>
     </div>
     <div>
       <h4>Deland Chen</h4>
       <p>Developer</p>
-      <p>Researched and assisted design of frontend and backend functionality. Designed and implemented Python scripts to manipulate and update extensive class Database entries. Used Git to maintain code</p>
+      <p>Researched and assisted design of frontend and backend functionality. Designed and implemented Python scripts to manipulate and update extensive class database entries. Used Git to maintain code</p>
       <a href="https://github.com/delandchen">Personal Github Link</a>
     </div>
     <div>
