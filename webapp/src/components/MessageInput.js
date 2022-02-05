@@ -20,9 +20,6 @@ class MessageInput extends React.Component {
 						onChange={(event) => this.props.handleChange(event)}
 						value={this.props.value}
 					/>
-				<button form="sub_msg" className={classes.button}>
-					Send
-				</button>
 				</form>
 			</div>
 		);
