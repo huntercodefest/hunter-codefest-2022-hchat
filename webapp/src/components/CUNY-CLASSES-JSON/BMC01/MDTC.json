@@ -1,0 +1,368 @@
+[
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18481",
+        "room_desc": "CPT/HCPCS Coding"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18482",
+        "room_desc": "Code & Class Systems I"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18483",
+        "room_desc": "Code & Class Systems II"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18484",
+        "room_desc": "Code/Class Systems III"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18485",
+        "room_desc": "HIM Medical Legal Applications"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18486",
+        "room_desc": "Health Care Delivery Systems"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18487",
+        "room_desc": "Health Data Information"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18488",
+        "room_desc": "Health Record Systems"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18489",
+        "room_desc": "Health Statistics"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18490",
+        "room_desc": "Health/Care Del."
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18491",
+        "room_desc": "Health/Rec Systems"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18492",
+        "room_desc": "ICD-CM PCS Coding"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18493",
+        "room_desc": "Intr Hlth Data Info"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18494",
+        "room_desc": "Intro Health/Data"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18495",
+        "room_desc": "Intro to Health Info Mgmt"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18496",
+        "room_desc": "Management in the HIM Dept"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18497",
+        "room_desc": "Med Emeg Tech Ii"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18498",
+        "room_desc": "Med Emerg Seminar"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18499",
+        "room_desc": "Med Emerg Tech I"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18500",
+        "room_desc": "Med Emerg Tech III"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18501",
+        "room_desc": "Med Emerg Tech IV"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18502",
+        "room_desc": "Med Emerg Tech Ii"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18503",
+        "room_desc": "Med Emerg Tech Iii"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18504",
+        "room_desc": "Med Emerg Tech Iv"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18505",
+        "room_desc": "Med Rec Clin Prac"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18506",
+        "room_desc": "Med Rec Clin Prac 2"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18507",
+        "room_desc": "Med Rec Clin Prac I"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18508",
+        "room_desc": "Med Record Sci II"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18509",
+        "room_desc": "Med Record Sci III"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18510",
+        "room_desc": "Med Record Sci IV"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18511",
+        "room_desc": "Med Record Sci Ii"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18512",
+        "room_desc": "Med Recrd Science I"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18513",
+        "room_desc": "Med Terminology"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18514",
+        "room_desc": "Med Terminology I"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18515",
+        "room_desc": "Med Terminology II"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18516",
+        "room_desc": "Med Terminology Ii"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18517",
+        "room_desc": "Med/Applications"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18518",
+        "room_desc": "Med/Coding I"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18519",
+        "room_desc": "Med/Coding II"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18520",
+        "room_desc": "Med/Record/Mgmt."
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18521",
+        "room_desc": "Medical Coding"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18522",
+        "room_desc": "Medical Coding I"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18523",
+        "room_desc": "Medical Emergency Technology I"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18524",
+        "room_desc": "Medical Record Science I"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18525",
+        "room_desc": "Medical Terminology"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18526",
+        "room_desc": "Medical Terminology I"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18527",
+        "room_desc": "Medical Terminology II"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18528",
+        "room_desc": "Medicolegal Applications"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18529",
+        "room_desc": "Mrt Summer Cln Prac"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18530",
+        "room_desc": "Orient To Med Tech"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18531",
+        "room_desc": "Pathol Of Disease"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18532",
+        "room_desc": "Pathology and Pharmacology"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18533",
+        "room_desc": "Pathology of Diseases I"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18534",
+        "room_desc": "Pathology of Diseases II"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18535",
+        "room_desc": "Perform Improve & Data Analysi"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18536",
+        "room_desc": "Prin of Health Care Reimburse"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18537",
+        "room_desc": "Prof Practic Exp II"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18538",
+        "room_desc": "Professional Practice Expr I"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18539",
+        "room_desc": "Qual/Assur/Form  02"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "18540",
+        "room_desc": "Ret Retr Health Info"
+    },
+    {
+        "school": "BMC01",
+        "major": "MDTC",
+        "room_num": "86851",
+        "room_desc": "MDTC"
+    }
+]

@@ -1,0 +1,1298 @@
+[
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8243",
+        "room_desc": "19 Cent Philosophy"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8244",
+        "room_desc": "20c Deontolog Ethic"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8245",
+        "room_desc": "20c Metaphysics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8246",
+        "room_desc": "A Priori Knowledge"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8247",
+        "room_desc": "Actions & Events"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8248",
+        "room_desc": "Ad Sem Epis-Ske/Crt"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8249",
+        "room_desc": "Ad Sm Metaphys Mind-Body Prob"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8250",
+        "room_desc": "Adv Sem Cntmp Phil"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8251",
+        "room_desc": "Adv Sem Epist Sceptc & Certnty"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8252",
+        "room_desc": "Adv Sem-Categories"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8253",
+        "room_desc": "Adv Sem-Obj/Sci Chc"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8254",
+        "room_desc": "Advanced Logic"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8255",
+        "room_desc": "Advanced Seminars"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8256",
+        "room_desc": "Aesthetics (Core)"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8257",
+        "room_desc": "Analy/Synth Distinc"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8258",
+        "room_desc": "Applied Ethics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8259",
+        "room_desc": "Aristotle"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8260",
+        "room_desc": "Aristotle Metaphys"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8261",
+        "room_desc": "Aristotle\u2019S Ethics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8262",
+        "room_desc": "Behavioral Sciences"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8263",
+        "room_desc": "Belief/Propos Attit"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8264",
+        "room_desc": "Brit Moral Philosop"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8265",
+        "room_desc": "British Empiricism"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8266",
+        "room_desc": "British Moral Philo"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8267",
+        "room_desc": "British Moralists"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8268",
+        "room_desc": "Capit/Social/Moraly"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8269",
+        "room_desc": "Cartesian Sci/17c"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8270",
+        "room_desc": "Casuality"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8271",
+        "room_desc": "Causality"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8272",
+        "room_desc": "Causatn/Causal Expl"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8273",
+        "room_desc": "Classical Morl Trad"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8274",
+        "room_desc": "Cntmp Ethic Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8275",
+        "room_desc": "Cntmp Ethical Thry"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8276",
+        "room_desc": "Cntmp Metaphy Systm"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8277",
+        "room_desc": "Cntmp Metaphysics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8278",
+        "room_desc": "Cntxlsm/Ntlsm/Epstm"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8279",
+        "room_desc": "Cogito Ergo Sum"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8280",
+        "room_desc": "Computer Sc"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8281",
+        "room_desc": "Confirmation"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8282",
+        "room_desc": "Consciounes/Intentn"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8283",
+        "room_desc": "Consciousness"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8284",
+        "room_desc": "Contemp Methaphysic"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8285",
+        "room_desc": "Contemp Moral Phily"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8286",
+        "room_desc": "Contempo French Phi"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8287",
+        "room_desc": "Content In Explantn"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8288",
+        "room_desc": "Contmp Moral Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8289",
+        "room_desc": "Descartes"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8290",
+        "room_desc": "Devel Of Set Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8291",
+        "room_desc": "Dir Refer Semantics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8292",
+        "room_desc": "Dissertation Supervision"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8293",
+        "room_desc": "Distributive Justce"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8294",
+        "room_desc": "Doctoral Dissertation Resch"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8295",
+        "room_desc": "Empir Equiv Theorie"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8296",
+        "room_desc": "Empiricism"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8297",
+        "room_desc": "Epistem/Overcoming"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8298",
+        "room_desc": "Epistemology"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8299",
+        "room_desc": "Epistemology (Core)"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8300",
+        "room_desc": "Esthetics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8301",
+        "room_desc": "Ethics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8302",
+        "room_desc": "Ethics & Business"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8303",
+        "room_desc": "Ethics (Core)"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8304",
+        "room_desc": "Ethics And Law"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8305",
+        "room_desc": "Ethics Law Society"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8306",
+        "room_desc": "Ethics Of Belief"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8307",
+        "room_desc": "Ethics8308: PHIL,\"Ethics/Socwk  9300"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8309",
+        "room_desc": "Fdtns Modern Philos"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8310",
+        "room_desc": "Fld Sem Ethic Aesthet+Rel Area"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8311",
+        "room_desc": "Free Will & Determ"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8312",
+        "room_desc": "Frege/Russell/Witt"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8313",
+        "room_desc": "Fren Poststructursm"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8314",
+        "room_desc": "Godel Reslts/Hilber"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8315",
+        "room_desc": "Habermas"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8316",
+        "room_desc": "Hegel And Marx"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8317",
+        "room_desc": "Hegels Phenomenol"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8318",
+        "room_desc": "Heidegger"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8319",
+        "room_desc": "Hist Kant To Marx"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8320",
+        "room_desc": "Hist Of Logic"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8321",
+        "room_desc": "Hist Of Phil-Sem"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8322",
+        "room_desc": "History of Philosophy of Art"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8323",
+        "room_desc": "Hobbes/Locke/Rousse"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8324",
+        "room_desc": "Husserlian Phenomen"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8325",
+        "room_desc": "Incomple/Undecidblt"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8326",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8327",
+        "room_desc": "Indiv/Collect Agncy"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8328",
+        "room_desc": "Induction/Probablty"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8329",
+        "room_desc": "Intro To Philosophy"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8330",
+        "room_desc": "Ist Order Modal Log"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8331",
+        "room_desc": "Kant"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8332",
+        "room_desc": "Kant8333: PHIL,\"Kant/Crit Pure Resn"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8334",
+        "room_desc": "Kant: Crit Pure Rsn"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8335",
+        "room_desc": "Kant\u2019S Ethics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8336",
+        "room_desc": "Keirkegaard"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8337",
+        "room_desc": "Language/Metaphysic"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8338",
+        "room_desc": "Late Mod Phil Std Mid-Late 19c"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8339",
+        "room_desc": "Law8340: PHIL,\"Lectures on Special Topics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8341",
+        "room_desc": "Leibnitz"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8342",
+        "room_desc": "Locke Leibnitz"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8343",
+        "room_desc": "Logic"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8344",
+        "room_desc": "Logic (Core)"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8345",
+        "room_desc": "Logic I"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8346",
+        "room_desc": "Logic I  Sect A"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8347",
+        "room_desc": "Logic Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8348",
+        "room_desc": "MA Capstone"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8349",
+        "room_desc": "Marx & Marxism"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8350",
+        "room_desc": "Meanng W/Out Meangs"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8351",
+        "room_desc": "Medical Ethics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8352",
+        "room_desc": "Medicine/Pro Ethics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8353",
+        "room_desc": "Medieval Philosophy"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8354",
+        "room_desc": "Metaphys-Epistemol"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8355",
+        "room_desc": "Metaphysics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8356",
+        "room_desc": "Metaphysics (Core)"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8357",
+        "room_desc": "Meth Empirical Scien"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8358",
+        "room_desc": "Military Ethics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8359",
+        "room_desc": "Mind Consciousness"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8360",
+        "room_desc": "Mind/Body Problem"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8361",
+        "room_desc": "Modal Logic"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8362",
+        "room_desc": "Modal/Intuitn Logic"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8363",
+        "room_desc": "Modern Logic"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8364",
+        "room_desc": "Modes Of Presentatn"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8365",
+        "room_desc": "Modrn Idealism"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8366",
+        "room_desc": "Nat Of Abstr Object"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8367",
+        "room_desc": "Natural Of Content"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8368",
+        "room_desc": "Nature Of Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8369",
+        "room_desc": "Omission/Respnsblty"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8370",
+        "room_desc": "Operat/Pronun/Quant"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8371",
+        "room_desc": "Perception"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8372",
+        "room_desc": "Phil Analy"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8373",
+        "room_desc": "Phil Of History"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8374",
+        "room_desc": "Phil Of Lang (Core)"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8375",
+        "room_desc": "Phil Of Mathematics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8376",
+        "room_desc": "Phil Of Mind (Core)"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8377",
+        "room_desc": "Phil Of Religion"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8378",
+        "room_desc": "Phil Of Scienc-Core"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8379",
+        "room_desc": "Phil Of Social Scie"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8380",
+        "room_desc": "Phil Social Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8381",
+        "room_desc": "Phil/Language (Cor)"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8382",
+        "room_desc": "Phil/Psychoanalysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8383",
+        "room_desc": "Phil/Social Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8384",
+        "room_desc": "Philo Of Logic"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8385",
+        "room_desc": "Philo Of Soc Scienc"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8386",
+        "room_desc": "Philo Psych Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8387",
+        "room_desc": "Philos Of Mathemat"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8388",
+        "room_desc": "Philosop Of Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8389",
+        "room_desc": "Philosoph/Mathematc"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8390",
+        "room_desc": "Philosophy Language"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8391",
+        "room_desc": "Philosophy Of Law"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8392",
+        "room_desc": "Philosophy Of Mind"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8393",
+        "room_desc": "Philosophy of Art Survey"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8394",
+        "room_desc": "Philosophy/Language"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8395",
+        "room_desc": "Philosophy/Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8396",
+        "room_desc": "Philsphy Of Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8397",
+        "room_desc": "Plato"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8398",
+        "room_desc": "Plato I"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8399",
+        "room_desc": "Plato-Republic Sem"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8400",
+        "room_desc": "Plato/Politc Dialog"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8401",
+        "room_desc": "Plato:Theaetet/Etal"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8402",
+        "room_desc": "Plato\u2019S Republic"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8403",
+        "room_desc": "Pol Thy/Ratnl Choic"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8404",
+        "room_desc": "Political Economy"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8405",
+        "room_desc": "Pre Socratics/Plato"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8406",
+        "room_desc": "Prmndes8407: PHIL,\"Prob In Aesthetics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8408",
+        "room_desc": "Prob/Induct Infernc"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8409",
+        "room_desc": "Prof Ethic: Medicin"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8410",
+        "room_desc": "Prospectus & Dissertation Sem"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8411",
+        "room_desc": "Punish/Responsblty"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8412",
+        "room_desc": "Quine"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8413",
+        "room_desc": "Quine & Sellers"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8414",
+        "room_desc": "Rationalism"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8415",
+        "room_desc": "Readings in Philosophy"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8416",
+        "room_desc": "Reason;Moral Psychl"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8417",
+        "room_desc": "Reference"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8418",
+        "room_desc": "Renaiss Philosophy"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8419",
+        "room_desc": "Ruling Passions"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8420",
+        "room_desc": "ST: Contemporary Phil Issues"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8421",
+        "room_desc": "ST: Ethics Aesthetcs Rel Areas"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8422",
+        "room_desc": "ST: Ethics/Aesthetcs/Rel Areas"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8423",
+        "room_desc": "ST: Logic & Phil of Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8424",
+        "room_desc": "ST: Metaphysics & Epistemology"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8425",
+        "room_desc": "ST: The History of Philosophy"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8426",
+        "room_desc": "ST: the History of Philosophy"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8427",
+        "room_desc": "Satre"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8428",
+        "room_desc": "Science-Log & Phil"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8429",
+        "room_desc": "Scientific Realism"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8430",
+        "room_desc": "Search For Meaning"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8431",
+        "room_desc": "Self-Know/Externlsm"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8432",
+        "room_desc": "Sem Log-Phi Cnc/Str"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8433",
+        "room_desc": "Sem Teaching Philos"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8434",
+        "room_desc": "Sem: Teaching Philosophy"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8435",
+        "room_desc": "Seminar: Teaching Philosophy"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8436",
+        "room_desc": "Social Cont Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8437",
+        "room_desc": "Social Philosophy"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8438",
+        "room_desc": "Social Poltcl (Cor)"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8439",
+        "room_desc": "Special Topics"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8440",
+        "room_desc": "Stud Mod Phil-Kant"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8441",
+        "room_desc": "Subjectivity/Self"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8442",
+        "room_desc": "Symbolic Logic"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8443",
+        "room_desc": "The Concept Of Law"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8444",
+        "room_desc": "Theories"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8445",
+        "room_desc": "Theory Of Just War"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8446",
+        "room_desc": "Theory Of Knowledg"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8447",
+        "room_desc": "Theory Of Knowledge"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8448",
+        "room_desc": "Theory/Kant Bentham"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8449",
+        "room_desc": "Thesis Supervision"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8450",
+        "room_desc": "Truth & Definabilty"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8451",
+        "room_desc": "Truth/Intentionalit"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8452",
+        "room_desc": "Tutorial"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8453",
+        "room_desc": "Tutorial First Term"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8454",
+        "room_desc": "Tutorial-2nd Term"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8455",
+        "room_desc": "Utilitarianism"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8456",
+        "room_desc": "Value/Mrkt/Property"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8457",
+        "room_desc": "Wittgenstein"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8458",
+        "room_desc": "Wittgenstein I"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8459",
+        "room_desc": "Wittgenstein Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8460",
+        "room_desc": "Wittgenstein Iii"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "8461",
+        "room_desc": "Wittgenstein: Phil"
+    },
+    {
+        "school": "GRD01",
+        "major": "PHIL",
+        "room_num": "88442",
+        "room_desc": "PHIL"
+    }
+]

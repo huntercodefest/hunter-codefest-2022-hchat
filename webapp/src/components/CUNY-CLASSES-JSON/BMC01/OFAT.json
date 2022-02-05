@@ -1,0 +1,68 @@
+[
+    {
+        "school": "BMC01",
+        "major": "OFAT",
+        "room_num": "18807",
+        "room_desc": "Communications for the Office"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFAT",
+        "room_num": "18808",
+        "room_desc": "Computer Keyboarding"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFAT",
+        "room_num": "18809",
+        "room_desc": "Desktop Publishing"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFAT",
+        "room_num": "18810",
+        "room_desc": "Keyboarding"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFAT",
+        "room_num": "18811",
+        "room_desc": "OIS Supervision"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFAT",
+        "room_num": "18812",
+        "room_desc": "Off. & Mach Trans."
+    },
+    {
+        "school": "BMC01",
+        "major": "OFAT",
+        "room_num": "18813",
+        "room_desc": "Superwrite"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFAT",
+        "room_num": "18814",
+        "room_desc": "Text Processing I"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFAT",
+        "room_num": "18815",
+        "room_desc": "Text Processing II"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFAT",
+        "room_num": "18816",
+        "room_desc": "Text Processing III"
+    },
+    {
+        "school": "BMC01",
+        "major": "OFAT",
+        "room_num": "86884",
+        "room_desc": "OFAT"
+    }
+]

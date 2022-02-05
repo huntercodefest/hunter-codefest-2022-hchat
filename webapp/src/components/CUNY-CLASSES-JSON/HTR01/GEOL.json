@@ -1,0 +1,350 @@
+[
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51969",
+        "room_desc": "Adv Oceano: Physics of Oceans"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51970",
+        "room_desc": "Adv Tpcs Geovisualization"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51971",
+        "room_desc": "Coastal Geomorph:Beach & Coast"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51972",
+        "room_desc": "Coastal Geomorpholgy"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51973",
+        "room_desc": "Dunes and Desertification"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51974",
+        "room_desc": "Earth Materials Res"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51975",
+        "room_desc": "Earth Science Today"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51976",
+        "room_desc": "Eco Geol Methods"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51977",
+        "room_desc": "Elem Field Geology"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51978",
+        "room_desc": "Environmental Geology"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51979",
+        "room_desc": "Environmental Geosci"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51980",
+        "room_desc": "Feld Geol of NYC&Vic"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51981",
+        "room_desc": "Field Geol - Maine"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51982",
+        "room_desc": "Field Geol-Gr Canyon"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51983",
+        "room_desc": "Field Geology of NYC & Vic"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51984",
+        "room_desc": "Fld Geo:Tect Con Mar"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51985",
+        "room_desc": "Fld Techniques-Maine"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51986",
+        "room_desc": "Fund of Geology-Lab"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51987",
+        "room_desc": "Fund of Geology-Lec"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51988",
+        "room_desc": "Gems & Semiprec Stones"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51989",
+        "room_desc": "Geochemistry"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51990",
+        "room_desc": "Geographical Field Mapping"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51991",
+        "room_desc": "Geol Interp-Map&Phot"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51992",
+        "room_desc": "Geol of NYC & Vicin"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51993",
+        "room_desc": "Geology of NY State"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51994",
+        "room_desc": "Geology of North America"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51995",
+        "room_desc": "Honors in Geology"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51996",
+        "room_desc": "Hydrogeology"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51997",
+        "room_desc": "Individual Study in Geology"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51998",
+        "room_desc": "Intg Pet:Erth Sci Tc"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "51999",
+        "room_desc": "Intro to Envir Studies"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "52000",
+        "room_desc": "Intro:Southern Ocean"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "52001",
+        "room_desc": "Introduction to Geology"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "52002",
+        "room_desc": "Introduction to Oceanography"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "52003",
+        "room_desc": "Introductory Geology Lab"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "52004",
+        "room_desc": "Invert Paleontology"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "52005",
+        "room_desc": "Marine Geology"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "52006",
+        "room_desc": "Micro-Comp Appl Geol"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "52007",
+        "room_desc": "Micros Petrography"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "52008",
+        "room_desc": "Optical Mineralogy"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "52009",
+        "room_desc": "Petroleum Geology"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "52010",
+        "room_desc": "Petrology"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "52011",
+        "room_desc": "Planetary Geology"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "52012",
+        "room_desc": "Plate Tech&Erth Evol"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "52013",
+        "room_desc": "Principles of Geomorphology"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "52014",
+        "room_desc": "Principles of Stratigraphy"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "52015",
+        "room_desc": "Probs Urban Coasts"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "52016",
+        "room_desc": "Satellite Oceanog"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "52017",
+        "room_desc": "Sedimentology"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "52018",
+        "room_desc": "Senior Seminar-Geol."
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "52019",
+        "room_desc": "Sp Top: Sci of Rocks"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "52020",
+        "room_desc": "Sp Tpc: Volcanos"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "52021",
+        "room_desc": "Sp Tpc:Field Geolgy"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "52022",
+        "room_desc": "Sp. Top. Carbonates"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "52023",
+        "room_desc": "Strat & Sedimentatio"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "52024",
+        "room_desc": "Structural Geology"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "52025",
+        "room_desc": "Vertbt Paleontology"
+    },
+    {
+        "school": "HTR01",
+        "major": "GEOL",
+        "room_num": "87678",
+        "room_desc": "GEOL"
+    }
+]

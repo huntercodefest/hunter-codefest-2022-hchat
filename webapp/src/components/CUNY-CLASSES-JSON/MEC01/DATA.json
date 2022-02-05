@@ -1,0 +1,32 @@
+[
+    {
+        "school": "MEC01",
+        "major": "DATA",
+        "room_num": "78327",
+        "room_desc": "Fortran Programming"
+    },
+    {
+        "school": "MEC01",
+        "major": "DATA",
+        "room_num": "78328",
+        "room_desc": "Intro Computer Progr"
+    },
+    {
+        "school": "MEC01",
+        "major": "DATA",
+        "room_num": "78329",
+        "room_desc": "Pl/I Programming"
+    },
+    {
+        "school": "MEC01",
+        "major": "DATA",
+        "room_num": "78330",
+        "room_desc": "Pl/I Programming Lab"
+    },
+    {
+        "school": "MEC01",
+        "major": "DATA",
+        "room_num": "88312",
+        "room_desc": "DATA"
+    }
+]

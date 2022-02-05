@@ -1,0 +1,734 @@
+[
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59420",
+        "room_desc": "Adv Comp Tech For Qa"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59421",
+        "room_desc": "Adv Program Bus Appl"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59422",
+        "room_desc": "Advanced Business Programming"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59423",
+        "room_desc": "Analysis and Design of Busines"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59424",
+        "room_desc": "Applied Natural Language Proce"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59425",
+        "room_desc": "Assem Lang Pro&Conc"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59426",
+        "room_desc": "Assembly Language Concepts and"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59427",
+        "room_desc": "Assmb Lang & Assmbs"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59428",
+        "room_desc": "Big Data Technologies"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59429",
+        "room_desc": "Blockchain Technologies and Ap"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59430",
+        "room_desc": "Blockchain Techs and Apps"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59431",
+        "room_desc": "Bus Appl Expert Syst"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59432",
+        "room_desc": "Bus Apps Prgrmmng I"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59433",
+        "room_desc": "Business Analytics"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59434",
+        "room_desc": "Business App Prog II"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59435",
+        "room_desc": "Business Data Processing I"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59436",
+        "room_desc": "Business Data Processing II"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59437",
+        "room_desc": "Business Modeling with Spreads"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59438",
+        "room_desc": "CIS - Honors III"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59439",
+        "room_desc": "CIS Internship"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59440",
+        "room_desc": "Cis 2200 Lecture"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59441",
+        "room_desc": "Comparatve Prog Lang"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59442",
+        "room_desc": "Compt Tech Quan Anal"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59443",
+        "room_desc": "Computer Ethics"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59444",
+        "room_desc": "Computer Graphics in Business"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59445",
+        "room_desc": "Computer Hardware Concepts"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59446",
+        "room_desc": "Computer Info Systems Training"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59447",
+        "room_desc": "Computer Networking"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59448",
+        "room_desc": "Computer Programming for Busin"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59449",
+        "room_desc": "Cybersecurity"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59450",
+        "room_desc": "Data Mining for Bus Analytics"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59451",
+        "room_desc": "Data Mining for Business Analy"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59452",
+        "room_desc": "Data Structre & Manip"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59453",
+        "room_desc": "Data Visualization"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59454",
+        "room_desc": "Data Warehousing and Analytics"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59455",
+        "room_desc": "Data Warehousing for Analytics"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59456",
+        "room_desc": "Database Management Systems"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59457",
+        "room_desc": "Design Thinking for Usability59458: CMIS,\"Digital Media Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59459",
+        "room_desc": "Dis Proc App Sys"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59460",
+        "room_desc": "E-Busines Pri & Tech"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59461",
+        "room_desc": "E-Business Strategy and Tech"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59462",
+        "room_desc": "Ethical Hacking"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59463",
+        "room_desc": "Expert Sys & Rel Tec"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59464",
+        "room_desc": "FinTech: Principles and Applic"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59465",
+        "room_desc": "Fndtns of Business Analytics"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59466",
+        "room_desc": "Globalization and Technology"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59467",
+        "room_desc": "Green IT"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59468",
+        "room_desc": "Hon CIS II"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59469",
+        "room_desc": "Hon Info Systems"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59470",
+        "room_desc": "Hon Sprdsht App Bus"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59471",
+        "room_desc": "Honors-Network Communication"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59472",
+        "room_desc": "Honors: CIS I"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59473",
+        "room_desc": "Ind Study In CIS I"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59474",
+        "room_desc": "Independent Study CIS I"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59475",
+        "room_desc": "Independent Study CIS II"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59476",
+        "room_desc": "Independent Study CIS III"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59477",
+        "room_desc": "Info Sys For Man I"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59478",
+        "room_desc": "Info Sys For Man II"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59479",
+        "room_desc": "Info Systems Dev Pro"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59480",
+        "room_desc": "Info Tech & Soc Resp"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59481",
+        "room_desc": "Info Tech Devlpmnt Proj Mgmt"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59482",
+        "room_desc": "Info Tech Project Management"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59483",
+        "room_desc": "Info Tech&Small Bus"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59484",
+        "room_desc": "Info Technology Strategy"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59485",
+        "room_desc": "Information Systems Developmen"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59486",
+        "room_desc": "Information Technology Audit"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59487",
+        "room_desc": "Integrated Info Tech"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59488",
+        "room_desc": "Internet App Develop"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59489",
+        "room_desc": "Intr Telecommunicati"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59490",
+        "room_desc": "Intro Computer Concp"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59491",
+        "room_desc": "Intro Info Systems"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59492",
+        "room_desc": "Intro Micro & Applic"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59493",
+        "room_desc": "Intro to Database Mgmt Syst"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59494",
+        "room_desc": "Intro to Semantic Technologies"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59495",
+        "room_desc": "Introduction to Computers and"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59496",
+        "room_desc": "Mainframe Computer Apps in Bus"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59497",
+        "room_desc": "Micro Applic BUS II"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59498",
+        "room_desc": "Microcomputers"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59499",
+        "room_desc": "Microcomputers Applications"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59500",
+        "room_desc": "Network & Telecom II"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59501",
+        "room_desc": "Networks & Telecomm"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59502",
+        "room_desc": "Object-Oriented Program w/Java"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59503",
+        "room_desc": "Object-Oriented Programming I"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59504",
+        "room_desc": "Object-Oriented Programming II"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59505",
+        "room_desc": "Operating System Principles"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59506",
+        "room_desc": "Operating Systems Concepts"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59507",
+        "room_desc": "Operations Systems Concepts an"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59508",
+        "room_desc": "Prin Of Database Mgt"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59509",
+        "room_desc": "Principles of FinTech"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59510",
+        "room_desc": "Principles of New Media"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59511",
+        "room_desc": "Principles of Web Design"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59512",
+        "room_desc": "Prog Data & File Struc"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59513",
+        "room_desc": "Programming and Computational"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59514",
+        "room_desc": "Programming and Problem Solvin"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59515",
+        "room_desc": "Programming for Analytics"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59516",
+        "room_desc": "Res Methods for Sem"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59517",
+        "room_desc": "Research Methods for Thesis"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59518",
+        "room_desc": "Research Seminar"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59519",
+        "room_desc": "Risk Management and Informati"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59520",
+        "room_desc": "Soc Media Tech In Organization"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59521",
+        "room_desc": "Social Technology and Business"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59522",
+        "room_desc": "Sorting Data Base Principles"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59523",
+        "room_desc": "Spec Top in Info Syst Strategy"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59524",
+        "room_desc": "Spec Topic Info Tech"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59525",
+        "room_desc": "Spec Topics In CIS"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59526",
+        "room_desc": "Spec Topics-Information Tech"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59527",
+        "room_desc": "Special Topics - CIS"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59528",
+        "room_desc": "Special Topics in CIS"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59529",
+        "room_desc": "Special Topics in Computer Met"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59530",
+        "room_desc": "Special Topics in Information"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59531",
+        "room_desc": "Sprdsht Form & Func"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59532",
+        "room_desc": "Sprdsht Techniques"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59533",
+        "room_desc": "Spreadsht App In Bus"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59534",
+        "room_desc": "Sur Com Org & Sys Sftw"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59535",
+        "room_desc": "Sustainability and IT"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59536",
+        "room_desc": "Systems Analysis and Design"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59537",
+        "room_desc": "Thesis"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59538",
+        "room_desc": "Tpcs-Info Sys Strtg"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59539",
+        "room_desc": "Trends Info Technolo"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59540",
+        "room_desc": "Usability59541: CMIS,\"Web applications Development"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "59542",
+        "room_desc": "e-Business Technologies"
+    },
+    {
+        "school": "BAR01",
+        "major": "CMIS",
+        "room_num": "86674",
+        "room_desc": "CMIS"
+    }
+]

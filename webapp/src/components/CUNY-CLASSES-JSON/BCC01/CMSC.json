@@ -1,0 +1,50 @@
+[
+    {
+        "school": "BCC01",
+        "major": "CMSC",
+        "room_num": "68882",
+        "room_desc": "Computer Science for Everyone"
+    },
+    {
+        "school": "BCC01",
+        "major": "CMSC",
+        "room_num": "68883",
+        "room_desc": "Data Structures"
+    },
+    {
+        "school": "BCC01",
+        "major": "CMSC",
+        "room_num": "68884",
+        "room_desc": "Discrete Mathematics I"
+    },
+    {
+        "school": "BCC01",
+        "major": "CMSC",
+        "room_num": "68885",
+        "room_desc": "Discrete Mathematics II"
+    },
+    {
+        "school": "BCC01",
+        "major": "CMSC",
+        "room_num": "68886",
+        "room_desc": "Intro Comptr Prgmg I"
+    },
+    {
+        "school": "BCC01",
+        "major": "CMSC",
+        "room_num": "68887",
+        "room_desc": "Intro Comptr Prog II"
+    },
+    {
+        "school": "BCC01",
+        "major": "CMSC",
+        "room_num": "68888",
+        "room_desc": "Intro to Object Prog with Java"
+    },
+    {
+        "school": "BCC01",
+        "major": "CMSC",
+        "room_num": "87334",
+        "room_desc": "CMSC"
+    }
+]

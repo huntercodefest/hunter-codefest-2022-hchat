@@ -1,76 +1,67 @@
-# hChat
 <div>
-  <h2> Hunter Codefest 2021 - Class chat room application </h2>
-  <p> With this application we aim to create a simple TCP chatroom to send messages back and forth between clients.<br>
-    The distinguishing feature of our chatroom will be its groups. We will have groups and subgroups of majors as
-    demonstrated in the following list: </p>
+  <h1><a href="http://hchat.org">hChat</a></h1>
+  <div>
+    <h3> The App</h3>
+    <p>hChat is a powerful self-hosted tool built with the needs of CUNY students in mind. It is divided hierarchically through all 25 CUNY schools, containing each schools majors, which contain each majors classes. Every school and major contain their own global chatrooms. Within its immense hierarchy hChat encompasses over 86000 different rooms. Due to it's tremendous asynchronicity through Golangs incredibly efficient goroutines, hChat is capable of maintaining thousands of simultaneous connections and conversations between end users, even with its current self-hosted bottleneck. </p>
+  </div>
+  <hr>
+  <div>
+    <h3>The Tech Stack</h3>
+    <div>
+      <h4>React - Frontend</h4>
+      <p>The Frontend Functionality and Rendering is written 100% in React. More than anything this choice was made to cope with constant messages and the performance load they could bring. Given React is able to handle live changes highly performatively, this choice was a no-brainer. This was an excellent venture into learning the React Library, updating and managing components, and JSX. </p>
+    </div>
+    <div>
+      <h4>Node/Express - Middleware</h4>
+      <p>Node with Express is used to export the web app build over port 3000. This is simply a precautionary measure to prevent unnecessary load in the case the Go server is under high stress.</p>
+    </div>
+    <div>
+      <h4>Go - Backend </h4>
+      <p>Go runs the backend for one simple reason. Concurrency. Goroutines handle concurrency better than any language on the market, and with a project of this scale, which by nature requires the capability to maintain thousands of potential connections in tens of thousands of rooms, Go was the clear choice. The Go Server is capable of both Websocket connections over the frontend website and potential TCP connections over a desktop client or CLI, while sharing the same pool of messages and users. 
+    </div>
+    <hr>
+  </div>
+  <div>
+    <h3> The Devs</h3>
+    <div>
+      <h4>Daniel Volchek</h4>
+      <p>Team Lead/Lead Dev</p>
+      <p><a href="https://github.com/DanielVolchek">Personal Github Link</a></p>
+      <p>I designed and lead development for the functionality of both the GO backend and the React frontend along with organizing the project, team collaboration, and Git Flow. Along the way I extensively learned and researched GO, HTML/CSS/JS/REACT, Git, SQL, and web hosting with NGINX/NODE</p>
+    </div>
+    <div>
+      <h4>Deland Chen</h4>
+      <p>Developer</p>
+      <p>Researched and assisted design of frontend and backend functionality. Designed and implemented Python scripts to manipulate and update extensive class Database entries. Used Git to maintain code</p>
+      <a href="https://github.com/delandchen">Personal Github Link</a>
+    </div>
+    <div>
+    <h4>Anthony Regner</h4>
+      <p>Designer/Interface Developer</p>
+      <p><a href="https://github.com/A278PlusPi">Personal Github Link</a></p>
+      <p>Anthony designed the hChat frontend interface using HTML and CSS, including the proposed layout of the interface. He was willing to learn HTML and CSS for styling websites</p>
+    </div>
+    <div>
+    ...
+    </div>
+  </div>
 </div>
+<hr>
 <div>
-  <p> hChat hierarchy: </p>
+  <h3>On the Docket</h3>
+  <p>hChat is still in beta and will be receiving regular updates with bugfixes and new features<p>
+  <p>The following is a list of additions/changes ordered by current priority</p>
   <ul>
-    <li>
-      Schools (Hunter for now, then CUNY, then other schools)
-      <ul>
-        <li>School chat room</li>
-        <li>
-          Majors
-          <ul>
-            <li>Major chat room</li>
-            <li>Class chat rooms</li>
-          </ul>
-        </li>
-    </li>
+    <li>HTTPS security</li>
+    <li>Bug testing/fixing</li>
+    <li>Mobile site</li>
+    <li>Active user list</li>
+    <li>User accounts through firebase</li>
+    <li>Improved logging</li>
+    <li>Improved message database querying</li>
+    <li>User settings</li>
+    <li>Dark theme</li>
+    <li>CLI</li>
   </ul>
 </div>
-<div>
-  <hr>
-  <h3> Tasks:<br><sub>(edit x into box to check off)</sub> </h3>
-  <ul>
-    <li>
-      Client side: 
-      <ul>
-        <li> - [ ] Build UI
-          <ul>
-            <li> - [ ] Create groups in sidebar</li>
-            <li> - [ ] Create chat room display</li>
-            <li> - [ ] Create and send input from text bar</li>
-          </ul>
-        </li>
-        <li> - [ ] Enter and store username</li>
-        <li> - [ ] Send client enter/exit chatroom</li>
-        <li> - [ ] Validate text input (client side)</li>
-        <li> - [ ] Send text input to server</li>
-        <li> - [ ] Receive text input</li>
-        <li>- [ ] Display server messages to user</li>
-      </ul>
-    </li>
-    <li>Server side: 
-      <ul>
-        <li> - [ ] Connect clients to server</li>
-        <li> - [ ] Temporarily store client IP</li>
-        <li> - [ ] Seperate clients into chatrooms</li>
-        <li> - [ ] Validate text input (server side)</li>
-        <li> - [ ] Process text</li>
-        <li> - [ ] Return processed text to every IP in indicated chatroom</li>
-      </ul>
-    </li>
-  </ul>
-</div>
-<div>
-  <hr>
-  <h3>Text processing: </h3>
-  <p>Text processing can be done by encoding the messages as follows: 
-    <br>
-    #00000 - To indicate room
-    <br>
-    _username - To indicate user
-    <br>
-    :message - To indicate message
-    <br>
-    The full syntax should look something like this:
-    <br>
-    #00000_username:message
-    <br>
-    #00000_username with no message can indicate entering and exiting chatroom
-  </p>
 </div>

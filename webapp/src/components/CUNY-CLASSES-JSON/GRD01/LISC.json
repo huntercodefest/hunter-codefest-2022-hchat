@@ -1,0 +1,26 @@
+[
+    {
+        "school": "GRD01",
+        "major": "LISC",
+        "room_num": "6654",
+        "room_desc": "Data Sources/Guides for Resrch"
+    },
+    {
+        "school": "GRD01",
+        "major": "LISC",
+        "room_num": "6655",
+        "room_desc": "Info Sources/Servic"
+    },
+    {
+        "school": "GRD01",
+        "major": "LISC",
+        "room_num": "6656",
+        "room_desc": "Info/Scienc Technol"
+    },
+    {
+        "school": "GRD01",
+        "major": "LISC",
+        "room_num": "88444",
+        "room_desc": "LISC"
+    }
+]

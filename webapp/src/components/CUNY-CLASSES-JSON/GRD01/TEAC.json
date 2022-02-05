@@ -1,0 +1,494 @@
+[
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10495",
+        "room_desc": "Adult Literacy & Dev/Remed Edu"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10496",
+        "room_desc": "Applied Bayesian Methods"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10497",
+        "room_desc": "Applied Regression Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10498",
+        "room_desc": "Assess Impact Tech in Schools"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10499",
+        "room_desc": "Brain & Behavior I"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10500",
+        "room_desc": "Brain & Behavior II"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10501",
+        "room_desc": "Child & Family Policy I"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10502",
+        "room_desc": "Child Psychopathology"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10503",
+        "room_desc": "Childrens Musical Developmnt"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10504",
+        "room_desc": "Cognit Bhvr Interpers Therap"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10505",
+        "room_desc": "Cognition & Computers"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10506",
+        "room_desc": "Cognition & Learning"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10507",
+        "room_desc": "Cognition10508: TEAC,\"Cognitive Development"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10509",
+        "room_desc": "Comp & Uses of Info in Educ"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10510",
+        "room_desc": "Comparative Psychotherapies"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10511",
+        "room_desc": "Consortium Course:TeachersColl"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10512",
+        "room_desc": "Creativity/Prob Solv Mus Educ"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10513",
+        "room_desc": "Cross-Cultural Issues"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10514",
+        "room_desc": "Determinants Health Behavior"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10515",
+        "room_desc": "Dev of Mathematical Thinking"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10516",
+        "room_desc": "Devel Voice in Schl Leadership"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10517",
+        "room_desc": "Divers Iss:Grp/Org"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10518",
+        "room_desc": "Doct Sem Tchng of English"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10519",
+        "room_desc": "Early Child Dev & Educ"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10520",
+        "room_desc": "Early Language Development"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10521",
+        "room_desc": "Education & Public Policy"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10522",
+        "room_desc": "Ethnography of Education"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10523",
+        "room_desc": "Exercise & Health"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10524",
+        "room_desc": "Exp Psych:Schooling/Reading"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10525",
+        "room_desc": "Explorations In Madness"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10526",
+        "room_desc": "Family as Context: Child Devel"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10527",
+        "room_desc": "Fed Educ Policy 20th Century"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10528",
+        "room_desc": "Fndmntls Cooprtn/Cnflct Res"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10529",
+        "room_desc": "Group Dynamics"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10530",
+        "room_desc": "Group Practicum"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10531",
+        "room_desc": "Grp Dynamics: Syst Perspective"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10532",
+        "room_desc": "Health Promotion for Children"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10533",
+        "room_desc": "Hist Of Edu In U.S."
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10534",
+        "room_desc": "Historical Method"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10535",
+        "room_desc": "Hypermedia & Education"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10536",
+        "room_desc": "Instruct: Des of Educ Technol"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10537",
+        "room_desc": "Int Perspect Ear Chldhd Plcy"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10538",
+        "room_desc": "Interlanguage Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10539",
+        "room_desc": "Intro Org Change Thry in Educ"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10540",
+        "room_desc": "Iss: Educ Data Mining"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10541",
+        "room_desc": "Marriage/Fam Therapy"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10542",
+        "room_desc": "Math Teach & Learn"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10543",
+        "room_desc": "Measuremnt & Progrm Evaluation"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10544",
+        "room_desc": "Multilevel Long Data Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10545",
+        "room_desc": "Multivariate Analysis I"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10546",
+        "room_desc": "Neur Bas Lang/Cogn"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10547",
+        "room_desc": "Person Dev/Soc Ear Childhood"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10548",
+        "room_desc": "Philosoph Of Educat"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10549",
+        "room_desc": "Planning Hlth Educ Programs"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10550",
+        "room_desc": "Political Policy Analysis Educ"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10551",
+        "room_desc": "Possibilities Virtual World"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10552",
+        "room_desc": "Psyc/Cult Aspct: Disabil Rehab"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10553",
+        "room_desc": "Psych of Loss & Trauma"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10554",
+        "room_desc": "Psychometric Theory II"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10555",
+        "room_desc": "Psychother Rel Divs Spiritualt"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10556",
+        "room_desc": "Qual Res Mthds: Class & Teach"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10557",
+        "room_desc": "Qual Rsch Mthd:Dsg Data Coll"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10558",
+        "room_desc": "Res Alloc for Student Achiev"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10559",
+        "room_desc": "Resource Alloc in Education"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10560",
+        "room_desc": "Resource Allocation in Educ"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10561",
+        "room_desc": "School Change"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10562",
+        "room_desc": "Sem Cogn Sci: Why Educ Technol"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10563",
+        "room_desc": "Sem in Cognitive Develop"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10564",
+        "room_desc": "Sem: Soc Emot Dev Child"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10565",
+        "room_desc": "Soc Comm Aspect of Internet"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10566",
+        "room_desc": "Soc of Urban Education"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10567",
+        "room_desc": "Sociology of Knowledge"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10568",
+        "room_desc": "Sociology of Organizations"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10569",
+        "room_desc": "Strat: Nutri Ed10570: TEAC,\"Technology & Human Development"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10571",
+        "room_desc": "Text & Textuality"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10572",
+        "room_desc": "Theories Cognitiv Proc Writing"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10573",
+        "room_desc": "Topics in Algebra"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10574",
+        "room_desc": "Tpcs Anth Ed:Cultural Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10575",
+        "room_desc": "Transforming Schools"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10576",
+        "room_desc": "Wkshp: Web-Based Learning"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "10577",
+        "room_desc": "Youth10578: TEAC,\"Youth10579: THEA,\"18/19c Germ Histry"
+    },
+    {
+        "school": "GRD01",
+        "major": "TEAC",
+        "room_num": "88434",
+        "room_desc": "TEAC"
+    }
+]

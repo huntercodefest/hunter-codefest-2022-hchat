@@ -1,0 +1,578 @@
+[
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79086",
+        "room_desc": "Abstract Algebra I"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79087",
+        "room_desc": "Abstract Algebra II"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79088",
+        "room_desc": "Advanced Calculus I"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79089",
+        "room_desc": "Advanced Calculus II"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79090",
+        "room_desc": "Algebra & Coordinate Geometry"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79091",
+        "room_desc": "Algebra & Geometry"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79092",
+        "room_desc": "Algebra/ Trignometry"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79093",
+        "room_desc": "Arith & Elem Algebra"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79094",
+        "room_desc": "Arithmetic"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79095",
+        "room_desc": "Basic Math"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79096",
+        "room_desc": "Cal For Bus/Soc Sci"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79097",
+        "room_desc": "Calculus I"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79098",
+        "room_desc": "Calculus I Workshop"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79099",
+        "room_desc": "Calculus II"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79100",
+        "room_desc": "Calculus II Workshop"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79101",
+        "room_desc": "Calculus III"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79102",
+        "room_desc": "Calculus III Wrkshop"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79103",
+        "room_desc": "Col Alg/Trigonometry"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79104",
+        "room_desc": "Coll Algebra & Trig"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79105",
+        "room_desc": "College Geometry"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79106",
+        "room_desc": "College Math I"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79107",
+        "room_desc": "Complex Variables I"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79108",
+        "room_desc": "Complex Variables II"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79109",
+        "room_desc": "Cunystart Math"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79110",
+        "room_desc": "Diff Geo & Relativity Thry"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79111",
+        "room_desc": "Differential Equatio"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79112",
+        "room_desc": "Discrete Mathematical Struct"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79113",
+        "room_desc": "Elem & Interm Algebr"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79114",
+        "room_desc": "Elem Alg/Quant Think"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79115",
+        "room_desc": "Elem Diff Equations"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79116",
+        "room_desc": "Elementary Algebra"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79117",
+        "room_desc": "Elementary Statistics"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79118",
+        "room_desc": "Finite Mathematics"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79119",
+        "room_desc": "Finite Mth"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79120",
+        "room_desc": "Fundamental Math"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79121",
+        "room_desc": "General Topology"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79122",
+        "room_desc": "Graph Theory"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79123",
+        "room_desc": "History of Mathematics"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79124",
+        "room_desc": "Independent Res. I"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79125",
+        "room_desc": "Independent Res. Ii"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79126",
+        "room_desc": "Independent Res. Iii"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79127",
+        "room_desc": "Independent Research I"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79128",
+        "room_desc": "Independent Research II"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79129",
+        "room_desc": "Independent Research III"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79130",
+        "room_desc": "Integrated Basic Alg"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79131",
+        "room_desc": "Integrated Elem & Interm Algeb"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79132",
+        "room_desc": "Inter Algebra & Trigo"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79133",
+        "room_desc": "Inter Elem/Interm Algeb/Trig"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79134",
+        "room_desc": "Intermediate Algebra"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79135",
+        "room_desc": "Intgrt Pre-algebra & Elem Aleg"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79136",
+        "room_desc": "Intro To Math Proof"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79137",
+        "room_desc": "Intro to Differential Geometry"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79138",
+        "room_desc": "Intro to Probability & Stats"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79139",
+        "room_desc": "Introduction To Statistics"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79140",
+        "room_desc": "Introductory Math"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79141",
+        "room_desc": "Linear Algebra"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79142",
+        "room_desc": "Linear Algebra I"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79143",
+        "room_desc": "Linear Algebra Ii"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79144",
+        "room_desc": "Math 9 Workshop"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79145",
+        "room_desc": "Math Elem Educ I"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79146",
+        "room_desc": "Math Elem Educ II"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79147",
+        "room_desc": "Math For Elem Teach"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79148",
+        "room_desc": "Math Of Finance"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79149",
+        "room_desc": "Mathematical Modeling"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79150",
+        "room_desc": "Mathematical Statistics"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79151",
+        "room_desc": "Mathematics Workshop"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79152",
+        "room_desc": "Matrices/Grps Fr Sci"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79153",
+        "room_desc": "Modern Differential Geometry"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79154",
+        "room_desc": "Mth 10 Workshop"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79155",
+        "room_desc": "Mth Concpts Elm Tch"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79156",
+        "room_desc": "Mth Independent Stud"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79157",
+        "room_desc": "Mth Start 10"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79158",
+        "room_desc": "Nature Of Mathematics"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79159",
+        "room_desc": "Nature of Mathematics II"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79160",
+        "room_desc": "Number Theory"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79161",
+        "room_desc": "Numerical Analysis"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79162",
+        "room_desc": "Partial Differential Equations"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79163",
+        "room_desc": "Post Secondary Math"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79164",
+        "room_desc": "Post Secondary Mth-A"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79165",
+        "room_desc": "Pre Calculusmath"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79166",
+        "room_desc": "Pre-Algebra"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79167",
+        "room_desc": "Precalculus"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79168",
+        "room_desc": "Precalculus Workshop"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79169",
+        "room_desc": "Probability Theory"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79170",
+        "room_desc": "Probability and Statistics"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79171",
+        "room_desc": "Projective Geometry"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79172",
+        "room_desc": "Senior Seminar"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79173",
+        "room_desc": "Set Theory"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79174",
+        "room_desc": "Sp. Func/Mth Phys"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79175",
+        "room_desc": "Special Topics in Mathematics"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79176",
+        "room_desc": "Statistics"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79177",
+        "room_desc": "Tensor Analysis"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79178",
+        "room_desc": "Transformational Geometry"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79179",
+        "room_desc": "Vector Analysis"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "79180",
+        "room_desc": "Workshop for MTH 136"
+    },
+    {
+        "school": "MEC01",
+        "major": "MATH",
+        "room_num": "88299",
+        "room_desc": "MATH"
+    }
+]

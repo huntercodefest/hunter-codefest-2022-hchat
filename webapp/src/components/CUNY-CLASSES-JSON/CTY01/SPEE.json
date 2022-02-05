@@ -1,0 +1,632 @@
+[
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44708",
+        "room_desc": "Acquisition Of Lang"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44709",
+        "room_desc": "Acting III"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44710",
+        "room_desc": "Acting IV"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44711",
+        "room_desc": "Adv Debating Techs"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44712",
+        "room_desc": "Adv Proc Audiology"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44713",
+        "room_desc": "Adv Public Speaking"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44714",
+        "room_desc": "Adv Spch Pathol"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44715",
+        "room_desc": "Adv Spch-Lang Path"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44716",
+        "room_desc": "Amer Engl Phonetics"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44717",
+        "room_desc": "American English Speech Fluenc"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44718",
+        "room_desc": "Ana/Physio-Sp/Hr"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44719",
+        "room_desc": "Aphsia-Rltd Disord"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44720",
+        "room_desc": "Argument And Drama"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44721",
+        "room_desc": "Argumentation"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44722",
+        "room_desc": "Argumentation and Debate"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44723",
+        "room_desc": "Art Of Rhetoric"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44724",
+        "room_desc": "Articulation"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44725",
+        "room_desc": "Aud Assmt Yng Chld"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44726",
+        "room_desc": "Audiology Practicum"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44727",
+        "room_desc": "Auditory Disorders in Children"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44728",
+        "room_desc": "Basic Film Lab"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44729",
+        "room_desc": "Black Rhetoric"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44730",
+        "room_desc": "Business Commncatn"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44731",
+        "room_desc": "Business Communication"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44732",
+        "room_desc": "Choral Speaking"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44733",
+        "room_desc": "Cinema Workshop"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44734",
+        "room_desc": "Classical Rhetoric"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44735",
+        "room_desc": "Cleft Pal Habiltatn"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44736",
+        "room_desc": "Com Skls Hrng Hndcp"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44737",
+        "room_desc": "Com-Indus Prog Audi"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44738",
+        "room_desc": "Comm Delay Disabled Inf & Todd"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44739",
+        "room_desc": "Communication Through Speech"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44740",
+        "room_desc": "Community Leadershp"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44741",
+        "room_desc": "Comnctn Trng Skills"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44742",
+        "room_desc": "Comp & Delivery"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44743",
+        "room_desc": "Cont Amer Pol Rhetr"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44744",
+        "room_desc": "Crit Persuasv Cmctn"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44745",
+        "room_desc": "Diag - Trt Stuttrng"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44746",
+        "room_desc": "Diag Tech:Practicum"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44747",
+        "room_desc": "Diagnostc Audiology"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44748",
+        "room_desc": "Directing"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44749",
+        "room_desc": "Dscrptv Linguistics"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44750",
+        "room_desc": "Evolution Of Cinema"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44751",
+        "room_desc": "Experiment Audio"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44752",
+        "room_desc": "Fndtns Of Broadcstg"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44753",
+        "room_desc": "Fndtns Of Cinema"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44754",
+        "room_desc": "Foundations of Speech Comm"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44755",
+        "room_desc": "Fundamentals of English Speech"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44756",
+        "room_desc": "General Linguistics"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44757",
+        "room_desc": "Group Discussion"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44758",
+        "room_desc": "Hearing Aids"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44759",
+        "room_desc": "History of Broadcasting"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44760",
+        "room_desc": "Honors"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44761",
+        "room_desc": "Ind St Res"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44762",
+        "room_desc": "Ind Stdy Language"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44763",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44764",
+        "room_desc": "Independent Study: Aphasia"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44765",
+        "room_desc": "Intro Audiology"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44766",
+        "room_desc": "Intro Spch Pathol"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44767",
+        "room_desc": "Intro to Comm Sci"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44768",
+        "room_desc": "Introduction to Audiology"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44769",
+        "room_desc": "Introduction to Speech Arts"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44770",
+        "room_desc": "Intrpersnl Commcatn"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44771",
+        "room_desc": "Lang Disord Chldn 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44772",
+        "room_desc": "Lang Disordr Chld 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44773",
+        "room_desc": "Legal Argumentation"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44774",
+        "room_desc": "Neuro Basis of Comm"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44775",
+        "room_desc": "Norm & Abnorm Hear"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44776",
+        "room_desc": "Oral Interpretation"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44777",
+        "room_desc": "Pathology Practicum"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44778",
+        "room_desc": "Pathology-Diag Prac"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44779",
+        "room_desc": "Phonologicl Dsordrs"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44780",
+        "room_desc": "Play Production"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44781",
+        "room_desc": "Prbms of the Mentally Retarded"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44782",
+        "room_desc": "Pronunciation of English"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44783",
+        "room_desc": "Rehearsal and Performance"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44784",
+        "room_desc": "Rsrch Mthds in Speech Hearing"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44785",
+        "room_desc": "Sp Path-Clin Prac 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44786",
+        "room_desc": "Sp Path-Clin Prac 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44787",
+        "room_desc": "Spc Prob:Acnt Reduc"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44788",
+        "room_desc": "Spch Communication"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44789",
+        "room_desc": "Spch In Comm Ldrshp"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44790",
+        "room_desc": "Speech & Language Development"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44791",
+        "room_desc": "Speech (Honors)"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44792",
+        "room_desc": "Speech Exemption"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44793",
+        "room_desc": "Speech Foundations"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44794",
+        "room_desc": "Speech Science"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44795",
+        "room_desc": "Storytelling"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44796",
+        "room_desc": "Struc Spok Amer Eng"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44797",
+        "room_desc": "Theater-Body Turning IV"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44798",
+        "room_desc": "Theatre Techniques"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44799",
+        "room_desc": "Theory of Argumentation"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44800",
+        "room_desc": "Thtr-Body Training"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44801",
+        "room_desc": "Thtr-Body Training 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44802",
+        "room_desc": "Thtr-Body Trng 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44803",
+        "room_desc": "Thtr-Body Trng 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44804",
+        "room_desc": "Thtr-Body Trng 3"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44805",
+        "room_desc": "U.S. Women Activists"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44806",
+        "room_desc": "Voice & Diction"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44807",
+        "room_desc": "Voice & Diction 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44808",
+        "room_desc": "Voice & Diction 3"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44809",
+        "room_desc": "Voice & Diction 4"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44810",
+        "room_desc": "Voice Disorders"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "44811",
+        "room_desc": "Voice and Diction"
+    },
+    {
+        "school": "CTY01",
+        "major": "SPEE",
+        "room_num": "87987",
+        "room_desc": "SPEE"
+    }
+]

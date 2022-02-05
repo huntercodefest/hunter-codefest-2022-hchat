@@ -1,0 +1,440 @@
+[
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80450",
+        "room_desc": "Adv Prog Techniques"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80451",
+        "room_desc": "Adv Programming Techniques"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80452",
+        "room_desc": "Adv Stat & Prob Models"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80453",
+        "room_desc": "Bus Desgn/Workflow"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80454",
+        "room_desc": "Business Analyt & Data Mining"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80455",
+        "room_desc": "Business Analytics"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80456",
+        "room_desc": "Computational Mathematics"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80457",
+        "room_desc": "Computer Forensics"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80458",
+        "room_desc": "Computer and Network Security"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80459",
+        "room_desc": "Current Topics Data Analytics"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80460",
+        "room_desc": "Data Acquisition & Management"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80461",
+        "room_desc": "Data Acquisition & Mgmt"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80462",
+        "room_desc": "Data Acquisition and Mgmt"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80463",
+        "room_desc": "Data Acquit & Mgmt"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80464",
+        "room_desc": "Data Analytics Internship"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80465",
+        "room_desc": "Data Explor & Outlier Analysis"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80466",
+        "room_desc": "Data Structures and Algorithms"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80467",
+        "room_desc": "Database Arch & Programming"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80468",
+        "room_desc": "E-Commerce for I S"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80469",
+        "room_desc": "Engr Math-Comp Syst"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80470",
+        "room_desc": "Enterprise Arch/Apps"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80471",
+        "room_desc": "Foundations of Info Systems"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80472",
+        "room_desc": "Fund Of Comp Math"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80473",
+        "room_desc": "Geographic Information Systems"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80474",
+        "room_desc": "Health Information Technology"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80475",
+        "room_desc": "Human-Computer Interaction"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80476",
+        "room_desc": "I S Special Topics"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80477",
+        "room_desc": "I S Strat/Mgmt/Acquistn"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80478",
+        "room_desc": "IT Infrastructure and Support"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80479",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80480",
+        "room_desc": "Information  Systems Capstone"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80481",
+        "room_desc": "Information and Systems"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80482",
+        "room_desc": "Introduction to Data Science"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80483",
+        "room_desc": "Knowledge and Visual Analytics"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80484",
+        "room_desc": "Logistics/Sup Chain Mgmt"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80485",
+        "room_desc": "Machine Learning and Big Data"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80486",
+        "room_desc": "Managerial Decision Analytics"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80487",
+        "room_desc": "Managing Innovation & Strategy"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80488",
+        "room_desc": "Master\u2019s Research Project"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80489",
+        "room_desc": "Math Modeling"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80490",
+        "room_desc": "Math Modeling Techniques"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80491",
+        "room_desc": "Ntwks & Bus Data Comm"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80492",
+        "room_desc": "Predictive Analytics"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80493",
+        "room_desc": "Principles of Informatics"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80494",
+        "room_desc": "Project Management Concepts"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80495",
+        "room_desc": "Quantitative Finance"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80496",
+        "room_desc": "Recommender Systems"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80497",
+        "room_desc": "Research Methods"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80498",
+        "room_desc": "Research Project"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80499",
+        "room_desc": "Sim & Model Technqs"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80500",
+        "room_desc": "Simulation and Modeling Tech"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80501",
+        "room_desc": "Social Media"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80502",
+        "room_desc": "Software App Prog I"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80503",
+        "room_desc": "Software App Prog II"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80504",
+        "room_desc": "Stat & Probability"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80505",
+        "room_desc": "Statistics and Probability"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80506",
+        "room_desc": "Systems Analysis and Design"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80507",
+        "room_desc": "Technol For Sustain"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80508",
+        "room_desc": "Technologies-Sustainability"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80509",
+        "room_desc": "Technology for Sustainability"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80510",
+        "room_desc": "Top In Complx Sys Analys"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80511",
+        "room_desc": "Topics In Data Base Syst"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80512",
+        "room_desc": "Topics-Data Analytics"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80513",
+        "room_desc": "Urb Society & Sustain"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80514",
+        "room_desc": "Urb Sustain-Complx Sys"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80515",
+        "room_desc": "Urb Sustain-Transportation"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80516",
+        "room_desc": "Urban Complex Systems"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80517",
+        "room_desc": "Urban Sustain-Energy"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80518",
+        "room_desc": "Urban Sustainability: Energy"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80519",
+        "room_desc": "Urban Sustainability: Transpor"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80520",
+        "room_desc": "Web Analytics"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "80521",
+        "room_desc": "Web Prog/Mobile App Devl"
+    },
+    {
+        "school": "SPS01",
+        "major": "DANA",
+        "room_num": "87579",
+        "room_desc": "DANA"
+    }
+]

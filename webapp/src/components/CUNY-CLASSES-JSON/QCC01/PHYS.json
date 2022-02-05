@@ -1,0 +1,446 @@
+[
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23289",
+        "room_desc": "Acoustics: Physics of Sound"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23290",
+        "room_desc": "Analytical Mechanics"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23291",
+        "room_desc": "Calculus Optics"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23292",
+        "room_desc": "Calculus Phys 1 Lb"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23293",
+        "room_desc": "Calculus Phys 2 Lb"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23294",
+        "room_desc": "Calculus Phys 3 Lb"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23295",
+        "room_desc": "Calculus Physics I"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23296",
+        "room_desc": "Calculus Physics II"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23297",
+        "room_desc": "Calculus Physics III"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23298",
+        "room_desc": "Cause and Effect Analysis"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23299",
+        "room_desc": "College Phys 1 Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23300",
+        "room_desc": "College Phys 2 Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23301",
+        "room_desc": "College Physics A"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23302",
+        "room_desc": "College Physics B"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23303",
+        "room_desc": "College Physics I"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23304",
+        "room_desc": "College Physics II"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23305",
+        "room_desc": "Coop Ed Laser/Fiber-Optics"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23306",
+        "room_desc": "Electricity and Magnetism"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23307",
+        "room_desc": "Energy and Environment"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23308",
+        "room_desc": "Fb Optics Dev Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23309",
+        "room_desc": "Fiber Optics Devices"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23310",
+        "room_desc": "Frontiers of Physics"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23311",
+        "room_desc": "Frontiers of Physics Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23312",
+        "room_desc": "Fund Las&Fb Opt Lb"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23313",
+        "room_desc": "Fund of Lasers & Fiber Optics"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23314",
+        "room_desc": "Gen. Physics 1 Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23315",
+        "room_desc": "Gen. Physics 2 Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23316",
+        "room_desc": "General Calculus Physics A"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23317",
+        "room_desc": "General Calculus Physics B"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23318",
+        "room_desc": "General Physics I"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23319",
+        "room_desc": "General Physics II"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23320",
+        "room_desc": "Global Warming"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23321",
+        "room_desc": "Graph Program Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23322",
+        "room_desc": "Graphical Programming"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23323",
+        "room_desc": "How Things Work"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23324",
+        "room_desc": "Intr Comp El-Op Lb"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23325",
+        "room_desc": "Intro Computers In El-Op"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23326",
+        "room_desc": "Intro Lab in Fiber Optics"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23327",
+        "room_desc": "Intro To Physics Research"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23328",
+        "room_desc": "Introduction to Meteorology"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23329",
+        "room_desc": "Introduction to Photonics"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23330",
+        "room_desc": "Introductory Laser Laboratory"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23331",
+        "room_desc": "Las & El Opt Tech Lb"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23332",
+        "room_desc": "Las El-Op Dev Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23333",
+        "room_desc": "Las El-Op Dev M&A"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23334",
+        "room_desc": "Las El-Opt Proj Lb"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23335",
+        "room_desc": "Laser & Electro-Opt Tech"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23336",
+        "room_desc": "Matrix Optics and Aberrations"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23337",
+        "room_desc": "Meteorology Laboratory"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23338",
+        "room_desc": "Modern Physics"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23339",
+        "room_desc": "Natural Hazards"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23340",
+        "room_desc": "Natural Science in Finance"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23341",
+        "room_desc": "Numerical Methods for Scientis"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23342",
+        "room_desc": "Photonics Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23343",
+        "room_desc": "Phys Fr Hist Vw Lb"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23344",
+        "room_desc": "Physics Colloquium"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23345",
+        "room_desc": "Physics Sound Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23346",
+        "room_desc": "Physics from Historical View"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23347",
+        "room_desc": "Physics of Life Processes"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23348",
+        "room_desc": "Pr Ast & Space Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23349",
+        "room_desc": "Prin Of Phys Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23350",
+        "room_desc": "Principle of Astronomy & Space"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23351",
+        "room_desc": "Principles of Physics"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23352",
+        "room_desc": "Research Projects"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23353",
+        "room_desc": "Scien Use Comp Lab"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23354",
+        "room_desc": "Science Of Dance23355: PHYS,\"Scientific Explortns of Sci Fi"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23356",
+        "room_desc": "Scientific Measurement In Medi"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23357",
+        "room_desc": "Scientific Use of Computers"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23358",
+        "room_desc": "Space Sci I: Stars & Norml Gal"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23359",
+        "room_desc": "Space Sci II: Universe & Strng"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23360",
+        "room_desc": "Space23361: PHYS,\"Space23362: PHYS,\"Special Topics in Physics"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23363",
+        "room_desc": "Tech Physics 1"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "23364",
+        "room_desc": "Thermodynamics"
+    },
+    {
+        "school": "QCC01",
+        "major": "PHYS",
+        "room_num": "87854",
+        "room_desc": "PHYS"
+    }
+]

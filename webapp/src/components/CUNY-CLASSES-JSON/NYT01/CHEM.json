@@ -1,0 +1,392 @@
+[
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65659",
+        "room_desc": "32  Ooo"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65660",
+        "room_desc": "Adv Org Chem-Tchrs"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65661",
+        "room_desc": "Advanced Organic Chemistry"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65662",
+        "room_desc": "Analytical Chemistry"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65663",
+        "room_desc": "Applied Polymer Chemistry"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65664",
+        "room_desc": "Biochem I-Teachers"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65665",
+        "room_desc": "Biochem II-Teachers"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65666",
+        "room_desc": "Biochemistry I"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65667",
+        "room_desc": "Biochemistry II"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65668",
+        "room_desc": "Chem For Today II lab"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65669",
+        "room_desc": "Chem Grad Blanket Credit"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65670",
+        "room_desc": "Chem Grad Credit"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65671",
+        "room_desc": "Chem Ind Study"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65672",
+        "room_desc": "Chem Principls I Lab"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65673",
+        "room_desc": "Chem Princpls II Lab"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65674",
+        "room_desc": "Chem for Today I Lab"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65675",
+        "room_desc": "Chemical Analysis"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65676",
+        "room_desc": "Chemical Systems"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65677",
+        "room_desc": "Chemistry 100 -Level Elective"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65678",
+        "room_desc": "Chemistry 200-Level Elective"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65679",
+        "room_desc": "Chemistry 300-Level Elective"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65680",
+        "room_desc": "Chemistry 400-Level Elective"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65681",
+        "room_desc": "Chemistry Grad Blanket Credit"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65682",
+        "room_desc": "Chemistry Ind Study"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65683",
+        "room_desc": "Chemistry Independent Study"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65684",
+        "room_desc": "Chemistry Internship"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65685",
+        "room_desc": "Chemistry for Teachers"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65686",
+        "room_desc": "Chemistry for Today I"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65687",
+        "room_desc": "Chemistry for Today II"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65688",
+        "room_desc": "Chemistry in a Nutshell"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65689",
+        "room_desc": "Chm Lab Intro"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65690",
+        "room_desc": "Computational Physics"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65691",
+        "room_desc": "Elect Micro&Xray Mcr"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65692",
+        "room_desc": "Exp Methods in Physical Chem"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65693",
+        "room_desc": "Experimental Biochemistry"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65694",
+        "room_desc": "Gen Chemistry II Lab"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65695",
+        "room_desc": "General Chemistry I"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65696",
+        "room_desc": "General Chemistry I Laboratory"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65697",
+        "room_desc": "General Chemistry II"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65698",
+        "room_desc": "Hosp Internship I"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65699",
+        "room_desc": "Hosp Internship II"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65700",
+        "room_desc": "Independent Study for Research"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65701",
+        "room_desc": "Inorganic Chemistry"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65702",
+        "room_desc": "Intro Research Chem"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65703",
+        "room_desc": "Introduction to Chemistry"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65704",
+        "room_desc": "Modeling in CHM and BioCHM"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65705",
+        "room_desc": "Modeling in Chm and Biochm"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65706",
+        "room_desc": "Organc Chm I-Tchrs"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65707",
+        "room_desc": "Organic Chemistry I"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65708",
+        "room_desc": "Organic Chemistry II"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65709",
+        "room_desc": "Orgnc Chm II-Tchrs"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65710",
+        "room_desc": "Phys Chem I-Tchers"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65711",
+        "room_desc": "Phys Chm Ii-Tchers"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65712",
+        "room_desc": "Physical Chemistry: Equilibria"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65713",
+        "room_desc": "Physical Chemistry: Processes"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65714",
+        "room_desc": "Polymer Chem Semnr"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65715",
+        "room_desc": "Polymer Chemistry"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65716",
+        "room_desc": "Polymer Chemistry Topics"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65717",
+        "room_desc": "Principles of Chemistry I"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65718",
+        "room_desc": "Principles of Chemistry II"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65719",
+        "room_desc": "Quantum Chemistry"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65720",
+        "room_desc": "Reaction Processes"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65721",
+        "room_desc": "Research"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "65722",
+        "room_desc": "Spectroscopy"
+    },
+    {
+        "school": "NYT01",
+        "major": "CHEM",
+        "room_num": "87142",
+        "room_desc": "CHEM"
+    }
+]

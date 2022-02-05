@@ -1,0 +1,26 @@
+[
+    {
+        "school": "LEH01",
+        "major": "FROR",
+        "room_num": "12628",
+        "room_desc": "Freshman Colloquium"
+    },
+    {
+        "school": "LEH01",
+        "major": "FROR",
+        "room_num": "12629",
+        "room_desc": "Freshman Seminar"
+    },
+    {
+        "school": "LEH01",
+        "major": "FROR",
+        "room_num": "12630",
+        "room_desc": "Intergrtd Lan Skills"
+    },
+    {
+        "school": "LEH01",
+        "major": "FROR",
+        "room_num": "88159",
+        "room_desc": "FROR"
+    }
+]

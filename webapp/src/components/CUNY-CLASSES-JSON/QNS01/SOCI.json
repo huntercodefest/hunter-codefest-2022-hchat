@@ -1,0 +1,878 @@
+[
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30470",
+        "room_desc": "App Soc Res Markt"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30471",
+        "room_desc": "Applied Sociology"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30472",
+        "room_desc": "Applied Statistical Analysis"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30473",
+        "room_desc": "Blacks in American Society"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30474",
+        "room_desc": "Blk Amer Society"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30475",
+        "room_desc": "Co-Op Ed Fld Plac"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30476",
+        "room_desc": "Collective Behavior"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30477",
+        "room_desc": "Comm & Culture"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30478",
+        "room_desc": "Comp Meth In Soc Sci"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30479",
+        "room_desc": "Complex Organizations"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30480",
+        "room_desc": "Crime & Delinquency"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30481",
+        "room_desc": "Crime and Juvenile Delinquency"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30482",
+        "room_desc": "Criminal Justice"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30483",
+        "room_desc": "Criminology"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30484",
+        "room_desc": "Criminology/Crm Just"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30485",
+        "room_desc": "Dev Countries/La Amr"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30486",
+        "room_desc": "Deviance"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30487",
+        "room_desc": "Deviance and Social Pathology"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30488",
+        "room_desc": "Drugs And Alcoh"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30489",
+        "room_desc": "Ethnic and Racial Relations"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30490",
+        "room_desc": "Ethnography"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30491",
+        "room_desc": "Family As Soc Inst"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30492",
+        "room_desc": "Field Work"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30493",
+        "room_desc": "Found Soc Theory"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30494",
+        "room_desc": "Friendship"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30495",
+        "room_desc": "Gen Intro To Soc"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30496",
+        "room_desc": "Globalization: Soc & Geo Pers"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30497",
+        "room_desc": "Group Beh"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30498",
+        "room_desc": "Honors-Indep Study"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30499",
+        "room_desc": "Human Sexuality"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30500",
+        "room_desc": "Industrial Sociology"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30501",
+        "room_desc": "Inter Behavior/Group Process"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30502",
+        "room_desc": "Intergroup Rel"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30503",
+        "room_desc": "Intergroup Relations"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30504",
+        "room_desc": "Intr To Soc Psych"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30505",
+        "room_desc": "Intro Delinq Crim"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30506",
+        "room_desc": "Intro Social Statistics"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30507",
+        "room_desc": "Intro Sociology"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30508",
+        "room_desc": "Intro Statistics"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30509",
+        "room_desc": "Intro To Soc"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30510",
+        "room_desc": "Intro To Soc Psy"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30511",
+        "room_desc": "Intro To Social Work Methods"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30512",
+        "room_desc": "Mass Comm & Pop Cul"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30513",
+        "room_desc": "Medical Sociology."
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30514",
+        "room_desc": "Modern Israel"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30515",
+        "room_desc": "Modern Israel: Soc Aspects"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30516",
+        "room_desc": "Organizatinl Soc"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30517",
+        "room_desc": "Organizations"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30518",
+        "room_desc": "Orthodox Jews in America"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30519",
+        "room_desc": "Plstn-Isrli Confl"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30520",
+        "room_desc": "Political Sociology"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30521",
+        "room_desc": "Population Problems"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30522",
+        "room_desc": "Post Human Society"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30523",
+        "room_desc": "Pract Acad Advise Soc Major"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30524",
+        "room_desc": "Prob In Mass Comm"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30525",
+        "room_desc": "Profess Writ & Com"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30526",
+        "room_desc": "Racial Cult Rel"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30527",
+        "room_desc": "Research Methods"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30528",
+        "room_desc": "S S Res Usng Comp"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30529",
+        "room_desc": "Sel Top: Demography"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30530",
+        "room_desc": "Selected Topics in Sociology"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30531",
+        "room_desc": "Senior Seminars"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30532",
+        "room_desc": "Sex & Gender in Comp Pers"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30533",
+        "room_desc": "Soc Asp Of Relign"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30534",
+        "room_desc": "Soc Aspects Religion"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30535",
+        "room_desc": "Soc Chge Latam/Carib"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30536",
+        "room_desc": "Soc Class Am Society"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30537",
+        "room_desc": "Soc Devel Countries"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30538",
+        "room_desc": "Soc Geography Contemp Cultures"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30539",
+        "room_desc": "Soc Human Sexulty"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30540",
+        "room_desc": "Soc Of Alc & Drugs"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30541",
+        "room_desc": "Soc Of Children"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30542",
+        "room_desc": "Soc Of Death & Dying"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30543",
+        "room_desc": "Soc Of Drugs"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30544",
+        "room_desc": "Soc Of Human Sexuality"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30545",
+        "room_desc": "Soc Of Law"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30546",
+        "room_desc": "Soc Of Sixties"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30547",
+        "room_desc": "Soc Research Meth"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30548",
+        "room_desc": "Soc Statistics 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30549",
+        "room_desc": "Soc Struct In Us"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30550",
+        "room_desc": "Soc Theory"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30551",
+        "room_desc": "Soc War & Peace"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30552",
+        "room_desc": "Soc Welf As Inst"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30553",
+        "room_desc": "Soc Women Africa"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30554",
+        "room_desc": "Soc Work Practicm"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30555",
+        "room_desc": "Soc of Amer Sport"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30556",
+        "room_desc": "Soc of Friendship"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30557",
+        "room_desc": "Soc of Org: Gov\u2019t &Non-Profits"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30558",
+        "room_desc": "Soc of Ply & Leis"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30559",
+        "room_desc": "Soc of Sex Roles"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30560",
+        "room_desc": "Social Change"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30561",
+        "room_desc": "Social Change in Africa"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30562",
+        "room_desc": "Social Chnge/Movemnt"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30563",
+        "room_desc": "Social Ecology"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30564",
+        "room_desc": "Social Pathology."
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30565",
+        "room_desc": "Social Problems"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30566",
+        "room_desc": "Social Psychology"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30567",
+        "room_desc": "Social Statistics"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30568",
+        "room_desc": "Social Stratification"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30569",
+        "room_desc": "Social Welfare"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30570",
+        "room_desc": "Sociological Analysis"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30571",
+        "room_desc": "Sociology"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30572",
+        "room_desc": "Sociology of American Life"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30573",
+        "room_desc": "Sociology of Asian Americans"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30574",
+        "room_desc": "Sociology of Cinema"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30575",
+        "room_desc": "Sociology of Death and Dying"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30576",
+        "room_desc": "Sociology of Drugs"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30577",
+        "room_desc": "Sociology of Education"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30578",
+        "room_desc": "Sociology of Friendship"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30579",
+        "room_desc": "Sociology of Gambling"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30580",
+        "room_desc": "Sociology of Health & Illness"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30581",
+        "room_desc": "Sociology of Human Sexuality"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30582",
+        "room_desc": "Sociology of Knowledge"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30583",
+        "room_desc": "Sociology of Law"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30584",
+        "room_desc": "Sociology of Medicine"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30585",
+        "room_desc": "Sociology of Politics"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30586",
+        "room_desc": "Sociology of Religion"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30587",
+        "room_desc": "Sociology of Women"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30588",
+        "room_desc": "Special Problems"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30589",
+        "room_desc": "Statistics"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30590",
+        "room_desc": "Studies In Pop Culture"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30591",
+        "room_desc": "Studies in Social Psychology."
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30592",
+        "room_desc": "Studies in Urban Sociology."
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30593",
+        "room_desc": "Survey Rsch Mthd"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30594",
+        "room_desc": "Survy Rsch Method"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30595",
+        "room_desc": "The American Jewish Community"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30596",
+        "room_desc": "The Black Family"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30597",
+        "room_desc": "The Family"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30598",
+        "room_desc": "The Modern Urban Community"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30599",
+        "room_desc": "The Research Process."
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30600",
+        "room_desc": "Ub16.9 Soc Welfin"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30601",
+        "room_desc": "Ub208 Soc Statis"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30602",
+        "room_desc": "Ub30.8 Soc Statis"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30603",
+        "room_desc": "Ub308 Intro Stat"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30604",
+        "room_desc": "Ub31.4 Soc Stat 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30605",
+        "room_desc": "Ub7.9 Immigration"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30606",
+        "room_desc": "VT: Soc Of Film"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30607",
+        "room_desc": "VT: Special Problems"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30608",
+        "room_desc": "Var Meth In Soc Sci"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30609",
+        "room_desc": "Vt:  Senior Seminar"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30610",
+        "room_desc": "Vt:Sociology Select Countries"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30611",
+        "room_desc": "Vt:Sp Topics Soc"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30612",
+        "room_desc": "Women and Work"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30613",
+        "room_desc": "Work30614: SOCI,\"Writing Workshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "30615",
+        "room_desc": "Writing for Sociology"
+    },
+    {
+        "school": "QNS01",
+        "major": "SOCI",
+        "room_num": "87432",
+        "room_desc": "SOCI"
+    }
+]

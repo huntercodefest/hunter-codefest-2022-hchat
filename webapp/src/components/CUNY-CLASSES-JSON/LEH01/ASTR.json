@@ -1,0 +1,68 @@
+[
+    {
+        "school": "LEH01",
+        "major": "ASTR",
+        "room_num": "11119",
+        "room_desc": "Astronomy of Solar Systems"
+    },
+    {
+        "school": "LEH01",
+        "major": "ASTR",
+        "room_num": "11120",
+        "room_desc": "Astronomy of Stellar Systems"
+    },
+    {
+        "school": "LEH01",
+        "major": "ASTR",
+        "room_num": "11121",
+        "room_desc": "Astronomy of the Solar System"
+    },
+    {
+        "school": "LEH01",
+        "major": "ASTR",
+        "room_num": "11122",
+        "room_desc": "Astrophysics"
+    },
+    {
+        "school": "LEH01",
+        "major": "ASTR",
+        "room_num": "11123",
+        "room_desc": "General Astronomy I"
+    },
+    {
+        "school": "LEH01",
+        "major": "ASTR",
+        "room_num": "11124",
+        "room_desc": "General Astronomy II"
+    },
+    {
+        "school": "LEH01",
+        "major": "ASTR",
+        "room_num": "11125",
+        "room_desc": "Introduction to Astronomy"
+    },
+    {
+        "school": "LEH01",
+        "major": "ASTR",
+        "room_num": "11126",
+        "room_desc": "Introduction to the Universe"
+    },
+    {
+        "school": "LEH01",
+        "major": "ASTR",
+        "room_num": "11127",
+        "room_desc": "Solar Astronomy"
+    },
+    {
+        "school": "LEH01",
+        "major": "ASTR",
+        "room_num": "11128",
+        "room_desc": "Stellar Astronomy"
+    },
+    {
+        "school": "LEH01",
+        "major": "ASTR",
+        "room_num": "88145",
+        "room_desc": "ASTR"
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67084",
+        "room_desc": "Anthropology Of Women"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67085",
+        "room_desc": "Birth and Death"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67086",
+        "room_desc": "Community Workshop"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67087",
+        "room_desc": "Cont Issues Hum Sexu"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67088",
+        "room_desc": "Food67089: GWSS,\"Gender & Sexu in China & Japan"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67090",
+        "room_desc": "Gender And The Negot Of Differ"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67091",
+        "room_desc": "Gender Based Activism Internsh"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67092",
+        "room_desc": "Gender Contemporary World"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67093",
+        "room_desc": "Gender and Sexuality"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67094",
+        "room_desc": "Gender in the Francophone Wrld"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67095",
+        "room_desc": "Gndr67096: GWSS,\"Histories of Sexuality iModWrl"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67097",
+        "room_desc": "History of American Women"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67098",
+        "room_desc": "Intro Women67099: GWSS,\"Intro Women\u2019s History"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67100",
+        "room_desc": "Major Women Author I"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67101",
+        "room_desc": "Major Women Author II"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67102",
+        "room_desc": "Major Women Author III"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67103",
+        "room_desc": "Mentoring & Adolescent Dev"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67104",
+        "room_desc": "Mythology of Women"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67105",
+        "room_desc": "Non-Sexist Education"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67106",
+        "room_desc": "Psychology of Women"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67107",
+        "room_desc": "Queer Studies"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67108",
+        "room_desc": "Research Problems in Feminism"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67109",
+        "room_desc": "Sex Roles and the Law"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67110",
+        "room_desc": "Sex and Society"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67111",
+        "room_desc": "Sociology of Men"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67112",
+        "room_desc": "Sociology of Women"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67113",
+        "room_desc": "The Recovery of Women\u2019s Past"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67114",
+        "room_desc": "Themes Amer Womn Hst"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67115",
+        "room_desc": "WMN Gender Internship Study"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67116",
+        "room_desc": "Wmn in Eur Lit after Renaiss"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67117",
+        "room_desc": "Wmn in Euro Lit to Renaissance"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67118",
+        "room_desc": "Wmn67119: GWSS,\"Wmn\u2019s Gender67120: GWSS,\"Woman as Hero"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67121",
+        "room_desc": "Women European Literature"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67122",
+        "room_desc": "Women Gender Indep Study"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67123",
+        "room_desc": "Women In Lit/Arts"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67124",
+        "room_desc": "Women Novelists"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67125",
+        "room_desc": "Women Writing Intro"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67126",
+        "room_desc": "Women and Film"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67127",
+        "room_desc": "Women and Literature"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67128",
+        "room_desc": "Women and Work"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67129",
+        "room_desc": "Women and the Economy"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67130",
+        "room_desc": "Women and the Fine Arts"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67131",
+        "room_desc": "Women as Creative Persons"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67132",
+        "room_desc": "Women in Latin America"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67133",
+        "room_desc": "Women in Performance"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67134",
+        "room_desc": "Women&Gender Independent Study"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67135",
+        "room_desc": "Women67136: GWSS,\"Women/Gender Independent Study"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67137",
+        "room_desc": "Women\u2019s Hist & Feminist Theory"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "67138",
+        "room_desc": "Women\u2019s Written Expression"
+    },
+    {
+        "school": "NYT01",
+        "major": "GWSS",
+        "room_num": "87244",
+        "room_desc": "GWSS"
+    }
+]

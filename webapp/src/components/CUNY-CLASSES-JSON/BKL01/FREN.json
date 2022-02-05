@@ -1,0 +1,878 @@
+[
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73360",
+        "room_desc": "17 C Fren Theater"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73361",
+        "room_desc": "17 Cent Literature"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73362",
+        "room_desc": "18 Cent Literature"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73363",
+        "room_desc": "19 Cent Literature"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73364",
+        "room_desc": "20 Cent Literature"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73365",
+        "room_desc": "Adv Lang Skills 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73366",
+        "room_desc": "Adv Lang Skills I"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73367",
+        "room_desc": "Advanced Language Skills I"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73368",
+        "room_desc": "Advanced Language Skills II"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73369",
+        "room_desc": "Analys Lit Masterp"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73370",
+        "room_desc": "Autobio.Lit In Fren"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73371",
+        "room_desc": "Autobiographical Literature"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73372",
+        "room_desc": "Basic Conversation Workshop"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73373",
+        "room_desc": "Basic Language Skills I"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73374",
+        "room_desc": "Basic Language Skills II"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73375",
+        "room_desc": "Basic Language Skills III"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73376",
+        "room_desc": "Basic Writing/Reading Heritage"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73377",
+        "room_desc": "Beginners 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73378",
+        "room_desc": "Contemp Francophone"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73379",
+        "room_desc": "Contemp French Lit"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73380",
+        "room_desc": "Contemporary France"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73381",
+        "room_desc": "Conversation"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73382",
+        "room_desc": "Culture of France"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73383",
+        "room_desc": "Early 17th Cent Lit"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73384",
+        "room_desc": "Evol Poetic Forms"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73385",
+        "room_desc": "Evolution of Poetic Forms"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73386",
+        "room_desc": "Exp Fr Cult Thr Film"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73387",
+        "room_desc": "Expfr@Frph Cult Pres"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73388",
+        "room_desc": "Explicat Fr Lit Work"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73389",
+        "room_desc": "Explicating Fren Literary Work"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73390",
+        "room_desc": "Explore French Cult Thru Film"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73391",
+        "room_desc": "Exploring French&Francophone"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73392",
+        "room_desc": "Fieldwork"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73393",
+        "room_desc": "Fr & Francophone Lit"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73394",
+        "room_desc": "Francophone Cultures"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73395",
+        "room_desc": "Francophone Essay"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73396",
+        "room_desc": "Francophone Literary Movements"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73397",
+        "room_desc": "Francophone Novel"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73398",
+        "room_desc": "Francophone Poetry"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73399",
+        "room_desc": "Francophone Sh Fict"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73400",
+        "room_desc": "Francophone Theater"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73401",
+        "room_desc": "Frcphone Lit Move&Tr"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73402",
+        "room_desc": "Fren 49"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73403",
+        "room_desc": "Fren Lit And Art"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73404",
+        "room_desc": "Fren Literary Movement &Trend"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73405",
+        "room_desc": "Fren Poetry Baudelaire-Present"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73406",
+        "room_desc": "French &Francophone Literature"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73407",
+        "room_desc": "French Literature Middle Ages"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73408",
+        "room_desc": "French Literature and Film"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73409",
+        "room_desc": "French Short Fiction"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73410",
+        "room_desc": "French for Business"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73411",
+        "room_desc": "French for Criminal Justice"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73412",
+        "room_desc": "French for Social Sciences"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73413",
+        "room_desc": "French for Social Work"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73414",
+        "room_desc": "French for the Arts"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73415",
+        "room_desc": "French for the Media"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73416",
+        "room_desc": "Fundamentals Rdg/Wtg"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73417",
+        "room_desc": "Fundamentals Reading/Writing"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73418",
+        "room_desc": "Grammar and Syntax"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73419",
+        "room_desc": "His Francophone Cult"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73420",
+        "room_desc": "Hist & Soc Vsions French Lits"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73421",
+        "room_desc": "Hist And Soc Visions"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73422",
+        "room_desc": "History of Francophone Culture"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73423",
+        "room_desc": "History of French Civilization"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73424",
+        "room_desc": "History of the French Language"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73425",
+        "room_desc": "Int Writ/Read Skills"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73426",
+        "room_desc": "Integrated Language Skills"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73427",
+        "room_desc": "Intensive Elementary French I"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73428",
+        "room_desc": "Intensive Elementary French II"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73429",
+        "room_desc": "Inter Lang Skills"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73430",
+        "room_desc": "Inter Writing/Reading Heritage"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73431",
+        "room_desc": "Intro Lit Research"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73432",
+        "room_desc": "Intro Romance Ling"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73433",
+        "room_desc": "Intro to Literary Research"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73434",
+        "room_desc": "Language and Technology"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73435",
+        "room_desc": "Lit Fr Middle Ages"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73436",
+        "room_desc": "Lit Movements&Trends"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73437",
+        "room_desc": "Literary Translation"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73438",
+        "room_desc": "Literatures And Arts"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73439",
+        "room_desc": "Literatures and the Arts"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73440",
+        "room_desc": "Maj Francophone Auth"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73441",
+        "room_desc": "Modern Fren Theatr"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73442",
+        "room_desc": "Modern Technology"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73443",
+        "room_desc": "Mora &Religious Theme Fren Lit"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73444",
+        "room_desc": "Moral/Rel Themes Lit"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73445",
+        "room_desc": "Peer Tutoring 11"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73446",
+        "room_desc": "Peer Tutoring I"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73447",
+        "room_desc": "Poet Baudelai-Pres"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73448",
+        "room_desc": "Regional Variations"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73449",
+        "room_desc": "Seminar"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73450",
+        "room_desc": "Seminar and Senior Thesis"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73451",
+        "room_desc": "Seminar in Literature"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73452",
+        "room_desc": "Sp Topics Minicourse"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73453",
+        "room_desc": "Speak & Writing"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73454",
+        "room_desc": "Special Topic"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73455",
+        "room_desc": "Special Topics"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73456",
+        "room_desc": "Special Topics Francophone Lit"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73457",
+        "room_desc": "Special Topics in Minicourse"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73458",
+        "room_desc": "Stdy Hist Fr Ideas"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73459",
+        "room_desc": "Stu Fre Romanticism"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73460",
+        "room_desc": "Studies 17 Century Literature"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73461",
+        "room_desc": "Studies 18 Century Literature"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73462",
+        "room_desc": "Studies 19 Century Literature"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73463",
+        "room_desc": "Studies 20 Century Literature"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73464",
+        "room_desc": "Studies Contemporary Fren Lit"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73465",
+        "room_desc": "Studies Renais Lit"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73466",
+        "room_desc": "Studies Renaissance Literature"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73467",
+        "room_desc": "Style&Comp In Fren"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73468",
+        "room_desc": "Survey Of Lit"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73469",
+        "room_desc": "Tchg Lang Communictn"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73470",
+        "room_desc": "The Contemp Francophone World"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73471",
+        "room_desc": "Thematc Read FrancophonePoetry"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73472",
+        "room_desc": "ThematcRead FrancophoneFiction"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73473",
+        "room_desc": "Thematic Rdgs Poetry"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73474",
+        "room_desc": "Thematic Read Essay"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73475",
+        "room_desc": "Thematic Read Novel"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73476",
+        "room_desc": "Thematic Read Theat"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73477",
+        "room_desc": "Thematic Reading French Poetry"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73478",
+        "room_desc": "Thematic Reading FrenchTheater"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73479",
+        "room_desc": "Thematic Readings Fren Fiction"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73480",
+        "room_desc": "Thematic Readings French Essay"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73481",
+        "room_desc": "Thematic Readings French Novel"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73482",
+        "room_desc": "ThematicRead Francophone Essay"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73483",
+        "room_desc": "ThematicRead Francophone Novel"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73484",
+        "room_desc": "ThematicRead FrancophoneTheatr"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73485",
+        "room_desc": "Thesis Research"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73486",
+        "room_desc": "Tranlation Practicum"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73487",
+        "room_desc": "Translation"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73488",
+        "room_desc": "Translation For Prof"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73489",
+        "room_desc": "Translation Practicum"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73490",
+        "room_desc": "Translation for the Profession"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73491",
+        "room_desc": "Tutorial Lit & Cult"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73492",
+        "room_desc": "Tutorial Literature & Culture"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73493",
+        "room_desc": "Understanding Texts in French"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73494",
+        "room_desc": "Women in French Literature"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73495",
+        "room_desc": "Writ Frncphne Author"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73496",
+        "room_desc": "Writ Major Fr Author"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73497",
+        "room_desc": "Writ/Read Heritage"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73498",
+        "room_desc": "Writgs Major Authors"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73499",
+        "room_desc": "Writing Maj Francophone Author"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73500",
+        "room_desc": "Writing and Stylistics"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73501",
+        "room_desc": "Writing of Major French Author"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73502",
+        "room_desc": "Writings Francophone Author"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73503",
+        "room_desc": "Writings of Major Fren Authors"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "73504",
+        "room_desc": "Wrtg Resch & Resorce"
+    },
+    {
+        "school": "BKL01",
+        "major": "FREN",
+        "room_num": "87004",
+        "room_desc": "FREN"
+    }
+]

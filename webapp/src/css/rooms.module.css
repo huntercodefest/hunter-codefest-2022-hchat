@@ -20,6 +20,7 @@
 }
 .search p {
 	margin: auto;
+	flex-shrink: 2;
 }
 .desc {
 	display: flex;
@@ -53,13 +54,13 @@
 	overflow: auto;
 }
 
-.roomsContainer:first-child {
+/* .roomsContainer:first-child {
 	margin-top: 0px;
 }
 
 .roomsContainer:last-child {
 	margin-bottom: 3px;
-}
+} */
 
 .roomButton {
 	margin-top: 3px;
@@ -73,6 +74,11 @@
 	cursor: pointer;
 	font-size: 11px;
 	text-align: left;
+	order: 999;
+}
+
+.displayorder {
+	order: 1;
 }
 
 .roomButton:hover,
@@ -89,5 +95,13 @@
 	width: 25px;
 	cursor: pointer;
 	/* filter: invert(100%) sepia(0%) saturate(6199%) hue-rotate(113deg)
-		brightness(131%) contrast(92%); */
+		brightness(131%) contrast(92%);  (white filter) */
+}
+
+.grayoutsvg{
+	filter: invert(51%) sepia(2%) saturate(0%) hue-rotate(16deg) brightness(99%) contrast(87%);
+}
+
+.displaynone{
+	display: none;
 }

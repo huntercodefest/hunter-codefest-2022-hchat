@@ -1,0 +1,650 @@
+[
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17962",
+        "room_desc": "19th Cent Amer Lit"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17963",
+        "room_desc": "Acting I"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17964",
+        "room_desc": "Acting Ii"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17965",
+        "room_desc": "Advanced Composition"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17966",
+        "room_desc": "Amer Lit: Reconstruction-Pres"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17967",
+        "room_desc": "American Lit: Colonial - Civil"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17968",
+        "room_desc": "American Novel"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17969",
+        "room_desc": "Asian American Literature"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17970",
+        "room_desc": "Autobiography"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17971",
+        "room_desc": "British Lit: Medieval - 18 Cen"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17972",
+        "room_desc": "British Lit: Romantic - 20 Cen"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17973",
+        "room_desc": "CUNY Start Writing"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17974",
+        "room_desc": "Children\u2019s Literature"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17975",
+        "room_desc": "Children\u2019s Literature (Honors)"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17976",
+        "room_desc": "Class Greek Theatre"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17977",
+        "room_desc": "College Focus Reading & Writin"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17978",
+        "room_desc": "Comics and Graphic Narrative"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17979",
+        "room_desc": "Community Dramatics"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17980",
+        "room_desc": "Contemporary Urban Writers"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17981",
+        "room_desc": "Creative Writing"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17982",
+        "room_desc": "Creative Writing Foundations"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17983",
+        "room_desc": "Creative Writing Workshop"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17984",
+        "room_desc": "Discussion and Debate"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17985",
+        "room_desc": "Drama & Comp"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17986",
+        "room_desc": "ENG Directed Study"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17987",
+        "room_desc": "Eng As 2nd Language"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17988",
+        "room_desc": "Eng As A 2nd Lang"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17989",
+        "room_desc": "Eng As A 2nd Lang 2"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17990",
+        "room_desc": "Eng Com & Intr To Lit (Honors)"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17991",
+        "room_desc": "Eng Comp & Intro to Literature"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17992",
+        "room_desc": "Eng Comp I & II"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17993",
+        "room_desc": "Eng Comp Workshop"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17994",
+        "room_desc": "Eng Directed Study"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17995",
+        "room_desc": "English As 2nd Lang"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17996",
+        "room_desc": "English Comp I"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17997",
+        "room_desc": "English Comp II"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17998",
+        "room_desc": "English Composition"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "17999",
+        "room_desc": "English Directed Study"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18000",
+        "room_desc": "English I"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18001",
+        "room_desc": "English II"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18002",
+        "room_desc": "English Lit I"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18003",
+        "room_desc": "English Lit II"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18004",
+        "room_desc": "English Literature I"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18005",
+        "room_desc": "English Literature II"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18006",
+        "room_desc": "English as a Second Language"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18007",
+        "room_desc": "Environmental Lit. and Film"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18008",
+        "room_desc": "Fic Dra Poet & Comp"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18009",
+        "room_desc": "Fiction & Comp"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18010",
+        "room_desc": "Fiction Writing"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18011",
+        "room_desc": "Fiction into Film"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18012",
+        "room_desc": "Film"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18013",
+        "room_desc": "Fund Of Speech"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18014",
+        "room_desc": "Fundamentals of Journalism"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18015",
+        "room_desc": "Int Writg Workshop"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18016",
+        "room_desc": "Intensive College Composition"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18017",
+        "room_desc": "Intensive English Composition"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18018",
+        "room_desc": "Intensive Writing"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18019",
+        "room_desc": "Intensive Writing - Cd Wksp"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18020",
+        "room_desc": "Intensive Writing MR Tutorial"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18021",
+        "room_desc": "Intensive Writing Tutorial"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18022",
+        "room_desc": "Intensive Writing Workshop"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18023",
+        "room_desc": "Intensive Writing-CD Workshop"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18024",
+        "room_desc": "Intro To Comp & Lit"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18025",
+        "room_desc": "Intro To Drama"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18026",
+        "room_desc": "Intro To Literary Studies"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18027",
+        "room_desc": "Intro to Literature (Honors)"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18028",
+        "room_desc": "Introduction to Drama"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18029",
+        "room_desc": "Introduction to Literature"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18030",
+        "room_desc": "Introduction to Shakespeare"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18031",
+        "room_desc": "Italian American Literature"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18032",
+        "room_desc": "Jewish Literature"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18033",
+        "room_desc": "Journalism I"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18034",
+        "room_desc": "Journalism: Feature Writing"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18035",
+        "room_desc": "Journalism: News Writing"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18036",
+        "room_desc": "Latino/a Literature in U.S."
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18037",
+        "room_desc": "Middle Eastern Literature"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18038",
+        "room_desc": "Mod American Dram"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18039",
+        "room_desc": "Mod American Drama"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18040",
+        "room_desc": "Modern American Drama"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18041",
+        "room_desc": "Modern European Novel"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18042",
+        "room_desc": "Modern Poetry"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18043",
+        "room_desc": "Native American/Indigenous Lit"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18044",
+        "room_desc": "Oral Interpretation"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18045",
+        "room_desc": "Playwriting"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18046",
+        "room_desc": "Poetry Writing"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18047",
+        "room_desc": "Poetry and Composition"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18048",
+        "room_desc": "Postcolonial Literature"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18049",
+        "room_desc": "Public Speaking"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18050",
+        "room_desc": "Queer Literature"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18051",
+        "room_desc": "Science Fiction"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18052",
+        "room_desc": "Speech"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18053",
+        "room_desc": "Speech I"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18054",
+        "room_desc": "Speech Workshop"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18055",
+        "room_desc": "Survey of Judak Literature"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18056",
+        "room_desc": "The American Novel"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18057",
+        "room_desc": "The Art of the Detective Story"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18058",
+        "room_desc": "The Short Story"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18059",
+        "room_desc": "Theater Of Confront"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18060",
+        "room_desc": "Theatre History"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18061",
+        "room_desc": "Theatre and Society"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18062",
+        "room_desc": "Topics in Literature"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18063",
+        "room_desc": "Women Am & Eng Lit"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18064",
+        "room_desc": "Women in Literature"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18065",
+        "room_desc": "World Lit Antiquity to Modern"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18066",
+        "room_desc": "World Lit Early Modern to Pres"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18067",
+        "room_desc": "World Lit I"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "18068",
+        "room_desc": "World Lit Ii"
+    },
+    {
+        "school": "BMC01",
+        "major": "ENGL",
+        "room_num": "86787",
+        "room_desc": "ENGL"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "school": "GRD01",
+        "major": "EDHE",
+        "room_num": "4095",
+        "room_desc": "Biostatistics Health Research"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDHE",
+        "room_num": "4096",
+        "room_desc": "Family Health"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDHE",
+        "room_num": "4097",
+        "room_desc": "First Aid & Safety Education"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDHE",
+        "room_num": "4098",
+        "room_desc": "Health Services"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDHE",
+        "room_num": "88432",
+        "room_desc": "EDHE"
+    }
+]

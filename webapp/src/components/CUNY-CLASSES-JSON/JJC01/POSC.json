@@ -1,0 +1,776 @@
+[
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21283",
+        "room_desc": "Amer Government"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21284",
+        "room_desc": "American Pol.Thought"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21285",
+        "room_desc": "American Political Philosophy"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21286",
+        "room_desc": "An Economic Analysis of Crime"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21287",
+        "room_desc": "Budgeting"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21288",
+        "room_desc": "CUNY Washington DC Internship"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21289",
+        "room_desc": "Capstone Sem in Police Prbms"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21290",
+        "room_desc": "Chg Lndscp Terrorism"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21291",
+        "room_desc": "Chinese Americans in Policing"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21292",
+        "room_desc": "Cj In Eastern Europe"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21293",
+        "room_desc": "Colloq Crimnl Lit"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21294",
+        "room_desc": "Community Policing"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21295",
+        "room_desc": "Comp Crm Jus Sysm"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21296",
+        "room_desc": "Compar Urban Political Syst"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21297",
+        "room_desc": "Comparative Police Systems"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21298",
+        "room_desc": "Comparative Politics"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21299",
+        "room_desc": "Constit Rights/Lib"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21300",
+        "room_desc": "Constitutional Powers"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21301",
+        "room_desc": "Crime Analysis Using GIS"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21302",
+        "room_desc": "Crime Mapping"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21303",
+        "room_desc": "Crj Data Analysis"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21304",
+        "room_desc": "East Euro Org Crime"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21305",
+        "room_desc": "Evid-based/Prob-Orien Policing"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21306",
+        "room_desc": "Fac Mentored Research Experien"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21307",
+        "room_desc": "Facul Mentor Rsrch Exp Pol Sci"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21308",
+        "room_desc": "Fieldwork/Internship"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21309",
+        "room_desc": "Finance Crimes Invst"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21310",
+        "room_desc": "Gender and Law"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21311",
+        "room_desc": "Gender and Politics"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21312",
+        "room_desc": "Gov & Pol Mid East"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21313",
+        "room_desc": "Honors Tutorial"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21314",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21315",
+        "room_desc": "Independent Study 200-level"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21316",
+        "room_desc": "Independent Study 300-level"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21317",
+        "room_desc": "Independent Study 400-level"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21318",
+        "room_desc": "Intelligence& Police"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21319",
+        "room_desc": "Interdisc Pol"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21320",
+        "room_desc": "Interdisc Psc"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21321",
+        "room_desc": "International Human Rights"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21322",
+        "room_desc": "International Law and Justice"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21323",
+        "room_desc": "International Organizations"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21324",
+        "room_desc": "International Relations"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21325",
+        "room_desc": "International Security"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21326",
+        "room_desc": "Internatl Police Cooperation"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21327",
+        "room_desc": "Intro Research Polit"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21328",
+        "room_desc": "Intro State Gov & Politics"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21329",
+        "room_desc": "Intro: Criminal Investigations"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21330",
+        "room_desc": "Introduction to Police Studies"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21331",
+        "room_desc": "Introduction to Public Policy"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21332",
+        "room_desc": "Introduction to Urban Politics"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21333",
+        "room_desc": "Invesg Sex Crimes"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21334",
+        "room_desc": "Judicl Proc/Politics"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21335",
+        "room_desc": "Justice In Workplace"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21336",
+        "room_desc": "Law & Poli Race Relations"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21337",
+        "room_desc": "Law & Politics of Immigration"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21338",
+        "room_desc": "Law Order Jus Soc"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21339",
+        "room_desc": "Law/Pol LGBTQ Rights"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21340",
+        "room_desc": "Leadership For Police"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21341",
+        "room_desc": "Media & Politics"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21342",
+        "room_desc": "Money Pol Mgr"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21343",
+        "room_desc": "NYS Legislature Internship"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21344",
+        "room_desc": "News Media & Just"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21345",
+        "room_desc": "Organized Crime in America"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21346",
+        "room_desc": "Personnel Admin"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21347",
+        "room_desc": "Plan for Police Op & Mgmt"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21348",
+        "room_desc": "Pol Prty Int Gps Soc"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21349",
+        "room_desc": "Pol Theory Crj"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21350",
+        "room_desc": "Police & Media"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21351",
+        "room_desc": "Police Administrn"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21352",
+        "room_desc": "Police And The Media"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21353",
+        "room_desc": "Police Crime Mapping"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21354",
+        "room_desc": "Police Dev & Account"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21355",
+        "room_desc": "Police Ethics"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21356",
+        "room_desc": "Police History"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21357",
+        "room_desc": "Police Labor Relations"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21358",
+        "room_desc": "Police Mgmt & Admin in the US"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21359",
+        "room_desc": "Police Sci Tr Cred"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21360",
+        "room_desc": "Police Sci Training Prgrm"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21361",
+        "room_desc": "Police Training Programs"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21362",
+        "room_desc": "Police Use of Force"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21363",
+        "room_desc": "Police Work with Juveniles"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21364",
+        "room_desc": "Police and Diversity"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21365",
+        "room_desc": "Police-Community"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21366",
+        "room_desc": "Political Philosophy"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21367",
+        "room_desc": "Political Science Internship"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21368",
+        "room_desc": "Political Sociology"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21369",
+        "room_desc": "Politics of Global Inequality"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21370",
+        "room_desc": "Prin Const Govt"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21371",
+        "room_desc": "Psy of Policework"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21372",
+        "room_desc": "Research In Govt"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21373",
+        "room_desc": "Research Methods in Policing"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21374",
+        "room_desc": "Selected Topics in Government"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21375",
+        "room_desc": "Selected Topics in Justice"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21376",
+        "room_desc": "Selected Topics in Police Sci"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21377",
+        "room_desc": "Selected Topics in Policing"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21378",
+        "room_desc": "Selected Topics in Polit Sci"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21379",
+        "room_desc": "Sem & Internship Nyc Govt"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21380",
+        "room_desc": "Sem American & Urban Politics"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21381",
+        "room_desc": "Sem Civ Rghts&Lib"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21382",
+        "room_desc": "Sem Nyc Politics"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21383",
+        "room_desc": "Sem&Intrnship Nyc I"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21384",
+        "room_desc": "Sem: Judicial Process/Politics"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21385",
+        "room_desc": "Seminar & Internship in NYC II"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21386",
+        "room_desc": "Seminar In Governmnt"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21387",
+        "room_desc": "Seminar on Terrorism"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21388",
+        "room_desc": "Sen Semi Intl Rel & Comp Poli"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21389",
+        "room_desc": "Sex Offenders in Crim Just Sys"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21390",
+        "room_desc": "Special Topics"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21391",
+        "room_desc": "Sr Sem Law Cts Polit"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21392",
+        "room_desc": "State Con Law & Politics"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21393",
+        "room_desc": "Stress Mgmt Law Enf"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21394",
+        "room_desc": "Sup Research Exp"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21395",
+        "room_desc": "Sup Research Exp II"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21396",
+        "room_desc": "Super/Lead Plce Serv"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21397",
+        "room_desc": "Surv Conc Opr Res"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21398",
+        "room_desc": "Survey of Criminalistics"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21399",
+        "room_desc": "Terrorism and Politics"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21400",
+        "room_desc": "The American Presidency"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21401",
+        "room_desc": "The Patrol Function"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21402",
+        "room_desc": "The Police Manager"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21403",
+        "room_desc": "The Politics of Rights"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21404",
+        "room_desc": "The Traffic Control Function"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21405",
+        "room_desc": "Transnational Crime"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21406",
+        "room_desc": "U.S. Congress"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21407",
+        "room_desc": "Us For Plcy Latin Am"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21408",
+        "room_desc": "Voting & Public Opinion"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21409",
+        "room_desc": "Western Political Thought"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "21410",
+        "room_desc": "Women in Policing"
+    },
+    {
+        "school": "JJC01",
+        "major": "POSC",
+        "room_num": "87099",
+        "room_desc": "POSC"
+    }
+]

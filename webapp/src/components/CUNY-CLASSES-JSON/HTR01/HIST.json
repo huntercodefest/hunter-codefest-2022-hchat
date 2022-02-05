@@ -1,0 +1,3836 @@
+[
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52471",
+        "room_desc": "18 & 19 C Am Soc Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52472",
+        "room_desc": "18 &19 Cent Amer Soc Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52473",
+        "room_desc": "18&19 C Am Soc Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52474",
+        "room_desc": "19 C US Social Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52475",
+        "room_desc": "19 Century East Asia"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52476",
+        "room_desc": "19 Cntry US Soc Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52477",
+        "room_desc": "19C Amer Civic Life"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52478",
+        "room_desc": "19C Amer Reform Mvmt"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52479",
+        "room_desc": "19th Century U.S."
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52480",
+        "room_desc": "19th and 20th Century Europe"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52481",
+        "room_desc": "20 C Europe"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52482",
+        "room_desc": "20 Cent East Asia"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52483",
+        "room_desc": "20C Lat Amer Revs"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52484",
+        "room_desc": "20C Latin Amer Rev"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52485",
+        "room_desc": "20th Cent US - War & Society"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52486",
+        "room_desc": "20th Century China"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52487",
+        "room_desc": "20th Century France and Empire"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52488",
+        "room_desc": "20th Century India"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52489",
+        "room_desc": "20th Century United States"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52490",
+        "room_desc": "20th Century World History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52491",
+        "room_desc": "20th-Century United States"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52492",
+        "room_desc": "Af & Lt Am Compara Std"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52493",
+        "room_desc": "Af-Am His:Rce/Rfrm"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52494",
+        "room_desc": "Afr Amer Exp to 1865"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52495",
+        "room_desc": "Afr-Amer Hist in  US"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52496",
+        "room_desc": "Afr-Lat Am (Honors)"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52497",
+        "room_desc": "Africa - 19th & 20th Centuries"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52498",
+        "room_desc": "African American History 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52499",
+        "room_desc": "African American History 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52500",
+        "room_desc": "Africn Inf in Amer"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52501",
+        "room_desc": "Afro-Am Hi Snce 1865"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52502",
+        "room_desc": "Afro-Am Hi:Coln-Pres"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52503",
+        "room_desc": "Age European Explore & Discvr"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52504",
+        "room_desc": "Age of Crusades"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52505",
+        "room_desc": "Age of Rev in Eur"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52506",
+        "room_desc": "Am Colonies in 17C"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52507",
+        "room_desc": "Am Colonies in 18C"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52508",
+        "room_desc": "Am Slavry thru Film"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52509",
+        "room_desc": "Am Wrk Cl:1870-1980"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52510",
+        "room_desc": "Amer & World 20th C"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52511",
+        "room_desc": "Amer Autobiog-Hnrs"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52512",
+        "room_desc": "Amer Autobiography"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52513",
+        "room_desc": "Amer Biog & Autobiog"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52514",
+        "room_desc": "Amer Biographies"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52515",
+        "room_desc": "Amer Constit Hist 1783-1900"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52516",
+        "room_desc": "Amer Immigrant Exper"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52517",
+        "room_desc": "Amer War/Vietnam War"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52518",
+        "room_desc": "Amer Work Class Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52519",
+        "room_desc": "America & World in 20th Cent"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52520",
+        "room_desc": "America & World in XX Century"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52521",
+        "room_desc": "America & World-20C"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52522",
+        "room_desc": "America in the 20C"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52523",
+        "room_desc": "American Biography"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52524",
+        "room_desc": "American Colonies to 1821"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52525",
+        "room_desc": "American Cultural History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52526",
+        "room_desc": "American Econ Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52527",
+        "room_desc": "American Economic History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52528",
+        "room_desc": "American Founders"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52529",
+        "room_desc": "American Indian History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52530",
+        "room_desc": "American Jewish History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52531",
+        "room_desc": "American Pltcl Hist Since 1945"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52532",
+        "room_desc": "Anc & Imper China:1800"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52533",
+        "room_desc": "Ancient & Mediev Christianity"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52534",
+        "room_desc": "Ancient Civilization"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52535",
+        "room_desc": "Ancient Jewish Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52536",
+        "room_desc": "Andean Region Since 1800"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52537",
+        "room_desc": "Asp 20C Amer Thought"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52538",
+        "room_desc": "Asp World Hist-1500"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52539",
+        "room_desc": "Aspects of Wrld Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52540",
+        "room_desc": "Aubio & Rec-Ear Md Eur"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52541",
+        "room_desc": "Batls/Sldrs-Civl War"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52542",
+        "room_desc": "Berlin: Capital 20th Century"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52543",
+        "room_desc": "Bio & Autobio Md Ag/Rn"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52544",
+        "room_desc": "Bio & Autobio in Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52545",
+        "room_desc": "Bio & Autobio-US Hst"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52546",
+        "room_desc": "Bio&Autobo Lt Vic En"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52547",
+        "room_desc": "Biography/Int Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52548",
+        "room_desc": "Black Masculinity XX Cent U.S."
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52549",
+        "room_desc": "Black Women\u2019s History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52550",
+        "room_desc": "Brazil & Africa-Hnrs"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52551",
+        "room_desc": "Brazil and Africa"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52552",
+        "room_desc": "Britain Since 1689"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52553",
+        "room_desc": "Britain:1867-1914"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52554",
+        "room_desc": "Britain\u2019s Long 18C"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52555",
+        "room_desc": "Carib Hist 1900-Pres"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52556",
+        "room_desc": "Caribbean Diaspora in Britain"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52557",
+        "room_desc": "Caribbean Jewish History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52558",
+        "room_desc": "China Since 1800"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52559",
+        "room_desc": "China Since 1911"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52560",
+        "room_desc": "Chng Rl Wmn Chna Jap"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52561",
+        "room_desc": "Chrch-High Mid Ages"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52562",
+        "room_desc": "Chrch/State in Polnd"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52563",
+        "room_desc": "Christianity in Modern Times"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52564",
+        "room_desc": "Chrstnty to Reform"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52565",
+        "room_desc": "Churchill\u2019s Britain"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52566",
+        "room_desc": "City in Ear Mod Eur"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52567",
+        "room_desc": "Civ Rts52568: HIST,\"Civ Rts52569: HIST,\"Civil War and Reconstruction"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52570",
+        "room_desc": "Cntrl Am. in 20 Cen."
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52571",
+        "room_desc": "Col Era - Civ War"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52572",
+        "room_desc": "Cold War U.S."
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52573",
+        "room_desc": "Cold War in Mediterranean"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52574",
+        "room_desc": "Cold War: Global History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52575",
+        "room_desc": "Coll in Lat Am Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52576",
+        "room_desc": "Colloquium in African History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52577",
+        "room_desc": "Colloquium in American History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52578",
+        "room_desc": "Colloquium in Ancient History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52579",
+        "room_desc": "Colloquium in British History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52580",
+        "room_desc": "Colloquium in European History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52581",
+        "room_desc": "Colloquium in Medieval History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52582",
+        "room_desc": "Colon Amer 1600-1700"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52583",
+        "room_desc": "Colonial America"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52584",
+        "room_desc": "Colonial Latin Amer"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52585",
+        "room_desc": "Commsm & End Cold War"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52586",
+        "room_desc": "Comparative Nationalism"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52587",
+        "room_desc": "Con Res-Afr & Lat Amer"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52588",
+        "room_desc": "Concepts in Jew Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52589",
+        "room_desc": "Congr of Vienna-WWI"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52590",
+        "room_desc": "Consmr Rev:1600-1800"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52591",
+        "room_desc": "Const Hist Medvl Eng"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52592",
+        "room_desc": "Consumer Revolution: 1600-1800"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52593",
+        "room_desc": "Cont Iss Hist Persp"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52594",
+        "room_desc": "Contemporary Europe"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52595",
+        "room_desc": "Copernican Revolution"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52596",
+        "room_desc": "Crises Mod Jew Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52597",
+        "room_desc": "Cult & Pwr in Cold War America"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52598",
+        "room_desc": "Cult Confr-Wrld Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52599",
+        "room_desc": "Cult Hist Mod Italy"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52600",
+        "room_desc": "Cult52601: HIST,\"Cult.Gendr & Emp-Eng"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52602",
+        "room_desc": "Culture & Gender:US Rel Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52603",
+        "room_desc": "Culture52604: HIST,\"Death52605: HIST,\"Decl52606: HIST,\"Dem Devlp-Afr & Lat Am"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52607",
+        "room_desc": "Desp/Dem- Frnch Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52608",
+        "room_desc": "Dictrshps - Mod Eur Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52609",
+        "room_desc": "Disease and Epidemics"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52610",
+        "room_desc": "Diversity in American History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52611",
+        "room_desc": "Drug Trafficing in:Americas"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52612",
+        "room_desc": "Ear Md Eur 1500-1815"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52613",
+        "room_desc": "Early American History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52614",
+        "room_desc": "Early British History to 1689"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52615",
+        "room_desc": "Early History of Latin America"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52616",
+        "room_desc": "Early Middle Ages"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52617",
+        "room_desc": "Early Modern Spain"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52618",
+        "room_desc": "Early Sci in Western Society"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52619",
+        "room_desc": "East Asia 1600 to Present"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52620",
+        "room_desc": "East Asia to 1600"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52621",
+        "room_desc": "East Asia52622: HIST,\"Eastern Europe Since 1800"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52623",
+        "room_desc": "Ec-Soc His Eur 1500-1750"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52624",
+        "room_desc": "Ec-Soc His Eurib-20C"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52625",
+        "room_desc": "Ed-Hlth Care-Ref-US"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52626",
+        "room_desc": "Energy52627: HIST,\"Eng Colonies in Amer"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52628",
+        "room_desc": "Eng Const-Mod Tmes"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52629",
+        "room_desc": "Eng in 18C (Honors)"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52630",
+        "room_desc": "Eng in 18th Century"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52631",
+        "room_desc": "Eng under Tudors&Strts"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52632",
+        "room_desc": "Eng-Age of Am & Fr Rev"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52633",
+        "room_desc": "Eng-Age of Am&Fr Rev"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52634",
+        "room_desc": "Eng-Am&Fr Rev (Hons)"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52635",
+        "room_desc": "England - 17 Century"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52636",
+        "room_desc": "England from Pitt to Gladstone"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52637",
+        "room_desc": "English in 17th Century"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52638",
+        "room_desc": "Environ&Soc Chng-US"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52639",
+        "room_desc": "Era of American Revolution"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52640",
+        "room_desc": "Eu Intl Hs:1500-1650"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52641",
+        "room_desc": "Eur Cities in 19th C"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52642",
+        "room_desc": "Eur Cult  1500-1815"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52643",
+        "room_desc": "Eur Cult 1500-1815"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52644",
+        "room_desc": "Eur Dip Hi 1815-1914"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52645",
+        "room_desc": "Eur Dip Hi 1914-1945"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52646",
+        "room_desc": "Eur Diplmcy in 20C"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52647",
+        "room_desc": "Eur Explor & Dscvr-Hnr"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52648",
+        "room_desc": "Eur in Early Mid Age"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52649",
+        "room_desc": "Eur-Age Absoltsm&Rev"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52650",
+        "room_desc": "Eur: Age of Extremes 1918-1945"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52651",
+        "room_desc": "Eur:Age Ren&Reform"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52652",
+        "room_desc": "Eur:Midages-Con Vna"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52653",
+        "room_desc": "Europe 1815-1914"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52654",
+        "room_desc": "Europe Age Total War 1900-1963"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52655",
+        "room_desc": "Europe Since 1914"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52656",
+        "room_desc": "Europe in the High Middle Ages"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52657",
+        "room_desc": "Europe in the Late Middle Ages"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52658",
+        "room_desc": "European Culture 16-18th Cent"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52659",
+        "room_desc": "Everyday Pleasures"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52660",
+        "room_desc": "Fam & Hsehld in Anthp"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52661",
+        "room_desc": "Fam & Hsehld: Anth & Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52662",
+        "room_desc": "Fifteenth Century"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52663",
+        "room_desc": "Found\u2019n of U.S. Const"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52664",
+        "room_desc": "Fr Wom: Rev/Reach - 19 Cent"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52665",
+        "room_desc": "Framing of the Const"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52666",
+        "room_desc": "France to Revolution"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52667",
+        "room_desc": "Free Speech in the U.S"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52668",
+        "room_desc": "Free Speech&National Secrty US"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52669",
+        "room_desc": "French Rev & Nap"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52670",
+        "room_desc": "French Womn-19 Cntry"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52671",
+        "room_desc": "Frnch Rev-Then & Now"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52672",
+        "room_desc": "Frnch Womn 1789-1914"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52673",
+        "room_desc": "From Frontier to City"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52674",
+        "room_desc": "Gandhi: Power52675: HIST,\"Gay/Lesbian American History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52676",
+        "room_desc": "Gender & Sexuality-20C US"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52677",
+        "room_desc": "Gender in Modern Jewish Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52678",
+        "room_desc": "Gender52679: HIST,\"Georgian and Victorian England"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52680",
+        "room_desc": "Germany - 1919 - 1945"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52681",
+        "room_desc": "Germany and Europe"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52682",
+        "room_desc": "Germany-Third Reich"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52683",
+        "room_desc": "Gilded Age&Prog Era"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52684",
+        "room_desc": "Global Cold War"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52685",
+        "room_desc": "Global Hist.Internet"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52686",
+        "room_desc": "Global Histories of Sex"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52687",
+        "room_desc": "Global LGBT History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52688",
+        "room_desc": "Great Ideas-West Civ"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52689",
+        "room_desc": "Greek & Roman Women"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52690",
+        "room_desc": "Greek History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52691",
+        "room_desc": "Growth of the American City"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52692",
+        "room_desc": "Health and Society"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52693",
+        "room_desc": "Hellenistic Age"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52694",
+        "room_desc": "Hi Chldhd in US Hnrs"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52695",
+        "room_desc": "Hi-South Since 1865"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52696",
+        "room_desc": "His US-Lat Am Rlat"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52697",
+        "room_desc": "His of Lat Am 19-20C"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52698",
+        "room_desc": "Hist  US-Lat Amer Relations"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52699",
+        "room_desc": "Hist 17C Britain"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52700",
+        "room_desc": "Hist Afr Amer in US"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52701",
+        "room_desc": "Hist Am Work Class"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52702",
+        "room_desc": "Hist Amer Educ"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52703",
+        "room_desc": "Hist Asn Amer in US"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52704",
+        "room_desc": "Hist Christnty in US"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52705",
+        "room_desc": "Hist Christny in U.S"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52706",
+        "room_desc": "Hist Chrstnty in U.S"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52707",
+        "room_desc": "Hist Chstnty-1000 Yrs"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52708",
+        "room_desc": "Hist Compar Slavy"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52709",
+        "room_desc": "Hist Dissent in US"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52710",
+        "room_desc": "Hist Educ in US Hnrs"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52711",
+        "room_desc": "Hist Family in U.S."
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52712",
+        "room_desc": "Hist Middle East: 1500-Present"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52713",
+        "room_desc": "Hist Mod South Asia"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52714",
+        "room_desc": "Hist Ottoman Empir"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52715",
+        "room_desc": "Hist Prob: Imp China"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52716",
+        "room_desc": "Hist Probl of 20th Cent China"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52717",
+        "room_desc": "Hist Restora&Mus Wrk"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52718",
+        "room_desc": "Hist Std Sem: Gandhi"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52719",
+        "room_desc": "Hist of 20C Germany"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52720",
+        "room_desc": "Hist of Afr 19 & 20 C"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52721",
+        "room_desc": "Hist of Afr to 1800"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52722",
+        "room_desc": "Hist of African Amer in US"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52723",
+        "room_desc": "Hist of Amer Women"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52724",
+        "room_desc": "Hist of Americ Women"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52725",
+        "room_desc": "Hist of Anti-Semitism"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52726",
+        "room_desc": "Hist of Arab-Israeli Relations"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52727",
+        "room_desc": "Hist of Central Amer"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52728",
+        "room_desc": "Hist of Christnty-US"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52729",
+        "room_desc": "Hist of Educ in U.S."
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52730",
+        "room_desc": "Hist of Habsburg Emp"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52731",
+        "room_desc": "Hist of Hum Aid to sub-Africa"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52732",
+        "room_desc": "Hist of Med to 1650"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52733",
+        "room_desc": "Hist of New York Cty"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52734",
+        "room_desc": "Hist of Ottoman Emp"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52735",
+        "room_desc": "Hist of Poland"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52736",
+        "room_desc": "Hist of Religion US"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52737",
+        "room_desc": "Hist of Sports in US-Coln-Pres"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52738",
+        "room_desc": "Hist of US West"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52739",
+        "room_desc": "Hist of the Amer Revolution"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52740",
+        "room_desc": "Hist-Am Labor Mvmnt"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52741",
+        "room_desc": "Hist-Ancnt Near East"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52742",
+        "room_desc": "Hist-Work in America"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52743",
+        "room_desc": "Hist/Mem-Make Am Cul"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52744",
+        "room_desc": "Historical Methods"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52745",
+        "room_desc": "Historical Research"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52746",
+        "room_desc": "Historical Research Honors"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52747",
+        "room_desc": "History & Memory"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52748",
+        "room_desc": "History Childhood in U.S"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52749",
+        "room_desc": "History Childhood in US"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52750",
+        "room_desc": "History Jews in Spain"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52751",
+        "room_desc": "History NY Met 1865-1945"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52752",
+        "room_desc": "History Practicum"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52753",
+        "room_desc": "History and Memory"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52754",
+        "room_desc": "History of Africa-19th Century"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52755",
+        "room_desc": "History of American Diplomacy"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52756",
+        "room_desc": "History of Brazil"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52757",
+        "room_desc": "History of Canada"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52758",
+        "room_desc": "History of Central America"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52759",
+        "room_desc": "History of Central Asia"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52760",
+        "room_desc": "History of Cuba"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52761",
+        "room_desc": "History of European Diplomacy"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52762",
+        "room_desc": "History of Family in America"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52763",
+        "room_desc": "History of Greece"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52764",
+        "room_desc": "History of Italy"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52765",
+        "room_desc": "History of Japan to 180"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52766",
+        "room_desc": "History of Jewish Music"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52767",
+        "room_desc": "History of Jewish Mysticism"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52768",
+        "room_desc": "History of Judaism"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52769",
+        "room_desc": "History of Mexico"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52770",
+        "room_desc": "History of Modern France"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52771",
+        "room_desc": "History of Modern West Africa"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52772",
+        "room_desc": "History of Near & Middle East2"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52773",
+        "room_desc": "History of New York City"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52774",
+        "room_desc": "History of President Elections"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52775",
+        "room_desc": "History of Religion in U.S."
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52776",
+        "room_desc": "History of Rome"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52777",
+        "room_desc": "History of South Asia"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52778",
+        "room_desc": "History of Spain"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52779",
+        "room_desc": "History of US West-Honors"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52780",
+        "room_desc": "History of WWII52781: HIST,\"History of the American City"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52782",
+        "room_desc": "History of the Holocaust"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52783",
+        "room_desc": "History of the Jews"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52784",
+        "room_desc": "History of the Ottoman Empire"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52785",
+        "room_desc": "Hitler\u2019s Germany"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52786",
+        "room_desc": "Hitlr & Nat So 1919-45"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52787",
+        "room_desc": "Hlth & Dis-Eur(Honors)"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52788",
+        "room_desc": "Hlth&Dises-Er Md Eur"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52789",
+        "room_desc": "Hlth52790: HIST,\"Honors Sem Hist Stud"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52791",
+        "room_desc": "Hst 20C East/Cen Eur"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52792",
+        "room_desc": "Hst Col-1st Yr Stdts"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52793",
+        "room_desc": "Hum Rt & Bas Need-Amer"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52794",
+        "room_desc": "Hum Rt & Dev Afr Lt Am"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52795",
+        "room_desc": "Hum Rt+Dv Af/Lat Am"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52796",
+        "room_desc": "Hum Rts & Humtrn Intrv"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52797",
+        "room_desc": "Human Resolution& Basic Needs"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52798",
+        "room_desc": "Human Rights-Nonwest Wrld"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52799",
+        "room_desc": "Humanrts/Bas Needs A"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52800",
+        "room_desc": "Humn Rts & Non-West"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52801",
+        "room_desc": "Ideas in America"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52802",
+        "room_desc": "Immgrnt Exp in Amer"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52803",
+        "room_desc": "Immigr & Ethncty in US"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52804",
+        "room_desc": "Immigra & Ethnicity"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52805",
+        "room_desc": "Immigrant Women-NYC"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52806",
+        "room_desc": "Indig Mvts-Lat Am History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52807",
+        "room_desc": "Indiv Tutorial Research Proj"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52808",
+        "room_desc": "Individual Tutorial Research"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52809",
+        "room_desc": "Indust Rev:Engy & Tech"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52810",
+        "room_desc": "Indust Rev:Engy&Tech"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52811",
+        "room_desc": "Int His Eur 14th-16th Century"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52812",
+        "room_desc": "Int His Eur 16 &17C"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52813",
+        "room_desc": "Int His Eur 17-19C"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52814",
+        "room_desc": "Intel/Espionage - 20th Century"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52815",
+        "room_desc": "Intel/Pol-Lt Mod Eur"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52816",
+        "room_desc": "Intell Hist Europe Middle Ages"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52817",
+        "room_desc": "Intellect & Pol in Late Europe"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52818",
+        "room_desc": "International History Sexualty"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52819",
+        "room_desc": "Internationalism"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52820",
+        "room_desc": "Internship"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52821",
+        "room_desc": "Interp of Indust Rev"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52822",
+        "room_desc": "Intl Mig:Make New NY"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52823",
+        "room_desc": "Intr:Carib Hist 1900"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52824",
+        "room_desc": "Intro to Legal Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52825",
+        "room_desc": "Intro to U.S. Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52826",
+        "room_desc": "Introduction to LGBT"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52827",
+        "room_desc": "Introduction to Legal History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52828",
+        "room_desc": "Issues-Environ Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52829",
+        "room_desc": "Italian Renaissance"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52830",
+        "room_desc": "Italy -Risorgimento to Fascism"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52831",
+        "room_desc": "Japan Since 1800"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52832",
+        "room_desc": "Japan Since 1945"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52833",
+        "room_desc": "Japan to 1800"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52834",
+        "room_desc": "Japanese in the U.S."
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52835",
+        "room_desc": "Jerualem in the 20th Century"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52836",
+        "room_desc": "Jerusalem in the 20th Century"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52837",
+        "room_desc": "Jewish His-Mod Wld"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52838",
+        "room_desc": "Jewish Hist-Anc Wrld"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52839",
+        "room_desc": "Kennedys 1940-95"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52840",
+        "room_desc": "Key Turning Pts in Af Am Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52841",
+        "room_desc": "LGBT History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52842",
+        "room_desc": "LGBT Living in Global 20 Cent"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52843",
+        "room_desc": "Labor & Migration US Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52844",
+        "room_desc": "Lat Am-Precolum/Coln"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52845",
+        "room_desc": "Lat Am: 19 & 20 C."
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52846",
+        "room_desc": "Lat Amer in 20 Cent"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52847",
+        "room_desc": "Lat An 20C (Honors)"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52848",
+        "room_desc": "Late Imper Russ&USSR"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52849",
+        "room_desc": "Late Imperial China"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52850",
+        "room_desc": "Later Middle Ages"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52851",
+        "room_desc": "Latin Amer in 19th C"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52852",
+        "room_desc": "Law & American Society"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52853",
+        "room_desc": "Law in Western Soc"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52854",
+        "room_desc": "Law in Western Society"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52855",
+        "room_desc": "Legal & Soc History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52856",
+        "room_desc": "Leisr/Pleasr - US History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52857",
+        "room_desc": "Lit Am His:Explr Div"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52858",
+        "room_desc": "Long 19C-Compar Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52859",
+        "room_desc": "Lvg & Dyng Rn Eur(Hnr)"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52860",
+        "room_desc": "Lvng&Dyng in Ren Eur"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52861",
+        "room_desc": "Maj Iss 20-21C Afric"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52862",
+        "room_desc": "Maj Iss Envron Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52863",
+        "room_desc": "Maj Wrk&Thms-Eur His"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52864",
+        "room_desc": "Maj Wrk&Thms-US Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52865",
+        "room_desc": "Make Nation 19C Eur"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52866",
+        "room_desc": "Mapping Jewish NY"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52867",
+        "room_desc": "Md Eu His-Fact/Fict"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52868",
+        "room_desc": "Md Eur:Vsn-Apch-Meth"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52869",
+        "room_desc": "Md&Erly Md Jew His"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52870",
+        "room_desc": "Mdvl&Refrm Chrst\u2019Nty"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52871",
+        "room_desc": "Med & Disease in US"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52872",
+        "room_desc": "Med&Ear Mod Jew Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52873",
+        "room_desc": "Medcn&Soc 1300-1600"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52874",
+        "room_desc": "Medieval Civilization"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52875",
+        "room_desc": "Men52876: HIST,\"Mex Hist Since Independence"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52877",
+        "room_desc": "Mexico Since Indepnd"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52878",
+        "room_desc": "Mid East in 19th Cen"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52879",
+        "room_desc": "Mid East in Mod Time"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52880",
+        "room_desc": "Mid East to 1800"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52881",
+        "room_desc": "Middle East today"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52882",
+        "room_desc": "Mil Hist Fr Rev-WW 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52883",
+        "room_desc": "Mkt Rev/Creat New Ec"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52884",
+        "room_desc": "Mo Jewish Soc & Int Hi"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52885",
+        "room_desc": "Mod African Intel Hi"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52886",
+        "room_desc": "Mod Int Hist 18-20C"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52887",
+        "room_desc": "Mod La Am Pol & Soc Hi"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52888",
+        "room_desc": "Mod Mid East 1800-Pres"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52889",
+        "room_desc": "Modern Culture 18-20 Cen"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52890",
+        "room_desc": "Modern Imperialism"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52891",
+        "room_desc": "Modern Japan"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52892",
+        "room_desc": "Modern Mid-East: Arab-Israeli"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52893",
+        "room_desc": "Modern Middle East"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52894",
+        "room_desc": "Modrn & Nat in Asia"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52895",
+        "room_desc": "NY & Neighborhoods"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52896",
+        "room_desc": "NY Lives: Bio-Autobio"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52897",
+        "room_desc": "Nat & Natlsm in Glob Context"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52898",
+        "room_desc": "Nat Women in Amer History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52899",
+        "room_desc": "Nationalism Modern Europe"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52900",
+        "room_desc": "Nationalism in Asia"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52901",
+        "room_desc": "Native Amer & US to 1900"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52902",
+        "room_desc": "Native Amer Hist-US"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52903",
+        "room_desc": "Native American History in U.S"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52904",
+        "room_desc": "New Eur: Brkp/Cm Tghr"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52905",
+        "room_desc": "New York Neighborhoods"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52906",
+        "room_desc": "Oral His NY Women"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52907",
+        "room_desc": "Oral Hist & Doc Trad"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52908",
+        "room_desc": "Oral Hist: N Y Woman"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52909",
+        "room_desc": "Oral Hist:Fam NY\u2019ers"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52910",
+        "room_desc": "Oral Hist:NY Woman"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52911",
+        "room_desc": "Orth Church Rus Cult"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52912",
+        "room_desc": "People & Culture in North Amer"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52913",
+        "room_desc": "Persis Old Reg Md Eu"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52914",
+        "room_desc": "Philosophy of History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52915",
+        "room_desc": "Pol Hist 20 Cent US"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52916",
+        "room_desc": "Pol Hist-20 Cent US"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52917",
+        "room_desc": "Pol&Cult-20C Lat Am"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52918",
+        "room_desc": "Policing Sexuality 20C U.S."
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52919",
+        "room_desc": "Pop Rel in Med Europ"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52920",
+        "room_desc": "Premod Japn-1800"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52921",
+        "room_desc": "Prob & Prot-Urb Env Hi"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52922",
+        "room_desc": "Prob Environmt Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52923",
+        "room_desc": "Prob Envrn Hist-Hnrs"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52924",
+        "room_desc": "Prob Hist of India"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52925",
+        "room_desc": "Prob Mod Eur Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52926",
+        "room_desc": "Prob Nonwest His Hnr"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52927",
+        "room_desc": "Prob US Urban Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52928",
+        "room_desc": "Prob in Am Hist-Hnr"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52929",
+        "room_desc": "Prob in Non-Western History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52930",
+        "room_desc": "Prob-His Ott Em-Hons"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52931",
+        "room_desc": "Prob-Hist Ottoman Em"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52932",
+        "room_desc": "Prob/Prot US Urb"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52933",
+        "room_desc": "Problems Environmental History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52934",
+        "room_desc": "Problems in American Education"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52935",
+        "room_desc": "Problems in Environmental Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52936",
+        "room_desc": "Problems in European History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52937",
+        "room_desc": "Problems in History (Honors)"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52938",
+        "room_desc": "Problems in U.S. History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52939",
+        "room_desc": "Progrsvsm & New Deal"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52940",
+        "room_desc": "Rabbis52941: HIST,\"Race&Racism:U.S.Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52942",
+        "room_desc": "Race/Racism-U.S. Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52943",
+        "room_desc": "Rce52944: HIST,\"Realsm in Am. Thght"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52945",
+        "room_desc": "Rebel in Ear US Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52946",
+        "room_desc": "Recent American Hist:1968-2008"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52947",
+        "room_desc": "Reconsidering American History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52948",
+        "room_desc": "Reform & Wars of Rel"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52949",
+        "room_desc": "Reformation and Wars of Rel"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52950",
+        "room_desc": "Refrm & Counter-Refrm"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52951",
+        "room_desc": "Refrm Mvt-Mod Islam"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52952",
+        "room_desc": "Refugees & Making Modern World"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52953",
+        "room_desc": "Refugees & Making of Mod World"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52954",
+        "room_desc": "Rel & Pol in Lat Amer"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52955",
+        "room_desc": "Rel52956: HIST,\"Remem & Forget Postwar Europe"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52957",
+        "room_desc": "Ren Intellectual His"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52958",
+        "room_desc": "Representative Americans"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52959",
+        "room_desc": "Resrch Meth Ma Stdnt"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52960",
+        "room_desc": "Rev Englnd:1603-1714"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52961",
+        "room_desc": "Revol in Asia"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52962",
+        "room_desc": "Revolution England 1603-1714"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52963",
+        "room_desc": "Revolutionary New York City"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52964",
+        "room_desc": "Rfrm Mvts US 1815-65"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52965",
+        "room_desc": "Rise & Fall Chin Comm"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52966",
+        "room_desc": "Rise of Islam"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52967",
+        "room_desc": "Role of Women in Amer History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52968",
+        "room_desc": "Roman Empire"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52969",
+        "room_desc": "Roman History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52970",
+        "room_desc": "Rothschild Family"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52971",
+        "room_desc": "Russ Sov Intel Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52972",
+        "room_desc": "Russ-Eur Diplomacy"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52973",
+        "room_desc": "Russia & East Europe"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52974",
+        "room_desc": "Russia & Sov Union in XX Cent"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52975",
+        "room_desc": "Russia to 20 Cent"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52976",
+        "room_desc": "Russia to the 20th Century"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52977",
+        "room_desc": "Russia: Grt Reform"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52978",
+        "room_desc": "Russian-Jewish Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52979",
+        "room_desc": "Secular Judaism"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52980",
+        "room_desc": "Sem: Alexander the Great"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52981",
+        "room_desc": "Sem: Int Rel in 20 C"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52982",
+        "room_desc": "Sem:Tchg Col Lvl His"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52983",
+        "room_desc": "Seminar in Ancient History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52984",
+        "room_desc": "Seminar:Cleopatra"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52985",
+        "room_desc": "Seminars: European History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52986",
+        "room_desc": "Semnr: Enlightenment"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52987",
+        "room_desc": "Sexuality Today"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52988",
+        "room_desc": "Shaping of Modn Cuba"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52989",
+        "room_desc": "Signif Asp Eng Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52990",
+        "room_desc": "Sister Revolutions"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52991",
+        "room_desc": "Slavery in Comp Pers"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52992",
+        "room_desc": "Slavery in the U.S."
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52993",
+        "room_desc": "Soc & Eco Hi-19C Eur"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52994",
+        "room_desc": "Soc & Eco Hist Mod Eur"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52995",
+        "room_desc": "Soc & Eco Hist of Mod Europe"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52996",
+        "room_desc": "Soc His Eng:20 C"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52997",
+        "room_desc": "Soc Mvmts Lat Am His"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52998",
+        "room_desc": "Soc+Cult Tx Renaisnc"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "52999",
+        "room_desc": "South America in Modern World"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53000",
+        "room_desc": "Soviet Foreign Policy"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53001",
+        "room_desc": "Soviet Frgn Relation"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53002",
+        "room_desc": "Soviet Frn Policy"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53003",
+        "room_desc": "Spc Topics: Africa Great Lakes"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53004",
+        "room_desc": "Spc Tpcs: History and Theater"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53005",
+        "room_desc": "Spc Tpcs: Late Imperial China"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53006",
+        "room_desc": "Strugl for Equal- US"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53007",
+        "room_desc": "Stu Mvmts-19&20C Eur"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53008",
+        "room_desc": "Stu Mvts 19-20C Eur"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53009",
+        "room_desc": "Studies in Biography"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53010",
+        "room_desc": "Studies in Historical Writing"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53011",
+        "room_desc": "Study: Slav Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53012",
+        "room_desc": "Tech & Soc Chng - US"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53013",
+        "room_desc": "Tech&Chng - US"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53014",
+        "room_desc": "Tech&Soc Chng-US"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53015",
+        "room_desc": "Testimony of Holocaust"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53016",
+        "room_desc": "The 1920\u2019s"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53017",
+        "room_desc": "The 1920\u2019s in Am Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53018",
+        "room_desc": "The Age of the Crusades"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53019",
+        "room_desc": "The Balkans in the XX Century"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53020",
+        "room_desc": "The Cuban Revolution"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53021",
+        "room_desc": "The Dreyfus Affair"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53022",
+        "room_desc": "The Early Republic"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53023",
+        "room_desc": "The Holocaust: An Introduction"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53024",
+        "room_desc": "The Kennedy Family"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53025",
+        "room_desc": "The Roman Republic"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53026",
+        "room_desc": "The Vietnamese Rev"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53027",
+        "room_desc": "The Vietnamese Revol"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53028",
+        "room_desc": "The West in American History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53029",
+        "room_desc": "The World of the Bible"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53030",
+        "room_desc": "Thesis Seminar"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53031",
+        "room_desc": "Top in African Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53032",
+        "room_desc": "Top: Afro-Amer Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53033",
+        "room_desc": "Top: Hist of N.Y.C"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53034",
+        "room_desc": "Top:Era of Am. Revolution"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53035",
+        "room_desc": "Top:Mod Afr Int Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53036",
+        "room_desc": "Top:Natlism & Nation"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53037",
+        "room_desc": "Top:US Socty & Cultr"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53038",
+        "room_desc": "Topic: Afro-American History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53039",
+        "room_desc": "Topic:Non-West Hist."
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53040",
+        "room_desc": "Topics & Themes Non-US History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53041",
+        "room_desc": "Topics in Span Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53042",
+        "room_desc": "Topics in US Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53043",
+        "room_desc": "Topics: Europe Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53044",
+        "room_desc": "Tpcs: Art53045: HIST,\"Trad & Transf: Russ & East Eur"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53046",
+        "room_desc": "Tudor & Stuart Engl"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53047",
+        "room_desc": "Tudor England"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53048",
+        "room_desc": "U.S Constiution Hist 1877-Pres"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53049",
+        "room_desc": "U.S. Latino History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53050",
+        "room_desc": "U.S. Progrssive Era"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53051",
+        "room_desc": "U.S. Public History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53052",
+        "room_desc": "U.S. Since 1945"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53053",
+        "room_desc": "U.S. and China"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53054",
+        "room_desc": "U.S. and the Holocaust"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53055",
+        "room_desc": "U.S. from Civil War to Present"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53056",
+        "room_desc": "U.S.in Late 19 Cent"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53057",
+        "room_desc": "US & Mexico Beynd Brdr"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53058",
+        "room_desc": "US Afr Amer Hist: Black Powers"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53059",
+        "room_desc": "US Cap & Chng 19C"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53060",
+        "room_desc": "US Cap & Ind Cng 19C"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53061",
+        "room_desc": "US Civ War & Recon"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53062",
+        "room_desc": "US Col Hist to 1763"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53063",
+        "room_desc": "US Const Hist 1787-1877"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53064",
+        "room_desc": "US Gay and Lesbian History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53065",
+        "room_desc": "US Intel & Cult Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53066",
+        "room_desc": "US LGBT Hist & Amer Nar"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53067",
+        "room_desc": "US Mil Hist to 1877"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53068",
+        "room_desc": "US Social History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53069",
+        "room_desc": "US in Late 19 Cent"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53070",
+        "room_desc": "US in the 18th C"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53071",
+        "room_desc": "US in the 18th Cent"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53072",
+        "room_desc": "US since 1945"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53073",
+        "room_desc": "US-Latin American Relations"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53074",
+        "room_desc": "US-Progressive Era"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53075",
+        "room_desc": "US: 1890 - 1945"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53076",
+        "room_desc": "US: 1890 -1945"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53077",
+        "room_desc": "US: Civ Rghts & Civ Lib"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53078",
+        "room_desc": "US:Civ Rts/Civ Libty"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53079",
+        "room_desc": "US:Civ War & Reconstr"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53080",
+        "room_desc": "USA as a World Power"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53081",
+        "room_desc": "United States Since 1945"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53082",
+        "room_desc": "United States and China"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53083",
+        "room_desc": "United States in the 1920\u2019s"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53084",
+        "room_desc": "Var of Jewish Identity"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53085",
+        "room_desc": "Varieites of Jewish Natiolism"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53086",
+        "room_desc": "Victorns & Imprlsm"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53087",
+        "room_desc": "Vietnamese Rev.War"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53088",
+        "room_desc": "Viol in 20th Cent Europe"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53089",
+        "room_desc": "Viol/Natnlsm - Afr 19th Cent"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53090",
+        "room_desc": "Violence & Healing African His"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53091",
+        "room_desc": "War & Society in 20th C Amer"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53092",
+        "room_desc": "War and Intellectual"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53093",
+        "room_desc": "War53094: HIST,\"Western Eur: Two World Wars"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53095",
+        "room_desc": "Wmn\u2019s Lives  US Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53096",
+        "room_desc": "Wom in Late Vict Soc"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53097",
+        "room_desc": "Women & Family in U.S. History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53098",
+        "room_desc": "Women & French Revs"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53099",
+        "room_desc": "Women & Gender - Islam"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53100",
+        "room_desc": "Women & Gender in Islam"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53101",
+        "room_desc": "Women & Soc in Vic Eng"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53102",
+        "room_desc": "Women & the French Revolutions"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53103",
+        "room_desc": "Women in British History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53104",
+        "room_desc": "Women in Jewish Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53105",
+        "room_desc": "Women in Lat Amer History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53106",
+        "room_desc": "Women in Lt Vict Soc"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53107",
+        "room_desc": "Women in Mod Europe"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53108",
+        "room_desc": "Women in Modern Europe"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53109",
+        "room_desc": "Women-Modern Europe"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53110",
+        "room_desc": "Women: Pre-Mod Euro Society"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53111",
+        "room_desc": "Women\u2019s Education in the U.S."
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53112",
+        "room_desc": "Womn & Gender in Islam"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53113",
+        "room_desc": "Womn & Gndr-Islam:Hons"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53114",
+        "room_desc": "Womn in Lat Am Hist"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53115",
+        "room_desc": "Womn-Med Eur Soc & Rel"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53116",
+        "room_desc": "Womn-Med Eur Soc&Rel"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53117",
+        "room_desc": "World History to 1500"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53118",
+        "room_desc": "World History: 1500-Present"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53119",
+        "room_desc": "World of Marco Polo"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53120",
+        "room_desc": "Writ Womens Biog"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53121",
+        "room_desc": "Writing Ancient Past"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53122",
+        "room_desc": "Writing Women\u2019s Biography"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53123",
+        "room_desc": "Writing for History"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53124",
+        "room_desc": "Wrld At War:1914-50"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53125",
+        "room_desc": "Wrld of Marco Polo"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "53126",
+        "room_desc": "XX Cent U.S Gender & Sexuality"
+    },
+    {
+        "school": "HTR01",
+        "major": "HIST",
+        "room_num": "87636",
+        "room_desc": "HIST"
+    }
+]

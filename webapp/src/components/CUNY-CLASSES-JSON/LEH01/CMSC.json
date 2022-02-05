@@ -1,0 +1,404 @@
+[
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11474",
+        "room_desc": "Analysis of Algorithms"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11475",
+        "room_desc": "Artificial Intelligence"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11476",
+        "room_desc": "Automata Theory"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11477",
+        "room_desc": "Basic&Cmp Asstd Inst"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11478",
+        "room_desc": "Cmp Prog Inf Proc Ii"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11479",
+        "room_desc": "Combin & Graph Algorith"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11480",
+        "room_desc": "Communicating Robots"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11481",
+        "room_desc": "Comp Progrmng in Fortran"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11482",
+        "room_desc": "Comp.Organizationlab"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11483",
+        "room_desc": "Compiler Construction"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11484",
+        "room_desc": "Computability Theory"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11485",
+        "room_desc": "Computational Tools Bioinforma"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11486",
+        "room_desc": "Computer Graphics"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11487",
+        "room_desc": "Computer Organization"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11488",
+        "room_desc": "Computer Programming in C++"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11489",
+        "room_desc": "Computer Programming in Java"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11490",
+        "room_desc": "Computer Thinking for Educator"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11491",
+        "room_desc": "Cryptography"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11492",
+        "room_desc": "Data Struct & Algrms II"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11493",
+        "room_desc": "Data Struct & Algrthms I"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11494",
+        "room_desc": "Data Structures&Algorithms-Edu"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11495",
+        "room_desc": "Database Systems"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11496",
+        "room_desc": "E-commerce Technologies"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11497",
+        "room_desc": "Elem Disc Struc&Appl"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11498",
+        "room_desc": "Image Processing"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11499",
+        "room_desc": "Ind Study in Comp Science"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11500",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11501",
+        "room_desc": "Independent Study 3"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11502",
+        "room_desc": "Internet Programming"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11503",
+        "room_desc": "Internship in Computer Science"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11504",
+        "room_desc": "Intro Enterprise Cmp"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11505",
+        "room_desc": "Intro to Enterp Computing"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11506",
+        "room_desc": "Introduction to Networks"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11507",
+        "room_desc": "Linear Prg&Oper Res"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11508",
+        "room_desc": "Logo & Comp-Assisted Instruct"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11509",
+        "room_desc": "Master\u2019s Thesis Research"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11510",
+        "room_desc": "Mastrs Comprehensive"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11511",
+        "room_desc": "Mobile Programming"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11512",
+        "room_desc": "Modeling Cellular Networks"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11513",
+        "room_desc": "Network Systems Lab"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11514",
+        "room_desc": "Numerical Analysis"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11515",
+        "room_desc": "Numerical Methods"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11516",
+        "room_desc": "Object Oriented Techniques"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11517",
+        "room_desc": "Operating Systems"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11518",
+        "room_desc": "Parallel Algorithms&Architect"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11519",
+        "room_desc": "Princ-Commnctn Netwk"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11520",
+        "room_desc": "Prog.Non-Com.Sci Maj"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11521",
+        "room_desc": "Programming Languages"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11522",
+        "room_desc": "Programming Methods I"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11523",
+        "room_desc": "Programming Methods I for Educ"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11524",
+        "room_desc": "Programming Methods II"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11525",
+        "room_desc": "Programming Methods II for Edu"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11526",
+        "room_desc": "Programming in Pascal"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11527",
+        "room_desc": "Programming in Visual Basic"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11528",
+        "room_desc": "Programming through Web Dev."
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11529",
+        "room_desc": "Quantum Computer Science"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11530",
+        "room_desc": "Security of Networks"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11531",
+        "room_desc": "Simulation and Modeling"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11532",
+        "room_desc": "Software Engineering"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11533",
+        "room_desc": "Supvse Intrn Cmp Sci"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11534",
+        "room_desc": "Survey of Computer Hardware"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11535",
+        "room_desc": "System Programming Languages"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11536",
+        "room_desc": "Systems Analysis and Design"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11537",
+        "room_desc": "Topics in Computer Programming"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11538",
+        "room_desc": "Topics in Computer Science"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "11539",
+        "room_desc": "Video Game Programming"
+    },
+    {
+        "school": "LEH01",
+        "major": "CMSC",
+        "room_num": "88224",
+        "room_desc": "CMSC"
+    }
+]

@@ -1,0 +1,224 @@
+[
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51200",
+        "room_desc": "Appl Nutr Epi Pt 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51201",
+        "room_desc": "Appld Rsch:Data Mgt & Analysis"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51202",
+        "room_desc": "Birth Cesarean Section Trends"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51203",
+        "room_desc": "Clincl Trials&Exp Ds"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51204",
+        "room_desc": "Data Visualization"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51205",
+        "room_desc": "Environ & Occupat Epidemiology"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51206",
+        "room_desc": "Epidem Chronic Disease"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51207",
+        "room_desc": "Epidem Methods1:Research"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51208",
+        "room_desc": "Epidem Methods2:Srvy"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51209",
+        "room_desc": "Epidemiological Methods IV"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51210",
+        "room_desc": "Epidemiology Infectious Dis"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51211",
+        "room_desc": "Epidemiology Methods III"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51212",
+        "room_desc": "Evidence Synthes Meta-Analysis"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51213",
+        "room_desc": "Field Data Collection"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51214",
+        "room_desc": "Intro:Hlth Care Data Analytics"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51215",
+        "room_desc": "Introductory R"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51216",
+        "room_desc": "Life Course Epidemiology"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51217",
+        "room_desc": "Making Most Data in R"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51218",
+        "room_desc": "Measurement"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51219",
+        "room_desc": "Mendelian Randomiz Instr Vari"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51220",
+        "room_desc": "Molec & Genetic Epidemiology"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51221",
+        "room_desc": "Multilevel Monitoring"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51222",
+        "room_desc": "Nutri Epid Part 1:Lit Review"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51223",
+        "room_desc": "Nutrition Epidemiology"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51224",
+        "room_desc": "Psych & Mental Health Epi"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51225",
+        "room_desc": "Public Health Surveillance"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51226",
+        "room_desc": "Quasi-Experimental Studies"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51227",
+        "room_desc": "Repro Health Epidemiology"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51228",
+        "room_desc": "Reproduction & Perinatl Epidem"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51229",
+        "room_desc": "SAS Data Management"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51230",
+        "room_desc": "Semi in Nutrition Epidemiology"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51231",
+        "room_desc": "Social Epidemiology"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51232",
+        "room_desc": "Supervised Fieldwork"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51233",
+        "room_desc": "Surveil Outbreak Detect & Mgmt"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51234",
+        "room_desc": "Time Series"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "51235",
+        "room_desc": "Topics In Epidemiology"
+    },
+    {
+        "school": "HTR01",
+        "major": "EPID",
+        "room_num": "87668",
+        "room_desc": "EPID"
+    }
+]

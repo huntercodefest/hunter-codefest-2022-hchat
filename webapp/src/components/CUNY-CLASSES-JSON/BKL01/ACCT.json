@@ -1,0 +1,368 @@
+[
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69536",
+        "room_desc": "Accnt Reqs Of Sec"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69537",
+        "room_desc": "Accounting Elective Reviewed"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69538",
+        "room_desc": "Accounting Information Systems"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69539",
+        "room_desc": "Accounting Internship"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69540",
+        "room_desc": "Accounting Internship 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69541",
+        "room_desc": "Acct & Audit Non-Profits II"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69542",
+        "room_desc": "Acct & Audit for Non-Profits 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69543",
+        "room_desc": "Acct Reqs SEC & Reg Agency"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69544",
+        "room_desc": "Adv Managerial Accounting"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69545",
+        "room_desc": "Advanced Accounting Theory"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69546",
+        "room_desc": "Advanced Financial Accounting"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69547",
+        "room_desc": "Advanced Managerial Accounting"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69548",
+        "room_desc": "Advanced Topics in Auditing"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69549",
+        "room_desc": "Audit Concepts & Acct Research"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69550",
+        "room_desc": "Audit:Public Envir"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69551",
+        "room_desc": "Auditing"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69552",
+        "room_desc": "Auditing Concepts"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69553",
+        "room_desc": "Auditing in Public Environment"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69554",
+        "room_desc": "Business Law I"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69555",
+        "room_desc": "Business Law II"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69556",
+        "room_desc": "Compt &Mngrl Acctg"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69557",
+        "room_desc": "Comptrollership&Managerial Acc"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69558",
+        "room_desc": "Cons Nonprofit Entit"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69559",
+        "room_desc": "Consolidate&Nonprofit Entities"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69560",
+        "room_desc": "Contemporary Accounting Topics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69561",
+        "room_desc": "Cost Accounting"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69562",
+        "room_desc": "Cost Managerial Acct"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69563",
+        "room_desc": "Cost and Managerial Accounting"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69564",
+        "room_desc": "Elem"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69565",
+        "room_desc": "Federal Taxation"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69566",
+        "room_desc": "Finance & Manag Acct"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69567",
+        "room_desc": "Financial & Managerial Acctng"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69568",
+        "room_desc": "Financial Statement Analysis"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69569",
+        "room_desc": "Fraud Report/Forensic Fin Anal"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69570",
+        "room_desc": "Fraud Reptg/Forensic"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69571",
+        "room_desc": "Income Taxation"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69572",
+        "room_desc": "Independent Reading"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69573",
+        "room_desc": "Interm Fin Accnt 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69574",
+        "room_desc": "Interm Fin Accnt 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69575",
+        "room_desc": "Intermediate Financial Acct I"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69576",
+        "room_desc": "Intermediate Financial Acct II"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69577",
+        "room_desc": "International Accounting"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69578",
+        "room_desc": "International Tax"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69579",
+        "room_desc": "Intr Manager Accnt"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69580",
+        "room_desc": "Intro to Managerial Accounting"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69581",
+        "room_desc": "Introduction to  Auditing"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69582",
+        "room_desc": "Introduction to Auditing"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69583",
+        "room_desc": "Introductory Accounting"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69584",
+        "room_desc": "Iss Acct&Aud Nonpro1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69585",
+        "room_desc": "Iss Acct&Aud Nonpro2"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69586",
+        "room_desc": "Legal Envir Of Bus"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69587",
+        "room_desc": "Princ & Pract 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69588",
+        "room_desc": "Seminar in Accounting"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69589",
+        "room_desc": "Special Topics"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69590",
+        "room_desc": "Survey of Accounting"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69591",
+        "room_desc": "Tax Regulation & Strategy"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69592",
+        "room_desc": "Taxat Bus Enterpr"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69593",
+        "room_desc": "Taxation of Busn Enterprises"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69594",
+        "room_desc": "The Legal Environment of Busn"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "69595",
+        "room_desc": "Thesis Research"
+    },
+    {
+        "school": "BKL01",
+        "major": "ACCT",
+        "room_num": "86986",
+        "room_desc": "ACCT"
+    }
+]

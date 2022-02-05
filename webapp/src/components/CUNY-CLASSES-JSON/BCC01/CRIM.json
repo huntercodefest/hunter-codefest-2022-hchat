@@ -1,0 +1,32 @@
+[
+    {
+        "school": "BCC01",
+        "major": "CRIM",
+        "room_num": "68919",
+        "room_desc": "Intro to Criminal Justice"
+    },
+    {
+        "school": "BCC01",
+        "major": "CRIM",
+        "room_num": "68920",
+        "room_desc": "Introduction to Corrections"
+    },
+    {
+        "school": "BCC01",
+        "major": "CRIM",
+        "room_num": "68921",
+        "room_desc": "Introduction to Criminology"
+    },
+    {
+        "school": "BCC01",
+        "major": "CRIM",
+        "room_num": "68922",
+        "room_desc": "Introduction to Policing"
+    },
+    {
+        "school": "BCC01",
+        "major": "CRIM",
+        "room_num": "87258",
+        "room_desc": "CRIM"
+    }
+]

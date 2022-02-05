@@ -1,0 +1,506 @@
+[
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15906",
+        "room_desc": "19th C American Lit"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15907",
+        "room_desc": "20th C American Lit"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15908",
+        "room_desc": "20th Cent British Literature"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15909",
+        "room_desc": "Adv Eng Grammar & Style"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15910",
+        "room_desc": "Adv Tech Journalism"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15911",
+        "room_desc": "Adv Topics: Critical Theory"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15912",
+        "room_desc": "Advanced Composition"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15913",
+        "room_desc": "African-American Literature"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15914",
+        "room_desc": "American Romanticism"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15915",
+        "room_desc": "American Voices and Visions I"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15916",
+        "room_desc": "American Voices and Visions II"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15917",
+        "room_desc": "Broadcast Journalism Fieldwork"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15918",
+        "room_desc": "CLIP/ESL I"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15919",
+        "room_desc": "CLIP/ESL II"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15920",
+        "room_desc": "CLIP/ESL III"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15921",
+        "room_desc": "Caribbean Lit in English"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15922",
+        "room_desc": "Composition II: Writing Lit"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15923",
+        "room_desc": "Creative Nonfiction Workshop"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15924",
+        "room_desc": "Critical Literacy Studies"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15925",
+        "room_desc": "Critical Studies in English"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15926",
+        "room_desc": "English Bl- Lib Arts Elective"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15927",
+        "room_desc": "English Grammar & Syntax"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15928",
+        "room_desc": "English Liberal Arts Elective"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15929",
+        "room_desc": "English Sociolinguistics"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15930",
+        "room_desc": "Fiction Into Film"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15931",
+        "room_desc": "Food: Literary and Rhetorical"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15932",
+        "room_desc": "Founds of Western Lit"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15933",
+        "room_desc": "Global Women Writers"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15934",
+        "room_desc": "Harlem Renaissance"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15935",
+        "room_desc": "Hist Of Eng Lang"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15936",
+        "room_desc": "History English Lang"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15937",
+        "room_desc": "Honors Research in English"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15938",
+        "room_desc": "Indep Stud Prof/Creative Writ"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15939",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15940",
+        "room_desc": "Intro College Wrtng"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15941",
+        "room_desc": "Intro Creative Writing"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15942",
+        "room_desc": "Intro to Literary Studies"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15943",
+        "room_desc": "Intro to Telecommunications"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15944",
+        "room_desc": "John Donne"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15945",
+        "room_desc": "Language15946: ENGL,\"Literary Genre or Movement"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15947",
+        "room_desc": "Literary Traditions In Us"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15948",
+        "room_desc": "Literature15949: ENGL,\"Major Authors"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15950",
+        "room_desc": "Med& Renaissance Li"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15951",
+        "room_desc": "Milton"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15952",
+        "room_desc": "Multi-Media Journalism"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15953",
+        "room_desc": "N Testmnt&Apocrypha"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15954",
+        "room_desc": "Newswriting & Report"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15955",
+        "room_desc": "Non-Fiction Book Writing"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15956",
+        "room_desc": "Playwriting Workshop"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15957",
+        "room_desc": "Poetry Workshop"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15958",
+        "room_desc": "Publishing Fieldwork"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15959",
+        "room_desc": "Restor & XVIII Cent Lit"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15960",
+        "room_desc": "Rhetorical Theory & Criticism"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15961",
+        "room_desc": "Seminar in Literature"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15962",
+        "room_desc": "Seminar in Writing"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15963",
+        "room_desc": "Seminar:Spec Topics"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15964",
+        "room_desc": "Senior Research in English"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15965",
+        "room_desc": "Shakespeare: The Major Works"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15966",
+        "room_desc": "Short Story Workshop"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15967",
+        "room_desc": "Special Topic:Writing/Rhetoric"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15968",
+        "room_desc": "Special Topics in English"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15969",
+        "room_desc": "Special Topics in Literature"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15970",
+        "room_desc": "Special Topics in Writing"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15971",
+        "room_desc": "Studies in Major Authors"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15972",
+        "room_desc": "Technologies of Reading"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15973",
+        "room_desc": "The Comic Vision"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15974",
+        "room_desc": "The English Tradition I"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15975",
+        "room_desc": "The English Tradition II"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15976",
+        "room_desc": "The Old Testament"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15977",
+        "room_desc": "The Romantic Period in England"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15978",
+        "room_desc": "The Tragic Vision"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15979",
+        "room_desc": "Theories & Practices Tutoring"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15980",
+        "room_desc": "Topics in Global Literatures"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15981",
+        "room_desc": "Understanding Drama"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15982",
+        "room_desc": "Understanding Literature"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15983",
+        "room_desc": "Understanding Poetry"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15984",
+        "room_desc": "Victorian Literature"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15985",
+        "room_desc": "Women Writers"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15986",
+        "room_desc": "World Englishes"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15987",
+        "room_desc": "Writing for Business"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15988",
+        "room_desc": "Writing for Electronic Media"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15989",
+        "room_desc": "Writing of Diasporas"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "15990",
+        "room_desc": "Writing15991: ENSL,\"Read&Write Non-Nat 1"
+    },
+    {
+        "school": "YRK01",
+        "major": "ENGL",
+        "room_num": "87346",
+        "room_desc": "ENGL"
+    }
+]

@@ -1,0 +1,770 @@
+[
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70307",
+        "room_desc": "Adv Cell Cult Tech"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70308",
+        "room_desc": "Adv Cell Culture Techniques"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70309",
+        "room_desc": "Adv Cell&Molculr Bio"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70310",
+        "room_desc": "Adv Microbiol"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70311",
+        "room_desc": "Advance Cell &Molecular Biolgy"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70312",
+        "room_desc": "Advanced Study"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70313",
+        "room_desc": "Anatomy"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70314",
+        "room_desc": "Animal Form & Function Lab"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70315",
+        "room_desc": "Animal Form & Function Lab -WI"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70316",
+        "room_desc": "Animal Form & Lab"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70317",
+        "room_desc": "Animal Histology"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70318",
+        "room_desc": "Animal Physiology"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70319",
+        "room_desc": "Animal Physiology: Lecture"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70320",
+        "room_desc": "Anml Hist & Microtec"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70321",
+        "room_desc": "Applied Microbiology: Lecture"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70322",
+        "room_desc": "Behavioral Neuroendocrinology"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70323",
+        "room_desc": "Bio Electron Micro"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70324",
+        "room_desc": "Biol 38.1w"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70325",
+        "room_desc": "Biology Elective Credit"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70326",
+        "room_desc": "Biology Topics Wkshp"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70327",
+        "room_desc": "Biology for Today\u2019s World"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70328",
+        "room_desc": "Biology of Estuaries"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70329",
+        "room_desc": "Biology:  The Study Of Life"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70330",
+        "room_desc": "Biometry"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70331",
+        "room_desc": "Biotechnology of Algae"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70332",
+        "room_desc": "Cancer Biology"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70333",
+        "room_desc": "Cell & Molclr Biol Technqs"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70334",
+        "room_desc": "Cell & Molec Bio Lab"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70335",
+        "room_desc": "Cell Biology: Lab"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70336",
+        "room_desc": "Cell Biology: Lecture"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70337",
+        "room_desc": "Cell and Molecular Biology"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70338",
+        "room_desc": "Cells In Culture"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70339",
+        "room_desc": "Cells in Culture"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70340",
+        "room_desc": "Colloquium"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70341",
+        "room_desc": "Comparat Physiology"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70342",
+        "room_desc": "Comparative Physiology"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70343",
+        "room_desc": "DNA Technology Lecture"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70344",
+        "room_desc": "DNA Technolology Lab"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70345",
+        "room_desc": "Developmental Anatomy"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70346",
+        "room_desc": "Developmental Biol"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70347",
+        "room_desc": "Developmental Biology"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70348",
+        "room_desc": "Developmental Biology: Lecture"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70349",
+        "room_desc": "Dna Technol Lab"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70350",
+        "room_desc": "Dna Technol Lect"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70351",
+        "room_desc": "Ecology"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70352",
+        "room_desc": "Ecology and Evolution"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70353",
+        "room_desc": "Ecology: Lecture"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70354",
+        "room_desc": "Endocrinol-Lec"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70355",
+        "room_desc": "Evol Bio Of Vert"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70356",
+        "room_desc": "Evolution"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70357",
+        "room_desc": "Exper Embro"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70358",
+        "room_desc": "Exper Parasitology"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70359",
+        "room_desc": "Experimental Biology: Lab"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70360",
+        "room_desc": "Experimental Biology: Lecture"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70361",
+        "room_desc": "Experimental: Lab"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70362",
+        "room_desc": "Field & Lab Methods In Ecology"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70363",
+        "room_desc": "Field Studies in Botany"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70364",
+        "room_desc": "Field Studies in Zoology"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70365",
+        "room_desc": "Fld&Lab In Ecology"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70366",
+        "room_desc": "Gen Biol 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70367",
+        "room_desc": "Gen Micro Lab H&Ntr"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70368",
+        "room_desc": "General 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70369",
+        "room_desc": "General 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70370",
+        "room_desc": "General Biology I"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70371",
+        "room_desc": "General Biology II"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70372",
+        "room_desc": "Genetics"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70373",
+        "room_desc": "Glob Bact70374: BIOL,\"Global Bact70375: BIOL,\"Gsci Elem Sch"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70376",
+        "room_desc": "Honors Lab Biol Research"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70377",
+        "room_desc": "Human Anatomy and Physiology 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70378",
+        "room_desc": "Human Anatomy and Physiology 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70379",
+        "room_desc": "Independent Lab Research 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70380",
+        "room_desc": "Independent Lab Research II"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70381",
+        "room_desc": "Independent Lab Research IV"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70382",
+        "room_desc": "Independent Library Research"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70383",
+        "room_desc": "Independent Research I"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70384",
+        "room_desc": "Independent Research II"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70385",
+        "room_desc": "Independent Research III"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70386",
+        "room_desc": "Independent Research IV"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70387",
+        "room_desc": "Invertebrate Zool"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70388",
+        "room_desc": "Invertebrate Zoology"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70389",
+        "room_desc": "Journal Club"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70390",
+        "room_desc": "Lab Research Writing Intnsv"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70391",
+        "room_desc": "Laboratory Research 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70392",
+        "room_desc": "Laboratory Research II"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70393",
+        "room_desc": "Lect In Genetics"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70394",
+        "room_desc": "Macromo Struct & Bio"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70395",
+        "room_desc": "Macromo Struct &Bioinformatics"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70396",
+        "room_desc": "Macromolec Struc &Bioinformatc"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70397",
+        "room_desc": "Macromolecular &Bioinformatics"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70398",
+        "room_desc": "Medical Microbiology"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70399",
+        "room_desc": "Microbial Ecology"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70400",
+        "room_desc": "Microbiolgy Lab for Health Sci"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70401",
+        "room_desc": "Microbiology"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70402",
+        "room_desc": "Microbiology Laboratory"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70403",
+        "room_desc": "Mod Concepts Bio 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70404",
+        "room_desc": "Mod Concepts Bio 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70405",
+        "room_desc": "Model Systms In Biol"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70406",
+        "room_desc": "Modern Concepts in Biology I"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70407",
+        "room_desc": "Modern Concepts in Biology II"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70408",
+        "room_desc": "Molec Bio Of Devel"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70409",
+        "room_desc": "Molec Phylogenetics & Evolutn"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70410",
+        "room_desc": "Molec Phylogenetics &Evolution"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70411",
+        "room_desc": "Molecular Biol of Development"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70412",
+        "room_desc": "Molecular Biology"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70413",
+        "room_desc": "Molecular and Macroevolution"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70414",
+        "room_desc": "Neurobiology"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70415",
+        "room_desc": "Non Flower Plants"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70416",
+        "room_desc": "Organismic Biology I70417: BIOL,\"Organismic Biology II70418: BIOL,\"Organismic Plant Lab"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70419",
+        "room_desc": "Phys Of Circ & Resp"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70420",
+        "room_desc": "Physiol Resrch Lab"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70421",
+        "room_desc": "Plant Form & Functn"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70422",
+        "room_desc": "Plant Physiology"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70423",
+        "room_desc": "Plant Physiology - Laboratory"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70424",
+        "room_desc": "Plant Physiology-Lecture"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70425",
+        "room_desc": "Principles of Ecology"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70426",
+        "room_desc": "Principles of Immunology"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70427",
+        "room_desc": "Recombinant DNA Laboratory"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70428",
+        "room_desc": "Recombinant DNA Technology"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70429",
+        "room_desc": "Research I"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70430",
+        "room_desc": "Research II"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70431",
+        "room_desc": "Research Topics in Biology"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70432",
+        "room_desc": "Scientific Writing"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70433",
+        "room_desc": "Seminar in Special Topics"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70434",
+        "room_desc": "Special Topics"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70435",
+        "room_desc": "The Human Microbiome"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70436",
+        "room_desc": "Thesis Research"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "70437",
+        "room_desc": "Zoology: Organismic Biology II"
+    },
+    {
+        "school": "BKL01",
+        "major": "BIOL",
+        "room_num": "86985",
+        "room_desc": "BIOL"
+    }
+]

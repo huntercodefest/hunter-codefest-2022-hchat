@@ -1,0 +1,536 @@
+[
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21931",
+        "room_desc": "Adv Methodology"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21932",
+        "room_desc": "Adv Soc Statistics"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21933",
+        "room_desc": "Advanced Social Statistics"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21934",
+        "room_desc": "Appl Qual Rsrch Meth"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21935",
+        "room_desc": "Chem Dependency And Dys Fam"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21936",
+        "room_desc": "Citizen Subj State"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21937",
+        "room_desc": "Classical Sociological Theory"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21938",
+        "room_desc": "Corp White Col Cr"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21939",
+        "room_desc": "Crim Res Intern2"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21940",
+        "room_desc": "Crime @ Just In Film"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21941",
+        "room_desc": "Crime Media Pub Opin"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21942",
+        "room_desc": "Crime and Delinquency in Asia"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21943",
+        "room_desc": "Crime and Social Justice"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21944",
+        "room_desc": "Criminology"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21945",
+        "room_desc": "Criminology Research Internsh"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21946",
+        "room_desc": "Cult Leaders"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21947",
+        "room_desc": "Culture and Personality"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21948",
+        "room_desc": "Death Dying&Socty"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21949",
+        "room_desc": "Deviance21950: SOCI,\"Disput Res Intnshp 2"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21951",
+        "room_desc": "Domestic Violence"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21952",
+        "room_desc": "Drug Use and Abuse"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21953",
+        "room_desc": "Environmental Sociology"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21954",
+        "room_desc": "Evaluation Research"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21955",
+        "room_desc": "Facult Ment Resrch Exper Socio"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21956",
+        "room_desc": "Food Justice"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21957",
+        "room_desc": "Gangs and Transnationalism"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21958",
+        "room_desc": "Gender Issues In Crj"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21959",
+        "room_desc": "Global Social Movements"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21960",
+        "room_desc": "Health21961: SOCI,\"Independent Study"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21962",
+        "room_desc": "Independent Study 200-level"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21963",
+        "room_desc": "Independent Study 300-level"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21964",
+        "room_desc": "Independent Study 400-level"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21965",
+        "room_desc": "Interdisc Internship"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21966",
+        "room_desc": "Interdisc Soc"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21967",
+        "room_desc": "International Criminology"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21968",
+        "room_desc": "Internship: Dispute Resolution"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21969",
+        "room_desc": "Internships for Sociology"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21970",
+        "room_desc": "Introduction to Sociology"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21971",
+        "room_desc": "Latin American Women"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21972",
+        "room_desc": "Latino Exper in Urban U.S."
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21973",
+        "room_desc": "Mentoring Internship"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21974",
+        "room_desc": "Migration and Crime"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21975",
+        "room_desc": "Penology"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21976",
+        "room_desc": "Political Imprisonment"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21977",
+        "room_desc": "Political Sociology"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21978",
+        "room_desc": "Prob & Parole: Prin & Practice"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21979",
+        "room_desc": "Probation & Parole"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21980",
+        "room_desc": "Qualitative Research Methods"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21981",
+        "room_desc": "Restorative Justice"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21982",
+        "room_desc": "Selected Topics in Criminology"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21983",
+        "room_desc": "Selected Topics in Dispute Res"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21984",
+        "room_desc": "Selected Topics in Sociology"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21985",
+        "room_desc": "Sem Minority Gps"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21986",
+        "room_desc": "Semin Punish Society"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21987",
+        "room_desc": "Senior Seminar in Criminology"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21988",
+        "room_desc": "Senior Seminar in Sociology"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21989",
+        "room_desc": "Sexual Identity & Soc: LGBT"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21990",
+        "room_desc": "Soc Asp Alch Abus"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21991",
+        "room_desc": "Soc Aspc Alch Abus"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21992",
+        "room_desc": "Soc Lab Disp Resl"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21993",
+        "room_desc": "Soc Of Conflict"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21994",
+        "room_desc": "Soc Of Labor Movemnt"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21995",
+        "room_desc": "Soc of Race & Ethnic Relatn"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21996",
+        "room_desc": "Social Change"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21997",
+        "room_desc": "Social Deviance"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21998",
+        "room_desc": "Social Problems"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "21999",
+        "room_desc": "Social Stratification"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "22000",
+        "room_desc": "Sociological Theory"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "22001",
+        "room_desc": "Sociology of Families"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "22002",
+        "room_desc": "Sociology of Global Migration"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "22003",
+        "room_desc": "Sociology of Human Rights"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "22004",
+        "room_desc": "Sociology of Mental Illness"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "22005",
+        "room_desc": "Sociology of Sexualities"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "22006",
+        "room_desc": "Sociology of Work and Jobs"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "22007",
+        "room_desc": "Sport in Global Perspective"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "22008",
+        "room_desc": "Tabloid Justice"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "22009",
+        "room_desc": "The Counterculture"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "22010",
+        "room_desc": "The Sociology of Law"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "22011",
+        "room_desc": "The Sociology of Violence"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "22012",
+        "room_desc": "Thematic Internship"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "22013",
+        "room_desc": "Theories of Social Order"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "22014",
+        "room_desc": "Urban Sociology"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "22015",
+        "room_desc": "Victimology"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "22016",
+        "room_desc": "Women & Social Control US"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "22017",
+        "room_desc": "Women and Crime"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "22018",
+        "room_desc": "Women\u2019s Studies"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "22019",
+        "room_desc": "Youth Fam & Crj"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "22020",
+        "room_desc": "Youth22021: SOEI,\"Intro Business & Entreprenshp"
+    },
+    {
+        "school": "JJC01",
+        "major": "SOCI",
+        "room_num": "87046",
+        "room_desc": "SOCI"
+    }
+]

@@ -1,0 +1,536 @@
+[
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62783",
+        "room_desc": "3-Dimenstional Design"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62784",
+        "room_desc": "Art Hist Ancient"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62785",
+        "room_desc": "Art Hist Renaissance"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62786",
+        "room_desc": "Art and Activism"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62787",
+        "room_desc": "Art in England"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62788",
+        "room_desc": "Art in Italy"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62789",
+        "room_desc": "Art in the Pacific"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62790",
+        "room_desc": "Art of Greece"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62791",
+        "room_desc": "Asian Art thru Relig Phi & Pol"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62792",
+        "room_desc": "Ceramic Design"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62793",
+        "room_desc": "Ceramic Sculpture"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62794",
+        "room_desc": "Ceramics I"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62795",
+        "room_desc": "Ceramics II"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62796",
+        "room_desc": "Coding for Designers"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62797",
+        "room_desc": "Computer Art"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62798",
+        "room_desc": "Computer Art II"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62799",
+        "room_desc": "Design Foundations"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62800",
+        "room_desc": "Designing With Type"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62801",
+        "room_desc": "Digital Illustration"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62802",
+        "room_desc": "Digital Publication Design"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62803",
+        "room_desc": "Drawing I"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62804",
+        "room_desc": "Drawing II"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62805",
+        "room_desc": "Figure Modeling"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62806",
+        "room_desc": "Figure Modeling 2"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62807",
+        "room_desc": "Figure Modeling and Carving"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62808",
+        "room_desc": "Figure Painting"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62809",
+        "room_desc": "Glbl Contemp: Art Dvrs & Expr"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62810",
+        "room_desc": "Graphic Design Portfolio"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62811",
+        "room_desc": "Graphic Design and Advertising"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62812",
+        "room_desc": "History of American Art"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62813",
+        "room_desc": "History of Modern Sculpture"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62814",
+        "room_desc": "History of Women In Art"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62815",
+        "room_desc": "Human Centered Design"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62816",
+        "room_desc": "I.S. In Public Art"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62817",
+        "room_desc": "I.S. Studio Arts"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62818",
+        "room_desc": "IS Experimental Typography"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62819",
+        "room_desc": "IS Illustration"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62820",
+        "room_desc": "IS Sculpture II"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62821",
+        "room_desc": "IS Survey of Art History"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62822",
+        "room_desc": "Illustration"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62823",
+        "room_desc": "Illustration Style"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62824",
+        "room_desc": "Ind Study - Studio Arts"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62825",
+        "room_desc": "Indep Study: Graphic Design"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62826",
+        "room_desc": "Independent Study - Ceramics"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62827",
+        "room_desc": "Independent Study - Drawing"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62828",
+        "room_desc": "Independent Study - Painting"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62829",
+        "room_desc": "Independent Study - Sculpture"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62830",
+        "room_desc": "Independent Study-Photography"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62831",
+        "room_desc": "Int Figure Modeling"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62832",
+        "room_desc": "Int Watercolor Ptg"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62833",
+        "room_desc": "Intermediate Landscape Paint"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62834",
+        "room_desc": "Intro Welded Sculp"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62835",
+        "room_desc": "Is Gr. D. Internship"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62836",
+        "room_desc": "Is Honors Design Stu"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62837",
+        "room_desc": "Is Prntmkg & Design"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62838",
+        "room_desc": "Is Prob Studio Arts"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62839",
+        "room_desc": "Landscape Painting"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62840",
+        "room_desc": "Landscape Painting 1"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62841",
+        "room_desc": "Latin American Art"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62842",
+        "room_desc": "Medieval Art"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62843",
+        "room_desc": "Mixed Media"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62844",
+        "room_desc": "Modern Architecture"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62845",
+        "room_desc": "Nineteenth-Century Art"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62846",
+        "room_desc": "Painting & Mixed Med"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62847",
+        "room_desc": "Painting I"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62848",
+        "room_desc": "Painting II"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62849",
+        "room_desc": "Photography I"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62850",
+        "room_desc": "Photography II"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62851",
+        "room_desc": "Photojournalism I"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62852",
+        "room_desc": "Photojournalism II"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62853",
+        "room_desc": "Photoshop as a Design Tool"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62854",
+        "room_desc": "Renaissance Art"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62855",
+        "room_desc": "Sculpture I"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62856",
+        "room_desc": "Sculpture II"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62857",
+        "room_desc": "Still Life Painting"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62858",
+        "room_desc": "Survey of Art History"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62859",
+        "room_desc": "Survey of Latin American Art"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62860",
+        "room_desc": "Survey of Non-Western Art"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62861",
+        "room_desc": "The Art of 3D Animation"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62862",
+        "room_desc": "The Art of Animation"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62863",
+        "room_desc": "The Art of Digital Photography"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62864",
+        "room_desc": "The Art of Storyboarding"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62865",
+        "room_desc": "Transparant Water Color"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62866",
+        "room_desc": "Twentieth-Century Art"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62867",
+        "room_desc": "Typography"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62868",
+        "room_desc": "Virtual Design Studio"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62869",
+        "room_desc": "Watercolor Painting"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "62870",
+        "room_desc": "Web Page Design"
+    },
+    {
+        "school": "KCC01",
+        "major": "ART",
+        "room_num": "88548",
+        "room_desc": "ART"
+    }
+]

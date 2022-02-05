@@ -17,6 +17,7 @@ export function RoomList(CurrList, PrevList, listDesc) {
 export const Schools = new RoomList(
 	[
 		new Room("_GLOB", null, "0", "Global Chatroom"),
+		new Room("HTR01", null, null, "Hunter College"),
 		new Room("BAR01", null, null, "Baruch College"),
 		new Room("BCC01", null, null, "Bronx Community College"),
 		new Room("BKL01", null, null, "Brooklyn College"),
@@ -25,7 +26,6 @@ export const Schools = new RoomList(
 		new Room("CTY01", null, null, "The City College of New York"),
 		new Room("GRD01", null, null, "CUNY Graduate Center"),
 		new Room("HOS01", null, null, "Hostos Community College"),
-		new Room("HTR01", null, null, "Hunter College"),
 		new Room("JJC01", null, null, "John Jay College of Criminal Justice"),
 		new Room("KCC01", null, null, "Kingsborough Community College"),
 		new Room("LAG01", null, null, "LaGuardia Community College"),

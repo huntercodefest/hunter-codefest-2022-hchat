@@ -1,0 +1,548 @@
+[
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70438",
+        "room_desc": "Adv Econ & Bus Statistics"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70439",
+        "room_desc": "Adv Topcs:Green Busn"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70440",
+        "room_desc": "Adv Topics in Green Business"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70441",
+        "room_desc": "Advertising & Direct Marketing"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70442",
+        "room_desc": "Applied Business Research"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70443",
+        "room_desc": "Asian Business"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70444",
+        "room_desc": "Bargain & Conflict Resolution"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70445",
+        "room_desc": "Bus & Finance Contemp World"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70446",
+        "room_desc": "Business Analytics for Manager"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70447",
+        "room_desc": "Business Management of Sports"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70448",
+        "room_desc": "Business and Corporate Writing"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70449",
+        "room_desc": "Business and Government"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70450",
+        "room_desc": "Busn Comm & Data Visualization"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70451",
+        "room_desc": "Busn Practice & Jewish Traditn"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70452",
+        "room_desc": "Computer Management Games"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70453",
+        "room_desc": "Consumer Behavior"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70454",
+        "room_desc": "Corp Social Resp & Org Ldshp"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70455",
+        "room_desc": "Country Risk Analysis"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70456",
+        "room_desc": "Data Analysis I"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70457",
+        "room_desc": "Data Analysis II"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70458",
+        "room_desc": "Data Analysis III"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70459",
+        "room_desc": "Data Mining & Applied Machine"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70460",
+        "room_desc": "Data Visualization"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70461",
+        "room_desc": "Electronic Commerce"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70462",
+        "room_desc": "Elementary Macroeconomics"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70463",
+        "room_desc": "Elementary Microeconomics"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70464",
+        "room_desc": "Employment Law for Managers"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70465",
+        "room_desc": "Enterprise Risk Management"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70466",
+        "room_desc": "Entrepreneurship in Global Eco"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70467",
+        "room_desc": "Ethnic Mrktng & Multicult Bus"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70468",
+        "room_desc": "Fashion Marketing"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70469",
+        "room_desc": "Foundation Business Analytics"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70470",
+        "room_desc": "Foundation NonProfit Managment"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70471",
+        "room_desc": "Fraud Reptg/Forensic"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70472",
+        "room_desc": "Gender Diversity in Workplace"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70473",
+        "room_desc": "Global Business Environment"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70474",
+        "room_desc": "Global Logistics"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70475",
+        "room_desc": "Global Workplace Communication"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70476",
+        "room_desc": "Green Business"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70477",
+        "room_desc": "Green Real Estate"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70478",
+        "room_desc": "Health Economics and Policy"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70479",
+        "room_desc": "Independent Research Busness 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70480",
+        "room_desc": "Independent Research Busness I"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70481",
+        "room_desc": "Info Systems Project Managment"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70482",
+        "room_desc": "Innovation & Drive for Growth"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70483",
+        "room_desc": "International Business"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70484",
+        "room_desc": "Internet Marketng&Social Media"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70485",
+        "room_desc": "Internship"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70486",
+        "room_desc": "Internship: Fieldwork 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70487",
+        "room_desc": "Internship: Fieldwork 2"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70488",
+        "room_desc": "Intl Human Resource Management"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70489",
+        "room_desc": "Intro Econ & Busn Statistics"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70490",
+        "room_desc": "Jews Making A Living"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70491",
+        "room_desc": "Labor Relation in Free Society"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70492",
+        "room_desc": "Leadership in Organizations"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70493",
+        "room_desc": "Manag Diversity in Global Econ"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70494",
+        "room_desc": "Management Information Systems"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70495",
+        "room_desc": "Managerial Economics"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70496",
+        "room_desc": "Managing a Global Workforce"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70497",
+        "room_desc": "Marketing Management"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70498",
+        "room_desc": "Mathematical Economics I"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70499",
+        "room_desc": "Media Marketing and Promotion"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70500",
+        "room_desc": "Mgmt New&Emerging Technologies"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70501",
+        "room_desc": "Mgmt Techn Enterpr"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70502",
+        "room_desc": "Microeconomics Busn Decisions"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70503",
+        "room_desc": "Money and Banking"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70504",
+        "room_desc": "Negotation &Conflct Resolution"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70505",
+        "room_desc": "New Media and Business"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70506",
+        "room_desc": "Operations Management"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70507",
+        "room_desc": "Operatn Research &Decision Sci"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70508",
+        "room_desc": "Org Behavior &Diversity Mangmt"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70509",
+        "room_desc": "Organization Behavior"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70510",
+        "room_desc": "Personal Finance"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70511",
+        "room_desc": "Principles of Management"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70512",
+        "room_desc": "Principles of Marketing"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70513",
+        "room_desc": "Principles of Selling"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70514",
+        "room_desc": "Professional Develop & Success"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70515",
+        "room_desc": "Real Estate Management"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70516",
+        "room_desc": "Sem Business Managment &Policy"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70517",
+        "room_desc": "Seminar Special Topics in Bus"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70518",
+        "room_desc": "Seminar in Marketing Research"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70519",
+        "room_desc": "Seminar in Strategic Marketing"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70520",
+        "room_desc": "Small Business Management"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70521",
+        "room_desc": "Small Busn Oper & Entreprenshp"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70522",
+        "room_desc": "Strategic Human Resource Mgmt"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70523",
+        "room_desc": "Strategic Mgmt & Busn Policy"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70524",
+        "room_desc": "Stress Management in Workplace"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70525",
+        "room_desc": "Tax Regulation & Strategy"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70526",
+        "room_desc": "Text Analytics"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "70527",
+        "room_desc": "Workplace Values and Happiness"
+    },
+    {
+        "school": "BKL01",
+        "major": "BUMA",
+        "room_num": "86983",
+        "room_desc": "BUMA"
+    }
+]

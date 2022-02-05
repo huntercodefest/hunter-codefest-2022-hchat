@@ -1,0 +1,26 @@
+[
+    {
+        "school": "QCC01",
+        "major": "SOSC",
+        "room_num": "23395",
+        "room_desc": "Intro Criminal Justice"
+    },
+    {
+        "school": "QCC01",
+        "major": "SOSC",
+        "room_num": "23396",
+        "room_desc": "Philosophy And Religion"
+    },
+    {
+        "school": "QCC01",
+        "major": "SOSC",
+        "room_num": "23397",
+        "room_desc": "Psych Of Everyday Living"
+    },
+    {
+        "school": "QCC01",
+        "major": "SOSC",
+        "room_num": "87899",
+        "room_desc": "SOSC"
+    }
+]

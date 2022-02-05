@@ -1,0 +1,482 @@
+[
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15823",
+        "room_desc": "Adaptive Tech for Students"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15824",
+        "room_desc": "Adolescent&Yd Develpmnt"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15825",
+        "room_desc": "Adv Meth-Hs Sci Ins"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15826",
+        "room_desc": "Adv Methods Hs Math"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15827",
+        "room_desc": "Adv Socio-Ling K-12"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15828",
+        "room_desc": "Bilingual & Ell Education"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15829",
+        "room_desc": "C&M Elem Sch Hlth Ed"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15830",
+        "room_desc": "C&M Elem Sch Math"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15831",
+        "room_desc": "C&M Elem Sci"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15832",
+        "room_desc": "C&M He/Pe K-6"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15833",
+        "room_desc": "C&M Sec Sch Chem"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15834",
+        "room_desc": "C&M Sec Sch Erth Sc"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15835",
+        "room_desc": "C&M Sec Sch Hlth Ed"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15836",
+        "room_desc": "C&M Sec Sch Math"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15837",
+        "room_desc": "C&M Sec Sch Spanish"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15838",
+        "room_desc": "C&M Secondary Science CL - II"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15839",
+        "room_desc": "Capstn Clinc Exp& Sem for Chld"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15840",
+        "room_desc": "Capstone Clin Exp:HE/PE 7-12"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15841",
+        "room_desc": "Capstone Clin Exp:HE/PE K-6"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15842",
+        "room_desc": "Capstone Clinc Exp & Sem Chld"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15843",
+        "room_desc": "Capstone Clinical: Sec Ed 6-9"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15844",
+        "room_desc": "Capstone Clinical:SecEd 10-12"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15845",
+        "room_desc": "Capstone Exp: Grades 10-12"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15846",
+        "room_desc": "Capstone Exp: Grades 7-9"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15847",
+        "room_desc": "Capstone Exp:Grades 5-6"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15848",
+        "room_desc": "Capstone Exp:Grades 7-9"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15849",
+        "room_desc": "Child & Adolesc Development"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15850",
+        "room_desc": "Computer Science Educ in K-12"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15851",
+        "room_desc": "Content Literacy 2-6 EO&ELL"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15852",
+        "room_desc": "Curr & Meth Subj Spec (K-12)"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15853",
+        "room_desc": "Curr & Mthds Elem Edu I: Lrng"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15854",
+        "room_desc": "Curric&Mthd II Phys Ed PreK-12"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15855",
+        "room_desc": "Educ Psy:Teach&Learn"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15856",
+        "room_desc": "Education Elective Reviewed"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15857",
+        "room_desc": "Education NLA Elective"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15858",
+        "room_desc": "Em II: Instr/Class Environ"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15859",
+        "room_desc": "Emotion Handicapped"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15860",
+        "room_desc": "Erly Lang & Lit Eng Only Lrnrs"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15861",
+        "room_desc": "Field Act In Math Ed"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15862",
+        "room_desc": "Field Act-Sci Educ"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15863",
+        "room_desc": "Field Teach/Learning"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15864",
+        "room_desc": "Fldwk Ed Envmnts II"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15865",
+        "room_desc": "Fldwk In Ed Envmnts"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15866",
+        "room_desc": "Instruct Strats Mid & H.S.\u2019s"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15867",
+        "room_desc": "Intro to Special Education"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15868",
+        "room_desc": "Lit & Storytelling"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15869",
+        "room_desc": "Lit Instruct Gr.2-6"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15870",
+        "room_desc": "Literacy Instruction"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15871",
+        "room_desc": "Math15872: EDUC,\"Mental Retardation"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15873",
+        "room_desc": "Middle Child Dev Mathematics"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15874",
+        "room_desc": "Mildly Handicap"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15875",
+        "room_desc": "Phys Handicap"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15876",
+        "room_desc": "School Health C&M"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15877",
+        "room_desc": "Secondary Curr & Methods 2"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15878",
+        "room_desc": "Soc Studies Relation"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15879",
+        "room_desc": "Student Teaching15880: EDUC,\"Sup Stud Teach Earth Sc 10-12"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15881",
+        "room_desc": "Sup Tch Earthsci 7-9"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15882",
+        "room_desc": "Sup Tch Elem Sch 1-3"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15883",
+        "room_desc": "Sup Tch Elem Sch 4-6"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15884",
+        "room_desc": "Sup Tch Eng 7-9"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15885",
+        "room_desc": "Sup Tch Eng Hs"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15886",
+        "room_desc": "Sup Tch Fren 7-9"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15887",
+        "room_desc": "Sup Tch Fren Hs"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15888",
+        "room_desc": "Sup Tch Hlth Ed 7-12"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15889",
+        "room_desc": "Sup Tch Hlth Ed Pre K-6"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15890",
+        "room_desc": "Sup Tch Pe 7-12"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15891",
+        "room_desc": "Sup Tch Pe Pre K-6"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15892",
+        "room_desc": "Sup Tch Soc St 7-9"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15893",
+        "room_desc": "Sup Tch Soc St Hs"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15894",
+        "room_desc": "Sup Tch Span 10-12"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15895",
+        "room_desc": "Sup Tch Span 7-9"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15896",
+        "room_desc": "Sup Teach Bio 10-12"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15897",
+        "room_desc": "Sup Teach Chem 10-12"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15898",
+        "room_desc": "Sup Teach Chem 7-9"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15899",
+        "room_desc": "Superv Stud Tchng15900: EDUC,\"Supervised Teaching Math 7-9"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15901",
+        "room_desc": "Tch Bilingual Prog"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15902",
+        "room_desc": "Tchng ESL thru Content Areas"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15903",
+        "room_desc": "Teach Read & Spanish Lan Art"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "15904",
+        "room_desc": "Teach W/Multimedia"
+    },
+    {
+        "school": "YRK01",
+        "major": "EDUC",
+        "room_num": "87361",
+        "room_desc": "EDUC"
+    }
+]

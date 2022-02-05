@@ -26,16 +26,17 @@ func ReadWSMessage(p_ws_conn *websocket.Conn) ([]byte, error) {
 
 // function should run in gorutine on each new user to read its new messages
 func ReadConnOnLoop(p_user *User) (err error) {
-	if ((*p_user).readingOnLoop){
+	if (*p_user).readingOnLoop {
 		return
 	}
 	(*p_user).readingOnLoop = true
 	log.Println("starting read conn on loop")
 	// Send connection message
-	RespondWithString(p_user, "Succesfully connected to room\n")
+	RespondWithString(p_user, "Connection to server successful\n")
 	// infinite read loop
 	tcp_check := ((*p_user).tcp_conn != nil)
 	for {
+		hitDB := true
 		var msgbuf []byte
 		if tcp_check {
 			msgbuf, err = ReadTCPMessage((*p_user).tcp_conn)
@@ -46,21 +47,27 @@ func ReadConnOnLoop(p_user *User) (err error) {
 			return err
 		}
 		room_num, username, message, err := ProcessInput(msgbuf)
-		fmt.Println(room_num)
+		fmt.Println("room num", room_num)
 		if err != nil {
 			return err
 		}
-		if username != (*p_user).username{
+		if username != (*p_user).username {
 			(*p_user).username = username
 		}
-		if room_num != (*p_user).room_num{
+		if room_num != (*p_user).room_num {
 			RemoveUserFromRoom(p_user, (*p_user).room_num)
 			(*p_user).room_num = room_num
 			AddUserToRoom(p_user, room_num)
+			hitDB = false
 			log.Println("Moved user to room: " + fmt.Sprint(room_num))
 		}
 		log.Println("Received msg: " + string(msgbuf) + " from user: " + username)
-		log.Println("Received msg: " + message + " from user: " + username)
+		if hitDB {
+			err = writeToDB(room_num, username, message)
+			if err != nil {
+				return err
+			}
+		}
 		DistributeMessageToRoom(ROOM_MAP[room_num], username+":"+message)
 	}
 }
@@ -99,7 +106,6 @@ func ProcessInput(msgbuf []byte) (room_number int, username string, message stri
 	for i := 1; i < inlen; i++ {
 		if input[i] == '_' {
 			room_number, _ = strconv.Atoi(input[1:i])
-			fmt.Println(room_number)
 			for j := i; j < inlen; j++ {
 				if input[j] == ':' {
 					username = input[i+1 : j]

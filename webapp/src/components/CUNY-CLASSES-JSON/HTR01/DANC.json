@@ -1,0 +1,656 @@
+[
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48903",
+        "room_desc": "Activating Dance in Culture"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48904",
+        "room_desc": "Adv Post Mod Dance Technique"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48905",
+        "room_desc": "Adv Trad Modern Dance Tech"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48906",
+        "room_desc": "Aesthetics"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48907",
+        "room_desc": "African-American Social Dance"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48908",
+        "room_desc": "Afro-Brazilean Dance 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48909",
+        "room_desc": "Afro-Brazilian Dance I"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48910",
+        "room_desc": "Anatomy-Kinesiology for Dancer"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48911",
+        "room_desc": "Ballet 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48912",
+        "room_desc": "Ballet 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48913",
+        "room_desc": "Ballet 3"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48914",
+        "room_desc": "Basic Musicianship for Dancers"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48915",
+        "room_desc": "Capoiera 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48916",
+        "room_desc": "Capoiera I"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48917",
+        "room_desc": "Chinese Dance Forms"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48918",
+        "room_desc": "Choregraphy 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48919",
+        "room_desc": "Choreographic Form & Analysis"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48920",
+        "room_desc": "Choreography 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48921",
+        "room_desc": "Classical Indian Dance 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48922",
+        "room_desc": "Classical Indian Dance I"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48923",
+        "room_desc": "Composing Music Dance"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48924",
+        "room_desc": "Composition 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48925",
+        "room_desc": "Composition 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48926",
+        "room_desc": "Contemporary Dance Forms"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48927",
+        "room_desc": "Contemporary Dance Technique 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48928",
+        "room_desc": "Contemporary Dance Technique 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48929",
+        "room_desc": "Contemporary Dance Technique 3"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48930",
+        "room_desc": "Contemporary Dance Technique 4"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48931",
+        "room_desc": "Cur Top: Comp-Mus Dance"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48932",
+        "room_desc": "Current Topic: Jazz"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48933",
+        "room_desc": "Current Topics: Dance Critique"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48934",
+        "room_desc": "Current Topics: Human Movement"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48935",
+        "room_desc": "Current Topics: Repertory"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48936",
+        "room_desc": "Current Topics: Repertory 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48937",
+        "room_desc": "Dance 1 - Yoga"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48938",
+        "room_desc": "Dance 2 - Yoga"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48939",
+        "room_desc": "Dance Alignment"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48940",
+        "room_desc": "Dance Community and Change"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48941",
+        "room_desc": "Dance Criticism"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48942",
+        "room_desc": "Dance Hist before 20th Century"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48943",
+        "room_desc": "Dance Injuries"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48944",
+        "room_desc": "Dance Notation Sys"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48945",
+        "room_desc": "Dance Pedagogy"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48946",
+        "room_desc": "Dance Seminar"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48947",
+        "room_desc": "Dance Workshop"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48948",
+        "room_desc": "Dance in Culture"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48949",
+        "room_desc": "Design and Dance"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48950",
+        "room_desc": "Ethnic Dance/Capoera"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48951",
+        "room_desc": "Fundamental-Contemporary Dance"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48952",
+        "room_desc": "Fundamentals of Ballet"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48953",
+        "room_desc": "Gaga Technique"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48954",
+        "room_desc": "Global Dance 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48955",
+        "room_desc": "Global Dance 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48956",
+        "room_desc": "Global Dance History"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48957",
+        "room_desc": "Grad Dance History"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48958",
+        "room_desc": "Graduate Dance Technique"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48959",
+        "room_desc": "Graduate Repertory"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48960",
+        "room_desc": "Hip Hop Dance 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48961",
+        "room_desc": "Hip Hop Dance 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48962",
+        "room_desc": "Hip Hop Dance 3"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48963",
+        "room_desc": "Hist of Dance Media Mavericks"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48964",
+        "room_desc": "Honors in Dance"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48965",
+        "room_desc": "Improvisation"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48966",
+        "room_desc": "Improvisational Practices"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48967",
+        "room_desc": "In Service"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48968",
+        "room_desc": "Independent Study in Dance"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48969",
+        "room_desc": "Internship"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48970",
+        "room_desc": "Jazz Dance 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48971",
+        "room_desc": "Jazz Dance 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48972",
+        "room_desc": "Lecture/Demonst Touring Group"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48973",
+        "room_desc": "Live Art in Visual Environment"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48974",
+        "room_desc": "MFA Thesis Project"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48975",
+        "room_desc": "Main:Dancers Instrument"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48976",
+        "room_desc": "Med Practice Global Landscape"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48977",
+        "room_desc": "Modern Partnering"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48978",
+        "room_desc": "Modes of Inquiry"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48979",
+        "room_desc": "Performance 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48980",
+        "room_desc": "Performance 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48981",
+        "room_desc": "Performance and Presentation"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48982",
+        "room_desc": "Physical Training"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48983",
+        "room_desc": "Postural Retraining"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48984",
+        "room_desc": "Process and Projects"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48985",
+        "room_desc": "Production"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48986",
+        "room_desc": "Production Crew"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48987",
+        "room_desc": "Production Crew 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48988",
+        "room_desc": "Production Crew 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48989",
+        "room_desc": "Race48990: DANC,\"Repertory 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48991",
+        "room_desc": "Repertory 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48992",
+        "room_desc": "Screendance"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48993",
+        "room_desc": "Sem: Technology & Arts"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48994",
+        "room_desc": "Seminar in Dance"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48995",
+        "room_desc": "Site Specific Dance"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48996",
+        "room_desc": "Sp Tp Modern Partnering"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48997",
+        "room_desc": "Sp Tpcs: Lighting Design Dance"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48998",
+        "room_desc": "Special Topics: College Now"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "48999",
+        "room_desc": "Special Topics: Dance Legacies"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "49000",
+        "room_desc": "Stagecraft"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "49001",
+        "room_desc": "Studies of Forms"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "49002",
+        "room_desc": "Survey of Dance Notation Systm"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "49003",
+        "room_desc": "Teach Dance Elementary School"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "49004",
+        "room_desc": "Teaching Dance"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "49005",
+        "room_desc": "Theory&Practice Teach Cont Dan"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "49006",
+        "room_desc": "Topics in Teaching Coll/Univ"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "49007",
+        "room_desc": "Topics: Mtd Movement:Dance"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "49008",
+        "room_desc": "T\u2019Ai Chi 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "49009",
+        "room_desc": "T\u2019Ai Chi I"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "49010",
+        "room_desc": "West African Dance 1"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "49011",
+        "room_desc": "West African Dance 2"
+    },
+    {
+        "school": "HTR01",
+        "major": "DANC",
+        "room_num": "87761",
+        "room_desc": "DANC"
+    }
+]

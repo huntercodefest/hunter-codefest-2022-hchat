@@ -1,0 +1,578 @@
+[
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4439",
+        "room_desc": "Adv Foundation Engineering"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4440",
+        "room_desc": "Adv Mechanics of Materials"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4441",
+        "room_desc": "Adv Reinforced Concrete"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4442",
+        "room_desc": "Adv Transportation Data Anlsys"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4443",
+        "room_desc": "Advanced Concrete Design"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4444",
+        "room_desc": "Advanced Finite Elements"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4445",
+        "room_desc": "Advanced Hydraulics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4446",
+        "room_desc": "Advanced Soil Mechanics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4447",
+        "room_desc": "Advanced Steel Design"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4448",
+        "room_desc": "Advanced Structural Design"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4449",
+        "room_desc": "Advanced Transportation Planng"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4450",
+        "room_desc": "Air Pollution and Control"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4451",
+        "room_desc": "Air Pollution/Atmsphrc Chem"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4452",
+        "room_desc": "Air Quality Modeling"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4453",
+        "room_desc": "Airport Design and Planning"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4454",
+        "room_desc": "Anal Tech Transportation"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4455",
+        "room_desc": "Analytical Meth in Civil Engin"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4456",
+        "room_desc": "Analytical Methods in Civ Eng"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4457",
+        "room_desc": "Bridge Engineering"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4458",
+        "room_desc": "Composites in Mod Structure"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4459",
+        "room_desc": "Cond Assmnt/Rehab of Strctrs"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4460",
+        "room_desc": "Cond Assmnt/Rehab of Structure"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4461",
+        "room_desc": "Doctoral Dissertation Research"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4462",
+        "room_desc": "Earthquake Engineering"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4463",
+        "room_desc": "Engineering Hydrology"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4464",
+        "room_desc": "Environ: Engineering I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4465",
+        "room_desc": "Environmental Law"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4466",
+        "room_desc": "Envrnmntal Engineering Anlysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4467",
+        "room_desc": "Finite Element Methods"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4468",
+        "room_desc": "Flexible and Rigid Pavement"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4469",
+        "room_desc": "Flexible and Rigid Pavements"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4470",
+        "room_desc": "Fluid Mechanics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4471",
+        "room_desc": "Foundation Engineering"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4472",
+        "room_desc": "Foundations Engineering"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4473",
+        "room_desc": "Fracture Mechanics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4474",
+        "room_desc": "GIS Transportation Modeling"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4475",
+        "room_desc": "Geometric Des of Transp Facil"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4476",
+        "room_desc": "Groundwater Hydrology/Contmntn"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4477",
+        "room_desc": "Hazardous Waste Management"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4478",
+        "room_desc": "Highway and Airport Constrctn"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4479",
+        "room_desc": "Hydraulics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4480",
+        "room_desc": "Hydraulics & Hydrology"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4481",
+        "room_desc": "ITS: Fundamentals & Appliction"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4482",
+        "room_desc": "Independent Studies"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4483",
+        "room_desc": "Introduction to Transportation"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4484",
+        "room_desc": "Macro-Scale Hydrology"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4485",
+        "room_desc": "Masters Thesis Research"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4486",
+        "room_desc": "Pavement Management Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4487",
+        "room_desc": "Physical Distribution Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4488",
+        "room_desc": "Plan & Des of Passenger Termin"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4489",
+        "room_desc": "Planning/Design Pass Termnls"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4490",
+        "room_desc": "Plastic Analys & Des of Struct"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4491",
+        "room_desc": "Plates and Shells"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4492",
+        "room_desc": "Port Design and Planning"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4493",
+        "room_desc": "Practicum in Transportation"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4494",
+        "room_desc": "Project"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4495",
+        "room_desc": "Rail System Design"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4496",
+        "room_desc": "Regulatory Issues in Transport"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4497",
+        "room_desc": "Remote Sens Water-Env Eng"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4498",
+        "room_desc": "Remote Sensing"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4499",
+        "room_desc": "Report"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4500",
+        "room_desc": "ST: Civil Engineering"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4501",
+        "room_desc": "ST: Engineering"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4502",
+        "room_desc": "ST: Engineering Hydrology"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4503",
+        "room_desc": "Selected Topics in Civil Engin"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4504",
+        "room_desc": "Soil Dynamics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4505",
+        "room_desc": "Solid Waste Management"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4506",
+        "room_desc": "Stability of Structures"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4507",
+        "room_desc": "Stat Meth Water Res Env Eng"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4508",
+        "room_desc": "Stat Meth in Water Res & Eng"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4509",
+        "room_desc": "Structural Dynamics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4510",
+        "room_desc": "Structural Reliability"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4511",
+        "room_desc": "Theory of Structures"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4512",
+        "room_desc": "Topics in Civil Engineering"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4513",
+        "room_desc": "Traffic Capacity Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4514",
+        "room_desc": "Traffic Control"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4515",
+        "room_desc": "Traffic Engineering Studies"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4516",
+        "room_desc": "Transport Carrier Administrat"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4517",
+        "room_desc": "Transport Policy & Mgmt Admin"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4518",
+        "room_desc": "Transport and Urban Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4519",
+        "room_desc": "Transport in Porous Media"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4520",
+        "room_desc": "Transportation Economics"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4521",
+        "room_desc": "Transportation Finance"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4522",
+        "room_desc": "Transportation Planning Models"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4523",
+        "room_desc": "Transportation Policy"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4524",
+        "room_desc": "Transportation Project Eval"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4525",
+        "room_desc": "Transportation Sys Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4526",
+        "room_desc": "Travel Demand Forecasting"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4527",
+        "room_desc": "Unit Proc. in Env. Engineering"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4528",
+        "room_desc": "Urban Public Transportation"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4529",
+        "room_desc": "Urban Trans Planning"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4530",
+        "room_desc": "Wastewater Treatment"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4531",
+        "room_desc": "Water Quality Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4532",
+        "room_desc": "Water Resources Modeling"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "4533",
+        "room_desc": "Water/Wastewater Treatment"
+    },
+    {
+        "school": "GRD01",
+        "major": "EGCI",
+        "room_num": "88431",
+        "room_desc": "EGCI"
+    }
+]

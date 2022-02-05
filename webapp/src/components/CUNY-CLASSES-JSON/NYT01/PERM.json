@@ -1,0 +1,26 @@
+[
+    {
+        "school": "NYT01",
+        "major": "PERM",
+        "room_num": "68011",
+        "room_desc": "Permit Course"
+    },
+    {
+        "school": "NYT01",
+        "major": "PERM",
+        "room_num": "68012",
+        "room_desc": "Permit Course - Puerto Rico"
+    },
+    {
+        "school": "NYT01",
+        "major": "PERM",
+        "room_num": "68013",
+        "room_desc": "Permit Non CUNY"
+    },
+    {
+        "school": "NYT01",
+        "major": "PERM",
+        "room_num": "87156",
+        "room_desc": "PERM"
+    }
+]

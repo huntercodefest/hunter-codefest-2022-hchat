@@ -1,0 +1,350 @@
+[
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4292",
+        "room_desc": "Adv Education Psychology"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4293",
+        "room_desc": "Appl Behav Analysis I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4294",
+        "room_desc": "Asessment Child Iii"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4295",
+        "room_desc": "Assessment Child Iv"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4296",
+        "room_desc": "Biling Pract/Princp"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4297",
+        "room_desc": "Casework 1"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4298",
+        "room_desc": "Casework Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4299",
+        "room_desc": "Child Assessment I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4300",
+        "room_desc": "Child Assessment Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4301",
+        "room_desc": "Child Behavior"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4302",
+        "room_desc": "Classroom Interact & Curric"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4303",
+        "room_desc": "Classroom Managemnt"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4304",
+        "room_desc": "Comp Asst Ins"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4305",
+        "room_desc": "Cont Res Sem Bil Ed"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4306",
+        "room_desc": "Curr Instr In Scien"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4307",
+        "room_desc": "Curr/Mthd Sec Schl Spanish"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4308",
+        "room_desc": "Diagn Instr/Lrn Dis"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4309",
+        "room_desc": "Drama in Education"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4310",
+        "room_desc": "Ed Applic Telecomm"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4311",
+        "room_desc": "Educ"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4312",
+        "room_desc": "Emot Handicp Chld"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4313",
+        "room_desc": "Fndmt Educatn Resch"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4314",
+        "room_desc": "Foundations Of Rdg"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4315",
+        "room_desc": "Genet & Envir Infl"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4316",
+        "room_desc": "Human Relations"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4317",
+        "room_desc": "Ident/Treat"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4318",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4319",
+        "room_desc": "Intern in Educ Admin/Superv I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4320",
+        "room_desc": "Internship Sem Ed Adm"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4321",
+        "room_desc": "Language & Learning"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4322",
+        "room_desc": "Linguist Bilingism"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4323",
+        "room_desc": "Methd Teach English"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4324",
+        "room_desc": "Perspectives on Literacy"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4325",
+        "room_desc": "Phys & Life Sci Instr & Lrn II"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4326",
+        "room_desc": "Psych Of Education"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4327",
+        "room_desc": "Psych4328: EDUC,\"Psychometric Meth"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4329",
+        "room_desc": "Psychotherapy Cncpt"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4330",
+        "room_desc": "Read Disabilities"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4331",
+        "room_desc": "Reading"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4332",
+        "room_desc": "Schol Psy Inter Sup"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4333",
+        "room_desc": "School Administrat"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4334",
+        "room_desc": "School Psy Intern I"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4335",
+        "room_desc": "Sem In Ed Research"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4336",
+        "room_desc": "Sem/Stud Teach Rom L"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4337",
+        "room_desc": "Social Study Educ"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4338",
+        "room_desc": "Special Education"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4339",
+        "room_desc": "Structure of English"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4340",
+        "room_desc": "Student Teaching"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4341",
+        "room_desc": "Supvr Impr Instr"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4342",
+        "room_desc": "Tch Mod Math Elem Schl"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4343",
+        "room_desc": "Tch Rdng Span Bilng"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4344",
+        "room_desc": "Tchng German In H S"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4345",
+        "room_desc": "Teach Rel Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4346",
+        "room_desc": "Teach Writing Across Curric"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4347",
+        "room_desc": "Teaching Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4348",
+        "room_desc": "Tech Soc Sc/Secndry"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "4349",
+        "room_desc": "X"
+    },
+    {
+        "school": "GRD01",
+        "major": "EDUC",
+        "room_num": "88364",
+        "room_desc": "EDUC"
+    }
+]

@@ -1,0 +1,872 @@
+[
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80161",
+        "room_desc": "Adv Broadcast Prod Wkshp"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80162",
+        "room_desc": "Advanced Coding the News"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80163",
+        "room_desc": "Advanced Photography"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80164",
+        "room_desc": "Advanced Photojournalism"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80165",
+        "room_desc": "Advanced Reprting for Soc Jour"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80166",
+        "room_desc": "Advanced Social Media"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80167",
+        "room_desc": "Art of the Interview"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80168",
+        "room_desc": "Arts & Entertainment Reporting"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80169",
+        "room_desc": "Audience Engagement and Metric"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80170",
+        "room_desc": "Audio Podcasting"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80171",
+        "room_desc": "Broadcast Deadline"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80172",
+        "room_desc": "Broadcast News Writing/Prod"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80173",
+        "room_desc": "Broadcast/Non-Broadcast Majors"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80174",
+        "room_desc": "Bus/Eco Rprtng II:Covering Com"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80175",
+        "room_desc": "Bus/Eco Rprtng III:Wall Street"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80176",
+        "room_desc": "Coding for Journalism"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80177",
+        "room_desc": "Coding the News"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80178",
+        "room_desc": "Community Engagement"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80179",
+        "room_desc": "Community Practicum"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80180",
+        "room_desc": "Covering City Govt & Politics"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80181",
+        "room_desc": "Covering Culture/Age of Convrg"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80182",
+        "room_desc": "Covering Latino Communities"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80183",
+        "room_desc": "Covering Markets and Companies"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80184",
+        "room_desc": "Covering NYC Economy&Business"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80185",
+        "room_desc": "Covering NY\u2019s Social Issues"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80186",
+        "room_desc": "Covering the Economy"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80187",
+        "room_desc": "Craft Journalism II-Broadcast"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80188",
+        "room_desc": "Craft of Journalism"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80189",
+        "room_desc": "Craft of Journalism I"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80190",
+        "room_desc": "Craft of Journalism II"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80191",
+        "room_desc": "Craft of Journalism-Spanish"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80192",
+        "room_desc": "Craft2-Advan Interactive Repor"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80193",
+        "room_desc": "Craft2-Advan Reporting Spanish"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80194",
+        "room_desc": "Craft2-Advan Writing&Reporting"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80195",
+        "room_desc": "Craft2-Advanced Video Reportin"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80196",
+        "room_desc": "Creating InteractiveJournalism"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80197",
+        "room_desc": "Criticism and the Arts"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80198",
+        "room_desc": "Cross Cultural Reporting"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80199",
+        "room_desc": "Cross-Cultural Reporting"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80200",
+        "room_desc": "Cultural Issues"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80201",
+        "room_desc": "Cultural Literacy"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80202",
+        "room_desc": "Cultural Reporting"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80203",
+        "room_desc": "Data Journalism"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80204",
+        "room_desc": "Data Skills"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80205",
+        "room_desc": "Data-driven Intractive Jrnlsm"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80206",
+        "room_desc": "Design and Development"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80207",
+        "room_desc": "Documentary Video"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80208",
+        "room_desc": "Documentary Video Production"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80209",
+        "room_desc": "Editing"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80210",
+        "room_desc": "Entertainment Reporting"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80211",
+        "room_desc": "Entrepeneurial Incubator"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80212",
+        "room_desc": "Entrepreneurial Journalism"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80213",
+        "room_desc": "Entreprenurial Skills"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80214",
+        "room_desc": "Environmental Reporting"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80215",
+        "room_desc": "Ethical & Legal Consider in SJ"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80216",
+        "room_desc": "Ethical&Legal Considr Soc Jour"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80217",
+        "room_desc": "Feature Writing"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80218",
+        "room_desc": "Fndmntls Multimedia Storytllng"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80219",
+        "room_desc": "Fund Intrctive Jour/Brdcst Mjr"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80220",
+        "room_desc": "Fund Multimedia Audio & Video"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80221",
+        "room_desc": "Fundamentals of Media Business"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80222",
+        "room_desc": "HTML & CSS for Journalism"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80223",
+        "room_desc": "Hlth Care Sys:People\u2019s Stories"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80224",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80225",
+        "room_desc": "Information Design"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80226",
+        "room_desc": "Information Gathering & Report"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80227",
+        "room_desc": "Interactive Journalism II"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80228",
+        "room_desc": "Interactive: Hyperlocal"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80229",
+        "room_desc": "International Reporting"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80230",
+        "room_desc": "Internship"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80231",
+        "room_desc": "Intro to Documentary Film"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80232",
+        "room_desc": "Intro to Health Journalism"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80233",
+        "room_desc": "Intro to Internat\u2019l Reporting"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80234",
+        "room_desc": "Investigative Health Reporting"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80235",
+        "room_desc": "Investigative Reporting"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80236",
+        "room_desc": "Issues in Internati Reporting"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80237",
+        "room_desc": "JavaScript/JQuery: Journalists"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80238",
+        "room_desc": "Journalistic Judgment"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80239",
+        "room_desc": "Lab Covering Medical Advances"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80240",
+        "room_desc": "Legal & Ethical Issues"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80241",
+        "room_desc": "Legal and Ethical Issues"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80242",
+        "room_desc": "Media Innovation Fieldwork"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80243",
+        "room_desc": "Metrics and Outcomes"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80244",
+        "room_desc": "Mobile & Tablet Journalism"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80245",
+        "room_desc": "Modern Graphics for Journalism"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80246",
+        "room_desc": "Motion Graphics Storytelling"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80247",
+        "room_desc": "Motion Graphics for Journalism"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80248",
+        "room_desc": "Multimedia - Interactive"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80249",
+        "room_desc": "Narrative Journalism"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80250",
+        "room_desc": "Narrtv Strytelling/Dcmntries"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80251",
+        "room_desc": "National Political Reporting"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80252",
+        "room_desc": "New Business Models for News"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80253",
+        "room_desc": "News Games & Quizzes"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80254",
+        "room_desc": "News Service Workshop"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80255",
+        "room_desc": "Opinion Writing"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80256",
+        "room_desc": "Photography for Reporters"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80257",
+        "room_desc": "Photojournalism"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80258",
+        "room_desc": "Podcast Pitching & Development"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80259",
+        "room_desc": "Presentation & Design"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80260",
+        "room_desc": "Radio News Magazine:Audio File"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80261",
+        "room_desc": "Radio News Writing & Reporting"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80262",
+        "room_desc": "Radio Voice Workshop"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80263",
+        "room_desc": "Reporting for Soc Journalism"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80264",
+        "room_desc": "Research Methods"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80265",
+        "room_desc": "Science Journalism"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80266",
+        "room_desc": "Scraping for Journalists"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80267",
+        "room_desc": "Sem:Interactive Journalism Iss"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80268",
+        "room_desc": "Social Media Newsroom"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80269",
+        "room_desc": "Social Media Tools"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80270",
+        "room_desc": "Social Video"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80271",
+        "room_desc": "Sports Reporting"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80272",
+        "room_desc": "Sports and Society"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80273",
+        "room_desc": "Summer Internship"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80274",
+        "room_desc": "TV News Magazine Production"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80275",
+        "room_desc": "TV for non-Broadcast Majors"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80276",
+        "room_desc": "Television News Magazine Prod"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80277",
+        "room_desc": "The Art of the Interview"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80278",
+        "room_desc": "The Broadcast Newscast"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80279",
+        "room_desc": "The Business of Freelancing"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80280",
+        "room_desc": "Topics Business/Econ Reporting"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80281",
+        "room_desc": "Topics Interactive Journalism"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80282",
+        "room_desc": "Topics International Reporting"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80283",
+        "room_desc": "Topics in Art/Culture Reprting"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80284",
+        "room_desc": "Topics in Audio Journalism"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80285",
+        "room_desc": "Topics in Health/Sci Reporting"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80286",
+        "room_desc": "Topics in Journalism"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80287",
+        "room_desc": "Topics in Journalistic Writing"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80288",
+        "room_desc": "Topics in Social Journalism"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80289",
+        "room_desc": "Topics in Urban Reporting"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80290",
+        "room_desc": "Topics in Visual Journalism"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80291",
+        "room_desc": "Urban Environmental Reporting"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80292",
+        "room_desc": "Urban Investigative"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80293",
+        "room_desc": "Urban Reporting I:City Gvrnmnt"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80294",
+        "room_desc": "Urban Reporting II:NYC Economy"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80295",
+        "room_desc": "Urban Rprtng III:NYC Soc Issue"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80296",
+        "room_desc": "User Experi&Interaction Design"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80297",
+        "room_desc": "Video Storytelling for the Web"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80298",
+        "room_desc": "Video for Web"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80299",
+        "room_desc": "Videolab"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80300",
+        "room_desc": "Voices & Perspect in Conflict"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80301",
+        "room_desc": "WordPress Customization"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80302",
+        "room_desc": "Workshop in Arts Journalism"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80303",
+        "room_desc": "Writ Crit About Food&Restauran"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "80304",
+        "room_desc": "Writing for Social Media"
+    },
+    {
+        "school": "SOJ01",
+        "major": "JOUR",
+        "room_num": "87133",
+        "room_desc": "JOUR"
+    }
+]

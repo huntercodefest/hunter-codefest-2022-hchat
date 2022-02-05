@@ -1,0 +1,476 @@
+[
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13958",
+        "room_desc": "Admn-Hlth Care Systm"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13959",
+        "room_desc": "Adult Health Nursing I"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13960",
+        "room_desc": "Adult Health Nursing II"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13961",
+        "room_desc": "Adv Family Nursing Prac III"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13962",
+        "room_desc": "Adv Family Nursing Pract II"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13963",
+        "room_desc": "Adv Family Nursing Practice I"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13964",
+        "room_desc": "Advanced Health Assessment"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13965",
+        "room_desc": "Advanced Nursing Practice"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13966",
+        "room_desc": "Advanced Nursing Practice II"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13967",
+        "room_desc": "Advanced Nursing Practice III"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13968",
+        "room_desc": "Advanced Pathophysiology"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13969",
+        "room_desc": "Advanced Pharmacology"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13970",
+        "room_desc": "Advanced Practice I"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13971",
+        "room_desc": "Advanced Professional Seminar"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13972",
+        "room_desc": "Altered Health States"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13973",
+        "room_desc": "Analysis & Act-Commn Health"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13974",
+        "room_desc": "Applc Promot Stratgs"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13975",
+        "room_desc": "Aspct Nur Anesthesia"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13976",
+        "room_desc": "Biostatistics Health Research"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13977",
+        "room_desc": "Clinical Decision Making"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13978",
+        "room_desc": "Cult Persp Hlth Care"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13979",
+        "room_desc": "Cult Persp-Natality"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13980",
+        "room_desc": "Curr Design & Program Eval"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13981",
+        "room_desc": "Death13982: NURS,\"Epidemiology"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13983",
+        "room_desc": "Essent Of Clinic Research"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13984",
+        "room_desc": "Evidence Based Prac I: Methods"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13985",
+        "room_desc": "Evidence Based Practice II:"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13986",
+        "room_desc": "Family Developmental Theory"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13987",
+        "room_desc": "Financial Mngmnt&Bdgt Planning"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13988",
+        "room_desc": "Gender Issues and Stress"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13989",
+        "room_desc": "Genomics"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13990",
+        "room_desc": "Growth & Develpmnt 1"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13991",
+        "room_desc": "Growth & Develpmnt 2"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13992",
+        "room_desc": "Growth and Development"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13993",
+        "room_desc": "Health Policy"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13994",
+        "room_desc": "Hlth Plan&Pol Making"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13995",
+        "room_desc": "Honors Project"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13996",
+        "room_desc": "Human Science in Nursing"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13997",
+        "room_desc": "Ind St:Extra-Clinical Research"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13998",
+        "room_desc": "Ind Stdy: Implementation Res"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "13999",
+        "room_desc": "Independent Study in Nursing"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14000",
+        "room_desc": "Leadership Cmplx Hlth Care Sys"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14001",
+        "room_desc": "Legal/Ethic Cont Nur"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14002",
+        "room_desc": "Master\u2019s Project Seminar"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14003",
+        "room_desc": "Msrmnt & Eval of Tchng & Lrng"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14004",
+        "room_desc": "Nurs Role-Prof Dvlpm"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14005",
+        "room_desc": "Nurse Pract 01: Adv Nurse Role"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14006",
+        "room_desc": "Nurse Pract 02:Nurse Adm Role"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14007",
+        "room_desc": "Nurse Pract 03:Nurse Edu Role"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14008",
+        "room_desc": "Nursing Informatics"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14009",
+        "room_desc": "Nursing as a Human Science"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14010",
+        "room_desc": "Nursing of Older Adults I"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14011",
+        "room_desc": "Nursing of Older Adults II"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14012",
+        "room_desc": "Parent-Child Nursing I"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14013",
+        "room_desc": "Parent-Child Nursing II"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14014",
+        "room_desc": "Pharmacologic Basis of Nursing"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14015",
+        "room_desc": "Pharmacology of Anesthesia"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14016",
+        "room_desc": "Pract I:Hlth Lit & Prmry Care"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14017",
+        "room_desc": "Practicum II"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14018",
+        "room_desc": "Practicum III"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14019",
+        "room_desc": "Principles of Anesthesia I"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14020",
+        "room_desc": "Principles of Anesthesia II"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14021",
+        "room_desc": "Principles of Anesthesia III"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14022",
+        "room_desc": "Principles of Anesthesia IV"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14023",
+        "room_desc": "Principles of Anesthesia V"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14024",
+        "room_desc": "Professional Nursing Practice"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14025",
+        "room_desc": "Professionl Nur Mgmt"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14026",
+        "room_desc": "Theories Transcltrl Nur & Hlth"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14027",
+        "room_desc": "Thera Inter V: Nrsng Synthesis"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14028",
+        "room_desc": "Therapeut Interven 3"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14029",
+        "room_desc": "Therapeut Interven 4"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14030",
+        "room_desc": "Therapeut Intervn 2"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14031",
+        "room_desc": "Therapeutc Interv 1"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14032",
+        "room_desc": "Topics in Nursing"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14033",
+        "room_desc": "Total Qualty Mangmnt"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14034",
+        "room_desc": "Transitional Issues in Nursing"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14035",
+        "room_desc": "Trends&Iss-Nur & Hea"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "14036",
+        "room_desc": "Ways of Knowing in Nursing"
+    },
+    {
+        "school": "LEH01",
+        "major": "NURS",
+        "room_num": "88143",
+        "room_desc": "NURS"
+    }
+]

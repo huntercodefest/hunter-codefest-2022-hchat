@@ -1,0 +1,4556 @@
+[
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6952",
+        "room_desc": "18C Lit: Novels & Letters"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6953",
+        "room_desc": "18c Eco Of Discours"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6954",
+        "room_desc": "19c Construct Body"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6955",
+        "room_desc": "19th Cent Lit: Exoticism"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6956",
+        "room_desc": "19th Century France"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6957",
+        "room_desc": "19th Century Russian Literatur"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6958",
+        "room_desc": "20 Cent Photography"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6959",
+        "room_desc": "20th C Literature"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6960",
+        "room_desc": "20th Cent Russian Literature"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6961",
+        "room_desc": "20th Century France"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6962",
+        "room_desc": "Abnormal Psychology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6963",
+        "room_desc": "Abstractions in the Americas"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6964",
+        "room_desc": "Academic Yiddish II"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6965",
+        "room_desc": "Acquisit of Cultural Practices"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6966",
+        "room_desc": "Admin - Events"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6967",
+        "room_desc": "Adol Devel: Thry & Resch"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6968",
+        "room_desc": "Adultery in the Novel"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6969",
+        "room_desc": "Adv Contemp Arabic I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6970",
+        "room_desc": "Adv Econometric Modeling"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6971",
+        "room_desc": "Adv Intro to Metaphysics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6972",
+        "room_desc": "Adv Modeling I Lec & Lab"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6973",
+        "room_desc": "Adv Multivariate Mthds"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6974",
+        "room_desc": "Adv Persian: Mod Lit"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6975",
+        "room_desc": "Adv Res Sem: Race & Ethnicity"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6976",
+        "room_desc": "Adv Sem Contemp Soc Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6977",
+        "room_desc": "Adv Sem in Precepts/Concepts"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6978",
+        "room_desc": "Adv Sem: Lang/Image Narrative"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6979",
+        "room_desc": "Adv Sem: Obj6980: MESG,\"Adv Seminar Citizenship"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6981",
+        "room_desc": "Adv Spanish Conversation"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6982",
+        "room_desc": "Adv Std: Adlt Comm Disorder"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6983",
+        "room_desc": "Adv Top in Topology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6984",
+        "room_desc": "Adv Topics Database"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6985",
+        "room_desc": "Adv Topics in Applied Math"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6986",
+        "room_desc": "Adv Tpcs in Probability"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6987",
+        "room_desc": "Adv Tpcs: Probability 2"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6988",
+        "room_desc": "AdvSem: Techniques of the Real"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6989",
+        "room_desc": "Advanced Arabic I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6990",
+        "room_desc": "Advanced Arabic II"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6991",
+        "room_desc": "Advanced Chinese I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6992",
+        "room_desc": "Advanced Cryptography"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6993",
+        "room_desc": "Advanced Genetics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6994",
+        "room_desc": "Advanced Hindi I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6995",
+        "room_desc": "Advanced Hindi II"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6996",
+        "room_desc": "Advanced Macroeconomics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6997",
+        "room_desc": "Advanced Urdu I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6998",
+        "room_desc": "Aesth Of Resist"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "6999",
+        "room_desc": "Aesthetics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7000",
+        "room_desc": "Aesthetics & Politics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7001",
+        "room_desc": "Affective Neuroscience"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7002",
+        "room_desc": "Afro-Latino Culture & History"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7003",
+        "room_desc": "Aging & Disability"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7004",
+        "room_desc": "Akkadian I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7005",
+        "room_desc": "Akkadian III"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7006",
+        "room_desc": "Alberti & Albertianism"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7007",
+        "room_desc": "Alfieri/Ital Tragdy"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7008",
+        "room_desc": "Algebraic/Geo/Math"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7009",
+        "room_desc": "Algorith Trading & Quant Strat"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7010",
+        "room_desc": "Amer Polit Institut"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7011",
+        "room_desc": "American Studies Seminar"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7012",
+        "room_desc": "Americn Jewish Hist"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7013",
+        "room_desc": "Anagor in Arabic & Europ Narr"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7014",
+        "room_desc": "Analysis 20C Mus: Polyrythm"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7015",
+        "room_desc": "Anc Prescenc in 19 & 20C Thght"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7016",
+        "room_desc": "Anova"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7017",
+        "room_desc": "Anth of Changes Hist Conscious"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7018",
+        "room_desc": "Anthro Middle Eastern Studies"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7019",
+        "room_desc": "Anthro of the Middle East"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7020",
+        "room_desc": "Anthropol Of Brazil"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7021",
+        "room_desc": "Appl Crypt & Netwrk Security"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7022",
+        "room_desc": "Appl Stat Mod/Inf: Bayesian"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7023",
+        "room_desc": "Applicat Molecular Biol (Lab)"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7024",
+        "room_desc": "Applied Mathematics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7025",
+        "room_desc": "Arch Thry & Prac/Ital Renaiss"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7026",
+        "room_desc": "Archaeological Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7027",
+        "room_desc": "Archaeology At The IFA"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7028",
+        "room_desc": "Archaeology of Human Symbol"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7029",
+        "room_desc": "Archit Of Exhibitn"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7030",
+        "room_desc": "Art & Arch of Islamic Medit"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7031",
+        "room_desc": "Art & Architect of New Spain"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7032",
+        "room_desc": "Art & Photography"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7033",
+        "room_desc": "Art Before & After Modernity"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7034",
+        "room_desc": "Art Collecting U.S. 1850-1940"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7035",
+        "room_desc": "Art Pro & Comm Byz/Christ East"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7036",
+        "room_desc": "Art of Psalms Med Euro Culture"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7037",
+        "room_desc": "Art/Paris 1919-40"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7038",
+        "room_desc": "Artificial Intelligence"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7039",
+        "room_desc": "Ashkenaze Jewery"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7040",
+        "room_desc": "Asian Hist: Modern & Crit Thry"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7041",
+        "room_desc": "Asian Performance: India"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7042",
+        "room_desc": "Atlantic History Workshop"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7043",
+        "room_desc": "Attitude Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7044",
+        "room_desc": "Balkan Narrative & Film"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7045",
+        "room_desc": "Basic Probability"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7046",
+        "room_desc": "Basic Statistics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7047",
+        "room_desc": "Beckett"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7048",
+        "room_desc": "Beginning Quechua II"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7049",
+        "room_desc": "Behav & Population Structure"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7050",
+        "room_desc": "Bibl/Res: Adv Rdng Perf Std"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7051",
+        "room_desc": "Bio-Med Aspects of Disability"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7052",
+        "room_desc": "Bio-Organic Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7053",
+        "room_desc": "Biochemistry I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7054",
+        "room_desc": "Biogeography"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7055",
+        "room_desc": "Bioinformatics & Genomes"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7056",
+        "room_desc": "Bioinformatics For Biologists"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7057",
+        "room_desc": "Biolog Databases & Datamining"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7058",
+        "room_desc": "Biostatistics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7059",
+        "room_desc": "Biostatistics II"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7060",
+        "room_desc": "Biotic Resources: Integr"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7061",
+        "room_desc": "Blanchot & German Literature"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7062",
+        "room_desc": "Boccaccio Decameron"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7063",
+        "room_desc": "Brazilian Cinema Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7064",
+        "room_desc": "British Empiricism"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7065",
+        "room_desc": "Brodway-Hist/Impact"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7066",
+        "room_desc": "C-Pac I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7067",
+        "room_desc": "C-Pac II"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7068",
+        "room_desc": "Canzoniere"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7069",
+        "room_desc": "Capital Mkts & Portfolio Thry"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7070",
+        "room_desc": "Capitalism and History"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7071",
+        "room_desc": "Carib Lit: Sycorax Aesthetics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7072",
+        "room_desc": "Caribbean Art"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7073",
+        "room_desc": "Caribbean Transnationalisms"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7074",
+        "room_desc": "Carracci & Followers"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7075",
+        "room_desc": "Carribbean Art"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7076",
+        "room_desc": "Case Studies & Fin Modeling"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7077",
+        "room_desc": "Cataclysm & Commitment"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7078",
+        "room_desc": "Catholic Writers 20th Cent"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7079",
+        "room_desc": "Cent Eur Avant-Garde 1914-1939"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7080",
+        "room_desc": "Central Aud Process"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7081",
+        "room_desc": "Ceramic Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7082",
+        "room_desc": "Chinese Landscape"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7083",
+        "room_desc": "Choreography & Pornography"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7084",
+        "room_desc": "Cities of the Middle East"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7085",
+        "room_desc": "Clas7086: MESG,\"Classical Philology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7087",
+        "room_desc": "Cntmp Art/Plght Of Publicness"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7088",
+        "room_desc": "Cntmp Ital Civilizn"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7089",
+        "room_desc": "Cognit Sci & Educ Tech II"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7090",
+        "room_desc": "Cognitive Psychology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7091",
+        "room_desc": "Col Arabic Syro-Lebanese"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7092",
+        "room_desc": "Colloq: Arabic Egyptian Lit"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7093",
+        "room_desc": "Colonial Mexicn Art"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7094",
+        "room_desc": "Colonial7095: MESG,\"Commodity7096: MESG,\"Communism"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7097",
+        "room_desc": "Community Music"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7098",
+        "room_desc": "Comp Mod Lang Aquis"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7099",
+        "room_desc": "Compar Morphology of Primates"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7100",
+        "room_desc": "Compar Racisms in Americas"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7101",
+        "room_desc": "Comput Mthds Experimentalists"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7102",
+        "room_desc": "Computation Method For Finance"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7103",
+        "room_desc": "Computer Graphics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7104",
+        "room_desc": "Computer Music Composition"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7105",
+        "room_desc": "Computer Systems Design"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7106",
+        "room_desc": "Computer Vision"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7107",
+        "room_desc": "Computing in Finance"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7108",
+        "room_desc": "Consortium Course: NYU"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7109",
+        "room_desc": "Consp Theories: Paranoid Fict"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7110",
+        "room_desc": "Contempo Turkey"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7111",
+        "room_desc": "Continuous Time Finance"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7112",
+        "room_desc": "Conv Of The Arts I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7113",
+        "room_desc": "Corneille"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7114",
+        "room_desc": "Courbet & Courbet Studies"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7115",
+        "room_desc": "Creative Econ & Consumption"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7116",
+        "room_desc": "Creatve Resp: Perf Matters"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7117",
+        "room_desc": "Criminology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7118",
+        "room_desc": "Crises in the Public Sector"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7119",
+        "room_desc": "Critical Race Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7120",
+        "room_desc": "Cryoelectron Micros Macro Comp"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7121",
+        "room_desc": "Cryoelectron Microscopy"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7122",
+        "room_desc": "Cult Stdy Thry/Prac"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7123",
+        "room_desc": "Cultural History of Russia"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7124",
+        "room_desc": "Culture & Critique"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7125",
+        "room_desc": "Culture7126: MESG,\"Curatorial Studies II"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7127",
+        "room_desc": "Current Topics in Genetics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7128",
+        "room_desc": "Data Communic & Networks"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7129",
+        "room_desc": "Database Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7130",
+        "room_desc": "Debates Mod Irish History"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7131",
+        "room_desc": "Decor/Pleas in 17 & 18C China"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7132",
+        "room_desc": "Dental Anthropology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7133",
+        "room_desc": "Depth Psyc/Theology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7134",
+        "room_desc": "Derivative Securities"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7135",
+        "room_desc": "Design Simulat/Games For Learn"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7136",
+        "room_desc": "Dev & Dysfunct of Nerv Systm"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7137",
+        "room_desc": "Dev of Immigrant Origin Youth"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7138",
+        "room_desc": "Devotional Imagery Spain"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7139",
+        "room_desc": "Diderot"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7140",
+        "room_desc": "Differential Geometry II"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7141",
+        "room_desc": "Digital Media & Materiality"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7142",
+        "room_desc": "Directed Projects"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7143",
+        "room_desc": "Directing"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7144",
+        "room_desc": "Directing Theories"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7145",
+        "room_desc": "Disability & Diversity"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7146",
+        "room_desc": "Disability & Family Life Cycle"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7147",
+        "room_desc": "Disability & Narrative"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7148",
+        "room_desc": "Disability & The Media"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7149",
+        "room_desc": "Disability & the Humanities"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7150",
+        "room_desc": "Disability Law & Policy"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7151",
+        "room_desc": "Disorders of the Nervous Syste"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7152",
+        "room_desc": "Distribut Computing"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7153",
+        "room_desc": "Diversity in Higher Education"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7154",
+        "room_desc": "Divina Commedia"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7155",
+        "room_desc": "Dostoevsky & Modernity"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7156",
+        "room_desc": "Drug Dev: Molecule to Prscrptn"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7157",
+        "room_desc": "Drugs and the Brain"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7158",
+        "room_desc": "Dutch 17c Painting"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7159",
+        "room_desc": "Dutch Paintings 17c"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7160",
+        "room_desc": "Early Ital Painting"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7161",
+        "room_desc": "Early Medieval Art"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7162",
+        "room_desc": "Early Mod Europe I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7163",
+        "room_desc": "East Eur Jew In Amr"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7164",
+        "room_desc": "Eco Ref/Pol Chg Lat"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7165",
+        "room_desc": "Ecology & Ethics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7166",
+        "room_desc": "Econ Anthropology of Mideast"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7167",
+        "room_desc": "Econometrics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7168",
+        "room_desc": "Economic Botany"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7169",
+        "room_desc": "Economic Development II"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7170",
+        "room_desc": "Economics/Fin Higher Education"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7171",
+        "room_desc": "Educ Design Media Environ"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7172",
+        "room_desc": "Egyptian Art: Anim & Nat World"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7173",
+        "room_desc": "Electronics by Comp Simulation"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7174",
+        "room_desc": "Elem Arabic II"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7175",
+        "room_desc": "Elementary Chinese I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7176",
+        "room_desc": "Elementary Chinese II"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7177",
+        "room_desc": "Elementary Hindi I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7178",
+        "room_desc": "Elementary Hindi II"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7179",
+        "room_desc": "Elementary Latin"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7180",
+        "room_desc": "Elementary Turkish I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7181",
+        "room_desc": "Elementary Urdu I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7182",
+        "room_desc": "Elizabethan & Jacobean Drama"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7183",
+        "room_desc": "Embodiment & Performance"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7184",
+        "room_desc": "Embryology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7185",
+        "room_desc": "Empirical Asset Pricing"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7186",
+        "room_desc": "Endocrine Physiology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7187",
+        "room_desc": "Enlightenment & Its Discontent"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7188",
+        "room_desc": "Environmental History"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7189",
+        "room_desc": "Epic & Warfare Span Renaiss"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7190",
+        "room_desc": "Ethics: Selected Topics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7191",
+        "room_desc": "Ethno: Russia/USSR/Socialisms"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7192",
+        "room_desc": "Ethnog Traditions: South Asia"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7193",
+        "room_desc": "Ethnograph Trad: Latin America"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7194",
+        "room_desc": "Ethnography of Media"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7195",
+        "room_desc": "Ethnomusicology Ensemble"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7196",
+        "room_desc": "Ethnomusicology: Hist & Thry"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7197",
+        "room_desc": "Europ Intell Hist 1945-1970"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7198",
+        "room_desc": "European Prehist Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7199",
+        "room_desc": "Evaluating Educ Programs"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7200",
+        "room_desc": "Everyday Life 18th Cent France"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7201",
+        "room_desc": "Evolution Genetics & Genomics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7202",
+        "room_desc": "Exhib Plan & Desgn"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7203",
+        "room_desc": "Experimental Economics Wkshp"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7204",
+        "room_desc": "Expresionism/Dance"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7205",
+        "room_desc": "Exprsve Cultur/Cultur Poetics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7206",
+        "room_desc": "Factor Analy Struct Equat Mode"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7207",
+        "room_desc": "Family and Sexuality"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7208",
+        "room_desc": "Faunal Analys for Archaeology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7209",
+        "room_desc": "Fdtns of Machine Learning"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7210",
+        "room_desc": "Feminist Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7211",
+        "room_desc": "Fetish in Performance"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7212",
+        "room_desc": "Field Methods"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7213",
+        "room_desc": "Fieldwork: Data Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7214",
+        "room_desc": "Financial Economics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7215",
+        "room_desc": "Financial Economics II"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7216",
+        "room_desc": "Financing Urban Govt"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7217",
+        "room_desc": "Forms Of Protest"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7218",
+        "room_desc": "Forms of Jewish Culture"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7219",
+        "room_desc": "Free Choice & Free Action Sem"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7220",
+        "room_desc": "Fren Art Of 1930\u2019S"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7221",
+        "room_desc": "French Level Iii"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7222",
+        "room_desc": "French New Wave I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7223",
+        "room_desc": "French New Wave II"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7224",
+        "room_desc": "French Politics7225: MESG,\"Functional Analysis I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7226",
+        "room_desc": "Fund Electrophysiol"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7227",
+        "room_desc": "Fundamental Algorithms"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7228",
+        "room_desc": "Game Theory I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7229",
+        "room_desc": "Games & Play In Education"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7230",
+        "room_desc": "Gend7231: MESG,\"Gend/Emp/Nat in Mideast7232: MESG,\"Gender & Performance"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7233",
+        "room_desc": "Gender7234: MESG,\"German Music & Letters"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7235",
+        "room_desc": "Germany and The Greeks"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7236",
+        "room_desc": "Glob South:Cult7237: MESG,\"Global & Transcult Communic"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7238",
+        "room_desc": "Global Transcult Media"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7239",
+        "room_desc": "Gogol"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7240",
+        "room_desc": "Goldoni/Italian Com"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7241",
+        "room_desc": "Gothic Ptng/Sculpt"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7242",
+        "room_desc": "Greek Art: Greek Urbanism"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7243",
+        "room_desc": "Greek Sculpture 4th Century BC"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7244",
+        "room_desc": "Greeks & E Neighbors 12-6 BC"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7245",
+        "room_desc": "Gregorian Chant"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7246",
+        "room_desc": "Gross Anatomy"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7247",
+        "room_desc": "Haiti After U.S. Occup"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7248",
+        "room_desc": "Haiti in the Caribb Context"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7249",
+        "room_desc": "Harmonic Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7250",
+        "room_desc": "Heidegger/Deleuze"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7251",
+        "room_desc": "Hellenistic Arch"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7252",
+        "room_desc": "Hellenistic/Roman A"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7253",
+        "room_desc": "Hist & Thry of Translation"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7254",
+        "room_desc": "Hist Amer Educ Soc Race/Ethnic"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7255",
+        "room_desc": "Hist Lat Amer 1930-"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7256",
+        "room_desc": "Hist Of Avant-Garde"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7257",
+        "room_desc": "Hist Of Middle East"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7258",
+        "room_desc": "Hist Persp On Resp"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7259",
+        "room_desc": "Hist Sexuality U.S."
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7260",
+        "room_desc": "Hist of Archeological Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7261",
+        "room_desc": "Hist of Mid East: 1750-Presen"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7262",
+        "room_desc": "Hist of Philos Select Topics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7263",
+        "room_desc": "Hist/Ital Language"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7264",
+        "room_desc": "Hist/Thry Ethno Film"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7265",
+        "room_desc": "Histology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7266",
+        "room_desc": "Historical Resch & Writing"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7267",
+        "room_desc": "History of Archaeology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7268",
+        "room_desc": "History of Costume & Decor"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7269",
+        "room_desc": "History of Performance Art"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7270",
+        "room_desc": "Human Evol:Prob & Perspective"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7271",
+        "room_desc": "Human Gross Anatomy"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7272",
+        "room_desc": "I.S. Tacitus"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7273",
+        "room_desc": "Iconogr-Medievl Art"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7274",
+        "room_desc": "Images War/Viol in Modernism"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7275",
+        "room_desc": "Imaging Palestine/Israel"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7276",
+        "room_desc": "Imaging Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7277",
+        "room_desc": "Impressionism"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7278",
+        "room_desc": "Imprlsm Coln Africa"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7279",
+        "room_desc": "Income Distrib in U.S."
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7280",
+        "room_desc": "Ind Study: Alter/Deterior"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7281",
+        "room_desc": "Independent Resch"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7282",
+        "room_desc": "Independent Study"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7283",
+        "room_desc": "Indians Early Amer"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7284",
+        "room_desc": "Indiv Couns Thry/Pr"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7285",
+        "room_desc": "Indiv Couns: Thry & Process"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7286",
+        "room_desc": "Industrial Organization I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7287",
+        "room_desc": "Inervn/Social Chng"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7288",
+        "room_desc": "Intensive Elem German"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7289",
+        "room_desc": "Inter-American Studies"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7290",
+        "room_desc": "Interdisc Persp New Immigratio"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7291",
+        "room_desc": "Interest Rate & Credit Models"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7292",
+        "room_desc": "Intermediate Arabic I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7293",
+        "room_desc": "Intermediate Arabic II"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7294",
+        "room_desc": "Intermediate Chinese I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7295",
+        "room_desc": "Intermediate Chinese II"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7296",
+        "room_desc": "Intermediate French"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7297",
+        "room_desc": "Intermediate Hindi I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7298",
+        "room_desc": "Intermediate Spanish I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7299",
+        "room_desc": "Intermediate Turkish I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7300",
+        "room_desc": "International Economics II"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7301",
+        "room_desc": "Internatl Studies in Hum Right"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7302",
+        "room_desc": "Interpret Hum Skel Morphology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7303",
+        "room_desc": "Interpretation Authority7304: MESG,\"Intervention & Social Change"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7305",
+        "room_desc": "Interview & Observation"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7306",
+        "room_desc": "Intro Survival Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7307",
+        "room_desc": "Intro To Soc Movemt"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7308",
+        "room_desc": "Intro Tpcs in Literary Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7309",
+        "room_desc": "Intro to Archives Hist"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7310",
+        "room_desc": "Intro to Art Therapy"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7311",
+        "room_desc": "Intro to Biostatistics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7312",
+        "room_desc": "Intro to Medieval Literature"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7313",
+        "room_desc": "Intro to Morphology: Adv Level"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7314",
+        "room_desc": "Intro to Preservatn/Reformatn"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7315",
+        "room_desc": "Intro to Program for Linguists"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7316",
+        "room_desc": "Intro to Quant Polit Analys I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7317",
+        "room_desc": "Intro to String Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7318",
+        "room_desc": "Intro to Study of Gothic"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7319",
+        "room_desc": "Ireland in Atl World 1600-1850"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7320",
+        "room_desc": "Irish & Euro Migrations"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7321",
+        "room_desc": "Islam in West Africa"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7322",
+        "room_desc": "Ital Baroque Pntng"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7323",
+        "room_desc": "Italy WW 2:Resist7324: MESG,\"Jewish Folklore & Ethnol"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7325",
+        "room_desc": "Jewish Folklore/Eth"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7326",
+        "room_desc": "Jewish Women in Amer & Europe"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7327",
+        "room_desc": "Jews & Germans Through WWI"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7328",
+        "room_desc": "Jews In East Europe"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7329",
+        "room_desc": "Jews In Poland 19c"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7330",
+        "room_desc": "Kafka"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7331",
+        "room_desc": "La Pleiade"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7332",
+        "room_desc": "Labor Economics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7333",
+        "room_desc": "Labor and the Economy"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7334",
+        "room_desc": "Laboratory Phonology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7335",
+        "room_desc": "Laboratory Rotation"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7336",
+        "room_desc": "Landscp/Cityscp Braz Mod Poetr"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7337",
+        "room_desc": "Language & Cognition"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7338",
+        "room_desc": "Language & Ethnicity"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7339",
+        "room_desc": "Late Ottoman Empire"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7340",
+        "room_desc": "Latin America: Revolution"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7341",
+        "room_desc": "Latin American Economics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7342",
+        "room_desc": "Latin American Theatre"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7343",
+        "room_desc": "Latin Kingdom of Jerusalem"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7344",
+        "room_desc": "Latin-Amer Theatre"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7345",
+        "room_desc": "Latino Performance"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7346",
+        "room_desc": "Law7347: MESG,\"Le Comique"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7348",
+        "room_desc": "Le Nouveau Roman"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7349",
+        "room_desc": "Le Roman De La Rose"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7350",
+        "room_desc": "Linear Algebra I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7351",
+        "room_desc": "Linear Algebra II"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7352",
+        "room_desc": "Link Dinosaurs & Birds"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7353",
+        "room_desc": "Listen Guide Mthd Psyc Inquiry"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7354",
+        "room_desc": "Lit & Social Space"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7355",
+        "room_desc": "Lit of the Field: Mod Lat Amer"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7356",
+        "room_desc": "Lit of the Field:African Histo"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7357",
+        "room_desc": "Literacy Assessment"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7358",
+        "room_desc": "Literature & Philosophy"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7359",
+        "room_desc": "Literature & Psych"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7360",
+        "room_desc": "Literature & Space"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7361",
+        "room_desc": "Livy"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7362",
+        "room_desc": "Logic in Computer Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7363",
+        "room_desc": "Longitudinal Statistics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7364",
+        "room_desc": "Lyric Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7365",
+        "room_desc": "Lysias/Demosthenes"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7366",
+        "room_desc": "Machine Learning"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7367",
+        "room_desc": "Macro Theory Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7368",
+        "room_desc": "Macroeconometrics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7369",
+        "room_desc": "Macroeconommics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7370",
+        "room_desc": "Maimonides Misneh Torah"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7371",
+        "room_desc": "Major Texts in Crit Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7372",
+        "room_desc": "Mallarme & His Grp"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7373",
+        "room_desc": "Management Consulting Fund"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7374",
+        "room_desc": "Manet To Cezanne"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7375",
+        "room_desc": "Manet/Degas"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7376",
+        "room_desc": "Marginalty Mid Ages"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7377",
+        "room_desc": "Marxism & Performance"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7378",
+        "room_desc": "Mat7379: MESG,\"Materiality"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7380",
+        "room_desc": "Math & Democracy"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7381",
+        "room_desc": "Math For Polit Sci"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7382",
+        "room_desc": "Math Tools For Cogn Sci/Neuro"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7383",
+        "room_desc": "Math Tools for Neuroscience"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7384",
+        "room_desc": "Mathematical Statistics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7385",
+        "room_desc": "Max Programming I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7386",
+        "room_desc": "Measurement: Mod Test Thry"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7387",
+        "room_desc": "Mechanics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7388",
+        "room_desc": "Med Ashken Jewry"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7389",
+        "room_desc": "Media & Politics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7390",
+        "room_desc": "Mediev Iconography"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7391",
+        "room_desc": "Mediev Jewish Hist"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7392",
+        "room_desc": "Medieval Archaeology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7393",
+        "room_desc": "Medieval Jewish Experience"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7394",
+        "room_desc": "Medieval Women\u2019s Writing"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7395",
+        "room_desc": "Memoirs in Mod Eur Jewish Hist"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7396",
+        "room_desc": "Memory Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7397",
+        "room_desc": "Menander & Terence"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7398",
+        "room_desc": "Metaphysics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7399",
+        "room_desc": "Microeconometrics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7400",
+        "room_desc": "Microeconomics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7401",
+        "room_desc": "Mid Byz Art & Arch"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7402",
+        "room_desc": "Mid Byz Art/Arch I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7403",
+        "room_desc": "Mod Arabic Lit Crit"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7404",
+        "room_desc": "Mod Drama Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7405",
+        "room_desc": "Mod Stat Inference & Econmtrcs"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7406",
+        "room_desc": "Modern European Cities"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7407",
+        "room_desc": "Modern Hebrew Liter"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7408",
+        "room_desc": "Modern Ital Crtiism"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7409",
+        "room_desc": "Modern Palestinian Literat"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7410",
+        "room_desc": "Modernism in Latin America"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7411",
+        "room_desc": "Modrn Ital Criticsm"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7412",
+        "room_desc": "Molecular Anthropology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7413",
+        "room_desc": "Montaigne"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7414",
+        "room_desc": "Mthds for Analysis of Change"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7415",
+        "room_desc": "Mthds of Polit & Soc Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7416",
+        "room_desc": "Mulit-Lev Model Growth Curve"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7417",
+        "room_desc": "Multi-Level Model Nested Data"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7418",
+        "room_desc": "Multivariable Calculus"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7419",
+        "room_desc": "Mus & Perf: Performing Brazil"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7420",
+        "room_desc": "Mus Conserv & Contemp Culture"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7421",
+        "room_desc": "Mus Educ Curric Develop"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7422",
+        "room_desc": "Mus Resch-Perspect & Lacunae"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7423",
+        "room_desc": "Museum Education"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7424",
+        "room_desc": "Music & Other Arts In Soc"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7425",
+        "room_desc": "Music and Politics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7426",
+        "room_desc": "Music and Ritual"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7427",
+        "room_desc": "Musical Ethnography"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7428",
+        "room_desc": "Natl & Post-Colonial History"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7429",
+        "room_desc": "Natural History of Primates"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7430",
+        "room_desc": "Neotropical Botany"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7431",
+        "room_desc": "Networks & Distributed Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7432",
+        "room_desc": "Neuroanatomy"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7433",
+        "room_desc": "Neuropsychology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7434",
+        "room_desc": "New Chinese Documentary"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7435",
+        "room_desc": "Nietzsche\u2019s Impact 20C Thought"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7436",
+        "room_desc": "Numerical MEthods II"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7437",
+        "room_desc": "Numerical Methods I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7438",
+        "room_desc": "Nyc Architect/Hist"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7439",
+        "room_desc": "Nyc: Relig Symbols"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7440",
+        "room_desc": "Oculomotor Systems"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7441",
+        "room_desc": "Oral Hist: Mus7442: MESG,\"Ordinary Diff Equations I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7443",
+        "room_desc": "Origins Picture Surface China"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7444",
+        "room_desc": "Ottoman Emp Eur 1350-1750"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7445",
+        "room_desc": "Ottoman Turkish II"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7446",
+        "room_desc": "PDE For Finance"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7447",
+        "room_desc": "Painting in Spain 1580-1700"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7448",
+        "room_desc": "Palestine/Politics of History"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7449",
+        "room_desc": "Parisian Art World"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7450",
+        "room_desc": "Partial Differ Equations I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7451",
+        "room_desc": "Participatory Action Research"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7452",
+        "room_desc": "Patron & Pol/Muromachi Per Jpn"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7453",
+        "room_desc": "Pensamiento Latino Americano"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7454",
+        "room_desc": "Perception"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7455",
+        "room_desc": "Perf & Technolog Imagination"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7456",
+        "room_desc": "Perf Thry:Perf of Magnitude"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7457",
+        "room_desc": "Perform Composition"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7458",
+        "room_desc": "Persist of Theologic-Political"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7459",
+        "room_desc": "Petrarch/Emp/Invent of Eur"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7460",
+        "room_desc": "Phase Transit & Crit Phenomena"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7461",
+        "room_desc": "Philosophical Logic"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7462",
+        "room_desc": "Philosophical Research"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7463",
+        "room_desc": "Philosophy Of Mind"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7464",
+        "room_desc": "Philosophy of Language"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7465",
+        "room_desc": "Philosophy of Math"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7466",
+        "room_desc": "Philosophy of Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7467",
+        "room_desc": "Phylogenetic Methods"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7468",
+        "room_desc": "Phys Anthro II: Neanderthals"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7469",
+        "room_desc": "Phys Princ of Medical Imaging"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7470",
+        "room_desc": "Physical Biomechanics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7471",
+        "room_desc": "Physical Organic Chemistry"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7472",
+        "room_desc": "Physiol Basis of Behavior"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7473",
+        "room_desc": "Physiological Psy I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7474",
+        "room_desc": "Pidgin & Creole Languages"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7475",
+        "room_desc": "Place/Lndscp/Trav Arts S. Asia"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7476",
+        "room_desc": "Plant Resources I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7477",
+        "room_desc": "Plant Systematics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7478",
+        "room_desc": "Pntg France 1900-20"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7479",
+        "room_desc": "Pol Econ of North-South Relat"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7480",
+        "room_desc": "Polit & Cult Contemp Mid East"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7481",
+        "room_desc": "Polit & Relig in America 20thC"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7482",
+        "room_desc": "Political Anthropology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7483",
+        "room_desc": "Political Cultures of Empires"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7484",
+        "room_desc": "Political Philosophy"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7485",
+        "room_desc": "Political Theory Seminar"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7486",
+        "room_desc": "Politics & Performance"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7487",
+        "room_desc": "Politics of Decolonization"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7488",
+        "room_desc": "Politics of Performance Space"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7489",
+        "room_desc": "Politics of the Gaze"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7490",
+        "room_desc": "Pop Pol/Reb in Lat Amer/Carib"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7491",
+        "room_desc": "Popul/Commun Ecolgy"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7492",
+        "room_desc": "Populr Entertainmnt"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7493",
+        "room_desc": "Portug For Span Spk"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7494",
+        "room_desc": "Post-Coloniality/Translation"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7495",
+        "room_desc": "Poussin to Boucher"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7496",
+        "room_desc": "Prehistory of the Near East"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7497",
+        "room_desc": "Prgrm with Visual Basic Net"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7498",
+        "room_desc": "Prim Behav7499: MESG,\"Primate Behavior"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7500",
+        "room_desc": "Primate Biology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7501",
+        "room_desc": "Princ of Pharmacology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7502",
+        "room_desc": "Principles of Evolution"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7503",
+        "room_desc": "Principles of Learning"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7504",
+        "room_desc": "Prisms of Modernity"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7505",
+        "room_desc": "Prob Chin Visuality"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7506",
+        "room_desc": "Prob Contmp Fr Soc"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7507",
+        "room_desc": "Prob Ear Mod Europ Portraiture"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7508",
+        "room_desc": "Prob of Interpret Archit Hist"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7509",
+        "room_desc": "Prob: Limit Theorems I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7510",
+        "room_desc": "Psy Of Socal Behavr"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7511",
+        "room_desc": "Psych Research  In Infancy"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7512",
+        "room_desc": "Psych of Decision-Making"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7513",
+        "room_desc": "Psychol Of Religion"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7514",
+        "room_desc": "Psychology of Addiction"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7515",
+        "room_desc": "Psychology of Violence"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7516",
+        "room_desc": "Psychscl/Cult/Pol Asp Disblty"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7517",
+        "room_desc": "Ptg In Rome/Bologna"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7518",
+        "room_desc": "Public Econmcs Ii"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7519",
+        "room_desc": "Public Economics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7520",
+        "room_desc": "Quantitative Analys"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7521",
+        "room_desc": "Quantitative Methods III"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7522",
+        "room_desc": "Quantum Field Theory II"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7523",
+        "room_desc": "Quantum Field Theory III"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7524",
+        "room_desc": "Randomized Algorithms"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7525",
+        "room_desc": "Rdg  Ethn/Hist Post-Emanc Braz"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7526",
+        "room_desc": "Rdngs in Babylonian Talmud"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7527",
+        "room_desc": "Reading Course"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7528",
+        "room_desc": "Reading Course I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7529",
+        "room_desc": "Reading in Anthropology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7530",
+        "room_desc": "Readings in History"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7531",
+        "room_desc": "Real Variables"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7532",
+        "room_desc": "Real Variables I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7533",
+        "room_desc": "Reframing Architecture"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7534",
+        "room_desc": "Regression"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7535",
+        "room_desc": "Regulations of Financ instit"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7536",
+        "room_desc": "Rel7537: MESG,\"Relig/American Jews"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7538",
+        "room_desc": "Religions in Latin America"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7539",
+        "room_desc": "Renaiss Arch Italy"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7540",
+        "room_desc": "Renaissance in Spain"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7541",
+        "room_desc": "Res Sem On Organiz"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7542",
+        "room_desc": "Resch In Genetics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7543",
+        "room_desc": "Resch Investigatn in Math Educ"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7544",
+        "room_desc": "Resch Mthd/Text Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7545",
+        "room_desc": "Resch Mthds: Event History"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7546",
+        "room_desc": "Resch on Urban & Minority Educ"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7547",
+        "room_desc": "Research Methods"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7548",
+        "room_desc": "Research in Anthropology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7549",
+        "room_desc": "Revolution7550: MESG,\"Risk & Resilience"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7551",
+        "room_desc": "Risk Management"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7552",
+        "room_desc": "Ritual & Performance"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7553",
+        "room_desc": "Ritual7554: MESG,\"Roman Art:Trajan to Constantin"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7555",
+        "room_desc": "Rsch Sem: Mind & Language"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7556",
+        "room_desc": "Russia & Its Disciplines"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7557",
+        "room_desc": "Russian Poetry: Poetesses/Poet"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7558",
+        "room_desc": "Russian Popular Culture: 20C"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7559",
+        "room_desc": "Russian Postmodernist Fiction"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7560",
+        "room_desc": "Schenkerian Analy"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7561",
+        "room_desc": "Scientific Computing"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7562",
+        "room_desc": "Scoring for Films & Multimedia"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7563",
+        "room_desc": "Sculpt Postwar & Cold War"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7564",
+        "room_desc": "Second Lang: Thry & Resch"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7565",
+        "room_desc": "Sem Syntax & Semantics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7566",
+        "room_desc": "Sem in Medieval Arabic Liter"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7567",
+        "room_desc": "Sem in Political Sociology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7568",
+        "room_desc": "Sem in Written Discourse"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7569",
+        "room_desc": "Sem: Braz Racial Democracy"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7570",
+        "room_desc": "Sem: Caribbean Crossroads"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7571",
+        "room_desc": "Sem: Educ Linguistics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7572",
+        "room_desc": "Sem: Ethnography of Power"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7573",
+        "room_desc": "Sem: Hist/Thry Avant-Garde"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7574",
+        "room_desc": "Sem: Modern Iran"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7575",
+        "room_desc": "Sem: Physical Anthropology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7576",
+        "room_desc": "Sem: Pina Bausch in Context"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7577",
+        "room_desc": "Sem: Responsiblty Of Intellect"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7578",
+        "room_desc": "Sem: Spec & Spec Concepts"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7579",
+        "room_desc": "Sem: The Photo Book"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7580",
+        "room_desc": "Sem:Health Soc Rel"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7581",
+        "room_desc": "Sem:Politics7582: MESG,\"Semantics I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7583",
+        "room_desc": "Semantics II"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7584",
+        "room_desc": "Seminar in 19C Russian Literat"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7585",
+        "room_desc": "Seminar in Neuroeconomics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7586",
+        "room_desc": "Seminar in Phonology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7587",
+        "room_desc": "Seminar in Semantics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7588",
+        "room_desc": "Seminar in Syntax"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7589",
+        "room_desc": "Seminar on Simmel"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7590",
+        "room_desc": "Sex & Gender"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7591",
+        "room_desc": "Sexuality on Stage"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7592",
+        "room_desc": "Shakespeare\u2019s Language"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7593",
+        "room_desc": "Skeletal Morphology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7594",
+        "room_desc": "Smath/Perf:Cog/Entnglmnt/Tplgy"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7595",
+        "room_desc": "So Afric/Theol-Socl"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7596",
+        "room_desc": "Social & Devel Afr-Amer Child"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7597",
+        "room_desc": "Social Cognition"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7598",
+        "room_desc": "Social Psychology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7599",
+        "room_desc": "Social Stratification"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7600",
+        "room_desc": "Sociolinguistics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7601",
+        "room_desc": "Sociology of Culture"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7602",
+        "room_desc": "Sociology of Punishment"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7603",
+        "room_desc": "Sociology of Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7604",
+        "room_desc": "Spain Pnt 1580-1700"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7605",
+        "room_desc": "Spch Sound Disrdrs in Children"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7606",
+        "room_desc": "Spec Studies:Ethnomusicology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7607",
+        "room_desc": "Spec Topics Physiol"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7608",
+        "room_desc": "Spec Topics in Applied Math 2"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7609",
+        "room_desc": "Spec Tpc in Number Theory I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7610",
+        "room_desc": "Spec Tpc: Subjectivit in Music"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7611",
+        "room_desc": "Spec Tpcs in Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7612",
+        "room_desc": "Spec Tpcs in Geometry"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7613",
+        "room_desc": "Spec Tpcs in Math Physiology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7614",
+        "room_desc": "Spec Tpcs: China7615: MESG,\"Spec Tpcs: Colon Boerderlands"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7616",
+        "room_desc": "Spec Tpcs: Imaging"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7617",
+        "room_desc": "Spec Tpcs:Math Biol"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7618",
+        "room_desc": "Stage Design"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7619",
+        "room_desc": "Stat Mthd for Comp Pol"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7620",
+        "room_desc": "Statistics in Biology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7621",
+        "room_desc": "Stochastic Calculus"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7622",
+        "room_desc": "Stochastic Process"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7623",
+        "room_desc": "Stud in 18C Lit: Rom et Philos"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7624",
+        "room_desc": "Studies 16th Century Lit"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7625",
+        "room_desc": "Studies in Dance: Survey"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7626",
+        "room_desc": "Supervised Researcl"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7627",
+        "room_desc": "Survey Resch Methods"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7628",
+        "room_desc": "Syntax III"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7629",
+        "room_desc": "System Justification Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7630",
+        "room_desc": "Tch 2nd Lang Acr Content Areas"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7631",
+        "room_desc": "Techniq Music Composition"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7632",
+        "room_desc": "Technol/Preindustr Societies"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7633",
+        "room_desc": "Technology & Nature"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7634",
+        "room_desc": "Text/Imag Med Eur Manuscrpts"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7635",
+        "room_desc": "Text/Image Persian Manuscripts"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7636",
+        "room_desc": "The 18th Century Novel"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7637",
+        "room_desc": "The Age Of Augustus"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7638",
+        "room_desc": "The Exhibition of Form"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7639",
+        "room_desc": "The Information Society"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7640",
+        "room_desc": "The Japanese Empire"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7641",
+        "room_desc": "The Jewish Community"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7642",
+        "room_desc": "The Pleasures of Negativity"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7643",
+        "room_desc": "The Politics Of Reproduction"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7644",
+        "room_desc": "The Quran & Material Culture"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7645",
+        "room_desc": "The Relational Self"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7646",
+        "room_desc": "Theo Resch Seminar"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7647",
+        "room_desc": "Theor Of Subjectiv"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7648",
+        "room_desc": "Theories of Architect & Space"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7649",
+        "room_desc": "Theories of Directing"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7650",
+        "room_desc": "Theories of Modernity"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7651",
+        "room_desc": "Theories of Personality"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7652",
+        "room_desc": "Theories of Social Psychology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7653",
+        "room_desc": "Theorizing Francophonie"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7654",
+        "room_desc": "Theory International Finance"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7655",
+        "room_desc": "Theory of Econ Development I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7656",
+        "room_desc": "Thry Of Computation"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7657",
+        "room_desc": "Thry Welfare State"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7658",
+        "room_desc": "Thry/Mthd on Study of Relig"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7659",
+        "room_desc": "Titian Paintings"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7660",
+        "room_desc": "Tolstoy vs. Dostoevsky"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7661",
+        "room_desc": "Top Diaspora Studie"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7662",
+        "room_desc": "Top: Latin Amer Perf"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7663",
+        "room_desc": "Topics Caribbean Literature"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7664",
+        "room_desc": "Topics Literary Thy"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7665",
+        "room_desc": "Topics in American Literat 2"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7666",
+        "room_desc": "Topics in Criticism I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7667",
+        "room_desc": "Topics in Epistemology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7668",
+        "room_desc": "Topics in Ethics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7669",
+        "room_desc": "Topics in Metaphysics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7670",
+        "room_desc": "Topics in Numerical Analysis"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7671",
+        "room_desc": "Topics in Philosophy of Mind"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7672",
+        "room_desc": "Topics in Syntactic Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7673",
+        "room_desc": "Topics in Visual Culture"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7674",
+        "room_desc": "Tourist Productions"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7675",
+        "room_desc": "Tpc Issues Represen"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7676",
+        "room_desc": "Tpc Math Biol: Bioinformatics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7677",
+        "room_desc": "Tpc in Eco: Adv Econometrics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7678",
+        "room_desc": "Tpc in the History of Rhetoric"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7679",
+        "room_desc": "Tpc: Black Cultural Studies"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7680",
+        "room_desc": "Tpc: Ethics of Pastoral"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7681",
+        "room_desc": "Tpc: Francophone Theatre"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7682",
+        "room_desc": "Tpc: Gender7683: MESG,\"Tpc: Genres of Enlightenment"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7684",
+        "room_desc": "Tpc: Mapping Transnational"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7685",
+        "room_desc": "Tpc:Xenophob/Rad Right Europ"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7686",
+        "room_desc": "Tpcs 19C Cult:Concpt of Securi"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7687",
+        "room_desc": "Tpcs Graph Design Since 1950"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7688",
+        "room_desc": "Tpcs In Philos Of Science"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7689",
+        "room_desc": "Tpcs in East Europ Jewish Hist"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7690",
+        "room_desc": "Tpcs in European History"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7691",
+        "room_desc": "Tpcs in Renaissance Lit"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7692",
+        "room_desc": "Tpcs: 20th Cent Cities"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7693",
+        "room_desc": "Tpcs: African Novel"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7694",
+        "room_desc": "Tpcs: Body7695: MESG,\"Tpcs: Global Geom & Topology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7696",
+        "room_desc": "Tpcs: Machado de Assis"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7697",
+        "room_desc": "Tpcs: New Approach to Urb Lit"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7698",
+        "room_desc": "Tpcs: Poetry Unbound"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7699",
+        "room_desc": "Tpcs: Postwar Visual Poetics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7700",
+        "room_desc": "Tpcs: Queer Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7701",
+        "room_desc": "Tpcs: Roman Archeol"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7702",
+        "room_desc": "Tpcs: The Inquisition"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7703",
+        "room_desc": "Tpcs: Why Moby Dick Matters"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7704",
+        "room_desc": "Training In Organiz"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7705",
+        "room_desc": "Translatn7706: MESG,\"Transnational Processes"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7707",
+        "room_desc": "Transoceanic Renaissance"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7708",
+        "room_desc": "Trauma & Representation"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7709",
+        "room_desc": "Trauma Studies"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7710",
+        "room_desc": "U.S. Labor History"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7711",
+        "room_desc": "Unconcs Proc/Org Lf"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7712",
+        "room_desc": "Under the Gaze of Others"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7713",
+        "room_desc": "Unix Tools"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7714",
+        "room_desc": "Urban Anthropology"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7715",
+        "room_desc": "Urban Theory"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7716",
+        "room_desc": "Vagueness/Indeterminacy"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7717",
+        "room_desc": "Vico And His Times"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7718",
+        "room_desc": "Video Production Sem I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7719",
+        "room_desc": "Vis Arts Blk Diaspo"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7720",
+        "room_desc": "Visual Perception"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7721",
+        "room_desc": "Web Search Engines"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7722",
+        "room_desc": "Western Eur Jewish History"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7723",
+        "room_desc": "What Is Europe?"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7724",
+        "room_desc": "Winnicott/Klein"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7725",
+        "room_desc": "Wkshp in Translation I"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7726",
+        "room_desc": "Wom/Perf Feminist Ethnography"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7727",
+        "room_desc": "Women Artists & Their Critics"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7728",
+        "room_desc": "Women In 20c Amer"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7729",
+        "room_desc": "Work7730: MESG,\"Workshop"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7731",
+        "room_desc": "Workshop in Fiction"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7732",
+        "room_desc": "World Cult:Mideast"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7733",
+        "room_desc": "Yiddishism in the 20th C"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "7734",
+        "room_desc": "world Cultures: The Caribbean"
+    },
+    {
+        "school": "GRD01",
+        "major": "MESG",
+        "room_num": "88380",
+        "room_desc": "MESG"
+    }
+]

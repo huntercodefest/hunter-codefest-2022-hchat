@@ -1,0 +1,80 @@
+[
+    {
+        "school": "BMC01",
+        "major": "PHYS",
+        "room_num": "18942",
+        "room_desc": "General Physics"
+    },
+    {
+        "school": "BMC01",
+        "major": "PHYS",
+        "room_num": "18943",
+        "room_desc": "General Physics (Honors)"
+    },
+    {
+        "school": "BMC01",
+        "major": "PHYS",
+        "room_num": "18944",
+        "room_desc": "General Physics Experiments"
+    },
+    {
+        "school": "BMC01",
+        "major": "PHYS",
+        "room_num": "18945",
+        "room_desc": "General Physics Theory"
+    },
+    {
+        "school": "BMC01",
+        "major": "PHYS",
+        "room_num": "18946",
+        "room_desc": "Modern Physics"
+    },
+    {
+        "school": "BMC01",
+        "major": "PHYS",
+        "room_num": "18947",
+        "room_desc": "Phy Directed Study"
+    },
+    {
+        "school": "BMC01",
+        "major": "PHYS",
+        "room_num": "18948",
+        "room_desc": "Physics Directed Study"
+    },
+    {
+        "school": "BMC01",
+        "major": "PHYS",
+        "room_num": "18949",
+        "room_desc": "Physics I"
+    },
+    {
+        "school": "BMC01",
+        "major": "PHYS",
+        "room_num": "18950",
+        "room_desc": "Physics II"
+    },
+    {
+        "school": "BMC01",
+        "major": "PHYS",
+        "room_num": "18951",
+        "room_desc": "The Physics of Music"
+    },
+    {
+        "school": "BMC01",
+        "major": "PHYS",
+        "room_num": "18952",
+        "room_desc": "University Physics I"
+    },
+    {
+        "school": "BMC01",
+        "major": "PHYS",
+        "room_num": "18953",
+        "room_desc": "University Physics II"
+    },
+    {
+        "school": "BMC01",
+        "major": "PHYS",
+        "room_num": "86798",
+        "room_desc": "PHYS"
+    }
+]

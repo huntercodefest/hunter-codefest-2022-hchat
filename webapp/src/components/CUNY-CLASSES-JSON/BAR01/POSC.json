@@ -1,0 +1,500 @@
+[
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61769",
+        "room_desc": "African Political Systems"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61770",
+        "room_desc": "Amer Conservatism"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61771",
+        "room_desc": "Amer Govt Pract & Values"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61772",
+        "room_desc": "American Foreign Policy"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61773",
+        "room_desc": "American Political Thought"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61774",
+        "room_desc": "American Radicalism"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61775",
+        "room_desc": "Asian Political Systems"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61776",
+        "room_desc": "Case Studies in American Govt"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61777",
+        "room_desc": "Civil Liberties"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61778",
+        "room_desc": "Communist Political Systems"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61779",
+        "room_desc": "Comp Polit Select Areas World"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61780",
+        "room_desc": "Comparative Revolutions"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61781",
+        "room_desc": "Congress & Legislative Proces"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61782",
+        "room_desc": "Constitutional Law"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61783",
+        "room_desc": "Contemp International Conflict"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61784",
+        "room_desc": "Contemp Political Ideologies"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61785",
+        "room_desc": "Early Political Theory"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61786",
+        "room_desc": "European Political Systems"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61787",
+        "room_desc": "Field Work Govt Pol"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61788",
+        "room_desc": "Gov & Amer Economy"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61789",
+        "room_desc": "Hon Amer Gov Prac"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61790",
+        "room_desc": "Hon Independent Study POL I"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61791",
+        "room_desc": "Hon Independent Study POL II"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61792",
+        "room_desc": "Hon Intro To Int Religion"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61793",
+        "room_desc": "Hon Political Soc"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61794",
+        "room_desc": "Hon Rel & Pol In U.S."
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61795",
+        "room_desc": "Hon The Rise Of Asia Pol"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61796",
+        "room_desc": "Honors"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61797",
+        "room_desc": "Honors - Civil Liberty"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61798",
+        "room_desc": "Honors - Constitutional Law"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61799",
+        "room_desc": "Honors - Political Science I"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61800",
+        "room_desc": "Honors - Political Science II"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61801",
+        "room_desc": "Honors - The Presidency"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61802",
+        "room_desc": "Honors - U.S. Age of Globaliz"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61803",
+        "room_desc": "Honors Pol Science"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61804",
+        "room_desc": "Honors Spec Topic in Poli Sci"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61805",
+        "room_desc": "Identity Politics in Comparati"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61806",
+        "room_desc": "Immig & Integration in U.S."
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61807",
+        "room_desc": "Independent Study POL I"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61808",
+        "room_desc": "Independent Study POL II"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61809",
+        "room_desc": "Independent Study POLl III"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61810",
+        "room_desc": "Intro Compartve Govt"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61811",
+        "room_desc": "Intro To Intl Relatn"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61812",
+        "room_desc": "Lat Am&Carib Pol Sys"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61813",
+        "room_desc": "Making of Modern India"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61814",
+        "room_desc": "Mod Mideast&N.Africa"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61815",
+        "room_desc": "Modern Political Theory"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61816",
+        "room_desc": "New York State Assembly and Se"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61817",
+        "room_desc": "Pol Of Energy & Enviro"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61818",
+        "room_desc": "Pol Of The 3rd World"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61819",
+        "room_desc": "Pol Parties & Electn"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61820",
+        "room_desc": "Pol Sc Gen Ed Req Mt"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61821",
+        "room_desc": "Pol Sci Gen Edu Req Met"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61822",
+        "room_desc": "Polit & Govt - NYC"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61823",
+        "room_desc": "Political Analysis"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61824",
+        "room_desc": "Political Behavior"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61825",
+        "room_desc": "Political Economy"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61826",
+        "room_desc": "Political Parties & Elections"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61827",
+        "room_desc": "Political Psychology"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61828",
+        "room_desc": "Political Science Capstone Sem"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61829",
+        "room_desc": "Political Sociology"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61830",
+        "room_desc": "Public Administratn"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61831",
+        "room_desc": "Public Opinion"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61832",
+        "room_desc": "Public Policy"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61833",
+        "room_desc": "Religion & Pol- U.S."
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61834",
+        "room_desc": "Research Practicums"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61835",
+        "room_desc": "Research Skills in Political"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61836",
+        "room_desc": "Rsrch Practicums in Poli Sci"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61837",
+        "room_desc": "Sem On Pol Glob"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61838",
+        "room_desc": "Social Movements and U.S. Poli"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61839",
+        "room_desc": "Social Welfare Policy"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61840",
+        "room_desc": "Spec Top In Pol Sci"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61841",
+        "room_desc": "State and Local Government"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61842",
+        "room_desc": "The Great Political Debates"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61843",
+        "room_desc": "The Presidency"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61844",
+        "room_desc": "The Rise Of Asia-World Aff"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61845",
+        "room_desc": "The U.N. in World Politics"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61846",
+        "room_desc": "Topics In Pol & Lit"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61847",
+        "room_desc": "U.S. Age Of Globaliz"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61848",
+        "room_desc": "Urban Politics"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61849",
+        "room_desc": "Urban Public Policy"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "61850",
+        "room_desc": "Women: Politics and Policy"
+    },
+    {
+        "school": "BAR01",
+        "major": "POSC",
+        "room_num": "86651",
+        "room_desc": "POSC"
+    }
+]

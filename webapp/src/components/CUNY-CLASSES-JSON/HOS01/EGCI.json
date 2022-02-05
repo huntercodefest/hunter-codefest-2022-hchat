@@ -1,0 +1,44 @@
+[
+    {
+        "school": "HOS01",
+        "major": "EGCI",
+        "room_num": "64629",
+        "room_desc": "Civ Engineering Data Analysis"
+    },
+    {
+        "school": "HOS01",
+        "major": "EGCI",
+        "room_num": "64630",
+        "room_desc": "Environmental Impact"
+    },
+    {
+        "school": "HOS01",
+        "major": "EGCI",
+        "room_num": "64631",
+        "room_desc": "Fluid Mechanics I"
+    },
+    {
+        "school": "HOS01",
+        "major": "EGCI",
+        "room_num": "64632",
+        "room_desc": "Mechanics of Deformable Bodies"
+    },
+    {
+        "school": "HOS01",
+        "major": "EGCI",
+        "room_num": "64633",
+        "room_desc": "Structural Mechanics"
+    },
+    {
+        "school": "HOS01",
+        "major": "EGCI",
+        "room_num": "64634",
+        "room_desc": "Structural and Site Plans"
+    },
+    {
+        "school": "HOS01",
+        "major": "EGCI",
+        "room_num": "87818",
+        "room_desc": "EGCI"
+    }
+]

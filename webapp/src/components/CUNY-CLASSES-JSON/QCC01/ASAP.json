@@ -1,0 +1,26 @@
+[
+    {
+        "school": "QCC01",
+        "major": "ASAP",
+        "room_num": "22251",
+        "room_desc": "ASAP Seminar I"
+    },
+    {
+        "school": "QCC01",
+        "major": "ASAP",
+        "room_num": "22252",
+        "room_desc": "ASAP Seminar II"
+    },
+    {
+        "school": "QCC01",
+        "major": "ASAP",
+        "room_num": "22253",
+        "room_desc": "ASAP Seminar III"
+    },
+    {
+        "school": "QCC01",
+        "major": "ASAP",
+        "room_num": "87887",
+        "room_desc": "ASAP"
+    }
+]

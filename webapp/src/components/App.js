@@ -26,9 +26,9 @@ class App extends React.Component {
 		const new_username = event.target[0].value;
 		if (this.validateUsername(new_username)) {
 			this.setState({
+				...this.state,
 				username: event.target[0].value,
 				askForNewUsername: false,
-				room: this.state.room,
 			});
 		} else {
 			alert(

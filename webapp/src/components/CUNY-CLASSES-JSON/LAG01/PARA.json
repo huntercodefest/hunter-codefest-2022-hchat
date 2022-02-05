@@ -1,0 +1,230 @@
+[
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82533",
+        "room_desc": "Administrative Law"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82534",
+        "room_desc": "Advanced Paramedic I"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82535",
+        "room_desc": "Advanced Paramedic II"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82536",
+        "room_desc": "Bankruptcy Law"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82537",
+        "room_desc": "Civil Litigation"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82538",
+        "room_desc": "Clinical Rotation"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82539",
+        "room_desc": "Computer Apps for Paralegals"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82540",
+        "room_desc": "Criminal Law and Procedure"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82541",
+        "room_desc": "Cvs Phys. & Path"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82542",
+        "room_desc": "Emt-Basic"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82543",
+        "room_desc": "Family Law"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82544",
+        "room_desc": "Fl Dyn Shk & Clin"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82545",
+        "room_desc": "Fundamentals of Paramedic I"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82546",
+        "room_desc": "Fundamentals of Paramedic II"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82547",
+        "room_desc": "Immigration Law"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82548",
+        "room_desc": "Intent to Paramedic"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82549",
+        "room_desc": "Intermediate Paramedic I"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82550",
+        "room_desc": "Intermediate Paramedic II"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82551",
+        "room_desc": "Intro Emt/Para Tech"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82552",
+        "room_desc": "Intro Paralegal"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82553",
+        "room_desc": "Law Bus Ent. Paraleg"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82554",
+        "room_desc": "Legal Research and Writing"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82555",
+        "room_desc": "Muskl Sft Med Emerg"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82556",
+        "room_desc": "Obs Ped Path & Clin"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82557",
+        "room_desc": "Oper&Beh Emer. Clin"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82558",
+        "room_desc": "Paralegal Internship"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82559",
+        "room_desc": "Paramedic I"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82560",
+        "room_desc": "Paramedic II"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82561",
+        "room_desc": "Paramedic III"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82562",
+        "room_desc": "Paramedic IV"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82563",
+        "room_desc": "Pharm For The Emt-P"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82564",
+        "room_desc": "Phys.&Path Nerv. Sys"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82565",
+        "room_desc": "Real Estate Law for Paralegals"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82566",
+        "room_desc": "Resp Phys & Path"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82567",
+        "room_desc": "Resp Phys And Patho"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82568",
+        "room_desc": "Sem .Par Tech&Clin"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "82569",
+        "room_desc": "Wills82570: PERM,\"Permit 1"
+    },
+    {
+        "school": "LAG01",
+        "major": "PARA",
+        "room_num": "86729",
+        "room_desc": "PARA"
+    }
+]

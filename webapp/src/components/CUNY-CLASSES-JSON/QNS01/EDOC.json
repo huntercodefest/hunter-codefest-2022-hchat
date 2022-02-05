@@ -1,0 +1,290 @@
+[
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25591",
+        "room_desc": "Administrative Thry"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25592",
+        "room_desc": "Adv Fashion Des"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25593",
+        "room_desc": "Adv Fd Pur & Eqp"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25594",
+        "room_desc": "Clothing Constr"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25595",
+        "room_desc": "Computers Sch Admin"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25596",
+        "room_desc": "Curric/Suprvis Elem"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25597",
+        "room_desc": "Curriculum/Suprvis"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25598",
+        "room_desc": "Drugs Fm Schl Com"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25599",
+        "room_desc": "Drugs Fsc Prob"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25600",
+        "room_desc": "Elective Credit"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25601",
+        "room_desc": "Experim Foods"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25602",
+        "room_desc": "Externship: Nutr"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25603",
+        "room_desc": "Fam As Consum 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25604",
+        "room_desc": "Fam Cons Studies"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25605",
+        "room_desc": "Fam Meal Mgmt"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25606",
+        "room_desc": "Family As Cons 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25607",
+        "room_desc": "Family As Consums"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25608",
+        "room_desc": "Fd Serv Mgmt"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25609",
+        "room_desc": "Fld Exper Adm/Super"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25610",
+        "room_desc": "Food Serv Mgmt"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25611",
+        "room_desc": "His Cos Fur Egypt"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25612",
+        "room_desc": "Hm Ec In Media"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25613",
+        "room_desc": "Home Management"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25614",
+        "room_desc": "Human Relations 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25615",
+        "room_desc": "Id Text & Cloth"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25616",
+        "room_desc": "Ind Study Adm"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25617",
+        "room_desc": "Indep Study Admin"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25618",
+        "room_desc": "Inst Mgmt"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25619",
+        "room_desc": "Inter Decor"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25620",
+        "room_desc": "Issues: Home Ec/Nutr"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25621",
+        "room_desc": "Legal Prob Pub Educ"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25622",
+        "room_desc": "Manage Teach/Learn"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25623",
+        "room_desc": "Nutrition"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25624",
+        "room_desc": "Prob/Pract Sch Adm 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25625",
+        "room_desc": "Quant Foods"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25626",
+        "room_desc": "Sem Hec Research"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25627",
+        "room_desc": "Senior Sem"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25628",
+        "room_desc": "Soc Cult Asp Food"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25629",
+        "room_desc": "Soc Cult Asp Of Fds"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25630",
+        "room_desc": "Soc Cult Fds & Ntr"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25631",
+        "room_desc": "Soc/Cult/Asp/Food"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25632",
+        "room_desc": "Spec Problems"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25633",
+        "room_desc": "Study Of Foods"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25634",
+        "room_desc": "Supervisory Pract 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25635",
+        "room_desc": "Supervisory Pract 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25636",
+        "room_desc": "Workshop In Adm"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "25637",
+        "room_desc": "Workshop In Sch Adm"
+    },
+    {
+        "school": "QNS01",
+        "major": "EDOC",
+        "room_num": "87503",
+        "room_desc": "EDOC"
+    }
+]

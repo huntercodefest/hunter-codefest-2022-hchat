@@ -1,0 +1,38 @@
+[
+    {
+        "school": "NCC01",
+        "major": "CHEM",
+        "room_num": "64201",
+        "room_desc": "Analytical Chemistry"
+    },
+    {
+        "school": "NCC01",
+        "major": "CHEM",
+        "room_num": "64202",
+        "room_desc": "General Chemistry I"
+    },
+    {
+        "school": "NCC01",
+        "major": "CHEM",
+        "room_num": "64203",
+        "room_desc": "General Chemistry II"
+    },
+    {
+        "school": "NCC01",
+        "major": "CHEM",
+        "room_num": "64204",
+        "room_desc": "Intro to Biological Chemistry"
+    },
+    {
+        "school": "NCC01",
+        "major": "CHEM",
+        "room_num": "64205",
+        "room_desc": "Introduction to Chemistry"
+    },
+    {
+        "school": "NCC01",
+        "major": "CHEM",
+        "room_num": "86891",
+        "room_desc": "CHEM"
+    }
+]

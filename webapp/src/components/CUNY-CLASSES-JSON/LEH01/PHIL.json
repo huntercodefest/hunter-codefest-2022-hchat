@@ -1,0 +1,482 @@
+[
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14098",
+        "room_desc": "19c Continent Philos"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14099",
+        "room_desc": "Aesthetics"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14100",
+        "room_desc": "African Philosophical Thought"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14101",
+        "room_desc": "American Philosophy"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14102",
+        "room_desc": "Analytic Philosophy"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14103",
+        "room_desc": "Asian Philosophies"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14104",
+        "room_desc": "Business Ethics"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14105",
+        "room_desc": "Capitalism and Its Critics"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14106",
+        "room_desc": "Classical Ethical Theories"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14107",
+        "room_desc": "Contem Analytic Philosophy"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14108",
+        "room_desc": "Contemp Moral Issues"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14109",
+        "room_desc": "Contemporary Moral Issues"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14110",
+        "room_desc": "Contemporary Social Ethics"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14111",
+        "room_desc": "Critical Reasoning"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14112",
+        "room_desc": "Critical Thinking in Practice"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14113",
+        "room_desc": "Disability14114: PHIL,\"Educating Kings and Citizens"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14115",
+        "room_desc": "Environmental Ethics"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14116",
+        "room_desc": "Ethical Theory"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14117",
+        "room_desc": "Ethicl Issues/Comput"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14118",
+        "room_desc": "Ethics and Science"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14119",
+        "room_desc": "Existentialism"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14120",
+        "room_desc": "Fundamentals of Human Rights"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14121",
+        "room_desc": "GRE Theory and Practice"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14122",
+        "room_desc": "Global Justice"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14123",
+        "room_desc": "Hist of PHI III:19 Century"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14124",
+        "room_desc": "Hist of Philosophy II: Modern"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14125",
+        "room_desc": "Hist of Philosphy IV:20th Cen"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14126",
+        "room_desc": "History of Philosophy I"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14127",
+        "room_desc": "Honors Tutorial"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14128",
+        "room_desc": "Intermediate Logic"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14129",
+        "room_desc": "Intro To Logic"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14130",
+        "room_desc": "Intro to African Philosophy"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14131",
+        "room_desc": "Introduction Jewish Philosophy"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14132",
+        "room_desc": "Introduction to Logic"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14133",
+        "room_desc": "Issues:Phi Of Relign"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14134",
+        "room_desc": "Justice And Society"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14135",
+        "room_desc": "Justice and Society"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14136",
+        "room_desc": "Legal Reasoning"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14137",
+        "room_desc": "Logic and Language"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14138",
+        "room_desc": "Logical Theory"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14139",
+        "room_desc": "Medical Ethics"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14140",
+        "room_desc": "Metaphysics"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14141",
+        "room_desc": "Neuroethics"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14142",
+        "room_desc": "Phi Of Contemp Music"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14143",
+        "room_desc": "Phil Prob in Legal Theory"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14144",
+        "room_desc": "Phil Thght Pre-Socra"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14145",
+        "room_desc": "Phil of Contemporary Music"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14146",
+        "room_desc": "Phil of Protest & Liberation"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14147",
+        "room_desc": "Philos-Soc Sciences"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14148",
+        "room_desc": "Philosophical Ideas in Lit"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14149",
+        "room_desc": "Philosophies of the Self"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14150",
+        "room_desc": "Philosophy and Film"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14151",
+        "room_desc": "Philosophy and Gender"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14152",
+        "room_desc": "Philosophy of Freedom"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14153",
+        "room_desc": "Philosophy of History"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14154",
+        "room_desc": "Philosophy of Language"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14155",
+        "room_desc": "Philosophy of Law"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14156",
+        "room_desc": "Philosophy of Mind"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14157",
+        "room_desc": "Philosophy of Religion"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14158",
+        "room_desc": "Philosophy of Science"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14159",
+        "room_desc": "Philosophy of Sport"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14160",
+        "room_desc": "Philosophy of Technology"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14161",
+        "room_desc": "Political Philosophy"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14162",
+        "room_desc": "Probability and Induction"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14163",
+        "room_desc": "Problems of Philosophy"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14164",
+        "room_desc": "Race and Ethnicity in Society"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14165",
+        "room_desc": "Readings in Philosophy"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14166",
+        "room_desc": "Sem:Phi &Socl Policy"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14167",
+        "room_desc": "Social Philosophy"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14168",
+        "room_desc": "Special Topics in Philosophy"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14169",
+        "room_desc": "Theories of Human Nature"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14170",
+        "room_desc": "Theory of Knowledge"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14171",
+        "room_desc": "Topcs In Epistemolgy"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14172",
+        "room_desc": "Topcs In Logic &Lang"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14173",
+        "room_desc": "Topcs-Histor Philos"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14174",
+        "room_desc": "Topcs-Polit&Socl Phi"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14175",
+        "room_desc": "Topics In Ethics"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14176",
+        "room_desc": "Topics in Metaphysics"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "14177",
+        "room_desc": "Topics in Philosophy"
+    },
+    {
+        "school": "LEH01",
+        "major": "PHIL",
+        "room_num": "88214",
+        "room_desc": "PHIL"
+    }
+]

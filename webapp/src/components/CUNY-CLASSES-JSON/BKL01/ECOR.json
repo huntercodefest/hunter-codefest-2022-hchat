@@ -1,0 +1,296 @@
+[
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71679",
+        "room_desc": "2 Upper Cc Req\u2019D"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71680",
+        "room_desc": "2 Upper Corc. Req"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71681",
+        "room_desc": "Exempt From Cc 1.1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71682",
+        "room_desc": "Exempt From Cc 1.2"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71683",
+        "room_desc": "Exempt From Cc 1.3"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71684",
+        "room_desc": "Exempt From Cc 2.1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71685",
+        "room_desc": "Exempt From Cc 2.2"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71686",
+        "room_desc": "Exempt From Cc 2.3"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71687",
+        "room_desc": "Exempt From Cc 3.11"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71688",
+        "room_desc": "Exempt From Cc 3.12"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71689",
+        "room_desc": "Exempt From Cc 3.21"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71690",
+        "room_desc": "Exempt From Cc 3.22"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71691",
+        "room_desc": "Exempt From Cc 3.31"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71692",
+        "room_desc": "Exempt From Cc 3.32"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71693",
+        "room_desc": "Exempt From Corc 1332"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71694",
+        "room_desc": "Exempt From Core 1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71695",
+        "room_desc": "Exempt From Core 10"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71696",
+        "room_desc": "Exempt From Core 2.1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71697",
+        "room_desc": "Exempt From Core 2.2"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71698",
+        "room_desc": "Exempt From Core 3"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71699",
+        "room_desc": "Exempt From Core 4"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71700",
+        "room_desc": "Exempt From Core 5"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71701",
+        "room_desc": "Exempt From Core 5.1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71702",
+        "room_desc": "Exempt From Core 5.2"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71703",
+        "room_desc": "Exempt From Core 6"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71704",
+        "room_desc": "Exempt From Core 7.1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71705",
+        "room_desc": "Exempt From Core 7.2"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71706",
+        "room_desc": "Exempt From Core 8.1"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71707",
+        "room_desc": "Exempt From Core 8.2"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71708",
+        "room_desc": "Exempt From Core 9"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71709",
+        "room_desc": "Exempt from Core 1130"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71710",
+        "room_desc": "No Cc Required"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71711",
+        "room_desc": "No Cc Req\u2019D"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71712",
+        "room_desc": "No Corc. Required"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71713",
+        "room_desc": "No Core Required"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71714",
+        "room_desc": "One Cc Only-Req\u2019D"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71715",
+        "room_desc": "One Core Only-Requrd"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71716",
+        "room_desc": "Only One Corc. Req"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71717",
+        "room_desc": "Xmpt From Corc 1110"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71718",
+        "room_desc": "Xmpt From Corc 1120"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71719",
+        "room_desc": "Xmpt From Corc 1210"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71720",
+        "room_desc": "Xmpt From Corc 1220"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71721",
+        "room_desc": "Xmpt From Corc 1230"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71722",
+        "room_desc": "Xmpt From Corc 1311"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71723",
+        "room_desc": "Xmpt From Corc 1312"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71724",
+        "room_desc": "Xmpt From Corc 1321"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71725",
+        "room_desc": "Xmpt From Corc 1322"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "71726",
+        "room_desc": "Xmpt From Corc 1331"
+    },
+    {
+        "school": "BKL01",
+        "major": "ECOR",
+        "room_num": "86963",
+        "room_desc": "ECOR"
+    }
+]

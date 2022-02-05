@@ -1,0 +1,680 @@
+[
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56679",
+        "room_desc": "Abrahamic Religions"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56680",
+        "room_desc": "Afro-Carib Religions"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56681",
+        "room_desc": "Afro-Caribbean Religions"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56682",
+        "room_desc": "Ancient Near Eastern Religions"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56683",
+        "room_desc": "Approaches to Religion"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56684",
+        "room_desc": "Asian Religions"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56685",
+        "room_desc": "Astrology:Wrld Relig"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56686",
+        "room_desc": "Atheism"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56687",
+        "room_desc": "Bible in Art"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56688",
+        "room_desc": "Buddhism"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56689",
+        "room_desc": "Buddhism & Christianty"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56690",
+        "room_desc": "Christian Religions"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56691",
+        "room_desc": "Christian Theolgy"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56692",
+        "room_desc": "Christian Theology"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56693",
+        "room_desc": "Christianity"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56694",
+        "room_desc": "Comparative Religion"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56695",
+        "room_desc": "Evil"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56696",
+        "room_desc": "Faith and Disbelief"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56697",
+        "room_desc": "Faith and Reason"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56698",
+        "room_desc": "Geog of the Sacred"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56699",
+        "room_desc": "Hinduism"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56700",
+        "room_desc": "Homosex World Religions"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56701",
+        "room_desc": "Honors Sem: Rel"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56702",
+        "room_desc": "Honors Seminar Religion"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56703",
+        "room_desc": "Honors Seminar in Religion"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56704",
+        "room_desc": "Honors Seminar: Religion"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56705",
+        "room_desc": "Honors Tutorial"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56706",
+        "room_desc": "Honors Tutorial in Religion"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56707",
+        "room_desc": "Idea of Monstrous"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56708",
+        "room_desc": "Ideas of God"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56709",
+        "room_desc": "Indep Studies In Rel"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56710",
+        "room_desc": "Indep Studies in Rel"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56711",
+        "room_desc": "Islam"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56712",
+        "room_desc": "Islam & Christianity"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56713",
+        "room_desc": "Islam and Buddhism"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56714",
+        "room_desc": "Islam and Women"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56715",
+        "room_desc": "Issue Mod Cathlisism"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56716",
+        "room_desc": "Issues in Religion"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56717",
+        "room_desc": "Jewish Theology"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56718",
+        "room_desc": "Judaism"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56719",
+        "room_desc": "Koran: Lang & Rel Mean"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56720",
+        "room_desc": "Meaning:Love & Sex"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56721",
+        "room_desc": "Men and Religion"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56722",
+        "room_desc": "Mod Theories of Rel: Alt Canon"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56723",
+        "room_desc": "Modern Theories in Religion"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56724",
+        "room_desc": "Modern Theories of Religion"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56725",
+        "room_desc": "Muslim Minorities"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56726",
+        "room_desc": "Mysticism"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56727",
+        "room_desc": "Myth and Ritual"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56728",
+        "room_desc": "Nature of Rel"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56729",
+        "room_desc": "Nature of Religion"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56730",
+        "room_desc": "New Testament Relig"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56731",
+        "room_desc": "New Testament Religion"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56732",
+        "room_desc": "Psychology&Religion"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56733",
+        "room_desc": "Rel & The Arts"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56734",
+        "room_desc": "Rel Anc Cen & Sou Amer"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56735",
+        "room_desc": "Rel Anc Cen&Sou Amer"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56736",
+        "room_desc": "Rel Belief&Phys Prac"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56737",
+        "room_desc": "Rel China and Japan"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56738",
+        "room_desc": "Rel Ideas Anc Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56739",
+        "room_desc": "Rel Ideas West Music"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56740",
+        "room_desc": "Rel Meanings Qurn"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56741",
+        "room_desc": "Rel Meanings Qur\u2019an"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56742",
+        "room_desc": "Rel and Human Rights"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56743",
+        "room_desc": "Rel of Early Europe"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56744",
+        "room_desc": "Rel:Ancient Europe"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56745",
+        "room_desc": "Relig of Two Gods"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56746",
+        "room_desc": "Religio Ideas: Lit"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56747",
+        "room_desc": "Religion & Sports"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56748",
+        "room_desc": "Religion Meaning Love56749: RELI,\"Religion and Astrology"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56750",
+        "room_desc": "Religion and Dance"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56751",
+        "room_desc": "Religion and Film"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56752",
+        "room_desc": "Religion and Healing"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56753",
+        "room_desc": "Religion and Human Rights"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56754",
+        "room_desc": "Religion and Men"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56755",
+        "room_desc": "Religion and Poetry"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56756",
+        "room_desc": "Religion and Politics"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56757",
+        "room_desc": "Religion and Psychology"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56758",
+        "room_desc": "Religion and Science"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56759",
+        "room_desc": "Religion and Social Justice"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56760",
+        "room_desc": "Religion and the Arts"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56761",
+        "room_desc": "Religion and the Body"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56762",
+        "room_desc": "Religion in Politics"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56763",
+        "room_desc": "Religion of Two Gods"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56764",
+        "room_desc": "Religion&Soc Justice"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56765",
+        "room_desc": "Religions of Two Gods"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56766",
+        "room_desc": "Religious Experience"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56767",
+        "room_desc": "Religious Ideas in Modern Art"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56768",
+        "room_desc": "Religious Sources for Morality"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56769",
+        "room_desc": "Sem:Issues Buddhism"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56770",
+        "room_desc": "Seminar in Paul"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56771",
+        "room_desc": "Seminar in Religion"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56772",
+        "room_desc": "Seminar in Religious Tradition"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56773",
+        "room_desc": "Seminar: Ecology & Religion"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56774",
+        "room_desc": "Semnr: Myth & Ritual"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56775",
+        "room_desc": "SpTp: Theo Studies in Religion"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56776",
+        "room_desc": "Spc Tpc: Issues in Religion"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56777",
+        "room_desc": "Spirit and Nature"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56778",
+        "room_desc": "Stages in Life\u2019s Way"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56779",
+        "room_desc": "Studies in Religious Theory"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56780",
+        "room_desc": "Sufism"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56781",
+        "room_desc": "The Meaning of Death"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56782",
+        "room_desc": "The Problem of Evil"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56783",
+        "room_desc": "The Religious Meaning of Death"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56784",
+        "room_desc": "Theatre and Religion"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56785",
+        "room_desc": "Tribal Religions"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56786",
+        "room_desc": "Western Religions"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56787",
+        "room_desc": "Witchcraft & Relgion"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56788",
+        "room_desc": "Witchcraft & Religion"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56789",
+        "room_desc": "Women and Religion"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56790",
+        "room_desc": "Yogis Mystics Shaman"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "56791",
+        "room_desc": "Zen"
+    },
+    {
+        "school": "HTR01",
+        "major": "RELI",
+        "room_num": "87621",
+        "room_desc": "RELI"
+    }
+]

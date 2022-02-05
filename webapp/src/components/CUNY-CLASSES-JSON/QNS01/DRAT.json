@@ -1,0 +1,710 @@
+[
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25156",
+        "room_desc": "20 Cent Play & Perf"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25157",
+        "room_desc": "Acting 4"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25158",
+        "room_desc": "Acting I"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25159",
+        "room_desc": "Acting II"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25160",
+        "room_desc": "Acting III"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25161",
+        "room_desc": "Acting IV"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25162",
+        "room_desc": "Acting Musical Thea"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25163",
+        "room_desc": "Acting Project"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25164",
+        "room_desc": "Acting Projects"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25165",
+        "room_desc": "Adv Topics in Theater Studies"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25166",
+        "room_desc": "Advanced Seminar Scenography"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25167",
+        "room_desc": "African Dance"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25168",
+        "room_desc": "Anal Dance Mvmt"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25169",
+        "room_desc": "Anal Of Dance Movmt"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25170",
+        "room_desc": "Ballet 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25171",
+        "room_desc": "Ballet 3"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25172",
+        "room_desc": "Black Drama In Amer"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25173",
+        "room_desc": "Black Drama Workshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25174",
+        "room_desc": "Black Thea Wkshp"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25175",
+        "room_desc": "Classical European Drama"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25176",
+        "room_desc": "Collab Wrkshp Dance & Theatre"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25177",
+        "room_desc": "Costume Design I"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25178",
+        "room_desc": "Costume Design II"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25179",
+        "room_desc": "Dance Analysis"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25180",
+        "room_desc": "Dance Improv"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25181",
+        "room_desc": "Dance Improv & Comp"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25182",
+        "room_desc": "Dance Notation"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25183",
+        "room_desc": "Dickens & Drama"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25184",
+        "room_desc": "Direct Projects"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25185",
+        "room_desc": "Directing I"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25186",
+        "room_desc": "Directing II"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25187",
+        "room_desc": "Drama for Teachers"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25188",
+        "room_desc": "Dramatic Literature 1880-1980"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25189",
+        "room_desc": "Dramatic Literature 1980- Pres"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25190",
+        "room_desc": "Dramatizing Science"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25191",
+        "room_desc": "Experimental Theatre Workshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25192",
+        "room_desc": "Family In Amer Dr"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25193",
+        "room_desc": "Film & Perf:Ibsen"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25194",
+        "room_desc": "Films Of I. Bergman"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25195",
+        "room_desc": "Folk Dance"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25196",
+        "room_desc": "His Thea Beg-1700"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25197",
+        "room_desc": "Hist Dnce Thr 19c"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25198",
+        "room_desc": "Hist Play & Perf"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25199",
+        "room_desc": "Hist Thea To 1700"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25200",
+        "room_desc": "History of Musical Theatre"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25201",
+        "room_desc": "History of World Theater I"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25202",
+        "room_desc": "History of World Theater II"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25203",
+        "room_desc": "Indepen Study Technical Theatr"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25204",
+        "room_desc": "Indepen Study in Scenography"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25205",
+        "room_desc": "Independent Study in Dance"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25206",
+        "room_desc": "Independent Study in Directing"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25207",
+        "room_desc": "Intr To Play & Perf"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25208",
+        "room_desc": "Intro Dance"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25209",
+        "room_desc": "Intro Design Thea"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25210",
+        "room_desc": "Intro Dram And Theat"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25211",
+        "room_desc": "Intro Play & Perf"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25212",
+        "room_desc": "Intro Tech Theatre"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25213",
+        "room_desc": "Intro To Direct"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25214",
+        "room_desc": "Intro to Dramatic Literature"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25215",
+        "room_desc": "Introduction to Acting"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25216",
+        "room_desc": "Introduction to Theater Design"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25217",
+        "room_desc": "Jazz"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25218",
+        "room_desc": "Lighting Design & Technology I"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25219",
+        "room_desc": "Lighting Design& Technology II"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25220",
+        "room_desc": "Modern Dance I"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25221",
+        "room_desc": "Modern Dance Ii"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25222",
+        "room_desc": "Modern Drama"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25223",
+        "room_desc": "Mus Thea Wkshp"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25224",
+        "room_desc": "Music For Movemnt"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25225",
+        "room_desc": "Musical Theatre Workshop I"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25226",
+        "room_desc": "Musical Theatre Workshop II"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25227",
+        "room_desc": "Phy Train Actor 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25228",
+        "room_desc": "Phys Train Act"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25229",
+        "room_desc": "Phys Training for the Actor I"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25230",
+        "room_desc": "Phys Training for the Actor II"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25231",
+        "room_desc": "Play Perf Contp"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25232",
+        "room_desc": "Plays Of Ibsen"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25233",
+        "room_desc": "Plays Perf Ibsen"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25234",
+        "room_desc": "Plays Strindberg"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25235",
+        "room_desc": "Playwriting II"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25236",
+        "room_desc": "Playwriting Workshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25237",
+        "room_desc": "Practicum in Technical Theater"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25238",
+        "room_desc": "Prin Tchng Dance"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25239",
+        "room_desc": "Produc Apprent 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25240",
+        "room_desc": "Puppet Theater Workshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25241",
+        "room_desc": "Rehears & Perf"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25242",
+        "room_desc": "Repertory Theatre"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25243",
+        "room_desc": "Rev Mod Thea & Film"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25244",
+        "room_desc": "Scenic Design I"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25245",
+        "room_desc": "Scenic Design II"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25246",
+        "room_desc": "Sem In Pinter"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25247",
+        "room_desc": "Sem Thea Dance"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25248",
+        "room_desc": "Seminar in Drama and Theatre"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25249",
+        "room_desc": "Shakespeare Workshop I"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25250",
+        "room_desc": "Shakespeare Workshop II"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25251",
+        "room_desc": "Spec Prob Drama"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25252",
+        "room_desc": "Spec Styles Jazz"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25253",
+        "room_desc": "Special Problems"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25254",
+        "room_desc": "Stage Management"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25255",
+        "room_desc": "Studies in Theatre History"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25256",
+        "room_desc": "Thea Dance Wksp"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25257",
+        "room_desc": "Thea Lighting"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25258",
+        "room_desc": "Theatrical Texts and Times"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25259",
+        "room_desc": "Thtr Dance Wkshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25260",
+        "room_desc": "VT: Sp Prob Dram &Theatre"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25261",
+        "room_desc": "VT: Special Topics Stagecraft"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25262",
+        "room_desc": "Vocal Train Actor"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25263",
+        "room_desc": "Voice & Articulation For Actor"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25264",
+        "room_desc": "Voice Train Actor"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25265",
+        "room_desc": "Vt: Sp Prob Dram/Thea"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25266",
+        "room_desc": "Vt: Special Problems in Drama"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25267",
+        "room_desc": "Vt: Tai Chi Chuam"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25268",
+        "room_desc": "Vt:Sp Prob Theat/Dan"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25269",
+        "room_desc": "Vt:Spc Prob Dram/The"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25270",
+        "room_desc": "Vt:Special Problems"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25271",
+        "room_desc": "Writing About Performance"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "25272",
+        "room_desc": "Xi Gong"
+    },
+    {
+        "school": "QNS01",
+        "major": "DRAT",
+        "room_num": "87513",
+        "room_desc": "DRAT"
+    }
+]

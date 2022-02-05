@@ -1,0 +1,32 @@
+[
+    {
+        "school": "CSI01",
+        "major": "EDPH",
+        "room_num": "84182",
+        "room_desc": "Developmental Activity"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDPH",
+        "room_num": "84183",
+        "room_desc": "Fitness for Life"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDPH",
+        "room_num": "84184",
+        "room_desc": "Ped Exempt"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDPH",
+        "room_num": "84185",
+        "room_desc": "Weight Training"
+    },
+    {
+        "school": "CSI01",
+        "major": "EDPH",
+        "room_num": "88102",
+        "room_desc": "EDPH"
+    }
+]

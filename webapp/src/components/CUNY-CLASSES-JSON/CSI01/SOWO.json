@@ -1,0 +1,452 @@
+[
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86411",
+        "room_desc": "Assess & Form in SW Practice"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86412",
+        "room_desc": "Bridge to Concentration"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86413",
+        "room_desc": "Comm Serv Learn & Prof Dev Sem"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86414",
+        "room_desc": "Community Service Learning"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86415",
+        "room_desc": "Community Service Learning Exp"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86416",
+        "room_desc": "Dev Disabil Intrnshp"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86417",
+        "room_desc": "Develpmntl Disabltes"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86418",
+        "room_desc": "Disability and Health Systems"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86419",
+        "room_desc": "Diversity in Social Work"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86420",
+        "room_desc": "Drugs and Alcohol"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86421",
+        "room_desc": "Hum Behav Soc Env II"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86422",
+        "room_desc": "Hum Behv Soc Env I"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86423",
+        "room_desc": "Human Sex & Helping Prof"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86424",
+        "room_desc": "Immig & Swk Practice"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86425",
+        "room_desc": "Int to Disability Stud for SWK"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86426",
+        "room_desc": "Intimate Partner Violence"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86427",
+        "room_desc": "Intro to Disability Studies"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86428",
+        "room_desc": "Introduction to Social Work"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86429",
+        "room_desc": "MSW HBSE II: Culture & Develop"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86430",
+        "room_desc": "MSW Integrative Seminar"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86431",
+        "room_desc": "MSW Integrative Seminar II"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86432",
+        "room_desc": "MSW Integrative Seminar III"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86433",
+        "room_desc": "MSW Integrative Seminar IV"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86434",
+        "room_desc": "MSW Internship I"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86435",
+        "room_desc": "MSW Internship II (2 Credits)"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86436",
+        "room_desc": "MSW Internship III"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86437",
+        "room_desc": "MSW Internship IV"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86438",
+        "room_desc": "MSW Pract II: Pract w/Groups I"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86439",
+        "room_desc": "MSW Research I"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86440",
+        "room_desc": "MSW Research II"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86441",
+        "room_desc": "MSW SW Practice 1: Intro to In"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86442",
+        "room_desc": "MSW SW Practice With Adults"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86443",
+        "room_desc": "MSW Social Welfare Policy"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86444",
+        "room_desc": "MSW Social Welfare Policy II"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86445",
+        "room_desc": "Modalities of Practice with Pe"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86446",
+        "room_desc": "Msw Adv Social Practice Iv"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86447",
+        "room_desc": "Msw Hbse I: The Soc Const Of"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86448",
+        "room_desc": "Msw Social Practice V"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86449",
+        "room_desc": "Msw Sw Practice With Children"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86450",
+        "room_desc": "Msw Swp I: Prac With Indiv I"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86451",
+        "room_desc": "Prac With People With Disab"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86452",
+        "room_desc": "Promoting Social Justice"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86453",
+        "room_desc": "Promoting Social Justice:"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86454",
+        "room_desc": "Readiness for Field"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86455",
+        "room_desc": "S.W. Practice With Older Adult"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86456",
+        "room_desc": "SW & Dis Stud Policy Prac"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86457",
+        "room_desc": "SW Macro Prac in Organizations"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86458",
+        "room_desc": "Soc Welfare Policy I"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86459",
+        "room_desc": "Soc Work Practice Older w Dis"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86460",
+        "room_desc": "Soc Wrk Macro Pract: Pgrm Plan"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86461",
+        "room_desc": "Soc Wrk Prac III; Macro Prac I"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86462",
+        "room_desc": "Soc Wrk Prac with Older Adults"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86463",
+        "room_desc": "Soc Wrk Practice Older Adults"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86464",
+        "room_desc": "Social Wk Ind Stdy"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86465",
+        "room_desc": "Social Wk Internship"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86466",
+        "room_desc": "Social Work"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86467",
+        "room_desc": "Social Work Field Practicum I"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86468",
+        "room_desc": "Social Work Field Practicum II"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86469",
+        "room_desc": "Social Work Field Seminar I"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86470",
+        "room_desc": "Social Work Field Seminar II"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86471",
+        "room_desc": "Social Work Independent Study"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86472",
+        "room_desc": "Social Work Macro Prac"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86473",
+        "room_desc": "Social Work Practice I"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86474",
+        "room_desc": "Social Work Practice II"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86475",
+        "room_desc": "Social Work Practice III"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86476",
+        "room_desc": "Social Work Research I"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86477",
+        "room_desc": "Social Work Research II"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86478",
+        "room_desc": "Social Work and Child Welfare"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86479",
+        "room_desc": "Social Wrk Ind Stdy"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86480",
+        "room_desc": "Social Wrk Policy II"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86481",
+        "room_desc": "Sw Ethics & Human Rights"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86482",
+        "room_desc": "The Range of Hum Cond in SW Pr"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86483",
+        "room_desc": "Topics in Intimate Partner Vio"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "86484",
+        "room_desc": "Writing in Human Services"
+    },
+    {
+        "school": "CSI01",
+        "major": "SOWO",
+        "room_num": "88059",
+        "room_desc": "SOWO"
+    }
+]

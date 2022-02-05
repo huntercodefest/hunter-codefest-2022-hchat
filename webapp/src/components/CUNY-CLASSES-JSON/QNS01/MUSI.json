@@ -1,0 +1,2750 @@
+[
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29054",
+        "room_desc": "18 & 19C Perf Prac"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29055",
+        "room_desc": "20 C Techniques 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29056",
+        "room_desc": "20th C Opera"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29057",
+        "room_desc": "20th C Tech"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29058",
+        "room_desc": "20th C Techniques"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29059",
+        "room_desc": "20th Cntry Music 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29060",
+        "room_desc": "20th Cntry Music II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29061",
+        "room_desc": "9 Symph Beethoven"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29062",
+        "room_desc": "Aaron Copland"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29063",
+        "room_desc": "Acoustics"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29064",
+        "room_desc": "Adv Orchestration"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29065",
+        "room_desc": "Adv Ss & Dict 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29066",
+        "room_desc": "Advanced Conducting"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29067",
+        "room_desc": "Advanced Jazz Composition"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29068",
+        "room_desc": "Advanced Orchestration"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29069",
+        "room_desc": "Advanced Piano Pedagogy"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29070",
+        "room_desc": "Advanced Solfge and Score Rea"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29071",
+        "room_desc": "American Folk Music Hist&Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29072",
+        "room_desc": "Anal Appr"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29073",
+        "room_desc": "Analysis of Jazz"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29074",
+        "room_desc": "Applied Keyboard Skills"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29075",
+        "room_desc": "Appr Of Mus Sk"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29076",
+        "room_desc": "Appr Of Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29077",
+        "room_desc": "Appr Of Music 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29078",
+        "room_desc": "Appr Of Music 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29079",
+        "room_desc": "Arnd Wrld In Song"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29080",
+        "room_desc": "Arrang/Compos School Ensembles"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29081",
+        "room_desc": "Arranging"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29082",
+        "room_desc": "Art Kybrd Accomp"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29083",
+        "room_desc": "Art of Keyboard Collaboration"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29084",
+        "room_desc": "Art-Song: Lec Rec"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29085",
+        "room_desc": "Audio and MIDI Sequencing I"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29086",
+        "room_desc": "Audio and MIDI Sequencing II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29087",
+        "room_desc": "Bach"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29088",
+        "room_desc": "Bach Of Mus Prog"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29089",
+        "room_desc": "Balinese Gamelan"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29090",
+        "room_desc": "Balinese Gamelan Ensemble"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29091",
+        "room_desc": "Band"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29092",
+        "room_desc": "Baroque"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29093",
+        "room_desc": "Baroque Ensemble"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29094",
+        "room_desc": "Baroque Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29095",
+        "room_desc": "Bas Mus Ear Tr"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29096",
+        "room_desc": "Bas Mus:Rud Theory"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29097",
+        "room_desc": "Basic Mus Kbd"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29098",
+        "room_desc": "Basic Mus: Ear Train"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29099",
+        "room_desc": "Basic Mus:Ss & Dict"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29100",
+        "room_desc": "Basic Mus:Theory"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29101",
+        "room_desc": "Basic Music Sight"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29102",
+        "room_desc": "Beethoven"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29103",
+        "room_desc": "Beethoven Quartets"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29104",
+        "room_desc": "Bibliography"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29105",
+        "room_desc": "Bibliography & Research Techni"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29106",
+        "room_desc": "Brass"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29107",
+        "room_desc": "Brass Ensemble"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29108",
+        "room_desc": "Brass Repertory"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29109",
+        "room_desc": "Chamber Mus or Small Ensemble"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29110",
+        "room_desc": "Chamber Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29111",
+        "room_desc": "Chamber Music I"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29112",
+        "room_desc": "Chamber Music II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29113",
+        "room_desc": "Chamber Music III"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29114",
+        "room_desc": "Chamber Orchestra"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29115",
+        "room_desc": "Choir"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29116",
+        "room_desc": "Choral Society"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29117",
+        "room_desc": "Class/Romanticism"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29118",
+        "room_desc": "Classical and Romantic"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29119",
+        "room_desc": "Collegium Musicum"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29120",
+        "room_desc": "Combo Workshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29121",
+        "room_desc": "Comp Synth Elect"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29122",
+        "room_desc": "Composers Workshp"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29123",
+        "room_desc": "Composers\u2019 Workshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29124",
+        "room_desc": "Composer\u2019s Workshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29125",
+        "room_desc": "Composing Music Theatre"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29126",
+        "room_desc": "Composition"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29127",
+        "room_desc": "Composition 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29128",
+        "room_desc": "Composition 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29129",
+        "room_desc": "Composition I"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29130",
+        "room_desc": "Composition II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29131",
+        "room_desc": "Composition Seminar"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29132",
+        "room_desc": "Composition Tutor"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29133",
+        "room_desc": "Compostion Seminar"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29134",
+        "room_desc": "Computer Music I"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29135",
+        "room_desc": "Computer Music II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29136",
+        "room_desc": "Computer Techniques"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29137",
+        "room_desc": "Concert Band"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29138",
+        "room_desc": "Concert Chior"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29139",
+        "room_desc": "Concert Choir"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29140",
+        "room_desc": "Conducting 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29141",
+        "room_desc": "Conducting 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29142",
+        "room_desc": "Conducting I"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29143",
+        "room_desc": "Conducting II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29144",
+        "room_desc": "Conducting Sem"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29145",
+        "room_desc": "Contemporary Popular Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29146",
+        "room_desc": "Critical&Theoretical Approach"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29147",
+        "room_desc": "Crossover Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29148",
+        "room_desc": "Debussy & Ravel"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29149",
+        "room_desc": "Dic For Singers"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29150",
+        "room_desc": "Dict For Singers"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29151",
+        "room_desc": "Diction in Vocal Music I"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29152",
+        "room_desc": "Diction in Vocal Music II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29153",
+        "room_desc": "Digital Recordin&Compositio II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29154",
+        "room_desc": "Digital Recordin&Composition I"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29155",
+        "room_desc": "Digital Recording I"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29156",
+        "room_desc": "Digital Recording II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29157",
+        "room_desc": "Ear Training VI"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29158",
+        "room_desc": "Elec Mus Stud 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29159",
+        "room_desc": "Electronic Muscic"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29160",
+        "room_desc": "Electronic Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29161",
+        "room_desc": "Electronic Music Studio I"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29162",
+        "room_desc": "Electronic Music Studio II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29163",
+        "room_desc": "Elem Class Inst"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29164",
+        "room_desc": "Elem Educ"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29165",
+        "room_desc": "Elementary Ensemble"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29166",
+        "room_desc": "English Diction For Singers"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29167",
+        "room_desc": "Enjoyment of Mus"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29168",
+        "room_desc": "Ensemble Related Instruments"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29169",
+        "room_desc": "Ensemble of Related Instrument"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29170",
+        "room_desc": "Ensmbl Rlatd Instrmnts"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29171",
+        "room_desc": "Ethnomusicology"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29172",
+        "room_desc": "Ethnomusicology Seminar"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29173",
+        "room_desc": "Film Scoring"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29174",
+        "room_desc": "Foundations of Music Education"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29175",
+        "room_desc": "Four Composers"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29176",
+        "room_desc": "French Diction for Singers"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29177",
+        "room_desc": "General Music Elementar School"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29178",
+        "room_desc": "General Music in the Secondary"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29179",
+        "room_desc": "German Diction for Singers"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29180",
+        "room_desc": "Glee Club"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29181",
+        "room_desc": "Gr Instr Strings"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29182",
+        "room_desc": "Group Inst Brass"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29183",
+        "room_desc": "Group Instr Voice"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29184",
+        "room_desc": "Group Instruct-Reeds"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29185",
+        "room_desc": "Group Instruction in Brass"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29186",
+        "room_desc": "Group Instruction in Guitar"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29187",
+        "room_desc": "Group Instruction in Percussio"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29188",
+        "room_desc": "Group Instruction in Piano"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29189",
+        "room_desc": "Group Instruction in Upper Str"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29190",
+        "room_desc": "Group Instruction in Voice"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29191",
+        "room_desc": "Group Instruction in Woodwinds"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29192",
+        "room_desc": "Group Instruction: Percussion"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29193",
+        "room_desc": "Grp Inst In Piano"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29194",
+        "room_desc": "Grp Inst Voice"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29195",
+        "room_desc": "Grp Instrctn Lwr Strngs"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29196",
+        "room_desc": "Grp Instruct in Lower Strings"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29197",
+        "room_desc": "Grp Instruct in Upper Strings"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29198",
+        "room_desc": "Guitar Ensemble"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29199",
+        "room_desc": "Har Cpt & Kbd 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29200",
+        "room_desc": "Harm & Cpt 4"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29201",
+        "room_desc": "Harm & Ctp 5"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29202",
+        "room_desc": "Harm Ctpt 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29203",
+        "room_desc": "Harmny29204: MUSI,\"Harmony & Cntrpt"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29205",
+        "room_desc": "Harmony & Ctpt 3"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29206",
+        "room_desc": "Harmony & Ctpt 4"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29207",
+        "room_desc": "Hist & Appreciation Of Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29208",
+        "room_desc": "Hist & Appreciation of Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29209",
+        "room_desc": "Hist 1 (Ant-1600)"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29210",
+        "room_desc": "Hrm Ctp & Bk Sk"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29211",
+        "room_desc": "Hrm Ctp & Kb Sk 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29212",
+        "room_desc": "Hrm Ctp & Kb Sk 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29213",
+        "room_desc": "Hrm Ctp & Kb Sk 3"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29214",
+        "room_desc": "Hrm Ctp & Kb Sk 4"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29215",
+        "room_desc": "Hrm Ctp & Kb Sk 5"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29216",
+        "room_desc": "Hrm Ctp & Kp Sk 4"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29217",
+        "room_desc": "Hrm29218: MUSI,\"Hrmny29219: MUSI,\"Hrmny29220: MUSI,\"Hrmny29221: MUSI,\"Improvisation"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29222",
+        "room_desc": "In St Instr Voice"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29223",
+        "room_desc": "Ind Stdy Japan Instrmnts"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29224",
+        "room_desc": "Indiv Musical Performance III"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29225",
+        "room_desc": "Indiv Stdy Prfrmnce I"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29226",
+        "room_desc": "Indiv Stdy Prfrmnce II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29227",
+        "room_desc": "Indiv Stdy Prfrmnce III"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29228",
+        "room_desc": "Indiv Stdy Prfrmnce IV"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29229",
+        "room_desc": "Indiv Stdy Prfrmnce V"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29230",
+        "room_desc": "Indiv Stdy Prfrmnce VI"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29231",
+        "room_desc": "Individual Musical Perform II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29232",
+        "room_desc": "Individual Musical Performance"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29233",
+        "room_desc": "Individual Study Perform I"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29234",
+        "room_desc": "Individual Study Perform II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29235",
+        "room_desc": "Individual Study Perform III"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29236",
+        "room_desc": "Individual Study Perform IV"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29237",
+        "room_desc": "Individual Study Perform V"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29238",
+        "room_desc": "Individual Study Perform VI"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29239",
+        "room_desc": "Indpdnt Stdy Instrmnt Or Voice"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29240",
+        "room_desc": "Inquiry In Mus Educ"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29241",
+        "room_desc": "Inst Instr/Voice"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29242",
+        "room_desc": "Instrument Ensemble"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29243",
+        "room_desc": "Int Ss & Dict 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29244",
+        "room_desc": "Interm Ensemble"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29245",
+        "room_desc": "Intnsve Sight Sing & Dctatn II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29246",
+        "room_desc": "Intnsve Sight Sing & Dict I"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29247",
+        "room_desc": "Intro Academic Study of Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29248",
+        "room_desc": "Intro Alexander Technique"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29249",
+        "room_desc": "Intro To Mus Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29250",
+        "room_desc": "Intro To Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29251",
+        "room_desc": "Intro to Alexander Technique"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29252",
+        "room_desc": "Intro to Research Mus Educ"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29253",
+        "room_desc": "Intro to Schenkerian Analysis"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29254",
+        "room_desc": "Intro. to Schenkerian Analysis"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29255",
+        "room_desc": "Introduction Continuo Playing"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29256",
+        "room_desc": "Introduction Music Education"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29257",
+        "room_desc": "Introduction to Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29258",
+        "room_desc": "Introduction to Opera"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29259",
+        "room_desc": "Introduction to Post-Tonal The"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29260",
+        "room_desc": "Italian Diction for Singers"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29261",
+        "room_desc": "Jazz Band"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29262",
+        "room_desc": "Jazz Band and Ensembles"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29263",
+        "room_desc": "Jazz Composition"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29264",
+        "room_desc": "Jazz Ensemble"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29265",
+        "room_desc": "Jazz Harmony"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29266",
+        "room_desc": "Jazz History II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29267",
+        "room_desc": "Jazz Piano Workshop"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29268",
+        "room_desc": "Jazz: Its History & Lit I"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29269",
+        "room_desc": "Jewish Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29270",
+        "room_desc": "Keyboard"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29271",
+        "room_desc": "Keyboard Techniq"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29272",
+        "room_desc": "Lang Dict Voc Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29273",
+        "room_desc": "Lassus29274: MUSI,\"Latin American Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29275",
+        "room_desc": "Lower Strings"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29276",
+        "room_desc": "Maj Perf Study"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29277",
+        "room_desc": "Maj St Perf 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29278",
+        "room_desc": "Maj St Perf 3"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29279",
+        "room_desc": "Maj St Perf 4"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29280",
+        "room_desc": "Maj St Perf 8"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29281",
+        "room_desc": "Maj St Perf VIII"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29282",
+        "room_desc": "Maj Stud Pef 4"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29283",
+        "room_desc": "Maj Stud Perf 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29284",
+        "room_desc": "Maj Stud Perf 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29285",
+        "room_desc": "Maj Stud Perf 4"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29286",
+        "room_desc": "Maj Stud Perf 5"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29287",
+        "room_desc": "Maj Stud Perf 6"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29288",
+        "room_desc": "Maj Stud Perf 7"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29289",
+        "room_desc": "Maj Stud Perf 8"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29290",
+        "room_desc": "Major Study in Performance I"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29291",
+        "room_desc": "Major Study in Performance II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29292",
+        "room_desc": "Major Study in Performance III"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29293",
+        "room_desc": "Major Study in Performance IV"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29294",
+        "room_desc": "Major Study in Performance V"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29295",
+        "room_desc": "Major Study in Performance VI"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29296",
+        "room_desc": "Major Study in Performance VII"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29297",
+        "room_desc": "Marching Band Wkshp"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29298",
+        "room_desc": "Masterpieces of Choral Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29299",
+        "room_desc": "Medieval Notation"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29300",
+        "room_desc": "Model Compos & Score Reading"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29301",
+        "room_desc": "Mozart"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29302",
+        "room_desc": "Mstps West Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29303",
+        "room_desc": "Mstps Western Mus"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29304",
+        "room_desc": "Mstps Western Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29305",
+        "room_desc": "Mu In Elem School"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29306",
+        "room_desc": "Mus 1 Ant To 1600"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29307",
+        "room_desc": "Mus 20C 1900-45"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29308",
+        "room_desc": "Mus Afr & Asia"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29309",
+        "room_desc": "Mus Div Style Per"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29310",
+        "room_desc": "Mus Div Style&Gen"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29311",
+        "room_desc": "Mus For Ch Ele Ed"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29312",
+        "room_desc": "Mus For Child El"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29313",
+        "room_desc": "Mus For Children"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29314",
+        "room_desc": "Mus For Chl El Ed"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29315",
+        "room_desc": "Mus For Chld El E"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29316",
+        "room_desc": "Mus For Earl Ch"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29317",
+        "room_desc": "Mus Hist 2 17 & 18C"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29318",
+        "room_desc": "Mus Hist 3 19 & 20C"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29319",
+        "room_desc": "Mus History 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29320",
+        "room_desc": "Mus Lit Jazz"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29321",
+        "room_desc": "Mus Lit Mstpcs"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29322",
+        "room_desc": "Mus Of Mozart"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29323",
+        "room_desc": "Mus Techniq 20 C"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29324",
+        "room_desc": "Music & Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29325",
+        "room_desc": "Music Bibliography"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29326",
+        "room_desc": "Music Blk Ppl Afr & Amer"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29327",
+        "room_desc": "Music Business"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29328",
+        "room_desc": "Music Career Development"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29329",
+        "room_desc": "Music Child Early Childhood"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29330",
+        "room_desc": "Music Child Elem Ed"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29331",
+        "room_desc": "Music Div Style Per"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29332",
+        "room_desc": "Music Dvrse Gnrs & Styl Pds"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29333",
+        "room_desc": "Music Hist 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29334",
+        "room_desc": "Music Hist I"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29335",
+        "room_desc": "Music Hist III"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29336",
+        "room_desc": "Music Hist IV"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29337",
+        "room_desc": "Music History 3"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29338",
+        "room_desc": "Music History I"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29339",
+        "room_desc": "Music History II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29340",
+        "room_desc": "Music History III"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29341",
+        "room_desc": "Music History III: 1800-1890"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29342",
+        "room_desc": "Music History IV"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29343",
+        "room_desc": "Music Literature for Children"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29344",
+        "room_desc": "Music Of Bach"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29345",
+        "room_desc": "Music Of Renaissance"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29346",
+        "room_desc": "Music and European Traditions."
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29347",
+        "room_desc": "Music in American Civilization"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29348",
+        "room_desc": "Music in American Culture."
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29349",
+        "room_desc": "Music in Pre-Industrial Times."
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29350",
+        "room_desc": "Music in World Culture."
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29351",
+        "room_desc": "Music of Asia"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29352",
+        "room_desc": "Music since 1900 I"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29353",
+        "room_desc": "Music since 1900 II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29354",
+        "room_desc": "Musical Analysis for Performer"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29355",
+        "room_desc": "Musical Form and Analysis"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29356",
+        "room_desc": "Musical Iconography"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29357",
+        "room_desc": "Musical Syst & Spec Theory"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29358",
+        "room_desc": "Musical Techniques 20th Cent"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29359",
+        "room_desc": "Musicianship for Grad Students"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29360",
+        "room_desc": "Musicology Seminar"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29361",
+        "room_desc": "Non-European Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29362",
+        "room_desc": "Nota Bene"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29363",
+        "room_desc": "Nota Bene Con. Ens."
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29364",
+        "room_desc": "Nota Bene Ens"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29365",
+        "room_desc": "Oper"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29366",
+        "room_desc": "Opera Studio"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29367",
+        "room_desc": "Orch Mus Of 20 Century"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29368",
+        "room_desc": "Orchestra"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29369",
+        "room_desc": "Organology"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29370",
+        "room_desc": "Percussion"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29371",
+        "room_desc": "Percussion Ens"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29372",
+        "room_desc": "Percussion Ensemble"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29373",
+        "room_desc": "Percussion Lessons"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29374",
+        "room_desc": "Percussion Rep"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29375",
+        "room_desc": "Percussion Repertory"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29376",
+        "room_desc": "Perf Sem"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29377",
+        "room_desc": "Perf Sem 20th C"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29378",
+        "room_desc": "Perf Sem: 20th C"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29379",
+        "room_desc": "Performance Literature Seminar"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29380",
+        "room_desc": "Performance Wrkshp Conductors"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29381",
+        "room_desc": "Performance of Non-Western Ins"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29382",
+        "room_desc": "Piano Lit Rom Per"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29383",
+        "room_desc": "Piano Lit Romntc Period"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29384",
+        "room_desc": "Piano Pedagogy"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29385",
+        "room_desc": "Piano Repertory"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29386",
+        "room_desc": "Piano Skills I"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29387",
+        "room_desc": "Piano Skills II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29388",
+        "room_desc": "Post-Tonal Theory"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29389",
+        "room_desc": "Practical Accompanying"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29390",
+        "room_desc": "Prin Of Instrumnt"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29391",
+        "room_desc": "Principles of Instrumentation"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29392",
+        "room_desc": "Private Lesson Composition III"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29393",
+        "room_desc": "Private Lessons"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29394",
+        "room_desc": "Private Lessons  Composition I"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29395",
+        "room_desc": "Private Lessons Composition II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29396",
+        "room_desc": "Private Lessons VIII"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29397",
+        "room_desc": "Pro Intro Adv Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29398",
+        "room_desc": "Pro-Sem In Style"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29399",
+        "room_desc": "Problems in Jazz History and A"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29400",
+        "room_desc": "Prosem In Analysis"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29401",
+        "room_desc": "Proseminar in Analysis & Style"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29402",
+        "room_desc": "Psychology of Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29403",
+        "room_desc": "Qc Orch"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29404",
+        "room_desc": "Qc Orch Soc"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29405",
+        "room_desc": "Qc Orchest Society"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29406",
+        "room_desc": "Queens College Choral Society"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29407",
+        "room_desc": "Queens College Chorus"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29408",
+        "room_desc": "Recital Attendance"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29409",
+        "room_desc": "Recital Preparation"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29410",
+        "room_desc": "Recording Studio Fundamentals"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29411",
+        "room_desc": "Renaissance"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29412",
+        "room_desc": "Renaissance Band"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29413",
+        "room_desc": "Renaissance Notation"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29414",
+        "room_desc": "Renaissance Performance"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29415",
+        "room_desc": "Research Papers"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29416",
+        "room_desc": "Rud Of Mus"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29417",
+        "room_desc": "Rud Of Music 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29418",
+        "room_desc": "Rudiments"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29419",
+        "room_desc": "Rudiments Of Music II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29420",
+        "room_desc": "Rudiments Of Thry"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29421",
+        "room_desc": "Rudiments of Music 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29422",
+        "room_desc": "Russian Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29423",
+        "room_desc": "Russian-Soviet Mus"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29424",
+        "room_desc": "Schenk Analysis 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29425",
+        "room_desc": "School Instrumental Program"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29426",
+        "room_desc": "Scoring for Orchestra and Band"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29427",
+        "room_desc": "Sem In Research"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29428",
+        "room_desc": "Sem Renais Perf"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29429",
+        "room_desc": "Sem Tchg Music: Secondary"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29430",
+        "room_desc": "Sem in Tchg Music: Elem"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29431",
+        "room_desc": "Seminar Research Music Educ"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29432",
+        "room_desc": "Seminar in Music Theory"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29433",
+        "room_desc": "Seminar in Teaching Music: Ele"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29434",
+        "room_desc": "Seminar in Teaching Music: Sec"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29435",
+        "room_desc": "Seminar in the Teaching of Mus"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29436",
+        "room_desc": "Seminars Performance Practice"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29437",
+        "room_desc": "Senior Project"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29438",
+        "room_desc": "Sight Sing & Ear"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29439",
+        "room_desc": "Sight Singing and Dictation I"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29440",
+        "room_desc": "Sight Singing and Dictation II"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29441",
+        "room_desc": "Sight Singing and Dictation IV"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29442",
+        "room_desc": "Sight Singing/Dict III"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29443",
+        "room_desc": "Special Problems"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29444",
+        "room_desc": "Special Topics Music Education"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29445",
+        "room_desc": "Ss & Dict 1"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29446",
+        "room_desc": "Ss & Dict 2"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29447",
+        "room_desc": "St Lit Mus Ravel"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29448",
+        "room_desc": "Std Lit Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29449",
+        "room_desc": "Stravinsky"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29450",
+        "room_desc": "String Ensemble"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29451",
+        "room_desc": "String Quartet Hist & Perfmnce"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29452",
+        "room_desc": "String Quartets"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29453",
+        "room_desc": "String Repertoire"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29454",
+        "room_desc": "String Repertory"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29455",
+        "room_desc": "Student Teaching in Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29456",
+        "room_desc": "Studies 20C Thry"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29457",
+        "room_desc": "Studies Lit of Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29458",
+        "room_desc": "Symphny From Schbrt To Pres"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29459",
+        "room_desc": "Symphny Up & Incl Bethvn"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29460",
+        "room_desc": "Symphonic Wind Ensemble"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29461",
+        "room_desc": "Tape Stu Comp"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29462",
+        "room_desc": "Teaching of Choral Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29463",
+        "room_desc": "Teaching of Instrumental Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29464",
+        "room_desc": "Th Sem: 19C Sym"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29465",
+        "room_desc": "The American Musical Theatre"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29466",
+        "room_desc": "The Art Song"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29467",
+        "room_desc": "The Art of Keyboard Collab"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29468",
+        "room_desc": "The Concerto"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29469",
+        "room_desc": "The School Choral Program"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29470",
+        "room_desc": "Theory Sem: Theory"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29471",
+        "room_desc": "Theory Survey"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29472",
+        "room_desc": "Theory: Topical Lecture Course"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29473",
+        "room_desc": "Thesis"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29474",
+        "room_desc": "Thesis In Mus Educ"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29475",
+        "room_desc": "Tonal Harmony and Counterpoint"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29476",
+        "room_desc": "Topical Course Applied Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29477",
+        "room_desc": "Topical Course in Performance"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29478",
+        "room_desc": "Topical Crs in Ethnomusicology"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29479",
+        "room_desc": "Topical Workshop in Performanc"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29480",
+        "room_desc": "Topics Chamber Music Research"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29481",
+        "room_desc": "Topics In Music Education"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29482",
+        "room_desc": "Topics in Musicology"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29483",
+        "room_desc": "Topics in Non-Western Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29484",
+        "room_desc": "Topics in the History of Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29485",
+        "room_desc": "Twentieth Century"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29486",
+        "room_desc": "Twentieth-Century Opera"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29487",
+        "room_desc": "Und Composition Tutorial"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29488",
+        "room_desc": "Undergrad Jazz En"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29489",
+        "room_desc": "VT: Music Theo & Musicianship"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29490",
+        "room_desc": "VT: Special Topics"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29491",
+        "room_desc": "VT: Style Criticism"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29492",
+        "room_desc": "VT: Topics in Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29493",
+        "room_desc": "VT:Stdies In Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29494",
+        "room_desc": "Violin Rep"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29495",
+        "room_desc": "Violin: Hist & Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29496",
+        "room_desc": "Vocal Ensemble"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29497",
+        "room_desc": "Vocal Pedagogy"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29498",
+        "room_desc": "Vocal Repertoire"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29499",
+        "room_desc": "Vocal Repertory"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29500",
+        "room_desc": "Vt: History Survey"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29501",
+        "room_desc": "Vt: Srvy Rptry Maj Instr & Vce"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29502",
+        "room_desc": "Vt: Topical Course Music Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29503",
+        "room_desc": "Vt: Tpcl Crse Music Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29504",
+        "room_desc": "Vt:Music Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29505",
+        "room_desc": "Vt:Music Theory & Musicianship"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29506",
+        "room_desc": "Vt:Studies Mus Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29507",
+        "room_desc": "Vt:Studies Music Lit"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29508",
+        "room_desc": "Vt:Theory & M\u2019Ship"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29509",
+        "room_desc": "Wagner"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29510",
+        "room_desc": "Western Music History Survey"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29511",
+        "room_desc": "Wind Ensemble"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29512",
+        "room_desc": "Woodwind Rep"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29513",
+        "room_desc": "Woodwind Repertory"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29514",
+        "room_desc": "Woodwinds"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29515",
+        "room_desc": "Writing Musical Culture"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "29516",
+        "room_desc": "Writing about Music"
+    },
+    {
+        "school": "QNS01",
+        "major": "MUSI",
+        "room_num": "87507",
+        "room_desc": "MUSI"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "school": "BAR01",
+        "major": "MAOM",
+        "room_num": "61134",
+        "room_desc": "Doctoral Maintenance Matriclt"
+    },
+    {
+        "school": "BAR01",
+        "major": "MAOM",
+        "room_num": "61135",
+        "room_desc": "ESL Immersion Progrm"
+    },
+    {
+        "school": "BAR01",
+        "major": "MAOM",
+        "room_num": "61136",
+        "room_desc": "Grad NonRes Maint Matri"
+    },
+    {
+        "school": "BAR01",
+        "major": "MAOM",
+        "room_num": "61137",
+        "room_desc": "Grad Res Maint Matriculation"
+    },
+    {
+        "school": "BAR01",
+        "major": "MAOM",
+        "room_num": "61138",
+        "room_desc": "Maintenance Matriclt"
+    },
+    {
+        "school": "BAR01",
+        "major": "MAOM",
+        "room_num": "86624",
+        "room_desc": "MAOM"
+    }
+]

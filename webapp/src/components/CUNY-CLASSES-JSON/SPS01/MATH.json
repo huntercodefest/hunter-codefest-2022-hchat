@@ -1,0 +1,62 @@
+[
+    {
+        "school": "SPS01",
+        "major": "MATH",
+        "room_num": "80820",
+        "room_desc": "Business Mathematics"
+    },
+    {
+        "school": "SPS01",
+        "major": "MATH",
+        "room_num": "80821",
+        "room_desc": "College Algebra I"
+    },
+    {
+        "school": "SPS01",
+        "major": "MATH",
+        "room_num": "80822",
+        "room_desc": "College Algebra II"
+    },
+    {
+        "school": "SPS01",
+        "major": "MATH",
+        "room_num": "80823",
+        "room_desc": "Discrete Math-Lin Alg"
+    },
+    {
+        "school": "SPS01",
+        "major": "MATH",
+        "room_num": "80824",
+        "room_desc": "Fundamentals of Mathematics"
+    },
+    {
+        "school": "SPS01",
+        "major": "MATH",
+        "room_num": "80825",
+        "room_desc": "Introduction to Statistics"
+    },
+    {
+        "school": "SPS01",
+        "major": "MATH",
+        "room_num": "80826",
+        "room_desc": "Math In Contemp Soc"
+    },
+    {
+        "school": "SPS01",
+        "major": "MATH",
+        "room_num": "80827",
+        "room_desc": "Remedial Mathematics"
+    },
+    {
+        "school": "SPS01",
+        "major": "MATH",
+        "room_num": "80828",
+        "room_desc": "Statistics"
+    },
+    {
+        "school": "SPS01",
+        "major": "MATH",
+        "room_num": "87604",
+        "room_desc": "MATH"
+    }
+]

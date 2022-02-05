@@ -1,0 +1,608 @@
+[
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33787",
+        "room_desc": "Academics On Cmptrs"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33788",
+        "room_desc": "Adv Creative Writng"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33789",
+        "room_desc": "Adv Typ/Wrd Proc"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33790",
+        "room_desc": "Aerobic Dance"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33791",
+        "room_desc": "African Music Apprc"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33792",
+        "room_desc": "Art About Town"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33793",
+        "room_desc": "Auto Repair"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33794",
+        "room_desc": "Auto Repair Lab"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33795",
+        "room_desc": "Basic Gregg Shrthnd"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33796",
+        "room_desc": "Basic Programming 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33797",
+        "room_desc": "Basic Programming 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33798",
+        "room_desc": "Basic Video Prod"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33799",
+        "room_desc": "Basics Sealed Bids"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33800",
+        "room_desc": "Beg Esl"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33801",
+        "room_desc": "Beginning Piano"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33802",
+        "room_desc": "Bookpng & Acct 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33803",
+        "room_desc": "Bookpng & Acct 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33804",
+        "room_desc": "Bookpng & Acctng 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33805",
+        "room_desc": "Brownstone Living"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33806",
+        "room_desc": "Bus Comptr Software"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33807",
+        "room_desc": "Business English"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33808",
+        "room_desc": "Busness Comnctn Skl"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33809",
+        "room_desc": "Calligraphy"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33810",
+        "room_desc": "Ceramic Sculpture"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33811",
+        "room_desc": "Color Photography"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33812",
+        "room_desc": "Conv French 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33813",
+        "room_desc": "Conv French 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33814",
+        "room_desc": "Conv Spanish 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33815",
+        "room_desc": "Conv Spanish 1b"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33816",
+        "room_desc": "Conv Spanish 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33817",
+        "room_desc": "Conv Spanish 3"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33818",
+        "room_desc": "Creative Writing"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33819",
+        "room_desc": "Dance West Africa"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33820",
+        "room_desc": "Drvrs Imprv In Day"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33821",
+        "room_desc": "Emt Training"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33822",
+        "room_desc": "Home Rep & Rhb"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33823",
+        "room_desc": "Improving Reading"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33824",
+        "room_desc": "Improving Writing"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33825",
+        "room_desc": "Imprving Writing 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33826",
+        "room_desc": "Imprving Writing 1b"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33827",
+        "room_desc": "Imprving Writing 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33828",
+        "room_desc": "Intermed Esl"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33829",
+        "room_desc": "Intro Cmputr Prog"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33830",
+        "room_desc": "Intro Computers 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33831",
+        "room_desc": "Intro Computers 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33832",
+        "room_desc": "Intro To Business"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33833",
+        "room_desc": "Intro To Computing"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33834",
+        "room_desc": "Investmnt Selection"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33835",
+        "room_desc": "Law For Laymen"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33836",
+        "room_desc": "Math Impr Us Comp"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33837",
+        "room_desc": "Mathmatics 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33838",
+        "room_desc": "Mathmatics 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33839",
+        "room_desc": "Metalwork & Jewelry"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33840",
+        "room_desc": "Modelling & Casting"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33841",
+        "room_desc": "Modern Jazz Dance"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33842",
+        "room_desc": "Nte Test Preparatn"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33843",
+        "room_desc": "Nurses Aide 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33844",
+        "room_desc": "Oil Painting"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33845",
+        "room_desc": "Ovw Afr/Am Arts"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33846",
+        "room_desc": "Paintng & Watercolr"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33847",
+        "room_desc": "Pastel Drawing"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33848",
+        "room_desc": "Personl Computr Use"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33849",
+        "room_desc": "Photo W/O Darkroom"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33850",
+        "room_desc": "Photo Workshop 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33851",
+        "room_desc": "Photo Workshop 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33852",
+        "room_desc": "Pottery"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33853",
+        "room_desc": "Prep Hs Equiv Exam"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33854",
+        "room_desc": "Prepare Income Tax"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33855",
+        "room_desc": "Pronunciation Skils"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33856",
+        "room_desc": "Pub Speakng For Bus"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33857",
+        "room_desc": "Raising Grants"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33858",
+        "room_desc": "Reading School Subj"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33859",
+        "room_desc": "Real Estate Re-Test"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33860",
+        "room_desc": "Redev/Chang Nghbrhd"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33861",
+        "room_desc": "Revw Fundmntls Engr"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33862",
+        "room_desc": "Rl Est Slsprsn Licn"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33863",
+        "room_desc": "Sat Math Prep"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33864",
+        "room_desc": "Sat Prep"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33865",
+        "room_desc": "Sat Verbal Prep"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33866",
+        "room_desc": "Self Defense"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33867",
+        "room_desc": "Sign Language 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33868",
+        "room_desc": "Sign Language 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33869",
+        "room_desc": "Skiing"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33870",
+        "room_desc": "Small Business Mgmt"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33871",
+        "room_desc": "Small Busness Oprtn"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33872",
+        "room_desc": "Sml Business Entrep"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33873",
+        "room_desc": "Spreadsheets"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33874",
+        "room_desc": "Startng A Resturant"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33875",
+        "room_desc": "Stress Management"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33876",
+        "room_desc": "Swimming 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33877",
+        "room_desc": "Swimming 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33878",
+        "room_desc": "Tennis 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33879",
+        "room_desc": "Total Fitness"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33880",
+        "room_desc": "Travel Agent 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33881",
+        "room_desc": "Typewriting 1"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33882",
+        "room_desc": "Typewriting 2"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33883",
+        "room_desc": "Volleyball"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33884",
+        "room_desc": "Weight Training"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33885",
+        "room_desc": "Word Processing"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "33886",
+        "room_desc": "Wrd Proc Applctns"
+    },
+    {
+        "school": "CTY01",
+        "major": "CMLT",
+        "room_num": "87937",
+        "room_desc": "CMLT"
+    }
+]
